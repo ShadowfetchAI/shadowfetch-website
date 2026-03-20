@@ -214,6 +214,7 @@ function renderAll(modeLabel) {
   renderHomePage();
   renderLatestPage();
   renderSectionsPage();
+  renderSectionDetailPage();
   renderAboutPage();
 }
 
@@ -325,7 +326,7 @@ function renderHomeSectionGrid() {
         <h3>${escapeHtml(sectionConfig.title)}</h3>
         <p>${escapeHtml(sectionConfig.description)}</p>
         <div class="story-list">${storyMarkup}</div>
-        <a class="story-link" href="/sections/#section-${sectionConfig.key}">Open section</a>
+        <a class="story-link" href="/sections/${sectionConfig.key}/">Open section</a>
       </article>
     `;
   }).join("");
@@ -426,9 +427,62 @@ function renderSectionsPage() {
         <div class="story-list">
           ${stories.length ? stories.map((story) => compactStoryMarkup(story)).join("") : '<p class="empty-card">No stories available right now.</p>'}
         </div>
+        <a class="story-link" href="/sections/${sectionConfig.key}/">Open ${escapeHtml(sectionConfig.short_label)} desk</a>
       </article>
     `;
   }).join("");
+}
+
+function renderSectionDetailPage() {
+  const body = document.body;
+  if (!body || body.dataset.page !== "section") {
+    return;
+  }
+
+  const sectionKey = body.dataset.sectionKey;
+  const sectionConfig = appState.feedConfig.sections.find((section) => section.key === sectionKey);
+  const section = findSection(sectionKey);
+
+  const titleNode = document.getElementById("section-detail-title");
+  const descriptionNode = document.getElementById("section-detail-description");
+  const summaryNode = document.getElementById("section-detail-summary");
+  const sourceCountNode = document.getElementById("section-source-count");
+  const storyCountNode = document.getElementById("section-story-count");
+  const leadNode = document.getElementById("section-lead-story");
+  const storiesNode = document.getElementById("section-story-grid");
+  const sourcesNode = document.getElementById("section-source-row");
+
+  if (!sectionConfig || !section || !titleNode || !descriptionNode || !summaryNode || !sourceCountNode || !storyCountNode || !leadNode || !storiesNode || !sourcesNode) {
+    return;
+  }
+
+  titleNode.textContent = sectionConfig.title;
+  descriptionNode.textContent = sectionConfig.description;
+  summaryNode.textContent = `This desk currently tracks ${section.stories.length} prepared stories from ${section.successful_sources}/${section.total_sources} active sources.`;
+  sourceCountNode.textContent = String(sectionConfig.sources.length);
+  storyCountNode.textContent = String(section.stories.length);
+
+  const [lead, ...rest] = section.stories;
+  leadNode.innerHTML = lead
+    ? `
+      <a class="featured-main section-lead-card" href="${lead.link}" target="_blank" rel="noreferrer noopener">
+        ${storyMetaMarkup(lead)}
+        <h2>${escapeHtml(lead.title)}</h2>
+        <p>${escapeHtml(lead.summary)}</p>
+        <span class="story-link">Read the full source</span>
+      </a>
+    `
+    : '<p class="empty-card">No lead story is available for this section right now.</p>';
+
+  storiesNode.innerHTML = rest.length
+    ? rest.map((story) => storyCardMarkup(story)).join("")
+    : '<p class="empty-card">More section stories will appear here when the feed refreshes.</p>';
+
+  sourcesNode.innerHTML = sectionConfig.sources.map((source) => `
+    <a class="source-chip" href="${safeUrl(source.homepage || source.url)}" target="_blank" rel="noreferrer noopener">
+      ${escapeHtml(source.name)}
+    </a>
+  `).join("");
 }
 
 function renderAboutPage() {

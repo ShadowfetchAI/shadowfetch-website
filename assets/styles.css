@@ -488,7 +488,9 @@ select {
 .value-grid,
 .about-grid,
 .section-directory,
-.source-wall {
+.source-wall,
+.section-detail-grid,
+.section-kpi-grid {
   display: grid;
   gap: 1rem;
 }
@@ -532,6 +534,43 @@ select {
 .story-grid-latest,
 .story-grid-archive {
   grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.section-kpi-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 1rem;
+}
+
+.section-kpi {
+  padding: 1rem 1.05rem;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.section-kpi strong {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--accent);
+  font-size: 1.1rem;
+}
+
+.section-detail-shell {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.75fr);
+  gap: 1rem;
+}
+
+.section-detail-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.section-sidebar {
+  height: fit-content;
+}
+
+.section-lead-card {
+  display: block;
 }
 
 .story-card {
@@ -691,7 +730,10 @@ select {
   .section-directory,
   .source-wall,
   .story-grid-latest,
-  .story-grid-archive {
+  .story-grid-archive,
+  .section-detail-shell,
+  .section-detail-grid,
+  .section-kpi-grid {
     grid-template-columns: 1fr;
   }
 

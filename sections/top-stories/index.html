@@ -3,26 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Late Breaking | ShadowFetch News</title>
+  <title>Top Stories | ShadowFetch News</title>
   <meta
     name="description"
-    content="The late-breaking archive from ShadowFetch News, with filtered headline streams across top stories, world, U.S. politics, business, technology, science, security, health, sports, and entertainment."
+    content="Top Stories on ShadowFetch News. Fast-moving general headlines from high-frequency news feeds."
   >
   <meta name="theme-color" content="#071019">
-  <link rel="canonical" href="https://shadowfetch.com/latest/">
-  <meta property="og:title" content="Late Breaking | ShadowFetch News">
+  <link rel="canonical" href="https://shadowfetch.com/sections/top-stories/">
+  <meta property="og:title" content="Top Stories | ShadowFetch News">
   <meta
     property="og:description"
-    content="The late-breaking archive from ShadowFetch News, with filtered headline streams across top stories, world, U.S. politics, business, technology, science, security, health, sports, and entertainment."
+    content="Top Stories on ShadowFetch News. Fast-moving general headlines from high-frequency news feeds."
   >
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="ShadowFetch News">
-  <meta property="og:url" content="https://shadowfetch.com/latest/">
+  <meta property="og:url" content="https://shadowfetch.com/sections/top-stories/">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Late Breaking | ShadowFetch News">
+  <meta name="twitter:title" content="Top Stories | ShadowFetch News">
   <meta
     name="twitter:description"
-    content="The late-breaking archive from ShadowFetch News, with filtered headline streams across top stories, world, U.S. politics, business, technology, science, security, health, sports, and entertainment."
+    content="Top Stories on ShadowFetch News. Fast-moving general headlines from high-frequency news feeds."
   >
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -33,7 +33,7 @@
   <link rel="icon" href="/assets/shadowfetch-mark.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/assets/styles.css">
 </head>
-<body data-page="latest">
+<body data-page="section" data-section-key="top-stories">
   <div class="page-orb orb-left" aria-hidden="true"></div>
   <div class="page-orb orb-right" aria-hidden="true"></div>
 
@@ -67,8 +67,8 @@
 
         <nav class="site-nav" aria-label="Primary">
           <a href="/">Front Page</a>
-          <a href="/latest/" aria-current="page">Late Breaking</a>
-          <a href="/sections/">Sections</a>
+          <a href="/latest/">Late Breaking</a>
+          <a href="/sections/" aria-current="page">Sections</a>
           <a href="/about/">About</a>
         </nav>
       </div>
@@ -89,21 +89,54 @@
   <main>
     <section class="container hero hero-compact">
       <div class="hero-copy">
-        <p class="eyebrow">Live archive</p>
-        <h1>Late-breaking stories, filtered by beat.</h1>
-        <p class="hero-text">
-          This page is the high-speed archive view. When readers want a denser stream than the front
-          page offers, this is where they should land.
-        </p>
+        <p class="eyebrow">Section Desk</p>
+        <h1 id="section-detail-title">Top Stories</h1>
+        <p class="hero-text" id="section-detail-description">Fast-moving general headlines from high-frequency news feeds.</p>
+        <p class="toolbar-summary" id="section-detail-summary">Preparing this desk...</p>
+
+        <div class="section-kpi-grid">
+          <article class="section-kpi">
+            <span class="stat-label">Sources</span>
+            <strong id="section-source-count">--</strong>
+          </article>
+          <article class="section-kpi">
+            <span class="stat-label">Stories</span>
+            <strong id="section-story-count">--</strong>
+          </article>
+        </div>
       </div>
     </section>
 
     <section class="container page-section">
-      <div class="toolbar" id="archive-filter-toolbar" aria-label="Archive filters"></div>
-      <p class="toolbar-summary" id="archive-summary">Preparing the headline archive...</p>
+      <div class="section-detail-shell">
+        <div id="section-lead-story">
+          <p class="loading-card">Loading the section lead...</p>
+        </div>
 
-      <div class="story-grid story-grid-archive" id="archive-grid">
-        <p class="loading-card">Loading the archive...</p>
+        <aside class="panel section-sidebar">
+          <p class="panel-label">Source Wall</p>
+          <h2>Feeds powering this desk</h2>
+          <p>The source mix below is specific to this section so readers can quickly understand where the briefing comes from.</p>
+          <div class="source-row" id="section-source-row">
+            <p class="loading-card">Loading sources...</p>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">More From This Desk</p>
+          <h2>Recent stories in Top Stories</h2>
+        </div>
+        <p class="section-copy">
+          This page is meant to be the cleanest way to follow a single beat without getting lost in the broader front page mix.
+        </p>
+      </div>
+
+      <div class="section-detail-grid" id="section-story-grid">
+        <p class="loading-card">Loading section stories...</p>
       </div>
     </section>
   </main>
@@ -112,12 +145,12 @@
     <div class="container footer-wrap">
       <div>
         <p class="footer-title">ShadowFetch News</p>
-        <p class="footer-copy">The late-breaking page is designed for quick repeat visits and broad scanning.</p>
+        <p class="footer-copy">A multi-page static newsroom with dedicated section desks and prepared feed snapshots.</p>
       </div>
       <div class="footer-links">
         <a href="/">Front Page</a>
+        <a href="/latest/">Late Breaking</a>
         <a href="/sections/">Sections</a>
-        <a href="/about/">About</a>
       </div>
     </div>
   </footer>

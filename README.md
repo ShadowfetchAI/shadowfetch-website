@@ -8,12 +8,14 @@ front page, a live archive, a section directory, and a top-of-page visitor count
 - `index.html` is the front page.
 - `latest/index.html` is the denser late-breaking archive view.
 - `sections/index.html` is the topic and source directory.
+- `sections/<section-key>/index.html` pages are generated desk pages for each section.
 - `about/index.html` explains the project and follow links.
 - `assets/styles.css` contains the shared visual system.
 - `assets/app.js` contains the social links, visitor counter logic, and page rendering.
 - `assets/data/feed-config.json` defines the section list and source feeds.
 - `assets/data/feed.json` is the generated snapshot consumed by the site.
 - `scripts/build_feed.py` fetches the configured feeds and prepares the JSON snapshot.
+- `scripts/build_pages.py` generates the section desk pages, `sitemap.xml`, and `robots.txt`.
 
 ## Visitor counter
 
@@ -31,15 +33,17 @@ Edit the `siteConfig.social` object in `assets/app.js`.
 
 ```bash
 python3 scripts/build_feed.py
+python3 scripts/build_pages.py
 ```
 
-That writes a fresh `assets/data/feed.json` file.
+That writes a fresh `assets/data/feed.json`, generates the section desk pages, and refreshes the sitemap files.
 
 ## GitHub Pages note
 
 GitHub Pages cannot run a backend, so this repo uses a stronger static-news pattern:
 
 - GitHub Actions generates feed data before deployment and on a schedule.
+- GitHub Actions also generates the section desk pages and sitemap files.
 - The deployed site reads the prepared snapshot first.
 - If the snapshot is missing, the browser can still fall back to live feed fetching.
 
@@ -53,6 +57,5 @@ The source mix leans on:
 
 ## Next upgrades
 
-- add dedicated category pages and archives per section
 - publish original roundups and editor notes
 - add newsletter and search once the content layer grows

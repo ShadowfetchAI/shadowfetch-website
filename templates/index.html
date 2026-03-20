@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ShadowFetch News | Late-Breaking Headlines Across Every Beat</title>
+  <meta
+    name="description"
+    content="ShadowFetch News is a fast, multi-page breaking-news front page covering top stories, world, U.S. politics, business, technology, science, security, health, sports, and entertainment."
+  >
+  <meta name="theme-color" content="#071019">
+  <link rel="canonical" href="https://shadowfetch.com/">
+  <meta property="og:title" content="ShadowFetch News">
+  <meta
+    property="og:description"
+    content="A late-breaking static newsroom built on GitHub Pages, tuned for speed, breadth, and source-first links."
+  >
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="ShadowFetch News">
+  <meta property="og:url" content="https://shadowfetch.com/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="ShadowFetch News">
+  <meta
+    name="twitter:description"
+    content="A late-breaking static newsroom built on GitHub Pages, tuned for speed, breadth, and source-first links."
+  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;700&display=swap"
+    rel="stylesheet"
+  >
+  <link rel="icon" href="/assets/shadowfetch-mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsMediaOrganization",
+      "name": "ShadowFetch News",
+      "url": "https://shadowfetch.com",
+      "sameAs": [
+        "https://x.com/MrBobCorbin",
+        "https://bsky.app/profile/mrbobcorbin.bsky.social"
+      ]
+    }
+  </script>
+</head>
+<body data-page="home">
+  <div class="page-orb orb-left" aria-hidden="true"></div>
+  <div class="page-orb orb-right" aria-hidden="true"></div>
+
+  <header class="site-chrome">
+    <div class="utility-bar">
+      <div class="container utility-wrap">
+        <div class="utility-pill">
+          <span class="utility-label">Visitor Counter</span>
+          <strong data-visit-count>__VISITOR_COUNT__</strong>
+        </div>
+        <div class="utility-pill utility-status">
+          <span class="utility-label">Snapshot</span>
+          <strong data-generated-at>__GENERATED_AT__</strong>
+        </div>
+        <div class="utility-links">
+          <a class="utility-link" data-social-link="x" href="https://x.com/MrBobCorbin" target="_blank" rel="noreferrer noopener">X / Twitter</a>
+          <a class="utility-link" data-social-link="bluesky" href="https://bsky.app/profile/mrbobcorbin.bsky.social" target="_blank" rel="noreferrer noopener">Bluesky</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="masthead">
+      <div class="container masthead-wrap">
+        <a class="brand" href="/" aria-label="ShadowFetch News home">
+          <img src="/assets/shadowfetch-mark.svg" alt="" width="42" height="42">
+          <span>
+            <strong>ShadowFetch News</strong>
+            <small>Late-breaking headlines across every beat</small>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="/">Front Page</a>
+          <a href="/latest/">Late Breaking</a>
+          <a href="/sections/">Sections</a>
+          <a href="/about/">About</a>
+        </nav>
+      </div>
+    </div>
+
+    <div class="ticker-bar">
+      <div class="container ticker-wrap">
+        <span class="ticker-label">Late Breaking</span>
+        <div class="ticker-window" aria-live="polite">
+          <div class="ticker-track" id="breaking-ticker-track">
+            __BREAKING_TICKER__
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="container hero hero-home">
+      <div class="hero-copy">
+        <p class="eyebrow">Fast pages. Broad coverage. Source-first links.</p>
+        <h1>One static newsroom for the stories moving the internet right now.</h1>
+        <p class="hero-text">
+          ShadowFetch News is built to feel immediate without becoming messy: breaking headlines,
+          wide topic coverage, and a cleaner path from aggregation into a more serious publication.
+        </p>
+
+        <div class="hero-actions">
+          <a class="button button-primary" href="/latest/">Open the live wire</a>
+          <a class="button button-secondary" href="/sections/">Explore all sections</a>
+        </div>
+
+        <div class="hero-stats" id="hero-stats">
+          <article>
+            <span class="stat-label">Sections</span>
+            <strong id="hero-section-count">__SECTION_COUNT__</strong>
+          </article>
+          <article>
+            <span class="stat-label">Sources</span>
+            <strong id="hero-source-count">__SOURCE_COUNT__</strong>
+          </article>
+          <article>
+            <span class="stat-label">Refresh</span>
+            <strong>Every 30 min</strong>
+          </article>
+        </div>
+      </div>
+
+      <aside class="hero-note panel">
+        <p class="panel-label">Built For GitHub Pages</p>
+        <h2>Prepared feed snapshots keep it fast, while the fallback layer keeps it resilient.</h2>
+        <p>
+          The site prefers feed data generated during deployment, then falls back to live browser-time
+          fetching if a snapshot is missing. That keeps the front page feeling much more dependable.
+        </p>
+      </aside>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Front Page</p>
+          <h2>The lead stories shaping the day</h2>
+        </div>
+        <p class="section-copy">
+          The front-page package pulls the freshest stories across every beat and gives them a layout
+          that feels more like a publication than a stack of links.
+        </p>
+      </div>
+
+      <div class="featured-grid" id="featured-grid">
+        __FEATURED_GRID__
+      </div>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Coverage Map</p>
+          <h2>All the beats in one pass</h2>
+        </div>
+        <p class="section-copy">
+          Each card is built from prepared feed data so readers can scan broad coverage quickly and
+          jump straight into the area they care about.
+        </p>
+      </div>
+
+      <div class="coverage-grid" id="home-section-grid">
+        __HOME_SECTION_GRID__
+      </div>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Late Breaking</p>
+          <h2>The live wire</h2>
+        </div>
+        <p class="section-copy">
+          This is the quick-scan stream for repeat visitors. Filter it by beat or jump into the
+          dedicated latest page for a fuller archive.
+        </p>
+      </div>
+
+      <div class="toolbar" id="home-filter-toolbar" aria-label="Latest headline filters">__HOME_FILTER_TOOLBAR__</div>
+      <p class="toolbar-summary" id="home-latest-summary">__HOME_LATEST_SUMMARY__</p>
+
+      <div class="story-grid story-grid-latest" id="home-latest-grid">
+        __HOME_LATEST_GRID__
+      </div>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">What Makes It Strong</p>
+          <h2>A broad static site can still feel alive</h2>
+        </div>
+      </div>
+
+      <div class="value-grid">
+        <article class="value-card panel">
+          <p class="value-number">01</p>
+          <h3>Visitor-friendly top strip</h3>
+          <p>Your counter and social links sit at the very top, so the site feels inhabited and easy to follow.</p>
+        </article>
+
+        <article class="value-card panel">
+          <p class="value-number">02</p>
+          <h3>Reliable feed mix</h3>
+          <p>The source list leans on official feeds and long-running publisher feeds that are less likely to vanish without warning.</p>
+        </article>
+
+        <article class="value-card panel">
+          <p class="value-number">03</p>
+          <h3>Ready for more pages</h3>
+          <p>The same feed layer now powers the front page, the latest archive, and the section directory.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <div>
+        <p class="footer-title">ShadowFetch News</p>
+        <p class="footer-copy">A static newsroom on GitHub Pages with prepared feed data, broad coverage, and source-first links.</p>
+      </div>
+      <div class="footer-links">
+        <a href="/latest/">Latest</a>
+        <a href="/sections/">Sections</a>
+        <a href="/about/">About</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/assets/app.js"></script>
+</body>
+</html>

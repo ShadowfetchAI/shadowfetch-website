@@ -25,11 +25,25 @@ const appState = {
   }
 };
 
-document.addEventListener("DOMContentLoaded", () => {
-  applySocialLinks();
-  initializeVisitorCounter();
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", bootSite);
+} else {
+  bootSite();
+}
+
+function bootSite() {
+  try {
+    applySocialLinks();
+  } catch {
+    // Keep the static fallback links if enhancement fails.
+  }
+
+  initializeVisitorCounter().catch(() => {
+    setVisitCount("Unavailable");
+  });
+
   initializeSite().catch(handleFeedFailure);
-});
+}
 
 function applySocialLinks() {
   document.querySelectorAll("[data-social-link]").forEach((node) => {
@@ -62,19 +76,22 @@ async function initializeVisitorCounter() {
   const namespace = "shadowfetch-news";
   const counterName = "site-visits";
   const sessionKey = "shadowfetch_site_visit_counted";
-  const hasCounted = window.sessionStorage.getItem(sessionKey) === "1";
+  const hasCounted = readSessionValue(sessionKey) === "1";
   const endpoint = hasCounted
     ? `https://api.counterapi.dev/v1/${namespace}/${counterName}/`
     : `https://api.counterapi.dev/v1/${namespace}/${counterName}/up`;
 
   try {
-    const response = await fetch(endpoint, { cache: "no-store" });
+    let response = await fetch(endpoint, { cache: "no-store" });
+    if (!response.ok && hasCounted) {
+      response = await fetch(`https://api.counterapi.dev/v1/${namespace}/${counterName}/up`, { cache: "no-store" });
+    }
     if (!response.ok) {
       throw new Error("Counter request failed");
     }
 
     const payload = await response.json();
-    window.sessionStorage.setItem(sessionKey, "1");
+    writeSessionValue(sessionKey, "1");
     setVisitCount(formatInteger(payload.value));
   } catch {
     setVisitCount("Unavailable");
@@ -566,27 +583,15 @@ function storyMetaMarkup(story) {
 
 function handleFeedFailure() {
   document.querySelectorAll("[data-generated-at]").forEach((node) => {
-    node.textContent = "Feed sync unavailable";
+    if (!node.textContent.trim()) {
+      node.textContent = "Feed sync unavailable";
+    }
   });
 
   const track = document.getElementById("breaking-ticker-track");
-  if (track) {
+  if (track && !track.querySelector(".ticker-item")) {
     track.innerHTML = '<span class="ticker-placeholder">Breaking headlines are temporarily unavailable.</span>';
   }
-
-  [
-    "featured-grid",
-    "home-section-grid",
-    "home-latest-grid",
-    "archive-grid",
-    "section-directory",
-    "source-wall"
-  ].forEach((id) => {
-    const node = document.getElementById(id);
-    if (node) {
-      node.innerHTML = '<p class="empty-card">The feed layer could not load this time. Refresh in a moment.</p>';
-    }
-  });
 
   [
     "home-latest-summary",
@@ -594,7 +599,7 @@ function handleFeedFailure() {
     "source-summary"
   ].forEach((id) => {
     const node = document.getElementById(id);
-    if (node) {
+    if (node && !node.textContent.trim()) {
       node.textContent = "Feed data is temporarily unavailable.";
     }
   });
@@ -678,6 +683,22 @@ function readableUrl(url) {
   return url.replace(/^https?:\/\//, "");
 }
 
+function readSessionValue(key) {
+  try {
+    return window.sessionStorage.getItem(key);
+  } catch {
+    return null;
+  }
+}
+
+function writeSessionValue(key, value) {
+  try {
+    window.sessionStorage.setItem(key, value);
+  } catch {
+    // Ignore storage failures and keep the in-memory page working.
+  }
+}
+
 function safeUrl(url) {
   try {
     const parsed = new URL(url);
@@ -689,9 +710,9 @@ function safeUrl(url) {
 
 function escapeHtml(value) {
   return String(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;");
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 }

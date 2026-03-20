@@ -8,6 +8,10 @@ const siteConfig = {
     bluesky: {
       label: "Bluesky",
       url: "https://bsky.app/profile/mrbobcorbin.bsky.social"
+    },
+    kalshi: {
+      label: "Kalshi",
+      url: "https://kalshi.com/sign-up/?referral=6ca54e6d-a516-4918-bc0a-829b18f99f70"
     }
   }
 };

@@ -32,6 +32,7 @@ ROBOTS_PATH = ROOT / "robots.txt"
 COUNTER_URL = "https://api.counterapi.dev/v1/shadowfetch-news/site-visits/"
 SOCIAL_X_URL = "https://x.com/MrBobCorbin"
 SOCIAL_BLUESKY_URL = "https://bsky.app/profile/mrbobcorbin.bsky.social"
+SOCIAL_KALSHI_URL = "https://kalshi.com/sign-up/?referral=6ca54e6d-a516-4918-bc0a-829b18f99f70"
 
 
 def main() -> None:
@@ -296,6 +297,7 @@ def section_page_markup(section_config: dict, section_payload: dict, context: di
         <div class="utility-links">
           <a class="utility-link" data-social-link="x" href="{SOCIAL_X_URL}" target="_blank" rel="noreferrer noopener">X / Twitter</a>
           <a class="utility-link" data-social-link="bluesky" href="{SOCIAL_BLUESKY_URL}" target="_blank" rel="noreferrer noopener">Bluesky</a>
+          <a class="utility-link" data-social-link="kalshi" href="{SOCIAL_KALSHI_URL}" target="_blank" rel="noreferrer noopener">Kalshi</a>
         </div>
       </div>
     </div>

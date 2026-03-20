@@ -1,63 +1,324 @@
 {
-  "generated_at": "2026-03-20T14:34:26.061569Z",
-  "successful_sources": 25,
-  "total_sources": 25,
+  "generated_at": "2026-03-20T15:36:39.106093Z",
+  "successful_sources": 37,
+  "total_sources": 37,
   "featured": [
     {
-      "title": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets",
-      "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
-      "summary": "U.S. warplanes and attack helicopters are hitting Iranian targets in an effort to reopen the Strait of Hormuz, officials said. The price of oil remained high as new strikes hit...",
-      "source": "New York Times World",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-20T14:26:20Z"
-    },
-    {
-      "title": "Martial artist and actor Chuck Norris dies aged 86",
-      "link": "https://www.bbc.com/news/articles/c0le8e5jg1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US martial artist and actor was known for his role in the crime series Walker, Texas Ranger.",
-      "source": "BBC Entertainment",
-      "section": "Entertainment",
-      "section_key": "entertainment",
-      "timestamp": "2026-03-20T14:25:09Z"
-    },
-    {
-      "title": "Trump Sues Harvard Over Accusations of Antisemitism",
-      "link": "https://www.nytimes.com/2026/03/20/us/trump-harvard-antisemitism-suit.html",
-      "summary": "The administration had spent months investigating the Ivy League school. The two sides had been in talks to negotiate a settlement.",
+      "title": "Chuck Norris, Crowd-Pleasing Star of Action Movies and TV, Dies at 86",
+      "link": "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html",
+      "summary": "He channeled his martial arts skills into heroic roles in films like \u201cThe Delta Force\u201d and \u201cMissing in Action\u201d and in the long-running television series \u201cWalker, Texas Ranger.\u201d",
       "source": "New York Times Home",
       "section": "Top Stories",
       "section_key": "top-stories",
-      "timestamp": "2026-03-20T14:21:59Z"
+      "timestamp": "2026-03-20T15:31:48Z"
+    },
+    {
+      "title": "Hungary's Orb\u00e1n accused of disloyalty and blackmail over Ukraine loan veto",
+      "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
+      "source": "BBC World",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-20T15:34:19Z"
+    },
+    {
+      "title": "Border security chief steps down after 18 months in the job",
+      "link": "https://www.bbc.com/news/articles/cx2dn1x9l3jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Martin Hewitt had been tasked with cutting the numbers trying to get to the UK in small boats.",
+      "source": "BBC Politics",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-20T15:32:09Z"
     }
   ],
   "latest": [
     {
+      "title": "Georgia Tech names ex-Troy coach Cross as HC",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48257038/sources-georgia-tech-closing-troy-scott-cross-coach",
+      "summary": "Georgia Tech has named former Troy coach Scott Cross as the school's next men's basketball head coach, it was announced Friday.",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:34:09Z"
+    },
+    {
+      "title": "Dual MVP gold Judge, Ohtani card sells for $2.16M",
+      "link": "https://www.espn.com/mlb/story/_/id/48258542/dual-mvp-gold-logoman-judge-ohtani-card-sells-216m",
+      "summary": "The 2025 Topps Chrome dual MVP gold Logoman card featuring game-worn patches taken from Aaron Judge and Shohei Ohtani jerseys -- numbered 1-of-1 and signed on-card by the reigni...",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:34:09Z"
+    },
+    {
+      "title": "NYU's 91-game win streak ends in D-III Final Four",
+      "link": "https://www.espn.com/womens-college-basketball/story/_/id/48255219/nyu-women-91-game-win-streak-ends-division-iii-final-four",
+      "summary": "Two-time defending champion NYU lost 60-52 to Scranton in the Final Four of the Division III NCAA tournament on Thursday night, ending the Violets' 91-game winning streak.",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:34:09Z"
+    },
+    {
+      "title": "Luka drops 60, gets MVP chants from Heat crowd",
+      "link": "https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8",
+      "summary": "Luka Doncic scored 60 points, the first Laker to do so since Kobe Bryant's career finale in 2016, as L.A. won in Miami to push its season-best win streak to eight games.",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:34:08Z"
+    },
+    {
+      "title": "UNC's Davis: Fatigue not to blame for collapse",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48255008/unc-hubert-davis-defends-decisions-latest-early-exit",
+      "summary": "In a series of terse exchanges with reporters after VCU's 82-78 OT win, North Carolina coach Hubert Davis said he didn't think his team was tired and said it was \"my decision\" w...",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:34:08Z"
+    },
+    {
+      "title": "Wemby's game winner puts Spurs back in playoffs",
+      "link": "https://www.espn.com/nba/story/_/id/48256013/spurs-end-6-year-playoff-drought-wembanyama-game-winner",
+      "summary": "Victor Wembanyama nailed a go-ahead 17-foot fadeaway with 1.1 seconds left Thursday night, and the Spurs clinched a postseason berth for the first time in six seasons.",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:34:08Z"
+    },
+    {
+      "title": "Rodman to be inducted in WWE HOF, sources say",
+      "link": "https://www.espn.com/nba/story/_/id/48257957/sources-dennis-rodman-inducted-wwe-hall-fame",
+      "summary": "Basketball Hall of Famer Dennis Rodman will be inducted into the WWE Hall of Fame for his time in WCW during the Monday night wars, sources told ESPN's Shams Charania.",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:34:08Z"
+    },
+    {
+      "title": "Sources: NFL to vote on Raiders succession plan",
+      "link": "https://www.espn.com/nfl/story/_/id/48252529/nfl-owners-set-vote-raiders-succession-plan",
+      "summary": "NFL owners are scheduled to vote on a Raiders succession plan that gives Silver Lake co-chief executive officer Egon Durban the option to purchase a majority stake in the team f...",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:34:08Z"
+    },
+    {
+      "title": "\ud83c\udfc0 Women's tournament: Bracket breakdown",
+      "link": "https://www.espn.com/womens-college-basketball/story/_/id/48239610/womens-march-madness-2026-final-four-national-championship-predictions",
+      "summary": "ESPN talent cast their votes for which foursome will reach the Final Four. Will Phoenix be full of chalk?",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:34:08Z"
+    },
+    {
+      "title": "Your guide to men's March Madness Day 1: Recaps, every winner's chance to advance, more",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48248690/march-madness-live-tracker-updates-ncaa-tournament-first-round-thursday-2026",
+      "summary": "Our reporters detail how each game was won Thursday and look ahead to the matchups created for Saturday.",
+      "source": "ESPN Headlines",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-20T16:00:26Z"
+    },
+    {
+      "title": "Google\u2019s battery-powered Nest Doorbell is $40 off right now",
+      "link": "https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal",
+      "summary": "Buying a video doorbell is worth it for several reasons. They\u2019re convenient if you get a lot of deliveries or visitors, as they let you glance at a phone alert to decide whether...",
+      "source": "The Verge",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-20T15:35:15Z"
+    },
+    {
+      "title": "Hungary's Orb\u00e1n accused of disloyalty and blackmail over Ukraine loan veto",
+      "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
+      "source": "BBC World",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-20T15:34:19Z"
+    },
+    {
+      "title": "Border security chief steps down after 18 months in the job",
+      "link": "https://www.bbc.com/news/articles/cx2dn1x9l3jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Martin Hewitt had been tasked with cutting the numbers trying to get to the UK in small boats.",
+      "source": "BBC Politics",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-20T15:32:09Z"
+    },
+    {
+      "title": "Chuck Norris, Crowd-Pleasing Star of Action Movies and TV, Dies at 86",
+      "link": "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html",
+      "summary": "He channeled his martial arts skills into heroic roles in films like \u201cThe Delta Force\u201d and \u201cMissing in Action\u201d and in the long-running television series \u201cWalker, Texas Ranger.\u201d",
+      "source": "New York Times Home",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-20T15:31:48Z"
+    },
+    {
+      "title": "Publisher cancels horror novel's release over AI claims",
+      "link": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
+      "summary": "Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl.",
+      "source": "BBC Entertainment",
+      "section": "Entertainment",
+      "section_key": "entertainment",
+      "timestamp": "2026-03-20T15:30:58Z"
+    },
+    {
+      "title": "Trump Administration Sues Harvard Over Accusations of Antisemitism",
+      "link": "https://www.nytimes.com/2026/03/20/us/trump-harvard-antisemitism-suit.html",
+      "summary": "The administration had spent months investigating the Ivy League school. The two sides had been in talks to negotiate a settlement.",
+      "source": "New York Times Home",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-20T15:30:53Z"
+    },
+    {
+      "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
+      "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
+      "source": "BBC News",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-20T15:30:28Z"
+    },
+    {
+      "title": "Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods",
+      "link": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
+      "summary": "A review of the betting market\u2019s social media feeds found it has published hundreds of false and misleading posts.",
+      "source": "New York Times Technology",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-20T15:29:52Z"
+    },
+    {
       "title": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets",
       "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
       "summary": "U.S. warplanes and attack helicopters are hitting Iranian targets in an effort to reopen the Strait of Hormuz, officials said. The price of oil remained high as new strikes hit...",
       "source": "New York Times World",
       "section": "World",
       "section_key": "world",
-      "timestamp": "2026-03-20T14:26:20Z"
+      "timestamp": "2026-03-20T15:28:32Z"
+    },
+    {
+      "title": "Pregnant in ICE Detention: Handcuffs and Pleas for Medical Care",
+      "link": "https://www.nytimes.com/2026/03/20/us/politics/pregnant-women-ice-detention.html",
+      "summary": "Women describe conditions that violate longstanding agency guidelines for how pregnant detainees should be treated.",
+      "source": "New York Times Home",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-20T15:28:18Z"
     },
     {
       "title": "Martial artist and actor Chuck Norris dies aged 86",
       "link": "https://www.bbc.com/news/articles/c0le8e5jg1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US martial artist and actor was known for his role in the crime series Walker, Texas Ranger.",
+      "summary": "The US martial artist and actor was known for his roles in Walker, Texas Ranger and Way of the Dragon.",
       "source": "BBC Entertainment",
       "section": "Entertainment",
       "section_key": "entertainment",
-      "timestamp": "2026-03-20T14:25:09Z"
+      "timestamp": "2026-03-20T15:20:36Z"
     },
     {
-      "title": "Trump Sues Harvard Over Accusations of Antisemitism",
-      "link": "https://www.nytimes.com/2026/03/20/us/trump-harvard-antisemitism-suit.html",
-      "summary": "The administration had spent months investigating the Ivy League school. The two sides had been in talks to negotiate a settlement.",
+      "title": "Trump-backed television merger moves forward",
+      "link": "https://www.bbc.com/news/articles/cx2dndp7z12o?at_medium=RSS&at_campaign=rss",
+      "summary": "Critics fear the consolidation will add to strains facing local news and degrade coverage.",
+      "source": "BBC Business",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-20T15:19:29Z"
+    },
+    {
+      "title": "On a Holiday of Renewal, Iranians Are Mourning and Fearful",
+      "link": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
+      "summary": "As they start a new year, Iranians are reckoning with bombardment, repression and economic misery. Still, many are holding fast to ancient traditions.",
+      "source": "New York Times World",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-20T15:16:57Z"
+    },
+    {
+      "title": "CBS News Cuts 6% of Staff as Bari Weiss Reshapes the Division",
+      "link": "https://www.nytimes.com/2026/03/20/business/media/cbs-news-bari-weiss-layoffs.html",
+      "summary": "The layoffs affected several dozen employees at the news division, which is owned by the technology heir David Ellison.",
+      "source": "New York Times Business",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-20T15:15:19Z"
+    },
+    {
+      "title": "MP raises question in Parliament over fish deaths",
+      "link": "https://www.bbc.com/news/articles/c79jwzq5zy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Barclay asks why there has been no prosecution after about 900 fish died in Whittlesey.",
+      "source": "BBC Science & Environment",
+      "section": "Climate & Environment",
+      "section_key": "climate-environment",
+      "timestamp": "2026-03-20T15:14:07Z"
+    },
+    {
+      "title": "Trump Friend Asked ICE to Detain the Mother of His Child",
+      "link": "https://www.nytimes.com/2026/03/20/us/paolo-zampolli-ice-melania-trump-epstein.html",
+      "summary": "Paolo Zampolli, a former modeling agent and a longtime Trump ally, was in a custody battle over his son. An ICE official agreed to help.",
       "source": "New York Times Home",
       "section": "Top Stories",
       "section_key": "top-stories",
-      "timestamp": "2026-03-20T14:21:59Z"
+      "timestamp": "2026-03-20T15:10:41Z"
+    },
+    {
+      "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in Cisco Secure Firewall Mana...",
+      "source": "BleepingComputer",
+      "section": "Security & Privacy",
+      "section_key": "security-privacy",
+      "timestamp": "2026-03-20T15:09:12Z"
+    },
+    {
+      "title": "Civil case against Gerry Adams over IRA bombings withdrawn",
+      "link": "https://www.bbc.com/news/articles/cyv1p930gq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A lawyer for the claimants said on Friday that proceedings would be \"discontinued\".",
+      "source": "BBC News",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-20T15:08:19Z"
+    },
+    {
+      "title": "Work from home and drive more slowly to save energy, global body urges",
+      "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
+      "summary": "People should change how they travel, work and cook to tackle the energy price crisis, the International Energy Agency says.",
+      "source": "BBC News",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-20T15:05:03Z"
+    },
+    {
+      "title": "Deferring to Trump, G.O.P. Lawmakers Resist a Public Accounting on Iran",
+      "link": "https://www.nytimes.com/2026/03/20/us/politics/congress-iran-trump.html",
+      "summary": "Nearly three weeks into a war that polls show is unpopular, top Republicans have yet to call administration officials to testify about it, arguing that hearings would put divisi...",
+      "source": "New York Times Home",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-20T15:04:02Z"
+    },
+    {
+      "title": "The Artist Pro 27 is XP-Pen\u2019s latest 4K flagship display tablet",
+      "link": "https://www.theverge.com/tech/897947/xppen-artist-pro-27-drawing-display-tablet-launch-price",
+      "summary": "XP-Pen has launched a new 27-inch display drawing tablet that competes with the visual performance of Wacom's beloved Cintiq Pro series, but for a fraction of the cost. The Arti...",
+      "source": "The Verge",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-20T15:00:03Z"
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Ally Bank and former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Ally Bank and former employee of Regions Bank",
+      "source": "Federal Reserve Press Releases",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-20T15:00:00Z"
     },
     {
       "title": "UK borrowing costs hit highest level since 2008 financial crisis",
@@ -66,52 +327,97 @@
       "source": "BBC Business",
       "section": "Business & Markets",
       "section_key": "business-markets",
-      "timestamp": "2026-03-20T14:13:39Z"
+      "timestamp": "2026-03-20T14:55:02Z"
     },
     {
-      "title": "Student Loan Office to Leave the Education Department",
-      "link": "https://www.nytimes.com/2026/03/19/us/politics/student-loan-office-education-department.html",
-      "summary": "The office will move to the Treasury Department as the Trump administration slowly dismantles the agency overseeing federal education policy.",
-      "source": "New York Times Politics",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-20T14:13:18Z"
-    },
-    {
-      "title": "U.S. Prosecutors Investigate Colombia\u2019s President, a Onetime Trump Foe",
-      "link": "https://www.nytimes.com/2026/03/20/nyregion/colombia-president-petro-investigation-drugs.html",
-      "summary": "The Justice Department is examining whether President Gustavo Petro of Colombia has ties to drug traffickers.",
-      "source": "New York Times Home",
+      "title": "Iran warns UK letting US use bases is 'participation in aggression'",
+      "link": "https://www.bbc.com/news/articles/cvgkd3lqe2no?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's foreign minister urges his UK counterpart Yvette Cooper to end cooperation with the US.",
+      "source": "BBC News",
       "section": "Top Stories",
       "section_key": "top-stories",
-      "timestamp": "2026-03-20T14:06:59Z"
+      "timestamp": "2026-03-20T14:52:50Z"
     },
     {
-      "title": "Liverpool 'disgusted' by racist abuse towards Konate",
-      "link": "https://www.bbc.com/sport/football/articles/ce8j1j444r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Liverpool say they are \"appalled and disgusted\" by racist abuse directed towards defender Ibrahima Konate on social media.",
-      "source": "BBC Sport",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-20T14:06:06Z"
+      "title": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
+      "link": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
+      "summary": "If you\u2019re looking for the best time to get a deal this spring, it might very well be during Amazon\u2019s Big Spring Sale, which kicks off at 3:01AM ET on March 25th and runs through...",
+      "source": "The Verge",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-20T14:52:08Z"
     },
     {
-      "title": "EFL fight a 'credible threat' to future of Sheff Wed",
-      "link": "https://www.bbc.com/sport/football/articles/ceqv44qxjeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Sheffield Wednesday supporters thought they had won the war. But another battle for their has begun. This time with the EFL.",
-      "source": "BBC Sport",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-20T14:02:31Z"
+      "title": "Martial arts star Chuck Norris dies at 86",
+      "link": "https://www.npr.org/2026/03/20/nx-s1-5753907/chuck-norris-dead",
+      "summary": "Norris karate chopped and kickboxed his way through more than a dozen action films, before leaping to TV in Walker, Texas Ranger.",
+      "source": "NPR News",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-20T14:50:23Z"
     },
     {
-      "title": "Reform UK suspends Scotland candidate over financial allegations",
-      "link": "https://www.bbc.com/news/articles/cj375v264rko?at_medium=RSS&at_campaign=rss",
-      "summary": "Scotland leader Malcolm Offord told BBC Radio Scotland that the party had \"spent a lot of time on vetting\" candidates",
-      "source": "BBC Politics",
+      "title": "\u2018Jury Duty\u2019 Returns. Can Prank Lightning Strike Twice?",
+      "link": "https://www.nytimes.com/2026/03/20/arts/television/jury-duty-company-retreat.html",
+      "summary": "The Amazon comedy, which surrounds an unwitting protagonist with professional actors, returns with a new season that takes place at a company retreat.",
+      "source": "New York Times Arts",
+      "section": "Entertainment",
+      "section_key": "entertainment",
+      "timestamp": "2026-03-20T14:49:54Z"
+    },
+    {
+      "title": "Supreme Court Allows Street Preacher\u2019s Lawsuit",
+      "link": "https://www.nytimes.com/2026/03/20/us/politics/supreme-court-street-preacher.html",
+      "summary": "Gabriel Olivier was arrested after violating an ordinance restricting demonstrations outside an amphitheater in Brandon, Miss.",
+      "source": "New York Times U.S.",
       "section": "U.S. & Politics",
       "section_key": "u-s-politics",
-      "timestamp": "2026-03-20T14:01:16Z"
+      "timestamp": "2026-03-20T14:49:23Z"
+    },
+    {
+      "title": "This sleek alarm clock uses lights and sounds to help you sleep, focus, and wake up",
+      "link": "https://www.theverge.com/tech/897902/balmuda-japan-travel-alarm-clock-led-speaker-white-noise-aluminum",
+      "summary": "Dieter Rams already showed the world that something as mundane as an alarm clock can be beautiful. Balmuda, a Japanese company best known for its steam-infused toasters, has rel...",
+      "source": "The Verge",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-20T14:32:53Z"
+    },
+    {
+      "title": "Fed Official Urges Caution on Rate Cuts as Iran War Drags On",
+      "link": "https://www.nytimes.com/2026/03/20/business/economy/fed-waller-interest-rates.html",
+      "summary": "Christopher J. Waller, a Federal Reserve governor, said he would support rate cuts later this year if the labor market continued to weaken.",
+      "source": "New York Times Business",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-20T14:27:06Z"
+    },
+    {
+      "title": "Google Search is now using AI to replace headlines",
+      "link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+      "summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken pro...",
+      "source": "The Verge",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-20T14:23:44Z"
+    },
+    {
+      "title": "Oil Prices Hold Steady as Global Stocks Nudge Lower",
+      "link": "https://www.nytimes.com/2026/03/20/business/oil-stocks-gas-iran.html",
+      "summary": "Oil prices had been gyrating this week, after a new round of attacks on major energy facilities in Iran and Qatar raised concerns about energy supplies.",
+      "source": "New York Times Business",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-20T14:06:19Z"
+    },
+    {
+      "title": "Amazon is making an Alexa phone",
+      "link": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
+      "summary": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is co...",
+      "source": "The Verge",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-20T14:04:15Z"
     },
     {
       "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
@@ -132,175 +438,31 @@
       "timestamp": "2026-03-20T14:00:00Z"
     },
     {
-      "title": "Drive more slowly and work from home to help ease energy crisis, IEA urges",
-      "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
-      "summary": "People should change how they travel, work and cook to tackle the energy price crisis, the International Energy Agency says.",
-      "source": "BBC News",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-20T13:58:50Z"
-    },
-    {
-      "title": "Culture or cult? Ashes review signals Bazball overtime",
-      "link": "https://www.bbc.com/sport/cricket/articles/cy01r187gk5o?at_medium=RSS&at_campaign=rss",
-      "summary": "England's Ashes review will not bring seismic change but it does signal the final chapter of the Bazball era, writes Stephan Shemilt.",
-      "source": "BBC Sport",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-20T13:56:51Z"
-    },
-    {
-      "title": "Iranian man arrested trying to enter Faslane nuclear base",
-      "link": "https://www.bbc.com/news/articles/c80mej47xz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A 34-year-old man and a 31-year-old woman were arrested at HM Naval Base Clyde, which houses UK's nuclear-armed submarines, on Thursday.",
-      "source": "BBC News",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-20T13:44:02Z"
-    },
-    {
-      "title": "Iran War Underscores the Diverging Aims of U.S. and Israel",
-      "link": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
-      "summary": "The United States views Iran through a prism of global responsibilities and strategic goals. Israel has a more regional approach. After nearly three weeks of war, their paths ar...",
-      "source": "New York Times Home",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-20T13:27:27Z"
-    },
-    {
-      "title": "Tenerife hit by snow as Storm Therese brings wind and rain to Canary Islands",
-      "link": "https://www.bbc.com/weather/articles/cr51n7yd7v5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities in Tenerife have activated their emergency plans with roads closed and events cancelled as weather warnings are in force.",
-      "source": "BBC News",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-20T13:26:59Z"
-    },
-    {
-      "title": "Typical energy bill forecast to rise by \u00a3332 a year in July",
-      "link": "https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cornwall Insight says the recent surge in energy prices due to the Iran war is set to push up household bills.",
-      "source": "BBC Business",
+      "title": "The U.S. Economy Is Insulated From High Oil Prices. Americans Aren\u2019t.",
+      "link": "https://www.nytimes.com/2026/03/20/business/us-economy-oil-prices-inflation-iran-war-americans.html",
+      "summary": "The overall economy has proved resilient in recent years, even as many households have struggled. The war with Iran is following the same pattern.",
+      "source": "New York Times Business",
       "section": "Business & Markets",
       "section_key": "business-markets",
-      "timestamp": "2026-03-20T13:22:44Z"
+      "timestamp": "2026-03-20T13:57:40Z"
     },
     {
-      "title": "Seeking to Rely Less on China, U.S. Pushes a Rare Earths Partnership on a Reluctant Brazil",
-      "link": "https://www.nytimes.com/2026/03/20/world/americas/us-rare-earth-minerals-brazil-china.html",
-      "summary": "Seeking to reduce its reliance on China, the United States is pushing for a critical minerals deal with Brazil. The South American country is less eager.",
-      "source": "New York Times World",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-20T13:16:42Z"
-    },
-    {
-      "title": "Spain Says the Sun Shields It From Rising Gas Costs. Is That True?",
-      "link": "https://www.nytimes.com/2026/03/20/world/europe/spain-iran-energy-renewables-gas-sun.html",
-      "summary": "Pedro S\u00e1nchez, Spain\u2019s prime minister, said the nation\u2019s renewable energy system has softened the financial fallout from the war in Iran. The story is more complex.",
-      "source": "New York Times Home",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-20T13:15:12Z"
-    },
-    {
-      "title": "U.S. Military Ramps Up Assaults on Iranian Drones and Vessels to Clear Strait of Hormuz",
-      "link": "https://www.nytimes.com/2026/03/20/us/politics/us-military-strait-hormuz.html",
-      "summary": "Warplanes and attack helicopters are \u201chunting and killing\u201d Iran\u2019s fast-attack watercraft in contested sea lanes, Gen. Dan Caine said.",
-      "source": "New York Times Home",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-20T13:13:55Z"
-    },
-    {
-      "title": "How a Civil Rights Icon Used His Power to Abuse Girls and Women",
-      "link": "https://www.nytimes.com/video/us/100000010787904/how-a-civil-rights-icon-used-his-power-to-abuse-girls-and-women.html",
-      "summary": "For five years, our reporters Manny Fernandez and Sarah Hurtes followed allegations that the civil rights icon Cesar Chavez had sexually abused girls and women at all levels of...",
-      "source": "New York Times U.S.",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-20T13:13:06Z"
-    },
-    {
-      "title": "Pregnant in ICE Detention: Handcuffs and Pleas for Medical Care",
-      "link": "https://www.nytimes.com/2026/03/20/us/politics/pregnant-women-ice-detention.html",
-      "summary": "Women describe conditions that violate longstanding agency guidelines for how pregnant detainees should be treated.",
-      "source": "New York Times U.S.",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-20T13:01:19Z"
-    },
-    {
-      "title": "NASA Glenn\u00a0Opens Applications for\u00a0Free Summer Engineering Institute",
-      "link": "https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/",
-      "summary": "NASA\u2019s Glenn Research Center in Cleveland is hosting the 2026 NASA Glenn High School Engineering Institute this July. The hands-on learning experience is designed to help high s...",
-      "source": "NASA News Releases",
-      "section": "Science & Space",
-      "section_key": "science-space",
-      "timestamp": "2026-03-20T13:00:00Z"
-    },
-    {
-      "title": "Civil case against Gerry Adams over IRA bombings withdrawn",
-      "link": "https://www.bbc.com/news/articles/cyv1p930gq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "A lawyer for the claimants said on Friday that proceedings would be \"discontinued\".",
-      "source": "BBC Politics",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-20T12:59:17Z"
-    },
-    {
-      "title": "Reform-led council approves councillor wage rise",
-      "link": "https://www.bbc.com/news/articles/cwy35k5x5d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is \"bad optics\" to \"award ourselves a nice little pay rise\", a Green Party councillor says.",
-      "source": "BBC Politics",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-20T12:41:45Z"
-    },
-    {
-      "title": "Why Is the BTS Album Called \u2018Arirang\u2019?",
-      "link": "https://www.nytimes.com/2026/03/20/world/asia/bts-arirang-korean-references.html",
-      "summary": "The group\u2019s new album \u201cArirang\u201d includes a nod to a beloved Korean folk song and other important historical references.",
-      "source": "New York Times World",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-20T12:29:20Z"
-    },
-    {
-      "title": "IT failure leaves Hargreaves Lansdown clients unable to make transactions",
-      "link": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers.",
-      "source": "BBC Business",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-20T11:57:18Z"
-    },
-    {
-      "title": "What are the symptoms of meningitis and how is it spread?",
-      "link": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two people have died following an \"unpredecented\" outbreak of meningitis in Kent.",
-      "source": "BBC Health",
-      "section": "Health",
-      "section_key": "health",
-      "timestamp": "2026-03-20T11:54:53Z"
-    },
-    {
-      "title": "D-day for Livi in Kilmarnock; McInnes & Stewart in focus",
-      "link": "https://www.bbc.com/sport/football/articles/cx2l2d0v3yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "There is a crucial game at the foot of the Scottish Premiership table, while Falkirk's in-form Barney Stewart and Heart of Midlothian manager Derek McInnes are also in the spotl...",
-      "source": "BBC Sport Football",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-20T11:46:30Z"
-    },
-    {
-      "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
-      "link": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
-      "summary": "\"Our security, our prosperity, and our sovereignty will increasingly extend beyond our atmosphere.\"",
-      "source": "Ars Technica",
+      "title": "Much ado about protein",
+      "link": "https://www.theverge.com/column/897715/optimizer-protein-proteinmaxxing-proteinwashing-wellness",
+      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're go...",
+      "source": "The Verge",
       "section": "Technology",
       "section_key": "technology",
-      "timestamp": "2026-03-20T11:45:25Z"
+      "timestamp": "2026-03-20T13:55:50Z"
+    },
+    {
+      "title": "&#8216;Work from home,&#8217; encourages the world&#8217;s energy watchdog",
+      "link": "https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home",
+      "summary": "Many organizations have called employees back to offices following covid-related lockdowns, but the Iran war and ensuing energy crisis may quickly see workers returning to work...",
+      "source": "The Verge",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-20T13:54:04Z"
     }
   ],
   "sections": [
@@ -309,80 +471,98 @@
       "title": "Top Stories",
       "short_label": "Top",
       "description": "Fast-moving general headlines from high-frequency news feeds.",
-      "successful_sources": 2,
-      "total_sources": 2,
+      "successful_sources": 3,
+      "total_sources": 3,
       "stories": [
         {
-          "title": "Trump Sues Harvard Over Accusations of Antisemitism",
+          "title": "Chuck Norris, Crowd-Pleasing Star of Action Movies and TV, Dies at 86",
+          "link": "https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html",
+          "summary": "He channeled his martial arts skills into heroic roles in films like \u201cThe Delta Force\u201d and \u201cMissing in Action\u201d and in the long-running television series \u201cWalker, Texas Ranger.\u201d",
+          "source": "New York Times Home",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-20T15:31:48Z"
+        },
+        {
+          "title": "Trump Administration Sues Harvard Over Accusations of Antisemitism",
           "link": "https://www.nytimes.com/2026/03/20/us/trump-harvard-antisemitism-suit.html",
           "summary": "The administration had spent months investigating the Ivy League school. The two sides had been in talks to negotiate a settlement.",
           "source": "New York Times Home",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-20T14:21:59Z"
+          "timestamp": "2026-03-20T15:30:53Z"
         },
         {
-          "title": "U.S. Prosecutors Investigate Colombia\u2019s President, a Onetime Trump Foe",
-          "link": "https://www.nytimes.com/2026/03/20/nyregion/colombia-president-petro-investigation-drugs.html",
-          "summary": "The Justice Department is examining whether President Gustavo Petro of Colombia has ties to drug traffickers.",
+          "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
+          "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
+          "source": "BBC News",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-20T15:30:28Z"
+        },
+        {
+          "title": "Pregnant in ICE Detention: Handcuffs and Pleas for Medical Care",
+          "link": "https://www.nytimes.com/2026/03/20/us/politics/pregnant-women-ice-detention.html",
+          "summary": "Women describe conditions that violate longstanding agency guidelines for how pregnant detainees should be treated.",
           "source": "New York Times Home",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-20T14:06:59Z"
+          "timestamp": "2026-03-20T15:28:18Z"
         },
         {
-          "title": "Drive more slowly and work from home to help ease energy crisis, IEA urges",
+          "title": "Trump Friend Asked ICE to Detain the Mother of His Child",
+          "link": "https://www.nytimes.com/2026/03/20/us/paolo-zampolli-ice-melania-trump-epstein.html",
+          "summary": "Paolo Zampolli, a former modeling agent and a longtime Trump ally, was in a custody battle over his son. An ICE official agreed to help.",
+          "source": "New York Times Home",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-20T15:10:41Z"
+        },
+        {
+          "title": "Civil case against Gerry Adams over IRA bombings withdrawn",
+          "link": "https://www.bbc.com/news/articles/cyv1p930gq4o?at_medium=RSS&at_campaign=rss",
+          "summary": "A lawyer for the claimants said on Friday that proceedings would be \"discontinued\".",
+          "source": "BBC News",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-20T15:08:19Z"
+        },
+        {
+          "title": "Work from home and drive more slowly to save energy, global body urges",
           "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
           "summary": "People should change how they travel, work and cook to tackle the energy price crisis, the International Energy Agency says.",
           "source": "BBC News",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-20T13:58:50Z"
+          "timestamp": "2026-03-20T15:05:03Z"
         },
         {
-          "title": "Iranian man arrested trying to enter Faslane nuclear base",
-          "link": "https://www.bbc.com/news/articles/c80mej47xz0o?at_medium=RSS&at_campaign=rss",
-          "summary": "A 34-year-old man and a 31-year-old woman were arrested at HM Naval Base Clyde, which houses UK's nuclear-armed submarines, on Thursday.",
+          "title": "Deferring to Trump, G.O.P. Lawmakers Resist a Public Accounting on Iran",
+          "link": "https://www.nytimes.com/2026/03/20/us/politics/congress-iran-trump.html",
+          "summary": "Nearly three weeks into a war that polls show is unpopular, top Republicans have yet to call administration officials to testify about it, arguing that hearings would put divisi...",
+          "source": "New York Times Home",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-20T15:04:02Z"
+        },
+        {
+          "title": "Iran warns UK letting US use bases is 'participation in aggression'",
+          "link": "https://www.bbc.com/news/articles/cvgkd3lqe2no?at_medium=RSS&at_campaign=rss",
+          "summary": "Iran's foreign minister urges his UK counterpart Yvette Cooper to end cooperation with the US.",
           "source": "BBC News",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-20T13:44:02Z"
+          "timestamp": "2026-03-20T14:52:50Z"
         },
         {
-          "title": "Iran War Underscores the Diverging Aims of U.S. and Israel",
-          "link": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
-          "summary": "The United States views Iran through a prism of global responsibilities and strategic goals. Israel has a more regional approach. After nearly three weeks of war, their paths ar...",
-          "source": "New York Times Home",
+          "title": "Martial arts star Chuck Norris dies at 86",
+          "link": "https://www.npr.org/2026/03/20/nx-s1-5753907/chuck-norris-dead",
+          "summary": "Norris karate chopped and kickboxed his way through more than a dozen action films, before leaping to TV in Walker, Texas Ranger.",
+          "source": "NPR News",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-20T13:27:27Z"
-        },
-        {
-          "title": "Tenerife hit by snow as Storm Therese brings wind and rain to Canary Islands",
-          "link": "https://www.bbc.com/weather/articles/cr51n7yd7v5o?at_medium=RSS&at_campaign=rss",
-          "summary": "Authorities in Tenerife have activated their emergency plans with roads closed and events cancelled as weather warnings are in force.",
-          "source": "BBC News",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-20T13:26:59Z"
-        },
-        {
-          "title": "Spain Says the Sun Shields It From Rising Gas Costs. Is That True?",
-          "link": "https://www.nytimes.com/2026/03/20/world/europe/spain-iran-energy-renewables-gas-sun.html",
-          "summary": "Pedro S\u00e1nchez, Spain\u2019s prime minister, said the nation\u2019s renewable energy system has softened the financial fallout from the war in Iran. The story is more complex.",
-          "source": "New York Times Home",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-20T13:15:12Z"
-        },
-        {
-          "title": "U.S. Military Ramps Up Assaults on Iranian Drones and Vessels to Clear Strait of Hormuz",
-          "link": "https://www.nytimes.com/2026/03/20/us/politics/us-military-strait-hormuz.html",
-          "summary": "Warplanes and attack helicopters are \u201chunting and killing\u201d Iran\u2019s fast-attack watercraft in contested sea lanes, Gen. Dan Caine said.",
-          "source": "New York Times Home",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-20T13:13:55Z"
+          "timestamp": "2026-03-20T14:50:23Z"
         }
       ]
     },
@@ -391,9 +571,27 @@
       "title": "World",
       "short_label": "World",
       "description": "International headlines and broad global developments.",
-      "successful_sources": 2,
-      "total_sources": 2,
+      "successful_sources": 3,
+      "total_sources": 3,
       "stories": [
+        {
+          "title": "Hungary's Orb\u00e1n accused of disloyalty and blackmail over Ukraine loan veto",
+          "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+          "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
+          "source": "BBC World",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-20T15:34:19Z"
+        },
+        {
+          "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
+          "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
+          "source": "BBC World",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-20T15:30:28Z"
+        },
         {
           "title": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets",
           "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
@@ -401,16 +599,34 @@
           "source": "New York Times World",
           "section": "World",
           "section_key": "world",
-          "timestamp": "2026-03-20T14:26:20Z"
+          "timestamp": "2026-03-20T15:28:32Z"
         },
         {
-          "title": "Iran War Underscores the Diverging Aims of U.S. and Israel",
+          "title": "On a Holiday of Renewal, Iranians Are Mourning and Fearful",
+          "link": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
+          "summary": "As they start a new year, Iranians are reckoning with bombardment, repression and economic misery. Still, many are holding fast to ancient traditions.",
+          "source": "New York Times World",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-20T15:16:57Z"
+        },
+        {
+          "title": "Iran War Underscores the Diverging Aims of Trump and Netanyahu",
           "link": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
           "summary": "The United States views Iran through a prism of global responsibilities and strategic goals. Israel has a more regional approach. After nearly three weeks of war, their paths ar...",
           "source": "New York Times World",
           "section": "World",
           "section_key": "world",
           "timestamp": "2026-03-20T13:27:27Z"
+        },
+        {
+          "title": "Leading anti\u2011racism activist in Tunisia jailed for eight years",
+          "link": "https://www.bbc.com/news/articles/clyjg1x7r43o?at_medium=RSS&at_campaign=rss",
+          "summary": "Saadia Mosbah campaigned for migrants, particularly after President Kais Saied said they posed a demographic threat to the country.",
+          "source": "BBC World",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-20T13:17:56Z"
         },
         {
           "title": "Seeking to Rely Less on China, U.S. Pushes a Rare Earths Partnership on a Reluctant Brazil",
@@ -422,7 +638,16 @@
           "timestamp": "2026-03-20T13:16:42Z"
         },
         {
-          "title": "Why Is the BTS Album Called \u2018Arirang\u2019?",
+          "title": "Spain Says the Sun Shields It From Rising Gas Costs. Is That True?",
+          "link": "https://www.nytimes.com/2026/03/20/world/europe/spain-iran-energy-renewables-gas-sun.html",
+          "summary": "Pedro S\u00e1nchez, Spain\u2019s prime minister, said the nation\u2019s renewable energy system has softened the financial fallout from the war in Iran. The story is more complex.",
+          "source": "New York Times World",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-20T13:15:12Z"
+        },
+        {
+          "title": "BTS Leans Into Korean History With \u2018Arirang.\u2019 Here Are the Major References.",
           "link": "https://www.nytimes.com/2026/03/20/world/asia/bts-arirang-korean-references.html",
           "summary": "The group\u2019s new album \u201cArirang\u201d includes a nod to a beloved Korean folk song and other important historical references.",
           "source": "New York Times World",
@@ -438,33 +663,6 @@
           "section": "World",
           "section_key": "world",
           "timestamp": "2026-03-20T11:39:37Z"
-        },
-        {
-          "title": "Hungary's Orb\u00e1n accused of disloyalty and blackmail over Ukraine loan veto",
-          "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
-          "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
-          "source": "BBC World",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-20T11:33:17Z"
-        },
-        {
-          "title": "Mexican teen dies while being held in US immigration custody",
-          "link": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&at_campaign=rss",
-          "summary": "Royer Perez-Jimenez died amid a surge of migrant deaths under Donald Trump's immigration crackdown.",
-          "source": "BBC World",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-20T10:57:38Z"
-        },
-        {
-          "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
-          "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
-          "source": "BBC World",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-20T10:43:00Z"
         }
       ]
     },
@@ -473,9 +671,45 @@
       "title": "Business & Markets",
       "short_label": "Business",
       "description": "Corporate, economic, and market-moving updates with an institutional edge.",
-      "successful_sources": 3,
-      "total_sources": 3,
+      "successful_sources": 4,
+      "total_sources": 4,
       "stories": [
+        {
+          "title": "Trump-backed television merger moves forward",
+          "link": "https://www.bbc.com/news/articles/cx2dndp7z12o?at_medium=RSS&at_campaign=rss",
+          "summary": "Critics fear the consolidation will add to strains facing local news and degrade coverage.",
+          "source": "BBC Business",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-20T15:19:29Z"
+        },
+        {
+          "title": "CBS News Cuts 6% of Staff as Bari Weiss Reshapes the Division",
+          "link": "https://www.nytimes.com/2026/03/20/business/media/cbs-news-bari-weiss-layoffs.html",
+          "summary": "The layoffs affected several dozen employees at the news division, which is owned by the technology heir David Ellison.",
+          "source": "New York Times Business",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-20T15:15:19Z"
+        },
+        {
+          "title": "Work from home and drive more slowly to save energy, global body urges",
+          "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
+          "summary": "People should change how they travel, work and cook to tackle the energy price crisis, the International Energy Agency says.",
+          "source": "BBC Business",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-20T15:05:03Z"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement actions with former employee of Ally Bank and former employee of Regions Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm",
+          "summary": "Federal Reserve Board issues enforcement actions with former employee of Ally Bank and former employee of Regions Bank",
+          "source": "Federal Reserve Press Releases",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-20T15:00:00Z"
+        },
         {
           "title": "UK borrowing costs hit highest level since 2008 financial crisis",
           "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
@@ -483,16 +717,34 @@
           "source": "BBC Business",
           "section": "Business & Markets",
           "section_key": "business-markets",
-          "timestamp": "2026-03-20T14:13:39Z"
+          "timestamp": "2026-03-20T14:55:02Z"
         },
         {
-          "title": "Drive more slowly and work from home to help ease energy crisis, IEA urges",
-          "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
-          "summary": "People should change how they travel, work and cook to tackle the energy price crisis, the International Energy Agency says.",
-          "source": "BBC Business",
+          "title": "Fed Official Urges Caution on Rate Cuts as Iran War Drags On",
+          "link": "https://www.nytimes.com/2026/03/20/business/economy/fed-waller-interest-rates.html",
+          "summary": "Christopher J. Waller, a Federal Reserve governor, said he would support rate cuts later this year if the labor market continued to weaken.",
+          "source": "New York Times Business",
           "section": "Business & Markets",
           "section_key": "business-markets",
-          "timestamp": "2026-03-20T13:58:50Z"
+          "timestamp": "2026-03-20T14:27:06Z"
+        },
+        {
+          "title": "Oil Prices Hold Steady as Global Stocks Nudge Lower",
+          "link": "https://www.nytimes.com/2026/03/20/business/oil-stocks-gas-iran.html",
+          "summary": "Oil prices had been gyrating this week, after a new round of attacks on major energy facilities in Iran and Qatar raised concerns about energy supplies.",
+          "source": "New York Times Business",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-20T14:06:19Z"
+        },
+        {
+          "title": "The U.S. Economy Is Insulated From High Oil Prices. Americans Aren\u2019t.",
+          "link": "https://www.nytimes.com/2026/03/20/business/us-economy-oil-prices-inflation-iran-war-americans.html",
+          "summary": "The overall economy has proved resilient in recent years, even as many households have struggled. The war with Iran is following the same pattern.",
+          "source": "New York Times Business",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-20T13:57:40Z"
         },
         {
           "title": "Typical energy bill forecast to rise by \u00a3332 a year in July",
@@ -504,49 +756,13 @@
           "timestamp": "2026-03-20T13:22:44Z"
         },
         {
-          "title": "IT failure leaves Hargreaves Lansdown clients unable to make transactions",
-          "link": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
-          "summary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers.",
-          "source": "BBC Business",
+          "title": "BTS Is Back With \u2018Arirang,\u2019 but the K-Pop Landscape Has Changed",
+          "link": "https://www.nytimes.com/2026/03/20/arts/music/bts-k-pop-industry-demon-hunters.html",
+          "summary": "The superstar boy band returns after a four-year hiatus on Friday. The genre it helped turn into a global juggernaut has endured some shifts, and minted new stars.",
+          "source": "New York Times Business",
           "section": "Business & Markets",
           "section_key": "business-markets",
-          "timestamp": "2026-03-20T11:57:18Z"
-        },
-        {
-          "title": "Colombia's budding tech scene needs a cash boost",
-          "link": "https://www.bbc.com/news/articles/c4g2kyg4e78o?at_medium=RSS&at_campaign=rss",
-          "summary": "Colombia has become a tech hub for Latin America, but attracting investors is a challenge.",
-          "source": "BBC Business",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-20T00:09:01Z"
-        },
-        {
-          "title": "Russia, China and the US \u2013 the global winners and losers of the Iran war",
-          "link": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
-          "summary": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit.",
-          "source": "BBC Business",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-20T00:08:53Z"
-        },
-        {
-          "title": "Stock markets rattled and energy prices soar after strikes on Qatar gas hub",
-          "link": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-          "summary": "Oil and gas prices have risen again after fresh strikes hit key infrastructure in the Middle East.",
-          "source": "BBC Business",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-19T23:29:05Z"
-        },
-        {
-          "title": "US considers lifting sanctions on some Iranian oil",
-          "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-          "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy.",
-          "source": "BBC Business",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-19T19:55:51Z"
+          "timestamp": "2026-03-20T13:06:09Z"
         }
       ]
     },
@@ -555,80 +771,98 @@
       "title": "Technology",
       "short_label": "Tech",
       "description": "Big-platform shifts, product news, digital infrastructure, and software trends.",
-      "successful_sources": 4,
-      "total_sources": 4,
+      "successful_sources": 5,
+      "total_sources": 5,
       "stories": [
         {
-          "title": "IT failure leaves Hargreaves Lansdown clients unable to make transactions",
-          "link": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
-          "summary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers.",
-          "source": "BBC Technology",
+          "title": "Google\u2019s battery-powered Nest Doorbell is $40 off right now",
+          "link": "https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal",
+          "summary": "Buying a video doorbell is worth it for several reasons. They\u2019re convenient if you get a lot of deliveries or visitors, as they let you glance at a phone alert to decide whether...",
+          "source": "The Verge",
           "section": "Technology",
           "section_key": "technology",
-          "timestamp": "2026-03-20T11:57:18Z"
+          "timestamp": "2026-03-20T15:35:15Z"
         },
         {
-          "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
-          "link": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
-          "summary": "\"Our security, our prosperity, and our sovereignty will increasingly extend beyond our atmosphere.\"",
-          "source": "Ars Technica",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-20T11:45:25Z"
-        },
-        {
-          "title": "Project Hail Mary is in theaters\u2014but do the linguistics work?",
-          "link": "https://arstechnica.com/culture/2026/03/project-hail-mary-is-in-theaters-but-do-the-linguistics-work/",
-          "summary": "Ars speaks with a linguist about the ease with which Grace and Rocky communicate.",
-          "source": "Ars Technica",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-20T11:00:06Z"
-        },
-        {
-          "title": "\u2018A.I.-Washing\u2019 Layoffs? + Why L.L.M.s Can\u2019t Write Well + Tokenmaxxing",
-          "link": "https://www.nytimes.com/2026/03/20/podcasts/hardfork-ai-washing-tokenmaxxing.html",
-          "summary": "Companies are using A.I. as a reason for layoffs, but the truth may be more complex.",
+          "title": "Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods",
+          "link": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
+          "summary": "A review of the betting market\u2019s social media feeds found it has published hundreds of false and misleading posts.",
           "source": "New York Times Technology",
           "section": "Technology",
           "section_key": "technology",
-          "timestamp": "2026-03-20T11:00:03Z"
+          "timestamp": "2026-03-20T15:29:52Z"
         },
         {
-          "title": "False online posts fuel self-diagnosis, says study",
-          "link": "https://www.bbc.com/news/articles/cvg347487dlo?at_medium=RSS&at_campaign=rss",
-          "summary": "Norfolk and Suffolk researchers say the false information about autism and ADHD is most worrying.",
-          "source": "BBC Technology",
+          "title": "The Artist Pro 27 is XP-Pen\u2019s latest 4K flagship display tablet",
+          "link": "https://www.theverge.com/tech/897947/xppen-artist-pro-27-drawing-display-tablet-launch-price",
+          "summary": "XP-Pen has launched a new 27-inch display drawing tablet that competes with the visual performance of Wacom's beloved Cintiq Pro series, but for a fraction of the cost. The Arti...",
+          "source": "The Verge",
           "section": "Technology",
           "section_key": "technology",
-          "timestamp": "2026-03-20T06:18:17Z"
+          "timestamp": "2026-03-20T15:00:03Z"
         },
         {
-          "title": "U.S. Says 3 Tied to Silicon Valley Server Maker Broke Export Laws",
-          "link": "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html",
-          "summary": "Prosecutors said the men, including a co-founder of the company, Super Micro, had diverted servers containing Nvidia A.I. chips to China.",
-          "source": "New York Times Technology",
+          "title": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
+          "link": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
+          "summary": "If you\u2019re looking for the best time to get a deal this spring, it might very well be during Amazon\u2019s Big Spring Sale, which kicks off at 3:01AM ET on March 25th and runs through...",
+          "source": "The Verge",
           "section": "Technology",
           "section_key": "technology",
-          "timestamp": "2026-03-20T00:50:37Z"
+          "timestamp": "2026-03-20T14:52:08Z"
         },
         {
-          "title": "Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.",
-          "link": "https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html",
-          "summary": "The new fund would operate alongside the Amazon founder\u2019s A.I. start-up, Project Prometheus.",
-          "source": "New York Times Technology",
+          "title": "This sleek alarm clock uses lights and sounds to help you sleep, focus, and wake up",
+          "link": "https://www.theverge.com/tech/897902/balmuda-japan-travel-alarm-clock-led-speaker-white-noise-aluminum",
+          "summary": "Dieter Rams already showed the world that something as mundane as an alarm clock can be beautiful. Balmuda, a Japanese company best known for its steam-infused toasters, has rel...",
+          "source": "The Verge",
           "section": "Technology",
           "section_key": "technology",
-          "timestamp": "2026-03-19T23:48:09Z"
+          "timestamp": "2026-03-20T14:32:53Z"
         },
         {
-          "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
-          "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/",
-          "summary": "Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.",
-          "source": "Ars Technica",
+          "title": "Google Search is now using AI to replace headlines",
+          "link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+          "summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken pro...",
+          "source": "The Verge",
           "section": "Technology",
           "section_key": "technology",
-          "timestamp": "2026-03-19T22:34:06Z"
+          "timestamp": "2026-03-20T14:23:44Z"
+        },
+        {
+          "title": "Amazon is making an Alexa phone",
+          "link": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
+          "summary": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is co...",
+          "source": "The Verge",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-20T14:04:15Z"
+        },
+        {
+          "title": "Much ado about protein",
+          "link": "https://www.theverge.com/column/897715/optimizer-protein-proteinmaxxing-proteinwashing-wellness",
+          "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're go...",
+          "source": "The Verge",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-20T13:55:50Z"
+        },
+        {
+          "title": "&#8216;Work from home,&#8217; encourages the world&#8217;s energy watchdog",
+          "link": "https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home",
+          "summary": "Many organizations have called employees back to offices following covid-related lockdowns, but the Iran war and ensuing energy crisis may quickly see workers returning to work...",
+          "source": "The Verge",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-20T13:54:04Z"
+        },
+        {
+          "title": "Why people really hate AI",
+          "link": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
+          "summary": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI an...",
+          "source": "The Verge",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-20T13:27:53Z"
         }
       ]
     },
@@ -637,8 +871,8 @@
       "title": "Science & Space",
       "short_label": "Science",
       "description": "Spaceflight, research breakthroughs, and science-driven public-interest stories.",
-      "successful_sources": 3,
-      "total_sources": 3,
+      "successful_sources": 4,
+      "total_sources": 4,
       "stories": [
         {
           "title": "NASA Simulations Improve Artemis II Launch Environment",
@@ -711,6 +945,124 @@
           "section": "Science & Space",
           "section_key": "science-space",
           "timestamp": "2026-03-19T13:00:00Z"
+        },
+        {
+          "title": "NASA\u2019s Roman Observatory Passes Final Major Prelaunch Tests",
+          "link": "https://www.nasa.gov/universe/nasas-roman-observatory-passes-final-major-prelaunch-tests/",
+          "summary": "NASA\u2019s Nancy Grace Roman Space Telescope team recently blasted the observatory with extreme sound, shook it, and listened to its electronic hum. Roman passed all three assessmen...",
+          "source": "NASA News Releases",
+          "section": "Science & Space",
+          "section_key": "science-space",
+          "timestamp": "2026-03-19T12:55:00Z"
+        },
+        {
+          "title": "Australia\u2019s \u201cRed Centre\u201d Turns Green",
+          "link": "https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/",
+          "summary": "Abundant rainfall in February and March 2026 transformed the desert landscape of Central Australia.",
+          "source": "NASA News Releases",
+          "section": "Science & Space",
+          "section_key": "science-space",
+          "timestamp": "2026-03-19T04:00:00Z"
+        }
+      ]
+    },
+    {
+      "key": "climate-environment",
+      "title": "Climate & Environment",
+      "short_label": "Climate",
+      "description": "Climate, weather, oceans, energy transition, and environmental policy.",
+      "successful_sources": 3,
+      "total_sources": 3,
+      "stories": [
+        {
+          "title": "MP raises question in Parliament over fish deaths",
+          "link": "https://www.bbc.com/news/articles/c79jwzq5zy3o?at_medium=RSS&at_campaign=rss",
+          "summary": "Steve Barclay asks why there has been no prosecution after about 900 fish died in Whittlesey.",
+          "source": "BBC Science & Environment",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T15:14:07Z"
+        },
+        {
+          "title": "Attacks on Oil and Natural Gas Facilities Could Lead to Much Higher Prices",
+          "link": "https://www.nytimes.com/2026/03/19/business/energy-environment/iran-oil-natural-gas-attacks.html",
+          "summary": "Attacks on oil and natural gas facilities this week could make it much harder for Persian Gulf countries to rebuild and restart production when the war eventually ends.",
+          "source": "New York Times Climate",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T13:45:36Z"
+        },
+        {
+          "title": "Oil firm breaks environmental rules nearly 500 times",
+          "link": "https://www.bbc.com/news/articles/c4g6l0v2e3zo?at_medium=RSS&at_campaign=rss",
+          "summary": "Operator Essar has apologised for the breaches committed over four years.",
+          "source": "BBC Science & Environment",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T11:59:54Z"
+        },
+        {
+          "title": "How a Power Line From Canada Could Be a New York Lifeline",
+          "link": "https://www.nytimes.com/2026/03/20/nyregion/how-a-power-line-from-canada-could-be-a-new-york-lifeline.html",
+          "summary": "The pipeline from Quebec will help New York meet ambitious targets for cutting back on greenhouse gas emissions and could be crucial if the city faces a power shortfall.",
+          "source": "New York Times Climate",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T09:02:18Z"
+        },
+        {
+          "title": "Spring Is Here. Do You Care?",
+          "link": "https://www.nytimes.com/2026/03/20/style/spring-season-comeback.html",
+          "summary": "A season celebrated by Shakespeare and the Beatles now ranks behind fall in popularity. After a harsh winter, can it regain its former glory?",
+          "source": "New York Times Climate",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T09:02:05Z"
+        },
+        {
+          "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
+          "link": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
+          "source": "BBC Science & Environment",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T06:01:02Z"
+        },
+        {
+          "title": "Restless K\u012blauea Launches Lava and Ash",
+          "link": "https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/",
+          "summary": "Episode 43 of the Hawaiian volcano\u2019s current eruption was marked by high lava fountains and widespread ash dispersal.",
+          "source": "NASA Earth",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T04:01:00Z"
+        },
+        {
+          "title": "The Weather Is Getting Wilder, and Some See a Dire Signal in the Data",
+          "link": "https://www.nytimes.com/2026/03/19/climate/the-weather-is-getting-wilder-and-some-see-a-dire-signal-in-the-data.html",
+          "summary": "Several of the Earth\u2019s systems are changing faster than predicted as global temperatures rise, scientists say.",
+          "source": "New York Times Climate",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T03:57:56Z"
+        },
+        {
+          "title": "Taxpayers to fund clear-up of huge illegal waste dumps",
+          "link": "https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss",
+          "summary": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England.",
+          "source": "BBC Science & Environment",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T03:34:02Z"
+        },
+        {
+          "title": "Natural History Museum overtakes British Museum as UK's top tourist attraction",
+          "link": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
+          "summary": "The venue broke the record for the most visitors to any museum or gallery in a single year.",
+          "source": "BBC Science & Environment",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-20T00:05:07Z"
         }
       ]
     },
@@ -722,6 +1074,15 @@
       "successful_sources": 3,
       "total_sources": 3,
       "stories": [
+        {
+          "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
+          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in Cisco Secure Firewall Mana...",
+          "source": "BleepingComputer",
+          "section": "Security & Privacy",
+          "section_key": "security-privacy",
+          "timestamp": "2026-03-20T15:09:12Z"
+        },
         {
           "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
           "link": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
@@ -793,6 +1154,15 @@
           "section": "Security & Privacy",
           "section_key": "security-privacy",
           "timestamp": "2026-03-19T20:01:03Z"
+        },
+        {
+          "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
+          "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
+          "summary": "Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group. [...",
+          "source": "BleepingComputer",
+          "section": "Security & Privacy",
+          "section_key": "security-privacy",
+          "timestamp": "2026-03-19T17:08:24Z"
         }
       ]
     },
@@ -801,8 +1171,8 @@
       "title": "Health",
       "short_label": "Health",
       "description": "Public-health and medical-research headlines with a dependable-source bias.",
-      "successful_sources": 2,
-      "total_sources": 2,
+      "successful_sources": 3,
+      "total_sources": 3,
       "stories": [
         {
           "title": "What are the symptoms of meningitis and how is it spread?",
@@ -875,6 +1245,24 @@
           "section": "Health",
           "section_key": "health",
           "timestamp": "2026-03-18T16:34:33Z"
+        },
+        {
+          "title": "Progress in reducing child deaths slows as 4.9 million children die before age five",
+          "link": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
+          "summary": "An estimated 4.9 million children died before their fifth birthday in 2024, including 2.3 million newborns, according to new estimates released today. Most of these deaths are p...",
+          "source": "WHO News",
+          "section": "Health",
+          "section_key": "health",
+          "timestamp": "2026-03-18T00:01:15Z"
+        },
+        {
+          "title": "Fears of two-tier health system as more turn to private care, says watchdog",
+          "link": "https://www.bbc.com/news/articles/cn4892wnv2zo?at_medium=RSS&at_campaign=rss",
+          "summary": "The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise.",
+          "source": "BBC Health",
+          "section": "Health",
+          "section_key": "health",
+          "timestamp": "2026-03-16T00:35:08Z"
         }
       ]
     },
@@ -883,80 +1271,98 @@
       "title": "Sports",
       "short_label": "Sports",
       "description": "A broad sports wire for big events and fast-moving score-driven headlines.",
-      "successful_sources": 2,
-      "total_sources": 2,
+      "successful_sources": 3,
+      "total_sources": 3,
       "stories": [
         {
-          "title": "Liverpool 'disgusted' by racist abuse towards Konate",
-          "link": "https://www.bbc.com/sport/football/articles/ce8j1j444r3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Liverpool say they are \"appalled and disgusted\" by racist abuse directed towards defender Ibrahima Konate on social media.",
-          "source": "BBC Sport",
+          "title": "Georgia Tech names ex-Troy coach Cross as HC",
+          "link": "https://www.espn.com/mens-college-basketball/story/_/id/48257038/sources-georgia-tech-closing-troy-scott-cross-coach",
+          "summary": "Georgia Tech has named former Troy coach Scott Cross as the school's next men's basketball head coach, it was announced Friday.",
+          "source": "ESPN Headlines",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-20T14:06:06Z"
+          "timestamp": "2026-03-20T16:34:09Z"
         },
         {
-          "title": "EFL fight a 'credible threat' to future of Sheff Wed",
-          "link": "https://www.bbc.com/sport/football/articles/ceqv44qxjeno?at_medium=RSS&at_campaign=rss",
-          "summary": "Sheffield Wednesday supporters thought they had won the war. But another battle for their has begun. This time with the EFL.",
-          "source": "BBC Sport",
+          "title": "Dual MVP gold Judge, Ohtani card sells for $2.16M",
+          "link": "https://www.espn.com/mlb/story/_/id/48258542/dual-mvp-gold-logoman-judge-ohtani-card-sells-216m",
+          "summary": "The 2025 Topps Chrome dual MVP gold Logoman card featuring game-worn patches taken from Aaron Judge and Shohei Ohtani jerseys -- numbered 1-of-1 and signed on-card by the reigni...",
+          "source": "ESPN Headlines",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-20T14:02:31Z"
+          "timestamp": "2026-03-20T16:34:09Z"
         },
         {
-          "title": "Culture or cult? Ashes review signals Bazball overtime",
-          "link": "https://www.bbc.com/sport/cricket/articles/cy01r187gk5o?at_medium=RSS&at_campaign=rss",
-          "summary": "England's Ashes review will not bring seismic change but it does signal the final chapter of the Bazball era, writes Stephan Shemilt.",
-          "source": "BBC Sport",
+          "title": "NYU's 91-game win streak ends in D-III Final Four",
+          "link": "https://www.espn.com/womens-college-basketball/story/_/id/48255219/nyu-women-91-game-win-streak-ends-division-iii-final-four",
+          "summary": "Two-time defending champion NYU lost 60-52 to Scranton in the Final Four of the Division III NCAA tournament on Thursday night, ending the Violets' 91-game winning streak.",
+          "source": "ESPN Headlines",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-20T13:56:51Z"
+          "timestamp": "2026-03-20T16:34:09Z"
         },
         {
-          "title": "D-day for Livi in Kilmarnock; McInnes & Stewart in focus",
-          "link": "https://www.bbc.com/sport/football/articles/cx2l2d0v3yxo?at_medium=RSS&at_campaign=rss",
-          "summary": "There is a crucial game at the foot of the Scottish Premiership table, while Falkirk's in-form Barney Stewart and Heart of Midlothian manager Derek McInnes are also in the spotl...",
-          "source": "BBC Sport Football",
+          "title": "Luka drops 60, gets MVP chants from Heat crowd",
+          "link": "https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8",
+          "summary": "Luka Doncic scored 60 points, the first Laker to do so since Kobe Bryant's career finale in 2016, as L.A. won in Miami to push its season-best win streak to eight games.",
+          "source": "ESPN Headlines",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-20T11:46:30Z"
+          "timestamp": "2026-03-20T16:34:08Z"
         },
         {
-          "title": "Who are the best midfielders Rooney played with?",
-          "link": "https://www.bbc.com/sport/football/articles/cjd8kxgjl19o?at_medium=RSS&at_campaign=rss",
-          "summary": "Wayne Rooney reflects on the qualities of his former midfield team\u2011mates and ranks them based on their ability, influence and impact at the highest level.",
-          "source": "BBC Sport",
+          "title": "UNC's Davis: Fatigue not to blame for collapse",
+          "link": "https://www.espn.com/mens-college-basketball/story/_/id/48255008/unc-hubert-davis-defends-decisions-latest-early-exit",
+          "summary": "In a series of terse exchanges with reporters after VCU's 82-78 OT win, North Carolina coach Hubert Davis said he didn't think his team was tired and said it was \"my decision\" w...",
+          "source": "ESPN Headlines",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-20T11:05:00Z"
+          "timestamp": "2026-03-20T16:34:08Z"
         },
         {
-          "title": "Tuchel names 35-man split squad but Alexander-Arnold not included",
-          "link": "https://www.bbc.com/sport/football/articles/cre1d33gr3no?at_medium=RSS&at_campaign=rss",
-          "summary": "Thomas Tuchel names James Garner and Jason Steele in his latest England squad, with Trent Alexander-Arnold among those absent.",
-          "source": "BBC Sport",
+          "title": "Wemby's game winner puts Spurs back in playoffs",
+          "link": "https://www.espn.com/nba/story/_/id/48256013/spurs-end-6-year-playoff-drought-wembanyama-game-winner",
+          "summary": "Victor Wembanyama nailed a go-ahead 17-foot fadeaway with 1.1 seconds left Thursday night, and the Spurs clinched a postseason berth for the first time in six seasons.",
+          "source": "ESPN Headlines",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-20T10:09:35Z"
+          "timestamp": "2026-03-20T16:34:08Z"
         },
         {
-          "title": "Seven uncapped players in new-era Red Roses squad",
-          "link": "https://www.bbc.com/sport/rugby-union/articles/clyjgnyr792o?at_medium=RSS&at_campaign=rss",
-          "summary": "Head coach John Mitchell includes a clutch of new faces in England's Women's Six Nations squad as he aims to build on September's Rugby World Cup triumph.",
-          "source": "BBC Sport",
+          "title": "Rodman to be inducted in WWE HOF, sources say",
+          "link": "https://www.espn.com/nba/story/_/id/48257957/sources-dennis-rodman-inducted-wwe-hall-fame",
+          "summary": "Basketball Hall of Famer Dennis Rodman will be inducted into the WWE Hall of Fame for his time in WCW during the Monday night wars, sources told ESPN's Shams Charania.",
+          "source": "ESPN Headlines",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-20T09:05:17Z"
+          "timestamp": "2026-03-20T16:34:08Z"
         },
         {
-          "title": "O'Sullivan makes snooker's highest break with historic 153",
-          "link": "https://www.bbc.com/sport/snooker/articles/cn4391l3lvxo?at_medium=RSS&at_campaign=rss",
-          "summary": "Ronnie O'Sullivan creates more snooker history by making the sport's highest-ever professional break with a 153 at the World Open in Yushan.",
-          "source": "BBC Sport",
+          "title": "Sources: NFL to vote on Raiders succession plan",
+          "link": "https://www.espn.com/nfl/story/_/id/48252529/nfl-owners-set-vote-raiders-succession-plan",
+          "summary": "NFL owners are scheduled to vote on a Raiders succession plan that gives Silver Lake co-chief executive officer Egon Durban the option to purchase a majority stake in the team f...",
+          "source": "ESPN Headlines",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-20T08:36:08Z"
+          "timestamp": "2026-03-20T16:34:08Z"
+        },
+        {
+          "title": "\ud83c\udfc0 Women's tournament: Bracket breakdown",
+          "link": "https://www.espn.com/womens-college-basketball/story/_/id/48239610/womens-march-madness-2026-final-four-national-championship-predictions",
+          "summary": "ESPN talent cast their votes for which foursome will reach the Final Four. Will Phoenix be full of chalk?",
+          "source": "ESPN Headlines",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-20T16:34:08Z"
+        },
+        {
+          "title": "Your guide to men's March Madness Day 1: Recaps, every winner's chance to advance, more",
+          "link": "https://www.espn.com/mens-college-basketball/story/_/id/48248690/march-madness-live-tracker-updates-ncaa-tournament-first-round-thursday-2026",
+          "summary": "Our reporters detail how each game was won Thursday and look ahead to the matchups created for Saturday.",
+          "source": "ESPN Headlines",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-20T16:00:26Z"
         }
       ]
     },
@@ -965,17 +1371,44 @@
       "title": "Entertainment",
       "short_label": "Culture",
       "description": "Entertainment headlines, pop-culture movement, and arts coverage.",
-      "successful_sources": 1,
-      "total_sources": 1,
+      "successful_sources": 2,
+      "total_sources": 2,
       "stories": [
         {
-          "title": "Martial artist and actor Chuck Norris dies aged 86",
-          "link": "https://www.bbc.com/news/articles/c0le8e5jg1xo?at_medium=RSS&at_campaign=rss",
-          "summary": "The US martial artist and actor was known for his role in the crime series Walker, Texas Ranger.",
+          "title": "Publisher cancels horror novel's release over AI claims",
+          "link": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
+          "summary": "Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl.",
           "source": "BBC Entertainment",
           "section": "Entertainment",
           "section_key": "entertainment",
-          "timestamp": "2026-03-20T14:25:09Z"
+          "timestamp": "2026-03-20T15:30:58Z"
+        },
+        {
+          "title": "Martial artist and actor Chuck Norris dies aged 86",
+          "link": "https://www.bbc.com/news/articles/c0le8e5jg1xo?at_medium=RSS&at_campaign=rss",
+          "summary": "The US martial artist and actor was known for his roles in Walker, Texas Ranger and Way of the Dragon.",
+          "source": "BBC Entertainment",
+          "section": "Entertainment",
+          "section_key": "entertainment",
+          "timestamp": "2026-03-20T15:20:36Z"
+        },
+        {
+          "title": "\u2018Jury Duty\u2019 Returns. Can Prank Lightning Strike Twice?",
+          "link": "https://www.nytimes.com/2026/03/20/arts/television/jury-duty-company-retreat.html",
+          "summary": "The Amazon comedy, which surrounds an unwitting protagonist with professional actors, returns with a new season that takes place at a company retreat.",
+          "source": "New York Times Arts",
+          "section": "Entertainment",
+          "section_key": "entertainment",
+          "timestamp": "2026-03-20T14:49:54Z"
+        },
+        {
+          "title": "BTS Is Back With \u2018Arirang,\u2019 but the K-Pop Landscape Has Changed",
+          "link": "https://www.nytimes.com/2026/03/20/arts/music/bts-k-pop-industry-demon-hunters.html",
+          "summary": "The superstar boy band returns after a four-year hiatus on Friday. The genre it helped turn into a global juggernaut has endured some shifts, and minted new stars.",
+          "source": "New York Times Arts",
+          "section": "Entertainment",
+          "section_key": "entertainment",
+          "timestamp": "2026-03-20T13:06:09Z"
         },
         {
           "title": "Lily Allen's West End Girl portrait goes on show at National Portrait Gallery",
@@ -996,49 +1429,40 @@
           "timestamp": "2026-03-20T10:45:45Z"
         },
         {
-          "title": "The Salt Path author confirms she wrote secret first book - despite claiming to be debut writer",
-          "link": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&at_campaign=rss",
-          "summary": "Raynor and Moth Winn published a book they hoped would help get them out of debt, the BBC confirms.",
-          "source": "BBC Entertainment",
+          "title": "What the \u2018Project Hail Mary\u2019 Directors Learned From a Firing",
+          "link": "https://www.nytimes.com/2026/03/20/movies/project-hail-mary-phil-lord-christopher-miller.html",
+          "summary": "Phil Lord and Christopher Miller, best known for animations like the \u201cSpider-Verse\u201d films, took lessons from \u201cSolo: A Star Wars Story,\u201d a project from which they were dismissed.",
+          "source": "New York Times Arts",
           "section": "Entertainment",
           "section_key": "entertainment",
-          "timestamp": "2026-03-20T06:12:02Z"
+          "timestamp": "2026-03-20T09:03:49Z"
         },
         {
-          "title": "BTS Arirang review: K-pop idols rekindle their fire",
-          "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
-          "summary": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days.",
-          "source": "BBC Entertainment",
+          "title": "\u2018The Comeback\u2019 Review: Valerie Cherish vs. the Machine",
+          "link": "https://www.nytimes.com/2026/03/20/arts/television/the-comeback-review.html",
+          "summary": "In its third season, the HBO satire grows from cringe-comedy character study into a dark satire of labor in the A.I. era.",
+          "source": "New York Times Arts",
           "section": "Entertainment",
           "section_key": "entertainment",
-          "timestamp": "2026-03-20T04:04:50Z"
+          "timestamp": "2026-03-20T09:03:28Z"
         },
         {
-          "title": "US broadcaster pulls The Bachelorette after domestic abuse allegations",
-          "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
-          "source": "BBC Entertainment",
+          "title": "9 New Movies Our Critics Are Talking About This Week",
+          "link": "https://www.nytimes.com/2026/03/20/movies/new-movies-this-week-critics.html",
+          "summary": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
+          "source": "New York Times Arts",
           "section": "Entertainment",
           "section_key": "entertainment",
-          "timestamp": "2026-03-20T01:41:58Z"
+          "timestamp": "2026-03-20T09:03:01Z"
         },
         {
-          "title": "Traitors, Amandaland and Idris Elba -  get set for Comic Relief",
-          "link": "https://www.bbc.com/news/articles/cvg3gnlwn10o?at_medium=RSS&at_campaign=rss",
-          "summary": "The charity telethon takes place on Friday night and will be hosted by Davina McCall.",
-          "source": "BBC Entertainment",
+          "title": "A Painter Faces His Biggest Show, and the Truth About Success",
+          "link": "https://www.nytimes.com/2026/03/20/arts/design/hurvin-anderson.html",
+          "summary": "As Hurvin Anderson prepares for a major retrospective of his work at Tate Britain, he\u2019s unsure how to feel about his achievements.",
+          "source": "New York Times Arts",
           "section": "Entertainment",
           "section_key": "entertainment",
-          "timestamp": "2026-03-20T01:10:02Z"
-        },
-        {
-          "title": "Natural History Museum overtakes British Museum as UK's top tourist attraction",
-          "link": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The venue broke the record for the most visitors to any museum or gallery in a single year.",
-          "source": "BBC Entertainment",
-          "section": "Entertainment",
-          "section_key": "entertainment",
-          "timestamp": "2026-03-20T00:05:07Z"
+          "timestamp": "2026-03-20T09:02:41Z"
         }
       ]
     },
@@ -1047,53 +1471,26 @@
       "title": "U.S. & Politics",
       "short_label": "Politics",
       "description": "Government, elections, public policy, and the stories reshaping the political landscape.",
-      "successful_sources": 3,
-      "total_sources": 3,
+      "successful_sources": 4,
+      "total_sources": 4,
       "stories": [
         {
-          "title": "Trump Sues Harvard Over Accusations of Antisemitism",
+          "title": "Border security chief steps down after 18 months in the job",
+          "link": "https://www.bbc.com/news/articles/cx2dn1x9l3jo?at_medium=RSS&at_campaign=rss",
+          "summary": "Martin Hewitt had been tasked with cutting the numbers trying to get to the UK in small boats.",
+          "source": "BBC Politics",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-20T15:32:09Z"
+        },
+        {
+          "title": "Trump Administration Sues Harvard Over Accusations of Antisemitism",
           "link": "https://www.nytimes.com/2026/03/20/us/trump-harvard-antisemitism-suit.html",
           "summary": "The administration had spent months investigating the Ivy League school. The two sides had been in talks to negotiate a settlement.",
           "source": "New York Times U.S.",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-20T14:21:59Z"
-        },
-        {
-          "title": "Student Loan Office to Leave the Education Department",
-          "link": "https://www.nytimes.com/2026/03/19/us/politics/student-loan-office-education-department.html",
-          "summary": "The office will move to the Treasury Department as the Trump administration slowly dismantles the agency overseeing federal education policy.",
-          "source": "New York Times Politics",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-20T14:13:18Z"
-        },
-        {
-          "title": "Reform UK suspends Scotland candidate over financial allegations",
-          "link": "https://www.bbc.com/news/articles/cj375v264rko?at_medium=RSS&at_campaign=rss",
-          "summary": "Scotland leader Malcolm Offord told BBC Radio Scotland that the party had \"spent a lot of time on vetting\" candidates",
-          "source": "BBC Politics",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-20T14:01:16Z"
-        },
-        {
-          "title": "U.S. Military Ramps Up Assaults on Iranian Drones and Vessels to Clear Strait of Hormuz",
-          "link": "https://www.nytimes.com/2026/03/20/us/politics/us-military-strait-hormuz.html",
-          "summary": "Warplanes and attack helicopters are \u201chunting and killing\u201d Iran\u2019s fast-attack watercraft in contested sea lanes, Gen. Dan Caine said.",
-          "source": "New York Times U.S.",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-20T13:13:55Z"
-        },
-        {
-          "title": "How a Civil Rights Icon Used His Power to Abuse Girls and Women",
-          "link": "https://www.nytimes.com/video/us/100000010787904/how-a-civil-rights-icon-used-his-power-to-abuse-girls-and-women.html",
-          "summary": "For five years, our reporters Manny Fernandez and Sarah Hurtes followed allegations that the civil rights icon Cesar Chavez had sexually abused girls and women at all levels of...",
-          "source": "New York Times U.S.",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-20T13:13:06Z"
+          "timestamp": "2026-03-20T15:30:53Z"
         },
         {
           "title": "Pregnant in ICE Detention: Handcuffs and Pleas for Medical Care",
@@ -1102,7 +1499,25 @@
           "source": "New York Times U.S.",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-20T13:01:19Z"
+          "timestamp": "2026-03-20T15:28:18Z"
+        },
+        {
+          "title": "CBS News Cuts 6% of Staff as Bari Weiss Reshapes the Division",
+          "link": "https://www.nytimes.com/2026/03/20/business/media/cbs-news-bari-weiss-layoffs.html",
+          "summary": "The layoffs affected several dozen employees at the news division, which is owned by the technology heir David Ellison.",
+          "source": "New York Times Politics",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-20T15:15:19Z"
+        },
+        {
+          "title": "Trump Friend Asked ICE to Detain the Mother of His Child",
+          "link": "https://www.nytimes.com/2026/03/20/us/paolo-zampolli-ice-melania-trump-epstein.html",
+          "summary": "Paolo Zampolli, a former modeling agent and a longtime Trump ally, was in a custody battle over his son. An ICE official agreed to help.",
+          "source": "New York Times U.S.",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-20T15:10:41Z"
         },
         {
           "title": "Civil case against Gerry Adams over IRA bombings withdrawn",
@@ -1111,16 +1526,43 @@
           "source": "BBC Politics",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-20T12:59:17Z"
+          "timestamp": "2026-03-20T15:08:19Z"
         },
         {
-          "title": "Reform-led council approves councillor wage rise",
-          "link": "https://www.bbc.com/news/articles/cwy35k5x5d3o?at_medium=RSS&at_campaign=rss",
-          "summary": "It is \"bad optics\" to \"award ourselves a nice little pay rise\", a Green Party councillor says.",
+          "title": "Deferring to Trump, G.O.P. Lawmakers Resist a Public Accounting on Iran",
+          "link": "https://www.nytimes.com/2026/03/20/us/politics/congress-iran-trump.html",
+          "summary": "Nearly three weeks into a war that polls show is unpopular, top Republicans have yet to call administration officials to testify about it, arguing that hearings would put divisi...",
+          "source": "New York Times U.S.",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-20T15:04:02Z"
+        },
+        {
+          "title": "UK borrowing costs hit highest level since 2008 financial crisis",
+          "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
+          "summary": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
           "source": "BBC Politics",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-20T12:41:45Z"
+          "timestamp": "2026-03-20T14:55:02Z"
+        },
+        {
+          "title": "Iran warns UK letting US use bases is 'participation in aggression'",
+          "link": "https://www.bbc.com/news/articles/cvgkd3lqe2no?at_medium=RSS&at_campaign=rss",
+          "summary": "Iran's foreign minister urges his UK counterpart Yvette Cooper to end cooperation with the US.",
+          "source": "BBC Politics",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-20T14:52:50Z"
+        },
+        {
+          "title": "Supreme Court Allows Street Preacher\u2019s Lawsuit",
+          "link": "https://www.nytimes.com/2026/03/20/us/politics/supreme-court-street-preacher.html",
+          "summary": "Gabriel Olivier was arrested after violating an ordinance restricting demonstrations outside an amphitheater in Brandon, Miss.",
+          "source": "New York Times U.S.",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-20T14:49:23Z"
         }
       ]
     }

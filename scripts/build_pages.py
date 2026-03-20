@@ -67,7 +67,7 @@ def normalize_payload(payload: dict) -> dict:
 def build_site_context(config: dict, payload: dict) -> dict:
     source_count = sum(len(section.get("sources", [])) for section in config.get("sections", []))
     visit_count = format_integer(fetch_counter_value())
-    generated_at = f"{format_story_time(payload.get('generated_at'))} • Prepared snapshot"
+    generated_at = format_story_time(payload.get("generated_at"))
 
     return {
         "section_count": str(len(config.get("sections", []))),
@@ -240,7 +240,7 @@ def section_page_markup(section_config: dict, section_payload: dict, context: di
     source_count = len(section_config.get("sources", []))
     story_count = len(stories)
     summary = escape(
-        f"This desk currently tracks {story_count} prepared {'story' if story_count == 1 else 'stories'} "
+        f"This desk currently tracks {story_count} {'story' if story_count == 1 else 'stories'} "
         f"from {section_payload.get('successful_sources', 0)}/{section_payload.get('total_sources', 0)} active sources."
     )
 
@@ -291,7 +291,7 @@ def section_page_markup(section_config: dict, section_payload: dict, context: di
           <strong data-visit-count>{context['visit_count']}</strong>
         </div>
         <div class="utility-pill utility-status">
-          <span class="utility-label">Snapshot</span>
+          <span class="utility-label">Updated</span>
           <strong data-generated-at>{context['generated_at']}</strong>
         </div>
         <div class="utility-links">
@@ -392,7 +392,7 @@ def section_page_markup(section_config: dict, section_payload: dict, context: di
     <div class="container footer-wrap">
       <div>
         <p class="footer-title">ShadowFetch News</p>
-        <p class="footer-copy">A multi-page static newsroom with dedicated section desks and prepared feed snapshots.</p>
+        <p class="footer-copy">Dedicated section desks for readers who want a clearer view of each beat.</p>
       </div>
       <div class="footer-links">
         <a href="/">Front Page</a>

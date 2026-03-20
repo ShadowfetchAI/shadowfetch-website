@@ -1,12 +1,12 @@
 {
-  "breaking_limit": 12,
+  "breaking_limit": 15,
   "featured_limit": 3,
-  "latest_limit": 30,
-  "latest_page_limit": 36,
-  "home_latest_limit": 12,
-  "home_section_story_limit": 3,
-  "per_section_limit": 8,
-  "source_item_limit": 10,
+  "latest_limit": 48,
+  "latest_page_limit": 60,
+  "home_latest_limit": 15,
+  "home_section_story_limit": 4,
+  "per_section_limit": 10,
+  "source_item_limit": 12,
   "sections": [
     {
       "key": "top-stories",
@@ -23,6 +23,11 @@
           "name": "New York Times Home",
           "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
           "homepage": "https://www.nytimes.com/"
+        },
+        {
+          "name": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "homepage": "https://www.npr.org/sections/news/"
         }
       ]
     },
@@ -41,6 +46,11 @@
           "name": "New York Times World",
           "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
           "homepage": "https://www.nytimes.com/section/world"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://feeds.npr.org/1004/rss.xml",
+          "homepage": "https://www.npr.org/sections/world/"
         }
       ]
     },
@@ -54,6 +64,11 @@
           "name": "BBC Business",
           "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
           "homepage": "https://www.bbc.com/news/business"
+        },
+        {
+          "name": "New York Times Business",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+          "homepage": "https://www.nytimes.com/section/business"
         },
         {
           "name": "Federal Reserve Press Releases",
@@ -92,6 +107,11 @@
           "name": "Ars Technica",
           "url": "https://feeds.arstechnica.com/arstechnica/index",
           "homepage": "https://arstechnica.com/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/rss/index.xml",
+          "homepage": "https://www.theverge.com/"
         }
       ]
     },
@@ -115,6 +135,34 @@
           "name": "NIH News Releases",
           "url": "https://www.nih.gov/news-releases/feed.xml",
           "homepage": "https://www.nih.gov/news-events/news-releases"
+        },
+        {
+          "name": "NASA Earth",
+          "url": "https://www.nasa.gov/earth/feed/",
+          "homepage": "https://www.nasa.gov/earth/"
+        }
+      ]
+    },
+    {
+      "key": "climate-environment",
+      "title": "Climate & Environment",
+      "short_label": "Climate",
+      "description": "Climate, weather, oceans, energy transition, and environmental policy.",
+      "sources": [
+        {
+          "name": "New York Times Climate",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+          "homepage": "https://www.nytimes.com/section/climate"
+        },
+        {
+          "name": "NASA Earth",
+          "url": "https://www.nasa.gov/earth/feed/",
+          "homepage": "https://www.nasa.gov/earth/"
+        },
+        {
+          "name": "BBC Science & Environment",
+          "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "homepage": "https://www.bbc.com/news/science_and_environment"
         }
       ]
     },
@@ -156,6 +204,11 @@
           "name": "NIMH Main Feed",
           "url": "https://www.nimh.nih.gov/site-info/index-rss.atom",
           "homepage": "https://www.nimh.nih.gov/news"
+        },
+        {
+          "name": "WHO News",
+          "url": "https://www.who.int/rss-feeds/news-english.xml",
+          "homepage": "https://www.who.int/news"
         }
       ]
     },
@@ -174,6 +227,11 @@
           "name": "BBC Sport Football",
           "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
           "homepage": "https://www.bbc.com/sport/football"
+        },
+        {
+          "name": "ESPN Headlines",
+          "url": "https://www.espn.com/espn/rss/news",
+          "homepage": "https://www.espn.com/"
         }
       ]
     },
@@ -187,6 +245,11 @@
           "name": "BBC Entertainment",
           "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
           "homepage": "https://www.bbc.com/news/entertainment_and_arts"
+        },
+        {
+          "name": "New York Times Arts",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+          "homepage": "https://www.nytimes.com/section/arts"
         }
       ]
     },
@@ -210,6 +273,11 @@
           "name": "New York Times Politics",
           "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
           "homepage": "https://www.nytimes.com/section/politics"
+        },
+        {
+          "name": "NPR Politics",
+          "url": "https://feeds.npr.org/1014/rss.xml",
+          "homepage": "https://www.npr.org/sections/politics/"
         }
       ]
     }

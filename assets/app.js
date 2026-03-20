@@ -115,13 +115,13 @@ async function initializeSite() {
   const prepared = await loadPreparedFeedData();
   if (prepared) {
     appState.payload = normalizePayload(prepared);
-    renderAll("Prepared snapshot");
+    renderAll();
     return;
   }
 
   const live = await loadFeedsFromNetwork(appState.feedConfig);
   appState.payload = normalizePayload(live);
-  renderAll("Live fallback");
+  renderAll();
 }
 
 async function loadFeedConfig() {
@@ -229,8 +229,8 @@ function normalizePayload(payload) {
   };
 }
 
-function renderAll(modeLabel) {
-  renderHeaderStatus(modeLabel);
+function renderAll() {
+  renderHeaderStatus();
   renderBreakingTicker();
   renderHomePage();
   renderLatestPage();
@@ -239,8 +239,8 @@ function renderAll(modeLabel) {
   renderAboutPage();
 }
 
-function renderHeaderStatus(modeLabel) {
-  const generatedText = `${formatStoryTime(appState.payload.generated_at)} • ${modeLabel}`;
+function renderHeaderStatus() {
+  const generatedText = formatStoryTime(appState.payload.generated_at);
   document.querySelectorAll("[data-generated-at]").forEach((node) => {
     node.textContent = generatedText;
   });
@@ -590,7 +590,7 @@ function storyMetaMarkup(story) {
 function handleFeedFailure() {
   document.querySelectorAll("[data-generated-at]").forEach((node) => {
     if (!node.textContent.trim()) {
-      node.textContent = "Feed sync unavailable";
+      node.textContent = "Update unavailable";
     }
   });
 

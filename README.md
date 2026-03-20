@@ -1,7 +1,7 @@
 # ShadowFetch News
 
-ShadowFetch News is a multi-page GitHub Pages newsroom with a prepared-feed pipeline, a late-breaking
-front page, a live archive, a section directory, and a top-of-page visitor counter plus social links.
+ShadowFetch News is a multi-page newsroom with a late-breaking front page, a live archive, a section
+directory, and a top-of-page visitor counter plus social links.
 
 ## Site structure
 
@@ -13,9 +13,9 @@ front page, a live archive, a section directory, and a top-of-page visitor count
 - `assets/styles.css` contains the shared visual system.
 - `assets/app.js` contains the social links, visitor counter logic, and page rendering.
 - `assets/data/feed-config.json` defines the section list and source feeds.
-- `assets/data/feed.json` is the generated snapshot consumed by the site.
+- `assets/data/feed.json` is the generated feed dataset consumed by the site.
 - `templates/*.html` are the source templates for the generated top-level pages.
-- `scripts/build_feed.py` fetches the configured feeds and prepares the JSON snapshot.
+- `scripts/build_feed.py` fetches the configured feeds and prepares the JSON feed dataset.
 - `scripts/build_pages.py` generates the top-level pages, section desk pages, `sitemap.xml`, and `robots.txt`.
 
 ## Visitor counter
@@ -39,13 +39,13 @@ python3 scripts/build_pages.py
 
 That writes a fresh `assets/data/feed.json`, regenerates the top-level pages and section desks with embedded story content, and refreshes the sitemap files.
 
-## GitHub Pages note
+## Publishing note
 
-GitHub Pages cannot run a backend, so this repo uses a stronger static-news pattern:
+This project is deployed as a generated site, so the publishing flow is designed around prebuilt feed data:
 
 - GitHub Actions generates feed data before deployment and on a schedule.
 - GitHub Actions also generates the top-level pages, section desk pages, and sitemap files.
-- The deployed site already contains the prepared snapshot content in the HTML.
+- The deployed site already contains the latest generated feed content in the HTML.
 - If the snapshot is missing, the browser can still fall back to live feed fetching.
 
 ## Feed strategy

@@ -17,6 +17,19 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "assets" / "data" / "feed-config.json"
 OUTPUT_PATH = ROOT / "assets" / "data" / "feed.json"
 USER_AGENT = "ShadowFetchNewsBot/1.0 (+https://www.shadowfetch.com)"
+FEATURED_SECTION_PRIORITY = [
+    "top-stories",
+    "world",
+    "u-s-politics",
+    "business-markets",
+    "climate-environment",
+    "technology",
+    "security-privacy",
+    "science-space",
+    "health",
+    "sports",
+    "entertainment",
+]
 
 
 def main() -> None:
@@ -77,7 +90,7 @@ def main() -> None:
       "generated_at": now_iso(),
       "successful_sources": successful_sources,
       "total_sources": total_sources,
-      "featured": latest[:featured_limit],
+      "featured": select_featured(latest, featured_limit),
       "latest": latest,
       "sections": sections,
     }
@@ -205,6 +218,39 @@ def dedupe_stories(stories: List[Dict[str, str]]) -> List[Dict[str, str]]:
         seen.add(key)
         unique.append(story)
     return unique
+
+
+def select_featured(stories: List[Dict[str, str]], limit: int) -> List[Dict[str, str]]:
+    chosen: List[Dict[str, str]] = []
+    seen_links = set()
+
+    for section_key in FEATURED_SECTION_PRIORITY:
+        candidate = next(
+            (
+                story
+                for story in stories
+                if story.get("section_key") == section_key and story.get("link") not in seen_links
+            ),
+            None,
+        )
+        if not candidate:
+            continue
+
+        chosen.append(candidate)
+        seen_links.add(candidate.get("link"))
+        if len(chosen) >= limit:
+            return chosen
+
+    for story in stories:
+        link = story.get("link")
+        if link in seen_links:
+            continue
+        chosen.append(story)
+        seen_links.add(link)
+        if len(chosen) >= limit:
+            break
+
+    return chosen
 
 
 def parse_timestamp(value: str) -> str:

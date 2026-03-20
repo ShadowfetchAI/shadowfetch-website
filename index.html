@@ -1,111 +1,288 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ShadowFetchNews</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
-    body {
-      font-family: 'Fira Code', monospace;
-      overflow-x: hidden;
-    }
-    @keyframes fade-in-down {
-      from { opacity: 0; transform: translateY(-20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes fade-in-up {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes slide-in-left {
-      from { opacity: 0; transform: translateX(-100px); }
-      to { opacity: 1; transform: translateX(0); }
-    }
-    .animate-fade-in-down { animation: fade-in-down 1s ease forwards; }
-    .animate-fade-in-up { animation: fade-in-up 1s ease forwards; }
-    .animate-slide-in-left { animation: slide-in-left 1s ease forwards; }
-  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ShadowFetch News | Linux, Open Source, Privacy</title>
+  <meta
+    name="description"
+    content="ShadowFetch News tracks the most relevant Linux, open-source, privacy, and security stories with fast context and source-first links."
+  >
+  <meta name="theme-color" content="#07090d">
+  <meta property="og:title" content="ShadowFetch News">
+  <meta
+    property="og:description"
+    content="A sharp, source-first news homepage for Linux, open source, privacy, and digital freedom."
+  >
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Mono:wght@500&family=Space+Grotesk:wght@400;500;700&display=swap"
+    rel="stylesheet"
+  >
+  <link rel="icon" href="assets/shadowfetch-mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/styles.css">
 </head>
-<body class="min-h-screen bg-gradient-to-b from-black to-gray-900 text-white p-10">
+<body>
+  <div class="page-glow page-glow-left" aria-hidden="true"></div>
+  <div class="page-glow page-glow-right" aria-hidden="true"></div>
 
-  <div class="flex justify-center mb-10">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/shadowfetchnews.png" alt="ShadowFetch Logo" class="w-1/2 max-w-xs animate-fade-in-up" />
-  </div>
+  <header class="site-header">
+    <div class="container topbar">
+      <a class="brand" href="#top" aria-label="ShadowFetch News home">
+        <img src="assets/shadowfetch-mark.svg" alt="" width="38" height="38">
+        <span>
+          <strong>ShadowFetch News</strong>
+          <small>Linux. Open source. Privacy.</small>
+        </span>
+      </a>
 
-  <h1 class="text-6xl font-bold mb-6 text-center animate-pulse">ShadowFetchNews</h1>
-
-  <section class="mb-12 animate-fade-in-down">
-    <h2 class="text-3xl mb-4 flex items-center gap-2 text-green-400">
-      🗞️ Global News Feeds
-    </h2>
-    <div id="rss-news" class="space-y-4 text-sm text-gray-300">
-      <p>Fetching top headlines...</p>
+      <nav class="main-nav" aria-label="Primary">
+        <a href="#featured">Featured</a>
+        <a href="#beats">Beats</a>
+        <a href="#latest">Latest</a>
+        <a href="#follow">Follow</a>
+      </nav>
     </div>
-  </section>
+  </header>
 
-  <section class="mb-12 animate-fade-in-down">
-    <h2 class="text-3xl mb-4 text-green-400">🌦️ Global Weather Feed</h2>
-    <div id="weather-feed" class="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-gray-200">
-      <p>Loading real-time temperatures from around the world...</p>
+  <main id="top">
+    <section class="hero container">
+      <div class="hero-copy">
+        <p class="eyebrow">Independent briefing for readers who like signal over noise</p>
+        <h1>ShadowFetch tracks the stories shaping Linux, open source, privacy, and the open web.</h1>
+        <p class="hero-text">
+          Built for quick scanning, deeper curiosity, and source-first reading. The goal is simple:
+          make a static site feel sharp, alive, and worth coming back to every day.
+        </p>
+
+        <div class="hero-actions">
+          <a class="button button-primary" href="#latest">Browse the latest</a>
+          <a class="button button-secondary" href="#follow">Find me on X and Bluesky</a>
+        </div>
+
+        <ul class="hero-stats" aria-label="Site highlights">
+          <li>
+            <strong>3</strong>
+            <span>core beats</span>
+          </li>
+          <li>
+            <strong>Source-first</strong>
+            <span>links back to original reporting</span>
+          </li>
+          <li>
+            <strong>Fast</strong>
+            <span>static front end on GitHub Pages</span>
+          </li>
+        </ul>
+      </div>
+
+      <aside class="hero-panel card">
+        <p class="panel-label">What ShadowFetch should feel like</p>
+        <h2>Clean, opinionated, and unmistakably yours.</h2>
+        <p>
+          This homepage is designed to feel editorial, not generic. Strong typography, a real reading
+          hierarchy, and feed sections that can grow into a larger publication over time.
+        </p>
+
+        <dl class="status-grid">
+          <div>
+            <dt>Feed status</dt>
+            <dd id="feed-status">Loading sources...</dd>
+          </div>
+          <div>
+            <dt>Updated</dt>
+            <dd id="last-updated">Checking now</dd>
+          </div>
+        </dl>
+      </aside>
+    </section>
+
+    <section class="container section" id="featured">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Featured</p>
+          <h2>Start with the story that matters most</h2>
+        </div>
+        <p class="section-copy">
+          The lead card pulls from the freshest story across all monitored sources so the front page
+          feels alive instead of static.
+        </p>
+      </div>
+
+      <div class="featured-grid">
+        <article class="lead-story card" id="lead-story" aria-live="polite">
+          <p class="loading-copy">Pulling in the lead story...</p>
+        </article>
+
+        <aside class="manifesto card">
+          <p class="panel-label">Editorial shape</p>
+          <h3>How to make this stronger than a feed mirror</h3>
+          <ul class="manifesto-list">
+            <li>Keep the niche tight: Linux, open source, privacy, security, and self-hosting.</li>
+            <li>Add short context blurbs so readers know why each link matters.</li>
+            <li>Grow toward roundups, interviews, opinion, and a newsletter.</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="container section" id="beats">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Beats</p>
+          <h2>Organized around the sections readers will actually use</h2>
+        </div>
+      </div>
+
+      <div class="beat-grid">
+        <section class="beat-card card">
+          <div class="beat-header">
+            <p class="beat-kicker">Beat 01</p>
+            <h3>Linux &amp; Distros</h3>
+          </div>
+          <p class="beat-copy">Desktop releases, distro shifts, kernel-adjacent updates, and practical Linux news.</p>
+          <div class="story-list" id="beat-linux" aria-live="polite">
+            <p class="loading-copy">Loading Linux headlines...</p>
+          </div>
+        </section>
+
+        <section class="beat-card card">
+          <div class="beat-header">
+            <p class="beat-kicker">Beat 02</p>
+            <h3>Open Source &amp; Dev</h3>
+          </div>
+          <p class="beat-copy">Projects, tooling, developer communities, and notable releases across the open web.</p>
+          <div class="story-list" id="beat-open-source" aria-live="polite">
+            <p class="loading-copy">Loading open-source headlines...</p>
+          </div>
+        </section>
+
+        <section class="beat-card card">
+          <div class="beat-header">
+            <p class="beat-kicker">Beat 03</p>
+            <h3>Privacy &amp; Security</h3>
+          </div>
+          <p class="beat-copy">Digital rights, security reporting, threat context, and the privacy side of modern tech.</p>
+          <div class="story-list" id="beat-privacy" aria-live="polite">
+            <p class="loading-copy">Loading privacy headlines...</p>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <section class="container section" id="latest">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Latest</p>
+          <h2>The live wire</h2>
+        </div>
+        <p class="section-copy">
+          Fresh stories from across every beat. This is the section readers should bookmark if they
+          want one quick pass through the day.
+        </p>
+      </div>
+
+      <div class="latest-grid" id="latest-stories" aria-live="polite">
+        <p class="loading-copy">Gathering the latest stories...</p>
+      </div>
+    </section>
+
+    <section class="container section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Why It Works</p>
+          <h2>A stronger static-site publication model</h2>
+        </div>
+      </div>
+
+      <div class="value-grid">
+        <article class="value-card card">
+          <p class="value-number">01</p>
+          <h3>Built for speed</h3>
+          <p>GitHub Pages keeps the shell fast while the feed layer adds motion and freshness.</p>
+        </article>
+
+        <article class="value-card card">
+          <p class="value-number">02</p>
+          <h3>Source-first links</h3>
+          <p>Readers can jump straight to the original reporting instead of getting trapped in a rewrite mill.</p>
+        </article>
+
+        <article class="value-card card">
+          <p class="value-number">03</p>
+          <h3>Ready to grow</h3>
+          <p>The layout leaves room for roundups, opinions, interviews, search, and newsletters later.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="container section follow-section" id="follow">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Follow</p>
+          <h2>Make it easy for people to find you</h2>
+        </div>
+        <p class="section-copy">
+          Your social links should feel like part of the publication, not an afterthought in the footer.
+        </p>
+      </div>
+
+      <div class="social-grid">
+        <a class="social-card card" id="social-x" href="#" target="_blank" rel="noreferrer noopener">
+          <p class="social-kicker">X / Twitter</p>
+          <h3>Follow on X</h3>
+          <p id="social-x-copy">Drop in your profile URL in the site config to send readers here.</p>
+          <span class="social-link-text" id="social-x-url">x.com/MrBobCorbin</span>
+        </a>
+
+        <a class="social-card card" id="social-bluesky" href="#" target="_blank" rel="noreferrer noopener">
+          <p class="social-kicker">Bluesky</p>
+          <h3>Follow on Bluesky</h3>
+          <p id="social-bluesky-copy">Use your Bluesky handle here so people can jump straight to your profile.</p>
+          <span class="social-link-text" id="social-bluesky-url">bsky.app/profile/mrbobcorbin.bsky.social</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="container section about-section" id="about">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">About</p>
+          <h2>What this should become</h2>
+        </div>
+      </div>
+
+      <div class="about-grid">
+        <article class="card about-copy">
+          <p>
+            ShadowFetch News should feel like a modern front page for people who care about Linux,
+            open tools, software freedom, privacy, and the culture around them. The current version
+            already supports live headline aggregation, but the long-term win is adding your voice:
+            curated picks, short context blurbs, and a publishing rhythm readers recognize.
+          </p>
+        </article>
+
+        <aside class="card roadmap-card">
+          <p class="panel-label">Next upgrades</p>
+          <ul class="roadmap-list">
+            <li>Add your real X and Bluesky profile URLs.</li>
+            <li>Move feed fetching into scheduled builds for better reliability.</li>
+            <li>Introduce newsletter signup and original article pages.</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <p>ShadowFetch News is built as a static publication shell on GitHub Pages.</p>
+      <p class="footer-note">Replace the social placeholders in <code>assets/app.js</code> with your real profile URLs.</p>
     </div>
-  </section>
+  </footer>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const feeds = [
-        'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
-        'https://feeds.bbci.co.uk/news/rss.xml',
-        'https://feeds.reuters.com/reuters/topNews',
-        'https://feeds.arstechnica.com/arstechnica/index',
-        'https://hnrss.org/frontpage'
-      ];
-
-      const fetchRSS = url =>
-        fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`)
-          .then(res => res.json())
-          .then(data => new window.DOMParser().parseFromString(data.contents, "text/xml"));
-
-      Promise.all(feeds.map(fetchRSS)).then(results => {
-        const container = document.getElementById('rss-news');
-        container.innerHTML = '';
-        results.forEach(feed => {
-          const items = feed.querySelectorAll('item');
-          items.forEach((item, index) => {
-            if (index < 2) {
-              const title = item.querySelector('title').textContent;
-              const link = item.querySelector('link').textContent;
-              container.innerHTML += `
-                <div class="p-4 bg-zinc-800 rounded-xl border border-green-600 animate-slide-in-left">
-                  <h3 class="text-lg font-semibold text-green-300">${title}</h3>
-                  <p><a href="${link}" target="_blank" class="underline text-green-400">Read more</a></p>
-                </div>
-              `;
-            }
-          });
-        });
-      });
-
-      const cities = [
-        { name: 'New York', lat: 40.71, lon: -74.01 },
-        { name: 'Tokyo', lat: 35.68, lon: 139.69 },
-        { name: 'Berlin', lat: 52.52, lon: 13.405 },
-        { name: 'Cape Town', lat: -33.92, lon: 18.42 },
-        { name: 'Sydney', lat: -33.87, lon: 151.21 },
-        { name: 'São Paulo', lat: -23.55, lon: -46.63 }
-      ];
-      cities.forEach(city => {
-        fetch(`https://api.open-meteo.com/v1/forecast?latitude=${city.lat}&longitude=${city.lon}&current_weather=true`)
-          .then(res => res.json())
-          .then(data => {
-            const weatherBox = document.createElement('div');
-            weatherBox.className = 'p-4 bg-zinc-800 rounded-xl border border-green-600';
-            weatherBox.innerHTML = `<strong>${city.name}</strong><br>Temp: ${data.current_weather.temperature}°C<br>Condition: ${data.current_weather.weathercode}`;
-            document.getElementById('weather-feed').appendChild(weatherBox);
-          });
-      });
-    });
-  </script>
+  <script src="assets/app.js"></script>
 </body>
 </html>

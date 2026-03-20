@@ -89,7 +89,7 @@ def fetch_counter_value() -> int:
     try:
         with request.urlopen(req, timeout=10) as response:
             payload = json.loads(response.read().decode("utf-8"))
-            return int(payload.get("value", 0))
+            return int(payload.get("count", payload.get("value", 0)))
     except error.HTTPError as exc:
         if exc.code in {400, 404}:
             return 0
@@ -410,10 +410,11 @@ def render_breaking_ticker(stories: list[dict], limit: int) -> str:
     if not stories:
         return '<span class="ticker-placeholder">Breaking headlines are temporarily unavailable.</span>'
 
-    content = "".join(
+    items = [
         f'<a class="ticker-item" href="{safe_url(story.get("link", ""))}" target="_blank" rel="noreferrer noopener"><span>{escape(story.get("title", "Untitled story"))}</span></a>'
         for story in stories[:limit]
-    )
+    ]
+    content = '\n<span class="ticker-divider" aria-hidden="true">•</span>\n'.join(items)
     return f"{content}{content}"
 
 
@@ -480,7 +481,7 @@ def render_filter_links(section_configs: list[dict], all_href: str) -> str:
         )
         for section in section_configs
     )
-    return "".join(links)
+    return "\n".join(links)
 
 
 def filter_link_markup(label: str, href: str, pressed: bool) -> str:

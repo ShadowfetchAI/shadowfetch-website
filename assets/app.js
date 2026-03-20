@@ -92,7 +92,7 @@ async function initializeVisitorCounter() {
 
     const payload = await response.json();
     writeSessionValue(sessionKey, "1");
-    setVisitCount(formatInteger(payload.value));
+    setVisitCount(formatInteger(payload.count ?? payload.value));
   } catch {
     setVisitCount("Unavailable");
   }
@@ -268,11 +268,13 @@ function renderBreakingTicker() {
     return;
   }
 
-  const content = stories.map((story) => `
+  const items = stories.map((story) => `
     <a class="ticker-item" href="${story.link}" target="_blank" rel="noreferrer noopener">
       <span>${escapeHtml(story.title)}</span>
     </a>
-  `).join("");
+  `);
+  const divider = '\n<span class="ticker-divider" aria-hidden="true">•</span>\n';
+  const content = items.join(divider);
 
   track.innerHTML = `${content}${content}`;
 }

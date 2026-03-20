@@ -1,0 +1,217 @@
+{
+  "breaking_limit": 12,
+  "featured_limit": 3,
+  "latest_limit": 30,
+  "latest_page_limit": 36,
+  "home_latest_limit": 12,
+  "home_section_story_limit": 3,
+  "per_section_limit": 8,
+  "source_item_limit": 10,
+  "sections": [
+    {
+      "key": "top-stories",
+      "title": "Top Stories",
+      "short_label": "Top",
+      "description": "Fast-moving general headlines from high-frequency news feeds.",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://feeds.bbci.co.uk/news/rss.xml",
+          "homepage": "https://www.bbc.com/news"
+        },
+        {
+          "name": "New York Times Home",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+          "homepage": "https://www.nytimes.com/"
+        }
+      ]
+    },
+    {
+      "key": "world",
+      "title": "World",
+      "short_label": "World",
+      "description": "International headlines and broad global developments.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "homepage": "https://www.bbc.com/news/world"
+        },
+        {
+          "name": "New York Times World",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "homepage": "https://www.nytimes.com/section/world"
+        }
+      ]
+    },
+    {
+      "key": "business-markets",
+      "title": "Business & Markets",
+      "short_label": "Business",
+      "description": "Corporate, economic, and market-moving updates with an institutional edge.",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+          "homepage": "https://www.bbc.com/news/business"
+        },
+        {
+          "name": "Federal Reserve Press Releases",
+          "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+          "homepage": "https://www.federalreserve.gov/newsevents/pressreleases.htm"
+        },
+        {
+          "name": "SEC Press Releases",
+          "url": "https://www.sec.gov/news/pressreleases.rss",
+          "homepage": "https://www.sec.gov/newsroom/press-releases"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "Technology",
+      "short_label": "Tech",
+      "description": "Big-platform shifts, product news, digital infrastructure, and software trends.",
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+          "homepage": "https://www.bbc.com/news/technology"
+        },
+        {
+          "name": "New York Times Technology",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+          "homepage": "https://www.nytimes.com/section/technology"
+        },
+        {
+          "name": "NASA Technology",
+          "url": "https://www.nasa.gov/technology/feed/",
+          "homepage": "https://www.nasa.gov/technology/"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://feeds.arstechnica.com/arstechnica/index",
+          "homepage": "https://arstechnica.com/"
+        }
+      ]
+    },
+    {
+      "key": "science-space",
+      "title": "Science & Space",
+      "short_label": "Science",
+      "description": "Spaceflight, research breakthroughs, and science-driven public-interest stories.",
+      "sources": [
+        {
+          "name": "NASA News Releases",
+          "url": "https://www.nasa.gov/news-release/feed/",
+          "homepage": "https://www.nasa.gov/news/"
+        },
+        {
+          "name": "NASA Artemis",
+          "url": "https://www.nasa.gov/missions/artemis/feed/",
+          "homepage": "https://www.nasa.gov/missions/artemis/"
+        },
+        {
+          "name": "NIH News Releases",
+          "url": "https://www.nih.gov/news-releases/feed.xml",
+          "homepage": "https://www.nih.gov/news-events/news-releases"
+        }
+      ]
+    },
+    {
+      "key": "security-privacy",
+      "title": "Security & Privacy",
+      "short_label": "Security",
+      "description": "Cybersecurity, surveillance, vulnerabilities, and digital-risk reporting.",
+      "sources": [
+        {
+          "name": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/feed/",
+          "homepage": "https://krebsonsecurity.com/"
+        },
+        {
+          "name": "Schneier on Security",
+          "url": "https://www.schneier.com/feed/atom/",
+          "homepage": "https://www.schneier.com/"
+        },
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/feed/",
+          "homepage": "https://www.bleepingcomputer.com/"
+        }
+      ]
+    },
+    {
+      "key": "health",
+      "title": "Health",
+      "short_label": "Health",
+      "description": "Public-health and medical-research headlines with a dependable-source bias.",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+          "homepage": "https://www.bbc.com/news/health"
+        },
+        {
+          "name": "NIMH Main Feed",
+          "url": "https://www.nimh.nih.gov/site-info/index-rss.atom",
+          "homepage": "https://www.nimh.nih.gov/news"
+        }
+      ]
+    },
+    {
+      "key": "sports",
+      "title": "Sports",
+      "short_label": "Sports",
+      "description": "A broad sports wire for big events and fast-moving score-driven headlines.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+          "homepage": "https://www.bbc.com/sport"
+        },
+        {
+          "name": "BBC Sport Football",
+          "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+          "homepage": "https://www.bbc.com/sport/football"
+        }
+      ]
+    },
+    {
+      "key": "entertainment",
+      "title": "Entertainment",
+      "short_label": "Culture",
+      "description": "Entertainment headlines, pop-culture movement, and arts coverage.",
+      "sources": [
+        {
+          "name": "BBC Entertainment",
+          "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+          "homepage": "https://www.bbc.com/news/entertainment_and_arts"
+        }
+      ]
+    },
+    {
+      "key": "u-s-politics",
+      "title": "U.S. & Politics",
+      "short_label": "Politics",
+      "description": "Government, elections, public policy, and the stories reshaping the political landscape.",
+      "sources": [
+        {
+          "name": "BBC Politics",
+          "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+          "homepage": "https://www.bbc.com/news/politics"
+        },
+        {
+          "name": "New York Times U.S.",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+          "homepage": "https://www.nytimes.com/section/us"
+        },
+        {
+          "name": "New York Times Politics",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+          "homepage": "https://www.nytimes.com/section/politics"
+        }
+      ]
+    }
+  ]
+}

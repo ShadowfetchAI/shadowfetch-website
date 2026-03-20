@@ -1,36 +1,58 @@
 # ShadowFetch News
 
-ShadowFetch News is a GitHub Pages site for Linux, open-source, privacy, and security news. The
-current build focuses on a sharper editorial homepage, live RSS-powered sections, and a clear path
-to grow into a stronger publication over time.
+ShadowFetch News is a multi-page GitHub Pages newsroom with a prepared-feed pipeline, a late-breaking
+front page, a live archive, a section directory, and a top-of-page visitor counter plus social links.
 
-## What is in the repo
+## Site structure
 
-- `index.html` contains the site shell and page structure.
-- `assets/styles.css` defines the visual system and responsive layout.
-- `assets/app.js` holds the feed configuration, social profile URLs, and rendering logic.
-- `assets/shadowfetch-mark.svg` is the brand mark used for the favicon and header.
+- `index.html` is the front page.
+- `latest/index.html` is the denser late-breaking archive view.
+- `sections/index.html` is the topic and source directory.
+- `about/index.html` explains the project and follow links.
+- `assets/styles.css` contains the shared visual system.
+- `assets/app.js` contains the social links, visitor counter logic, and page rendering.
+- `assets/data/feed-config.json` defines the section list and source feeds.
+- `assets/data/feed.json` is the generated snapshot consumed by the site.
+- `scripts/build_feed.py` fetches the configured feeds and prepares the JSON snapshot.
+
+## Visitor counter
+
+The visitor counter uses CounterAPI from the browser so it can work on a static site:
+
+- It increments a public site-wide counter once per browser session.
+- If the session was already counted, it only reads the current total.
+- If the counter service is unavailable, the UI falls back gracefully.
 
 ## Update your social links
 
-Edit the `siteConfig.social` object in `assets/app.js`:
+Edit the `siteConfig.social` object in `assets/app.js`.
 
-- `siteConfig.social.x.url`
-- `siteConfig.social.bluesky.url`
+## Refresh the feed locally
 
-Those URLs drive the follow cards on the homepage.
+```bash
+python3 scripts/build_feed.py
+```
+
+That writes a fresh `assets/data/feed.json` file.
 
 ## GitHub Pages note
 
-GitHub Pages is a strong fit for the visual front end and a static publication shell, but it does
-not run a traditional backend. In this version, live headlines are fetched client-side from RSS
-feeds through a public proxy so the site can stay simple and deploy cleanly.
+GitHub Pages cannot run a backend, so this repo uses a stronger static-news pattern:
 
-For a stronger next version, move feed aggregation into scheduled GitHub Actions builds or a small
-backend so the site is less dependent on browser-time feed fetching.
+- GitHub Actions generates feed data before deployment and on a schedule.
+- The deployed site reads the prepared snapshot first.
+- If the snapshot is missing, the browser can still fall back to live feed fetching.
+
+## Feed strategy
+
+The source mix leans on:
+
+- official institutional feeds where practical
+- long-running publisher feeds for broad coverage
+- topic-specific feeds for areas like security, science, politics, business, and culture
 
 ## Next upgrades
 
-- Introduce original articles and roundups
-- Prebuild feed data for better reliability
-- Add newsletter signup and archive pages
+- add dedicated category pages and archives per section
+- publish original roundups and editor notes
+- add newsletter and search once the content layer grows

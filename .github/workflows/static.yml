@@ -6,6 +6,10 @@ on:
   push:
     branches: ["main"]
 
+  # Refreshes the feed snapshot throughout the day
+  schedule:
+    - cron: "7,37 * * * *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -31,6 +35,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Build feed snapshot
+        run: python3 scripts/build_feed.py
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

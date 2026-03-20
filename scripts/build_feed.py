@@ -9,6 +9,7 @@ from email.utils import parsedate_to_datetime
 from html import unescape
 from pathlib import Path
 from typing import Dict, List, Optional
+from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 
@@ -130,6 +131,9 @@ def fetch_feed(source: Dict[str, str], section: Dict[str, str], source_item_limi
                 "link": link,
                 "summary": summary or "Open the original source for the full story.",
                 "source": source["name"],
+                "source_key": slugify(source["name"]),
+                "source_homepage": source.get("homepage", ""),
+                "source_feed": source["url"],
                 "section": section["title"],
                 "section_key": section["key"],
                 "timestamp": timestamp,
@@ -212,7 +216,7 @@ def dedupe_stories(stories: List[Dict[str, str]]) -> List[Dict[str, str]]:
     seen = set()
     unique = []
     for story in stories:
-        key = story.get("link") or f"{story.get('source', '')}:{story.get('title', '')}"
+        key = story_identity(story)
         if key in seen:
             continue
         seen.add(key)
@@ -291,6 +295,39 @@ def safe_url(value: str) -> str:
     if not value.startswith(("http://", "https://")):
         return ""
     return value
+
+
+def story_identity(story: Dict[str, str]) -> str:
+    link = story.get("link", "")
+    if link:
+        normalized = normalize_story_url(link)
+        if normalized:
+            return normalized
+
+    source = story.get("source_key") or slugify(story.get("source", ""))
+    title = normalize_title(story.get("title", ""))
+    return f"{source}:{title}"
+
+
+def normalize_story_url(url: str) -> str:
+    try:
+        parsed = urlparse(url)
+    except ValueError:
+        return ""
+
+    path = parsed.path.rstrip("/")
+    return f"{parsed.scheme}://{parsed.netloc}{path}"
+
+
+def normalize_title(value: str) -> str:
+    cleaned = re.sub(r"[^a-z0-9]+", " ", value.lower())
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    return cleaned
+
+
+def slugify(value: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+    return slug or "item"
 
 
 def now_iso() -> str:

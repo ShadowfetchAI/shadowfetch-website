@@ -1,5 +1,4 @@
 const siteConfig = {
-  brandName: "ShadowFetch News",
   social: {
     x: {
       label: "X / Twitter",
@@ -16,18 +15,7 @@ const siteConfig = {
   }
 };
 
-const FEED_PROXY = "https://api.allorigins.win/get?url=";
-const FEED_CONFIG_URL = "/assets/data/feed-config.json";
-const FEED_DATA_URL = "/assets/data/feed.json";
-
-const appState = {
-  feedConfig: null,
-  payload: null,
-  filters: {
-    home: "all",
-    archive: "all"
-  }
-};
+const SEARCH_INDEX_URL = "/assets/data/search-index.json";
 
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", bootSite);
@@ -36,17 +24,18 @@ if (document.readyState === "loading") {
 }
 
 function bootSite() {
-  try {
-    applySocialLinks();
-  } catch {
-    // Keep the static fallback links if enhancement fails.
-  }
-
+  applySocialLinks();
   initializeVisitorCounter().catch(() => {
     setVisitCount("Unavailable");
   });
-
-  initializeSite().catch(handleFeedFailure);
+  initializeFilterToolbars();
+  initializeSearchPage().catch(() => {
+    const empty = document.getElementById("search-empty");
+    if (empty) {
+      empty.hidden = false;
+      empty.textContent = "Search is temporarily unavailable.";
+    }
+  });
 }
 
 function applySocialLinks() {
@@ -68,12 +57,6 @@ function applySocialLinks() {
       node.textContent = config.label;
     }
   });
-
-  Object.entries(siteConfig.social).forEach(([key, config]) => {
-    document.querySelectorAll(`[data-social-url="${key}"]`).forEach((node) => {
-      node.textContent = readableUrl(config.url);
-    });
-  });
 }
 
 async function initializeVisitorCounter() {
@@ -85,21 +68,17 @@ async function initializeVisitorCounter() {
     ? `https://api.counterapi.dev/v1/${namespace}/${counterName}/`
     : `https://api.counterapi.dev/v1/${namespace}/${counterName}/up`;
 
-  try {
-    let response = await fetch(endpoint, { cache: "no-store" });
-    if (!response.ok && hasCounted) {
-      response = await fetch(`https://api.counterapi.dev/v1/${namespace}/${counterName}/up`, { cache: "no-store" });
-    }
-    if (!response.ok) {
-      throw new Error("Counter request failed");
-    }
-
-    const payload = await response.json();
-    writeSessionValue(sessionKey, "1");
-    setVisitCount(formatInteger(payload.count ?? payload.value));
-  } catch {
-    setVisitCount("Unavailable");
+  let response = await fetch(endpoint, { cache: "no-store" });
+  if (!response.ok && hasCounted) {
+    response = await fetch(`https://api.counterapi.dev/v1/${namespace}/${counterName}/up`, { cache: "no-store" });
   }
+  if (!response.ok) {
+    throw new Error("Counter request failed");
+  }
+
+  const payload = await response.json();
+  writeSessionValue(sessionKey, "1");
+  setVisitCount(formatInteger(payload.count ?? payload.value));
 }
 
 function setVisitCount(value) {
@@ -108,585 +87,236 @@ function setVisitCount(value) {
   });
 }
 
-async function initializeSite() {
-  appState.feedConfig = await loadFeedConfig();
-  renderGlobalStats(appState.feedConfig);
+function initializeFilterToolbars() {
+  document.querySelectorAll("[data-filter-toolbar]").forEach((toolbar) => {
+    const gridId = toolbar.dataset.targetGrid;
+    const summaryId = toolbar.dataset.summaryId;
+    const grid = gridId ? document.getElementById(gridId) : null;
+    const summary = summaryId ? document.getElementById(summaryId) : null;
 
-  const prepared = await loadPreparedFeedData();
-  if (prepared) {
-    appState.payload = normalizePayload(prepared);
-    renderAll();
-    return;
-  }
+    if (!grid || !summary) {
+      return;
+    }
 
-  const live = await loadFeedsFromNetwork(appState.feedConfig);
-  appState.payload = normalizePayload(live);
-  renderAll();
-}
-
-async function loadFeedConfig() {
-  const response = await fetch(FEED_CONFIG_URL, { cache: "no-store" });
-  if (!response.ok) {
-    throw new Error("Could not load feed configuration");
-  }
-
-  return response.json();
-}
-
-async function loadPreparedFeedData() {
-  const response = await fetch(FEED_DATA_URL, { cache: "no-store" });
-  if (!response.ok) {
-    return null;
-  }
-
-  const payload = await response.json();
-  return payload && Array.isArray(payload.sections) ? payload : null;
-}
-
-async function loadFeedsFromNetwork(config) {
-  const results = await Promise.all(
-    config.sections.map(async (section) => {
-      const feeds = await Promise.allSettled(section.sources.map((source) => fetchFeed(source, section, config)));
-      const stories = dedupeStories(
-        feeds.filter((result) => result.status === "fulfilled").flatMap((result) => result.value)
-      ).sort(sortStoriesDesc);
-
-      return {
-        key: section.key,
-        title: section.title,
-        short_label: section.short_label,
-        description: section.description,
-        stories: stories.slice(0, section.story_limit || config.per_section_limit || 8),
-        successful_sources: feeds.filter((result) => result.status === "fulfilled").length,
-        total_sources: feeds.length
-      };
-    })
-  );
-
-  const latest = dedupeStories(results.flatMap((section) => section.stories))
-    .sort(sortStoriesDesc)
-    .slice(0, config.latest_limit || 30);
-
-  return {
-    generated_at: new Date().toISOString(),
-    successful_sources: results.reduce((total, section) => total + section.successful_sources, 0),
-    total_sources: results.reduce((total, section) => total + section.total_sources, 0),
-    featured: latest.slice(0, config.featured_limit || 3),
-    latest,
-    sections: results
-  };
-}
-
-async function fetchFeed(source, section, config) {
-  const response = await fetch(`${FEED_PROXY}${encodeURIComponent(source.url)}`);
-  if (!response.ok) {
-    throw new Error(`Feed request failed for ${source.name}`);
-  }
-
-  const payload = await response.json();
-  const xml = new window.DOMParser().parseFromString(payload.contents, "text/xml");
-  const entries = [...xml.querySelectorAll("item"), ...xml.querySelectorAll("entry")]
-    .slice(0, source.item_limit || config.source_item_limit || 10);
-
-  return entries.map((entry) => {
-    const linkNode = entry.querySelector("link");
-    const rawLink = linkNode ? linkNode.getAttribute("href") || linkNode.textContent : "";
-    const summary =
-      readText(entry, ["description", "content", "summary", "content\\:encoded"]) ||
-      "Open the original source for the full story.";
-    const published = readText(entry, ["pubDate", "published", "updated", "dc\\:date", "date"]) || new Date().toISOString();
-    const timestamp = parseFeedTimestamp(published);
-
-    return {
-      title: readText(entry, ["title"]) || "Untitled story",
-      link: safeUrl(rawLink.trim()),
-      summary: summarize(stripHtml(summary)),
-      source: source.name,
-      section: section.title,
-      section_key: section.key,
-      timestamp
-    };
-  }).filter((story) => story.link !== "#");
-}
-
-function normalizePayload(payload) {
-  const latest = Array.isArray(payload.latest)
-    ? dedupeStories(payload.latest).sort(sortStoriesDesc)
-    : dedupeStories((payload.sections || []).flatMap((section) => section.stories || [])).sort(sortStoriesDesc);
-
-  return {
-    generated_at: payload.generated_at || new Date().toISOString(),
-    successful_sources: payload.successful_sources || 0,
-    total_sources: payload.total_sources || 0,
-    featured: Array.isArray(payload.featured) && payload.featured.length
-      ? payload.featured
-      : latest.slice(0, (appState.feedConfig && appState.feedConfig.featured_limit) || 3),
-    latest,
-    sections: (payload.sections || []).map((section) => ({
-      ...section,
-      stories: (section.stories || []).sort(sortStoriesDesc)
-    }))
-  };
-}
-
-function renderAll() {
-  renderHeaderStatus();
-  renderBreakingTicker();
-  renderHomePage();
-  renderLatestPage();
-  renderSectionsPage();
-  renderSectionDetailPage();
-  renderAboutPage();
-}
-
-function renderHeaderStatus() {
-  const generatedText = formatStoryTime(appState.payload.generated_at);
-  document.querySelectorAll("[data-generated-at]").forEach((node) => {
-    node.textContent = generatedText;
-  });
-}
-
-function renderGlobalStats(config) {
-  const sectionCountNode = document.getElementById("hero-section-count");
-  const sourceCountNode = document.getElementById("hero-source-count");
-
-  if (sectionCountNode) {
-    sectionCountNode.textContent = String(config.sections.length);
-  }
-
-  if (sourceCountNode) {
-    sourceCountNode.textContent = String(config.sections.reduce((total, section) => total + section.sources.length, 0));
-  }
-}
-
-function renderBreakingTicker() {
-  const track = document.getElementById("breaking-ticker-track");
-  if (!track) {
-    return;
-  }
-
-  const limit = (appState.feedConfig && appState.feedConfig.breaking_limit) || 12;
-  const stories = appState.payload.latest.slice(0, limit);
-  if (!stories.length) {
-    track.innerHTML = '<span class="ticker-placeholder">Breaking headlines are temporarily unavailable.</span>';
-    return;
-  }
-
-  const items = stories.map((story) => `
-    <a class="ticker-item" href="${story.link}" target="_blank" rel="noreferrer noopener">
-      <span>${escapeHtml(story.title)}</span>
-    </a>
-  `);
-  const divider = '\n<span class="ticker-divider" aria-hidden="true">•</span>\n';
-  const content = items.join(divider);
-
-  track.innerHTML = `${content}${content}`;
-}
-
-function renderHomePage() {
-  renderFeaturedGrid();
-  renderHomeSectionGrid();
-  renderStoryCollection({
-    toolbarId: "home-filter-toolbar",
-    summaryId: "home-latest-summary",
-    gridId: "home-latest-grid",
-    stateKey: "home",
-    storyLimit: (appState.feedConfig && appState.feedConfig.home_latest_limit) || 12
-  });
-}
-
-function renderFeaturedGrid() {
-  const container = document.getElementById("featured-grid");
-  if (!container) {
-    return;
-  }
-
-  const featured = appState.payload.featured.slice(0, 3);
-  if (!featured.length) {
-    container.innerHTML = '<p class="empty-card">Featured stories are not available yet.</p>';
-    return;
-  }
-
-  const [lead, ...sideStories] = featured;
-  const sideMarkup = sideStories.map((story) => `
-    <a class="featured-side" href="${story.link}" target="_blank" rel="noreferrer noopener">
-      ${storyMetaMarkup(story)}
-      <h3>${escapeHtml(story.title)}</h3>
-      <p>${escapeHtml(story.summary)}</p>
-    </a>
-  `).join("");
-
-  container.innerHTML = `
-    <a class="featured-main" href="${lead.link}" target="_blank" rel="noreferrer noopener">
-      ${storyMetaMarkup(lead)}
-      <h2>${escapeHtml(lead.title)}</h2>
-      <p>${escapeHtml(lead.summary)}</p>
-      <span class="story-link">Read the full source</span>
-    </a>
-    <div class="featured-side-grid">
-      ${sideMarkup}
-    </div>
-  `;
-}
-
-function renderHomeSectionGrid() {
-  const container = document.getElementById("home-section-grid");
-  if (!container) {
-    return;
-  }
-
-  const storyLimit = (appState.feedConfig && appState.feedConfig.home_section_story_limit) || 3;
-  container.innerHTML = appState.feedConfig.sections.map((sectionConfig) => {
-    const section = findSection(sectionConfig.key);
-    const stories = section ? section.stories.slice(0, storyLimit) : [];
-    const storyMarkup = stories.length
-      ? stories.map((story) => compactStoryMarkup(story)).join("")
-      : '<p class="empty-card">No stories available for this section right now.</p>';
-
-    return `
-      <article class="section-card" id="section-${sectionConfig.key}">
-        <p class="panel-label">${escapeHtml(sectionConfig.short_label)}</p>
-        <h3>${escapeHtml(sectionConfig.title)}</h3>
-        <p>${escapeHtml(sectionConfig.description)}</p>
-        <div class="story-list">${storyMarkup}</div>
-        <a class="story-link" href="/sections/${sectionConfig.key}/">Open section</a>
-      </article>
-    `;
-  }).join("");
-}
-
-function renderLatestPage() {
-  renderStoryCollection({
-    toolbarId: "archive-filter-toolbar",
-    summaryId: "archive-summary",
-    gridId: "archive-grid",
-    stateKey: "archive",
-    storyLimit: (appState.feedConfig && appState.feedConfig.latest_page_limit) || 36
-  });
-}
-
-function renderStoryCollection({ toolbarId, summaryId, gridId, stateKey, storyLimit }) {
-  const toolbar = document.getElementById(toolbarId);
-  const summary = document.getElementById(summaryId);
-  const grid = document.getElementById(gridId);
-
-  if (!toolbar || !summary || !grid) {
-    return;
-  }
-
-  buildFilterToolbar(toolbar, stateKey);
-
-  const stories = filterStories(appState.payload.latest, appState.filters[stateKey]).slice(0, storyLimit);
-  if (!stories.length) {
-    summary.textContent = "No stories are available for this filter right now.";
-    grid.innerHTML = '<p class="empty-card">The story collection is temporarily empty.</p>';
-    return;
-  }
-
-  const label = getFilterLabel(appState.filters[stateKey]);
-  summary.textContent = appState.filters[stateKey] === "all"
-    ? `Showing ${stories.length} story${stories.length === 1 ? "" : "ies"} across every section in this view.`
-    : `Showing ${stories.length} ${label.toLowerCase()} story${stories.length === 1 ? "" : "ies"} in this view.`;
-  grid.innerHTML = stories.map((story) => storyCardMarkup(story)).join("");
-}
-
-function buildFilterToolbar(toolbar, stateKey) {
-  const filters = [
-    { key: "all", label: "All Stories" },
-    ...appState.feedConfig.sections.map((section) => ({
-      key: section.key,
-      label: section.short_label || section.title
-    }))
-  ];
-
-  toolbar.innerHTML = filters.map((filter) => `
-    <button
-      class="filter-pill"
-      type="button"
-      data-filter-key="${filter.key}"
-      aria-pressed="${filter.key === appState.filters[stateKey] ? "true" : "false"}"
-    >
-      ${escapeHtml(filter.label)}
-    </button>
-  `).join("");
-
-  toolbar.querySelectorAll("[data-filter-key]").forEach((button) => {
-    button.addEventListener("click", () => {
-      appState.filters[stateKey] = button.dataset.filterKey;
-      renderStoryCollection({
-        toolbarId: toolbar.id,
-        summaryId: toolbar.nextElementSibling && toolbar.nextElementSibling.id,
-        gridId: toolbar.nextElementSibling && toolbar.nextElementSibling.nextElementSibling && toolbar.nextElementSibling.nextElementSibling.id,
-        stateKey,
-        storyLimit: stateKey === "home"
-          ? ((appState.feedConfig && appState.feedConfig.home_latest_limit) || 12)
-          : ((appState.feedConfig && appState.feedConfig.latest_page_limit) || 36)
+    toolbar.querySelectorAll("[data-filter-key]").forEach((button) => {
+      button.addEventListener("click", () => {
+        applyToolbarFilter(toolbar, grid, summary, button.dataset.filterKey || "all");
       });
     });
+
+    applyToolbarFilter(toolbar, grid, summary, "all");
   });
 }
 
-function renderSectionsPage() {
-  const container = document.getElementById("section-directory");
-  if (!container) {
-    return;
+function applyToolbarFilter(toolbar, grid, summary, filterKey) {
+  const cards = [...grid.querySelectorAll("[data-section-key]")];
+  let visibleCount = 0;
+
+  cards.forEach((card) => {
+    const matches = filterKey === "all" || card.dataset.sectionKey === filterKey;
+    card.hidden = !matches;
+    if (matches) {
+      visibleCount += 1;
+    }
+  });
+
+  toolbar.querySelectorAll("[data-filter-key]").forEach((button) => {
+    button.setAttribute("aria-pressed", button.dataset.filterKey === filterKey ? "true" : "false");
+  });
+
+  const label = currentFilterLabel(toolbar, filterKey);
+  if (filterKey === "all") {
+    summary.textContent = `Showing ${visibleCount} story${visibleCount === 1 ? "" : "ies"} across every section in this view.`;
+  } else {
+    summary.textContent = `Showing ${visibleCount} ${label.toLowerCase()} story${visibleCount === 1 ? "" : "ies"} in this view.`;
   }
-
-  container.innerHTML = appState.feedConfig.sections.map((sectionConfig) => {
-    const section = findSection(sectionConfig.key);
-    const stories = section ? section.stories.slice(0, 4) : [];
-    const sources = sectionConfig.sources.map((source) => `
-      <a class="source-chip" href="${safeUrl(source.homepage || source.url)}" target="_blank" rel="noreferrer noopener">
-        ${escapeHtml(source.name)}
-      </a>
-    `).join("");
-
-    return `
-      <article class="directory-card" id="section-${sectionConfig.key}">
-        <p class="panel-label">${escapeHtml(sectionConfig.short_label)}</p>
-        <h3>${escapeHtml(sectionConfig.title)}</h3>
-        <p>${escapeHtml(sectionConfig.description)}</p>
-        <div class="source-row">${sources}</div>
-        <div class="story-list">
-          ${stories.length ? stories.map((story) => compactStoryMarkup(story)).join("") : '<p class="empty-card">No stories available right now.</p>'}
-        </div>
-        <a class="story-link" href="/sections/${sectionConfig.key}/">Open ${escapeHtml(sectionConfig.short_label)} desk</a>
-      </article>
-    `;
-  }).join("");
 }
 
-function renderSectionDetailPage() {
-  const body = document.body;
-  if (!body || body.dataset.page !== "section") {
-    return;
+function currentFilterLabel(toolbar, filterKey) {
+  if (filterKey === "all") {
+    return "All Stories";
   }
 
-  const sectionKey = body.dataset.sectionKey;
-  const sectionConfig = appState.feedConfig.sections.find((section) => section.key === sectionKey);
-  const section = findSection(sectionKey);
-
-  const titleNode = document.getElementById("section-detail-title");
-  const descriptionNode = document.getElementById("section-detail-description");
-  const summaryNode = document.getElementById("section-detail-summary");
-  const sourceCountNode = document.getElementById("section-source-count");
-  const storyCountNode = document.getElementById("section-story-count");
-  const leadNode = document.getElementById("section-lead-story");
-  const storiesNode = document.getElementById("section-story-grid");
-  const sourcesNode = document.getElementById("section-source-row");
-
-  if (!sectionConfig || !section || !titleNode || !descriptionNode || !summaryNode || !sourceCountNode || !storyCountNode || !leadNode || !storiesNode || !sourcesNode) {
-    return;
-  }
-
-  titleNode.textContent = sectionConfig.title;
-  descriptionNode.textContent = sectionConfig.description;
-  summaryNode.textContent = `This desk currently tracks ${section.stories.length} prepared stories from ${section.successful_sources}/${section.total_sources} active sources.`;
-  sourceCountNode.textContent = String(sectionConfig.sources.length);
-  storyCountNode.textContent = String(section.stories.length);
-
-  const [lead, ...rest] = section.stories;
-  leadNode.innerHTML = lead
-    ? `
-      <a class="featured-main section-lead-card" href="${lead.link}" target="_blank" rel="noreferrer noopener">
-        ${storyMetaMarkup(lead)}
-        <h2>${escapeHtml(lead.title)}</h2>
-        <p>${escapeHtml(lead.summary)}</p>
-        <span class="story-link">Read the full source</span>
-      </a>
-    `
-    : '<p class="empty-card">No lead story is available for this section right now.</p>';
-
-  storiesNode.innerHTML = rest.length
-    ? rest.map((story) => storyCardMarkup(story)).join("")
-    : '<p class="empty-card">More section stories will appear here when the feed refreshes.</p>';
-
-  sourcesNode.innerHTML = sectionConfig.sources.map((source) => `
-    <a class="source-chip" href="${safeUrl(source.homepage || source.url)}" target="_blank" rel="noreferrer noopener">
-      ${escapeHtml(source.name)}
-    </a>
-  `).join("");
+  const button = [...toolbar.querySelectorAll("[data-filter-key]")].find((candidate) => candidate.dataset.filterKey === filterKey);
+  return button ? button.dataset.filterLabel || button.textContent.trim() : "Filtered";
 }
 
-function renderAboutPage() {
-  const sourceWall = document.getElementById("source-wall");
-  const sourceSummary = document.getElementById("source-summary");
-  if (!sourceWall || !sourceSummary) {
+async function initializeSearchPage() {
+  const results = document.getElementById("search-results");
+  const empty = document.getElementById("search-empty");
+  if (!results || !empty) {
     return;
   }
 
-  const sourceCount = appState.feedConfig.sections.reduce((total, section) => total + section.sources.length, 0);
-  sourceSummary.textContent = `The site currently tracks ${appState.feedConfig.sections.length} sections across ${sourceCount} feed sources, mixing official institutional feeds with long-running publisher feeds.`;
+  const response = await fetch(SEARCH_INDEX_URL, { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error("Could not load search index");
+  }
 
-  const cards = [];
-  appState.feedConfig.sections.forEach((section) => {
-    section.sources.forEach((source) => {
-      cards.push(`
-        <a class="source-card" href="${safeUrl(source.homepage || source.url)}" target="_blank" rel="noreferrer noopener">
-          <span class="source-label">${escapeHtml(section.title)}</span>
-          <strong>${escapeHtml(source.name)}</strong>
-        </a>
-      `);
+  const searchIndex = await response.json();
+  const query = new URLSearchParams(window.location.search).get("q") || "";
+  const forms = [...document.querySelectorAll("[data-search-form]")];
+  const inputs = [...document.querySelectorAll("[data-search-input]")];
+  const titleNode = document.querySelector("[data-search-title]");
+  const summaryNode = document.querySelector("[data-search-summary]");
+
+  inputs.forEach((input) => {
+    input.value = query;
+  });
+
+  forms.forEach((form) => {
+    form.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const formData = new FormData(form);
+      const value = String(formData.get("q") || "").trim();
+      updateSearchQuery(value);
+      inputs.forEach((input) => {
+        input.value = value;
+      });
+      renderSearchResults(searchIndex, value, results, empty, titleNode, summaryNode);
     });
   });
 
-  sourceWall.innerHTML = cards.join("");
+  inputs.forEach((input) => {
+    input.addEventListener("input", () => {
+      const value = input.value.trim();
+      inputs.forEach((node) => {
+        if (node !== input) {
+          node.value = value;
+        }
+      });
+      updateSearchQuery(value);
+      renderSearchResults(searchIndex, value, results, empty, titleNode, summaryNode);
+    });
+  });
+
+  renderSearchResults(searchIndex, query, results, empty, titleNode, summaryNode);
 }
 
-function filterStories(stories, filterKey) {
-  if (filterKey === "all") {
-    return stories;
+function renderSearchResults(searchIndex, query, resultsNode, emptyNode, titleNode, summaryNode) {
+  const normalizedQuery = query.trim();
+  if (!normalizedQuery) {
+    resultsNode.innerHTML = "";
+    emptyNode.hidden = false;
+    emptyNode.textContent = "Enter a search above to explore the site.";
+    if (titleNode) {
+      titleNode.textContent = "Search the newsroom";
+    }
+    if (summaryNode) {
+      summaryNode.textContent = "Type a topic, person, company, place, or source to pull up matching pages.";
+    }
+    return;
   }
 
-  return stories.filter((story) => story.section_key === filterKey);
-}
-
-function getFilterLabel(filterKey) {
-  if (filterKey === "all") {
-    return "All stories";
+  const ranked = rankSearchResults(searchIndex, normalizedQuery).slice(0, 36);
+  if (!ranked.length) {
+    resultsNode.innerHTML = "";
+    emptyNode.hidden = false;
+    emptyNode.textContent = `No results found for "${normalizedQuery}".`;
+    if (titleNode) {
+      titleNode.textContent = `Search: ${normalizedQuery}`;
+    }
+    if (summaryNode) {
+      summaryNode.textContent = "Try a broader keyword, source name, or topic title.";
+    }
+    return;
   }
 
-  const section = appState.feedConfig.sections.find((candidate) => candidate.key === filterKey);
-  return section ? section.title : "Filtered";
+  emptyNode.hidden = true;
+  resultsNode.innerHTML = ranked.map((item) => searchResultMarkup(item)).join("");
+
+  if (titleNode) {
+    titleNode.textContent = `Search: ${normalizedQuery}`;
+  }
+  if (summaryNode) {
+    summaryNode.textContent = `Showing ${ranked.length} result${ranked.length === 1 ? "" : "s"} across briefs, topics, sources, and coverage pages.`;
+  }
 }
 
-function findSection(key) {
-  return appState.payload.sections.find((section) => section.key === key);
+function rankSearchResults(searchIndex, query) {
+  const normalized = normalizeText(query);
+  const tokens = normalized.split(/\s+/).filter(Boolean);
+
+  return searchIndex
+    .map((item) => {
+      const haystack = normalizeText([
+        item.title,
+        item.summary,
+        item.type,
+        item.section,
+        item.source,
+        item.keywords
+      ].join(" "));
+
+      let score = 0;
+      if (normalizeText(item.title).includes(normalized)) {
+        score += 12;
+      }
+      if (haystack.includes(normalized)) {
+        score += 6;
+      }
+
+      tokens.forEach((token) => {
+        if (normalizeText(item.title).includes(token)) {
+          score += 4;
+        }
+        if (haystack.includes(token)) {
+          score += 1;
+        }
+      });
+
+      if (item.type === "Topic" && tokens.some((token) => normalizeText(item.title).includes(token))) {
+        score += 2;
+      }
+
+      return { ...item, score };
+    })
+    .filter((item) => item.score > 0)
+    .sort((left, right) => {
+      if (right.score !== left.score) {
+        return right.score - left.score;
+      }
+      return new Date(right.timestamp || 0) - new Date(left.timestamp || 0);
+    });
 }
 
-function storyCardMarkup(story) {
+function searchResultMarkup(item) {
   return `
-    <a class="story-card" href="${story.link}" target="_blank" rel="noreferrer noopener">
-      ${storyMetaMarkup(story)}
-      <h3>${escapeHtml(story.title)}</h3>
-      <p>${escapeHtml(story.summary)}</p>
-    </a>
-  `;
-}
-
-function compactStoryMarkup(story) {
-  return `
-    <a class="story-compact" href="${story.link}" target="_blank" rel="noreferrer noopener">
+    <article class="search-card">
       <div class="story-meta">
-        <span class="story-source">${escapeHtml(story.source)}</span>
-        <span class="story-time">${formatStoryTime(story.timestamp)}</span>
+        <span class="story-tag">${escapeHtml(item.type || "Result")}</span>
+        <span class="story-source">${escapeHtml(item.section || "")}</span>
+        <span class="story-time">${escapeHtml(item.source || "")}</span>
       </div>
-      <h3>${escapeHtml(story.title)}</h3>
-      <p>${escapeHtml(story.summary)}</p>
-    </a>
+      <h3><a class="story-headline-link" href="${safeUrlOrPath(item.path)}">${escapeHtml(item.title || "Untitled")}</a></h3>
+      <p>${escapeHtml(item.summary || "")}</p>
+      <div class="story-actions">
+        <a class="story-link" href="${safeUrlOrPath(item.path)}">Open page</a>
+      </div>
+    </article>
   `;
 }
 
-function storyMetaMarkup(story) {
-  return `
-    <div class="story-meta">
-      <span class="story-tag">${escapeHtml(story.section)}</span>
-      <span class="story-source">${escapeHtml(story.source)}</span>
-      <span class="story-time">${formatStoryTime(story.timestamp)}</span>
-    </div>
-  `;
-}
-
-function handleFeedFailure() {
-  document.querySelectorAll("[data-generated-at]").forEach((node) => {
-    if (!node.textContent.trim()) {
-      node.textContent = "Update unavailable";
-    }
-  });
-
-  const track = document.getElementById("breaking-ticker-track");
-  if (track && !track.querySelector(".ticker-item")) {
-    track.innerHTML = '<span class="ticker-placeholder">Breaking headlines are temporarily unavailable.</span>';
+function updateSearchQuery(value) {
+  const url = new URL(window.location.href);
+  if (value) {
+    url.searchParams.set("q", value);
+  } else {
+    url.searchParams.delete("q");
   }
-
-  [
-    "home-latest-summary",
-    "archive-summary",
-    "source-summary"
-  ].forEach((id) => {
-    const node = document.getElementById(id);
-    if (node && !node.textContent.trim()) {
-      node.textContent = "Feed data is temporarily unavailable.";
-    }
-  });
+  window.history.replaceState({}, "", url.toString());
 }
 
-function readText(root, selectors) {
-  for (const selector of selectors) {
-    const node = root.querySelector(selector);
-    if (node && node.textContent) {
-      return node.textContent.trim();
-    }
-  }
-
-  return "";
-}
-
-function stripHtml(value) {
-  const template = document.createElement("template");
-  template.innerHTML = value;
-  return template.content.textContent ? template.content.textContent.trim() : "";
-}
-
-function summarize(text) {
-  if (!text) {
-    return "Open the original source for the full story.";
-  }
-
-  if (text.length <= 180) {
-    return text;
-  }
-
-  return `${text.slice(0, 177).trim()}...`;
-}
-
-function dedupeStories(stories) {
-  const seen = new Set();
-  return stories.filter((story) => {
-    const key = story.link || `${story.source}-${story.title}`;
-    if (seen.has(key)) {
-      return false;
-    }
-
-    seen.add(key);
-    return true;
-  });
-}
-
-function sortStoriesDesc(left, right) {
-  return new Date(right.timestamp) - new Date(left.timestamp);
-}
-
-function parseFeedTimestamp(value) {
-  const native = Date.parse(value);
-  if (!Number.isNaN(native)) {
-    return new Date(native).toISOString();
-  }
-
-  const custom = value.match(/^[A-Za-z]{3},\s*(\d{2})\/(\d{2})\/(\d{4})\s*-\s*(\d{2}):(\d{2})/);
-  if (custom) {
-    const [, month, day, year, hour, minute] = custom;
-    return new Date(Date.UTC(Number(year), Number(month) - 1, Number(day), Number(hour), Number(minute))).toISOString();
-  }
-
-  return new Date().toISOString();
-}
-
-function formatStoryTime(timestamp) {
-  return new Intl.DateTimeFormat("en-US", {
-    month: "short",
-    day: "numeric",
-    hour: "numeric",
-    minute: "2-digit"
-  }).format(new Date(timestamp));
+function normalizeText(value) {
+  return String(value || "")
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function formatInteger(value) {
   return new Intl.NumberFormat("en-US").format(Number(value) || 0);
-}
-
-function readableUrl(url) {
-  return url.replace(/^https?:\/\//, "");
 }
 
 function readSessionValue(key) {
@@ -701,7 +331,7 @@ function writeSessionValue(key, value) {
   try {
     window.sessionStorage.setItem(key, value);
   } catch {
-    // Ignore storage failures and keep the in-memory page working.
+    // Ignore storage failures and keep the page working.
   }
 }
 
@@ -712,6 +342,13 @@ function safeUrl(url) {
   } catch {
     return "#";
   }
+}
+
+function safeUrlOrPath(value) {
+  if (String(value).startsWith("/")) {
+    return value;
+  }
+  return safeUrl(value);
 }
 
 function escapeHtml(value) {

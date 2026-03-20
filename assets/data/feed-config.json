@@ -1,12 +1,66 @@
 {
-  "breaking_limit": 15,
-  "featured_limit": 3,
-  "latest_limit": 48,
-  "latest_page_limit": 60,
-  "home_latest_limit": 15,
+  "breaking_limit": 18,
+  "featured_limit": 4,
+  "latest_limit": 72,
+  "latest_page_limit": 96,
+  "home_latest_limit": 18,
   "home_section_story_limit": 4,
-  "per_section_limit": 10,
-  "source_item_limit": 12,
+  "per_section_limit": 12,
+  "source_item_limit": 14,
+  "editor_pick_limit": 4,
+  "developing_limit": 6,
+  "topic_story_limit": 12,
+  "search_story_limit": 180,
+  "topics": [
+    {
+      "key": "conflict-watch",
+      "title": "Conflict Watch",
+      "description": "Wars, military escalations, security flashpoints, and diplomatic efforts shaping the global picture.",
+      "keywords": ["war", "attack", "attacks", "missile", "missiles", "ceasefire", "iran", "israel", "gaza", "ukraine", "russia", "military", "strait", "troops"]
+    },
+    {
+      "key": "markets-economy",
+      "title": "Markets & Economy",
+      "description": "Inflation, rates, energy shocks, stocks, and the policy moves steering the business day.",
+      "keywords": ["market", "markets", "economy", "economic", "inflation", "rates", "rate", "fed", "borrowing", "stocks", "oil", "energy", "earnings", "tariff", "jobs"]
+    },
+    {
+      "key": "power-policy",
+      "title": "Power & Policy",
+      "description": "Government, elections, courts, universities, and the stories moving public life.",
+      "keywords": ["trump", "biden", "election", "elections", "campaign", "congress", "senate", "house", "court", "harvard", "student", "loan", "policy", "department", "president", "government"]
+    },
+    {
+      "key": "ai-tech-shift",
+      "title": "AI & Tech Shift",
+      "description": "Artificial intelligence, platforms, hardware, and the software stories changing how people work and build.",
+      "keywords": ["ai", "artificial intelligence", "openai", "google", "apple", "meta", "microsoft", "chip", "chips", "semiconductor", "software", "platform", "app", "robot"]
+    },
+    {
+      "key": "climate-energy",
+      "title": "Climate & Energy",
+      "description": "Climate, weather, energy systems, and the environment stories with public consequences.",
+      "keywords": ["climate", "weather", "heat", "storm", "wildfire", "energy", "environment", "emissions", "ocean", "earth", "air quality", "carbon"]
+    },
+    {
+      "key": "space-science-frontier",
+      "title": "Space & Science Frontier",
+      "description": "Spaceflight, major research, and science stories with a wider public or technological impact.",
+      "keywords": ["nasa", "artemis", "space", "rocket", "moon", "mars", "science", "scientists", "launch", "research", "volcano", "engineering"]
+    },
+    {
+      "key": "public-health-watch",
+      "title": "Public Health Watch",
+      "description": "Medicine, disease, research, and health system stories readers need explained clearly.",
+      "keywords": ["health", "disease", "medical", "medicine", "hospital", "virus", "meningitis", "nih", "who", "patients", "trial", "outbreak"]
+    },
+    {
+      "key": "sports-culture",
+      "title": "Sports & Culture",
+      "description": "Sports, entertainment, and culture stories dominating conversation and screens.",
+      "keywords": ["sport", "sports", "football", "liverpool", "ashes", "league", "entertainment", "actor", "album", "radio", "film", "music", "portrait"]
+    }
+  ],
   "sections": [
     {
       "key": "top-stories",

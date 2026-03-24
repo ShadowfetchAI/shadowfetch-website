@@ -27,6 +27,8 @@ SEARCH_PATH = ROOT / "search" / "index.html"
 ARCHIVE_INDEX_PATH = ROOT / "archive" / "index.html"
 SOURCES_INDEX_PATH = ROOT / "sources" / "index.html"
 ROUNDUP_TODAY_PATH = ROOT / "roundups" / "today" / "index.html"
+RSS_FEED_PATH = ROOT / "feed.xml"
+OG_DEFAULT_IMAGE = "https://shadowfetch.com/assets/shadowfetch-og.png"
 
 SECTION_ROOT = ROOT / "sections"
 TOPIC_ROOT = ROOT / "topics"
@@ -89,6 +91,8 @@ SECTION_CONTEXT = {
     "sports": "It has enough momentum or cultural spillover to rise above routine scorekeeping and become part of the larger conversation.",
     "entertainment": "It is moving conversation in culture, media, or entertainment fast enough to deserve a more deliberate read than a quick headline glance.",
     "u-s-politics": "It influences power, public institutions, or the governing story of the day, so follow-up coverage is likely to build quickly.",
+    "ai-machine-learning": "It sits at the intersection of research, product, and capital in ways that tend to ripple quickly into hiring, regulation, and the way people work.",
+    "crypto-finance": "It touches digital assets, financial infrastructure, or regulatory posture in ways that move fast and often create second-order effects across markets.",
 }
 
 
@@ -109,6 +113,7 @@ def main() -> None:
     build_search_index(config, model)
     build_sitemap(model)
     build_robots()
+    build_rss_feed(model)
 
 
 def load_json(path: Path) -> dict:
@@ -486,6 +491,9 @@ def annotate_story(story: dict, source_lookup: dict[str, dict]) -> dict:
         "topic_keys": [],
         "topics": [],
         "coverage_links": [],
+        "is_breaking": is_breaking_story(story.get("timestamp")),
+        "is_new": is_new_story(story.get("timestamp")),
+        "reading_time": estimate_reading_time(story.get("title", ""), story.get("summary", "")),
     }
 
 
@@ -698,6 +706,50 @@ def build_search_index(config: dict, model: dict) -> None:
         )
 
     SEARCH_INDEX_PATH.write_text(json.dumps(documents, indent=2), encoding="utf-8")
+
+
+def build_rss_feed(model: dict) -> None:
+    """Generate a standard RSS 2.0 feed from the latest stories."""
+    stories = model.get("stories", [])[:40]
+    base_url = model.get("base_url", "https://shadowfetch.com")
+
+    items = []
+    for story in stories:
+        title = story.get("title", "Untitled")
+        link = f"{base_url}{story['brief_path']}"
+        description = story.get("summary", "")
+        pub_date = story.get("display_time", "")
+        source = story.get("source", "")
+        section = story.get("section", "News")
+
+        items.append(f"""  <item>
+    <title><![CDATA[{title}]]></title>
+    <link>{link}</link>
+    <description><![CDATA[{description}]]></description>
+    <pubDate>{pub_date}</pubDate>
+    <category>{section}</category>
+    <author>{source}</author>
+    <guid isPermaLink="true">{link}</guid>
+  </item>""")
+
+    rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>ShadowFetch News</title>
+  <link>{base_url}</link>
+  <description>Late-breaking headlines across every beat — aggregated, organized, and brief-first.</description>
+  <language>en-us</language>
+  <atom:link href="{base_url}/feed.xml" rel="self" type="application/rss+xml"/>
+  <image>
+    <url>{OG_DEFAULT_IMAGE}</url>
+    <title>ShadowFetch News</title>
+    <link>{base_url}</link>
+  </image>
+{"".join(items)}
+</channel>
+</rss>"""
+
+    RSS_FEED_PATH.write_text(rss, encoding="utf-8")
 
 
 def build_sitemap(model: dict) -> None:
@@ -1552,6 +1604,12 @@ def render_brief_page(story: dict, model: dict, context: dict) -> str:
           <a class="button button-primary" href="{story['link']}" target="_blank" rel="noreferrer noopener">Open original source</a>
           <a class="button button-secondary" href="{story['section_path']}">Back to {escape(story['section'])}</a>
         </div>
+        <div class="share-row">
+          <span class="share-label">Share:</span>
+          <a class="share-btn share-x" href="https://x.com/intent/tweet?text={parse.quote(story['title'])}&url=https://shadowfetch.com{story['brief_path']}" target="_blank" rel="noreferrer noopener">X / Twitter</a>
+          <a class="share-btn share-bluesky" href="https://bsky.app/intent/compose?text={parse.quote(story['title'] + ' https://shadowfetch.com' + story['brief_path'])}" target="_blank" rel="noreferrer noopener">Bluesky</a>
+        </div>
+        <p class="story-reading-time-brief">{story.get('reading_time', '')}</p>
       </div>
     </section>
     """
@@ -1840,6 +1898,7 @@ def page_shell(
     )
     body_prefix = f' data-page="{escape(page_key)}"'
     body_attr_string = f"{body_prefix} {body_attr_markup}".rstrip()
+    og_image = OG_DEFAULT_IMAGE
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -1850,14 +1909,18 @@ def page_shell(
   <meta name="description" content="{escape(description)}">
   <meta name="theme-color" content="#071019">
   <link rel="canonical" href="{canonical_url}">
+  <link rel="alternate" type="application/rss+xml" title="ShadowFetch News RSS" href="/feed.xml">
   <meta property="og:title" content="{escape(title)}">
   <meta property="og:description" content="{escape(description)}">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="ShadowFetch News">
   <meta property="og:url" content="{canonical_url}">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="{og_image}">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{escape(title)}">
   <meta name="twitter:description" content="{escape(description)}">
+  <meta name="twitter:image" content="{og_image}">
+  <meta name="twitter:site" content="@MrBobCorbin">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
@@ -2326,6 +2389,7 @@ def story_card_markup(story: dict) -> str:
       <div class="story-actions">
         <a class="story-link" href="{story['brief_path']}">Open brief</a>
         <a class="story-source-link" href="{story['link']}" target="_blank" rel="noreferrer noopener">Original source</a>
+        <span class="story-reading-time">{story.get('reading_time', '')}</span>
       </div>
     </article>
     """
@@ -2388,8 +2452,14 @@ def render_source_row_from_configs(sources: list[dict]) -> str:
 
 
 def story_meta_markup(story: dict) -> str:
+    badge = ""
+    if story.get("is_breaking"):
+        badge = '<span class="story-badge badge-breaking">BREAKING</span>'
+    elif story.get("is_new"):
+        badge = '<span class="story-badge badge-new">NEW</span>'
     return f"""
       <div class="story-meta">
+        {badge}
         <a class="story-tag" href="{story['section_path']}">{escape(story.get('section', 'General'))}</a>
         <a class="story-source" href="{story['source_path']}">{escape(story.get('source', 'Source'))}</a>
         <span class="story-time">{escape(story.get('display_time', ''))}</span>
@@ -2568,6 +2638,31 @@ def recency_class(value: str | None) -> str:
     if total_minutes < 180:
         return "story-recency-warm"
     return "story-recency-cool"
+
+
+def is_breaking_story(value: str | None) -> bool:
+    """True if the story was published within the last 15 minutes."""
+    from datetime import datetime, timezone
+    parsed = parse_timestamp(value)
+    now = datetime.now(timezone.utc)
+    delta = now - parsed
+    return delta.total_seconds() < 900  # 15 min
+
+
+def is_new_story(value: str | None) -> bool:
+    """True if the story was published within the last 2 hours."""
+    from datetime import datetime, timezone
+    parsed = parse_timestamp(value)
+    now = datetime.now(timezone.utc)
+    delta = now - parsed
+    return delta.total_seconds() < 7200  # 2 hr
+
+
+def estimate_reading_time(title: str, summary: str) -> str:
+    """Estimate reading time based on brief word count."""
+    words = len((title + " " + summary).split())
+    minutes = max(1, round(words / 200))
+    return f"{minutes} min read"
 
 
 def format_archive_date(date_key: str) -> str:

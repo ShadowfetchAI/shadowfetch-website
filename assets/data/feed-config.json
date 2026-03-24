@@ -1,64 +1,70 @@
 {
-  "breaking_limit": 18,
+  "breaking_limit": 24,
   "featured_limit": 4,
-  "latest_limit": 72,
-  "latest_page_limit": 96,
-  "home_latest_limit": 18,
+  "latest_limit": 96,
+  "latest_page_limit": 120,
+  "home_latest_limit": 24,
   "home_section_story_limit": 4,
-  "per_section_limit": 12,
-  "source_item_limit": 14,
+  "per_section_limit": 16,
+  "source_item_limit": 12,
   "editor_pick_limit": 4,
-  "developing_limit": 6,
-  "topic_story_limit": 12,
-  "search_story_limit": 180,
+  "developing_limit": 8,
+  "topic_story_limit": 16,
+  "search_story_limit": 240,
   "topics": [
     {
       "key": "conflict-watch",
       "title": "Conflict Watch",
       "description": "Wars, military escalations, security flashpoints, and diplomatic efforts shaping the global picture.",
-      "keywords": ["war", "attack", "attacks", "missile", "missiles", "ceasefire", "iran", "israel", "gaza", "ukraine", "russia", "military", "strait", "troops"]
+      "keywords": ["war", "attack", "attacks", "missile", "missiles", "ceasefire", "iran", "israel", "gaza", "ukraine", "russia", "military", "strait", "troops", "sanctions", "nuclear", "drone", "invasion"]
     },
     {
       "key": "markets-economy",
       "title": "Markets & Economy",
       "description": "Inflation, rates, energy shocks, stocks, and the policy moves steering the business day.",
-      "keywords": ["market", "markets", "economy", "economic", "inflation", "rates", "rate", "fed", "borrowing", "stocks", "oil", "energy", "earnings", "tariff", "jobs"]
+      "keywords": ["market", "markets", "economy", "economic", "inflation", "rates", "rate", "fed", "borrowing", "stocks", "oil", "energy", "earnings", "tariff", "jobs", "gdp", "recession", "crypto", "bitcoin", "dow", "nasdaq"]
     },
     {
       "key": "power-policy",
       "title": "Power & Policy",
       "description": "Government, elections, courts, universities, and the stories moving public life.",
-      "keywords": ["trump", "biden", "election", "elections", "campaign", "congress", "senate", "house", "court", "harvard", "student", "loan", "policy", "department", "president", "government"]
+      "keywords": ["trump", "biden", "election", "elections", "campaign", "congress", "senate", "house", "court", "supreme court", "policy", "department", "president", "government", "doge", "white house", "executive order"]
     },
     {
       "key": "ai-tech-shift",
       "title": "AI & Tech Shift",
       "description": "Artificial intelligence, platforms, hardware, and the software stories changing how people work and build.",
-      "keywords": ["ai", "artificial intelligence", "openai", "google", "apple", "meta", "microsoft", "chip", "chips", "semiconductor", "software", "platform", "app", "robot"]
+      "keywords": ["ai", "artificial intelligence", "openai", "google", "apple", "meta", "microsoft", "chip", "chips", "semiconductor", "software", "platform", "app", "robot", "gpt", "claude", "gemini", "llm", "model", "nvidia", "automation"]
     },
     {
       "key": "climate-energy",
       "title": "Climate & Energy",
       "description": "Climate, weather, energy systems, and the environment stories with public consequences.",
-      "keywords": ["climate", "weather", "heat", "storm", "wildfire", "energy", "environment", "emissions", "ocean", "earth", "air quality", "carbon"]
+      "keywords": ["climate", "weather", "heat", "storm", "wildfire", "energy", "environment", "emissions", "ocean", "earth", "air quality", "carbon", "solar", "wind", "hurricane", "flood", "drought"]
     },
     {
       "key": "space-science-frontier",
       "title": "Space & Science Frontier",
       "description": "Spaceflight, major research, and science stories with a wider public or technological impact.",
-      "keywords": ["nasa", "artemis", "space", "rocket", "moon", "mars", "science", "scientists", "launch", "research", "volcano", "engineering"]
+      "keywords": ["nasa", "artemis", "space", "rocket", "moon", "mars", "science", "scientists", "launch", "research", "volcano", "engineering", "spacex", "starship", "orbit", "asteroid", "telescope", "discovery"]
     },
     {
       "key": "public-health-watch",
       "title": "Public Health Watch",
       "description": "Medicine, disease, research, and health system stories readers need explained clearly.",
-      "keywords": ["health", "disease", "medical", "medicine", "hospital", "virus", "meningitis", "nih", "who", "patients", "trial", "outbreak"]
+      "keywords": ["health", "disease", "medical", "medicine", "hospital", "virus", "meningitis", "nih", "who", "patients", "trial", "outbreak", "cancer", "vaccine", "fda", "drug", "mental health"]
     },
     {
       "key": "sports-culture",
       "title": "Sports & Culture",
       "description": "Sports, entertainment, and culture stories dominating conversation and screens.",
-      "keywords": ["sport", "sports", "football", "liverpool", "ashes", "league", "entertainment", "actor", "album", "radio", "film", "music", "portrait"]
+      "keywords": ["sport", "sports", "football", "baseball", "yankees", "braves", "nba", "nfl", "mlb", "entertainment", "actor", "album", "film", "music", "oscar", "grammy", "movie", "game"]
+    },
+    {
+      "key": "crypto-finance",
+      "title": "Crypto & Finance",
+      "description": "Digital assets, blockchain, fintech, and the stories reshaping how money moves.",
+      "keywords": ["bitcoin", "ethereum", "crypto", "blockchain", "defi", "nft", "stablecoin", "coinbase", "binance", "sec crypto", "digital asset", "web3", "token", "wallet", "exchange"]
     }
   ],
   "sections": [
@@ -74,14 +80,29 @@
           "homepage": "https://www.bbc.com/news"
         },
         {
-          "name": "New York Times Home",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-          "homepage": "https://www.nytimes.com/"
+          "name": "Reuters Top News",
+          "url": "https://feeds.reuters.com/reuters/topNews",
+          "homepage": "https://www.reuters.com"
+        },
+        {
+          "name": "AP Top News",
+          "url": "https://feeds.apnews.com/rss/apf-topnews",
+          "homepage": "https://apnews.com"
         },
         {
           "name": "NPR News",
           "url": "https://feeds.npr.org/1001/rss.xml",
           "homepage": "https://www.npr.org/sections/news/"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/rss",
+          "homepage": "https://www.theguardian.com"
+        },
+        {
+          "name": "Axios",
+          "url": "https://api.axios.com/feed/",
+          "homepage": "https://www.axios.com"
         }
       ]
     },
@@ -97,14 +118,72 @@
           "homepage": "https://www.bbc.com/news/world"
         },
         {
-          "name": "New York Times World",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-          "homepage": "https://www.nytimes.com/section/world"
+          "name": "Reuters World",
+          "url": "https://feeds.reuters.com/reuters/worldNews",
+          "homepage": "https://www.reuters.com/world/"
+        },
+        {
+          "name": "AP World",
+          "url": "https://feeds.apnews.com/rss/apf-intlnews",
+          "homepage": "https://apnews.com/world-news"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "homepage": "https://www.theguardian.com/world"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "homepage": "https://www.aljazeera.com"
         },
         {
           "name": "NPR World",
           "url": "https://feeds.npr.org/1004/rss.xml",
           "homepage": "https://www.npr.org/sections/world/"
+        },
+        {
+          "name": "DW World",
+          "url": "https://rss.dw.com/rdf/rss-en-world",
+          "homepage": "https://www.dw.com/en/top-stories/s-9097"
+        }
+      ]
+    },
+    {
+      "key": "u-s-politics",
+      "title": "U.S. & Politics",
+      "short_label": "Politics",
+      "description": "Government, elections, public policy, and the stories reshaping the political landscape.",
+      "sources": [
+        {
+          "name": "NPR Politics",
+          "url": "https://feeds.npr.org/1014/rss.xml",
+          "homepage": "https://www.npr.org/sections/politics/"
+        },
+        {
+          "name": "AP Politics",
+          "url": "https://feeds.apnews.com/rss/apf-politics",
+          "homepage": "https://apnews.com/politics"
+        },
+        {
+          "name": "The Hill",
+          "url": "https://thehill.com/feed/",
+          "homepage": "https://thehill.com"
+        },
+        {
+          "name": "Politico",
+          "url": "https://rss.politico.com/politics-news.xml",
+          "homepage": "https://www.politico.com"
+        },
+        {
+          "name": "BBC Politics",
+          "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+          "homepage": "https://www.bbc.com/news/politics"
+        },
+        {
+          "name": "Reuters Politics",
+          "url": "https://feeds.reuters.com/reuters/politicsNews",
+          "homepage": "https://www.reuters.com/politics/"
         }
       ]
     },
@@ -115,14 +194,24 @@
       "description": "Corporate, economic, and market-moving updates with an institutional edge.",
       "sources": [
         {
+          "name": "Reuters Business",
+          "url": "https://feeds.reuters.com/reuters/businessNews",
+          "homepage": "https://www.reuters.com/business/"
+        },
+        {
           "name": "BBC Business",
           "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
           "homepage": "https://www.bbc.com/news/business"
         },
         {
-          "name": "New York Times Business",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-          "homepage": "https://www.nytimes.com/section/business"
+          "name": "AP Business",
+          "url": "https://feeds.apnews.com/rss/apf-business",
+          "homepage": "https://apnews.com/business"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+          "homepage": "https://www.marketwatch.com"
         },
         {
           "name": "Federal Reserve Press Releases",
@@ -133,6 +222,11 @@
           "name": "SEC Press Releases",
           "url": "https://www.sec.gov/news/pressreleases.rss",
           "homepage": "https://www.sec.gov/newsroom/press-releases"
+        },
+        {
+          "name": "The Guardian Business",
+          "url": "https://www.theguardian.com/business/rss",
+          "homepage": "https://www.theguardian.com/business"
         }
       ]
     },
@@ -143,21 +237,6 @@
       "description": "Big-platform shifts, product news, digital infrastructure, and software trends.",
       "sources": [
         {
-          "name": "BBC Technology",
-          "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-          "homepage": "https://www.bbc.com/news/technology"
-        },
-        {
-          "name": "New York Times Technology",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-          "homepage": "https://www.nytimes.com/section/technology"
-        },
-        {
-          "name": "NASA Technology",
-          "url": "https://www.nasa.gov/technology/feed/",
-          "homepage": "https://www.nasa.gov/technology/"
-        },
-        {
           "name": "Ars Technica",
           "url": "https://feeds.arstechnica.com/arstechnica/index",
           "homepage": "https://arstechnica.com/"
@@ -166,6 +245,69 @@
           "name": "The Verge",
           "url": "https://www.theverge.com/rss/index.xml",
           "homepage": "https://www.theverge.com/"
+        },
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/feed/rss",
+          "homepage": "https://www.wired.com"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/feed/",
+          "homepage": "https://techcrunch.com"
+        },
+        {
+          "name": "BBC Technology",
+          "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+          "homepage": "https://www.bbc.com/news/technology"
+        },
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/feed/",
+          "homepage": "https://www.technologyreview.com"
+        },
+        {
+          "name": "Reuters Technology",
+          "url": "https://feeds.reuters.com/reuters/technologyNews",
+          "homepage": "https://www.reuters.com/technology/"
+        }
+      ]
+    },
+    {
+      "key": "ai-machine-learning",
+      "title": "AI & Machine Learning",
+      "short_label": "AI",
+      "description": "Artificial intelligence research, products, policy, and the companies racing to define the technology.",
+      "sources": [
+        {
+          "name": "VentureBeat AI",
+          "url": "https://venturebeat.com/category/ai/feed/",
+          "homepage": "https://venturebeat.com/ai/"
+        },
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+          "homepage": "https://www.theverge.com/ai-artificial-intelligence"
+        },
+        {
+          "name": "Ars Technica AI",
+          "url": "https://feeds.arstechnica.com/arstechnica/ai",
+          "homepage": "https://arstechnica.com/ai/"
+        },
+        {
+          "name": "MIT Tech Review AI",
+          "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+          "homepage": "https://www.technologyreview.com/topic/artificial-intelligence/"
+        },
+        {
+          "name": "Wired AI",
+          "url": "https://www.wired.com/tag/artificial-intelligence/feed/rss",
+          "homepage": "https://www.wired.com/tag/artificial-intelligence/"
+        },
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "homepage": "https://techcrunch.com/category/artificial-intelligence/"
         }
       ]
     },
@@ -186,14 +328,29 @@
           "homepage": "https://www.nasa.gov/missions/artemis/"
         },
         {
-          "name": "NIH News Releases",
-          "url": "https://www.nih.gov/news-releases/feed.xml",
-          "homepage": "https://www.nih.gov/news-events/news-releases"
-        },
-        {
           "name": "NASA Earth",
           "url": "https://www.nasa.gov/earth/feed/",
           "homepage": "https://www.nasa.gov/earth/"
+        },
+        {
+          "name": "Space.com",
+          "url": "https://www.space.com/feeds/all",
+          "homepage": "https://www.space.com"
+        },
+        {
+          "name": "ESA News",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "homepage": "https://www.esa.int/Newsroom"
+        },
+        {
+          "name": "ScienceDaily Top",
+          "url": "https://www.sciencedaily.com/rss/top/science.xml",
+          "homepage": "https://www.sciencedaily.com"
+        },
+        {
+          "name": "Ars Technica Science",
+          "url": "https://feeds.arstechnica.com/arstechnica/science",
+          "homepage": "https://arstechnica.com/science/"
         }
       ]
     },
@@ -204,9 +361,14 @@
       "description": "Climate, weather, oceans, energy transition, and environmental policy.",
       "sources": [
         {
-          "name": "New York Times Climate",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
-          "homepage": "https://www.nytimes.com/section/climate"
+          "name": "BBC Science & Environment",
+          "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "homepage": "https://www.bbc.com/news/science_and_environment"
+        },
+        {
+          "name": "The Guardian Environment",
+          "url": "https://www.theguardian.com/environment/rss",
+          "homepage": "https://www.theguardian.com/environment"
         },
         {
           "name": "NASA Earth",
@@ -214,9 +376,19 @@
           "homepage": "https://www.nasa.gov/earth/"
         },
         {
-          "name": "BBC Science & Environment",
-          "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-          "homepage": "https://www.bbc.com/news/science_and_environment"
+          "name": "Reuters Environment",
+          "url": "https://feeds.reuters.com/reuters/environment",
+          "homepage": "https://www.reuters.com/business/environment/"
+        },
+        {
+          "name": "AP Climate",
+          "url": "https://feeds.apnews.com/rss/apf-climate",
+          "homepage": "https://apnews.com/climate-and-environment"
+        },
+        {
+          "name": "NOAA News",
+          "url": "https://www.noaa.gov/news-release/feed",
+          "homepage": "https://www.noaa.gov/news"
         }
       ]
     },
@@ -240,6 +412,21 @@
           "name": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/feed/",
           "homepage": "https://www.bleepingcomputer.com/"
+        },
+        {
+          "name": "The Hacker News",
+          "url": "https://feeds.feedburner.com/TheHackersNews",
+          "homepage": "https://thehackernews.com"
+        },
+        {
+          "name": "Dark Reading",
+          "url": "https://www.darkreading.com/rss.xml",
+          "homepage": "https://www.darkreading.com"
+        },
+        {
+          "name": "CISA Alerts",
+          "url": "https://www.cisa.gov/news.xml",
+          "homepage": "https://www.cisa.gov/news-events/news"
         }
       ]
     },
@@ -255,14 +442,29 @@
           "homepage": "https://www.bbc.com/news/health"
         },
         {
-          "name": "NIMH Main Feed",
-          "url": "https://www.nimh.nih.gov/site-info/index-rss.atom",
-          "homepage": "https://www.nimh.nih.gov/news"
-        },
-        {
           "name": "WHO News",
           "url": "https://www.who.int/rss-feeds/news-english.xml",
           "homepage": "https://www.who.int/news"
+        },
+        {
+          "name": "NIH News Releases",
+          "url": "https://www.nih.gov/news-releases/feed.xml",
+          "homepage": "https://www.nih.gov/news-events/news-releases"
+        },
+        {
+          "name": "AP Health",
+          "url": "https://feeds.apnews.com/rss/apf-Health",
+          "homepage": "https://apnews.com/health"
+        },
+        {
+          "name": "Reuters Health",
+          "url": "https://feeds.reuters.com/reuters/healthNews",
+          "homepage": "https://www.reuters.com/business/healthcare-pharmaceuticals/"
+        },
+        {
+          "name": "STAT News",
+          "url": "https://www.statnews.com/feed/",
+          "homepage": "https://www.statnews.com"
         }
       ]
     },
@@ -273,19 +475,39 @@
       "description": "A broad sports wire for big events and fast-moving score-driven headlines.",
       "sources": [
         {
+          "name": "ESPN Headlines",
+          "url": "https://www.espn.com/espn/rss/news",
+          "homepage": "https://www.espn.com/"
+        },
+        {
+          "name": "ESPN MLB",
+          "url": "https://www.espn.com/espn/rss/mlb/news",
+          "homepage": "https://www.espn.com/mlb/"
+        },
+        {
+          "name": "ESPN NFL",
+          "url": "https://www.espn.com/espn/rss/nfl/news",
+          "homepage": "https://www.espn.com/nfl/"
+        },
+        {
+          "name": "ESPN NBA",
+          "url": "https://www.espn.com/espn/rss/nba/news",
+          "homepage": "https://www.espn.com/nba/"
+        },
+        {
           "name": "BBC Sport",
           "url": "https://feeds.bbci.co.uk/sport/rss.xml",
           "homepage": "https://www.bbc.com/sport"
         },
         {
-          "name": "BBC Sport Football",
-          "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-          "homepage": "https://www.bbc.com/sport/football"
+          "name": "AP Sports",
+          "url": "https://feeds.apnews.com/rss/apf-sports",
+          "homepage": "https://apnews.com/sports"
         },
         {
-          "name": "ESPN Headlines",
-          "url": "https://www.espn.com/espn/rss/news",
-          "homepage": "https://www.espn.com/"
+          "name": "The Athletic",
+          "url": "https://theathletic.com/rss/news/",
+          "homepage": "https://theathletic.com"
         }
       ]
     },
@@ -301,37 +523,62 @@
           "homepage": "https://www.bbc.com/news/entertainment_and_arts"
         },
         {
-          "name": "New York Times Arts",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
-          "homepage": "https://www.nytimes.com/section/arts"
+          "name": "Variety",
+          "url": "https://variety.com/feed/",
+          "homepage": "https://variety.com"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/feed/",
+          "homepage": "https://www.hollywoodreporter.com"
+        },
+        {
+          "name": "Rolling Stone",
+          "url": "https://www.rollingstone.com/feed/",
+          "homepage": "https://www.rollingstone.com"
+        },
+        {
+          "name": "Pitchfork",
+          "url": "https://pitchfork.com/rss/news/",
+          "homepage": "https://pitchfork.com"
+        },
+        {
+          "name": "AP Entertainment",
+          "url": "https://feeds.apnews.com/rss/apf-entertainment",
+          "homepage": "https://apnews.com/entertainment"
         }
       ]
     },
     {
-      "key": "u-s-politics",
-      "title": "U.S. & Politics",
-      "short_label": "Politics",
-      "description": "Government, elections, public policy, and the stories reshaping the political landscape.",
+      "key": "crypto-finance",
+      "title": "Crypto & Finance",
+      "short_label": "Crypto",
+      "description": "Bitcoin, digital assets, blockchain, and fintech stories reshaping how money moves.",
       "sources": [
         {
-          "name": "BBC Politics",
-          "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
-          "homepage": "https://www.bbc.com/news/politics"
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+          "homepage": "https://www.coindesk.com"
         },
         {
-          "name": "New York Times U.S.",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
-          "homepage": "https://www.nytimes.com/section/us"
+          "name": "The Block",
+          "url": "https://www.theblock.co/rss.xml",
+          "homepage": "https://www.theblock.co"
         },
         {
-          "name": "New York Times Politics",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-          "homepage": "https://www.nytimes.com/section/politics"
+          "name": "Decrypt",
+          "url": "https://decrypt.co/feed",
+          "homepage": "https://decrypt.co"
         },
         {
-          "name": "NPR Politics",
-          "url": "https://feeds.npr.org/1014/rss.xml",
-          "homepage": "https://www.npr.org/sections/politics/"
+          "name": "Reuters Crypto",
+          "url": "https://feeds.reuters.com/reuters/cryptoNews",
+          "homepage": "https://www.reuters.com/technology/crypto/"
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/rss",
+          "homepage": "https://cointelegraph.com"
         }
       ]
     }

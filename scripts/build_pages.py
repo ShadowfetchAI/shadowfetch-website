@@ -49,7 +49,17 @@ SOCIAL_X_URL = "https://x.com/MrBobCorbin"
 SOCIAL_BLUESKY_URL = "https://bsky.app/profile/mrbobcorbin.bsky.social"
 SOCIAL_KALSHI_URL = "https://kalshi.com/sign-up/?referral=6ca54e6d-a516-4918-bc0a-829b18f99f70"
 AUTHOR_NAME = "MrBobCorbin"
-OG_DEFAULT_IMAGE = "https://shadowfetch.com/assets/shadowfetch-mark.svg"
+THEME_COLOR = "#111111"
+
+
+def compute_asset_version() -> str:
+    digest = hashlib.sha1()
+    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg"):
+        digest.update((ROOT / relative_path).read_bytes())
+    return digest.hexdigest()[:12]
+
+
+ASSET_VERSION = compute_asset_version()
 
 STOPWORDS = {
     "about",
@@ -123,6 +133,11 @@ def main() -> None:
 
 def load_json(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def asset_url(filename: str, *, absolute: bool = False) -> str:
+    prefix = site_base_url() if absolute else ""
+    return f"{prefix}/assets/{filename}?v={ASSET_VERSION}"
 
 
 def normalize_payload(payload: dict) -> dict:
@@ -538,6 +553,48 @@ def fetch_counter_value() -> int:
         return 0
 
 
+def select_front_page_stories(stories: list[dict], limit: int) -> list[dict]:
+    selected: list[dict] = []
+    seen: set[str] = set()
+    for story in stories:
+        identity = story_identity(story)
+        if identity in seen:
+            continue
+        seen.add(identity)
+        selected.append(story)
+        if len(selected) >= limit:
+            break
+    return selected
+
+
+def render_newspaper_story_block(story: dict | None, *, lead: bool = False, label: str | None = None) -> str:
+    if not story:
+        return '<article class="newsprint-block"><p class="empty-card">The next edition block will populate on refresh.</p></article>'
+
+    headline_tag = "h1" if lead else "h3"
+    source_url = safe_url(story.get("link", "")) or story.get("brief_path", "/latest/")
+    brief_url = story.get("brief_path", "/latest/")
+    kicker = label or story.get("section", "Front Page")
+
+    return f"""
+    <article class="newsprint-block{' newsprint-block-lead' if lead else ''}" data-section-key="{escape(story.get('section_key', ''))}">
+      <p class="paper-kicker">{escape(kicker)}</p>
+      <div class="paper-meta">
+        <a class="story-source" href="{story['source_path']}">{escape(story.get('source', 'Source'))}</a>
+        <span class="story-time">{escape(story.get('display_time', ''))}</span>
+      </div>
+      <{headline_tag} class="paper-headline">
+        <a class="story-headline-link" href="{source_url}" target="_blank" rel="noreferrer noopener">{escape(story.get('title', ''))}</a>
+      </{headline_tag}>
+      <p class="paper-summary">{escape(story.get('summary', ''))}</p>
+      <div class="story-actions">
+        <a class="story-source-link" href="{source_url}" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="{brief_url}">ShadowFetch brief</a>
+      </div>
+    </article>
+    """
+
+
 def build_primary_pages(config: dict, model: dict, context: dict) -> None:
     latest_limit = int(config.get("latest_page_limit", 96))
     home_latest_limit = int(config.get("home_latest_limit", 18))
@@ -784,7 +841,7 @@ def build_rss_feed(model: dict) -> None:
   <language>en-us</language>
   <atom:link href="{base_url}/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
-    <url>{OG_DEFAULT_IMAGE}</url>
+    <url>{asset_url("shadowfetch-mark.svg", absolute=True)}</url>
     <title>ShadowFetch News</title>
     <link>{base_url}</link>
   </image>
@@ -1078,61 +1135,69 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
     topics = model.get("topics", [])[:6]
     editors_picks = model.get("editors_picks", [])
     journal_posts = model.get("journal_posts", [])[:3]
-    lead_feature = featured[0] if featured else None
-    lead_pick = editors_picks[0] if editors_picks else None
-    lead_journal = journal_posts[0] if journal_posts else None
+    front_page_stories = select_front_page_stories(featured + model.get("latest", []), 7)
+    lead_feature = front_page_stories[0] if front_page_stories else None
+    left_column_stories = front_page_stories[1:3]
+    right_column_stories = front_page_stories[3:5]
+    lower_row_stories = front_page_stories[5:7]
+    desk_line = " • ".join(escape(section.get("short_label", section["title"])) for section in sections[:8])
+    left_markup = "".join(render_newspaper_story_block(story) for story in left_column_stories)
+    right_markup = "".join(render_newspaper_story_block(story) for story in right_column_stories)
+    lower_markup = "".join(render_newspaper_story_block(story) for story in lower_row_stories)
 
     hero = f"""
     <section class="container hero hero-home">
-      <div class="hero-copy">
-        <p class="eyebrow">Morning Edition</p>
-        <h1>The day’s biggest stories, laid out with the calm of an old paper and the speed of a live wire.</h1>
-        <p class="hero-text">
-          ShadowFetch News is now built as a broad front page: major-source headlines, cleaner desks,
-          a source-first wire, and a journal where your own columns and dispatches can live beside the news.
-        </p>
-        <div class="hero-actions">
-          <a class="button button-primary" href="/latest/">Open the newswire</a>
-          <a class="button button-secondary" href="/journal/">Read the journal</a>
+      <div class="newsprint-frontpage">
+        <div class="newsprint-ribbon">
+          <span>Morning Edition</span>
+          <span>{desk_line}</span>
         </div>
-        {render_search_form("", "hero")}
-        <div class="hero-stats">
-          <article>
-            <span class="stat-label">Sections</span>
-            <strong>{context['section_count']}</strong>
-          </article>
-          <article>
-            <span class="stat-label">Sources</span>
-            <strong>{context['source_count']}</strong>
-          </article>
-          <article>
-            <span class="stat-label">Briefs</span>
-            <strong>{context['brief_count']}</strong>
-          </article>
-          <article>
-            <span class="stat-label">Journal</span>
-            <strong>{context['journal_count']}</strong>
-          </article>
+        <div class="newsprint-grid">
+          <div class="newsprint-column">
+            {left_markup or '<p class="empty-card">More side-column stories will fill here after the next update.</p>'}
+          </div>
+
+          <div class="newsprint-center">
+            {render_newspaper_story_block(lead_feature, lead=True, label="Banner Headline") if lead_feature else '<p class="empty-card">The banner headline will land on the next refresh.</p>'}
+            <div class="newsprint-utility">
+              <p class="panel-label">Read Like A Front Page</p>
+              <p class="hero-text">
+                Every story block opens the original reporting directly, while ShadowFetch briefs stay one click away for readers who want a quicker recap before diving deeper.
+              </p>
+              <div class="hero-actions">
+                <a class="button button-primary" href="/latest/">Open the newswire</a>
+                <a class="button button-secondary" href="/journal/">Read the journal</a>
+              </div>
+              {render_search_form("", "hero")}
+              <div class="hero-stats">
+                <article>
+                  <span class="stat-label">Sections</span>
+                  <strong>{context['section_count']}</strong>
+                </article>
+                <article>
+                  <span class="stat-label">Sources</span>
+                  <strong>{context['source_count']}</strong>
+                </article>
+                <article>
+                  <span class="stat-label">Briefs</span>
+                  <strong>{context['brief_count']}</strong>
+                </article>
+                <article>
+                  <span class="stat-label">Journal</span>
+                  <strong>{context['journal_count']}</strong>
+                </article>
+              </div>
+            </div>
+          </div>
+
+          <div class="newsprint-column">
+            {right_markup or '<p class="empty-card">More side-column stories will fill here after the next update.</p>'}
+          </div>
+        </div>
+        <div class="newsprint-lower-row">
+          {lower_markup or '<p class="empty-card">Additional front-page blocks will show here as more stories rise into the edition.</p>'}
         </div>
       </div>
-
-      <aside class="panel hero-note">
-        <p class="panel-label">Today’s Edition</p>
-        <h2>Start with the stories that make the rest of the page easier to read.</h2>
-        <p>
-          If a reader only has a few minutes, this is the better path through the day:
-          the main front-page lead, one brief with stronger context, and one byline piece that sounds like you.
-        </p>
-        <div class="edition-list">
-          {render_edition_link("Lead Story", lead_feature.get("title") if lead_feature else "The lead story will land here after the next refresh.", lead_feature.get("brief_path") if lead_feature else "/latest/", lead_feature.get("summary") if lead_feature else "Open the newswire while the next top-line story is being prepared.")}
-          {render_edition_link("Best Context", lead_pick.get("title") if lead_pick else "A more contextual brief will appear here as the feed settles.", lead_pick.get("brief_path") if lead_pick else "/topics/", lead_pick.get("why_it_matters") if lead_pick else "Topic pages and editor picks turn the feed into a more readable edition.")}
-          {render_edition_link("Your Byline", lead_journal.get("title") if lead_journal else "Your latest column will show here once the next journal entry is published.", lead_journal.get("path") if lead_journal else "/journal/", lead_journal.get("description") if lead_journal else "The journal is where the publication starts sounding like you instead of only sounding fast.")}
-        </div>
-        <div class="button-row">
-          <a class="button button-secondary" href="/latest/">Open the newswire</a>
-          <a class="button button-secondary" href="/topics/">Track the big threads</a>
-        </div>
-      </aside>
     </section>
     """
 
@@ -2385,7 +2450,10 @@ def page_shell(
     )
     body_prefix = f' data-page="{escape(page_key)}"'
     body_attr_string = f"{body_prefix} {body_attr_markup}".rstrip()
-    og_image = OG_DEFAULT_IMAGE
+    og_image = asset_url("shadowfetch-mark.svg", absolute=True)
+    icon_url = asset_url("shadowfetch-mark.svg")
+    stylesheet_url = asset_url("styles.css")
+    script_url = asset_url("app.js")
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -2394,7 +2462,7 @@ def page_shell(
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{escape(title)}</title>
   <meta name="description" content="{escape(description)}">
-  <meta name="theme-color" content="#f2ebde">
+  <meta name="theme-color" content="{THEME_COLOR}">
   <link rel="canonical" href="{canonical_url}">
   <link rel="alternate" type="application/rss+xml" title="ShadowFetch News RSS" href="/feed.xml">
   <meta property="og:title" content="{escape(title)}">
@@ -2414,8 +2482,8 @@ def page_shell(
     href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap"
     rel="stylesheet"
   >
-  <link rel="icon" href="/assets/shadowfetch-mark.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="icon" href="{icon_url}" type="image/svg+xml">
+  <link rel="stylesheet" href="{stylesheet_url}">
   <script type="application/ld+json">
     {{
       "@context": "https://schema.org",
@@ -2443,7 +2511,7 @@ def page_shell(
 
   {render_site_footer(footer_copy)}
   {render_mobile_dock(nav_current)}
-  <script src="/assets/app.js"></script>
+  <script src="{script_url}"></script>
 </body>
 </html>
 """
@@ -2478,7 +2546,7 @@ def render_site_header(context: dict, nav_current: str) -> str:
       </div>
       <div class="container masthead-wrap">
         <a class="brand" href="/" aria-label="ShadowFetch News home">
-          <img src="/assets/shadowfetch-mark.svg" alt="" width="42" height="42">
+          <img src="{asset_url("shadowfetch-mark.svg")}" alt="" width="42" height="42">
           <span>
             <small>The Digital Evening Paper</small>
             <strong>ShadowFetch News</strong>
@@ -2625,12 +2693,12 @@ def render_story_feature(story: dict | None, label: str, cta_label: str) -> str:
     <article class="feature-lead">
       <p class="panel-label">{escape(label)}</p>
       {story_meta_markup(story)}
-      <h2><a class="story-headline-link" href="{story['brief_path']}">{escape(story['title'])}</a></h2>
+      <h2><a class="story-headline-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">{escape(story['title'])}</a></h2>
       <p>{escape(story['summary'])}</p>
       {render_topic_chip_row(story.get("topics", [])[:3]) if story.get("topics") else ""}
       <div class="story-actions">
-        <a class="story-link" href="{story['brief_path']}">{escape(cta_label)}</a>
-        <a class="story-source-link" href="{story['link']}" target="_blank" rel="noreferrer noopener">Original source</a>
+        <a class="story-source-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="{story['brief_path']}">ShadowFetch brief</a>
       </div>
     </article>
     """
@@ -2642,11 +2710,11 @@ def render_story_snippet(story: dict | None, class_name: str) -> str:
     return f"""
     <article class="{escape(class_name)}">
       {story_meta_markup(story)}
-      <h3><a class="story-headline-link" href="{story['brief_path']}">{escape(story['title'])}</a></h3>
+      <h3><a class="story-headline-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">{escape(story['title'])}</a></h3>
       <p>{escape(story['summary'])}</p>
       <div class="story-actions">
-        <a class="story-link" href="{story['brief_path']}">Open brief</a>
-        <a class="story-source-link" href="{story['link']}" target="_blank" rel="noreferrer noopener">Source</a>
+        <a class="story-source-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="{story['brief_path']}">ShadowFetch brief</a>
       </div>
     </article>
     """
@@ -2734,11 +2802,11 @@ def render_editors_pick_grid(picks: list[dict]) -> str:
             f"""
             <article class="editor-card">
               {story_meta_markup(story)}
-              <h3><a class="story-headline-link" href="{story['brief_path']}">{escape(story['title'])}</a></h3>
+              <h3><a class="story-headline-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">{escape(story['title'])}</a></h3>
               <p>{escape(story['why_it_matters'])}</p>
               <div class="story-actions">
-                <a class="story-link" href="{story['brief_path']}">Open brief</a>
-                <a class="story-source-link" href="{story['link']}" target="_blank" rel="noreferrer noopener">Source</a>
+                <a class="story-source-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">Read original article</a>
+                <a class="story-link" href="{story['brief_path']}">ShadowFetch brief</a>
               </div>
             </article>
             """
@@ -2952,12 +3020,12 @@ def story_card_markup(story: dict) -> str:
     return f"""
     <article class="story-card" data-section-key="{escape(story.get('section_key', ''))}">
       {story_meta_markup(story)}
-      <h3><a class="story-headline-link" href="{story['brief_path']}">{escape(story['title'])}</a></h3>
+      <h3><a class="story-headline-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">{escape(story['title'])}</a></h3>
       <p>{escape(story['summary'])}</p>
       {render_topic_chip_row(story.get("topics", [])[:2]) if story.get("topics") else ""}
       <div class="story-actions">
-        <a class="story-link" href="{story['brief_path']}">Open brief</a>
-        <a class="story-source-link" href="{story['link']}" target="_blank" rel="noreferrer noopener">Original source</a>
+        <a class="story-source-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="{story['brief_path']}">ShadowFetch brief</a>
         <span class="story-reading-time">{story.get('reading_time', '')}</span>
       </div>
     </article>
@@ -2971,9 +3039,10 @@ def render_compact_story(story: dict) -> str:
         <a class="story-source" href="{story['source_path']}">{escape(story['source'])}</a>
         <span class="story-time">{escape(story['display_time'])}</span>
       </div>
-      <h3><a class="story-headline-link" href="{story['brief_path']}">{escape(story['title'])}</a></h3>
+      <h3><a class="story-headline-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">{escape(story['title'])}</a></h3>
       <div class="story-actions">
-        <a class="story-link" href="{story['brief_path']}">Open brief</a>
+        <a class="story-source-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="{story['brief_path']}">ShadowFetch brief</a>
       </div>
     </article>
     """
@@ -2991,11 +3060,11 @@ def render_timeline(stories: list[dict]) -> str:
             <span class="story-time">{escape(story['display_time'])}</span>
             <span class="story-recency {escape(story['recency_class'])}">{escape(story['relative_time'])}</span>
           </div>
-          <h3><a class="story-headline-link" href="{story['brief_path']}">{escape(story['title'])}</a></h3>
+          <h3><a class="story-headline-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">{escape(story['title'])}</a></h3>
           <p>{escape(story['summary'])}</p>
           <div class="story-actions">
-            <a class="story-link" href="{story['brief_path']}">Open brief</a>
-            <a class="story-source-link" href="{story['link']}" target="_blank" rel="noreferrer noopener">Original source</a>
+            <a class="story-source-link" href="{safe_url(story['link'])}" target="_blank" rel="noreferrer noopener">Read original article</a>
+            <a class="story-link" href="{story['brief_path']}">ShadowFetch brief</a>
           </div>
         </article>
         """

@@ -2,12 +2,24 @@
 
 from __future__ import annotations
 
+import hashlib
 import shutil
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
+THEME_COLOR = "#111111"
+
+
+def compute_asset_version() -> str:
+    digest = hashlib.sha1()
+    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg"):
+        digest.update((ROOT / relative_path).read_bytes())
+    return digest.hexdigest()[:12]
+
+
+ASSET_VERSION = compute_asset_version()
 
 DIRECTORIES = [
     "about",
@@ -55,8 +67,8 @@ NOT_FOUND_HTML = """\
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Stop The Presses | ShadowFetch News</title>
   <meta name="description" content="The page you were looking for is not on this edition of ShadowFetch News.">
-  <meta name="theme-color" content="#f2ebde">
-  <link rel="stylesheet" href="/assets/styles.css">
+  <meta name="theme-color" content="#111111">
+  <link rel="stylesheet" href="/assets/styles.css?v=""" + ASSET_VERSION + """">
 </head>
 <body data-page="not-found">
   <main class="container" style="padding: 5rem 0;">

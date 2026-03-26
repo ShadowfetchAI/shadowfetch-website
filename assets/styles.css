@@ -132,6 +132,51 @@ button {
   padding: 0.85rem 0;
 }
 
+.affiliate-strip {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.18);
+  background: rgba(252, 252, 252, 0.96);
+}
+
+.affiliate-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.9rem;
+  padding: 0.42rem 0;
+  text-align: center;
+}
+
+.affiliate-kicker,
+.affiliate-note {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.affiliate-kicker {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.affiliate-link {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+.affiliate-link:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.14em;
+}
+
+.affiliate-note {
+  color: var(--muted);
+}
+
 .utility-pill,
 .utility-link,
 .filter-pill,
@@ -1488,6 +1533,7 @@ button {
   }
 
   .utility-wrap,
+  .affiliate-wrap,
   .masthead-edition,
   .masthead-wrap,
   .ticker-wrap {
@@ -1531,6 +1577,11 @@ button {
   .utility-links {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .affiliate-wrap {
+    gap: 0.3rem;
+    text-align: left;
   }
 
   .utility-link,

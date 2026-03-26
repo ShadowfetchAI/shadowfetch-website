@@ -49,6 +49,8 @@ COUNTER_URL = "https://api.counterapi.dev/v1/shadowfetch-news/site-visits/"
 SOCIAL_X_URL = "https://x.com/MrBobCorbin"
 SOCIAL_BLUESKY_URL = "https://bsky.app/profile/mrbobcorbin.bsky.social"
 SOCIAL_KALSHI_URL = "https://kalshi.com/sign-up/?referral=6ca54e6d-a516-4918-bc0a-829b18f99f70"
+AMAZON_AFFILIATE_URL = "https://www.amazon.com/amazon-fire-tv-stick-4K-select/dp/B0C6W3D4RM?pd_rd_w=hdHW1&content-id=amzn1.sym.b600c7d8-57ec-4c97-938f-a8d4e9e462a3&pf_rd_p=b600c7d8-57ec-4c97-938f-a8d4e9e462a3&pf_rd_r=N53TX5D2HD4M059PSYB3&pd_rd_wg=0Gl04&pd_rd_r=dbd4c563-cd34-48a7-8ec4-70c1b57f91d3&pd_rd_i=B0C6W3D4RM&psc=1&linkCode=ll2&tag=mywebsit0e1eb-20&linkId=3471f9a970d1cfb033e058c3f451378e&language=en_US&ref_=as_li_ss_tl"
+AMAZON_AFFILIATE_LABEL = "Amazon Fire TV Stick 4K"
 AUTHOR_NAME = "MrBobCorbin"
 THEME_COLOR = "#111111"
 
@@ -2541,6 +2543,7 @@ def page_shell(
 
 
 def render_site_header(context: dict, nav_current: str) -> str:
+    amazon_affiliate_url = html.escape(AMAZON_AFFILIATE_URL, quote=True)
     return f"""
   <header class="site-chrome">
     <div class="utility-bar">
@@ -2558,6 +2561,14 @@ def render_site_header(context: dict, nav_current: str) -> str:
           <a class="utility-link" data-social-link="bluesky" href="{SOCIAL_BLUESKY_URL}" target="_blank" rel="noreferrer noopener">Bluesky</a>
           <a class="utility-link" data-social-link="kalshi" href="{SOCIAL_KALSHI_URL}" target="_blank" rel="noreferrer noopener">Kalshi</a>
         </div>
+      </div>
+    </div>
+
+    <div class="affiliate-strip">
+      <div class="container affiliate-wrap">
+        <span class="affiliate-kicker">Affiliate Pick</span>
+        <a class="affiliate-link" href="{amazon_affiliate_url}" target="_blank" rel="sponsored noreferrer noopener">{AMAZON_AFFILIATE_LABEL}</a>
+        <span class="affiliate-note">Amazon affiliate link</span>
       </div>
     </div>
 

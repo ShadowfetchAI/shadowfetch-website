@@ -1,58 +1,130 @@
 {
-  "generated_at": "2026-03-26T17:36:03.121113Z",
+  "generated_at": "2026-03-26T18:47:05.704191Z",
   "successful_sources": 71,
   "total_sources": 79,
   "featured": [
     {
-      "title": "Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'",
-      "link": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
-      "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
-      "source": "ABC News Top Stories",
-      "source_key": "abc-news-top-stories",
-      "source_homepage": "https://abcnews.go.com/",
-      "source_feed": "https://abcnews.go.com/abcnews/topstories",
+      "title": "Sarah Ferguson stripped of Freedom of City of York title",
+      "link": "https://www.bbc.com/news/articles/c3w3ez3xp92o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former duchess was given the honour in 1987 following her marriage to the then-Prince Andrew.",
+      "source": "BBC News",
+      "source_key": "bbc-news",
+      "source_homepage": "https://www.bbc.com/news",
+      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
       "section": "Top Stories",
       "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:28:57Z"
+      "timestamp": "2026-03-26T18:35:56Z"
     },
     {
-      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
-      "link": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
-      "summary": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
-      "source": "BBC World",
-      "source_key": "bbc-world",
-      "source_homepage": "https://www.bbc.com/news/world",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "title": "Kim Jong Un gifted gun after Belarus friendship treaty",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/kim-jong-un-gifted-gun-after-belarus-friendship-treaty?traffic_source=rss",
+      "summary": "Belarusian President Alexander Lukashenko gifted North Korean leader Kim Jong Un a gun.",
+      "source": "Al Jazeera",
+      "source_key": "al-jazeera",
+      "source_homepage": "https://www.aljazeera.com",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "section": "World",
       "section_key": "world",
-      "timestamp": "2026-03-26T17:16:06Z"
+      "timestamp": "2026-03-26T18:03:33Z"
     },
     {
-      "title": "Blanche boasts of having \u2018cleaned house\u2019 at DOJ, FBI following Trump prosecutions",
-      "link": "https://thehill.com/homenews/administration/5802553-todd-blanche-cpac-doj-fbi-firings/",
-      "summary": "Deputy Attorney General Todd Blanche boasted Thursday about the number of firings at the Department of Justice (DOJ) and FBI, saying the administration had \u201ccleaned house\u201d by ou...",
+      "title": "Bipartisan lawmakers set to unveil bill to reopen DHS, bar ICE from wearing masks",
+      "link": "https://thehill.com/homenews/house/5802739-dhs-bill-fitzpatrick-suozzi-problem-solvers/",
+      "summary": "A bipartisan group of House lawmakers is poised to unveil legislation that combines funding for the Homeland Security Department (DHS) with tougher rules for federal immigration...",
       "source": "The Hill",
       "source_key": "the-hill",
       "source_homepage": "https://thehill.com/",
       "source_feed": "https://thehill.com/feed/",
       "section": "U.S. & Politics",
       "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T17:19:48Z"
+      "timestamp": "2026-03-26T18:30:27Z"
     },
     {
-      "title": "Best Buy\u2019s stock is rallying amid takeover speculation. But here\u2019s the real story.",
-      "link": "https://www.marketwatch.com/story/best-buys-stock-is-rallying-amid-takeover-speculation-but-heres-the-real-story-43d4ffb4?mod=mw_rss_topstories",
-      "summary": "Some attributed the jump in Best Buy\u2019s stock to the prospect of a takeover by GameStop, but the analyst who wrote the note that started that speculation says otherwise.",
-      "source": "MarketWatch",
-      "source_key": "marketwatch",
-      "source_homepage": "https://www.marketwatch.com",
-      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+      "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+      "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
+      "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
+      "source": "CNBC Top",
+      "source_key": "cnbc-top",
+      "source_homepage": "https://www.cnbc.com/",
+      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "section": "Business & Markets",
       "section_key": "business-markets",
-      "timestamp": "2026-03-26T17:23:00Z"
+      "timestamp": "2026-03-26T18:44:56Z"
     }
   ],
   "latest": [
+    {
+      "title": "Murray drops 53, Jokic nearly has 20-20-20 game",
+      "link": "https://www.espn.com/nba/story/_/id/48309525/murray-scores-53-jokic-nearly-20-20-20-game-nuggets-win",
+      "summary": "Jamal Murray scored 53 points and Nikola Jokic had 23 points, 21 rebounds and 19 assists as the Nuggets held off the Mavericks on Wednesday night.",
+      "source": "ESPN NBA",
+      "source_key": "espn-nba",
+      "source_homepage": "https://www.espn.com/nba/",
+      "source_feed": "https://www.espn.com/espn/rss/nba/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T19:25:24Z"
+    },
+    {
+      "title": "Wolves post largest OT comeback on record",
+      "link": "https://www.espn.com/nba/story/_/id/48309994/timberwolves-post-nba-largest-comeback-record",
+      "summary": "With a game-closing 15-0 run, the Timberwolves came back from 13 points down for a 110-108 victory over the Rockets on Wednesday night.",
+      "source": "ESPN NBA",
+      "source_key": "espn-nba",
+      "source_homepage": "https://www.espn.com/nba/",
+      "source_feed": "https://www.espn.com/espn/rss/nba/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T19:25:24Z"
+    },
+    {
+      "title": "Draymond: Hated and loved Wemby's MVP case",
+      "link": "https://www.espn.com/nba/story/_/id/48309988/green-wembanyama-state-importance-defense",
+      "summary": "Warriors forward Draymond Green said he both \"hated\" and \"absolutely loved\" the MVP self-promotion from Spurs center Victor Wembanyama.",
+      "source": "ESPN NBA",
+      "source_key": "espn-nba",
+      "source_homepage": "https://www.espn.com/nba/",
+      "source_feed": "https://www.espn.com/espn/rss/nba/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T19:25:24Z"
+    },
+    {
+      "title": "Brown-led Celts hand Thunder first loss in month",
+      "link": "https://www.espn.com/nba/story/_/id/48308627/celtics-cool-thunder-jaylen-brown-stars-31-points",
+      "summary": "Jaylen Brown scored 14 of his 31 points in a pivotal third quarter, and the Boston Celtics rallied to beat the Oklahoma City Thunder 119-109 on Wednesday night, snapping the def...",
+      "source": "ESPN NBA",
+      "source_key": "espn-nba",
+      "source_homepage": "https://www.espn.com/nba/",
+      "source_feed": "https://www.espn.com/espn/rss/nba/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T19:25:24Z"
+    },
+    {
+      "title": "Bulls' Ivey, Smith out rest of season with injuries",
+      "link": "https://www.espn.com/nba/story/_/id/48313485/bulls-jaden-ivey-jalen-smith-rest-season-injuries",
+      "summary": "The Bulls have ruled guard Jaden Ivey and forward Jalen Smith out for the remainder of the season due to injuries.",
+      "source": "ESPN NBA",
+      "source_key": "espn-nba",
+      "source_homepage": "https://www.espn.com/nba/",
+      "source_feed": "https://www.espn.com/espn/rss/nba/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T19:25:24Z"
+    },
+    {
+      "title": "NBA votes to mull Vegas, Seattle expansion bids",
+      "link": "https://www.espn.com/nba/story/_/id/48304338/sources-nba-votes-explore-vegas-seattle-expansion-bids",
+      "summary": "The NBA's board of governors has approved a vote for the league to explore bids and applicants for expansion teams exclusively in Las Vegas and Seattle.",
+      "source": "ESPN NBA",
+      "source_key": "espn-nba",
+      "source_homepage": "https://www.espn.com/nba/",
+      "source_feed": "https://www.espn.com/espn/rss/nba/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T19:25:23Z"
+    },
     {
       "title": "Brady on comeback: NFL didn't 'like that idea'",
       "link": "https://www.espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
@@ -63,7 +135,7 @@
       "source_feed": "https://www.espn.com/espn/rss/news",
       "section": "Sports",
       "section_key": "sports",
-      "timestamp": "2026-03-26T18:28:49Z"
+      "timestamp": "2026-03-26T19:11:38Z"
     },
     {
       "title": "LSU lures Wade back as it fires coach McMahon",
@@ -75,7 +147,19 @@
       "source_feed": "https://www.espn.com/espn/rss/news",
       "section": "Sports",
       "section_key": "sports",
-      "timestamp": "2026-03-26T18:28:49Z"
+      "timestamp": "2026-03-26T19:11:38Z"
+    },
+    {
+      "title": "IU's Cignetti rips transfer Marsh for gold cleats",
+      "link": "https://www.espn.com/college-football/story/_/id/48313383/indiana-curt-cignetti-rips-transfer-nick-marsh-gold-cleats",
+      "summary": "Indiana coach Curt Cignetti ripped transfer wide receiver Nick Marsh for wearing gold cleats on the first day of spring practice for the defending national champs.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T19:11:38Z"
     },
     {
       "title": "Quad God rebounds from Olympics, leads worlds",
@@ -87,7 +171,7 @@
       "source_feed": "https://www.espn.com/espn/rss/news",
       "section": "Sports",
       "section_key": "sports",
-      "timestamp": "2026-03-26T18:28:49Z"
+      "timestamp": "2026-03-26T19:11:38Z"
     },
     {
       "title": "Amputee cornhole player waives right to hearing",
@@ -99,7 +183,7 @@
       "source_feed": "https://www.espn.com/espn/rss/news",
       "section": "Sports",
       "section_key": "sports",
-      "timestamp": "2026-03-26T18:28:49Z"
+      "timestamp": "2026-03-26T19:11:38Z"
     },
     {
       "title": "QB Simpson says he's 'absolutely' 1st-round pick",
@@ -111,7 +195,7 @@
       "source_feed": "https://www.espn.com/espn/rss/news",
       "section": "Sports",
       "section_key": "sports",
-      "timestamp": "2026-03-26T18:28:49Z"
+      "timestamp": "2026-03-26T19:11:38Z"
     },
     {
       "title": "Sens' Chabot (broken arm) could miss 2 months",
@@ -123,7 +207,7 @@
       "source_feed": "https://www.espn.com/espn/rss/news",
       "section": "Sports",
       "section_key": "sports",
-      "timestamp": "2026-03-26T18:28:49Z"
+      "timestamp": "2026-03-26T19:11:38Z"
     },
     {
       "title": "World Series of Poker returning to ESPN in July",
@@ -135,91 +219,547 @@
       "source_feed": "https://www.espn.com/espn/rss/news",
       "section": "Sports",
       "section_key": "sports",
-      "timestamp": "2026-03-26T18:28:49Z"
+      "timestamp": "2026-03-26T19:11:38Z"
     },
     {
-      "title": "Updated NBA rookie rankings: Why the ROY race is all but over",
-      "link": "https://www.espn.com/nba/story/_/id/48306024/2025-26-nba-rookie-rankings-end-regular-season-flagg-knueppel-edgecomb-rookie-year-race",
-      "summary": "Where do the NBA's top rookies stack up with a few weeks left in the regular season? We stacked the top 10.",
-      "source": "ESPN NBA",
-      "source_key": "espn-nba",
-      "source_homepage": "https://www.espn.com/nba/",
-      "source_feed": "https://www.espn.com/espn/rss/nba/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T18:14:55Z"
+      "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+      "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
+      "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
+      "source": "CNBC Top",
+      "source_key": "cnbc-top",
+      "source_homepage": "https://www.cnbc.com/",
+      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T18:44:56Z"
     },
     {
-      "title": "NBA Power Rankings: The Thunder reign while East teams rise",
-      "link": "https://www.espn.com/nba/story/_/id/48296257/nba-power-rankings-thunder-reign-celtics-pistons-rise",
-      "summary": "Where our NBA insiders ranked all 30 teams as the regular season reaches the home stretch.",
-      "source": "ESPN NBA",
-      "source_key": "espn-nba",
-      "source_homepage": "https://www.espn.com/nba/",
-      "source_feed": "https://www.espn.com/espn/rss/nba/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T18:14:55Z"
+      "title": "Fitbit\u2019s budget-friendly Inspire 3 is $30 off, matching its best price",
+      "link": "https://www.theverge.com/tech/901765/fitbit-inspire-3-amazon-big-spring-sale-2026-deal",
+      "summary": "Amazon\u2019s Big Spring Sale has delivered discounts on wearables like the latest Apple Watch SE 3 and Fitbit\u2019s Charge 6. But they\u2019re not exactly cheap even though they\u2019re on sale....",
+      "source": "The Verge",
+      "source_key": "the-verge",
+      "source_homepage": "https://www.theverge.com/",
+      "source_feed": "https://www.theverge.com/rss/index.xml",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T18:41:42Z"
     },
     {
-      "title": "Brewers star OF Chourio set to miss 2-4 weeks",
-      "link": "https://www.espn.com/mlb/story/_/id/48312279/brewers-place-jackson-chourio-il-due-fractured-hand",
-      "summary": "The Brewers placed star outfielder Chourio on the 10-day injured list on Thursday because of a fractured left hand. The move was made retroactive to Wednesday.",
-      "source": "ESPN MLB",
-      "source_key": "espn-mlb",
-      "source_homepage": "https://www.espn.com/mlb/",
-      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T18:00:19Z"
+      "title": "The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran",
+      "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
+      "summary": "The world\u2019s largest crypto exchange is under fire after investigators found accounts moving $1.7 billion to entities linked to Iran. Clues about those accounts were in plain sig...",
+      "source": "New York Times Technology",
+      "source_key": "new-york-times-technology",
+      "source_homepage": "https://www.nytimes.com/section/technology",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T18:37:33Z"
     },
     {
-      "title": "Source: Mets add Pham on minors deal for depth",
-      "link": "https://www.espn.com/mlb/story/_/id/48312897/source-mets-tommy-pham-agree-minor-league-deal",
-      "summary": "The Mets added to their depth on Opening Day, reaching a minor league deal with veteran outfielder Tommy Pham, a source told ESPN.",
-      "source": "ESPN MLB",
-      "source_key": "espn-mlb",
-      "source_homepage": "https://www.espn.com/mlb/",
-      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T18:00:19Z"
+      "title": "Sarah Ferguson stripped of Freedom of City of York title",
+      "link": "https://www.bbc.com/news/articles/c3w3ez3xp92o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former duchess was given the honour in 1987 following her marriage to the then-Prince Andrew.",
+      "source": "BBC News",
+      "source_key": "bbc-news",
+      "source_homepage": "https://www.bbc.com/news",
+      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:35:56Z"
     },
     {
-      "title": "Fried's gem lifts Yanks despite Judge's 4-K opener",
-      "link": "https://www.espn.com/mlb/story/_/id/48308908/max-fried-gem-lifts-yankees-judge-hitless-opener",
-      "summary": "Max Fried allowed just two hits in 6\u2153 scoreless innings, and the Yankees cruised past the Giants 7-0 on Wednesday night despite Aaron Judge's first career hitless Opening Day.",
-      "source": "ESPN MLB",
-      "source_key": "espn-mlb",
-      "source_homepage": "https://www.espn.com/mlb/",
-      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T18:00:19Z"
+      "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
+      "link": "https://www.bbc.com/news/articles/cm291jz0321o?at_medium=RSS&at_campaign=rss",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "source": "BBC Science & Environment",
+      "source_key": "bbc-science-environment",
+      "source_homepage": "https://www.bbc.com/news/science_and_environment",
+      "source_feed": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "section": "Climate & Environment",
+      "section_key": "climate-environment",
+      "timestamp": "2026-03-26T18:35:38Z"
     },
     {
-      "title": "Padres' Darvish to restricted list amid elbow rehab",
-      "link": "https://www.espn.com/mlb/story/_/id/48306637/padres-set-place-yu-darvish-restricted-list-amid-recovery-elbow-surgery",
-      "summary": "Pitcher Yu Darvish was placed on the restricted list Wednesday as he spends the 2026 season recovering from elbow surgery, a decision that could free up significant payroll spac...",
-      "source": "ESPN MLB",
-      "source_key": "espn-mlb",
-      "source_homepage": "https://www.espn.com/mlb/",
-      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T18:00:19Z"
+      "title": "Safety Experts Considered LaGuardia Challenging but Not an Outlier",
+      "link": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html",
+      "summary": "Regulators, pilots and others in aviation have worried about the kind of runway accident that happened at LaGuardia Airport on Sunday.",
+      "source": "New York Times Technology",
+      "source_key": "new-york-times-technology",
+      "source_homepage": "https://www.nytimes.com/section/technology",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T18:32:35Z"
     },
     {
-      "title": "Impact of overturned ABS calls worries ex-ump",
-      "link": "https://www.espn.com/mlb/story/_/id/48305998/ex-ump-garcia-worries-impact-overturned-robot-ump-calls",
-      "summary": "Former MLB umpire Richie Garcia is worried about the impact that robot umpires will have on their human counterparts.",
-      "source": "ESPN MLB",
-      "source_key": "espn-mlb",
-      "source_homepage": "https://www.espn.com/mlb/",
-      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T18:00:19Z"
+      "title": "DOJ close to finalizing deal to hand over voter roll data to DHS, sources say",
+      "link": "https://www.cbsnews.com/news/justice-dept-finalizing-deal-voter-roll-data-homeland-security/",
+      "summary": "DOJ plans to turn over voter data it's collecting from states to DHS for use in immigration and criminal investigations, sources say.",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:32:11Z"
+    },
+    {
+      "title": "Venezuela's Nicol\u00e1s Maduro faces judge in court",
+      "link": "https://www.cbsnews.com/video/venezuelas-nicols-maduro-faces-judge-in-court/",
+      "summary": "Former Venezuelan President Nicol\u00e1s Maduro attended a pre-trial court hearing in New York City on Thursday as a judge weighs key issues in his case. CBS News' Lilia Luciano repo...",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:32:00Z"
+    },
+    {
+      "title": "Bipartisan lawmakers set to unveil bill to reopen DHS, bar ICE from wearing masks",
+      "link": "https://thehill.com/homenews/house/5802739-dhs-bill-fitzpatrick-suozzi-problem-solvers/",
+      "summary": "A bipartisan group of House lawmakers is poised to unveil legislation that combines funding for the Homeland Security Department (DHS) with tougher rules for federal immigration...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T18:30:27Z"
+    },
+    {
+      "title": "Cocaine, caffeine, painkillers consumed by sharks in Bahamas, study finds",
+      "link": "https://www.cbsnews.com/news/cocaine-caffeine-painkillers-sharks-bahamas-study/",
+      "summary": "Marine biologists found detectable levels of caffeine, cocaine and the over-the-counter painkillers in the blood of 28 sharks.",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:28:54Z"
+    },
+    {
+      "title": "Save us, Elon Musk! X could deboost foreign slop accounts ruining public discourse",
+      "link": "https://thehill.com/opinion/robbys-radar/5802763-improving-x-discourse-social-media/",
+      "summary": "There's a real problem on X right now: foreign accounts that portray themselves as American, with names like Pro Western Civilization or Proud Heritage American or White MAGA Pa...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T18:27:56Z"
+    },
+    {
+      "title": "The Book of Mormon: Parker & Stone | 60 Minutes Archive",
+      "link": "https://www.cbsnews.com/video/the-book-of-mormon-parker-stone-60-minutes-archive/",
+      "summary": "In 2011, Steve Kroft profiled Trey Parker and Matt Stone, creators of the musical comedy \"The Book of Mormon,\" which this week marks 15 years on Broadway. Parker and Stone, who...",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:27:00Z"
+    },
+    {
+      "title": "Trump envoy Witkoff reveals more details of US negotiations with Iran prior to war",
+      "link": "https://abcnews.com/Politics/trump-envoy-witkoff-reveals-details-us-negotiations-iran/story?id=131436482",
+      "summary": "President Donald Trump's envoy Steve Witkoff revealed new details Thursday about his negotiations with Iranian officials before the U.S. attacked Iran.",
+      "source": "ABC News Top Stories",
+      "source_key": "abc-news-top-stories",
+      "source_homepage": "https://abcnews.go.com/",
+      "source_feed": "https://abcnews.go.com/abcnews/topstories",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:26:21Z"
+    },
+    {
+      "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+      "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
+      "summary": "There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.",
+      "source": "BBC News",
+      "source_key": "bbc-news",
+      "source_homepage": "https://www.bbc.com/news",
+      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:24:13Z"
+    },
+    {
+      "title": "Judge told Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+      "link": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their lawyers.",
+      "source": "BBC News",
+      "source_key": "bbc-news",
+      "source_homepage": "https://www.bbc.com/news",
+      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:22:20Z"
+    },
+    {
+      "title": "Retail Investors Growing Exposed to Bitcoin Giant Strategy\u2019s STRC Over MSTR, Says CEO",
+      "link": "https://decrypt.co/362480/retail-investors-growing-exposed-bitcoin-strategy-strc-over-mstr",
+      "summary": "Strategy CEO Phong Le signaled that retail investors are growing interested in its flagship preferred share relative to its common stock.",
+      "source": "Decrypt",
+      "source_key": "decrypt",
+      "source_homepage": "https://decrypt.co",
+      "source_feed": "https://decrypt.co/feed",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T18:21:34Z"
+    },
+    {
+      "title": "Trump says Iran is \"begging\" for deal and Witkoff confirms 15-point proposal",
+      "link": "https://www.cbsnews.com/video/trump-says-iran-is-begging-for-deal-and-witkoff-confirms-15-point-proposal/",
+      "summary": "President Trump spoke about the Iran war at a Cabinet meeting and said Tehran is \"begging\" for a deal to end the conflict. CBS News' Aaron Navarro reports.",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:19:00Z"
+    },
+    {
+      "title": "Scientists captured female sperm whales on video working together during a birth to protect the calf",
+      "link": "https://abcnews.com/Technology/wireStory/scientists-captured-female-sperm-whales-video-working-birth-131442806",
+      "summary": "Scientists have captured rare footage of a sperm whale giving birth, offering a window into the large mammals' behavior",
+      "source": "ABC News Technology",
+      "source_key": "abc-news-technology",
+      "source_homepage": "https://abcnews.go.com/technology",
+      "source_feed": "https://abcnews.go.com/abcnews/technologyheadlines",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T18:16:28Z"
+    },
+    {
+      "title": "DOJ says it erroneously relied on ICE memo justifying immigration courthouse arrests",
+      "link": "https://thehill.com/homenews/5802728-ice-memo-courthouse-arrests/",
+      "summary": "A federal judge Thursday ordered the Trump administration to preserve all records after the Justice Department said it made a \u201cfactual error\u201d in a case challenging the ability t...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T18:13:03Z"
+    },
+    {
+      "title": "Xbox\u2019s latest games showcase had Hades 2, The Expanse, and Bluey",
+      "link": "https://www.theverge.com/games/901384/xbox-partner-preview-games-news-trailers",
+      "summary": "It's a weird time for Xbox, with a big leadership shakeup that has many wondering what the future of the platform looks like, and what exactly it stands for. In the meantime, th...",
+      "source": "The Verge",
+      "source_key": "the-verge",
+      "source_homepage": "https://www.theverge.com/",
+      "source_feed": "https://www.theverge.com/rss/index.xml",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T18:10:15Z"
+    },
+    {
+      "title": "What Is Bluesky? The Decentralized Social Media Rival to Elon Musk's X",
+      "link": "https://decrypt.co/resources/what-is-bluesky-twitter-x-decentralized-social-media-rival",
+      "summary": "While Bluesky seems familiar on the surface, the AT protocol architecture it runs on has the potential to be revolutionary.",
+      "source": "Decrypt",
+      "source_key": "decrypt",
+      "source_homepage": "https://decrypt.co",
+      "source_feed": "https://decrypt.co/feed",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T18:10:07Z"
+    },
+    {
+      "title": "U.S. Accuses NewYork-Presbyterian of Reaching Deals That Kept Costs High",
+      "link": "https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html",
+      "summary": "The Justice Department sued the large New York health system, saying it restricted insurance companies from offering patients cheaper options.",
+      "source": "New York Times Technology",
+      "source_key": "new-york-times-technology",
+      "source_homepage": "https://www.nytimes.com/section/technology",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T18:09:55Z"
+    },
+    {
+      "title": "Snapchat Investigated in Europe Over Child Safety Policies",
+      "link": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
+      "summary": "Regulators in Brussels accused the social media platform of maintaining a weak age-verification system, and steering younger users toward inappropriate experiences.",
+      "source": "New York Times Technology",
+      "source_key": "new-york-times-technology",
+      "source_homepage": "https://www.nytimes.com/section/technology",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T18:04:38Z"
+    },
+    {
+      "title": "Kim Jong Un gifted gun after Belarus friendship treaty",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/kim-jong-un-gifted-gun-after-belarus-friendship-treaty?traffic_source=rss",
+      "summary": "Belarusian President Alexander Lukashenko gifted North Korean leader Kim Jong Un a gun.",
+      "source": "Al Jazeera",
+      "source_key": "al-jazeera",
+      "source_homepage": "https://www.aljazeera.com",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T18:03:33Z"
+    },
+    {
+      "title": "Owner blocks 'Rainham volcano' fix, council says",
+      "link": "https://www.bbc.com/news/articles/cy41mnxxmnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Repeated fires at Arnolds Field in Launders Lane, Rainham, have plagued residents for years.",
+      "source": "BBC Science & Environment",
+      "source_key": "bbc-science-environment",
+      "source_homepage": "https://www.bbc.com/news/science_and_environment",
+      "source_feed": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "section": "Climate & Environment",
+      "section_key": "climate-environment",
+      "timestamp": "2026-03-26T18:03:09Z"
+    },
+    {
+      "title": "Iran and the U.S. harden their positions as Tehran tightens its grip on the Strait of Hormuz",
+      "link": "https://www.pbs.org/newshour/world/iran-and-the-u-s-harden-their-positions-as-tehran-tightens-its-grip-on-the-strait-of-hormuz",
+      "summary": "Iran and the United States appeared at an impasse Thursday, with each side hardening its position over talks and setting the stage for another potential escalation in the Middle...",
+      "source": "PBS NewsHour Headlines",
+      "source_key": "pbs-newshour-headlines",
+      "source_homepage": "https://www.pbs.org/newshour/",
+      "source_feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:00:04Z"
+    },
+    {
+      "title": "Retirees with surprise IRS bills: Options when you can't pay in full",
+      "link": "https://www.cbsnews.com/news/retirees-surprise-irs-bill-options/",
+      "summary": "A surprise IRS tax bill can derail your retirement budget fast. Here's how to keep that from happening.",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T18:00:00Z"
+    },
+    {
+      "title": "Fannie Mae accepts first crypto-backed mortgage product",
+      "link": "https://www.cnbc.com/2026/03/26/fannie-mae-accepts-first-crypto-backed-mortgage-product.html",
+      "summary": "Better Home and Finance is partnering with Coinbase on a crypto-backed mortgage that conforms to Fannie Mae guidelines.",
+      "source": "CNBC Top",
+      "source_key": "cnbc-top",
+      "source_homepage": "https://www.cnbc.com/",
+      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T17:59:17Z"
+    },
+    {
+      "title": "Nicol\u00e1s Maduro appears again in New York court on \u2018narco-terrorism\u2019 charges",
+      "link": "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case",
+      "summary": "Deposed Venezuelan president and his wife, who both pleaded not guilty, were captured by US military in January The deposed Venezuelan president Nicol\u00e1s Maduro again appeared in...",
+      "source": "The Guardian World",
+      "source_key": "the-guardian-world",
+      "source_homepage": "https://www.theguardian.com/world",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T17:58:53Z"
+    },
+    {
+      "title": "Iranian missiles cause widespread damage across Israel in latest wave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iranian-missiles-cause-widespread-damage-across-israel-in-latest-wave?traffic_source=rss",
+      "summary": "Iranian missiles have caused widespread damage across Israel in the latest wave of attacks.",
+      "source": "Al Jazeera",
+      "source_key": "al-jazeera",
+      "source_homepage": "https://www.aljazeera.com",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T17:58:03Z"
+    },
+    {
+      "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+      "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
+      "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
+      "source": "BBC World",
+      "source_key": "bbc-world",
+      "source_homepage": "https://www.bbc.com/news/world",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T17:57:41Z"
+    },
+    {
+      "title": "Air Canada CEO 'deeply saddened' his English-only message distracted from victims of crash",
+      "link": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pilots.",
+      "source": "BBC World",
+      "source_key": "bbc-world",
+      "source_homepage": "https://www.bbc.com/news/world",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T17:57:30Z"
+    },
+    {
+      "title": "Man drives through gate at Florida airport, tries to board multiple planes",
+      "link": "https://thehill.com/homenews/state-watch/5802543-bryan-parker-daytona-airport-incident-drunk-driver/",
+      "summary": "The man, who deputies say was intoxicated, claimed he had recently attended an AA meeting but soon began drinking and using cocaine.",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:56:18Z"
+    },
+    {
+      "title": "Homan to Democrats wanting ICE to give up masks: \u2018You know what? No, we\u2019re not!\u2019",
+      "link": "https://thehill.com/homenews/administration/5802688-homan-defends-ice-masks/",
+      "summary": "White House border czar Tom Homan said Wednesday that Immigration and Customs Enforcement (ICE) officers will continue wearing masks despite Democrats\u2019 push to see face covering...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:56:05Z"
+    },
+    {
+      "title": "Nicol&aacute;s Maduro's lawyer argues against U.S. blocking funding for drug trafficking case defense",
+      "link": "https://www.pbs.org/newshour/world/nicolas-maduros-lawyer-argues-against-u-s-blocking-funding-for-drug-trafficking-case-defense",
+      "summary": "Former Venezuelan President Nicol\u00e1s Maduro and his wife were back in a New York courtroom Thursday as they seek to have their drug trafficking indictments thrown out over a geop...",
+      "source": "PBS NewsHour Headlines",
+      "source_key": "pbs-newshour-headlines",
+      "source_homepage": "https://www.pbs.org/newshour/",
+      "source_feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:54:19Z"
+    },
+    {
+      "title": "DOJ admits ICE courthouse arrests relied on erroneous information",
+      "link": "https://www.npr.org/2026/03/26/nx-s1-5762691/doj-admits-ice-courthouse-arrests-relied-on-erroneous-information",
+      "summary": "Hundreds of immigrants have been arrested at immigration courthouses. It is unclear whether the federal government's admission could lead to some of those arrests being overturned.",
+      "source": "NPR News",
+      "source_key": "npr-news",
+      "source_homepage": "https://www.npr.org/sections/news/",
+      "source_feed": "https://feeds.npr.org/1001/rss.xml",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:54:02Z"
+    },
+    {
+      "title": "5 takeaways from Trump\u2019s Cabinet meeting as Iran war wages",
+      "link": "https://thehill.com/homenews/5802654-trump-cabinet-meeting-iran-war/",
+      "summary": "President Trump held his 11th Cabinet meeting of his second term Thursday, with the war in Iran dominating most of the discussion. Unlike past Cabinet meetings, Thursday\u2019s laste...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:52:41Z"
+    },
+    {
+      "title": "Senate holds test vote on DHS funding as Democrats weigh GOP offer",
+      "link": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-41/",
+      "summary": "The Senate is holding a test vote on advancing a funding bill for the Department of Homeland Security. Follow live updates.",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:49:37Z"
+    },
+    {
+      "title": "Senate Democrats defeat amendment to require photo ID to vote",
+      "link": "https://thehill.com/homenews/senate/5802680-photo-id-vote-senate-democrats/",
+      "summary": "Senate Democrats on Thursday defeated an amendment sponsored by Sen. Jon Husted (R), Ohio\u2019s former secretary of state, to require voters to show photo ID when casting ballots in...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:49:37Z"
+    },
+    {
+      "title": "House Democrat says Trump \u2018begging\u2019 China to help with Iran: \u2018We are losing\u2019",
+      "link": "https://thehill.com/homenews/house/5802656-moulton-trump-iran-conflict/",
+      "summary": "Rep. Seth Moulton (D-Mass.) said Wednesday that President Trump has heavily pushed China to help with the Strait of Hormuz reopening amid the U.S. conflict against Iran. \u201cAppare...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:48:16Z"
+    },
+    {
+      "title": "JPMorgan says bitcoin shows safe-haven-like demand during Iran war as gold and silver weaken",
+      "link": "https://www.theblock.co/post/395369/jpmorgan-bitcoin-crypto-iran-war-gold-silver?utm_source=rss&utm_medium=rss",
+      "summary": "Bitcoin has held up better than gold and silver during the Iran war, with signs of inflows and rising activity, JPMorgan analysts said.",
+      "source": "The Block",
+      "source_key": "the-block",
+      "source_homepage": "https://www.theblock.co",
+      "source_feed": "https://www.theblock.co/rss.xml",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:41:28Z"
+    },
+    {
+      "title": "More than one million displaced by Israel\u2019s evacuations in Lebanon",
+      "link": "https://www.aljazeera.com/gallery/2026/3/26/more-than-one-million-displaced-by-israels-evacuations-in-lebanon?traffic_source=rss",
+      "summary": "More than 250,000 people flee Lebanon in two weeks, with 125,000 crossing into Syria, including 7,000 Lebanese citizens.",
+      "source": "Al Jazeera",
+      "source_key": "al-jazeera",
+      "source_homepage": "https://www.aljazeera.com",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T17:40:31Z"
+    },
+    {
+      "title": "Amendment to require photo ID to vote fails in Senate as Democrats object",
+      "link": "https://www.cbsnews.com/news/save-america-act-photo-id-amendment-senate-vote/",
+      "summary": "An amendment that would require voters to show photo identification to cast a ballot failed to advance in the Senate on Thursday.",
+      "source": "CBS News Politics",
+      "source_key": "cbs-news-politics",
+      "source_homepage": "https://www.cbsnews.com/politics/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/politics",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:40:18Z"
+    },
+    {
+      "title": "The hot Fundrise VCX fund falls 45% as IPO mania subsides and investors get a crash course in risk",
+      "link": "https://www.marketwatch.com/story/the-hot-fundrise-vcx-fund-falls-45-as-ipo-mania-subsides-and-investors-get-a-crash-course-in-risk-7e5e9b88?mod=mw_rss_topstories",
+      "summary": "A buzzy fund offering access to pre-IPO AI companies such as Anthropic and OpenAI is trading well above the value of its underlying assets, even with its sharp recent decline.",
+      "source": "MarketWatch",
+      "source_key": "marketwatch",
+      "source_homepage": "https://www.marketwatch.com",
+      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T17:39:00Z"
+    },
+    {
+      "title": "Gold\u2019s tumble has created opportunities to buy these stocks at bargain prices",
+      "link": "https://www.marketwatch.com/story/golds-tumble-has-created-opportunities-to-buy-these-stocks-at-bargain-prices-7ad3e73a?mod=mw_rss_topstories",
+      "summary": "The recent sharp selloff in gold miner stocks has created opportunities for investors to buy at bargain prices if the appetite for gold flips back to bullish, as history suggests.",
+      "source": "MarketWatch",
+      "source_key": "marketwatch",
+      "source_homepage": "https://www.marketwatch.com",
+      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T17:36:00Z"
     },
     {
       "title": "My brief, weird time with the Samsung TriFold",
@@ -232,6 +772,18 @@
       "section": "Technology",
       "section_key": "technology",
       "timestamp": "2026-03-26T17:33:30Z"
+    },
+    {
+      "title": "Lawmakers call for Air Canada chief to resign after English-only message to plane crash victims",
+      "link": "https://www.theguardian.com/us-news/2026/mar/26/air-canada-apology-rousseau-lga-plane-crash",
+      "summary": "Quebec\u2019s legislature passes vote calling on Michael Rousseau to step down, citing \u2018lack of respect for the French language\u2019 and families in mourning Sign up for the Breaking New...",
+      "source": "The Guardian World",
+      "source_key": "the-guardian-world",
+      "source_homepage": "https://www.theguardian.com/world",
+      "source_feed": "https://www.theguardian.com/world/rss",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T17:30:44Z"
     },
     {
       "title": "US official accuses China of supporting, exploiting cyber scam crisis in Southeast Asia",
@@ -249,37 +801,13 @@
       "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
       "link": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss",
       "summary": "US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws.",
-      "source": "BBC Technology",
-      "source_key": "bbc-technology",
-      "source_homepage": "https://www.bbc.com/news/technology",
-      "source_feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "section": "Technology",
-      "section_key": "technology",
+      "source": "BBC Business",
+      "source_key": "bbc-business",
+      "source_homepage": "https://www.bbc.com/news/business",
+      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
       "timestamp": "2026-03-26T17:29:13Z"
-    },
-    {
-      "title": "Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'",
-      "link": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
-      "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
-      "source": "ABC News Top Stories",
-      "source_key": "abc-news-top-stories",
-      "source_homepage": "https://abcnews.go.com/",
-      "source_feed": "https://abcnews.go.com/abcnews/topstories",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:28:57Z"
-    },
-    {
-      "title": "Police force reopens investigation into Andrew Tate abuse claims",
-      "link": "https://www.bbc.com/news/articles/c17veqk90nno?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes a day after the police watchdog said it would look into the force's handling of reports against the influencer.",
-      "source": "BBC News",
-      "source_key": "bbc-news",
-      "source_homepage": "https://www.bbc.com/news",
-      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:28:12Z"
     },
     {
       "title": "The Kennedy Center Is Giving Bill Maher the Mark Twain Prize",
@@ -294,6 +822,18 @@
       "timestamp": "2026-03-26T17:27:45Z"
     },
     {
+      "title": "London police officer filmed in crowd intimidating Al Jazeera journalists",
+      "link": "https://www.aljazeera.com/news/2026/3/26/london-police-officer-involved-in-verbal-assault-on-al-jazeera-journalists?traffic_source=rss",
+      "summary": "Metropolitan Police says reviewing footage of incident, reporters must be able to work 'without intimidation'.",
+      "source": "Al Jazeera",
+      "source_key": "al-jazeera",
+      "source_homepage": "https://www.aljazeera.com",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T17:26:28Z"
+    },
+    {
       "title": "Best Buy\u2019s stock is rallying amid takeover speculation. But here\u2019s the real story.",
       "link": "https://www.marketwatch.com/story/best-buys-stock-is-rallying-amid-takeover-speculation-but-heres-the-real-story-43d4ffb4?mod=mw_rss_topstories",
       "summary": "Some attributed the jump in Best Buy\u2019s stock to the prospect of a takeover by GameStop, but the analyst who wrote the note that started that speculation says otherwise.",
@@ -304,30 +844,6 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T17:23:00Z"
-    },
-    {
-      "title": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now.",
-      "link": "https://www.cbsnews.com/news/heloc-rates-6-range-what-20000-heloc-costs-monthly/",
-      "summary": "HELOC interest rates are closing in on the 6% range. So, how much will a $20,000 line of credit cost right now?",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:22:22Z"
-    },
-    {
-      "title": "Blanche boasts of having \u2018cleaned house\u2019 at DOJ, FBI following Trump prosecutions",
-      "link": "https://thehill.com/homenews/administration/5802553-todd-blanche-cpac-doj-fbi-firings/",
-      "summary": "Deputy Attorney General Todd Blanche boasted Thursday about the number of firings at the Department of Justice (DOJ) and FBI, saying the administration had \u201ccleaned house\u201d by ou...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T17:19:48Z"
     },
     {
       "title": "Average US long-term mortgage rate leaps to 6.38%, the highest level in more than 6 months",
@@ -345,12 +861,12 @@
       "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
       "link": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
       "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
+      "source": "CBS News World",
+      "source_key": "cbs-news-world",
+      "source_homepage": "https://www.cbsnews.com/world/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/world",
+      "section": "World",
+      "section_key": "world",
       "timestamp": "2026-03-26T17:16:39Z"
     },
     {
@@ -366,42 +882,6 @@
       "timestamp": "2026-03-26T17:16:06Z"
     },
     {
-      "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
-      "link": "https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716",
-      "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
-      "source": "ABC News Top Stories",
-      "source_key": "abc-news-top-stories",
-      "source_homepage": "https://abcnews.go.com/",
-      "source_feed": "https://abcnews.go.com/abcnews/topstories",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:15:02Z"
-    },
-    {
-      "title": "What could cause mortgage rates to drop this April?",
-      "link": "https://www.cbsnews.com/news/causes-mortgage-rates-drop-april-2026/",
-      "summary": "Mortgage rates have climbed back up in recent weeks, but several forces could pull them lower before April ends.",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:14:45Z"
-    },
-    {
-      "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
-      "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
-      "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
-      "source": "CNBC Top",
-      "source_key": "cnbc-top",
-      "source_homepage": "https://www.cnbc.com/",
-      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T17:14:17Z"
-    },
-    {
       "title": "Major outgoing CEOs are citing AI as a factor in their decisions to step down",
       "link": "https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html",
       "summary": "Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures.",
@@ -412,30 +892,6 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T17:13:24Z"
-    },
-    {
-      "title": "Hillary Clinton to keynote New Hampshire Democrats fundraiser",
-      "link": "https://thehill.com/homenews/state-watch/5802517-hillary-clinton-new-hampshire/",
-      "summary": "Former Secretary of State Hillary Clinton (D) is set to speak at a major Democratic Party fundraiser in New Hampshire next month, the state party announced Thursday. Clinton is...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T17:11:40Z"
-    },
-    {
-      "title": "Heat wave slams the Southwest",
-      "link": "https://www.cbsnews.com/video/heat-wave-slams-the-southwest/",
-      "summary": "High temperatures are affecting the Southwest and breaking records. CBS News meteorologist Jessica Burch has the latest.",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:11:00Z"
     },
     {
       "title": "Brussels opens investigation into Snapchat amid concern over children\u2019s safety",
@@ -450,61 +906,25 @@
       "timestamp": "2026-03-26T17:08:55Z"
     },
     {
-      "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
-      "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
-      "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:05:06Z"
-    },
-    {
-      "title": "Trump slams Starmer's reaction to Iran war and questions U.K. alliance",
-      "link": "https://www.cbsnews.com/video/trump-slams-starmers-reaction-to-iran-war-and-questions-uk-alliance/",
-      "summary": "During a Cabinet meeting at the White House, President Trump reacted to British Prime Minister Keir Starmer's reluctance to get involved in the Iran war. This comes as Mr. Trump...",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:04:00Z"
-    },
-    {
-      "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
-      "link": "https://thehill.com/policy/defense/5802502-hegseth-supports-deal-iran/",
-      "summary": "Defense Secretary Pete Hegseth said he would welcome a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week that Hegseth was \u201cdisappointed...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T17:02:52Z"
-    },
-    {
-      "title": "Trump housing chief seeks new criminal probe into Letitia James",
-      "link": "https://thehill.com/homenews/administration/5802426-bill-pulte-seeks-criminal-probe/",
-      "summary": "Bill Pulte, director of the Federal Housing Finance Agency, is seeking a new criminal probe into New York Attorney General Letitia James (D) after failing to convict her on mort...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T17:01:17Z"
-    },
-    {
       "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
-      "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/",
+      "link": "https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/",
       "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic...",
       "source": "NASA News Releases",
       "source_key": "nasa-news-releases",
       "source_homepage": "https://www.nasa.gov/news/",
       "source_feed": "https://www.nasa.gov/news-release/feed/",
+      "section": "Science & Space",
+      "section_key": "science-space",
+      "timestamp": "2026-03-26T17:00:55Z"
+    },
+    {
+      "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
+      "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/",
+      "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic...",
+      "source": "NASA Earth",
+      "source_key": "nasa-earth",
+      "source_homepage": "https://www.nasa.gov/earth/",
+      "source_feed": "https://www.nasa.gov/earth/feed/",
       "section": "Science & Space",
       "section_key": "science-space",
       "timestamp": "2026-03-26T17:00:55Z"
@@ -519,42 +939,6 @@
       "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
       "section": "Business & Markets",
       "section_key": "business-markets",
-      "timestamp": "2026-03-26T17:00:00Z"
-    },
-    {
-      "title": "Top Senate Dems blast proposed ACA rule promoting \u2018junk coverage\u2019 that would push estimated 2 million off enrollment",
-      "link": "https://thehill.com/policy/healthcare/5802017-senate-democrats-condemn-trump-aca-rule/",
-      "summary": "A trio of top Senate Democrats led their colleagues in condemning a proposed rule by the Trump administration that would lift restrictions on the number of non-standardized plan...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T17:00:00Z"
-    },
-    {
-      "title": "Watch live: House Ethics panel examines Sheila Cherfilus-McCormick FEMA fraud allegations",
-      "link": "https://thehill.com/video-clips/5802176-watch-live-house-ethics-committee-hearing-sheila-cherfilus-mccormick-charges/",
-      "summary": "The House Ethics Committee on Thursday afternoon will look into allegations against Rep. Sheila Cherfilus-McCormick (D-Fla.), who is accused of stealing $5 million from the Fede...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T17:00:00Z"
-    },
-    {
-      "title": "The essential ingredients for a winning Democratic midterm message",
-      "link": "https://thehill.com/opinion/campaign/5801389-trump-job-ratings-inflation/",
-      "summary": "Donald Trump's low job ratings and personal scores, combined with his broken promises to reduce prices, provide a strong foundation for a winning Democratic midterm message.",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
       "timestamp": "2026-03-26T17:00:00Z"
     },
     {
@@ -582,18 +966,6 @@
       "timestamp": "2026-03-26T16:58:30Z"
     },
     {
-      "title": "Senate GOP sends Democrats \"last and final\" offer to end DHS shutdown",
-      "link": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-41/",
-      "summary": "Senate Majority Leader John Thune said Republicans have submitted what their \"last and final\" offer to end the DHS shutdown. Follow live updates.",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:57:58Z"
-    },
-    {
       "title": "Investors are snubbing Trump\u2019s Iran pause. Even his Truth Social posts may not save the market.",
       "link": "https://www.marketwatch.com/story/trump-hoped-his-iran-pause-would-bring-a-stock-market-miracle-but-investors-arent-buying-b45e4b7a?mod=mw_rss_topstories",
       "summary": "Trump hoped his Iran reprieve would bring a stock-market miracle \u2014 but investors aren\u2019t buying and time is short.",
@@ -604,18 +976,6 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T16:56:00Z"
-    },
-    {
-      "title": "Harris books appearances in the South next month: CNN",
-      "link": "https://thehill.com/homenews/campaign/5802266-kamala-harris-southern-fundraisers/",
-      "summary": "Former Vice President Kamala Harris will appear at multiple state Democratic Party fundraisers across the South next month, CNN reported Thursday. Harris will reportedly appear...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:50:41Z"
     },
     {
       "title": "The best deals we\u2019ve found from Amazon\u2019s Big Spring Sale (so far)",
@@ -630,18 +990,6 @@
       "timestamp": "2026-03-26T16:49:11Z"
     },
     {
-      "title": "Details revealed of Board of Peace plan for Gaza disarmament",
-      "link": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
-      "summary": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months.",
-      "source": "Al Jazeera",
-      "source_key": "al-jazeera",
-      "source_homepage": "https://www.aljazeera.com",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T16:47:01Z"
-    },
-    {
       "title": "Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs",
       "link": "https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/",
       "summary": "Great performance for the price, if you ignore the price of RAM, SSDs, and GPUs.",
@@ -654,30 +1002,6 @@
       "timestamp": "2026-03-26T16:46:20Z"
     },
     {
-      "title": "More than 13 million living in poverty, new figures show",
-      "link": "https://www.bbc.com/news/articles/c3w38qvz195o?at_medium=RSS&at_campaign=rss",
-      "summary": "The level rose slightly on the previous year while the number of children living in poverty has remained steady.",
-      "source": "BBC News",
-      "source_key": "bbc-news",
-      "source_homepage": "https://www.bbc.com/news",
-      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:45:39Z"
-    },
-    {
-      "title": "Bitcoin trades narrow corridor as macro pressures throttle liquidity ahead of potential breakout: analysts",
-      "link": "https://www.theblock.co/post/395313/bitcoin-trades-narrow-corridor-macro-pressures-throttle-liquidity-potential-breakout?utm_source=rss&utm_medium=rss",
-      "summary": "Bitcoin is holding near $70,000 as analysts flag $72,000K as a key breakout zone and note a mix of macro pressures and tight liquidity.",
-      "source": "The Block",
-      "source_key": "the-block",
-      "source_homepage": "https://www.theblock.co",
-      "source_feed": "https://www.theblock.co/rss.xml",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:45:33Z"
-    },
-    {
       "title": "Trump to Congress: End DHS shutdown or face 'very drastic measures'",
       "link": "https://www.cnbc.com/2026/03/26/trump-tsa-shutdown-dhs.html",
       "summary": "Lawmakers are stalled on funding the Department of Homeland Security as airport delays mount.",
@@ -688,18 +1012,6 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T16:45:15Z"
-    },
-    {
-      "title": "Dash Crofts, of 1970s music duo Seals & Crofts, dead at 85",
-      "link": "https://abcnews.com/GMA/Culture/dash-crofts-1970s-music-duo-seals-crofts-dead/story?id=131435268",
-      "summary": "Seals & Crofts chart hits included \"Summer Breeze,\" \"Get Closer,\" \"Diamond Girl\" and more.",
-      "source": "ABC News Top Stories",
-      "source_key": "abc-news-top-stories",
-      "source_homepage": "https://abcnews.go.com/",
-      "source_feed": "https://abcnews.go.com/abcnews/topstories",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:44:52Z"
     },
     {
       "title": "Govee\u2019s color-changing smart lamps are on sale for up to 30 percent off",
@@ -726,18 +1038,6 @@
       "timestamp": "2026-03-26T16:44:00Z"
     },
     {
-      "title": "Nicol\u00e1s Maduro appears again in New York court on \u2018narco-terrorism\u2019 charges",
-      "link": "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case",
-      "summary": "Deposed Venezuelan president and his wife, who both pleaded not guilty, were captured by US military in January The deposed Venezuelan president Nicol\u00e1s Maduro again appeared in...",
-      "source": "The Guardian World",
-      "source_key": "the-guardian-world",
-      "source_homepage": "https://www.theguardian.com/world",
-      "source_feed": "https://www.theguardian.com/world/rss",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T16:43:44Z"
-    },
-    {
       "title": "Long-term care is expensive. Take these 3 steps now to help you afford it later.",
       "link": "https://www.marketwatch.com/story/long-term-care-is-expensive-take-these-3-steps-now-to-help-you-afford-it-later-f71f6ffb?mod=mw_rss_topstories",
       "summary": "Costs for in-home care and assisted living are up almost 50% since 2019.",
@@ -748,42 +1048,6 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T16:40:00Z"
-    },
-    {
-      "title": "Savannah Guthrie says \"we cannot be at peace without knowing\" as search for mom continues",
-      "link": "https://www.cbsnews.com/video/savannah-guthrie-says-we-cannot-be-at-peace-without-knowing-as-search-for-mom-continues/",
-      "summary": "In Savannah Guthrie's first interview since her mother, Nancy Guthrie, disappeared, the \"Today\" co-host described her daily struggles. Police believe Nancy Guthrie was taken fro...",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:38:00Z"
-    },
-    {
-      "title": "Anchorage becomes first federally chartered US firm to bring Tron \u2018inside the regulatory perimeter\u2019",
-      "link": "https://www.theblock.co/post/395318/anchorage-federally-chartered-tron-inside-regulatory-perimeter?utm_source=rss&utm_medium=rss",
-      "summary": "Tron is a top chain for stablecoin usage, though it has largely operated outside the U.S. due to regulatory concerns.",
-      "source": "The Block",
-      "source_key": "the-block",
-      "source_homepage": "https://www.theblock.co",
-      "source_feed": "https://www.theblock.co/rss.xml",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:35:02Z"
-    },
-    {
-      "title": "Pentagon boss claims Iran now has \u2018no navy, no navy leader\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pentagon-boss-claims-iran-now-has-no-navy-no-navy?traffic_source=rss",
-      "summary": "Defense Secretary Pete Hegseth has said that Iran war is 'stuff for the history books'.",
-      "source": "Al Jazeera",
-      "source_key": "al-jazeera",
-      "source_homepage": "https://www.aljazeera.com",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T16:33:18Z"
     },
     {
       "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
@@ -798,138 +1062,6 @@
       "timestamp": "2026-03-26T16:27:58Z"
     },
     {
-      "title": "Olympics align with Trump as transgender athletes banned from women\u2019s games",
-      "link": "https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss",
-      "summary": "Transgender athletes banned from women's Olympic events by new IOC policy aiming for 'fairness, safety and integrity'.",
-      "source": "Al Jazeera",
-      "source_key": "al-jazeera",
-      "source_homepage": "https://www.aljazeera.com",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T16:27:43Z"
-    },
-    {
-      "title": "An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who\u2019s right?",
-      "link": "https://www.marketwatch.com/story/an-older-relative-wants-to-give-my-daughter-19-000-when-she-turns-18-i-said-no-whos-right-f793a2f1?mod=mw_rss_topstories",
-      "summary": "\u201cWe don\u2019t think it\u2019s healthy for very young adults to have access to large sums of money without working for it.\u201d",
-      "source": "MarketWatch",
-      "source_key": "marketwatch",
-      "source_homepage": "https://www.marketwatch.com",
-      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T16:27:00Z"
-    },
-    {
-      "title": "UK Sanctions Crypto Marketplace Xinbi in Crackdown on Southeast Asian Scam Centers",
-      "link": "https://decrypt.co/362460/uk-sanctions-crypto-marketplace-xinbi-in-crackdown-on-southeast-asian-scam-centers",
-      "summary": "The UK has targeted a Chinese-language crypto selling stolen personal data to fraudsters operating from scam compounds in Southeast Asia.",
-      "source": "Decrypt",
-      "source_key": "decrypt",
-      "source_homepage": "https://decrypt.co",
-      "source_feed": "https://decrypt.co/feed",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:26:03Z"
-    },
-    {
-      "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
-      "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Forces can now board sanctioned vessels if required, after ministers identified a legal basis in January.",
-      "source": "BBC News",
-      "source_key": "bbc-news",
-      "source_homepage": "https://www.bbc.com/news",
-      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:24:42Z"
-    },
-    {
-      "title": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
-      "link": "https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html",
-      "summary": "Meta suffered stinging defeats in two separate trials involving child safety that underscore shifting public sentiment toward the social media industry.",
-      "source": "CNBC Top",
-      "source_key": "cnbc-top",
-      "source_homepage": "https://www.cnbc.com/",
-      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T16:22:33Z"
-    },
-    {
-      "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
-      "link": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
-      "summary": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
-      "source": "New York Times Technology",
-      "source_key": "new-york-times-technology",
-      "source_homepage": "https://www.nytimes.com/section/technology",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T16:21:28Z"
-    },
-    {
-      "title": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
-      "link": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
-      "summary": "Some staff reportedly questioned how sexy ChatGPT benefits humanity.",
-      "source": "Ars Technica",
-      "source_key": "ars-technica",
-      "source_homepage": "https://arstechnica.com/",
-      "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T16:21:10Z"
-    },
-    {
-      "title": "Don't panic - five ways to stop your kids' endless scrolling",
-      "link": "https://www.bbc.com/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
-      "summary": "Parenting experts share their tips on how to keep children's screen time under control.",
-      "source": "BBC Business",
-      "source_key": "bbc-business",
-      "source_homepage": "https://www.bbc.com/news/business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T16:19:41Z"
-    },
-    {
-      "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
-      "link": "https://www.cnbc.com/2026/03/26/mlb-faces-historic-shift-as-potential-lockout-media-rights-and-league-changes-loom.html",
-      "summary": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
-      "source": "CNBC Top",
-      "source_key": "cnbc-top",
-      "source_homepage": "https://www.cnbc.com/",
-      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T16:18:25Z"
-    },
-    {
-      "title": "Trump says Iran \u2018lousy fighters but great negotiators\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-says-iran-lousy-fighters-but-great?traffic_source=rss",
-      "summary": "President Trump has said Iran is \u201cbegging to make a deal\u201d, describing them as \u201clousy fighters but great negotiators\".",
-      "source": "Al Jazeera",
-      "source_key": "al-jazeera",
-      "source_homepage": "https://www.aljazeera.com",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T16:18:01Z"
-    },
-    {
-      "title": "Everyone hates Ticketmaster. Why\u2019d Trump go easy on them?",
-      "link": "https://www.theverge.com/podcast/900540/live-nation-ticketmaster-lawsuit-antitrust-trump-doj-settlement",
-      "summary": "Today on Decoder, we\u2019re talking about the major antitrust lawsuit against Live Nation, and what it might mean for antitrust and competition law in general now that the Justice D...",
-      "source": "The Verge",
-      "source_key": "the-verge",
-      "source_homepage": "https://www.theverge.com/",
-      "source_feed": "https://www.theverge.com/rss/index.xml",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T16:16:33Z"
-    },
-    {
       "title": "Alexander Kluge, author and key film-maker in the New German Cinema movement, dies aged 94",
       "link": "https://www.theguardian.com/film/2026/mar/26/alexander-kluge-dies-aged-94-author-film-maker-new-german-cinema",
       "summary": "A winner of the Golden Lion at Venice, Kluge was a committed pacifist and one of the last living torchbearers of the Frankfurt school of neo-Marxist cultural criticism Alexander...",
@@ -942,30 +1074,6 @@
       "timestamp": "2026-03-26T16:10:12Z"
     },
     {
-      "title": "Brazil Passes Law to Use Seized Bitcoin, Crypto to Fund Public Security Measures",
-      "link": "https://decrypt.co/362453/brazil-passes-law-seized-bitcoin-crypto-fund-public-security",
-      "summary": "A new law in Brazil will allow authorities to seize digital assets like Bitcoin to help combat organized crime and fund public security.",
-      "source": "Decrypt",
-      "source_key": "decrypt",
-      "source_homepage": "https://decrypt.co",
-      "source_feed": "https://decrypt.co/feed",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:07:14Z"
-    },
-    {
-      "title": "Tehran\u2019s\u2019tollbooth\u2019: How Iran picks who to let through Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/3/26/tehranstollbooth-how-iran-picks-who-to-let-through-strait-of-hormuz?traffic_source=rss",
-      "summary": "Iran has blocked the passage of vessels carrying 20 percent of the world\u2019s oil and liquefied natural gas supplies.",
-      "source": "Al Jazeera",
-      "source_key": "al-jazeera",
-      "source_homepage": "https://www.aljazeera.com",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T15:56:05Z"
-    },
-    {
       "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
       "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
       "summary": "The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data...",
@@ -976,30 +1084,6 @@
       "section": "Security & Privacy",
       "section_key": "security-privacy",
       "timestamp": "2026-03-26T15:42:43Z"
-    },
-    {
-      "title": "The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran",
-      "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
-      "summary": "The world\u2019s largest crypto exchange is under fire after investigators found accounts moving $1.7 billion to Iranian entities. Clues about those accounts were in plain sight for...",
-      "source": "New York Times Technology",
-      "source_key": "new-york-times-technology",
-      "source_homepage": "https://www.nytimes.com/section/technology",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T15:33:26Z"
-    },
-    {
-      "title": "Pakistan says it is mediating US-Iran talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pakistan-says-it-is-mediating-us-iran-talks?traffic_source=rss",
-      "summary": "Pakistan says it is mediating indirect talks between the US and Iran aimed at ending the war.",
-      "source": "Al Jazeera",
-      "source_key": "al-jazeera",
-      "source_homepage": "https://www.aljazeera.com",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T15:33:07Z"
     },
     {
       "title": "Pro-Ukraine hacker group Bearlyfy targets Russian companies with custom ransomware",
@@ -1038,42 +1122,6 @@
       "timestamp": "2026-03-26T15:26:13Z"
     },
     {
-      "title": "WTO says world experiencing worst trade disruption in 80 years",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/wto-says-world-experiencing-worst-trade-disruption-in-80-years?traffic_source=rss",
-      "summary": "WTO chief Ngozi Okonjo-Iweala says the global trade order has \u2018irrevocably changed\u2019.",
-      "source": "Al Jazeera",
-      "source_key": "al-jazeera",
-      "source_homepage": "https://www.aljazeera.com",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T15:25:20Z"
-    },
-    {
-      "title": "Senators are pushing to find out how much electricity data centers actually use",
-      "link": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
-      "summary": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) asking it to collect \"comprehensive, annual ene...",
-      "source": "The Verge",
-      "source_key": "the-verge",
-      "source_homepage": "https://www.theverge.com/",
-      "source_feed": "https://www.theverge.com/rss/index.xml",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T15:23:19Z"
-    },
-    {
-      "title": "Damaged church floor may have revealed the grave of the fourth musketeer",
-      "link": "https://arstechnica.com/science/2026/03/archaeologists-may-have-found-the-grave-of-the-legendary-fourth-musketeer/",
-      "summary": "This will not be turning up in the church rummage sale.",
-      "source": "Ars Technica",
-      "source_key": "ars-technica",
-      "source_homepage": "https://arstechnica.com/",
-      "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T15:17:18Z"
-    },
-    {
       "title": "Apple rolls out age verification to UK iPhone users",
       "link": "https://therecord.media/apple-rolls-out-age-verification-uk-iphone-users",
       "summary": "The age filters will be turned on by default, meaning that all users \u2014 including adults \u2014 will have to prove their age via credit card and other payment methods on file or by su...",
@@ -1086,40 +1134,16 @@
       "timestamp": "2026-03-26T15:14:00Z"
     },
     {
-      "title": "Wikipedia bans AI-generated articles",
-      "link": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
-      "summary": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-wri...",
-      "source": "The Verge",
-      "source_key": "the-verge",
-      "source_homepage": "https://www.theverge.com/",
-      "source_feed": "https://www.theverge.com/rss/index.xml",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T15:12:32Z"
-    },
-    {
-      "title": "Transgender women athletes banned from women's Olympic events",
-      "link": "https://www.cbsnews.com/news/transgender-women-athletes-banned-womens-olympic-events-ioc-policy/",
-      "summary": "Transgender women athletes are now excluded from women's events at the Olympics after the IOC agreed to a new eligibility policy on Thursday.",
-      "source": "CBS News World",
-      "source_key": "cbs-news-world",
-      "source_homepage": "https://www.cbsnews.com/world/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/world",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T15:10:11Z"
-    },
-    {
-      "title": "Russia is helping Iran with intel to kill Americans, says top EU diplomat",
-      "link": "https://www.cbsnews.com/news/russia-helping-iran-ntel-target-kill-americans/",
-      "summary": "Russia is providing intelligence support to Iran in the Middle East war to \"kill Americans,\" Kaja Kallas said Thursday.",
-      "source": "CBS News World",
-      "source_key": "cbs-news-world",
-      "source_homepage": "https://www.cbsnews.com/world/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/world",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T15:07:24Z"
+      "title": "Dash Crofts of Summer Breeze rock duo Seals and Crofts dies aged 85",
+      "link": "https://www.theguardian.com/music/2026/mar/26/dash-crofts-dies-musician-seals-summer-breeze",
+      "summary": "Crofts helped define the sound of yacht rock with 1970s hits such as Summer Breeze and Diamond Girl Dash Crofts, the yacht rock musician who helped craft 70s hits such as Summer...",
+      "source": "Guardian Culture",
+      "source_key": "guardian-culture",
+      "source_homepage": "https://www.theguardian.com/culture",
+      "source_feed": "https://www.theguardian.com/culture/rss",
+      "section": "Entertainment",
+      "section_key": "entertainment",
+      "timestamp": "2026-03-26T15:11:17Z"
     },
     {
       "title": "Raphael and the Renaissance of Divine Beauty",
@@ -1170,18 +1194,6 @@
       "timestamp": "2026-03-26T15:00:11Z"
     },
     {
-      "title": "A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life",
-      "link": "https://abcnews.com/International/wireStory/knife-wielding-man-kills-woman-tokyo-pokemon-shop-131431537",
-      "summary": "A knife attack at a Pok\u00e9mon store in downtown Tokyo has left a woman and the attacker dead, police say",
-      "source": "ABC News International",
-      "source_key": "abc-news-international",
-      "source_homepage": "https://abcnews.go.com/international",
-      "source_feed": "https://abcnews.go.com/abcnews/internationalheadlines",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T14:59:08Z"
-    },
-    {
       "title": "La NASA anuncia la cobertura de la de la primera misi\u00f3n tripulada Artemis alrededor de la Luna",
       "link": "https://www.nasa.gov/news-release/la-nasa-anuncia-la-cobertura-de-la-de-la-primera-mision-tripulada-artemis-alrededor-de-la-luna/",
       "summary": "Diversos eventos previos al lanzamiento, del lanzamiento y de la misi\u00f3n Artemis II de la NASA alrededor de la Luna se transmitir\u00e1n en l\u00ednea. La agencia tiene como fecha objetivo...",
@@ -1192,18 +1204,6 @@
       "section": "Science & Space",
       "section_key": "science-space",
       "timestamp": "2026-03-26T14:55:22Z"
-    },
-    {
-      "title": "Nigeria takes its place on world stage in quest to become regional superpower",
-      "link": "https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
-      "summary": "Nigeria and UK look to strengthen trade and economic ties amid growing calls from Africa and Caribbean for reparative justice \u201cThere are chapters in our shared history that I kn...",
-      "source": "The Guardian World",
-      "source_key": "the-guardian-world",
-      "source_homepage": "https://www.theguardian.com/world",
-      "source_feed": "https://www.theguardian.com/world/rss",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T14:45:44Z"
     }
   ],
   "sections": [
@@ -1216,172 +1216,172 @@
       "total_sources": 7,
       "stories": [
         {
-          "title": "Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'",
-          "link": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
-          "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
-          "source": "ABC News Top Stories",
-          "source_key": "abc-news-top-stories",
-          "source_homepage": "https://abcnews.go.com/",
-          "source_feed": "https://abcnews.go.com/abcnews/topstories",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:28:57Z"
-        },
-        {
-          "title": "Police force reopens investigation into Andrew Tate abuse claims",
-          "link": "https://www.bbc.com/news/articles/c17veqk90nno?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes a day after the police watchdog said it would look into the force's handling of reports against the influencer.",
+          "title": "Sarah Ferguson stripped of Freedom of City of York title",
+          "link": "https://www.bbc.com/news/articles/c3w3ez3xp92o?at_medium=RSS&at_campaign=rss",
+          "summary": "The former duchess was given the honour in 1987 following her marriage to the then-Prince Andrew.",
           "source": "BBC News",
           "source_key": "bbc-news",
           "source_homepage": "https://www.bbc.com/news",
           "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:28:12Z"
+          "timestamp": "2026-03-26T18:35:56Z"
         },
         {
-          "title": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now.",
-          "link": "https://www.cbsnews.com/news/heloc-rates-6-range-what-20000-heloc-costs-monthly/",
-          "summary": "HELOC interest rates are closing in on the 6% range. So, how much will a $20,000 line of credit cost right now?",
+          "title": "DOJ close to finalizing deal to hand over voter roll data to DHS, sources say",
+          "link": "https://www.cbsnews.com/news/justice-dept-finalizing-deal-voter-roll-data-homeland-security/",
+          "summary": "DOJ plans to turn over voter data it's collecting from states to DHS for use in immigration and criminal investigations, sources say.",
           "source": "CBS News Latest",
           "source_key": "cbs-news-latest",
           "source_homepage": "https://www.cbsnews.com/",
           "source_feed": "https://www.cbsnews.com/latest/rss/main",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:22:22Z"
+          "timestamp": "2026-03-26T18:32:11Z"
         },
         {
-          "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
-          "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
+          "title": "Venezuela's Nicol\u00e1s Maduro faces judge in court",
+          "link": "https://www.cbsnews.com/video/venezuelas-nicols-maduro-faces-judge-in-court/",
+          "summary": "Former Venezuelan President Nicol\u00e1s Maduro attended a pre-trial court hearing in New York City on Thursday as a judge weighs key issues in his case. CBS News' Lilia Luciano repo...",
           "source": "CBS News Latest",
           "source_key": "cbs-news-latest",
           "source_homepage": "https://www.cbsnews.com/",
           "source_feed": "https://www.cbsnews.com/latest/rss/main",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:16:39Z"
+          "timestamp": "2026-03-26T18:32:00Z"
         },
         {
-          "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
-          "link": "https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716",
-          "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
+          "title": "Cocaine, caffeine, painkillers consumed by sharks in Bahamas, study finds",
+          "link": "https://www.cbsnews.com/news/cocaine-caffeine-painkillers-sharks-bahamas-study/",
+          "summary": "Marine biologists found detectable levels of caffeine, cocaine and the over-the-counter painkillers in the blood of 28 sharks.",
+          "source": "CBS News Latest",
+          "source_key": "cbs-news-latest",
+          "source_homepage": "https://www.cbsnews.com/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T18:28:54Z"
+        },
+        {
+          "title": "The Book of Mormon: Parker & Stone | 60 Minutes Archive",
+          "link": "https://www.cbsnews.com/video/the-book-of-mormon-parker-stone-60-minutes-archive/",
+          "summary": "In 2011, Steve Kroft profiled Trey Parker and Matt Stone, creators of the musical comedy \"The Book of Mormon,\" which this week marks 15 years on Broadway. Parker and Stone, who...",
+          "source": "CBS News Latest",
+          "source_key": "cbs-news-latest",
+          "source_homepage": "https://www.cbsnews.com/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T18:27:00Z"
+        },
+        {
+          "title": "Trump envoy Witkoff reveals more details of US negotiations with Iran prior to war",
+          "link": "https://abcnews.com/Politics/trump-envoy-witkoff-reveals-details-us-negotiations-iran/story?id=131436482",
+          "summary": "President Donald Trump's envoy Steve Witkoff revealed new details Thursday about his negotiations with Iranian officials before the U.S. attacked Iran.",
           "source": "ABC News Top Stories",
           "source_key": "abc-news-top-stories",
           "source_homepage": "https://abcnews.go.com/",
           "source_feed": "https://abcnews.go.com/abcnews/topstories",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:15:02Z"
+          "timestamp": "2026-03-26T18:26:21Z"
         },
         {
-          "title": "What could cause mortgage rates to drop this April?",
-          "link": "https://www.cbsnews.com/news/causes-mortgage-rates-drop-april-2026/",
-          "summary": "Mortgage rates have climbed back up in recent weeks, but several forces could pull them lower before April ends.",
+          "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+          "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
+          "summary": "There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.",
+          "source": "BBC News",
+          "source_key": "bbc-news",
+          "source_homepage": "https://www.bbc.com/news",
+          "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T18:24:13Z"
+        },
+        {
+          "title": "Judge told Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+          "link": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+          "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their lawyers.",
+          "source": "BBC News",
+          "source_key": "bbc-news",
+          "source_homepage": "https://www.bbc.com/news",
+          "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T18:22:20Z"
+        },
+        {
+          "title": "Trump says Iran is \"begging\" for deal and Witkoff confirms 15-point proposal",
+          "link": "https://www.cbsnews.com/video/trump-says-iran-is-begging-for-deal-and-witkoff-confirms-15-point-proposal/",
+          "summary": "President Trump spoke about the Iran war at a Cabinet meeting and said Tehran is \"begging\" for a deal to end the conflict. CBS News' Aaron Navarro reports.",
           "source": "CBS News Latest",
           "source_key": "cbs-news-latest",
           "source_homepage": "https://www.cbsnews.com/",
           "source_feed": "https://www.cbsnews.com/latest/rss/main",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:14:45Z"
+          "timestamp": "2026-03-26T18:19:00Z"
         },
         {
-          "title": "Heat wave slams the Southwest",
-          "link": "https://www.cbsnews.com/video/heat-wave-slams-the-southwest/",
-          "summary": "High temperatures are affecting the Southwest and breaking records. CBS News meteorologist Jessica Burch has the latest.",
+          "title": "Iran and the U.S. harden their positions as Tehran tightens its grip on the Strait of Hormuz",
+          "link": "https://www.pbs.org/newshour/world/iran-and-the-u-s-harden-their-positions-as-tehran-tightens-its-grip-on-the-strait-of-hormuz",
+          "summary": "Iran and the United States appeared at an impasse Thursday, with each side hardening its position over talks and setting the stage for another potential escalation in the Middle...",
+          "source": "PBS NewsHour Headlines",
+          "source_key": "pbs-newshour-headlines",
+          "source_homepage": "https://www.pbs.org/newshour/",
+          "source_feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T18:00:04Z"
+        },
+        {
+          "title": "Retirees with surprise IRS bills: Options when you can't pay in full",
+          "link": "https://www.cbsnews.com/news/retirees-surprise-irs-bill-options/",
+          "summary": "A surprise IRS tax bill can derail your retirement budget fast. Here's how to keep that from happening.",
           "source": "CBS News Latest",
           "source_key": "cbs-news-latest",
           "source_homepage": "https://www.cbsnews.com/",
           "source_feed": "https://www.cbsnews.com/latest/rss/main",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:11:00Z"
+          "timestamp": "2026-03-26T18:00:00Z"
         },
         {
-          "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
-          "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
-          "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
-          "source": "CBS News Latest",
-          "source_key": "cbs-news-latest",
-          "source_homepage": "https://www.cbsnews.com/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "title": "Nicol&aacute;s Maduro's lawyer argues against U.S. blocking funding for drug trafficking case defense",
+          "link": "https://www.pbs.org/newshour/world/nicolas-maduros-lawyer-argues-against-u-s-blocking-funding-for-drug-trafficking-case-defense",
+          "summary": "Former Venezuelan President Nicol\u00e1s Maduro and his wife were back in a New York courtroom Thursday as they seek to have their drug trafficking indictments thrown out over a geop...",
+          "source": "PBS NewsHour Headlines",
+          "source_key": "pbs-newshour-headlines",
+          "source_homepage": "https://www.pbs.org/newshour/",
+          "source_feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:05:06Z"
+          "timestamp": "2026-03-26T17:54:19Z"
         },
         {
-          "title": "Trump slams Starmer's reaction to Iran war and questions U.K. alliance",
-          "link": "https://www.cbsnews.com/video/trump-slams-starmers-reaction-to-iran-war-and-questions-uk-alliance/",
-          "summary": "During a Cabinet meeting at the White House, President Trump reacted to British Prime Minister Keir Starmer's reluctance to get involved in the Iran war. This comes as Mr. Trump...",
-          "source": "CBS News Latest",
-          "source_key": "cbs-news-latest",
-          "source_homepage": "https://www.cbsnews.com/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "title": "DOJ admits ICE courthouse arrests relied on erroneous information",
+          "link": "https://www.npr.org/2026/03/26/nx-s1-5762691/doj-admits-ice-courthouse-arrests-relied-on-erroneous-information",
+          "summary": "Hundreds of immigrants have been arrested at immigration courthouses. It is unclear whether the federal government's admission could lead to some of those arrests being overturned.",
+          "source": "NPR News",
+          "source_key": "npr-news",
+          "source_homepage": "https://www.npr.org/sections/news/",
+          "source_feed": "https://feeds.npr.org/1001/rss.xml",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:04:00Z"
+          "timestamp": "2026-03-26T17:54:02Z"
         },
         {
-          "title": "Senate GOP sends Democrats \"last and final\" offer to end DHS shutdown",
+          "title": "Senate holds test vote on DHS funding as Democrats weigh GOP offer",
           "link": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-41/",
-          "summary": "Senate Majority Leader John Thune said Republicans have submitted what their \"last and final\" offer to end the DHS shutdown. Follow live updates.",
+          "summary": "The Senate is holding a test vote on advancing a funding bill for the Department of Homeland Security. Follow live updates.",
           "source": "CBS News Latest",
           "source_key": "cbs-news-latest",
           "source_homepage": "https://www.cbsnews.com/",
           "source_feed": "https://www.cbsnews.com/latest/rss/main",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:57:58Z"
-        },
-        {
-          "title": "More than 13 million living in poverty, new figures show",
-          "link": "https://www.bbc.com/news/articles/c3w38qvz195o?at_medium=RSS&at_campaign=rss",
-          "summary": "The level rose slightly on the previous year while the number of children living in poverty has remained steady.",
-          "source": "BBC News",
-          "source_key": "bbc-news",
-          "source_homepage": "https://www.bbc.com/news",
-          "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:45:39Z"
-        },
-        {
-          "title": "Dash Crofts, of 1970s music duo Seals & Crofts, dead at 85",
-          "link": "https://abcnews.com/GMA/Culture/dash-crofts-1970s-music-duo-seals-crofts-dead/story?id=131435268",
-          "summary": "Seals & Crofts chart hits included \"Summer Breeze,\" \"Get Closer,\" \"Diamond Girl\" and more.",
-          "source": "ABC News Top Stories",
-          "source_key": "abc-news-top-stories",
-          "source_homepage": "https://abcnews.go.com/",
-          "source_feed": "https://abcnews.go.com/abcnews/topstories",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:44:52Z"
-        },
-        {
-          "title": "Savannah Guthrie says \"we cannot be at peace without knowing\" as search for mom continues",
-          "link": "https://www.cbsnews.com/video/savannah-guthrie-says-we-cannot-be-at-peace-without-knowing-as-search-for-mom-continues/",
-          "summary": "In Savannah Guthrie's first interview since her mother, Nancy Guthrie, disappeared, the \"Today\" co-host described her daily struggles. Police believe Nancy Guthrie was taken fro...",
-          "source": "CBS News Latest",
-          "source_key": "cbs-news-latest",
-          "source_homepage": "https://www.cbsnews.com/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/main",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:38:00Z"
-        },
-        {
-          "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
-          "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
-          "summary": "Forces can now board sanctioned vessels if required, after ministers identified a legal basis in January.",
-          "source": "BBC News",
-          "source_key": "bbc-news",
-          "source_homepage": "https://www.bbc.com/news",
-          "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:24:42Z"
+          "timestamp": "2026-03-26T17:49:37Z"
         }
       ]
     },
@@ -1393,6 +1393,150 @@
       "successful_sources": 9,
       "total_sources": 11,
       "stories": [
+        {
+          "title": "Cocaine, caffeine, painkillers consumed by sharks in Bahamas, study finds",
+          "link": "https://www.cbsnews.com/news/cocaine-caffeine-painkillers-sharks-bahamas-study/",
+          "summary": "Marine biologists found detectable levels of caffeine, cocaine and the over-the-counter painkillers in the blood of 28 sharks.",
+          "source": "CBS News World",
+          "source_key": "cbs-news-world",
+          "source_homepage": "https://www.cbsnews.com/world/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/world",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T18:28:54Z"
+        },
+        {
+          "title": "Judge told Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+          "link": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+          "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their lawyers.",
+          "source": "BBC World",
+          "source_key": "bbc-world",
+          "source_homepage": "https://www.bbc.com/news/world",
+          "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T18:22:20Z"
+        },
+        {
+          "title": "Kim Jong Un gifted gun after Belarus friendship treaty",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/kim-jong-un-gifted-gun-after-belarus-friendship-treaty?traffic_source=rss",
+          "summary": "Belarusian President Alexander Lukashenko gifted North Korean leader Kim Jong Un a gun.",
+          "source": "Al Jazeera",
+          "source_key": "al-jazeera",
+          "source_homepage": "https://www.aljazeera.com",
+          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T18:03:33Z"
+        },
+        {
+          "title": "Iran and the U.S. harden their positions as Tehran tightens its grip on the Strait of Hormuz",
+          "link": "https://www.pbs.org/newshour/world/iran-and-the-u-s-harden-their-positions-as-tehran-tightens-its-grip-on-the-strait-of-hormuz",
+          "summary": "Iran and the United States appeared at an impasse Thursday, with each side hardening its position over talks and setting the stage for another potential escalation in the Middle...",
+          "source": "PBS World",
+          "source_key": "pbs-world",
+          "source_homepage": "https://www.pbs.org/newshour/world/",
+          "source_feed": "https://www.pbs.org/newshour/feeds/rss/world",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T18:00:04Z"
+        },
+        {
+          "title": "Nicol\u00e1s Maduro appears again in New York court on \u2018narco-terrorism\u2019 charges",
+          "link": "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case",
+          "summary": "Deposed Venezuelan president and his wife, who both pleaded not guilty, were captured by US military in January The deposed Venezuelan president Nicol\u00e1s Maduro again appeared in...",
+          "source": "The Guardian World",
+          "source_key": "the-guardian-world",
+          "source_homepage": "https://www.theguardian.com/world",
+          "source_feed": "https://www.theguardian.com/world/rss",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:58:53Z"
+        },
+        {
+          "title": "Iranian missiles cause widespread damage across Israel in latest wave",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iranian-missiles-cause-widespread-damage-across-israel-in-latest-wave?traffic_source=rss",
+          "summary": "Iranian missiles have caused widespread damage across Israel in the latest wave of attacks.",
+          "source": "Al Jazeera",
+          "source_key": "al-jazeera",
+          "source_homepage": "https://www.aljazeera.com",
+          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:58:03Z"
+        },
+        {
+          "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+          "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
+          "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
+          "source": "BBC World",
+          "source_key": "bbc-world",
+          "source_homepage": "https://www.bbc.com/news/world",
+          "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:57:41Z"
+        },
+        {
+          "title": "Air Canada CEO 'deeply saddened' his English-only message distracted from victims of crash",
+          "link": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss",
+          "summary": "Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pilots.",
+          "source": "BBC World",
+          "source_key": "bbc-world",
+          "source_homepage": "https://www.bbc.com/news/world",
+          "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:57:30Z"
+        },
+        {
+          "title": "Nicol&aacute;s Maduro's lawyer argues against U.S. blocking funding for drug trafficking case defense",
+          "link": "https://www.pbs.org/newshour/world/nicolas-maduros-lawyer-argues-against-u-s-blocking-funding-for-drug-trafficking-case-defense",
+          "summary": "Former Venezuelan President Nicol\u00e1s Maduro and his wife were back in a New York courtroom Thursday as they seek to have their drug trafficking indictments thrown out over a geop...",
+          "source": "PBS World",
+          "source_key": "pbs-world",
+          "source_homepage": "https://www.pbs.org/newshour/world/",
+          "source_feed": "https://www.pbs.org/newshour/feeds/rss/world",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:54:19Z"
+        },
+        {
+          "title": "More than one million displaced by Israel\u2019s evacuations in Lebanon",
+          "link": "https://www.aljazeera.com/gallery/2026/3/26/more-than-one-million-displaced-by-israels-evacuations-in-lebanon?traffic_source=rss",
+          "summary": "More than 250,000 people flee Lebanon in two weeks, with 125,000 crossing into Syria, including 7,000 Lebanese citizens.",
+          "source": "Al Jazeera",
+          "source_key": "al-jazeera",
+          "source_homepage": "https://www.aljazeera.com",
+          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:40:31Z"
+        },
+        {
+          "title": "Lawmakers call for Air Canada chief to resign after English-only message to plane crash victims",
+          "link": "https://www.theguardian.com/us-news/2026/mar/26/air-canada-apology-rousseau-lga-plane-crash",
+          "summary": "Quebec\u2019s legislature passes vote calling on Michael Rousseau to step down, citing \u2018lack of respect for the French language\u2019 and families in mourning Sign up for the Breaking New...",
+          "source": "The Guardian World",
+          "source_key": "the-guardian-world",
+          "source_homepage": "https://www.theguardian.com/world",
+          "source_feed": "https://www.theguardian.com/world/rss",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:30:44Z"
+        },
+        {
+          "title": "London police officer filmed in crowd intimidating Al Jazeera journalists",
+          "link": "https://www.aljazeera.com/news/2026/3/26/london-police-officer-involved-in-verbal-assault-on-al-jazeera-journalists?traffic_source=rss",
+          "summary": "Metropolitan Police says reviewing footage of incident, reporters must be able to work 'without intimidation'.",
+          "source": "Al Jazeera",
+          "source_key": "al-jazeera",
+          "source_homepage": "https://www.aljazeera.com",
+          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:26:28Z"
+        },
         {
           "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
           "link": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
@@ -1416,150 +1560,6 @@
           "section": "World",
           "section_key": "world",
           "timestamp": "2026-03-26T17:16:06Z"
-        },
-        {
-          "title": "Details revealed of Board of Peace plan for Gaza disarmament",
-          "link": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
-          "summary": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months.",
-          "source": "Al Jazeera",
-          "source_key": "al-jazeera",
-          "source_homepage": "https://www.aljazeera.com",
-          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T16:47:01Z"
-        },
-        {
-          "title": "Nicol\u00e1s Maduro appears again in New York court on \u2018narco-terrorism\u2019 charges",
-          "link": "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case",
-          "summary": "Deposed Venezuelan president and his wife, who both pleaded not guilty, were captured by US military in January The deposed Venezuelan president Nicol\u00e1s Maduro again appeared in...",
-          "source": "The Guardian World",
-          "source_key": "the-guardian-world",
-          "source_homepage": "https://www.theguardian.com/world",
-          "source_feed": "https://www.theguardian.com/world/rss",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T16:43:44Z"
-        },
-        {
-          "title": "Pentagon boss claims Iran now has \u2018no navy, no navy leader\u2019",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pentagon-boss-claims-iran-now-has-no-navy-no-navy?traffic_source=rss",
-          "summary": "Defense Secretary Pete Hegseth has said that Iran war is 'stuff for the history books'.",
-          "source": "Al Jazeera",
-          "source_key": "al-jazeera",
-          "source_homepage": "https://www.aljazeera.com",
-          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T16:33:18Z"
-        },
-        {
-          "title": "Olympics align with Trump as transgender athletes banned from women\u2019s games",
-          "link": "https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss",
-          "summary": "Transgender athletes banned from women's Olympic events by new IOC policy aiming for 'fairness, safety and integrity'.",
-          "source": "Al Jazeera",
-          "source_key": "al-jazeera",
-          "source_homepage": "https://www.aljazeera.com",
-          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T16:27:43Z"
-        },
-        {
-          "title": "Trump says Iran \u2018lousy fighters but great negotiators\u2019",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/trump-says-iran-lousy-fighters-but-great?traffic_source=rss",
-          "summary": "President Trump has said Iran is \u201cbegging to make a deal\u201d, describing them as \u201clousy fighters but great negotiators\".",
-          "source": "Al Jazeera",
-          "source_key": "al-jazeera",
-          "source_homepage": "https://www.aljazeera.com",
-          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T16:18:01Z"
-        },
-        {
-          "title": "Tehran\u2019s\u2019tollbooth\u2019: How Iran picks who to let through Strait of Hormuz",
-          "link": "https://www.aljazeera.com/news/2026/3/26/tehranstollbooth-how-iran-picks-who-to-let-through-strait-of-hormuz?traffic_source=rss",
-          "summary": "Iran has blocked the passage of vessels carrying 20 percent of the world\u2019s oil and liquefied natural gas supplies.",
-          "source": "Al Jazeera",
-          "source_key": "al-jazeera",
-          "source_homepage": "https://www.aljazeera.com",
-          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T15:56:05Z"
-        },
-        {
-          "title": "Pakistan says it is mediating US-Iran talks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pakistan-says-it-is-mediating-us-iran-talks?traffic_source=rss",
-          "summary": "Pakistan says it is mediating indirect talks between the US and Iran aimed at ending the war.",
-          "source": "Al Jazeera",
-          "source_key": "al-jazeera",
-          "source_homepage": "https://www.aljazeera.com",
-          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T15:33:07Z"
-        },
-        {
-          "title": "WTO says world experiencing worst trade disruption in 80 years",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/wto-says-world-experiencing-worst-trade-disruption-in-80-years?traffic_source=rss",
-          "summary": "WTO chief Ngozi Okonjo-Iweala says the global trade order has \u2018irrevocably changed\u2019.",
-          "source": "Al Jazeera",
-          "source_key": "al-jazeera",
-          "source_homepage": "https://www.aljazeera.com",
-          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T15:25:20Z"
-        },
-        {
-          "title": "Transgender women athletes banned from women's Olympic events",
-          "link": "https://www.cbsnews.com/news/transgender-women-athletes-banned-womens-olympic-events-ioc-policy/",
-          "summary": "Transgender women athletes are now excluded from women's events at the Olympics after the IOC agreed to a new eligibility policy on Thursday.",
-          "source": "CBS News World",
-          "source_key": "cbs-news-world",
-          "source_homepage": "https://www.cbsnews.com/world/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/world",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T15:10:11Z"
-        },
-        {
-          "title": "Russia is helping Iran with intel to kill Americans, says top EU diplomat",
-          "link": "https://www.cbsnews.com/news/russia-helping-iran-ntel-target-kill-americans/",
-          "summary": "Russia is providing intelligence support to Iran in the Middle East war to \"kill Americans,\" Kaja Kallas said Thursday.",
-          "source": "CBS News World",
-          "source_key": "cbs-news-world",
-          "source_homepage": "https://www.cbsnews.com/world/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/world",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T15:07:24Z"
-        },
-        {
-          "title": "A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life",
-          "link": "https://abcnews.com/International/wireStory/knife-wielding-man-kills-woman-tokyo-pokemon-shop-131431537",
-          "summary": "A knife attack at a Pok\u00e9mon store in downtown Tokyo has left a woman and the attacker dead, police say",
-          "source": "ABC News International",
-          "source_key": "abc-news-international",
-          "source_homepage": "https://abcnews.go.com/international",
-          "source_feed": "https://abcnews.go.com/abcnews/internationalheadlines",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T14:59:08Z"
-        },
-        {
-          "title": "Nigeria takes its place on world stage in quest to become regional superpower",
-          "link": "https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
-          "summary": "Nigeria and UK look to strengthen trade and economic ties amid growing calls from Africa and Caribbean for reparative justice \u201cThere are chapters in our shared history that I kn...",
-          "source": "The Guardian World",
-          "source_key": "the-guardian-world",
-          "source_homepage": "https://www.theguardian.com/world",
-          "source_feed": "https://www.theguardian.com/world/rss",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T14:45:44Z"
         }
       ]
     },
@@ -1571,6 +1571,66 @@
       "successful_sources": 9,
       "total_sources": 11,
       "stories": [
+        {
+          "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+          "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
+          "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
+          "source": "CNBC Top",
+          "source_key": "cnbc-top",
+          "source_homepage": "https://www.cnbc.com/",
+          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T18:44:56Z"
+        },
+        {
+          "title": "Fannie Mae accepts first crypto-backed mortgage product",
+          "link": "https://www.cnbc.com/2026/03/26/fannie-mae-accepts-first-crypto-backed-mortgage-product.html",
+          "summary": "Better Home and Finance is partnering with Coinbase on a crypto-backed mortgage that conforms to Fannie Mae guidelines.",
+          "source": "CNBC Top",
+          "source_key": "cnbc-top",
+          "source_homepage": "https://www.cnbc.com/",
+          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T17:59:17Z"
+        },
+        {
+          "title": "The hot Fundrise VCX fund falls 45% as IPO mania subsides and investors get a crash course in risk",
+          "link": "https://www.marketwatch.com/story/the-hot-fundrise-vcx-fund-falls-45-as-ipo-mania-subsides-and-investors-get-a-crash-course-in-risk-7e5e9b88?mod=mw_rss_topstories",
+          "summary": "A buzzy fund offering access to pre-IPO AI companies such as Anthropic and OpenAI is trading well above the value of its underlying assets, even with its sharp recent decline.",
+          "source": "MarketWatch",
+          "source_key": "marketwatch",
+          "source_homepage": "https://www.marketwatch.com",
+          "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T17:39:00Z"
+        },
+        {
+          "title": "Gold\u2019s tumble has created opportunities to buy these stocks at bargain prices",
+          "link": "https://www.marketwatch.com/story/golds-tumble-has-created-opportunities-to-buy-these-stocks-at-bargain-prices-7ad3e73a?mod=mw_rss_topstories",
+          "summary": "The recent sharp selloff in gold miner stocks has created opportunities for investors to buy at bargain prices if the appetite for gold flips back to bullish, as history suggests.",
+          "source": "MarketWatch",
+          "source_key": "marketwatch",
+          "source_homepage": "https://www.marketwatch.com",
+          "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T17:36:00Z"
+        },
+        {
+          "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
+          "link": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss",
+          "summary": "US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws.",
+          "source": "BBC Business",
+          "source_key": "bbc-business",
+          "source_homepage": "https://www.bbc.com/news/business",
+          "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T17:29:13Z"
+        },
         {
           "title": "Best Buy\u2019s stock is rallying amid takeover speculation. But here\u2019s the real story.",
           "link": "https://www.marketwatch.com/story/best-buys-stock-is-rallying-amid-takeover-speculation-but-heres-the-real-story-43d4ffb4?mod=mw_rss_topstories",
@@ -1594,18 +1654,6 @@
           "section": "Business & Markets",
           "section_key": "business-markets",
           "timestamp": "2026-03-26T17:17:40Z"
-        },
-        {
-          "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
-          "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
-          "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
-          "source": "CNBC Top",
-          "source_key": "cnbc-top",
-          "source_homepage": "https://www.cnbc.com/",
-          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T17:14:17Z"
         },
         {
           "title": "Major outgoing CEOs are citing AI as a factor in their decisions to step down",
@@ -1690,54 +1738,6 @@
           "section": "Business & Markets",
           "section_key": "business-markets",
           "timestamp": "2026-03-26T16:40:00Z"
-        },
-        {
-          "title": "An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who\u2019s right?",
-          "link": "https://www.marketwatch.com/story/an-older-relative-wants-to-give-my-daughter-19-000-when-she-turns-18-i-said-no-whos-right-f793a2f1?mod=mw_rss_topstories",
-          "summary": "\u201cWe don\u2019t think it\u2019s healthy for very young adults to have access to large sums of money without working for it.\u201d",
-          "source": "MarketWatch",
-          "source_key": "marketwatch",
-          "source_homepage": "https://www.marketwatch.com",
-          "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T16:27:00Z"
-        },
-        {
-          "title": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
-          "link": "https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html",
-          "summary": "Meta suffered stinging defeats in two separate trials involving child safety that underscore shifting public sentiment toward the social media industry.",
-          "source": "CNBC Top",
-          "source_key": "cnbc-top",
-          "source_homepage": "https://www.cnbc.com/",
-          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T16:22:33Z"
-        },
-        {
-          "title": "Don't panic - five ways to stop your kids' endless scrolling",
-          "link": "https://www.bbc.com/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
-          "summary": "Parenting experts share their tips on how to keep children's screen time under control.",
-          "source": "BBC Business",
-          "source_key": "bbc-business",
-          "source_homepage": "https://www.bbc.com/news/business",
-          "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T16:19:41Z"
-        },
-        {
-          "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
-          "link": "https://www.cnbc.com/2026/03/26/mlb-faces-historic-shift-as-potential-lockout-media-rights-and-league-changes-loom.html",
-          "summary": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
-          "source": "CNBC Top",
-          "source_key": "cnbc-top",
-          "source_homepage": "https://www.cnbc.com/",
-          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T16:18:25Z"
         }
       ]
     },
@@ -1749,6 +1749,90 @@
       "successful_sources": 8,
       "total_sources": 8,
       "stories": [
+        {
+          "title": "Fitbit\u2019s budget-friendly Inspire 3 is $30 off, matching its best price",
+          "link": "https://www.theverge.com/tech/901765/fitbit-inspire-3-amazon-big-spring-sale-2026-deal",
+          "summary": "Amazon\u2019s Big Spring Sale has delivered discounts on wearables like the latest Apple Watch SE 3 and Fitbit\u2019s Charge 6. But they\u2019re not exactly cheap even though they\u2019re on sale....",
+          "source": "The Verge",
+          "source_key": "the-verge",
+          "source_homepage": "https://www.theverge.com/",
+          "source_feed": "https://www.theverge.com/rss/index.xml",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T18:41:42Z"
+        },
+        {
+          "title": "The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran",
+          "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
+          "summary": "The world\u2019s largest crypto exchange is under fire after investigators found accounts moving $1.7 billion to entities linked to Iran. Clues about those accounts were in plain sig...",
+          "source": "New York Times Technology",
+          "source_key": "new-york-times-technology",
+          "source_homepage": "https://www.nytimes.com/section/technology",
+          "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T18:37:33Z"
+        },
+        {
+          "title": "Safety Experts Considered LaGuardia Challenging but Not an Outlier",
+          "link": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html",
+          "summary": "Regulators, pilots and others in aviation have worried about the kind of runway accident that happened at LaGuardia Airport on Sunday.",
+          "source": "New York Times Technology",
+          "source_key": "new-york-times-technology",
+          "source_homepage": "https://www.nytimes.com/section/technology",
+          "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T18:32:35Z"
+        },
+        {
+          "title": "Scientists captured female sperm whales on video working together during a birth to protect the calf",
+          "link": "https://abcnews.com/Technology/wireStory/scientists-captured-female-sperm-whales-video-working-birth-131442806",
+          "summary": "Scientists have captured rare footage of a sperm whale giving birth, offering a window into the large mammals' behavior",
+          "source": "ABC News Technology",
+          "source_key": "abc-news-technology",
+          "source_homepage": "https://abcnews.go.com/technology",
+          "source_feed": "https://abcnews.go.com/abcnews/technologyheadlines",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T18:16:28Z"
+        },
+        {
+          "title": "Xbox\u2019s latest games showcase had Hades 2, The Expanse, and Bluey",
+          "link": "https://www.theverge.com/games/901384/xbox-partner-preview-games-news-trailers",
+          "summary": "It's a weird time for Xbox, with a big leadership shakeup that has many wondering what the future of the platform looks like, and what exactly it stands for. In the meantime, th...",
+          "source": "The Verge",
+          "source_key": "the-verge",
+          "source_homepage": "https://www.theverge.com/",
+          "source_feed": "https://www.theverge.com/rss/index.xml",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T18:10:15Z"
+        },
+        {
+          "title": "U.S. Accuses NewYork-Presbyterian of Reaching Deals That Kept Costs High",
+          "link": "https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html",
+          "summary": "The Justice Department sued the large New York health system, saying it restricted insurance companies from offering patients cheaper options.",
+          "source": "New York Times Technology",
+          "source_key": "new-york-times-technology",
+          "source_homepage": "https://www.nytimes.com/section/technology",
+          "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T18:09:55Z"
+        },
+        {
+          "title": "Snapchat Investigated in Europe Over Child Safety Policies",
+          "link": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
+          "summary": "Regulators in Brussels accused the social media platform of maintaining a weak age-verification system, and steering younger users toward inappropriate experiences.",
+          "source": "New York Times Technology",
+          "source_key": "new-york-times-technology",
+          "source_homepage": "https://www.nytimes.com/section/technology",
+          "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T18:04:38Z"
+        },
         {
           "title": "My brief, weird time with the Samsung TriFold",
           "link": "https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom",
@@ -1832,90 +1916,6 @@
           "section": "Technology",
           "section_key": "technology",
           "timestamp": "2026-03-26T16:27:58Z"
-        },
-        {
-          "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
-          "link": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
-          "summary": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
-          "source": "New York Times Technology",
-          "source_key": "new-york-times-technology",
-          "source_homepage": "https://www.nytimes.com/section/technology",
-          "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T16:21:28Z"
-        },
-        {
-          "title": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
-          "link": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
-          "summary": "Some staff reportedly questioned how sexy ChatGPT benefits humanity.",
-          "source": "Ars Technica",
-          "source_key": "ars-technica",
-          "source_homepage": "https://arstechnica.com/",
-          "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T16:21:10Z"
-        },
-        {
-          "title": "Everyone hates Ticketmaster. Why\u2019d Trump go easy on them?",
-          "link": "https://www.theverge.com/podcast/900540/live-nation-ticketmaster-lawsuit-antitrust-trump-doj-settlement",
-          "summary": "Today on Decoder, we\u2019re talking about the major antitrust lawsuit against Live Nation, and what it might mean for antitrust and competition law in general now that the Justice D...",
-          "source": "The Verge",
-          "source_key": "the-verge",
-          "source_homepage": "https://www.theverge.com/",
-          "source_feed": "https://www.theverge.com/rss/index.xml",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T16:16:33Z"
-        },
-        {
-          "title": "The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran",
-          "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
-          "summary": "The world\u2019s largest crypto exchange is under fire after investigators found accounts moving $1.7 billion to Iranian entities. Clues about those accounts were in plain sight for...",
-          "source": "New York Times Technology",
-          "source_key": "new-york-times-technology",
-          "source_homepage": "https://www.nytimes.com/section/technology",
-          "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T15:33:26Z"
-        },
-        {
-          "title": "Senators are pushing to find out how much electricity data centers actually use",
-          "link": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
-          "summary": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) asking it to collect \"comprehensive, annual ene...",
-          "source": "The Verge",
-          "source_key": "the-verge",
-          "source_homepage": "https://www.theverge.com/",
-          "source_feed": "https://www.theverge.com/rss/index.xml",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T15:23:19Z"
-        },
-        {
-          "title": "Damaged church floor may have revealed the grave of the fourth musketeer",
-          "link": "https://arstechnica.com/science/2026/03/archaeologists-may-have-found-the-grave-of-the-legendary-fourth-musketeer/",
-          "summary": "This will not be turning up in the church rummage sale.",
-          "source": "Ars Technica",
-          "source_key": "ars-technica",
-          "source_homepage": "https://arstechnica.com/",
-          "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T15:17:18Z"
-        },
-        {
-          "title": "Wikipedia bans AI-generated articles",
-          "link": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
-          "summary": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-wri...",
-          "source": "The Verge",
-          "source_key": "the-verge",
-          "source_homepage": "https://www.theverge.com/",
-          "source_feed": "https://www.theverge.com/rss/index.xml",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T15:12:32Z"
         }
       ]
     },
@@ -1929,12 +1929,24 @@
       "stories": [
         {
           "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
-          "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/",
+          "link": "https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/",
           "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic...",
           "source": "NASA News Releases",
           "source_key": "nasa-news-releases",
           "source_homepage": "https://www.nasa.gov/news/",
           "source_feed": "https://www.nasa.gov/news-release/feed/",
+          "section": "Science & Space",
+          "section_key": "science-space",
+          "timestamp": "2026-03-26T17:00:55Z"
+        },
+        {
+          "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
+          "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/",
+          "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic...",
+          "source": "NASA Earth",
+          "source_key": "nasa-earth",
+          "source_homepage": "https://www.nasa.gov/earth/",
+          "source_feed": "https://www.nasa.gov/earth/feed/",
           "section": "Science & Space",
           "section_key": "science-space",
           "timestamp": "2026-03-26T17:00:55Z"
@@ -2038,7 +2050,7 @@
         {
           "title": "NASA Ames Experts Available for Artemis II\u00a0Flight Test Interviews",
           "link": "https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/",
-          "summary": "NASA\u2019s Ames Research Center in Silicon Valley invites media to interview local subject matter experts on Friday, March 27 from 10 a.m. to 2 p.m. ahead of the agency sending astr...",
+          "summary": "Editor\u2019s Note: This page was updated to designate it as a media advisory and include the Artemis logo. Media Advisory NASA\u2019s Ames Research Center in Silicon Valley invites media...",
           "source": "NASA News Releases",
           "source_key": "nasa-news-releases",
           "source_homepage": "https://www.nasa.gov/news/",
@@ -2082,18 +2094,6 @@
           "section": "Science & Space",
           "section_key": "science-space",
           "timestamp": "2026-03-25T21:19:37Z"
-        },
-        {
-          "title": "Bond between dogs and humans dates back more than 15,000 years, study finds",
-          "link": "https://www.theguardian.com/science/2026/mar/25/bond-dogs-humans-dates-back-15000-years-study-finds",
-          "summary": "Research suggests hunter-gatherers were feeding dogs and giving them ritual burials as early as the last ice age They are humankind\u2019s best friend, and now ancient DNA analysis h...",
-          "source": "Guardian Science",
-          "source_key": "guardian-science",
-          "source_homepage": "https://www.theguardian.com/science",
-          "source_feed": "https://www.theguardian.com/science/rss",
-          "section": "Science & Space",
-          "section_key": "science-space",
-          "timestamp": "2026-03-25T16:00:11Z"
         }
       ]
     },
@@ -2106,8 +2106,32 @@
       "total_sources": 6,
       "stories": [
         {
+          "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
+          "link": "https://www.bbc.com/news/articles/cm291jz0321o?at_medium=RSS&at_campaign=rss",
+          "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+          "source": "BBC Science & Environment",
+          "source_key": "bbc-science-environment",
+          "source_homepage": "https://www.bbc.com/news/science_and_environment",
+          "source_feed": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-26T18:35:38Z"
+        },
+        {
+          "title": "Owner blocks 'Rainham volcano' fix, council says",
+          "link": "https://www.bbc.com/news/articles/cy41mnxxmnlo?at_medium=RSS&at_campaign=rss",
+          "summary": "Repeated fires at Arnolds Field in Launders Lane, Rainham, have plagued residents for years.",
+          "source": "BBC Science & Environment",
+          "source_key": "bbc-science-environment",
+          "source_homepage": "https://www.bbc.com/news/science_and_environment",
+          "source_feed": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-26T18:03:09Z"
+        },
+        {
           "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
-          "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/",
+          "link": "https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/",
           "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic...",
           "source": "NASA Earth",
           "source_key": "nasa-earth",
@@ -2176,18 +2200,6 @@
           "section": "Climate & Environment",
           "section_key": "climate-environment",
           "timestamp": "2026-03-26T10:13:19Z"
-        },
-        {
-          "title": "Returning ospreys avoid last season's love drama",
-          "link": "https://www.bbc.com/news/articles/c78rxldlkzvo?at_medium=RSS&at_campaign=rss",
-          "summary": "CJ7 returned last year to find male 022 had spent a few days in the nest with a new female.",
-          "source": "BBC Science & Environment",
-          "source_key": "bbc-science-environment",
-          "source_homepage": "https://www.bbc.com/news/science_and_environment",
-          "source_feed": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-          "section": "Climate & Environment",
-          "section_key": "climate-environment",
-          "timestamp": "2026-03-26T08:56:02Z"
         },
         {
           "title": "A Hot Start to Spring in the Southwest",
@@ -2260,18 +2272,6 @@
           "section": "Climate & Environment",
           "section_key": "climate-environment",
           "timestamp": "2026-03-24T16:18:21Z"
-        },
-        {
-          "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
-          "link": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months.",
-          "source": "BBC Science & Environment",
-          "source_key": "bbc-science-environment",
-          "source_homepage": "https://www.bbc.com/news/science_and_environment",
-          "source_feed": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-          "section": "Climate & Environment",
-          "section_key": "climate-environment",
-          "timestamp": "2026-03-24T15:37:53Z"
         }
       ]
     },
@@ -2640,6 +2640,78 @@
       "total_sources": 8,
       "stories": [
         {
+          "title": "Murray drops 53, Jokic nearly has 20-20-20 game",
+          "link": "https://www.espn.com/nba/story/_/id/48309525/murray-scores-53-jokic-nearly-20-20-20-game-nuggets-win",
+          "summary": "Jamal Murray scored 53 points and Nikola Jokic had 23 points, 21 rebounds and 19 assists as the Nuggets held off the Mavericks on Wednesday night.",
+          "source": "ESPN NBA",
+          "source_key": "espn-nba",
+          "source_homepage": "https://www.espn.com/nba/",
+          "source_feed": "https://www.espn.com/espn/rss/nba/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T19:25:24Z"
+        },
+        {
+          "title": "Wolves post largest OT comeback on record",
+          "link": "https://www.espn.com/nba/story/_/id/48309994/timberwolves-post-nba-largest-comeback-record",
+          "summary": "With a game-closing 15-0 run, the Timberwolves came back from 13 points down for a 110-108 victory over the Rockets on Wednesday night.",
+          "source": "ESPN NBA",
+          "source_key": "espn-nba",
+          "source_homepage": "https://www.espn.com/nba/",
+          "source_feed": "https://www.espn.com/espn/rss/nba/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T19:25:24Z"
+        },
+        {
+          "title": "Draymond: Hated and loved Wemby's MVP case",
+          "link": "https://www.espn.com/nba/story/_/id/48309988/green-wembanyama-state-importance-defense",
+          "summary": "Warriors forward Draymond Green said he both \"hated\" and \"absolutely loved\" the MVP self-promotion from Spurs center Victor Wembanyama.",
+          "source": "ESPN NBA",
+          "source_key": "espn-nba",
+          "source_homepage": "https://www.espn.com/nba/",
+          "source_feed": "https://www.espn.com/espn/rss/nba/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T19:25:24Z"
+        },
+        {
+          "title": "Brown-led Celts hand Thunder first loss in month",
+          "link": "https://www.espn.com/nba/story/_/id/48308627/celtics-cool-thunder-jaylen-brown-stars-31-points",
+          "summary": "Jaylen Brown scored 14 of his 31 points in a pivotal third quarter, and the Boston Celtics rallied to beat the Oklahoma City Thunder 119-109 on Wednesday night, snapping the def...",
+          "source": "ESPN NBA",
+          "source_key": "espn-nba",
+          "source_homepage": "https://www.espn.com/nba/",
+          "source_feed": "https://www.espn.com/espn/rss/nba/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T19:25:24Z"
+        },
+        {
+          "title": "Bulls' Ivey, Smith out rest of season with injuries",
+          "link": "https://www.espn.com/nba/story/_/id/48313485/bulls-jaden-ivey-jalen-smith-rest-season-injuries",
+          "summary": "The Bulls have ruled guard Jaden Ivey and forward Jalen Smith out for the remainder of the season due to injuries.",
+          "source": "ESPN NBA",
+          "source_key": "espn-nba",
+          "source_homepage": "https://www.espn.com/nba/",
+          "source_feed": "https://www.espn.com/espn/rss/nba/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T19:25:24Z"
+        },
+        {
+          "title": "NBA votes to mull Vegas, Seattle expansion bids",
+          "link": "https://www.espn.com/nba/story/_/id/48304338/sources-nba-votes-explore-vegas-seattle-expansion-bids",
+          "summary": "The NBA's board of governors has approved a vote for the league to explore bids and applicants for expansion teams exclusively in Las Vegas and Seattle.",
+          "source": "ESPN NBA",
+          "source_key": "espn-nba",
+          "source_homepage": "https://www.espn.com/nba/",
+          "source_feed": "https://www.espn.com/espn/rss/nba/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T19:25:23Z"
+        },
+        {
           "title": "Brady on comeback: NFL didn't 'like that idea'",
           "link": "https://www.espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
           "summary": "Tom Brady says he explored the possibility of coming out of retirement and returning to the NFL, adding that the league did not \"like that idea very much.\"",
@@ -2649,7 +2721,7 @@
           "source_feed": "https://www.espn.com/espn/rss/news",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-26T18:28:49Z"
+          "timestamp": "2026-03-26T19:11:38Z"
         },
         {
           "title": "LSU lures Wade back as it fires coach McMahon",
@@ -2661,7 +2733,19 @@
           "source_feed": "https://www.espn.com/espn/rss/news",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-26T18:28:49Z"
+          "timestamp": "2026-03-26T19:11:38Z"
+        },
+        {
+          "title": "IU's Cignetti rips transfer Marsh for gold cleats",
+          "link": "https://www.espn.com/college-football/story/_/id/48313383/indiana-curt-cignetti-rips-transfer-nick-marsh-gold-cleats",
+          "summary": "Indiana coach Curt Cignetti ripped transfer wide receiver Nick Marsh for wearing gold cleats on the first day of spring practice for the defending national champs.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T19:11:38Z"
         },
         {
           "title": "Quad God rebounds from Olympics, leads worlds",
@@ -2673,7 +2757,7 @@
           "source_feed": "https://www.espn.com/espn/rss/news",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-26T18:28:49Z"
+          "timestamp": "2026-03-26T19:11:38Z"
         },
         {
           "title": "Amputee cornhole player waives right to hearing",
@@ -2685,7 +2769,7 @@
           "source_feed": "https://www.espn.com/espn/rss/news",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-26T18:28:49Z"
+          "timestamp": "2026-03-26T19:11:38Z"
         },
         {
           "title": "QB Simpson says he's 'absolutely' 1st-round pick",
@@ -2697,7 +2781,7 @@
           "source_feed": "https://www.espn.com/espn/rss/news",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-26T18:28:49Z"
+          "timestamp": "2026-03-26T19:11:38Z"
         },
         {
           "title": "Sens' Chabot (broken arm) could miss 2 months",
@@ -2709,7 +2793,7 @@
           "source_feed": "https://www.espn.com/espn/rss/news",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-26T18:28:49Z"
+          "timestamp": "2026-03-26T19:11:38Z"
         },
         {
           "title": "World Series of Poker returning to ESPN in July",
@@ -2721,91 +2805,7 @@
           "source_feed": "https://www.espn.com/espn/rss/news",
           "section": "Sports",
           "section_key": "sports",
-          "timestamp": "2026-03-26T18:28:49Z"
-        },
-        {
-          "title": "Updated NBA rookie rankings: Why the ROY race is all but over",
-          "link": "https://www.espn.com/nba/story/_/id/48306024/2025-26-nba-rookie-rankings-end-regular-season-flagg-knueppel-edgecomb-rookie-year-race",
-          "summary": "Where do the NBA's top rookies stack up with a few weeks left in the regular season? We stacked the top 10.",
-          "source": "ESPN NBA",
-          "source_key": "espn-nba",
-          "source_homepage": "https://www.espn.com/nba/",
-          "source_feed": "https://www.espn.com/espn/rss/nba/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T18:14:55Z"
-        },
-        {
-          "title": "NBA Power Rankings: The Thunder reign while East teams rise",
-          "link": "https://www.espn.com/nba/story/_/id/48296257/nba-power-rankings-thunder-reign-celtics-pistons-rise",
-          "summary": "Where our NBA insiders ranked all 30 teams as the regular season reaches the home stretch.",
-          "source": "ESPN NBA",
-          "source_key": "espn-nba",
-          "source_homepage": "https://www.espn.com/nba/",
-          "source_feed": "https://www.espn.com/espn/rss/nba/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T18:14:55Z"
-        },
-        {
-          "title": "Brewers star OF Chourio set to miss 2-4 weeks",
-          "link": "https://www.espn.com/mlb/story/_/id/48312279/brewers-place-jackson-chourio-il-due-fractured-hand",
-          "summary": "The Brewers placed star outfielder Chourio on the 10-day injured list on Thursday because of a fractured left hand. The move was made retroactive to Wednesday.",
-          "source": "ESPN MLB",
-          "source_key": "espn-mlb",
-          "source_homepage": "https://www.espn.com/mlb/",
-          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T18:00:19Z"
-        },
-        {
-          "title": "Source: Mets add Pham on minors deal for depth",
-          "link": "https://www.espn.com/mlb/story/_/id/48312897/source-mets-tommy-pham-agree-minor-league-deal",
-          "summary": "The Mets added to their depth on Opening Day, reaching a minor league deal with veteran outfielder Tommy Pham, a source told ESPN.",
-          "source": "ESPN MLB",
-          "source_key": "espn-mlb",
-          "source_homepage": "https://www.espn.com/mlb/",
-          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T18:00:19Z"
-        },
-        {
-          "title": "Fried's gem lifts Yanks despite Judge's 4-K opener",
-          "link": "https://www.espn.com/mlb/story/_/id/48308908/max-fried-gem-lifts-yankees-judge-hitless-opener",
-          "summary": "Max Fried allowed just two hits in 6\u2153 scoreless innings, and the Yankees cruised past the Giants 7-0 on Wednesday night despite Aaron Judge's first career hitless Opening Day.",
-          "source": "ESPN MLB",
-          "source_key": "espn-mlb",
-          "source_homepage": "https://www.espn.com/mlb/",
-          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T18:00:19Z"
-        },
-        {
-          "title": "Padres' Darvish to restricted list amid elbow rehab",
-          "link": "https://www.espn.com/mlb/story/_/id/48306637/padres-set-place-yu-darvish-restricted-list-amid-recovery-elbow-surgery",
-          "summary": "Pitcher Yu Darvish was placed on the restricted list Wednesday as he spends the 2026 season recovering from elbow surgery, a decision that could free up significant payroll spac...",
-          "source": "ESPN MLB",
-          "source_key": "espn-mlb",
-          "source_homepage": "https://www.espn.com/mlb/",
-          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T18:00:19Z"
-        },
-        {
-          "title": "Impact of overturned ABS calls worries ex-ump",
-          "link": "https://www.espn.com/mlb/story/_/id/48305998/ex-ump-garcia-worries-impact-overturned-robot-ump-calls",
-          "summary": "Former MLB umpire Richie Garcia is worried about the impact that robot umpires will have on their human counterparts.",
-          "source": "ESPN MLB",
-          "source_key": "espn-mlb",
-          "source_homepage": "https://www.espn.com/mlb/",
-          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T18:00:19Z"
+          "timestamp": "2026-03-26T19:11:38Z"
         }
       ]
     },
@@ -2852,6 +2852,18 @@
           "section": "Entertainment",
           "section_key": "entertainment",
           "timestamp": "2026-03-26T15:29:49Z"
+        },
+        {
+          "title": "Dash Crofts of Summer Breeze rock duo Seals and Crofts dies aged 85",
+          "link": "https://www.theguardian.com/music/2026/mar/26/dash-crofts-dies-musician-seals-summer-breeze",
+          "summary": "Crofts helped define the sound of yacht rock with 1970s hits such as Summer Breeze and Diamond Girl Dash Crofts, the yacht rock musician who helped craft 70s hits such as Summer...",
+          "source": "Guardian Culture",
+          "source_key": "guardian-culture",
+          "source_homepage": "https://www.theguardian.com/culture",
+          "source_feed": "https://www.theguardian.com/culture/rss",
+          "section": "Entertainment",
+          "section_key": "entertainment",
+          "timestamp": "2026-03-26T15:11:17Z"
         },
         {
           "title": "Raphael and the Renaissance of Divine Beauty",
@@ -2972,18 +2984,6 @@
           "section": "Entertainment",
           "section_key": "entertainment",
           "timestamp": "2026-03-26T13:00:37Z"
-        },
-        {
-          "title": "A Storied Rockefeller Art Trove Goes on View at Asia Society",
-          "link": "https://www.nytimes.com/2026/03/26/arts/design/asia-society-rockefeller-collection-buddhas.html",
-          "summary": "Our critic offers a guide to 70 years of great devotional sculptures in the Asia Society collection \u2014 including some that he once helped install.",
-          "source": "New York Times Arts",
-          "source_key": "new-york-times-arts",
-          "source_homepage": "https://www.nytimes.com/section/arts",
-          "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
-          "section": "Entertainment",
-          "section_key": "entertainment",
-          "timestamp": "2026-03-26T12:10:52Z"
         }
       ]
     },
@@ -2996,172 +2996,172 @@
       "total_sources": 9,
       "stories": [
         {
-          "title": "Blanche boasts of having \u2018cleaned house\u2019 at DOJ, FBI following Trump prosecutions",
-          "link": "https://thehill.com/homenews/administration/5802553-todd-blanche-cpac-doj-fbi-firings/",
-          "summary": "Deputy Attorney General Todd Blanche boasted Thursday about the number of firings at the Department of Justice (DOJ) and FBI, saying the administration had \u201ccleaned house\u201d by ou...",
-          "source": "The Hill",
-          "source_key": "the-hill",
-          "source_homepage": "https://thehill.com/",
-          "source_feed": "https://thehill.com/feed/",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T17:19:48Z"
-        },
-        {
-          "title": "Hillary Clinton to keynote New Hampshire Democrats fundraiser",
-          "link": "https://thehill.com/homenews/state-watch/5802517-hillary-clinton-new-hampshire/",
-          "summary": "Former Secretary of State Hillary Clinton (D) is set to speak at a major Democratic Party fundraiser in New Hampshire next month, the state party announced Thursday. Clinton is...",
-          "source": "The Hill",
-          "source_key": "the-hill",
-          "source_homepage": "https://thehill.com/",
-          "source_feed": "https://thehill.com/feed/",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T17:11:40Z"
-        },
-        {
-          "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
-          "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
-          "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
+          "title": "DOJ close to finalizing deal to hand over voter roll data to DHS, sources say",
+          "link": "https://www.cbsnews.com/news/justice-dept-finalizing-deal-voter-roll-data-homeland-security/",
+          "summary": "DOJ plans to turn over voter data it's collecting from states to DHS for use in immigration and criminal investigations, sources say.",
           "source": "CBS News Politics",
           "source_key": "cbs-news-politics",
           "source_homepage": "https://www.cbsnews.com/politics/",
           "source_feed": "https://www.cbsnews.com/latest/rss/politics",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T17:05:06Z"
+          "timestamp": "2026-03-26T18:32:11Z"
         },
         {
-          "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
-          "link": "https://thehill.com/policy/defense/5802502-hegseth-supports-deal-iran/",
-          "summary": "Defense Secretary Pete Hegseth said he would welcome a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week that Hegseth was \u201cdisappointed...",
+          "title": "Bipartisan lawmakers set to unveil bill to reopen DHS, bar ICE from wearing masks",
+          "link": "https://thehill.com/homenews/house/5802739-dhs-bill-fitzpatrick-suozzi-problem-solvers/",
+          "summary": "A bipartisan group of House lawmakers is poised to unveil legislation that combines funding for the Homeland Security Department (DHS) with tougher rules for federal immigration...",
           "source": "The Hill",
           "source_key": "the-hill",
           "source_homepage": "https://thehill.com/",
           "source_feed": "https://thehill.com/feed/",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T17:02:52Z"
+          "timestamp": "2026-03-26T18:30:27Z"
         },
         {
-          "title": "Trump housing chief seeks new criminal probe into Letitia James",
-          "link": "https://thehill.com/homenews/administration/5802426-bill-pulte-seeks-criminal-probe/",
-          "summary": "Bill Pulte, director of the Federal Housing Finance Agency, is seeking a new criminal probe into New York Attorney General Letitia James (D) after failing to convict her on mort...",
+          "title": "Save us, Elon Musk! X could deboost foreign slop accounts ruining public discourse",
+          "link": "https://thehill.com/opinion/robbys-radar/5802763-improving-x-discourse-social-media/",
+          "summary": "There's a real problem on X right now: foreign accounts that portray themselves as American, with names like Pro Western Civilization or Proud Heritage American or White MAGA Pa...",
           "source": "The Hill",
           "source_key": "the-hill",
           "source_homepage": "https://thehill.com/",
           "source_feed": "https://thehill.com/feed/",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T17:01:17Z"
+          "timestamp": "2026-03-26T18:27:56Z"
         },
         {
-          "title": "Top Senate Dems blast proposed ACA rule promoting \u2018junk coverage\u2019 that would push estimated 2 million off enrollment",
-          "link": "https://thehill.com/policy/healthcare/5802017-senate-democrats-condemn-trump-aca-rule/",
-          "summary": "A trio of top Senate Democrats led their colleagues in condemning a proposed rule by the Trump administration that would lift restrictions on the number of non-standardized plan...",
+          "title": "Retail Investors Growing Exposed to Bitcoin Giant Strategy\u2019s STRC Over MSTR, Says CEO",
+          "link": "https://decrypt.co/362480/retail-investors-growing-exposed-bitcoin-strategy-strc-over-mstr",
+          "summary": "Strategy CEO Phong Le signaled that retail investors are growing interested in its flagship preferred share relative to its common stock.",
+          "source": "Decrypt",
+          "source_key": "decrypt",
+          "source_homepage": "https://decrypt.co",
+          "source_feed": "https://decrypt.co/feed",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T18:21:34Z"
+        },
+        {
+          "title": "DOJ says it erroneously relied on ICE memo justifying immigration courthouse arrests",
+          "link": "https://thehill.com/homenews/5802728-ice-memo-courthouse-arrests/",
+          "summary": "A federal judge Thursday ordered the Trump administration to preserve all records after the Justice Department said it made a \u201cfactual error\u201d in a case challenging the ability t...",
           "source": "The Hill",
           "source_key": "the-hill",
           "source_homepage": "https://thehill.com/",
           "source_feed": "https://thehill.com/feed/",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T17:00:00Z"
+          "timestamp": "2026-03-26T18:13:03Z"
         },
         {
-          "title": "Watch live: House Ethics panel examines Sheila Cherfilus-McCormick FEMA fraud allegations",
-          "link": "https://thehill.com/video-clips/5802176-watch-live-house-ethics-committee-hearing-sheila-cherfilus-mccormick-charges/",
-          "summary": "The House Ethics Committee on Thursday afternoon will look into allegations against Rep. Sheila Cherfilus-McCormick (D-Fla.), who is accused of stealing $5 million from the Fede...",
+          "title": "What Is Bluesky? The Decentralized Social Media Rival to Elon Musk's X",
+          "link": "https://decrypt.co/resources/what-is-bluesky-twitter-x-decentralized-social-media-rival",
+          "summary": "While Bluesky seems familiar on the surface, the AT protocol architecture it runs on has the potential to be revolutionary.",
+          "source": "Decrypt",
+          "source_key": "decrypt",
+          "source_homepage": "https://decrypt.co",
+          "source_feed": "https://decrypt.co/feed",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T18:10:07Z"
+        },
+        {
+          "title": "Man drives through gate at Florida airport, tries to board multiple planes",
+          "link": "https://thehill.com/homenews/state-watch/5802543-bryan-parker-daytona-airport-incident-drunk-driver/",
+          "summary": "The man, who deputies say was intoxicated, claimed he had recently attended an AA meeting but soon began drinking and using cocaine.",
           "source": "The Hill",
           "source_key": "the-hill",
           "source_homepage": "https://thehill.com/",
           "source_feed": "https://thehill.com/feed/",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T17:00:00Z"
+          "timestamp": "2026-03-26T17:56:18Z"
         },
         {
-          "title": "The essential ingredients for a winning Democratic midterm message",
-          "link": "https://thehill.com/opinion/campaign/5801389-trump-job-ratings-inflation/",
-          "summary": "Donald Trump's low job ratings and personal scores, combined with his broken promises to reduce prices, provide a strong foundation for a winning Democratic midterm message.",
+          "title": "Homan to Democrats wanting ICE to give up masks: \u2018You know what? No, we\u2019re not!\u2019",
+          "link": "https://thehill.com/homenews/administration/5802688-homan-defends-ice-masks/",
+          "summary": "White House border czar Tom Homan said Wednesday that Immigration and Customs Enforcement (ICE) officers will continue wearing masks despite Democrats\u2019 push to see face covering...",
           "source": "The Hill",
           "source_key": "the-hill",
           "source_homepage": "https://thehill.com/",
           "source_feed": "https://thehill.com/feed/",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T17:00:00Z"
+          "timestamp": "2026-03-26T17:56:05Z"
         },
         {
-          "title": "Senate GOP sends Democrats \"last and final\" offer to end DHS shutdown",
+          "title": "5 takeaways from Trump\u2019s Cabinet meeting as Iran war wages",
+          "link": "https://thehill.com/homenews/5802654-trump-cabinet-meeting-iran-war/",
+          "summary": "President Trump held his 11th Cabinet meeting of his second term Thursday, with the war in Iran dominating most of the discussion. Unlike past Cabinet meetings, Thursday\u2019s laste...",
+          "source": "The Hill",
+          "source_key": "the-hill",
+          "source_homepage": "https://thehill.com/",
+          "source_feed": "https://thehill.com/feed/",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T17:52:41Z"
+        },
+        {
+          "title": "Senate Democrats defeat amendment to require photo ID to vote",
+          "link": "https://thehill.com/homenews/senate/5802680-photo-id-vote-senate-democrats/",
+          "summary": "Senate Democrats on Thursday defeated an amendment sponsored by Sen. Jon Husted (R), Ohio\u2019s former secretary of state, to require voters to show photo ID when casting ballots in...",
+          "source": "The Hill",
+          "source_key": "the-hill",
+          "source_homepage": "https://thehill.com/",
+          "source_feed": "https://thehill.com/feed/",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T17:49:37Z"
+        },
+        {
+          "title": "Senate holds test vote on DHS funding as Democrats weigh GOP offer",
           "link": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-41/",
-          "summary": "Senate Majority Leader John Thune said Republicans have submitted what their \"last and final\" offer to end the DHS shutdown. Follow live updates.",
+          "summary": "The Senate is holding a test vote on advancing a funding bill for the Department of Homeland Security. Follow live updates.",
           "source": "CBS News Politics",
           "source_key": "cbs-news-politics",
           "source_homepage": "https://www.cbsnews.com/politics/",
           "source_feed": "https://www.cbsnews.com/latest/rss/politics",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:57:58Z"
+          "timestamp": "2026-03-26T17:49:37Z"
         },
         {
-          "title": "Harris books appearances in the South next month: CNN",
-          "link": "https://thehill.com/homenews/campaign/5802266-kamala-harris-southern-fundraisers/",
-          "summary": "Former Vice President Kamala Harris will appear at multiple state Democratic Party fundraisers across the South next month, CNN reported Thursday. Harris will reportedly appear...",
+          "title": "House Democrat says Trump \u2018begging\u2019 China to help with Iran: \u2018We are losing\u2019",
+          "link": "https://thehill.com/homenews/house/5802656-moulton-trump-iran-conflict/",
+          "summary": "Rep. Seth Moulton (D-Mass.) said Wednesday that President Trump has heavily pushed China to help with the Strait of Hormuz reopening amid the U.S. conflict against Iran. \u201cAppare...",
           "source": "The Hill",
           "source_key": "the-hill",
           "source_homepage": "https://thehill.com/",
           "source_feed": "https://thehill.com/feed/",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:50:41Z"
+          "timestamp": "2026-03-26T17:48:16Z"
         },
         {
-          "title": "Bitcoin trades narrow corridor as macro pressures throttle liquidity ahead of potential breakout: analysts",
-          "link": "https://www.theblock.co/post/395313/bitcoin-trades-narrow-corridor-macro-pressures-throttle-liquidity-potential-breakout?utm_source=rss&utm_medium=rss",
-          "summary": "Bitcoin is holding near $70,000 as analysts flag $72,000K as a key breakout zone and note a mix of macro pressures and tight liquidity.",
+          "title": "JPMorgan says bitcoin shows safe-haven-like demand during Iran war as gold and silver weaken",
+          "link": "https://www.theblock.co/post/395369/jpmorgan-bitcoin-crypto-iran-war-gold-silver?utm_source=rss&utm_medium=rss",
+          "summary": "Bitcoin has held up better than gold and silver during the Iran war, with signs of inflows and rising activity, JPMorgan analysts said.",
           "source": "The Block",
           "source_key": "the-block",
           "source_homepage": "https://www.theblock.co",
           "source_feed": "https://www.theblock.co/rss.xml",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:45:33Z"
+          "timestamp": "2026-03-26T17:41:28Z"
         },
         {
-          "title": "Anchorage becomes first federally chartered US firm to bring Tron \u2018inside the regulatory perimeter\u2019",
-          "link": "https://www.theblock.co/post/395318/anchorage-federally-chartered-tron-inside-regulatory-perimeter?utm_source=rss&utm_medium=rss",
-          "summary": "Tron is a top chain for stablecoin usage, though it has largely operated outside the U.S. due to regulatory concerns.",
-          "source": "The Block",
-          "source_key": "the-block",
-          "source_homepage": "https://www.theblock.co",
-          "source_feed": "https://www.theblock.co/rss.xml",
+          "title": "Amendment to require photo ID to vote fails in Senate as Democrats object",
+          "link": "https://www.cbsnews.com/news/save-america-act-photo-id-amendment-senate-vote/",
+          "summary": "An amendment that would require voters to show photo identification to cast a ballot failed to advance in the Senate on Thursday.",
+          "source": "CBS News Politics",
+          "source_key": "cbs-news-politics",
+          "source_homepage": "https://www.cbsnews.com/politics/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/politics",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:35:02Z"
-        },
-        {
-          "title": "UK Sanctions Crypto Marketplace Xinbi in Crackdown on Southeast Asian Scam Centers",
-          "link": "https://decrypt.co/362460/uk-sanctions-crypto-marketplace-xinbi-in-crackdown-on-southeast-asian-scam-centers",
-          "summary": "The UK has targeted a Chinese-language crypto selling stolen personal data to fraudsters operating from scam compounds in Southeast Asia.",
-          "source": "Decrypt",
-          "source_key": "decrypt",
-          "source_homepage": "https://decrypt.co",
-          "source_feed": "https://decrypt.co/feed",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:26:03Z"
-        },
-        {
-          "title": "Brazil Passes Law to Use Seized Bitcoin, Crypto to Fund Public Security Measures",
-          "link": "https://decrypt.co/362453/brazil-passes-law-seized-bitcoin-crypto-fund-public-security",
-          "summary": "A new law in Brazil will allow authorities to seize digital assets like Bitcoin to help combat organized crime and fund public security.",
-          "source": "Decrypt",
-          "source_key": "decrypt",
-          "source_homepage": "https://decrypt.co",
-          "source_feed": "https://decrypt.co/feed",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:07:14Z"
+          "timestamp": "2026-03-26T17:40:18Z"
         }
       ]
     }

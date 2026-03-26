@@ -1,0 +1,27 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "shadowfetch-news",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2026-03-26",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "vars": {
+    "SITE_NAME": "ShadowFetch News",
+    "SITE_ORIGIN": "https://www.shadowfetch.com",
+    "COUNTER_NAMESPACE": "shadowfetch-news",
+    "COUNTER_KEY": "site_visits"
+  }
+
+  // Optional D1 binding for the on-site visitor counter and future dynamic features.
+  // Create the database first, then uncomment and fill in the real IDs:
+  //
+  // "d1_databases": [
+  //   {
+  //     "binding": "SITE_DB",
+  //     "database_name": "shadowfetch-news",
+  //     "database_id": "<DATABASE_ID>",
+  //     "preview_database_id": "<DATABASE_ID>"
+  //   }
+  // ]
+}

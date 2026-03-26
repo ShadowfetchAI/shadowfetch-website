@@ -3,6 +3,8 @@
 ShadowFetch News is a multi-page newsroom with a late-breaking front page, topic hubs, source profiles,
 story briefs, coverage clusters, a searchable archive, and a top-of-page visitor counter plus social links.
 
+The repo now also includes a Cloudflare migration path so the site can move off GitHub Pages and grow into a hybrid static-plus-dynamic newsroom.
+
 ## Site structure
 
 - `index.html` is the front page.
@@ -27,23 +29,28 @@ story briefs, coverage clusters, a searchable archive, and a top-of-page visitor
 - `assets/data/search-index.json` is the generated search dataset for the search page.
 - `scripts/build_feed.py` fetches the configured feeds and prepares the JSON feed dataset.
 - `scripts/build_pages.py` generates the site shell, all section/topic/source/detail pages, the search index, `sitemap.xml`, and `robots.txt`.
+- `scripts/build_dist.py` packages the generated site into `dist/` for Cloudflare Pages.
+- `functions/api/*.js` adds Cloudflare Pages Functions for dynamic routes like the visitor counter and feed APIs.
+- `wrangler.jsonc` defines the Cloudflare Pages project config.
 
 ## Visitor counter
 
-The visitor counter uses CounterAPI in two ways:
+The visitor counter now has a migration-safe stack:
 
-- The page generator asks CounterAPI for the current total so the static HTML ships with a visible number.
-- The browser enhances that value and increments the public site-wide counter once per session.
-- If the counter service is unavailable, the static site still renders without getting stuck in a loading state.
+- The browser first tries the local Cloudflare route at `/api/visit`.
+- If D1 is configured in Cloudflare, the counter can be stored on your own site stack.
+- If D1 is not configured yet, the Cloudflare function falls back to CounterAPI.
+- The browser only increments once per session and still degrades cleanly if no counter backend is available.
 
 ## Refresh the feed locally
 
 ```bash
 python3 scripts/build_feed.py
 python3 scripts/build_pages.py
+python3 scripts/build_dist.py
 ```
 
-That writes a fresh `assets/data/feed.json`, regenerates the HTML pages across the site, rebuilds `assets/data/search-index.json`, and refreshes the sitemap files.
+That writes a fresh `assets/data/feed.json`, regenerates the HTML pages across the site, rebuilds `assets/data/search-index.json`, refreshes the sitemap files, and prepares the Cloudflare-ready `dist/` directory.
 
 ## Publishing note
 
@@ -52,6 +59,18 @@ The site is deployed from generated output:
 - GitHub Actions refreshes feed data before deployment and on a schedule.
 - GitHub Actions also regenerates every HTML page, the search index, and sitemap files.
 - The deployed site ships with the current stories already embedded into the page HTML.
+- Cloudflare Pages can now deploy the prepared `dist/` directory with the `functions/` folder for dynamic routes.
+
+## Cloudflare move
+
+The repo is now set up for a real cutover to Cloudflare Pages:
+
+- `dist/` is the Cloudflare build output.
+- `functions/api/visit.js` adds a dynamic visitor counter endpoint.
+- `functions/api/meta.js` and `functions/api/latest.js` add lightweight runtime APIs.
+- `migrations/0001_shadowfetch.sql` seeds the optional D1 database table for the counter.
+
+The step-by-step cutover notes are in [docs/cloudflare-migration.md](/Users/robertcorbin/Documents/Playground/Shadowfetch/docs/cloudflare-migration.md).
 
 ## Feed strategy
 

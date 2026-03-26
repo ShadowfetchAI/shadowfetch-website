@@ -16,6 +16,7 @@ const siteConfig = {
 };
 
 const SEARCH_INDEX_URL = "/assets/data/search-index.json";
+const LOCAL_COUNTER_ENDPOINT = "/api/visit";
 
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", bootSite);
@@ -60,6 +61,12 @@ function applySocialLinks() {
 }
 
 async function initializeVisitorCounter() {
+  const localCounter = await fetchLocalCounter();
+  if (localCounter !== null) {
+    setVisitCount(formatInteger(localCounter));
+    return;
+  }
+
   const namespace = "shadowfetch-news";
   const counterName = "site-visits";
   const sessionKey = "shadowfetch_site_visit_counted";
@@ -79,6 +86,36 @@ async function initializeVisitorCounter() {
   const payload = await response.json();
   writeSessionValue(sessionKey, "1");
   setVisitCount(formatInteger(payload.count ?? payload.value));
+}
+
+async function fetchLocalCounter() {
+  const sessionKey = "shadowfetch_site_visit_counted";
+  const hasCounted = readSessionValue(sessionKey) === "1";
+  const method = hasCounted ? "GET" : "POST";
+
+  try {
+    const response = await fetch(LOCAL_COUNTER_ENDPOINT, {
+      method,
+      cache: "no-store",
+      headers: {
+        "content-type": "application/json"
+      }
+    });
+
+    if (!response.ok) {
+      return null;
+    }
+
+    const payload = await response.json();
+    if (!payload || typeof payload.count !== "number") {
+      return null;
+    }
+
+    writeSessionValue(sessionKey, "1");
+    return payload.count;
+  } catch {
+    return null;
+  }
 }
 
 function setVisitCount(value) {

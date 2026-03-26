@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-03-26T17:04:17.234449Z",
+  "generated_at": "2026-03-26T17:15:02.060673Z",
   "successful_sources": 71,
   "total_sources": 79,
   "featured": [
     {
-      "title": "Senate GOP sends Democrats \"last and final\" offer to end DHS shutdown",
-      "link": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-41/",
-      "summary": "Senate Majority Leader John Thune said Republicans have submitted what their \"last and final\" offer to end the DHS shutdown. Follow live updates.",
+      "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
+      "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
+      "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
       "source": "CBS News Latest",
       "source_key": "cbs-news-latest",
       "source_homepage": "https://www.cbsnews.com/",
       "source_feed": "https://www.cbsnews.com/latest/rss/main",
       "section": "Top Stories",
       "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:57:58Z"
+      "timestamp": "2026-03-26T17:05:06Z"
     },
     {
-      "title": "Nicol\u00e1s Maduro appears again in New York court on \u2018narco-terrorism\u2019 charges",
-      "link": "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case",
-      "summary": "Deposed Venezuelan president and his wife, who both pleaded not guilty, were captured by US military in January The deposed Venezuelan president Nicol\u00e1s Maduro again appeared in...",
-      "source": "The Guardian World",
-      "source_key": "the-guardian-world",
-      "source_homepage": "https://www.theguardian.com/world",
-      "source_feed": "https://www.theguardian.com/world/rss",
+      "title": "Details revealed of Board of Peace plan for Gaza disarmament",
+      "link": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
+      "summary": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months.",
+      "source": "Al Jazeera",
+      "source_key": "al-jazeera",
+      "source_homepage": "https://www.aljazeera.com",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
       "section": "World",
       "section_key": "world",
-      "timestamp": "2026-03-26T16:43:44Z"
+      "timestamp": "2026-03-26T16:47:01Z"
     },
     {
-      "title": "Harris books appearances in the South next month: CNN",
-      "link": "https://thehill.com/homenews/campaign/5802266-kamala-harris-southern-fundraisers/",
-      "summary": "Former Vice President Kamala Harris will appear at multiple state Democratic Party fundraisers across the South next month, CNN reported Thursday. Harris will reportedly appear...",
+      "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
+      "link": "https://thehill.com/policy/defense/5802502-hegseth-supports-deal-iran/",
+      "summary": "Pete Hegseth said he welcomes a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week the defense secretary was \u201cdisappointed\u201d by the idea,...",
       "source": "The Hill",
       "source_key": "the-hill",
       "source_homepage": "https://thehill.com/",
       "source_feed": "https://thehill.com/feed/",
       "section": "U.S. & Politics",
       "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:50:41Z"
+      "timestamp": "2026-03-26T17:02:52Z"
     },
     {
-      "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
-      "link": "https://www.cnbc.com/2026/03/26/united-airlines-flight-attendants-labor-deal.html",
-      "summary": "United Airlines and its flight attendants union reached a new labor deal.",
+      "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+      "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
+      "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
       "source": "CNBC Top",
       "source_key": "cnbc-top",
       "source_homepage": "https://www.cnbc.com/",
       "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "section": "Business & Markets",
       "section_key": "business-markets",
-      "timestamp": "2026-03-26T17:02:29Z"
+      "timestamp": "2026-03-26T17:14:17Z"
     }
   ],
   "latest": [
@@ -105,6 +105,18 @@
       "title": "Yanks' Cole to start season on 15-day IL, not 60",
       "link": "https://www.espn.com/mlb/story/_/id/48304476/yankees-ace-gerrit-cole-begin-season-15-day-injured-list",
       "summary": "Yankees ace Gerrit Cole was placed on the 15-day injured list before Wednesday's season opener against San Francisco rather than the 60-day IL.",
+      "source": "ESPN MLB",
+      "source_key": "espn-mlb",
+      "source_homepage": "https://www.espn.com/mlb/",
+      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:00:19Z"
+    },
+    {
+      "title": "Phils' Crawford, son of ex-major leaguer, to start",
+      "link": "https://www.espn.com/mlb/story/_/id/48305166/rookie-justin-crawford-start-center-field-phillies",
+      "summary": "Rookie Justin Crawford, the son of ex-major leaguer Carl Crawford, will be the starting center fielder for the Philadelphia Phillies as this season gets underway.",
       "source": "ESPN MLB",
       "source_key": "espn-mlb",
       "source_homepage": "https://www.espn.com/mlb/",
@@ -210,6 +222,78 @@
       "timestamp": "2026-03-26T17:35:21Z"
     },
     {
+      "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+      "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
+      "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
+      "source": "CNBC Top",
+      "source_key": "cnbc-top",
+      "source_homepage": "https://www.cnbc.com/",
+      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T17:14:17Z"
+    },
+    {
+      "title": "Major outgoing CEOs are citing AI as a factor in their decisions to step down",
+      "link": "https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html",
+      "summary": "Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures.",
+      "source": "CNBC Top",
+      "source_key": "cnbc-top",
+      "source_homepage": "https://www.cnbc.com/",
+      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T17:13:24Z"
+    },
+    {
+      "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
+      "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
+      "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:05:06Z"
+    },
+    {
+      "title": "Trump slams Starmer's reaction to Iran war and questions U.K. alliance",
+      "link": "https://www.cbsnews.com/video/trump-slams-starmers-reaction-to-iran-war-and-questions-uk-alliance/",
+      "summary": "During a Cabinet meeting at the White House, President Trump reacted to British Prime Minister Keir Starmer's reluctance to get involved in the Iran war. This comes as Mr. Trump...",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:04:00Z"
+    },
+    {
+      "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
+      "link": "https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716",
+      "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
+      "source": "ABC News Top Stories",
+      "source_key": "abc-news-top-stories",
+      "source_homepage": "https://abcnews.go.com/",
+      "source_feed": "https://abcnews.go.com/abcnews/topstories",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:02:54Z"
+    },
+    {
+      "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
+      "link": "https://thehill.com/policy/defense/5802502-hegseth-supports-deal-iran/",
+      "summary": "Pete Hegseth said he welcomes a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week the defense secretary was \u201cdisappointed\u201d by the idea,...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:02:52Z"
+    },
+    {
       "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
       "link": "https://www.cnbc.com/2026/03/26/united-airlines-flight-attendants-labor-deal.html",
       "summary": "United Airlines and its flight attendants union reached a new labor deal.",
@@ -222,6 +306,18 @@
       "timestamp": "2026-03-26T17:02:29Z"
     },
     {
+      "title": "Trump housing chief seeks new criminal probe into Letitia James",
+      "link": "https://thehill.com/homenews/administration/5802426-bill-pulte-seeks-criminal-probe/",
+      "summary": "Bill Pulte, director of the Federal Housing Finance Agency, is seeking a new criminal probe into New York Attorney General Letitia James (D) after failing to convict her on mort...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:01:17Z"
+    },
+    {
       "title": "These 10 top-rated stocks are crushing the S&P 500 \u2014 yet the media and Wall Street ignore them",
       "link": "https://www.marketwatch.com/story/these-10-top-rated-stocks-are-crushing-the-s-p-500-yet-the-media-and-wall-street-ignore-them-39512b4b?mod=mw_rss_topstories",
       "summary": "Stocks with little coverage tend to outperform well-known and widely followed peers.",
@@ -231,6 +327,42 @@
       "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
       "section": "Business & Markets",
       "section_key": "business-markets",
+      "timestamp": "2026-03-26T17:00:00Z"
+    },
+    {
+      "title": "Top Senate Dems blast proposed ACA rule promoting \u2018junk coverage\u2019 that would push estimated 2 million off enrollment",
+      "link": "https://thehill.com/policy/healthcare/5802017-senate-democrats-condemn-trump-aca-rule/",
+      "summary": "A trio of top Senate Democrats led their colleagues in condemning a proposed rule by the Trump administration that would lift restrictions on the number of non-standardized plan...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:00:00Z"
+    },
+    {
+      "title": "Watch live: House Ethics panel examines Sheila Cherfilus-McCormick FEMA fraud allegations",
+      "link": "https://thehill.com/video-clips/5802176-watch-live-house-ethics-committee-hearing-sheila-cherfilus-mccormick-charges/",
+      "summary": "The House Ethics Committee on Thursday afternoon will look into allegations against Rep. Sheila Cherfilus-McCormick (D-Fla.), who is accused of stealing $5 million from the Fede...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:00:00Z"
+    },
+    {
+      "title": "The essential ingredients for a winning Democratic midterm message",
+      "link": "https://thehill.com/opinion/campaign/5801389-trump-job-ratings-inflation/",
+      "summary": "Donald Trump's low job ratings and personal scores, combined with his broken promises to reduce prices, provide a strong foundation for a winning Democratic midterm message.",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
       "timestamp": "2026-03-26T17:00:00Z"
     },
     {
@@ -268,18 +400,6 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T16:56:00Z"
-    },
-    {
-      "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
-      "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
-      "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:55:54Z"
     },
     {
       "title": "Harris books appearances in the South next month: CNN",
@@ -330,6 +450,18 @@
       "timestamp": "2026-03-26T16:48:52Z"
     },
     {
+      "title": "Details revealed of Board of Peace plan for Gaza disarmament",
+      "link": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
+      "summary": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months.",
+      "source": "Al Jazeera",
+      "source_key": "al-jazeera",
+      "source_homepage": "https://www.aljazeera.com",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T16:47:01Z"
+    },
+    {
       "title": "Bitcoin trades narrow corridor as macro pressures throttle liquidity ahead of potential breakout: analysts",
       "link": "https://www.theblock.co/post/395313/bitcoin-trades-narrow-corridor-macro-pressures-throttle-liquidity-potential-breakout?utm_source=rss&utm_medium=rss",
       "summary": "Bitcoin is holding near $70,000 as analysts flag $72,000K as a key breakout zone and note a mix of macro pressures and tight liquidity.",
@@ -352,6 +484,18 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T16:45:15Z"
+    },
+    {
+      "title": "Dash Crofts, of 1970s music duo Seals & Crofts, dead at 85",
+      "link": "https://abcnews.com/GMA/Culture/dash-crofts-1970s-music-duo-seals-crofts-dead/story?id=131435268",
+      "summary": "Seals & Crofts chart hits included \"Summer Breeze,\" \"Get Closer,\" \"Diamond Girl\" and more.",
+      "source": "ABC News Top Stories",
+      "source_key": "abc-news-top-stories",
+      "source_homepage": "https://abcnews.go.com/",
+      "source_feed": "https://abcnews.go.com/abcnews/topstories",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T16:44:52Z"
     },
     {
       "title": "Govee\u2019s color-changing smart lamps are on sale for up to 30 percent off",
@@ -402,18 +546,6 @@
       "timestamp": "2026-03-26T16:42:34Z"
     },
     {
-      "title": "Fed urges judge to deny bid to resurrect Jerome Powell probe subpoenas",
-      "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
-      "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron.\"",
-      "source": "CNBC Top",
-      "source_key": "cnbc-top",
-      "source_homepage": "https://www.cnbc.com/",
-      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T16:41:14Z"
-    },
-    {
       "title": "Long-term care is expensive. Take these 3 steps now to help you afford it later.",
       "link": "https://www.marketwatch.com/story/long-term-care-is-expensive-take-these-3-steps-now-to-help-you-afford-it-later-f71f6ffb?mod=mw_rss_topstories",
       "summary": "Costs for in-home care and assisted living are up almost 50% since 2019.",
@@ -436,18 +568,6 @@
       "section": "Top Stories",
       "section_key": "top-stories",
       "timestamp": "2026-03-26T16:38:00Z"
-    },
-    {
-      "title": "About 6 in 10 disapprove of Iran war: Pew polling",
-      "link": "https://thehill.com/blogs/in-the-know/5802132-americans-disapprove-iran-action/",
-      "summary": "A majority of Americans say they do not approve of the U.S. military action in Iran and that attacking the country late last month was the wrong idea, according to a poll releas...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:37:20Z"
     },
     {
       "title": "Trump reveals Iran apparently gifted the U.S. boats of oil that moved through Strait of Hormuz",
@@ -474,6 +594,18 @@
       "timestamp": "2026-03-26T16:35:02Z"
     },
     {
+      "title": "Pentagon boss claims Iran now has \u2018no navy, no navy leader\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pentagon-boss-claims-iran-now-has-no-navy-no-navy?traffic_source=rss",
+      "summary": "Defense Secretary Pete Hegseth has said that Iran war is 'stuff for the history books'.",
+      "source": "Al Jazeera",
+      "source_key": "al-jazeera",
+      "source_homepage": "https://www.aljazeera.com",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T16:33:18Z"
+    },
+    {
       "title": "Passengers describe surviving LaGuardia collision: \"I'm a walking miracle\"",
       "link": "https://www.cbsnews.com/news/passengers-describe-surviving-laguardia-airport-collision/",
       "summary": "Rebecca Liquori and Rachel Mariotti worked together to remove the exit door and help passengers off the plane after the deadly collision at New York's LaGuardia Airport.",
@@ -486,18 +618,6 @@
       "timestamp": "2026-03-26T16:32:28Z"
     },
     {
-      "title": "Self-inflicted eclipse: How solar energy lost Republican support",
-      "link": "https://thehill.com/opinion/energy-environment/5800914-solar-industry-bipartisan-support-decline/",
-      "summary": "The solar deployment industry has lost its bipartisan support due to the industry's dependence on Chinese supply chains, its framing as a symbol of climate ambition, and its fai...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:30:00Z"
-    },
-    {
       "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
       "link": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
       "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its...",
@@ -508,6 +628,18 @@
       "section": "Technology",
       "section_key": "technology",
       "timestamp": "2026-03-26T16:27:58Z"
+    },
+    {
+      "title": "Olympics align with Trump as transgender athletes banned from women\u2019s games",
+      "link": "https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss",
+      "summary": "Transgender athletes banned from women's Olympic events by new IOC policy aiming for 'fairness, safety and integrity'.",
+      "source": "Al Jazeera",
+      "source_key": "al-jazeera",
+      "source_homepage": "https://www.aljazeera.com",
+      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T16:27:43Z"
     },
     {
       "title": "Congress prepares to vote on DHS funding that could end TSA chaos",
@@ -582,18 +714,6 @@
       "timestamp": "2026-03-26T16:22:33Z"
     },
     {
-      "title": "Steve Witkoff says U.S. presented 15-point plan to end Iran war",
-      "link": "https://www.cbsnews.com/video/steve-witkoff-says-us-presented-15-point-plan-to-end-iran-war/",
-      "summary": "President Trump's adviser Steve Witkoff spoke at a Cabinet meeting on Thursday and confirmed that the U.S. presented Iran with a 15-point action plan for peace through Pakistani...",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:22:00Z"
-    },
-    {
       "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
       "link": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
       "summary": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
@@ -616,18 +736,6 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T16:19:41Z"
-    },
-    {
-      "title": "Nacua sued over alleged antisemitic remark, bite",
-      "link": "https://www.espn.com/nfl/story/_/id/48306031/rams-puka-nacua-sued-alleged-antisemitic-remark-bite",
-      "summary": "A woman in Los Angeles has filed a civil lawsuit against Puka Nacua alleging the Rams wide receiver made an \"unprovoked antisemitic statement\" and later bit her on the shoulder.",
-      "source": "ESPN NFL",
-      "source_key": "espn-nfl",
-      "source_homepage": "https://www.espn.com/nfl/",
-      "source_feed": "https://www.espn.com/espn/rss/nfl/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T16:19:03Z"
     },
     {
       "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
@@ -690,18 +798,6 @@
       "timestamp": "2026-03-26T16:16:33Z"
     },
     {
-      "title": "Loomer: Zuckerberg addition to tech council \u2018slap in the face to MAGA\u2019",
-      "link": "https://thehill.com/policy/technology/5802191-loomers-criticism-zuckerberg-trump/",
-      "summary": "Conservative activist Laura Loomer said Wednesday that Mark Zuckerberg\u2019s appointment to the inaugural President\u2019s Council of Advisors on Science and Technology is a \u201cslap in the...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:15:59Z"
-    },
-    {
       "title": "NS&I boss replaced as savers left waiting for millions of pounds",
       "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
       "summary": "Pensions Minister Torston Bell said those affected would receive compensation \"where appropriate\".",
@@ -712,18 +808,6 @@
       "section": "Top Stories",
       "section_key": "top-stories",
       "timestamp": "2026-03-26T16:14:54Z"
-    },
-    {
-      "title": "Mortgage rates climb for the fourth week in a row \u2014 and they won\u2019t drop back down until this happens",
-      "link": "https://www.marketwatch.com/story/mortgage-rates-climb-for-the-fourth-week-in-a-row-and-they-wont-drop-back-down-until-this-happens-6b36757b?mod=mw_rss_topstories",
-      "summary": "Rates had fallen under 6% for the first time since 2022 just days before the start of Operation Epic Fury.",
-      "source": "MarketWatch",
-      "source_key": "marketwatch",
-      "source_homepage": "https://www.marketwatch.com",
-      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T16:11:00Z"
     },
     {
       "title": "Alexander Kluge, author and key film-maker in the New German Cinema movement, dies aged 94",
@@ -738,18 +822,6 @@
       "timestamp": "2026-03-26T16:10:12Z"
     },
     {
-      "title": "America's first AI-fueled war is unfolding right now in Iran. This is how we got here",
-      "link": "https://www.npr.org/2026/03/26/nx-s1-5762019/americas-first-ai-fueled-war-is-unfolding-right-now-in-iran-this-is-how-we-got-here",
-      "summary": "Bloomberg journalist Katrina Manson discusses the Pentagon's secretive campaign to build America's AI warfare capabilities and the obsessive Marine colonel behind it. Her new bo...",
-      "source": "NPR News",
-      "source_key": "npr-news",
-      "source_homepage": "https://www.npr.org/sections/news/",
-      "source_feed": "https://feeds.npr.org/1001/rss.xml",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:10:11Z"
-    },
-    {
       "title": "Brazil Passes Law to Use Seized Bitcoin, Crypto to Fund Public Security Measures",
       "link": "https://decrypt.co/362453/brazil-passes-law-seized-bitcoin-crypto-fund-public-security",
       "summary": "A new law in Brazil will allow authorities to seize digital assets like Bitcoin to help combat organized crime and fund public security.",
@@ -760,30 +832,6 @@
       "section": "U.S. & Politics",
       "section_key": "u-s-politics",
       "timestamp": "2026-03-26T16:07:14Z"
-    },
-    {
-      "title": "WATCH: Trump promises 'bigger majorities' for Republicans at House GOP dinner",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-promises-bigger-majorities-for-republicans-at-house-gop-dinner",
-      "summary": "President Donald Trump worked to rally the GOP on Wednesday night when he addressed the National Republican Congressional Committee's annual fundraising dinner at Washington's U...",
-      "source": "PBS NewsHour Headlines",
-      "source_key": "pbs-newshour-headlines",
-      "source_homepage": "https://www.pbs.org/newshour/",
-      "source_feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:05:37Z"
-    },
-    {
-      "title": "Trump says Iran\u2019s \u2018present\u2019 was oil ships through the Strait of Hormuz",
-      "link": "https://thehill.com/policy/energy-environment/5802275-trump-iran-present-oil-ships-strait-of-hormuz/",
-      "summary": "President Trump said Thursday that Iran\u2019s \u201cpresent\u201d to the U.S. he mentioned two days earlier was the passage of 10 oil-carrying ships through the Strait of Hormuz. Trump told r...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:04:41Z"
     },
     {
       "title": "Tehran\u2019s\u2019tollbooth\u2019: How Iran picks who to let through Strait of Hormuz",
@@ -1098,42 +1146,6 @@
       "timestamp": "2026-03-26T14:40:10Z"
     },
     {
-      "title": "Senegal to parade Afcon trophy despite title being stripped",
-      "link": "https://www.bbc.com/sport/football/articles/c070kg5rn0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Senegal's Football Federation boss calls the decision to hand Morocco the Afcon title a \"robbery\" amid plans to parade the trophy before Saturday's friendly against Peru in Paris.",
-      "source": "BBC World",
-      "source_key": "bbc-world",
-      "source_homepage": "https://www.bbc.com/news/world",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T14:35:52Z"
-    },
-    {
-      "title": "French court hands Islam scholar Tariq Ramadan 18-year jail term for rape",
-      "link": "https://www.bbc.com/news/articles/cj408984v2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ramadan, a 63-year-old former Oxford professor, denied the charges but his lawyers said he was too ill to attend the trial.",
-      "source": "BBC World",
-      "source_key": "bbc-world",
-      "source_homepage": "https://www.bbc.com/news/world",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T14:31:23Z"
-    },
-    {
-      "title": "Olympic women's sport limited to biological females",
-      "link": "https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no?at_medium=RSS&at_campaign=rss",
-      "summary": "The women's category of Olympic sports will be limited to biological females from 2028, says the International Olympic Committee.",
-      "source": "BBC World",
-      "source_key": "bbc-world",
-      "source_homepage": "https://www.bbc.com/news/world",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T14:29:18Z"
-    },
-    {
       "title": "Rare Books Stolen From a Jesuit Archive in Rome Are Returned to Italy",
       "link": "https://www.nytimes.com/2026/03/26/arts/design/rare-jesuit-stolen-books-returned-italy.html",
       "summary": "The books, about astronomy and other topics, were written in Chinese by Jesuit missionaries who shared information on science as part of their effort to spread Christianity.",
@@ -1192,18 +1204,6 @@
       "section": "Security & Privacy",
       "section_key": "security-privacy",
       "timestamp": "2026-03-26T14:09:17Z"
-    },
-    {
-      "title": "WhatsApp rolls out more AI features, iOS multi-account support",
-      "link": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/",
-      "summary": "WhatsApp is rolling out multiple features designed to make the app easier to use, including AI-powered message replies and photo retouching, support for two accounts on iOS, and...",
-      "source": "BleepingComputer",
-      "source_key": "bleepingcomputer",
-      "source_homepage": "https://www.bleepingcomputer.com/",
-      "source_feed": "https://www.bleepingcomputer.com/feed/",
-      "section": "Security & Privacy",
-      "section_key": "security-privacy",
-      "timestamp": "2026-03-26T14:06:27Z"
     }
   ],
   "sections": [
@@ -1215,6 +1215,42 @@
       "successful_sources": 5,
       "total_sources": 7,
       "stories": [
+        {
+          "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
+          "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
+          "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
+          "source": "CBS News Latest",
+          "source_key": "cbs-news-latest",
+          "source_homepage": "https://www.cbsnews.com/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:05:06Z"
+        },
+        {
+          "title": "Trump slams Starmer's reaction to Iran war and questions U.K. alliance",
+          "link": "https://www.cbsnews.com/video/trump-slams-starmers-reaction-to-iran-war-and-questions-uk-alliance/",
+          "summary": "During a Cabinet meeting at the White House, President Trump reacted to British Prime Minister Keir Starmer's reluctance to get involved in the Iran war. This comes as Mr. Trump...",
+          "source": "CBS News Latest",
+          "source_key": "cbs-news-latest",
+          "source_homepage": "https://www.cbsnews.com/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:04:00Z"
+        },
+        {
+          "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
+          "link": "https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716",
+          "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
+          "source": "ABC News Top Stories",
+          "source_key": "abc-news-top-stories",
+          "source_homepage": "https://abcnews.go.com/",
+          "source_feed": "https://abcnews.go.com/abcnews/topstories",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:02:54Z"
+        },
         {
           "title": "Senate GOP sends Democrats \"last and final\" offer to end DHS shutdown",
           "link": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-41/",
@@ -1228,18 +1264,6 @@
           "timestamp": "2026-03-26T16:57:58Z"
         },
         {
-          "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
-          "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
-          "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
-          "source": "CBS News Latest",
-          "source_key": "cbs-news-latest",
-          "source_homepage": "https://www.cbsnews.com/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/main",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:55:54Z"
-        },
-        {
           "title": "Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'",
           "link": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
           "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
@@ -1250,6 +1274,18 @@
           "section": "Top Stories",
           "section_key": "top-stories",
           "timestamp": "2026-03-26T16:48:52Z"
+        },
+        {
+          "title": "Dash Crofts, of 1970s music duo Seals & Crofts, dead at 85",
+          "link": "https://abcnews.com/GMA/Culture/dash-crofts-1970s-music-duo-seals-crofts-dead/story?id=131435268",
+          "summary": "Seals & Crofts chart hits included \"Summer Breeze,\" \"Get Closer,\" \"Diamond Girl\" and more.",
+          "source": "ABC News Top Stories",
+          "source_key": "abc-news-top-stories",
+          "source_homepage": "https://abcnews.go.com/",
+          "source_feed": "https://abcnews.go.com/abcnews/topstories",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T16:44:52Z"
         },
         {
           "title": "Savannah Guthrie says \"we cannot be at peace without knowing\" as search for mom continues",
@@ -1324,18 +1360,6 @@
           "timestamp": "2026-03-26T16:24:42Z"
         },
         {
-          "title": "Steve Witkoff says U.S. presented 15-point plan to end Iran war",
-          "link": "https://www.cbsnews.com/video/steve-witkoff-says-us-presented-15-point-plan-to-end-iran-war/",
-          "summary": "President Trump's adviser Steve Witkoff spoke at a Cabinet meeting on Thursday and confirmed that the U.S. presented Iran with a 15-point action plan for peace through Pakistani...",
-          "source": "CBS News Latest",
-          "source_key": "cbs-news-latest",
-          "source_homepage": "https://www.cbsnews.com/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/main",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:22:00Z"
-        },
-        {
           "title": "LIVE:  ABC News Live",
           "link": "https://abcnews.com/video/41463246/",
           "summary": "24/7 coverage of breaking news and live events",
@@ -1358,30 +1382,6 @@
           "section": "Top Stories",
           "section_key": "top-stories",
           "timestamp": "2026-03-26T16:14:54Z"
-        },
-        {
-          "title": "America's first AI-fueled war is unfolding right now in Iran. This is how we got here",
-          "link": "https://www.npr.org/2026/03/26/nx-s1-5762019/americas-first-ai-fueled-war-is-unfolding-right-now-in-iran-this-is-how-we-got-here",
-          "summary": "Bloomberg journalist Katrina Manson discusses the Pentagon's secretive campaign to build America's AI warfare capabilities and the obsessive Marine colonel behind it. Her new bo...",
-          "source": "NPR News",
-          "source_key": "npr-news",
-          "source_homepage": "https://www.npr.org/sections/news/",
-          "source_feed": "https://feeds.npr.org/1001/rss.xml",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:10:11Z"
-        },
-        {
-          "title": "WATCH: Trump promises 'bigger majorities' for Republicans at House GOP dinner",
-          "link": "https://www.pbs.org/newshour/politics/watch-trump-promises-bigger-majorities-for-republicans-at-house-gop-dinner",
-          "summary": "President Donald Trump worked to rally the GOP on Wednesday night when he addressed the National Republican Congressional Committee's annual fundraising dinner at Washington's U...",
-          "source": "PBS NewsHour Headlines",
-          "source_key": "pbs-newshour-headlines",
-          "source_homepage": "https://www.pbs.org/newshour/",
-          "source_feed": "https://www.pbs.org/newshour/feeds/rss/headlines",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:05:37Z"
         }
       ]
     },
@@ -1394,6 +1394,18 @@
       "total_sources": 11,
       "stories": [
         {
+          "title": "Details revealed of Board of Peace plan for Gaza disarmament",
+          "link": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
+          "summary": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months.",
+          "source": "Al Jazeera",
+          "source_key": "al-jazeera",
+          "source_homepage": "https://www.aljazeera.com",
+          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T16:47:01Z"
+        },
+        {
           "title": "Nicol\u00e1s Maduro appears again in New York court on \u2018narco-terrorism\u2019 charges",
           "link": "https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case",
           "summary": "Deposed Venezuelan president and his wife, who both pleaded not guilty, were captured by US military in January The deposed Venezuelan president Nicol\u00e1s Maduro again appeared in...",
@@ -1404,6 +1416,30 @@
           "section": "World",
           "section_key": "world",
           "timestamp": "2026-03-26T16:43:44Z"
+        },
+        {
+          "title": "Pentagon boss claims Iran now has \u2018no navy, no navy leader\u2019",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pentagon-boss-claims-iran-now-has-no-navy-no-navy?traffic_source=rss",
+          "summary": "Defense Secretary Pete Hegseth has said that Iran war is 'stuff for the history books'.",
+          "source": "Al Jazeera",
+          "source_key": "al-jazeera",
+          "source_homepage": "https://www.aljazeera.com",
+          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T16:33:18Z"
+        },
+        {
+          "title": "Olympics align with Trump as transgender athletes banned from women\u2019s games",
+          "link": "https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss",
+          "summary": "Transgender athletes banned from women's Olympic events by new IOC policy aiming for 'fairness, safety and integrity'.",
+          "source": "Al Jazeera",
+          "source_key": "al-jazeera",
+          "source_homepage": "https://www.aljazeera.com",
+          "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T16:27:43Z"
         },
         {
           "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
@@ -1524,42 +1560,6 @@
           "section": "World",
           "section_key": "world",
           "timestamp": "2026-03-26T14:40:10Z"
-        },
-        {
-          "title": "Senegal to parade Afcon trophy despite title being stripped",
-          "link": "https://www.bbc.com/sport/football/articles/c070kg5rn0ko?at_medium=RSS&at_campaign=rss",
-          "summary": "Senegal's Football Federation boss calls the decision to hand Morocco the Afcon title a \"robbery\" amid plans to parade the trophy before Saturday's friendly against Peru in Paris.",
-          "source": "BBC World",
-          "source_key": "bbc-world",
-          "source_homepage": "https://www.bbc.com/news/world",
-          "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T14:35:52Z"
-        },
-        {
-          "title": "French court hands Islam scholar Tariq Ramadan 18-year jail term for rape",
-          "link": "https://www.bbc.com/news/articles/cj408984v2xo?at_medium=RSS&at_campaign=rss",
-          "summary": "Ramadan, a 63-year-old former Oxford professor, denied the charges but his lawyers said he was too ill to attend the trial.",
-          "source": "BBC World",
-          "source_key": "bbc-world",
-          "source_homepage": "https://www.bbc.com/news/world",
-          "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T14:31:23Z"
-        },
-        {
-          "title": "Olympic women's sport limited to biological females",
-          "link": "https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no?at_medium=RSS&at_campaign=rss",
-          "summary": "The women's category of Olympic sports will be limited to biological females from 2028, says the International Olympic Committee.",
-          "source": "BBC World",
-          "source_key": "bbc-world",
-          "source_homepage": "https://www.bbc.com/news/world",
-          "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T14:29:18Z"
         }
       ]
     },
@@ -1571,6 +1571,30 @@
       "successful_sources": 9,
       "total_sources": 11,
       "stories": [
+        {
+          "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+          "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
+          "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
+          "source": "CNBC Top",
+          "source_key": "cnbc-top",
+          "source_homepage": "https://www.cnbc.com/",
+          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T17:14:17Z"
+        },
+        {
+          "title": "Major outgoing CEOs are citing AI as a factor in their decisions to step down",
+          "link": "https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html",
+          "summary": "Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures.",
+          "source": "CNBC Top",
+          "source_key": "cnbc-top",
+          "source_homepage": "https://www.cnbc.com/",
+          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T17:13:24Z"
+        },
         {
           "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
           "link": "https://www.cnbc.com/2026/03/26/united-airlines-flight-attendants-labor-deal.html",
@@ -1644,18 +1668,6 @@
           "timestamp": "2026-03-26T16:44:00Z"
         },
         {
-          "title": "Fed urges judge to deny bid to resurrect Jerome Powell probe subpoenas",
-          "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
-          "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron.\"",
-          "source": "CNBC Top",
-          "source_key": "cnbc-top",
-          "source_homepage": "https://www.cnbc.com/",
-          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T16:41:14Z"
-        },
-        {
           "title": "Long-term care is expensive. Take these 3 steps now to help you afford it later.",
           "link": "https://www.marketwatch.com/story/long-term-care-is-expensive-take-these-3-steps-now-to-help-you-afford-it-later-f71f6ffb?mod=mw_rss_topstories",
           "summary": "Costs for in-home care and assisted living are up almost 50% since 2019.",
@@ -1726,18 +1738,6 @@
           "section": "Business & Markets",
           "section_key": "business-markets",
           "timestamp": "2026-03-26T16:14:54Z"
-        },
-        {
-          "title": "Mortgage rates climb for the fourth week in a row \u2014 and they won\u2019t drop back down until this happens",
-          "link": "https://www.marketwatch.com/story/mortgage-rates-climb-for-the-fourth-week-in-a-row-and-they-wont-drop-back-down-until-this-happens-6b36757b?mod=mw_rss_topstories",
-          "summary": "Rates had fallen under 6% for the first time since 2022 just days before the start of Operation Epic Fury.",
-          "source": "MarketWatch",
-          "source_key": "marketwatch",
-          "source_homepage": "https://www.marketwatch.com",
-          "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T16:11:00Z"
         }
       ]
     },
@@ -2700,6 +2700,18 @@
           "timestamp": "2026-03-26T18:00:19Z"
         },
         {
+          "title": "Phils' Crawford, son of ex-major leaguer, to start",
+          "link": "https://www.espn.com/mlb/story/_/id/48305166/rookie-justin-crawford-start-center-field-phillies",
+          "summary": "Rookie Justin Crawford, the son of ex-major leaguer Carl Crawford, will be the starting center fielder for the Philadelphia Phillies as this season gets underway.",
+          "source": "ESPN MLB",
+          "source_key": "espn-mlb",
+          "source_homepage": "https://www.espn.com/mlb/",
+          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:00:19Z"
+        },
+        {
           "title": "Everything you need for Opening Day: What we're watching, lineups and updates from every game",
           "link": "https://www.espn.com/mlb/story/_/id/48251306/mlb-opening-day-2026-storylines-lineups-live-updates-takeaways-analysis",
           "summary": "Baseball is back! Here's your one-stop shop for all of the season-opening action.",
@@ -2794,18 +2806,6 @@
           "section": "Sports",
           "section_key": "sports",
           "timestamp": "2026-03-26T17:35:21Z"
-        },
-        {
-          "title": "Nacua sued over alleged antisemitic remark, bite",
-          "link": "https://www.espn.com/nfl/story/_/id/48306031/rams-puka-nacua-sued-alleged-antisemitic-remark-bite",
-          "summary": "A woman in Los Angeles has filed a civil lawsuit against Puka Nacua alleging the Rams wide receiver made an \"unprovoked antisemitic statement\" and later bit her on the shoulder.",
-          "source": "ESPN NFL",
-          "source_key": "espn-nfl",
-          "source_homepage": "https://www.espn.com/nfl/",
-          "source_feed": "https://www.espn.com/espn/rss/nfl/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T16:19:03Z"
         }
       ]
     },
@@ -3005,7 +3005,67 @@
           "source_feed": "https://www.cbsnews.com/latest/rss/politics",
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T17:04:01Z"
+          "timestamp": "2026-03-26T17:05:06Z"
+        },
+        {
+          "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
+          "link": "https://thehill.com/policy/defense/5802502-hegseth-supports-deal-iran/",
+          "summary": "Pete Hegseth said he welcomes a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week the defense secretary was \u201cdisappointed\u201d by the idea,...",
+          "source": "The Hill",
+          "source_key": "the-hill",
+          "source_homepage": "https://thehill.com/",
+          "source_feed": "https://thehill.com/feed/",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T17:02:52Z"
+        },
+        {
+          "title": "Trump housing chief seeks new criminal probe into Letitia James",
+          "link": "https://thehill.com/homenews/administration/5802426-bill-pulte-seeks-criminal-probe/",
+          "summary": "Bill Pulte, director of the Federal Housing Finance Agency, is seeking a new criminal probe into New York Attorney General Letitia James (D) after failing to convict her on mort...",
+          "source": "The Hill",
+          "source_key": "the-hill",
+          "source_homepage": "https://thehill.com/",
+          "source_feed": "https://thehill.com/feed/",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T17:01:17Z"
+        },
+        {
+          "title": "Top Senate Dems blast proposed ACA rule promoting \u2018junk coverage\u2019 that would push estimated 2 million off enrollment",
+          "link": "https://thehill.com/policy/healthcare/5802017-senate-democrats-condemn-trump-aca-rule/",
+          "summary": "A trio of top Senate Democrats led their colleagues in condemning a proposed rule by the Trump administration that would lift restrictions on the number of non-standardized plan...",
+          "source": "The Hill",
+          "source_key": "the-hill",
+          "source_homepage": "https://thehill.com/",
+          "source_feed": "https://thehill.com/feed/",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T17:00:00Z"
+        },
+        {
+          "title": "Watch live: House Ethics panel examines Sheila Cherfilus-McCormick FEMA fraud allegations",
+          "link": "https://thehill.com/video-clips/5802176-watch-live-house-ethics-committee-hearing-sheila-cherfilus-mccormick-charges/",
+          "summary": "The House Ethics Committee on Thursday afternoon will look into allegations against Rep. Sheila Cherfilus-McCormick (D-Fla.), who is accused of stealing $5 million from the Fede...",
+          "source": "The Hill",
+          "source_key": "the-hill",
+          "source_homepage": "https://thehill.com/",
+          "source_feed": "https://thehill.com/feed/",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T17:00:00Z"
+        },
+        {
+          "title": "The essential ingredients for a winning Democratic midterm message",
+          "link": "https://thehill.com/opinion/campaign/5801389-trump-job-ratings-inflation/",
+          "summary": "Donald Trump's low job ratings and personal scores, combined with his broken promises to reduce prices, provide a strong foundation for a winning Democratic midterm message.",
+          "source": "The Hill",
+          "source_key": "the-hill",
+          "source_homepage": "https://thehill.com/",
+          "source_feed": "https://thehill.com/feed/",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T17:00:00Z"
         },
         {
           "title": "Senate GOP sends Democrats \"last and final\" offer to end DHS shutdown",
@@ -3068,18 +3128,6 @@
           "timestamp": "2026-03-26T16:42:34Z"
         },
         {
-          "title": "About 6 in 10 disapprove of Iran war: Pew polling",
-          "link": "https://thehill.com/blogs/in-the-know/5802132-americans-disapprove-iran-action/",
-          "summary": "A majority of Americans say they do not approve of the U.S. military action in Iran and that attacking the country late last month was the wrong idea, according to a poll releas...",
-          "source": "The Hill",
-          "source_key": "the-hill",
-          "source_homepage": "https://thehill.com/",
-          "source_feed": "https://thehill.com/feed/",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:37:20Z"
-        },
-        {
           "title": "Anchorage becomes first federally chartered US firm to bring Tron \u2018inside the regulatory perimeter\u2019",
           "link": "https://www.theblock.co/post/395318/anchorage-federally-chartered-tron-inside-regulatory-perimeter?utm_source=rss&utm_medium=rss",
           "summary": "Tron is a top chain for stablecoin usage, though it has largely operated outside the U.S. due to regulatory concerns.",
@@ -3090,18 +3138,6 @@
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
           "timestamp": "2026-03-26T16:35:02Z"
-        },
-        {
-          "title": "Self-inflicted eclipse: How solar energy lost Republican support",
-          "link": "https://thehill.com/opinion/energy-environment/5800914-solar-industry-bipartisan-support-decline/",
-          "summary": "The solar deployment industry has lost its bipartisan support due to the industry's dependence on Chinese supply chains, its framing as a symbol of climate ambition, and its fai...",
-          "source": "The Hill",
-          "source_key": "the-hill",
-          "source_homepage": "https://thehill.com/",
-          "source_feed": "https://thehill.com/feed/",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:30:00Z"
         },
         {
           "title": "UK Sanctions Crypto Marketplace Xinbi in Crackdown on Southeast Asian Scam Centers",
@@ -3116,18 +3152,6 @@
           "timestamp": "2026-03-26T16:26:03Z"
         },
         {
-          "title": "Loomer: Zuckerberg addition to tech council \u2018slap in the face to MAGA\u2019",
-          "link": "https://thehill.com/policy/technology/5802191-loomers-criticism-zuckerberg-trump/",
-          "summary": "Conservative activist Laura Loomer said Wednesday that Mark Zuckerberg\u2019s appointment to the inaugural President\u2019s Council of Advisors on Science and Technology is a \u201cslap in the...",
-          "source": "The Hill",
-          "source_key": "the-hill",
-          "source_homepage": "https://thehill.com/",
-          "source_feed": "https://thehill.com/feed/",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:15:59Z"
-        },
-        {
           "title": "Brazil Passes Law to Use Seized Bitcoin, Crypto to Fund Public Security Measures",
           "link": "https://decrypt.co/362453/brazil-passes-law-seized-bitcoin-crypto-fund-public-security",
           "summary": "A new law in Brazil will allow authorities to seize digital assets like Bitcoin to help combat organized crime and fund public security.",
@@ -3138,30 +3162,6 @@
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
           "timestamp": "2026-03-26T16:07:14Z"
-        },
-        {
-          "title": "WATCH: Trump promises 'bigger majorities' for Republicans at House GOP dinner",
-          "link": "https://www.pbs.org/newshour/politics/watch-trump-promises-bigger-majorities-for-republicans-at-house-gop-dinner",
-          "summary": "President Donald Trump worked to rally the GOP on Wednesday night when he addressed the National Republican Congressional Committee's annual fundraising dinner at Washington's U...",
-          "source": "PBS Politics",
-          "source_key": "pbs-politics",
-          "source_homepage": "https://www.pbs.org/newshour/politics/",
-          "source_feed": "https://www.pbs.org/newshour/feeds/rss/politics",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:05:37Z"
-        },
-        {
-          "title": "Trump says Iran\u2019s \u2018present\u2019 was oil ships through the Strait of Hormuz",
-          "link": "https://thehill.com/policy/energy-environment/5802275-trump-iran-present-oil-ships-strait-of-hormuz/",
-          "summary": "President Trump said Thursday that Iran\u2019s \u201cpresent\u201d to the U.S. he mentioned two days earlier was the passage of 10 oil-carrying ships through the Strait of Hormuz. Trump told r...",
-          "source": "The Hill",
-          "source_key": "the-hill",
-          "source_homepage": "https://thehill.com/",
-          "source_feed": "https://thehill.com/feed/",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:04:41Z"
         }
       ]
     }

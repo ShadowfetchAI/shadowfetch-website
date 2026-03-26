@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import hashlib
+import html
 import json
 import re
 from collections import defaultdict
@@ -479,14 +480,16 @@ def select_editor_picks(stories: list[dict], limit: int, topics_by_key: dict[str
 def annotate_story(story: dict, source_lookup: dict[str, dict]) -> dict:
     identity = story_identity(story)
     digest = hashlib.md5(identity.encode("utf-8")).hexdigest()[:8]
-    title = story.get("title", "Untitled story")
+    title = clean_feed_text(story.get("title", "Untitled story"))
+    summary = clean_feed_text(story.get("summary", ""))
+    source_name = clean_feed_text(story.get("source", "Source"))
     slug = f"{slugify(title)[:70] or 'story'}-{digest}"
-    source_key = story.get("source_key") or slugify(story.get("source", "source"))
+    source_key = story.get("source_key") or slugify(source_name or "source")
     source = source_lookup.get(
         source_key,
         {
             "key": source_key,
-            "name": story.get("source", "Source"),
+            "name": source_name,
             "homepage": story.get("source_homepage", ""),
             "feed_url": story.get("source_feed", ""),
             "path": f"/sources/{source_key}/",
@@ -498,6 +501,9 @@ def annotate_story(story: dict, source_lookup: dict[str, dict]) -> dict:
 
     return {
         **story,
+        "title": title,
+        "summary": summary,
+        "source": source_name,
         "id": digest,
         "slug": slug,
         "brief_path": f"/briefs/{slug}/",
@@ -516,7 +522,7 @@ def annotate_story(story: dict, source_lookup: dict[str, dict]) -> dict:
         "coverage_links": [],
         "is_breaking": is_breaking_story(story.get("timestamp")),
         "is_new": is_new_story(story.get("timestamp")),
-        "reading_time": estimate_reading_time(story.get("title", ""), story.get("summary", "")),
+        "reading_time": estimate_reading_time(title, summary),
     }
 
 
@@ -554,17 +560,26 @@ def fetch_counter_value() -> int:
 
 
 def select_front_page_stories(stories: list[dict], limit: int) -> list[dict]:
-    selected: list[dict] = []
+    primary: list[dict] = []
+    reserve: list[dict] = []
     seen: set[str] = set()
+    used_sections: set[str] = set()
     for story in stories:
         identity = story_identity(story)
         if identity in seen:
             continue
         seen.add(identity)
-        selected.append(story)
-        if len(selected) >= limit:
+        section_key = story.get("section_key", "")
+        if section_key and section_key not in used_sections and len(primary) < limit:
+            used_sections.add(section_key)
+            primary.append(story)
+        else:
+            reserve.append(story)
+        if len(primary) >= limit:
             break
-    return selected
+
+    combined = primary + reserve
+    return combined[:limit]
 
 
 def render_newspaper_story_block(story: dict | None, *, lead: bool = False, label: str | None = None) -> str:
@@ -1105,6 +1120,14 @@ def parse_tag_list(value: str) -> list[str]:
 
 def strip_html(value: str) -> str:
     text = re.sub(r"<[^>]+>", " ", value)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def clean_feed_text(value: str) -> str:
+    if not value:
+        return ""
+    text = html.unescape(value)
+    text = strip_html(text)
     return re.sub(r"\s+", " ", text).strip()
 
 

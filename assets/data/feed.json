@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-03-26T17:26:49.382458Z",
+  "generated_at": "2026-03-26T17:36:03.121113Z",
   "successful_sources": 71,
   "total_sources": 79,
   "featured": [
     {
-      "title": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now.",
-      "link": "https://www.cbsnews.com/news/heloc-rates-6-range-what-20000-heloc-costs-monthly/",
-      "summary": "HELOC interest rates are closing in on the 6% range. So, how much will a $20,000 line of credit cost right now?",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "title": "Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'",
+      "link": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
+      "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+      "source": "ABC News Top Stories",
+      "source_key": "abc-news-top-stories",
+      "source_homepage": "https://abcnews.go.com/",
+      "source_feed": "https://abcnews.go.com/abcnews/topstories",
       "section": "Top Stories",
       "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:22:22Z"
+      "timestamp": "2026-03-26T17:28:57Z"
     },
     {
-      "title": "Details revealed of Board of Peace plan for Gaza disarmament",
-      "link": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
-      "summary": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months.",
-      "source": "Al Jazeera",
-      "source_key": "al-jazeera",
-      "source_homepage": "https://www.aljazeera.com",
-      "source_feed": "https://www.aljazeera.com/xml/rss/all.xml",
+      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
+      "link": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
+      "source": "BBC World",
+      "source_key": "bbc-world",
+      "source_homepage": "https://www.bbc.com/news/world",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "section": "World",
       "section_key": "world",
-      "timestamp": "2026-03-26T16:47:01Z"
+      "timestamp": "2026-03-26T17:16:06Z"
     },
     {
-      "title": "Hillary Clinton to keynote New Hampshire event",
-      "link": "https://thehill.com/homenews/state-watch/5802517-hillary-clinton-new-hampshire/",
-      "summary": "Former Secretary of State Hillary Clinton (D) is set to speak at a major Democratic Party fundraiser in New Hampshire next month, the state party announced Thursday. Clinton is...",
+      "title": "Blanche boasts of having \u2018cleaned house\u2019 at DOJ, FBI following Trump prosecutions",
+      "link": "https://thehill.com/homenews/administration/5802553-todd-blanche-cpac-doj-fbi-firings/",
+      "summary": "Deputy Attorney General Todd Blanche boasted Thursday about the number of firings at the Department of Justice (DOJ) and FBI, saying the administration had \u201ccleaned house\u201d by ou...",
       "source": "The Hill",
       "source_key": "the-hill",
       "source_homepage": "https://thehill.com/",
       "source_feed": "https://thehill.com/feed/",
       "section": "U.S. & Politics",
       "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T17:11:40Z"
+      "timestamp": "2026-03-26T17:19:48Z"
     },
     {
       "title": "Best Buy\u2019s stock is rallying amid takeover speculation. But here\u2019s the real story.",
@@ -53,6 +53,90 @@
     }
   ],
   "latest": [
+    {
+      "title": "Brady on comeback: NFL didn't 'like that idea'",
+      "link": "https://www.espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
+      "summary": "Tom Brady says he explored the possibility of coming out of retirement and returning to the NFL, adding that the league did not \"like that idea very much.\"",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:28:49Z"
+    },
+    {
+      "title": "LSU lures Wade back as it fires coach McMahon",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48312538/sources-lsu-working-lure-wade-back-firing-mcmahon",
+      "summary": "Will Wade said in a statement posted to X on Thursday that he is leaving his job as the coach at NC State to return to LSU.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:28:49Z"
+    },
+    {
+      "title": "Quad God rebounds from Olympics, leads worlds",
+      "link": "https://www.espn.com/olympics/figureskating/story/_/id/48312870/ilia-malinin-rebounds-olympics-leads-skating-worlds",
+      "summary": "Ilia Malinin bounced back from misfiring at the Milan Cortina Olympics by leading after the short program at the figure skating world championships.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:28:49Z"
+    },
+    {
+      "title": "Amputee cornhole player waives right to hearing",
+      "link": "https://www.espn.com/espn/story/_/id/48313170/quadruple-amputee-cornhole-player-waives-hearing-murder-case",
+      "summary": "A professional cornhole player who's also a quadruple amputee waived his right to an extradition hearing as authorities seek to move him from Virginia to Maryland, where he face...",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:28:49Z"
+    },
+    {
+      "title": "QB Simpson says he's 'absolutely' 1st-round pick",
+      "link": "https://www.espn.com/nfl/story/_/id/48311228/alabama-qb-ty-simpson-says-absolutely-1st-round-pick",
+      "summary": "Ty Simpson felt like he made a final impression at Alabama's pro day in front of NFL scouts. He believes he's 'absolutely' a lock to be a first-round pick.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:28:49Z"
+    },
+    {
+      "title": "Sens' Chabot (broken arm) could miss 2 months",
+      "link": "https://www.espn.com/nhl/story/_/id/48312859/senators-thomas-chabot-miss-2-months-broken-arm",
+      "summary": "Senators defenseman Thomas Chabot will miss up to two months with a broken arm, coach Travis Green announced on Thursday.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:28:49Z"
+    },
+    {
+      "title": "World Series of Poker returning to ESPN in July",
+      "link": "https://www.espn.com/poker/story/_/id/48312536/world-series-poker-returning-espn-beginning-july-2",
+      "summary": "The World Series of Poker is returning to ESPN for the first time since 2021, with coverage of this year's main event from Las Vegas beginning July 2.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:28:49Z"
+    },
     {
       "title": "Updated NBA rookie rankings: Why the ROY race is all but over",
       "link": "https://www.espn.com/nba/story/_/id/48306024/2025-26-nba-rookie-rankings-end-regular-season-flagg-knueppel-edgecomb-rookie-year-race",
@@ -76,6 +160,18 @@
       "section": "Sports",
       "section_key": "sports",
       "timestamp": "2026-03-26T18:14:55Z"
+    },
+    {
+      "title": "Brewers star OF Chourio set to miss 2-4 weeks",
+      "link": "https://www.espn.com/mlb/story/_/id/48312279/brewers-place-jackson-chourio-il-due-fractured-hand",
+      "summary": "The Brewers placed star outfielder Chourio on the 10-day injured list on Thursday because of a fractured left hand. The move was made retroactive to Wednesday.",
+      "source": "ESPN MLB",
+      "source_key": "espn-mlb",
+      "source_homepage": "https://www.espn.com/mlb/",
+      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:00:19Z"
     },
     {
       "title": "Source: Mets add Pham on minors deal for depth",
@@ -126,100 +222,76 @@
       "timestamp": "2026-03-26T18:00:19Z"
     },
     {
-      "title": "Yanks' Cole to start season on 15-day IL, not 60",
-      "link": "https://www.espn.com/mlb/story/_/id/48304476/yankees-ace-gerrit-cole-begin-season-15-day-injured-list",
-      "summary": "Yankees ace Gerrit Cole was placed on the 15-day injured list before Wednesday's season opener against San Francisco rather than the 60-day IL.",
-      "source": "ESPN MLB",
-      "source_key": "espn-mlb",
-      "source_homepage": "https://www.espn.com/mlb/",
-      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T18:00:19Z"
+      "title": "My brief, weird time with the Samsung TriFold",
+      "link": "https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom",
+      "summary": "I was ready to give up on the Galaxy Z TriFold. We had a strong case for getting a refund from the eBay seller - they'd claimed it was the version sold in Taiwan, but the phone...",
+      "source": "The Verge",
+      "source_key": "the-verge",
+      "source_homepage": "https://www.theverge.com/",
+      "source_feed": "https://www.theverge.com/rss/index.xml",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T17:33:30Z"
     },
     {
-      "title": "Phils' Crawford, son of ex-major leaguer, to start",
-      "link": "https://www.espn.com/mlb/story/_/id/48305166/rookie-justin-crawford-start-center-field-phillies",
-      "summary": "Rookie Justin Crawford, the son of ex-major leaguer Carl Crawford, will be the starting center fielder for the Philadelphia Phillies as this season gets underway.",
-      "source": "ESPN MLB",
-      "source_key": "espn-mlb",
-      "source_homepage": "https://www.espn.com/mlb/",
-      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T18:00:19Z"
+      "title": "US official accuses China of supporting, exploiting cyber scam crisis in Southeast Asia",
+      "link": "https://therecord.media/china-scam-compounds-southeast-asia",
+      "summary": "A senior U.S. official accused China\u2019s government of implicitly backing Chinese criminal syndicates running cyber scam compounds across Southeast Asia and of exploiting a crisis...",
+      "source": "The Record",
+      "source_key": "the-record",
+      "source_homepage": "https://therecord.media/",
+      "source_feed": "https://therecord.media/feed",
+      "section": "Security & Privacy",
+      "section_key": "security-privacy",
+      "timestamp": "2026-03-26T17:30:00Z"
     },
     {
-      "title": "Everything you need for Opening Day: What we're watching, lineups and updates from every game",
-      "link": "https://www.espn.com/mlb/story/_/id/48251306/mlb-opening-day-2026-storylines-lineups-live-updates-takeaways-analysis",
-      "summary": "Baseball is back! Here's your one-stop shop for all of the season-opening action.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T17:55:10Z"
+      "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
+      "link": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws.",
+      "source": "BBC Technology",
+      "source_key": "bbc-technology",
+      "source_homepage": "https://www.bbc.com/news/technology",
+      "source_feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T17:29:13Z"
     },
     {
-      "title": "Sens' Chabot (broken arm) could miss 2 months",
-      "link": "https://www.espn.com/nhl/story/_/id/48312859/senators-thomas-chabot-miss-2-months-broken-arm",
-      "summary": "Senators defenseman Thomas Chabot will miss up to two months with a broken arm, coach Travis Green announced on Thursday.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T17:35:22Z"
+      "title": "Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'",
+      "link": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
+      "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+      "source": "ABC News Top Stories",
+      "source_key": "abc-news-top-stories",
+      "source_homepage": "https://abcnews.go.com/",
+      "source_feed": "https://abcnews.go.com/abcnews/topstories",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:28:57Z"
     },
     {
-      "title": "World Series of Poker returning to ESPN in July",
-      "link": "https://www.espn.com/poker/story/_/id/48312536/world-series-poker-returning-espn-beginning-july-2",
-      "summary": "The World Series of Poker is returning to ESPN for the first time since 2021, with coverage of this year's main event from Las Vegas beginning July 2.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T17:35:22Z"
+      "title": "Police force reopens investigation into Andrew Tate abuse claims",
+      "link": "https://www.bbc.com/news/articles/c17veqk90nno?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes a day after the police watchdog said it would look into the force's handling of reports against the influencer.",
+      "source": "BBC News",
+      "source_key": "bbc-news",
+      "source_homepage": "https://www.bbc.com/news",
+      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:28:12Z"
     },
     {
-      "title": "Quad God rebounds from Olympics, leads worlds",
-      "link": "https://www.espn.com/olympics/figureskating/story/_/id/48312870/ilia-malinin-rebounds-olympics-leads-skating-worlds",
-      "summary": "Ilia Malinin bounced back from misfiring at the Milan Cortina Olympics by leading after the short program at the figure skating world championships.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T17:35:22Z"
-    },
-    {
-      "title": "Brewers star OF Chourio set to miss 2-4 weeks",
-      "link": "https://www.espn.com/mlb/story/_/id/48312279/brewers-place-jackson-chourio-il-due-fractured-hand",
-      "summary": "The Brewers placed star outfielder Chourio on the 10-day injured list on Thursday because of a fractured left hand. The move was made retroactive to Wednesday.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T17:35:22Z"
-    },
-    {
-      "title": "Brady on comeback: NFL didn't 'like that idea'",
-      "link": "https://www.espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
-      "summary": "Tom Brady says he explored the possibility of coming out of retirement and returning to the NFL, adding that the league did not \"like that idea very much.\"",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T17:35:21Z"
+      "title": "The Kennedy Center Is Giving Bill Maher the Mark Twain Prize",
+      "link": "https://www.nytimes.com/2026/03/26/arts/television/bill-maher-mark-twain-prize-kennedy-center.html",
+      "summary": "The annual award that recognizes merit in humor is going to the satirist and talk show host who has been critical of President Trump and political correctness.",
+      "source": "New York Times Arts",
+      "source_key": "new-york-times-arts",
+      "source_homepage": "https://www.nytimes.com/section/arts",
+      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+      "section": "Entertainment",
+      "section_key": "entertainment",
+      "timestamp": "2026-03-26T17:27:45Z"
     },
     {
       "title": "Best Buy\u2019s stock is rallying amid takeover speculation. But here\u2019s the real story.",
@@ -246,16 +318,16 @@
       "timestamp": "2026-03-26T17:22:22Z"
     },
     {
-      "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
-      "link": "https://www.cnbc.com/2026/03/26/united-airlines-flight-attendants-labor-deal.html",
-      "summary": "United Airlines and its flight attendants union reached a new labor deal.",
-      "source": "CNBC Top",
-      "source_key": "cnbc-top",
-      "source_homepage": "https://www.cnbc.com/",
-      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T17:20:30Z"
+      "title": "Blanche boasts of having \u2018cleaned house\u2019 at DOJ, FBI following Trump prosecutions",
+      "link": "https://thehill.com/homenews/administration/5802553-todd-blanche-cpac-doj-fbi-firings/",
+      "summary": "Deputy Attorney General Todd Blanche boasted Thursday about the number of firings at the Department of Justice (DOJ) and FBI, saying the administration had \u201ccleaned house\u201d by ou...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:19:48Z"
     },
     {
       "title": "Average US long-term mortgage rate leaps to 6.38%, the highest level in more than 6 months",
@@ -280,6 +352,18 @@
       "section": "Top Stories",
       "section_key": "top-stories",
       "timestamp": "2026-03-26T17:16:39Z"
+    },
+    {
+      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
+      "link": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
+      "source": "BBC World",
+      "source_key": "bbc-world",
+      "source_homepage": "https://www.bbc.com/news/world",
+      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "section": "World",
+      "section_key": "world",
+      "timestamp": "2026-03-26T17:16:06Z"
     },
     {
       "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
@@ -330,7 +414,7 @@
       "timestamp": "2026-03-26T17:13:24Z"
     },
     {
-      "title": "Hillary Clinton to keynote New Hampshire event",
+      "title": "Hillary Clinton to keynote New Hampshire Democrats fundraiser",
       "link": "https://thehill.com/homenews/state-watch/5802517-hillary-clinton-new-hampshire/",
       "summary": "Former Secretary of State Hillary Clinton (D) is set to speak at a major Democratic Party fundraiser in New Hampshire next month, the state party announced Thursday. Clinton is...",
       "source": "The Hill",
@@ -534,18 +618,6 @@
       "timestamp": "2026-03-26T16:50:41Z"
     },
     {
-      "title": "Mace to Trump: \u2018Take Lindsey Graham out of the Situation Room\u2019",
-      "link": "https://thehill.com/homenews/house/5802357-nancy-mace-donald-trump-lindsey-graham-middle-east-conflict/",
-      "summary": "Rep. Nancy Mace (R-S.C.) issued an indirect plea to President Trump on Wednesday to stop Sen. Lindsey Graham (R-S.C.) from advising on the conflict with Iran, as the senator pre...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:49:42Z"
-    },
-    {
       "title": "The best deals we\u2019ve found from Amazon\u2019s Big Spring Sale (so far)",
       "link": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
       "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon\u2019s third annual Big Spring Sale, which starts today and runs through March...",
@@ -558,18 +630,6 @@
       "timestamp": "2026-03-26T16:49:11Z"
     },
     {
-      "title": "Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'",
-      "link": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
-      "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
-      "source": "ABC News Top Stories",
-      "source_key": "abc-news-top-stories",
-      "source_homepage": "https://abcnews.go.com/",
-      "source_feed": "https://abcnews.go.com/abcnews/topstories",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:48:52Z"
-    },
-    {
       "title": "Details revealed of Board of Peace plan for Gaza disarmament",
       "link": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
       "summary": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months.",
@@ -580,6 +640,30 @@
       "section": "World",
       "section_key": "world",
       "timestamp": "2026-03-26T16:47:01Z"
+    },
+    {
+      "title": "Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs",
+      "link": "https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/",
+      "summary": "Great performance for the price, if you ignore the price of RAM, SSDs, and GPUs.",
+      "source": "Ars Technica",
+      "source_key": "ars-technica",
+      "source_homepage": "https://arstechnica.com/",
+      "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T16:46:20Z"
+    },
+    {
+      "title": "More than 13 million living in poverty, new figures show",
+      "link": "https://www.bbc.com/news/articles/c3w38qvz195o?at_medium=RSS&at_campaign=rss",
+      "summary": "The level rose slightly on the previous year while the number of children living in poverty has remained steady.",
+      "source": "BBC News",
+      "source_key": "bbc-news",
+      "source_homepage": "https://www.bbc.com/news",
+      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T16:45:39Z"
     },
     {
       "title": "Bitcoin trades narrow corridor as macro pressures throttle liquidity ahead of potential breakout: analysts",
@@ -786,6 +870,18 @@
       "timestamp": "2026-03-26T16:21:28Z"
     },
     {
+      "title": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
+      "link": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
+      "summary": "Some staff reportedly questioned how sexy ChatGPT benefits humanity.",
+      "source": "Ars Technica",
+      "source_key": "ars-technica",
+      "source_homepage": "https://arstechnica.com/",
+      "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T16:21:10Z"
+    },
+    {
       "title": "Don't panic - five ways to stop your kids' endless scrolling",
       "link": "https://www.bbc.com/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
       "summary": "Parenting experts share their tips on how to keep children's screen time under control.",
@@ -796,6 +892,18 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T16:19:41Z"
+    },
+    {
+      "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
+      "link": "https://www.cnbc.com/2026/03/26/mlb-faces-historic-shift-as-potential-lockout-media-rights-and-league-changes-loom.html",
+      "summary": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
+      "source": "CNBC Top",
+      "source_key": "cnbc-top",
+      "source_homepage": "https://www.cnbc.com/",
+      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T16:18:25Z"
     },
     {
       "title": "Trump says Iran \u2018lousy fighters but great negotiators\u2019",
@@ -810,30 +918,6 @@
       "timestamp": "2026-03-26T16:18:01Z"
     },
     {
-      "title": "The Kennedy Center Is Giving Bill Maher the Mark Twain Prize",
-      "link": "https://www.nytimes.com/2026/03/26/arts/television/bill-maher-mark-twain-prize-kennedy-center.html",
-      "summary": "The annual award that recognizes merit in humor is going to the satirist and talk show host who has been critical of President Trump and political correctness.",
-      "source": "New York Times Arts",
-      "source_key": "new-york-times-arts",
-      "source_homepage": "https://www.nytimes.com/section/arts",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
-      "section": "Entertainment",
-      "section_key": "entertainment",
-      "timestamp": "2026-03-26T16:17:47Z"
-    },
-    {
-      "title": "LIVE:  ABC News Live",
-      "link": "https://abcnews.com/video/41463246/",
-      "summary": "24/7 coverage of breaking news and live events",
-      "source": "ABC News Top Stories",
-      "source_key": "abc-news-top-stories",
-      "source_homepage": "https://abcnews.go.com/",
-      "source_feed": "https://abcnews.go.com/abcnews/topstories",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:16:58Z"
-    },
-    {
       "title": "Everyone hates Ticketmaster. Why\u2019d Trump go easy on them?",
       "link": "https://www.theverge.com/podcast/900540/live-nation-ticketmaster-lawsuit-antitrust-trump-doj-settlement",
       "summary": "Today on Decoder, we\u2019re talking about the major antitrust lawsuit against Live Nation, and what it might mean for antitrust and competition law in general now that the Justice D...",
@@ -844,18 +928,6 @@
       "section": "Technology",
       "section_key": "technology",
       "timestamp": "2026-03-26T16:16:33Z"
-    },
-    {
-      "title": "NS&I boss replaced as savers left waiting for millions of pounds",
-      "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pensions Minister Torston Bell said those affected would receive compensation \"where appropriate\".",
-      "source": "BBC News",
-      "source_key": "bbc-news",
-      "source_homepage": "https://www.bbc.com/news",
-      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:14:54Z"
     },
     {
       "title": "Alexander Kluge, author and key film-maker in the New German Cinema movement, dies aged 94",
@@ -1062,30 +1134,6 @@
       "timestamp": "2026-03-26T15:03:48Z"
     },
     {
-      "title": "U.S. Accuses NewYork-Presbyterian of Reaching Deals That Kept Costs High",
-      "link": "https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html",
-      "summary": "The Justice Department sued the large New York health system, saying it restricted insurance companies from offering patients cheaper options.",
-      "source": "New York Times Technology",
-      "source_key": "new-york-times-technology",
-      "source_homepage": "https://www.nytimes.com/section/technology",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T15:03:14Z"
-    },
-    {
-      "title": "Juries Take the Lead in the Push for Child Online Safety",
-      "link": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
-      "summary": "A pair of verdicts held social media companies accountable for harming young users, highlighting a growing backlash as Congress struggles to pass legislation.",
-      "source": "New York Times Technology",
-      "source_key": "new-york-times-technology",
-      "source_homepage": "https://www.nytimes.com/section/technology",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T15:00:40Z"
-    },
-    {
       "title": "Hair compost, sugar waxes and refillable shampoo: inside a California low-waste salon",
       "link": "https://www.theguardian.com/business/2026/mar/26/scisters-salon-california-low-waste-salon",
       "summary": "Scisters Salon & Apothecary in the San Diego area is committed to sustainable beauty and going low-waste The first thing you notice when you walk into Scisters Salon & Apothecar...",
@@ -1134,18 +1182,6 @@
       "timestamp": "2026-03-26T14:59:08Z"
     },
     {
-      "title": "The Corvette E-Ray is dead, long live the Grand Sport X",
-      "link": "https://arstechnica.com/cars/2026/03/the-corvette-e-ray-is-dead-long-live-the-grand-sport-x/",
-      "summary": "The mid-engined Corvette gets a new variant.",
-      "source": "Ars Technica",
-      "source_key": "ars-technica",
-      "source_homepage": "https://arstechnica.com/",
-      "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-26T14:56:55Z"
-    },
-    {
       "title": "La NASA anuncia la cobertura de la de la primera misi\u00f3n tripulada Artemis alrededor de la Luna",
       "link": "https://www.nasa.gov/news-release/la-nasa-anuncia-la-cobertura-de-la-de-la-primera-mision-tripulada-artemis-alrededor-de-la-luna/",
       "summary": "Diversos eventos previos al lanzamiento, del lanzamiento y de la misi\u00f3n Artemis II de la NASA alrededor de la Luna se transmitir\u00e1n en l\u00ednea. La agencia tiene como fecha objetivo...",
@@ -1168,42 +1204,6 @@
       "section": "World",
       "section_key": "world",
       "timestamp": "2026-03-26T14:45:44Z"
-    },
-    {
-      "title": "D. Boon\u2019s Death Shook Punk Rock. 40 Years Later, Minutemen Look Back.",
-      "link": "https://www.nytimes.com/2026/03/26/arts/music/minutemen-d-boon.html",
-      "summary": "The influential band\u2019s singer and guitarist died at 27, but the bassist Mike Watt and the drummer George Hurley never lost his spirit.",
-      "source": "New York Times Arts",
-      "source_key": "new-york-times-arts",
-      "source_homepage": "https://www.nytimes.com/section/arts",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
-      "section": "Entertainment",
-      "section_key": "entertainment",
-      "timestamp": "2026-03-26T14:45:27Z"
-    },
-    {
-      "title": "Air Canada CEO 'deeply saddened' his poor French skills distracted from victims of crash",
-      "link": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pilots.",
-      "source": "BBC World",
-      "source_key": "bbc-world",
-      "source_homepage": "https://www.bbc.com/news/world",
-      "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "section": "World",
-      "section_key": "world",
-      "timestamp": "2026-03-26T14:40:10Z"
-    },
-    {
-      "title": "Rare Books Stolen From a Jesuit Archive in Rome Are Returned to Italy",
-      "link": "https://www.nytimes.com/2026/03/26/arts/design/rare-jesuit-stolen-books-returned-italy.html",
-      "summary": "The books, about astronomy and other topics, were written in Chinese by Jesuit missionaries who shared information on science as part of their effort to spread Christianity.",
-      "source": "New York Times Arts",
-      "source_key": "new-york-times-arts",
-      "source_homepage": "https://www.nytimes.com/section/arts",
-      "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
-      "section": "Entertainment",
-      "section_key": "entertainment",
-      "timestamp": "2026-03-26T14:27:46Z"
     }
   ],
   "sections": [
@@ -1215,6 +1215,30 @@
       "successful_sources": 5,
       "total_sources": 7,
       "stories": [
+        {
+          "title": "Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'",
+          "link": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
+          "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+          "source": "ABC News Top Stories",
+          "source_key": "abc-news-top-stories",
+          "source_homepage": "https://abcnews.go.com/",
+          "source_feed": "https://abcnews.go.com/abcnews/topstories",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:28:57Z"
+        },
+        {
+          "title": "Police force reopens investigation into Andrew Tate abuse claims",
+          "link": "https://www.bbc.com/news/articles/c17veqk90nno?at_medium=RSS&at_campaign=rss",
+          "summary": "It comes a day after the police watchdog said it would look into the force's handling of reports against the influencer.",
+          "source": "BBC News",
+          "source_key": "bbc-news",
+          "source_homepage": "https://www.bbc.com/news",
+          "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:28:12Z"
+        },
         {
           "title": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now.",
           "link": "https://www.cbsnews.com/news/heloc-rates-6-range-what-20000-heloc-costs-monthly/",
@@ -1312,16 +1336,16 @@
           "timestamp": "2026-03-26T16:57:58Z"
         },
         {
-          "title": "Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'",
-          "link": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
-          "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
-          "source": "ABC News Top Stories",
-          "source_key": "abc-news-top-stories",
-          "source_homepage": "https://abcnews.go.com/",
-          "source_feed": "https://abcnews.go.com/abcnews/topstories",
+          "title": "More than 13 million living in poverty, new figures show",
+          "link": "https://www.bbc.com/news/articles/c3w38qvz195o?at_medium=RSS&at_campaign=rss",
+          "summary": "The level rose slightly on the previous year while the number of children living in poverty has remained steady.",
+          "source": "BBC News",
+          "source_key": "bbc-news",
+          "source_homepage": "https://www.bbc.com/news",
+          "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
           "section": "Top Stories",
           "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:48:52Z"
+          "timestamp": "2026-03-26T16:45:39Z"
         },
         {
           "title": "Dash Crofts, of 1970s music duo Seals & Crofts, dead at 85",
@@ -1358,30 +1382,6 @@
           "section": "Top Stories",
           "section_key": "top-stories",
           "timestamp": "2026-03-26T16:24:42Z"
-        },
-        {
-          "title": "LIVE:  ABC News Live",
-          "link": "https://abcnews.com/video/41463246/",
-          "summary": "24/7 coverage of breaking news and live events",
-          "source": "ABC News Top Stories",
-          "source_key": "abc-news-top-stories",
-          "source_homepage": "https://abcnews.go.com/",
-          "source_feed": "https://abcnews.go.com/abcnews/topstories",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:16:58Z"
-        },
-        {
-          "title": "NS&I boss replaced as savers left waiting for millions of pounds",
-          "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
-          "summary": "Pensions Minister Torston Bell said those affected would receive compensation \"where appropriate\".",
-          "source": "BBC News",
-          "source_key": "bbc-news",
-          "source_homepage": "https://www.bbc.com/news",
-          "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:14:54Z"
         }
       ]
     },
@@ -1404,6 +1404,18 @@
           "section": "World",
           "section_key": "world",
           "timestamp": "2026-03-26T17:16:39Z"
+        },
+        {
+          "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
+          "link": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
+          "summary": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
+          "source": "BBC World",
+          "source_key": "bbc-world",
+          "source_homepage": "https://www.bbc.com/news/world",
+          "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:16:06Z"
         },
         {
           "title": "Details revealed of Board of Peace plan for Gaza disarmament",
@@ -1548,18 +1560,6 @@
           "section": "World",
           "section_key": "world",
           "timestamp": "2026-03-26T14:45:44Z"
-        },
-        {
-          "title": "Air Canada CEO 'deeply saddened' his poor French skills distracted from victims of crash",
-          "link": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss",
-          "summary": "Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pilots.",
-          "source": "BBC World",
-          "source_key": "bbc-world",
-          "source_homepage": "https://www.bbc.com/news/world",
-          "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T14:40:10Z"
         }
       ]
     },
@@ -1582,18 +1582,6 @@
           "section": "Business & Markets",
           "section_key": "business-markets",
           "timestamp": "2026-03-26T17:23:00Z"
-        },
-        {
-          "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
-          "link": "https://www.cnbc.com/2026/03/26/united-airlines-flight-attendants-labor-deal.html",
-          "summary": "United Airlines and its flight attendants union reached a new labor deal.",
-          "source": "CNBC Top",
-          "source_key": "cnbc-top",
-          "source_homepage": "https://www.cnbc.com/",
-          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T17:20:30Z"
         },
         {
           "title": "Average US long-term mortgage rate leaps to 6.38%, the highest level in more than 6 months",
@@ -1738,6 +1726,18 @@
           "section": "Business & Markets",
           "section_key": "business-markets",
           "timestamp": "2026-03-26T16:19:41Z"
+        },
+        {
+          "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
+          "link": "https://www.cnbc.com/2026/03/26/mlb-faces-historic-shift-as-potential-lockout-media-rights-and-league-changes-loom.html",
+          "summary": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
+          "source": "CNBC Top",
+          "source_key": "cnbc-top",
+          "source_homepage": "https://www.cnbc.com/",
+          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T16:18:25Z"
         }
       ]
     },
@@ -1749,6 +1749,30 @@
       "successful_sources": 8,
       "total_sources": 8,
       "stories": [
+        {
+          "title": "My brief, weird time with the Samsung TriFold",
+          "link": "https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom",
+          "summary": "I was ready to give up on the Galaxy Z TriFold. We had a strong case for getting a refund from the eBay seller - they'd claimed it was the version sold in Taiwan, but the phone...",
+          "source": "The Verge",
+          "source_key": "the-verge",
+          "source_homepage": "https://www.theverge.com/",
+          "source_feed": "https://www.theverge.com/rss/index.xml",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T17:33:30Z"
+        },
+        {
+          "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
+          "link": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss",
+          "summary": "US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws.",
+          "source": "BBC Technology",
+          "source_key": "bbc-technology",
+          "source_homepage": "https://www.bbc.com/news/technology",
+          "source_feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T17:29:13Z"
+        },
         {
           "title": "Brussels opens investigation into Snapchat amid concern over children\u2019s safety",
           "link": "https://www.theguardian.com/technology/2026/mar/26/brussels-opens-investigation-into-snapchat-amid-concern-over-childrens-safety",
@@ -1772,6 +1796,18 @@
           "section": "Technology",
           "section_key": "technology",
           "timestamp": "2026-03-26T16:49:11Z"
+        },
+        {
+          "title": "Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs",
+          "link": "https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/",
+          "summary": "Great performance for the price, if you ignore the price of RAM, SSDs, and GPUs.",
+          "source": "Ars Technica",
+          "source_key": "ars-technica",
+          "source_homepage": "https://arstechnica.com/",
+          "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T16:46:20Z"
         },
         {
           "title": "Govee\u2019s color-changing smart lamps are on sale for up to 30 percent off",
@@ -1808,6 +1844,18 @@
           "section": "Technology",
           "section_key": "technology",
           "timestamp": "2026-03-26T16:21:28Z"
+        },
+        {
+          "title": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
+          "link": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
+          "summary": "Some staff reportedly questioned how sexy ChatGPT benefits humanity.",
+          "source": "Ars Technica",
+          "source_key": "ars-technica",
+          "source_homepage": "https://arstechnica.com/",
+          "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T16:21:10Z"
         },
         {
           "title": "Everyone hates Ticketmaster. Why\u2019d Trump go easy on them?",
@@ -1868,54 +1916,6 @@
           "section": "Technology",
           "section_key": "technology",
           "timestamp": "2026-03-26T15:12:32Z"
-        },
-        {
-          "title": "U.S. Accuses NewYork-Presbyterian of Reaching Deals That Kept Costs High",
-          "link": "https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html",
-          "summary": "The Justice Department sued the large New York health system, saying it restricted insurance companies from offering patients cheaper options.",
-          "source": "New York Times Technology",
-          "source_key": "new-york-times-technology",
-          "source_homepage": "https://www.nytimes.com/section/technology",
-          "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T15:03:14Z"
-        },
-        {
-          "title": "Juries Take the Lead in the Push for Child Online Safety",
-          "link": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
-          "summary": "A pair of verdicts held social media companies accountable for harming young users, highlighting a growing backlash as Congress struggles to pass legislation.",
-          "source": "New York Times Technology",
-          "source_key": "new-york-times-technology",
-          "source_homepage": "https://www.nytimes.com/section/technology",
-          "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T15:00:40Z"
-        },
-        {
-          "title": "The Corvette E-Ray is dead, long live the Grand Sport X",
-          "link": "https://arstechnica.com/cars/2026/03/the-corvette-e-ray-is-dead-long-live-the-grand-sport-x/",
-          "summary": "The mid-engined Corvette gets a new variant.",
-          "source": "Ars Technica",
-          "source_key": "ars-technica",
-          "source_homepage": "https://arstechnica.com/",
-          "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T14:56:55Z"
-        },
-        {
-          "title": "Why a two-seater robotaxi makes more sense\u00a0than you think",
-          "link": "https://www.theverge.com/transportation/900559/robotaxi-two-seater-tesla-lucid-drag-cost",
-          "summary": "When Tesla revealed the Cybercab in 2024, many people were baffled by the automaker's decision to make it a two-seater. I had similar thoughts when I first saw it at the LA Auto...",
-          "source": "The Verge",
-          "source_key": "the-verge",
-          "source_homepage": "https://www.theverge.com/",
-          "source_feed": "https://www.theverge.com/rss/index.xml",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T13:52:38Z"
         }
       ]
     },
@@ -2106,6 +2106,18 @@
       "total_sources": 6,
       "stories": [
         {
+          "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
+          "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/",
+          "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic...",
+          "source": "NASA Earth",
+          "source_key": "nasa-earth",
+          "source_homepage": "https://www.nasa.gov/earth/",
+          "source_feed": "https://www.nasa.gov/earth/feed/",
+          "section": "Climate & Environment",
+          "section_key": "climate-environment",
+          "timestamp": "2026-03-26T17:00:55Z"
+        },
+        {
           "title": "Hair compost, sugar waxes and refillable shampoo: inside a California low-waste salon",
           "link": "https://www.theguardian.com/business/2026/mar/26/scisters-salon-california-low-waste-salon",
           "summary": "Scisters Salon & Apothecary in the San Diego area is committed to sustainable beauty and going low-waste The first thing you notice when you walk into Scisters Salon & Apothecar...",
@@ -2260,18 +2272,6 @@
           "section": "Climate & Environment",
           "section_key": "climate-environment",
           "timestamp": "2026-03-24T15:37:53Z"
-        },
-        {
-          "title": "Did you remember to pack the antimatter? CERN takes antiprotons for a short drive",
-          "link": "https://www.pbs.org/newshour/science/did-you-remember-to-pack-the-antimatter-cern-takes-antiprotons-for-a-short-drive",
-          "summary": "Scientists in Geneva took some antiprotons out for a spin \u2014 a very delicate one \u2014 in a truck, in a never-tried-before test drive that has been deemed a success.",
-          "source": "PBS Science",
-          "source_key": "pbs-science",
-          "source_homepage": "https://www.pbs.org/newshour/science/",
-          "source_feed": "https://www.pbs.org/newshour/feeds/rss/science",
-          "section": "Climate & Environment",
-          "section_key": "climate-environment",
-          "timestamp": "2026-03-24T15:16:16Z"
         }
       ]
     },
@@ -2283,6 +2283,18 @@
       "successful_sources": 5,
       "total_sources": 5,
       "stories": [
+        {
+          "title": "US official accuses China of supporting, exploiting cyber scam crisis in Southeast Asia",
+          "link": "https://therecord.media/china-scam-compounds-southeast-asia",
+          "summary": "A senior U.S. official accused China\u2019s government of implicitly backing Chinese criminal syndicates running cyber scam compounds across Southeast Asia and of exploiting a crisis...",
+          "source": "The Record",
+          "source_key": "the-record",
+          "source_homepage": "https://therecord.media/",
+          "source_feed": "https://therecord.media/feed",
+          "section": "Security & Privacy",
+          "section_key": "security-privacy",
+          "timestamp": "2026-03-26T17:30:00Z"
+        },
         {
           "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
           "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
@@ -2431,18 +2443,6 @@
           "title": "OpenCode Systems OC Messaging and USSD Gateway",
           "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
           "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenan...",
-          "source": "CISA Cybersecurity Advisories",
-          "source_key": "cisa-cybersecurity-advisories",
-          "source_homepage": "https://www.cisa.gov/news-events/cybersecurity-advisories",
-          "source_feed": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
-          "section": "Security & Privacy",
-          "section_key": "security-privacy",
-          "timestamp": "2026-03-26T12:00:00Z"
-        },
-        {
-          "title": "WAGO GmbH & Co. KG Industrial Managed Switches",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01",
-          "summary": "View CSAF Summary An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device...",
           "source": "CISA Cybersecurity Advisories",
           "source_key": "cisa-cybersecurity-advisories",
           "source_homepage": "https://www.cisa.gov/news-events/cybersecurity-advisories",
@@ -2640,6 +2640,90 @@
       "total_sources": 8,
       "stories": [
         {
+          "title": "Brady on comeback: NFL didn't 'like that idea'",
+          "link": "https://www.espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
+          "summary": "Tom Brady says he explored the possibility of coming out of retirement and returning to the NFL, adding that the league did not \"like that idea very much.\"",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:28:49Z"
+        },
+        {
+          "title": "LSU lures Wade back as it fires coach McMahon",
+          "link": "https://www.espn.com/mens-college-basketball/story/_/id/48312538/sources-lsu-working-lure-wade-back-firing-mcmahon",
+          "summary": "Will Wade said in a statement posted to X on Thursday that he is leaving his job as the coach at NC State to return to LSU.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:28:49Z"
+        },
+        {
+          "title": "Quad God rebounds from Olympics, leads worlds",
+          "link": "https://www.espn.com/olympics/figureskating/story/_/id/48312870/ilia-malinin-rebounds-olympics-leads-skating-worlds",
+          "summary": "Ilia Malinin bounced back from misfiring at the Milan Cortina Olympics by leading after the short program at the figure skating world championships.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:28:49Z"
+        },
+        {
+          "title": "Amputee cornhole player waives right to hearing",
+          "link": "https://www.espn.com/espn/story/_/id/48313170/quadruple-amputee-cornhole-player-waives-hearing-murder-case",
+          "summary": "A professional cornhole player who's also a quadruple amputee waived his right to an extradition hearing as authorities seek to move him from Virginia to Maryland, where he face...",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:28:49Z"
+        },
+        {
+          "title": "QB Simpson says he's 'absolutely' 1st-round pick",
+          "link": "https://www.espn.com/nfl/story/_/id/48311228/alabama-qb-ty-simpson-says-absolutely-1st-round-pick",
+          "summary": "Ty Simpson felt like he made a final impression at Alabama's pro day in front of NFL scouts. He believes he's 'absolutely' a lock to be a first-round pick.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:28:49Z"
+        },
+        {
+          "title": "Sens' Chabot (broken arm) could miss 2 months",
+          "link": "https://www.espn.com/nhl/story/_/id/48312859/senators-thomas-chabot-miss-2-months-broken-arm",
+          "summary": "Senators defenseman Thomas Chabot will miss up to two months with a broken arm, coach Travis Green announced on Thursday.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:28:49Z"
+        },
+        {
+          "title": "World Series of Poker returning to ESPN in July",
+          "link": "https://www.espn.com/poker/story/_/id/48312536/world-series-poker-returning-espn-beginning-july-2",
+          "summary": "The World Series of Poker is returning to ESPN for the first time since 2021, with coverage of this year's main event from Las Vegas beginning July 2.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:28:49Z"
+        },
+        {
           "title": "Updated NBA rookie rankings: Why the ROY race is all but over",
           "link": "https://www.espn.com/nba/story/_/id/48306024/2025-26-nba-rookie-rankings-end-regular-season-flagg-knueppel-edgecomb-rookie-year-race",
           "summary": "Where do the NBA's top rookies stack up with a few weeks left in the regular season? We stacked the top 10.",
@@ -2662,6 +2746,18 @@
           "section": "Sports",
           "section_key": "sports",
           "timestamp": "2026-03-26T18:14:55Z"
+        },
+        {
+          "title": "Brewers star OF Chourio set to miss 2-4 weeks",
+          "link": "https://www.espn.com/mlb/story/_/id/48312279/brewers-place-jackson-chourio-il-due-fractured-hand",
+          "summary": "The Brewers placed star outfielder Chourio on the 10-day injured list on Thursday because of a fractured left hand. The move was made retroactive to Wednesday.",
+          "source": "ESPN MLB",
+          "source_key": "espn-mlb",
+          "source_homepage": "https://www.espn.com/mlb/",
+          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:00:19Z"
         },
         {
           "title": "Source: Mets add Pham on minors deal for depth",
@@ -2710,102 +2806,6 @@
           "section": "Sports",
           "section_key": "sports",
           "timestamp": "2026-03-26T18:00:19Z"
-        },
-        {
-          "title": "Yanks' Cole to start season on 15-day IL, not 60",
-          "link": "https://www.espn.com/mlb/story/_/id/48304476/yankees-ace-gerrit-cole-begin-season-15-day-injured-list",
-          "summary": "Yankees ace Gerrit Cole was placed on the 15-day injured list before Wednesday's season opener against San Francisco rather than the 60-day IL.",
-          "source": "ESPN MLB",
-          "source_key": "espn-mlb",
-          "source_homepage": "https://www.espn.com/mlb/",
-          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T18:00:19Z"
-        },
-        {
-          "title": "Phils' Crawford, son of ex-major leaguer, to start",
-          "link": "https://www.espn.com/mlb/story/_/id/48305166/rookie-justin-crawford-start-center-field-phillies",
-          "summary": "Rookie Justin Crawford, the son of ex-major leaguer Carl Crawford, will be the starting center fielder for the Philadelphia Phillies as this season gets underway.",
-          "source": "ESPN MLB",
-          "source_key": "espn-mlb",
-          "source_homepage": "https://www.espn.com/mlb/",
-          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T18:00:19Z"
-        },
-        {
-          "title": "Everything you need for Opening Day: What we're watching, lineups and updates from every game",
-          "link": "https://www.espn.com/mlb/story/_/id/48251306/mlb-opening-day-2026-storylines-lineups-live-updates-takeaways-analysis",
-          "summary": "Baseball is back! Here's your one-stop shop for all of the season-opening action.",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T17:55:10Z"
-        },
-        {
-          "title": "Sens' Chabot (broken arm) could miss 2 months",
-          "link": "https://www.espn.com/nhl/story/_/id/48312859/senators-thomas-chabot-miss-2-months-broken-arm",
-          "summary": "Senators defenseman Thomas Chabot will miss up to two months with a broken arm, coach Travis Green announced on Thursday.",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T17:35:22Z"
-        },
-        {
-          "title": "World Series of Poker returning to ESPN in July",
-          "link": "https://www.espn.com/poker/story/_/id/48312536/world-series-poker-returning-espn-beginning-july-2",
-          "summary": "The World Series of Poker is returning to ESPN for the first time since 2021, with coverage of this year's main event from Las Vegas beginning July 2.",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T17:35:22Z"
-        },
-        {
-          "title": "Quad God rebounds from Olympics, leads worlds",
-          "link": "https://www.espn.com/olympics/figureskating/story/_/id/48312870/ilia-malinin-rebounds-olympics-leads-skating-worlds",
-          "summary": "Ilia Malinin bounced back from misfiring at the Milan Cortina Olympics by leading after the short program at the figure skating world championships.",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T17:35:22Z"
-        },
-        {
-          "title": "Brewers star OF Chourio set to miss 2-4 weeks",
-          "link": "https://www.espn.com/mlb/story/_/id/48312279/brewers-place-jackson-chourio-il-due-fractured-hand",
-          "summary": "The Brewers placed star outfielder Chourio on the 10-day injured list on Thursday because of a fractured left hand. The move was made retroactive to Wednesday.",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T17:35:22Z"
-        },
-        {
-          "title": "Brady on comeback: NFL didn't 'like that idea'",
-          "link": "https://www.espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
-          "summary": "Tom Brady says he explored the possibility of coming out of retirement and returning to the NFL, adding that the league did not \"like that idea very much.\"",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T17:35:21Z"
         }
       ]
     },
@@ -2827,7 +2827,7 @@
           "source_feed": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
           "section": "Entertainment",
           "section_key": "entertainment",
-          "timestamp": "2026-03-26T16:17:47Z"
+          "timestamp": "2026-03-26T17:27:45Z"
         },
         {
           "title": "Alexander Kluge, author and key film-maker in the New German Cinema movement, dies aged 94",
@@ -2996,7 +2996,19 @@
       "total_sources": 9,
       "stories": [
         {
-          "title": "Hillary Clinton to keynote New Hampshire event",
+          "title": "Blanche boasts of having \u2018cleaned house\u2019 at DOJ, FBI following Trump prosecutions",
+          "link": "https://thehill.com/homenews/administration/5802553-todd-blanche-cpac-doj-fbi-firings/",
+          "summary": "Deputy Attorney General Todd Blanche boasted Thursday about the number of firings at the Department of Justice (DOJ) and FBI, saying the administration had \u201ccleaned house\u201d by ou...",
+          "source": "The Hill",
+          "source_key": "the-hill",
+          "source_homepage": "https://thehill.com/",
+          "source_feed": "https://thehill.com/feed/",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T17:19:48Z"
+        },
+        {
+          "title": "Hillary Clinton to keynote New Hampshire Democrats fundraiser",
           "link": "https://thehill.com/homenews/state-watch/5802517-hillary-clinton-new-hampshire/",
           "summary": "Former Secretary of State Hillary Clinton (D) is set to speak at a major Democratic Party fundraiser in New Hampshire next month, the state party announced Thursday. Clinton is...",
           "source": "The Hill",
@@ -3102,18 +3114,6 @@
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
           "timestamp": "2026-03-26T16:50:41Z"
-        },
-        {
-          "title": "Mace to Trump: \u2018Take Lindsey Graham out of the Situation Room\u2019",
-          "link": "https://thehill.com/homenews/house/5802357-nancy-mace-donald-trump-lindsey-graham-middle-east-conflict/",
-          "summary": "Rep. Nancy Mace (R-S.C.) issued an indirect plea to President Trump on Wednesday to stop Sen. Lindsey Graham (R-S.C.) from advising on the conflict with Iran, as the senator pre...",
-          "source": "The Hill",
-          "source_key": "the-hill",
-          "source_homepage": "https://thehill.com/",
-          "source_feed": "https://thehill.com/feed/",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:49:42Z"
         },
         {
           "title": "Bitcoin trades narrow corridor as macro pressures throttle liquidity ahead of potential breakout: analysts",

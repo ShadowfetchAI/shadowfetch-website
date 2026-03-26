@@ -509,6 +509,8 @@ def build_site_context(config: dict, payload: dict, model: dict) -> dict:
     return {
         "visit_count": format_integer(fetch_counter_value()),
         "generated_at": escape(format_story_time(payload.get("generated_at"))),
+        "edition_stamp": escape(format_edition_stamp(payload.get("generated_at"))),
+        "edition_issue": escape(format_edition_issue(payload.get("generated_at"))),
         "breaking_ticker": render_breaking_ticker(model.get("latest", []), config.get("breaking_limit", 18)),
         "section_count": str(model.get("section_count", 0)),
         "source_count": str(model.get("source_count", 0)),
@@ -1949,19 +1951,34 @@ def render_brief_page(story: dict, model: dict, context: dict) -> str:
     related = related_stories_for_brief(story, model)
     coverage_links = story.get("coverage_links", [])
     why_it_matters = build_why_it_matters(story, model.get("topics_by_key", {}))
+    section_description = escape(section.get("description", "")) if section else ""
+    topics_markup = render_topic_chip_row(story.get("topics", [])) if story.get("topics") else "<p>No topic tags are attached to this brief yet.</p>"
+    coverage_markup = (
+        "".join(
+            f'<a class="source-chip" href="{coverage["path"]}">{escape(coverage["title"])} <span class="chip-count">{coverage["story_count"]}</span></a>'
+            for coverage in coverage_links
+        )
+        if coverage_links
+        else "<p>This story is not part of a broader cluster yet.</p>"
+    )
+    article_body = render_brief_article_body(story, why_it_matters, section_description)
 
     hero = f"""
-    <section class="container hero hero-compact">
+    <section class="container hero hero-compact article-header article-header-brief">
       <div class="hero-copy">
-        <p class="eyebrow">Story Brief</p>
+        <p class="eyebrow">From The {escape(story['section'])} Desk</p>
         <h1>{escape(story['title'])}</h1>
+        <p class="article-deck">{escape(story['summary'])}</p>
         <div class="story-meta story-meta-large">
           <a class="story-tag" href="{story['section_path']}">{escape(story['section'])}</a>
           <a class="story-source" href="{story['source_path']}">{escape(story['source'])}</a>
           <span class="story-time">{escape(story['display_time'])}</span>
           <span class="story-recency {escape(story['recency_class'])}">{escape(story['relative_time'])}</span>
+          <span class="story-recency story-recency-cool">{story.get('reading_time', '')}</span>
         </div>
-        <p class="hero-text">{escape(story['summary'])}</p>
+        <p class="hero-text">
+          A ShadowFetch brief gives readers the shape of the story first, then sends them to the original reporting for the full account.
+        </p>
         <div class="button-row">
           <a class="button button-primary" href="{story['link']}" target="_blank" rel="noreferrer noopener">Open original source</a>
           <a class="button button-secondary" href="{story['section_path']}">Back to {escape(story['section'])}</a>
@@ -1971,66 +1988,63 @@ def render_brief_page(story: dict, model: dict, context: dict) -> str:
           <a class="share-btn share-x" href="https://x.com/intent/tweet?text={parse.quote(story['title'])}&url=https://shadowfetch.com{story['brief_path']}" target="_blank" rel="noreferrer noopener">X / Twitter</a>
           <a class="share-btn share-bluesky" href="https://bsky.app/intent/compose?text={parse.quote(story['title'] + ' https://shadowfetch.com' + story['brief_path'])}" target="_blank" rel="noreferrer noopener">Bluesky</a>
         </div>
-        <p class="story-reading-time-brief">{story.get('reading_time', '')}</p>
       </div>
     </section>
     """
 
-    coverage_markup = (
-        "".join(
-            f'<a class="source-chip" href="{coverage["path"]}">{escape(coverage["title"])} <span class="chip-count">{coverage["story_count"]}</span></a>'
-            for coverage in coverage_links
-        )
-        if coverage_links
-        else "<p>This story is not part of a broader cluster yet.</p>"
-    )
-
-    topics_markup = render_topic_chip_row(story.get("topics", [])) if story.get("topics") else "<p>No topic tags are attached to this brief yet.</p>"
-    section_description = escape(section.get("description", "")) if section else ""
-
     main_markup = f"""
     <section class="container page-section">
-      <div class="brief-layout">
-        <article class="panel brief-panel">
-          <p class="panel-label">Why It Matters</p>
-          <h2>A quick frame before the click out</h2>
-          <p>{escape(why_it_matters)}</p>
-          <p class="brief-note">{section_description}</p>
-        </article>
-
-        <article class="panel brief-panel">
-          <p class="panel-label">Connected Coverage</p>
-          <h2>More ways to keep reading</h2>
-          <div class="stack-links">
-            <a class="social-panel-link" href="{story['source_path']}">
-              <span>Source Profile</span>
-              <strong>{escape(story['source'])}</strong>
-            </a>
-            <a class="social-panel-link" href="{story['date_path']}">
-              <span>Archive Day</span>
-              <strong>{escape(format_archive_date(story['date_key']))}</strong>
-            </a>
-            <a class="social-panel-link" href="/search/?q={parse.quote(story['title'])}">
-              <span>Search</span>
-              <strong>Find related pages</strong>
-            </a>
+      <div class="article-shell">
+        <article class="panel article-story">
+          <p class="panel-label">Story Brief</p>
+          <div class="article-body">
+            {article_body}
+          </div>
+          <div class="brief-archive-links">
+            <a class="story-link" href="{story['date_path']}">Archive day: {escape(format_archive_date(story['date_key']))}</a>
+            <a class="story-source-link" href="/search/?q={parse.quote(story['title'])}">Search this story across the site</a>
           </div>
         </article>
-      </div>
-    </section>
 
-    <section class="container page-section">
-      <div class="dual-grid">
-        <article class="panel">
-          <p class="panel-label">Topics</p>
-          <h2>Where this brief fits</h2>
-          {topics_markup}
-        </article>
-        <article class="panel">
-          <p class="panel-label">Coverage Links</p>
-          <h2>Related clusters</h2>
-          {coverage_markup}
-        </article>
+        <aside class="article-rail">
+          <article class="panel brief-panel">
+            <p class="panel-label">Clip File</p>
+            <h2>Where this story sits</h2>
+            <p>{escape(why_it_matters)}</p>
+            <p class="brief-note">{section_description}</p>
+          </article>
+
+          <article class="panel brief-panel">
+            <p class="panel-label">Further Reading</p>
+            <h2>Keep moving through the edition</h2>
+            <div class="stack-links">
+              <a class="social-panel-link" href="{story['source_path']}">
+                <span>Source Profile</span>
+                <strong>{escape(story['source'])}</strong>
+              </a>
+              <a class="social-panel-link" href="{story['section_path']}">
+                <span>Section Desk</span>
+                <strong>{escape(story['section'])}</strong>
+              </a>
+              <a class="social-panel-link" href="{story['link']}" target="_blank" rel="noreferrer noopener">
+                <span>Original Report</span>
+                <strong>Read the source story</strong>
+              </a>
+            </div>
+          </article>
+
+          <article class="panel brief-panel">
+            <p class="panel-label">Subject Tags</p>
+            <h2>Where this brief fits</h2>
+            {topics_markup}
+          </article>
+
+          <article class="panel brief-panel">
+            <p class="panel-label">Related Coverage</p>
+            <h2>Nearby clusters</h2>
+            {coverage_markup}
+          </article>
+        </aside>
       </div>
     </section>
 
@@ -2061,6 +2075,32 @@ def render_brief_page(story: dict, model: dict, context: dict) -> str:
         main_markup=main_markup,
         footer_copy="Brief pages add one more layer of context before the click out to the original source.",
     )
+
+
+def render_brief_article_body(story: dict, why_it_matters: str, section_description: str) -> str:
+    topic_titles = [topic.get("title", "") for topic in story.get("topics", []) if topic.get("title")]
+    topic_sentence = (
+        "The story also touches " + ", ".join(topic_titles[:3]) + "."
+        if topic_titles
+        else "Watch for follow-up reporting, reaction, and the next update from the source as this story develops."
+    )
+    desk_sentence = (
+        section_description
+        or f"This brief sits on the {story['section']} desk, where similar stories are being sorted into a more readable front-page shape."
+    )
+    source_sentence = (
+        f"The original reporting comes from {story['source']}. ShadowFetch keeps the brief short and readable, then points readers straight to the source story for the full account."
+    )
+
+    return f"""
+    <p class="article-lede">{escape(story['summary'])}</p>
+    <p>{escape(why_it_matters)}</p>
+    <h2>Why it made the edition</h2>
+    <p>{escape(desk_sentence)}</p>
+    <h2>What to watch next</h2>
+    <p>{escape(topic_sentence)}</p>
+    <p>{escape(source_sentence)}</p>
+    """
 
 
 def render_journal_post_page(post: dict, model: dict, context: dict) -> str:
@@ -2431,10 +2471,16 @@ def render_site_header(context: dict, nav_current: str) -> str:
     </div>
 
     <div class="masthead">
+      <div class="container masthead-edition">
+        <span>{context['edition_stamp']}</span>
+        <span>Late City Edition</span>
+        <span>{context['edition_issue']}</span>
+      </div>
       <div class="container masthead-wrap">
         <a class="brand" href="/" aria-label="ShadowFetch News home">
           <img src="/assets/shadowfetch-mark.svg" alt="" width="42" height="42">
           <span>
+            <small>The Digital Evening Paper</small>
             <strong>ShadowFetch News</strong>
             <small>An old-paper read on the modern day</small>
           </span>
@@ -3194,6 +3240,16 @@ def format_archive_date(date_key: str) -> str:
     day = str(parsed.day)
     year = parsed.strftime("%Y")
     return f"{month} {day}, {year}"
+
+
+def format_edition_stamp(value: str | None) -> str:
+    parsed = parse_timestamp(value)
+    return f"{parsed.strftime('%A')}, {parsed.strftime('%B')} {parsed.day}, {parsed.strftime('%Y')}"
+
+
+def format_edition_issue(value: str | None) -> str:
+    parsed = parse_timestamp(value)
+    return f"Vol. 1 \u2022 No. {parsed.timetuple().tm_yday:03d}"
 
 
 def format_integer(value: int) -> str:

@@ -93,11 +93,11 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/topics/conflict-watch/</loc>
+    <loc>https://shadowfetch.com/topics/power-policy/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/topics/power-policy/</loc>
+    <loc>https://shadowfetch.com/topics/conflict-watch/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -141,6 +141,10 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
+    <loc>https://shadowfetch.com/sources/espn-headlines/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
     <loc>https://shadowfetch.com/sources/al-jazeera/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
@@ -157,14 +161,6 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/sources/espn-mlb/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/sources/espn-headlines/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
     <loc>https://shadowfetch.com/sources/cnbc-top/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
@@ -177,6 +173,10 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
+    <loc>https://shadowfetch.com/sources/the-record/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
     <loc>https://shadowfetch.com/sources/the-guardian-environment/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
@@ -185,23 +185,11 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
+    <loc>https://shadowfetch.com/sources/espn-mlb/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
     <loc>https://shadowfetch.com/sources/bbc-science-environment/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/sources/the-record/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/sources/new-york-times-technology/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/sources/cisa-cybersecurity-advisories/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/sources/abc-news-top-stories/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -210,6 +198,22 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/sources/guardian-science/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/sources/cisa-cybersecurity-advisories/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/sources/bbc-news/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/sources/ars-technica/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/sources/abc-news-top-stories/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -222,6 +226,10 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/sources/the-block/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/sources/new-york-times-technology/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -241,19 +249,7 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/sources/bbc-news/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
     <loc>https://shadowfetch.com/sources/bbc-entertainment/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/sources/ars-technica/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/sources/pbs-science/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -266,6 +262,10 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/sources/bbc-world/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/sources/bbc-technology/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -306,6 +306,10 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/sources/pbs-world/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/sources/pbs-science/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -389,10 +393,6 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/sources/bbc-technology/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
     <loc>https://shadowfetch.com/sources/bbc-sport/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
@@ -421,7 +421,11 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/coverage/trump-slams-starmer-s-reaction-to-iran-war-and-questions-u-k-cluster-cea228/</loc>
+    <loc>https://shadowfetch.com/coverage/iran-live-updates-trump-renews-iran-threats-urges-deal-befor-cluster-1f3bb4/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/coverage/us-official-accuses-china-of-supporting-exploiting-cyber-sca-cluster-b619df/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -434,10 +438,6 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/coverage/witkoff-says-u-s-presented-iran-with-15-point-plan-for-poten-cluster-3b855d/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/coverage/hegseth-says-he-welcomes-deal-with-iran-but-pentagon-will-ke-cluster-a51064/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -457,11 +457,43 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
+    <loc>https://shadowfetch.com/briefs/brady-on-comeback-nfl-didn-t-like-that-idea-a403894b/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/lsu-lures-wade-back-as-it-fires-coach-mcmahon-980f1096/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/quad-god-rebounds-from-olympics-leads-worlds-eae42dd1/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/amputee-cornhole-player-waives-right-to-hearing-f503d513/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/qb-simpson-says-he-s-absolutely-1st-round-pick-7544e477/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/sens-chabot-broken-arm-could-miss-2-months-18826196/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/world-series-of-poker-returning-to-espn-in-july-7d4ff39c/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
     <loc>https://shadowfetch.com/briefs/updated-nba-rookie-rankings-why-the-roy-race-is-all-but-over-0ad5e7c0/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
     <loc>https://shadowfetch.com/briefs/nba-power-rankings-the-thunder-reign-while-east-teams-rise-01895de9/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/brewers-star-of-chourio-set-to-miss-2-4-weeks-a092d156/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -481,35 +513,27 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/yanks-cole-to-start-season-on-15-day-il-not-60-fade9b36/</loc>
+    <loc>https://shadowfetch.com/briefs/my-brief-weird-time-with-the-samsung-trifold-607a2114/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/phils-crawford-son-of-ex-major-leaguer-to-start-1314a8d4/</loc>
+    <loc>https://shadowfetch.com/briefs/us-official-accuses-china-of-supporting-exploiting-cyber-scam-crisis-i-b619dfaf/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/everything-you-need-for-opening-day-what-we-re-watching-lineups-and-up-cd74fe0c/</loc>
+    <loc>https://shadowfetch.com/briefs/elon-musk-s-x-advertising-boycott-lawsuit-dismissed-by-us-judge-f93a4736/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/sens-chabot-broken-arm-could-miss-2-months-18826196/</loc>
+    <loc>https://shadowfetch.com/briefs/iran-live-updates-trump-renews-iran-threats-urges-deal-before-it-is-to-1f3bb4eb/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/world-series-of-poker-returning-to-espn-in-july-7d4ff39c/</loc>
+    <loc>https://shadowfetch.com/briefs/police-force-reopens-investigation-into-andrew-tate-abuse-claims-dcb26801/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/quad-god-rebounds-from-olympics-leads-worlds-eae42dd1/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/briefs/brewers-star-of-chourio-set-to-miss-2-4-weeks-a092d156/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/briefs/brady-on-comeback-nfl-didn-t-like-that-idea-a403894b/</loc>
+    <loc>https://shadowfetch.com/briefs/the-kennedy-center-is-giving-bill-maher-the-mark-twain-prize-99e06168/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -521,7 +545,7 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/united-airlines-flight-attendants-reach-labor-deal-for-first-raises-si-8005de75/</loc>
+    <loc>https://shadowfetch.com/briefs/blanche-boasts-of-having-cleaned-house-at-doj-fbi-following-trump-pros-af6cb7c8/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -530,6 +554,10 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/briefs/witkoff-says-u-s-presented-iran-with-15-point-plan-for-potential-peace-3b855d61/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/orban-s-hungarian-government-accused-of-mass-voter-intimidation-ahead--e3b9a961/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -549,7 +577,7 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/hillary-clinton-to-keynote-new-hampshire-event-e824d195/</loc>
+    <loc>https://shadowfetch.com/briefs/hillary-clinton-to-keynote-new-hampshire-democrats-fundraiser-e824d195/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -617,19 +645,19 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/mace-to-trump-take-lindsey-graham-out-of-the-situation-room-5fa155a0/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
     <loc>https://shadowfetch.com/briefs/the-best-deals-we-ve-found-from-amazon-s-big-spring-sale-so-far-98dfd42a/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/iran-live-updates-trump-renews-iran-threats-urges-deal-before-it-is-to-1f3bb4eb/</loc>
+    <loc>https://shadowfetch.com/briefs/details-revealed-of-board-of-peace-plan-for-gaza-disarmament-620fcaa4/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/details-revealed-of-board-of-peace-plan-for-gaza-disarmament-620fcaa4/</loc>
+    <loc>https://shadowfetch.com/briefs/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus-07063386/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/more-than-13-million-living-in-poverty-new-figures-show-17c9a51e/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -701,7 +729,15 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
+    <loc>https://shadowfetch.com/briefs/openai-indefinitely-shelves-plans-for-erotic-chatgpt-0a08ea19/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
     <loc>https://shadowfetch.com/briefs/don-t-panic-five-ways-to-stop-your-kids-endless-scrolling-fe8954ec/</loc>
+    <lastmod>2026-03-26</lastmod>
+  </url>
+  <url>
+    <loc>https://shadowfetch.com/briefs/mlb-faces-a-historic-shift-as-potential-lockout-media-rights-and-other-4b1d1630/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -709,19 +745,7 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/the-kennedy-center-is-giving-bill-maher-the-mark-twain-prize-99e06168/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/briefs/live-abc-news-live-c4625905/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
     <loc>https://shadowfetch.com/briefs/everyone-hates-ticketmaster-why-d-trump-go-easy-on-them-20bec740/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/briefs/ns-i-boss-replaced-as-savers-left-waiting-for-millions-of-pounds-c33bfb5f/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -793,14 +817,6 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/u-s-accuses-newyork-presbyterian-of-reaching-deals-that-kept-costs-hig-d459a71e/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/briefs/juries-take-the-lead-in-the-push-for-child-online-safety-99f65a92/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
     <loc>https://shadowfetch.com/briefs/hair-compost-sugar-waxes-and-refillable-shampoo-inside-a-california-lo-d96f7200/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
@@ -817,10 +833,6 @@
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
-    <loc>https://shadowfetch.com/briefs/the-corvette-e-ray-is-dead-long-live-the-grand-sport-x-155bb8eb/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
     <loc>https://shadowfetch.com/briefs/la-nasa-anuncia-la-cobertura-de-la-de-la-primera-misi-n-tripulada-arte-4e161de9/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
@@ -830,10 +842,6 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/briefs/d-boon-s-death-shook-punk-rock-40-years-later-minutemen-look-back-1c617c57/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/briefs/air-canada-ceo-deeply-saddened-his-poor-french-skills-distracted-from--4e1caf1b/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -874,10 +882,6 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/briefs/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers-35796088/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/briefs/why-a-two-seater-robotaxi-makes-more-sense-than-you-think-507bc3ca/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -926,10 +930,6 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/briefs/opencode-systems-oc-messaging-and-ussd-gateway-0a0c57e1/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/briefs/wago-gmbh-co-kg-industrial-managed-switches-da4008f9/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>
@@ -1038,10 +1038,6 @@
   </url>
   <url>
     <loc>https://shadowfetch.com/briefs/heat-pumps-for-all-new-homes-and-plug-in-solar-in-green-tech-drive-afda27bc/</loc>
-    <lastmod>2026-03-26</lastmod>
-  </url>
-  <url>
-    <loc>https://shadowfetch.com/briefs/did-you-remember-to-pack-the-antimatter-cern-takes-antiprotons-for-a-s-758137b2/</loc>
     <lastmod>2026-03-26</lastmod>
   </url>
   <url>

@@ -1830,9 +1830,49 @@
     "keywords": "Sports"
   },
   {
-    "title": "BBC Sport",
+    "title": "The Athletic",
+    "summary": "Appearing across Sports, with 3 recent stories on the site.",
+    "path": "/sources/the-athletic/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "3 recent stories",
+    "timestamp": "2026-03-24T13:00:48Z",
+    "keywords": "Sports"
+  },
+  {
+    "title": "NPR Politics",
+    "summary": "Appearing across Politics, with 3 recent stories on the site.",
+    "path": "/sources/npr-politics/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "3 recent stories",
+    "timestamp": "2026-03-24T11:18:28Z",
+    "keywords": "U.S. & Politics"
+  },
+  {
+    "title": "NASA Earth",
+    "summary": "Appearing across Science, Climate, with 3 recent stories on the site.",
+    "path": "/sources/nasa-earth/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "3 recent stories",
+    "timestamp": "2026-03-23T18:10:21Z",
+    "keywords": "Science & Space Climate & Environment"
+  },
+  {
+    "title": "Cointelegraph",
+    "summary": "Appearing across Crypto, with 3 recent stories on the site.",
+    "path": "/sources/cointelegraph/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "3 recent stories",
+    "timestamp": "2026-03-24T12:30:00Z",
+    "keywords": "Crypto & Finance"
+  },
+  {
+    "title": "ESPN NFL",
     "summary": "Appearing across Sports, with 2 recent stories on the site.",
-    "path": "/sources/bbc-sport/",
+    "path": "/sources/espn-nfl/",
     "type": "Source",
     "section": "Sources",
     "source": "2 recent stories",
@@ -1970,9 +2010,9 @@
     "keywords": "Business & Markets"
   },
   {
-    "title": "Schneier on Security",
-    "summary": "Appearing across Security, with 0 recent stories on the site.",
-    "path": "/sources/schneier-on-security/",
+    "title": "Reuters World",
+    "summary": "Appearing across World, with 0 recent stories on the site.",
+    "path": "/sources/reuters-world/",
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
@@ -2092,7 +2132,7 @@
   {
     "title": "NASA Technology",
     "summary": "Appearing across Tech, with 0 recent stories on the site.",
-    "path": "/sources/nasa-technology/",
+    "path": "/sources/reuters-technology/",
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",

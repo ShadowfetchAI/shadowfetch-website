@@ -86,9 +86,14 @@
           "homepage": "https://www.bbc.com/news"
         },
         {
-          "name": "New York Times Home",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-          "homepage": "https://www.nytimes.com/"
+          "name": "Reuters Top News",
+          "url": "https://feeds.reuters.com/reuters/topNews",
+          "homepage": "https://www.reuters.com"
+        },
+        {
+          "name": "AP Top News",
+          "url": "https://feeds.apnews.com/rss/apf-topnews",
+          "homepage": "https://apnews.com"
         },
         {
           "name": "NPR News",
@@ -124,9 +129,24 @@
           "homepage": "https://www.bbc.com/news/world"
         },
         {
-          "name": "New York Times World",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-          "homepage": "https://www.nytimes.com/section/world"
+          "name": "Reuters World",
+          "url": "https://feeds.reuters.com/reuters/worldNews",
+          "homepage": "https://www.reuters.com/world/"
+        },
+        {
+          "name": "AP World",
+          "url": "https://feeds.apnews.com/rss/apf-intlnews",
+          "homepage": "https://apnews.com/world-news"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/rss",
+          "homepage": "https://www.theguardian.com/world"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "homepage": "https://www.aljazeera.com"
         },
         {
           "name": "NPR World",
@@ -167,14 +187,24 @@
       "description": "Corporate, economic, policy, and market-moving updates with institutional range.",
       "sources": [
         {
+          "name": "Reuters Business",
+          "url": "https://feeds.reuters.com/reuters/businessNews",
+          "homepage": "https://www.reuters.com/business/"
+        },
+        {
           "name": "BBC Business",
           "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
           "homepage": "https://www.bbc.com/news/business"
         },
         {
-          "name": "New York Times Business",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-          "homepage": "https://www.nytimes.com/section/business"
+          "name": "AP Business",
+          "url": "https://feeds.apnews.com/rss/apf-business",
+          "homepage": "https://apnews.com/business"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+          "homepage": "https://www.marketwatch.com"
         },
         {
           "name": "CNBC Top",
@@ -278,11 +308,6 @@
           "homepage": "https://www.nasa.gov/missions/artemis/"
         },
         {
-          "name": "NIH News Releases",
-          "url": "https://www.nih.gov/news-releases/feed.xml",
-          "homepage": "https://www.nih.gov/news-events/news-releases"
-        },
-        {
           "name": "NASA Earth",
           "url": "https://www.nasa.gov/earth/feed/",
           "homepage": "https://www.nasa.gov/earth/"
@@ -306,9 +331,14 @@
       "description": "Climate, weather, oceans, energy transition, and environmental policy.",
       "sources": [
         {
-          "name": "New York Times Climate",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
-          "homepage": "https://www.nytimes.com/section/climate"
+          "name": "BBC Science & Environment",
+          "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+          "homepage": "https://www.bbc.com/news/science_and_environment"
+        },
+        {
+          "name": "The Guardian Environment",
+          "url": "https://www.theguardian.com/environment/rss",
+          "homepage": "https://www.theguardian.com/environment"
         },
         {
           "name": "NASA Earth",
@@ -377,11 +407,6 @@
           "homepage": "https://www.bbc.com/news/health"
         },
         {
-          "name": "NIMH Main Feed",
-          "url": "https://www.nimh.nih.gov/site-info/index-rss.atom",
-          "homepage": "https://www.nimh.nih.gov/news"
-        },
-        {
           "name": "WHO News",
           "url": "https://www.who.int/rss-feeds/news-english.xml",
           "homepage": "https://www.who.int/news"
@@ -410,14 +435,34 @@
       "description": "A broad sports wire for big events, major leagues, and fast-moving score-driven headlines.",
       "sources": [
         {
+          "name": "ESPN Headlines",
+          "url": "https://www.espn.com/espn/rss/news",
+          "homepage": "https://www.espn.com/"
+        },
+        {
+          "name": "ESPN MLB",
+          "url": "https://www.espn.com/espn/rss/mlb/news",
+          "homepage": "https://www.espn.com/mlb/"
+        },
+        {
+          "name": "ESPN NFL",
+          "url": "https://www.espn.com/espn/rss/nfl/news",
+          "homepage": "https://www.espn.com/nfl/"
+        },
+        {
+          "name": "ESPN NBA",
+          "url": "https://www.espn.com/espn/rss/nba/news",
+          "homepage": "https://www.espn.com/nba/"
+        },
+        {
           "name": "BBC Sport",
           "url": "https://feeds.bbci.co.uk/sport/rss.xml",
           "homepage": "https://www.bbc.com/sport"
         },
         {
-          "name": "BBC Sport Football",
-          "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-          "homepage": "https://www.bbc.com/sport/football"
+          "name": "AP Sports",
+          "url": "https://feeds.apnews.com/rss/apf-sports",
+          "homepage": "https://apnews.com/sports"
         },
         {
           "name": "ESPN Headlines",
@@ -466,19 +511,19 @@
       "description": "Government, elections, public policy, and the stories reshaping power.",
       "sources": [
         {
-          "name": "BBC Politics",
-          "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
-          "homepage": "https://www.bbc.com/news/politics"
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+          "homepage": "https://www.coindesk.com"
         },
         {
-          "name": "New York Times U.S.",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
-          "homepage": "https://www.nytimes.com/section/us"
+          "name": "The Block",
+          "url": "https://www.theblock.co/rss.xml",
+          "homepage": "https://www.theblock.co"
         },
         {
-          "name": "New York Times Politics",
-          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-          "homepage": "https://www.nytimes.com/section/politics"
+          "name": "Decrypt",
+          "url": "https://decrypt.co/feed",
+          "homepage": "https://decrypt.co"
         },
         {
           "name": "NPR Politics",

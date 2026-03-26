@@ -27,6 +27,7 @@ SEARCH_PATH = ROOT / "search" / "index.html"
 ARCHIVE_INDEX_PATH = ROOT / "archive" / "index.html"
 SOURCES_INDEX_PATH = ROOT / "sources" / "index.html"
 ROUNDUP_TODAY_PATH = ROOT / "roundups" / "today" / "index.html"
+JOURNAL_INDEX_PATH = ROOT / "journal" / "index.html"
 
 SECTION_ROOT = ROOT / "sections"
 TOPIC_ROOT = ROOT / "topics"
@@ -35,6 +36,8 @@ BRIEF_ROOT = ROOT / "briefs"
 COVERAGE_ROOT = ROOT / "coverage"
 ARCHIVE_ROOT = ROOT / "archive"
 ROUNDUP_ROOT = ROOT / "roundups"
+JOURNAL_ROOT = ROOT / "journal"
+JOURNAL_CONTENT_ROOT = ROOT / "content" / "journal"
 
 CNAME_PATH = ROOT / "CNAME"
 SITEMAP_PATH = ROOT / "sitemap.xml"
@@ -44,6 +47,7 @@ COUNTER_URL = "https://api.counterapi.dev/v1/shadowfetch-news/site-visits/"
 SOCIAL_X_URL = "https://x.com/MrBobCorbin"
 SOCIAL_BLUESKY_URL = "https://bsky.app/profile/mrbobcorbin.bsky.social"
 SOCIAL_KALSHI_URL = "https://kalshi.com/sign-up/?referral=6ca54e6d-a516-4918-bc0a-829b18f99f70"
+AUTHOR_NAME = "MrBobCorbin"
 
 STOPWORDS = {
     "about",
@@ -106,6 +110,7 @@ def main() -> None:
     build_coverage_pages(model, context)
     build_archive_pages(model, context)
     build_roundup_page(model, context)
+    build_journal_pages(model, context)
     build_search_index(config, model)
     build_sitemap(model)
     build_robots()
@@ -193,6 +198,7 @@ def build_site_model(config: dict, payload: dict) -> dict:
 
     archives = build_archive_days(stories)
     editors_picks = select_editor_picks(stories, config.get("editor_pick_limit", 4), topic_lookup)
+    journal_posts = load_journal_posts()
 
     return {
         "base_url": base_url,
@@ -208,6 +214,8 @@ def build_site_model(config: dict, payload: dict) -> dict:
         "sources_by_key": source_index,
         "archive_days": archives,
         "editors_picks": editors_picks,
+        "journal_posts": journal_posts,
+        "journal_posts_by_slug": {post["slug"]: post for post in journal_posts},
         "generated_at": payload.get("generated_at"),
         "section_count": len(section_configs),
         "source_count": len(sources),
@@ -498,6 +506,8 @@ def build_site_context(config: dict, payload: dict, model: dict) -> dict:
         "source_count": str(model.get("source_count", 0)),
         "topic_count": str(len(model.get("topics", []))),
         "story_count": str(len(model.get("stories", []))),
+        "brief_count": str(len(model.get("stories", []))),
+        "journal_count": str(len(model.get("journal_posts", []))),
     }
 
 
@@ -559,6 +569,11 @@ def build_primary_pages(config: dict, model: dict, context: dict) -> None:
     SOURCES_INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
     SOURCES_INDEX_PATH.write_text(
         render_sources_index_page(model, context),
+        encoding="utf-8",
+    )
+    JOURNAL_INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
+    JOURNAL_INDEX_PATH.write_text(
+        render_journal_index_page(model, context),
         encoding="utf-8",
     )
 
@@ -637,6 +652,18 @@ def build_roundup_page(model: dict, context: dict) -> None:
     )
 
 
+def build_journal_pages(model: dict, context: dict) -> None:
+    JOURNAL_ROOT.mkdir(parents=True, exist_ok=True)
+
+    for post in model.get("journal_posts", []):
+        page_dir = JOURNAL_ROOT / post["slug"]
+        page_dir.mkdir(parents=True, exist_ok=True)
+        (page_dir / "index.html").write_text(
+            render_journal_post_page(post, model, context),
+            encoding="utf-8",
+        )
+
+
 def build_search_index(config: dict, model: dict) -> None:
     documents = []
     story_limit = int(config.get("search_story_limit", 180))
@@ -697,6 +724,20 @@ def build_search_index(config: dict, model: dict) -> None:
             }
         )
 
+    for post in model.get("journal_posts", []):
+        documents.append(
+            {
+                "title": post["title"],
+                "summary": post["description"],
+                "path": post["path"],
+                "type": "Journal",
+                "section": "Journal",
+                "source": post["author"],
+                "timestamp": post["timestamp"],
+                "keywords": " ".join(post.get("tags", [])),
+            }
+        )
+
     SEARCH_INDEX_PATH.write_text(json.dumps(documents, indent=2), encoding="utf-8")
 
 
@@ -706,6 +747,7 @@ def build_sitemap(model: dict) -> None:
         "/",
         "/latest/",
         "/sections/",
+        "/journal/",
         "/about/",
         "/topics/",
         "/search/",
@@ -719,6 +761,7 @@ def build_sitemap(model: dict) -> None:
     routes.extend(cluster["path"] for cluster in model.get("coverage", []))
     routes.extend(day["path"] for day in model.get("archive_days", []))
     routes.extend(story["brief_path"] for story in model.get("stories", []))
+    routes.extend(post["path"] for post in model.get("journal_posts", []))
 
     now = datetime.now(timezone.utc).date().isoformat()
     entries = "\n".join(
@@ -747,25 +790,253 @@ Sitemap: {base_url}/sitemap.xml
     ROBOTS_PATH.write_text(robots, encoding="utf-8")
 
 
+def load_journal_posts() -> list[dict]:
+    if not JOURNAL_CONTENT_ROOT.exists():
+        return []
+
+    posts = []
+    for path in JOURNAL_CONTENT_ROOT.glob("*.md"):
+        metadata, body = parse_front_matter(path.read_text(encoding="utf-8"))
+        title = metadata.get("title") or path.stem.replace("-", " ").title()
+        slug = slugify(metadata.get("slug", "") or title)
+        parsed_timestamp = parse_timestamp(
+            metadata.get("date", "") or datetime.fromtimestamp(path.stat().st_mtime, timezone.utc).isoformat()
+        )
+        timestamp = parsed_timestamp.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+        body_html = markdown_to_html(body)
+        plain_text = strip_html(body_html)
+        deck = metadata.get("deck") or metadata.get("description") or summarize_plain_text(plain_text, 180)
+        description = metadata.get("description") or deck
+        tags = parse_tag_list(metadata.get("tags", ""))
+        author = metadata.get("author") or AUTHOR_NAME
+        word_count = len(re.findall(r"\b[\w'-]+\b", plain_text))
+        reading_time = max(1, round(word_count / 220)) if word_count else 1
+        posts.append(
+            {
+                "title": title,
+                "slug": slug,
+                "path": f"/journal/{slug}/",
+                "timestamp": timestamp,
+                "display_date": format_archive_date(timestamp[:10]),
+                "deck": deck,
+                "description": description,
+                "author": author,
+                "tags": tags,
+                "featured": parse_bool(metadata.get("featured", "")),
+                "reading_time": reading_time,
+                "body_html": body_html,
+            }
+        )
+
+    posts.sort(key=lambda post: (post["featured"], post["timestamp"]), reverse=True)
+    return posts
+
+
+def parse_front_matter(raw_text: str) -> tuple[dict[str, str], str]:
+    if not raw_text.startswith("---\n"):
+        return {}, raw_text.strip()
+
+    match = re.match(r"^---\n(.*?)\n---\n?(.*)$", raw_text, re.S)
+    if not match:
+        return {}, raw_text.strip()
+
+    raw_meta, body = match.groups()
+    metadata: dict[str, str] = {}
+    for line in raw_meta.splitlines():
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        metadata[key.strip().lower()] = value.strip()
+    return metadata, body.strip()
+
+
+def markdown_to_html(markdown_text: str) -> str:
+    if not markdown_text.strip():
+        return "<p>The journal entry is waiting for its first draft.</p>"
+
+    lines = markdown_text.splitlines()
+    blocks: list[str] = []
+    index = 0
+
+    while index < len(lines):
+        line = lines[index].rstrip()
+        stripped = line.strip()
+
+        if not stripped:
+            index += 1
+            continue
+
+        if stripped.startswith("```"):
+            language = stripped[3:].strip()
+            index += 1
+            code_lines = []
+            while index < len(lines) and not lines[index].strip().startswith("```"):
+                code_lines.append(lines[index])
+                index += 1
+            if index < len(lines):
+                index += 1
+            class_attr = f' class="language-{escape(language)}"' if language else ""
+            code_text = "\n".join(code_lines)
+            blocks.append(f"<pre><code{class_attr}>{escape(code_text)}</code></pre>")
+            continue
+
+        heading = re.match(r"^(#{1,6})\s+(.+)$", stripped)
+        if heading:
+            level = len(heading.group(1))
+            blocks.append(f"<h{level}>{render_inline_markdown(heading.group(2).strip())}</h{level}>")
+            index += 1
+            continue
+
+        if re.match(r"^---+$", stripped):
+            blocks.append("<hr>")
+            index += 1
+            continue
+
+        if stripped.startswith(">"):
+            quote_lines = []
+            while index < len(lines) and lines[index].strip().startswith(">"):
+                quote_lines.append(lines[index].strip()[1:].strip())
+                index += 1
+            quote_text = " ".join(part for part in quote_lines if part)
+            blocks.append(f"<blockquote><p>{render_inline_markdown(quote_text)}</p></blockquote>")
+            continue
+
+        unordered = re.match(r"^[-*]\s+(.+)$", stripped)
+        ordered = re.match(r"^\d+\.\s+(.+)$", stripped)
+        if unordered or ordered:
+            list_tag = "ul" if unordered else "ol"
+            items = []
+            matcher = r"^[-*]\s+(.+)$" if unordered else r"^\d+\.\s+(.+)$"
+            while index < len(lines):
+                candidate = lines[index].strip()
+                match = re.match(matcher, candidate)
+                if not match:
+                    break
+                items.append(f"<li>{render_inline_markdown(match.group(1).strip())}</li>")
+                index += 1
+            blocks.append(f"<{list_tag}>{''.join(items)}</{list_tag}>")
+            continue
+
+        paragraph_lines = []
+        while index < len(lines):
+            candidate = lines[index].strip()
+            if (
+                not candidate
+                or candidate.startswith("```")
+                or candidate.startswith(">")
+                or re.match(r"^(#{1,6})\s+(.+)$", candidate)
+                or re.match(r"^---+$", candidate)
+                or re.match(r"^[-*]\s+(.+)$", candidate)
+                or re.match(r"^\d+\.\s+(.+)$", candidate)
+            ):
+                break
+            paragraph_lines.append(candidate)
+            index += 1
+        paragraph = " ".join(paragraph_lines)
+        if paragraph:
+            blocks.append(f"<p>{render_inline_markdown(paragraph)}</p>")
+
+    return "\n".join(blocks)
+
+
+def render_inline_markdown(text: str) -> str:
+    if not text:
+        return ""
+
+    replacements: dict[str, str] = {}
+
+    def stash(value: str) -> str:
+        key = f"__md_token_{len(replacements)}__"
+        replacements[key] = value
+        return key
+
+    text = re.sub(
+        r"\[([^\]]+)\]\(([^)]+)\)",
+        lambda match: stash(
+            f'<a href="{escape(safe_markdown_href(match.group(2).strip()))}">{escape(match.group(1).strip())}</a>'
+        ),
+        text,
+    )
+    text = re.sub(
+        r"`([^`]+)`",
+        lambda match: stash(f"<code>{escape(match.group(1))}</code>"),
+        text,
+    )
+    text = re.sub(
+        r"\*\*([^*]+)\*\*",
+        lambda match: stash(f"<strong>{escape(match.group(1))}</strong>"),
+        text,
+    )
+    text = re.sub(
+        r"(?<!\*)\*([^*]+)\*(?!\*)",
+        lambda match: stash(f"<em>{escape(match.group(1))}</em>"),
+        text,
+    )
+
+    rendered = escape(text)
+    for key, value in replacements.items():
+        rendered = rendered.replace(key, value)
+    return rendered
+
+
+def safe_markdown_href(value: str) -> str:
+    if value.startswith("/"):
+        return value
+    return safe_url(value)
+
+
+def parse_tag_list(value: str) -> list[str]:
+    cleaned = value.strip().strip("[]")
+    if not cleaned:
+        return []
+    return [part.strip().strip("'\"") for part in cleaned.split(",") if part.strip()]
+
+
+def strip_html(value: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", value)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def summarize_plain_text(text: str, limit: int) -> str:
+    if len(text) <= limit:
+        return text
+    return f"{text[: limit - 3].strip()}..."
+
+
+def parse_bool(value: str) -> bool:
+    return value.strip().lower() in {"1", "true", "yes", "on"}
+
+
+def related_journal_posts(post: dict, posts: list[dict], limit: int = 3) -> list[dict]:
+    def score(candidate: dict) -> tuple[int, str]:
+        overlap = len(set(post.get("tags", [])) & set(candidate.get("tags", [])))
+        return overlap, candidate.get("timestamp", "")
+
+    related = [candidate for candidate in posts if candidate["slug"] != post["slug"]]
+    related.sort(key=score, reverse=True)
+    return related[:limit]
+
+
 def render_home_page(config: dict, model: dict, context: dict, latest_limit: int) -> str:
     featured = model.get("featured", [])[:4]
     sections = model.get("sections", [])
     coverage = model.get("coverage", [])
     topics = model.get("topics", [])[:6]
     editors_picks = model.get("editors_picks", [])
+    journal_posts = model.get("journal_posts", [])[:3]
 
     hero = f"""
     <section class="container hero hero-home">
       <div class="hero-copy">
-        <p class="eyebrow">Late-breaking coverage across the stories driving the day.</p>
-        <h1>One front page for the headlines shaping politics, markets, science, culture, and everything moving fast.</h1>
+        <p class="eyebrow">Morning Edition</p>
+        <h1>The day’s biggest stories, laid out with the calm of an old paper and the speed of a live wire.</h1>
         <p class="hero-text">
-          ShadowFetch News now reads more like a newsroom: live briefs, topic hubs, source profiles,
-          deeper desks, a faster archive, and cleaner paths from a headline into the broader story.
+          ShadowFetch News is now built as a broad front page: major-source headlines, cleaner desks,
+          a source-first wire, and a journal where your own columns and dispatches can live beside the news.
         </p>
         <div class="hero-actions">
-          <a class="button button-primary" href="/latest/">Open the live wire</a>
-          <a class="button button-secondary" href="/topics/">Track the big stories</a>
+          <a class="button button-primary" href="/latest/">Open the newswire</a>
+          <a class="button button-secondary" href="/journal/">Read the journal</a>
         </div>
         {render_search_form("", "hero")}
         <div class="hero-stats">
@@ -778,35 +1049,35 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
             <strong>{context['source_count']}</strong>
           </article>
           <article>
-            <span class="stat-label">Topics</span>
-            <strong>{context['topic_count']}</strong>
+            <span class="stat-label">Briefs</span>
+            <strong>{context['brief_count']}</strong>
           </article>
           <article>
-            <span class="stat-label">Briefs</span>
-            <strong>{context['story_count']}</strong>
+            <span class="stat-label">Journal</span>
+            <strong>{context['journal_count']}</strong>
           </article>
         </div>
       </div>
 
       <aside class="panel hero-note">
-        <p class="panel-label">Today At A Glance</p>
-        <h2>ShadowFetch now has more ways to follow the same day.</h2>
+        <p class="panel-label">From The Editor’s Desk</p>
+        <h2>Give the site a voice, not just a wire.</h2>
         <p>
-          Start with the front page, jump into topic hubs when a story keeps growing,
-          open briefs for extra context, or move desk by desk when you want a cleaner read on one beat.
+          The homepage handles the headlines. The journal is where you can publish takes, roundups,
+          essays, market notes, or whatever deserves your own byline.
         </p>
         <div class="stack-links">
-          <a class="social-panel-link" href="/roundups/today/">
-            <span>Daily Roundup</span>
-            <strong>Open today’s editor package</strong>
+          <a class="social-panel-link" href="/journal/">
+            <span>Journal</span>
+            <strong>Open your columns and dispatches</strong>
           </a>
-          <a class="social-panel-link" href="/archive/">
-            <span>Archive</span>
-            <strong>Browse the day by timestamp</strong>
+          <a class="social-panel-link" href="{SOCIAL_X_URL}" target="_blank" rel="noreferrer noopener">
+            <span>X / Twitter</span>
+            <strong>@MrBobCorbin</strong>
           </a>
-          <a class="social-panel-link" href="/sources/">
-            <span>Sources</span>
-            <strong>See who powers the page</strong>
+          <a class="social-panel-link" href="{SOCIAL_BLUESKY_URL}" target="_blank" rel="noreferrer noopener">
+            <span>Bluesky</span>
+            <strong>mrbobcorbin.bsky.social</strong>
           </a>
         </div>
       </aside>
@@ -821,8 +1092,8 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
           <h2>The strongest read on the day</h2>
         </div>
         <p class="section-copy">
-          A bigger hierarchy now separates the main lead, the next layer of consequential stories,
-          and the fastest routes into briefs, sections, and topic coverage.
+          The top package now reads more like a front page: one big lead, a secondary layer,
+          and cleaner routes into the desks, topics, and deeper briefs behind it.
         </p>
       </div>
       {render_featured_grid(featured)}
@@ -830,9 +1101,9 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
 
     <section class="container page-section">
       <div class="quicklink-grid">
-        {render_quicklink_card("Late Breaking", "The densest live stream across every section.", "/latest/")}
+        {render_quicklink_card("Newswire", "The fastest scan across every desk on the site.", "/latest/")}
+        {render_quicklink_card("Journal", "Your byline, columns, and blog posts in one place.", "/journal/")}
         {render_quicklink_card("Topics", "Follow the bigger story lines instead of one-off headlines.", "/topics/")}
-        {render_quicklink_card("Roundup", "Open the day’s editor-style package in one pass.", "/roundups/today/")}
         {render_quicklink_card("Archive", "Browse stories by date and time when you need the timeline.", "/archive/")}
       </div>
     </section>
@@ -848,6 +1119,19 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
         </p>
       </div>
       {render_developing_grid(coverage, topics)}
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Journal</p>
+          <h2>Columns, dispatches, and your own point of view</h2>
+        </div>
+        <p class="section-copy">
+          The journal is the piece that turns ShadowFetch from an aggregator into a publication with a voice.
+        </p>
+      </div>
+      {render_journal_grid(journal_posts)}
     </section>
 
     <section class="container page-section">
@@ -879,9 +1163,9 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
     <section class="container page-section">
       <div class="social-shell">
         <article class="panel follow-card">
-          <p class="panel-label">Follow Along</p>
-          <h2>Keep ShadowFetch in your orbit.</h2>
-          <p>Readers can find your accounts without hunting for them, and the links now sit in the header and in a dedicated promo block.</p>
+          <p class="panel-label">Follow The Masthead</p>
+          <h2>Make it easy for readers to find you.</h2>
+          <p>Your X, Bluesky, and Kalshi links stay in the top strip, live in the follow blocks, and now sit beside the journal where your own voice lives.</p>
           <div class="stack-links">
             <a class="social-panel-link" href="{SOCIAL_X_URL}" target="_blank" rel="noreferrer noopener">
               <span>X / Twitter</span>
@@ -899,10 +1183,10 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
         </article>
 
         <article class="panel tip-card">
-          <p class="panel-label">Search & Source</p>
-          <h2>Find the angle you need faster.</h2>
+          <p class="panel-label">Read The Day Your Way</p>
+          <h2>Move from the front page into deeper lanes.</h2>
           <p>
-            Search now reaches into briefs, topic pages, source pages, and developing coverage pages, which makes the site much easier to navigate once it grows.
+            Search reaches into briefs, journal posts, topic pages, source pages, and developing coverage pages, which makes the whole site feel closer to a real newspaper archive.
           </p>
           <div class="button-row">
             <a class="button button-secondary" href="/search/">Open Search</a>
@@ -919,7 +1203,7 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
           <h2>All the desks in one pass</h2>
         </div>
         <p class="section-copy">
-          Section pages now feed the larger newsroom shell, so each desk has a lead, its own source wall, and a cleaner stack of briefs.
+          Every desk now pulls from a wider pool of major feeds, which gives the site stronger breadth without losing the front-page shape.
         </p>
       </div>
       {render_section_overview_grid(sections, 3)}
@@ -928,11 +1212,11 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
     <section class="container page-section">
       <div class="section-heading">
         <div>
-          <p class="eyebrow">Late Breaking</p>
+          <p class="eyebrow">Newswire</p>
           <h2>The live wire</h2>
         </div>
         <p class="section-copy">
-          Use the filter buttons to narrow the stream by beat while keeping the same page fast and readable.
+          Use the filter buttons to narrow the stream by beat while keeping the page fast, legible, and closer to a clean newswire than a chaotic feed dump.
         </p>
       </div>
       {render_filter_toolbar(sections, "home-filter-toolbar", "home-latest-grid", "home-latest-summary")}
@@ -944,15 +1228,15 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
     """
 
     return page_shell(
-        title="ShadowFetch News | Late-Breaking Headlines Across Every Beat",
-        description="A broadened ShadowFetch News front page with late-breaking coverage, briefs, topic pages, source profiles, archive pages, and a stronger newsroom-style hierarchy.",
+        title="ShadowFetch News | A Newspaper-Style Front Page For The Modern Day",
+        description="A broad newspaper-style front page with major-source headlines, a cleaner newswire, topic desks, archives, and a built-in journal for original writing.",
         canonical_path="/",
         context=context,
         nav_current="home",
         page_key="home",
         hero_markup=hero,
         main_markup=main_markup,
-        footer_copy="A broader front page with briefs, topics, source pages, archives, and cleaner ways to follow the day.",
+        footer_copy="A newspaper-style front page with broader source coverage, a calmer layout, and a journal for original writing.",
     )
 
 
@@ -964,11 +1248,11 @@ def render_latest_page(config: dict, model: dict, context: dict, latest_limit: i
     hero = f"""
     <section class="container hero hero-compact">
       <div class="hero-copy">
-        <p class="eyebrow">Live Archive</p>
+        <p class="eyebrow">Newswire</p>
         <h1>The fast stream, with better ways to cut through it.</h1>
         <p class="hero-text">
-          This page is still the highest-density headline view, but it now sits beside archive pages,
-          source profiles, and search so repeat visitors can move around the site with less friction.
+          This is the highest-density read on the site: a cleaner newswire beside the archive, the desks,
+          and the rest of the publication shell.
         </p>
         {render_search_form("", "inline")}
       </div>
@@ -1006,15 +1290,15 @@ def render_latest_page(config: dict, model: dict, context: dict, latest_limit: i
     """
 
     return page_shell(
-        title="Late Breaking | ShadowFetch News",
-        description="The late-breaking archive from ShadowFetch News, now paired with search, archive navigation, briefs, and developing-story coverage.",
+        title="Newswire | ShadowFetch News",
+        description="The ShadowFetch newswire, paired with search, archive navigation, briefs, and developing-story coverage.",
         canonical_path="/latest/",
         context=context,
         nav_current="latest",
         page_key="latest",
         hero_markup=hero,
         main_markup=main_markup,
-        footer_copy="The late-breaking page is built for fast repeat visits, cleaner filtering, and a quicker route into deeper coverage.",
+        footer_copy="The newswire is built for fast repeat visits, cleaner filtering, and a quicker route into deeper coverage.",
     )
 
 
@@ -1022,11 +1306,11 @@ def render_sections_page(model: dict, context: dict) -> str:
     hero = f"""
     <section class="container hero hero-compact">
       <div class="hero-copy">
-        <p class="eyebrow">Sections</p>
+        <p class="eyebrow">Desks</p>
         <h1>Every desk, its source mix, and the freshest briefs behind it.</h1>
         <p class="hero-text">
-          The section directory now works more like a newsroom map: each desk has a lead story,
-          a source mix, and a cleaner trail into the part of the news cycle readers care about most.
+          The desk directory works like a newsroom map: each beat has a lead story, a source mix,
+          and a cleaner trail into the part of the news cycle readers care about most.
         </p>
       </div>
     </section>
@@ -1067,7 +1351,7 @@ def render_sections_page(model: dict, context: dict) -> str:
     """
 
     return page_shell(
-        title="Sections | ShadowFetch News",
+        title="Desks | ShadowFetch News",
         description="Browse every ShadowFetch News desk, plus the sources and topic layers behind the section map.",
         canonical_path="/sections/",
         context=context,
@@ -1075,7 +1359,7 @@ def render_sections_page(model: dict, context: dict) -> str:
         page_key="sections",
         hero_markup=hero,
         main_markup=main_markup,
-        footer_copy="Section desks, source walls, and topic links make the broader site much easier to scan.",
+        footer_copy="Desk pages, source walls, and topic links make the broader site much easier to scan.",
     )
 
 
@@ -1084,10 +1368,10 @@ def render_about_page(model: dict, context: dict) -> str:
     <section class="container hero hero-compact">
       <div class="hero-copy">
         <p class="eyebrow">About</p>
-        <h1>A broad news front page built to help readers move from headline to context faster.</h1>
+        <h1>A broad news front page built to feel like a classic paper, only faster and easier to navigate.</h1>
         <p class="hero-text">
-          ShadowFetch News is now built around a fuller editorial shell: briefs for individual stories,
-          topic pages for ongoing threads, source profiles, section desks, search, and a day archive.
+          ShadowFetch News mixes a major-source wire with your own journal, section desks, source profiles,
+          topic pages, search, and a cleaner archive for readers who want both speed and shape.
         </p>
       </div>
     </section>
@@ -1100,23 +1384,23 @@ def render_about_page(model: dict, context: dict) -> str:
           <p class="panel-label">Mission</p>
           <h2>Make the day easier to read.</h2>
           <p>
-            The site is designed to help readers move quickly without losing the bigger picture:
-            broad sections, developing-story groupings, and briefs that add a little more context before the click out.
+            The goal is a calmer read on the modern news cycle: broader source coverage, a newspaper-style hierarchy,
+            and just enough structure to help readers move quickly without losing the bigger picture.
           </p>
         </article>
 
         <article class="panel about-card">
           <p class="panel-label">Editorial Shape</p>
-          <h2>Aggregation, but more organized.</h2>
+          <h2>Newswire plus byline.</h2>
           <p>
-            ShadowFetch now layers headline aggregation with story briefs, topic hubs, source profiles,
-            editor’s picks, and a daily roundup so the experience feels more like a publication than a feed wall.
+            ShadowFetch layers source-first aggregation with story briefs, topic hubs, source profiles,
+            editor’s picks, a daily roundup, and a full journal so the experience feels more like a publication than a feed wall.
           </p>
         </article>
 
         <article class="panel about-card">
           <p class="panel-label">Follow</p>
-          <h2>Find MrBobCorbin</h2>
+          <h2>Find {AUTHOR_NAME}</h2>
           <div class="stack-links">
             <a class="social-panel-link" href="{SOCIAL_X_URL}" target="_blank" rel="noreferrer noopener">
               <span>X / Twitter</span>
@@ -1129,6 +1413,10 @@ def render_about_page(model: dict, context: dict) -> str:
             <a class="social-panel-link" href="{SOCIAL_KALSHI_URL}" target="_blank" rel="noreferrer noopener">
               <span>Kalshi</span>
               <strong>Use your referral link</strong>
+            </a>
+            <a class="social-panel-link" href="/journal/">
+              <span>Journal</span>
+              <strong>Read the latest entries</strong>
             </a>
           </div>
         </article>
@@ -1153,14 +1441,14 @@ def render_about_page(model: dict, context: dict) -> str:
 
     return page_shell(
         title="About | ShadowFetch News",
-        description="About ShadowFetch News, including the broader newsroom structure, source model, and where to follow MrBobCorbin.",
+        description="About ShadowFetch News, including the newspaper-style front page, source model, journal, and where to follow MrBobCorbin.",
         canonical_path="/about/",
         context=context,
         nav_current="about",
         page_key="about",
         hero_markup=hero,
         main_markup=main_markup,
-        footer_copy="Built around broad coverage, clearer story paths, and a source mix meant to stay dependable over time.",
+        footer_copy="Built around broad coverage, clearer story paths, a nostalgic front-page rhythm, and a journal for original writing.",
     )
 
 
@@ -1219,9 +1507,9 @@ def render_search_page(model: dict, context: dict) -> str:
     <section class="container hero hero-compact">
       <div class="hero-copy">
         <p class="eyebrow">Search</p>
-        <h1>Search briefs, topics, sources, and developing coverage.</h1>
+        <h1>Search briefs, journal posts, topics, sources, and developing coverage.</h1>
         <p class="hero-text">
-          Search now gives the newsroom a much more useful discovery layer across briefs, topics, sources, and coverage pages.
+          Search now gives the newsroom a much more useful discovery layer across briefs, journal posts, topics, sources, and coverage pages.
         </p>
         {render_search_form("", "search")}
         <div class="source-row">{suggestions}</div>
@@ -1237,7 +1525,7 @@ def render_search_page(model: dict, context: dict) -> str:
             <p class="eyebrow">Results</p>
             <h2 data-search-title>Search the newsroom</h2>
           </div>
-          <p class="section-copy" data-search-summary>Type a topic, person, company, place, or source to pull up matching pages.</p>
+          <p class="section-copy" data-search-summary>Type a topic, person, company, place, source, or journal idea to pull up matching pages.</p>
         </div>
         <div class="search-results" id="search-results"></div>
         <p class="empty-card" id="search-empty">Enter a search above to explore the site.</p>
@@ -1247,14 +1535,14 @@ def render_search_page(model: dict, context: dict) -> str:
 
     return page_shell(
         title="Search | ShadowFetch News",
-        description="Search ShadowFetch News across briefs, topics, sources, and developing coverage pages.",
+        description="Search ShadowFetch News across briefs, journal posts, topics, sources, and developing coverage pages.",
         canonical_path="/search/",
         context=context,
         nav_current="search",
         page_key="search",
         hero_markup=hero,
         main_markup=main_markup,
-        footer_copy="Search reaches the site’s briefs, source pages, topic pages, and developing coverage hubs.",
+        footer_copy="Search reaches the site’s briefs, journal posts, source pages, topic pages, and developing coverage hubs.",
     )
 
 
@@ -1263,9 +1551,9 @@ def render_archive_index_page(model: dict, context: dict) -> str:
     <section class="container hero hero-compact">
       <div class="hero-copy">
         <p class="eyebrow">Archive</p>
-        <h1>Browse the briefing by date.</h1>
+        <h1>Browse the paper by date.</h1>
         <p class="hero-text">
-          Date pages make the site easier to use as a timeline instead of only a front page.
+          Date pages turn the site into a cleaner timeline instead of only a live homepage.
         </p>
       </div>
     </section>
@@ -1295,9 +1583,9 @@ def render_sources_index_page(model: dict, context: dict) -> str:
     <section class="container hero hero-compact">
       <div class="hero-copy">
         <p class="eyebrow">Sources</p>
-        <h1>Every source powering the site, with its own page and recent story trail.</h1>
+        <h1>Every outlet powering the page, with its own profile and recent story trail.</h1>
         <p class="hero-text">
-          Source pages make the feed mix legible instead of hidden behind cards.
+          Source pages make the mix legible instead of hiding it behind cards.
         </p>
       </div>
     </section>
@@ -1330,6 +1618,82 @@ def render_sources_index_page(model: dict, context: dict) -> str:
         hero_markup=hero,
         main_markup=main_markup,
         footer_copy="Source pages make the site’s feed mix much easier to understand and trust.",
+    )
+
+
+def render_journal_index_page(model: dict, context: dict) -> str:
+    journal_posts = model.get("journal_posts", [])
+    lead_post = journal_posts[0] if journal_posts else None
+
+    hero = f"""
+    <section class="container hero hero-compact">
+      <div class="hero-copy">
+        <p class="eyebrow">Journal</p>
+        <h1>Columns, dispatches, and blog posts under your own byline.</h1>
+        <p class="hero-text">
+          This is where ShadowFetch stops being only a wire. Use the journal for essays, market notes,
+          reaction posts, weekend reads, and sharper editorial voice.
+        </p>
+      </div>
+      <aside class="panel hero-note">
+        <p class="panel-label">Follow The Writer</p>
+        <h2>Keep the byline close.</h2>
+        <div class="stack-links">
+          <a class="social-panel-link" href="{SOCIAL_X_URL}" target="_blank" rel="noreferrer noopener">
+            <span>X / Twitter</span>
+            <strong>@MrBobCorbin</strong>
+          </a>
+          <a class="social-panel-link" href="{SOCIAL_BLUESKY_URL}" target="_blank" rel="noreferrer noopener">
+            <span>Bluesky</span>
+            <strong>mrbobcorbin.bsky.social</strong>
+          </a>
+          <a class="social-panel-link" href="{SOCIAL_KALSHI_URL}" target="_blank" rel="noreferrer noopener">
+            <span>Kalshi</span>
+            <strong>Keep your referral link visible</strong>
+          </a>
+        </div>
+      </aside>
+    </section>
+    """
+
+    main_markup = f"""
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Lead Column</p>
+          <h2>The latest note from the desk</h2>
+        </div>
+        <p class="section-copy">
+          Use the lead slot for a major essay, a sharp reaction piece, or the kind of blog post you want to circulate on social.
+        </p>
+      </div>
+      {render_journal_feature(lead_post)}
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Archive</p>
+          <h2>Every journal entry</h2>
+        </div>
+        <p class="section-copy">
+          The journal is set up as a real section, so it can keep growing without feeling bolted on.
+        </p>
+      </div>
+      {render_journal_grid(journal_posts[1:]) if len(journal_posts) > 1 else '<p class="empty-card">The archive will deepen as more journal entries are published.</p>'}
+    </section>
+    """
+
+    return page_shell(
+        title="Journal | ShadowFetch News",
+        description="Columns, dispatches, and original writing from the ShadowFetch desk.",
+        canonical_path="/journal/",
+        context=context,
+        nav_current="journal",
+        page_key="journal",
+        hero_markup=hero,
+        main_markup=main_markup,
+        footer_copy="The journal gives ShadowFetch a byline, a point of view, and a place for original writing.",
     )
 
 
@@ -1643,6 +2007,91 @@ def render_brief_page(story: dict, model: dict, context: dict) -> str:
     )
 
 
+def render_journal_post_page(post: dict, model: dict, context: dict) -> str:
+    related_posts = related_journal_posts(post, model.get("journal_posts", []))
+    tag_markup = render_topic_chip_row(
+        [
+            {
+                "title": tag,
+                "path": f"/search/?q={parse.quote(tag)}",
+            }
+            for tag in post.get("tags", [])
+        ]
+    )
+
+    hero = f"""
+    <section class="container hero hero-compact">
+      <div class="hero-copy">
+        <p class="eyebrow">Journal Entry</p>
+        <h1>{escape(post['title'])}</h1>
+        <div class="story-meta story-meta-large">
+          <span class="story-tag">Journal</span>
+          <span class="story-source">{escape(post['author'])}</span>
+          <span class="story-time">{escape(post['display_date'])}</span>
+          <span class="story-recency story-recency-cool">{post['reading_time']} min read</span>
+        </div>
+        <p class="hero-text">{escape(post['deck'])}</p>
+      </div>
+    </section>
+    """
+
+    main_markup = f"""
+    <section class="container page-section">
+      <div class="journal-post-layout">
+        <article class="panel journal-story">
+          <p class="journal-deck">{escape(post['deck'])}</p>
+          {tag_markup}
+          <div class="journal-body">
+            {post['body_html']}
+          </div>
+        </article>
+
+        <aside class="panel journal-sidebar">
+          <p class="panel-label">Follow The Byline</p>
+          <h2>{escape(post['author'])}</h2>
+          <p>Use the journal for posts you want readers to associate with you directly, then keep the follow links close by on every entry.</p>
+          <div class="stack-links">
+            <a class="social-panel-link" href="{SOCIAL_X_URL}" target="_blank" rel="noreferrer noopener">
+              <span>X / Twitter</span>
+              <strong>@MrBobCorbin</strong>
+            </a>
+            <a class="social-panel-link" href="{SOCIAL_BLUESKY_URL}" target="_blank" rel="noreferrer noopener">
+              <span>Bluesky</span>
+              <strong>mrbobcorbin.bsky.social</strong>
+            </a>
+            <a class="social-panel-link" href="/journal/">
+              <span>Journal</span>
+              <strong>Back to all entries</strong>
+            </a>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Keep Reading</p>
+          <h2>More from the journal</h2>
+        </div>
+      </div>
+      {render_journal_grid(related_posts)}
+    </section>
+    """
+
+    return page_shell(
+        title=f"{post['title']} | ShadowFetch Journal",
+        description=post["description"],
+        canonical_path=post["path"],
+        context=context,
+        nav_current="journal",
+        page_key="journal-post",
+        hero_markup=hero,
+        main_markup=main_markup,
+        footer_copy="Journal entries give the site a stronger editorial voice and a cleaner home for original writing.",
+    )
+
+
 def render_coverage_page(cluster: dict, model: dict, context: dict) -> str:
     related_topics = [
         model.get("topics_by_key", {}).get(topic_key)
@@ -1848,7 +2297,7 @@ def page_shell(
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{escape(title)}</title>
   <meta name="description" content="{escape(description)}">
-  <meta name="theme-color" content="#071019">
+  <meta name="theme-color" content="#f2ebde">
   <link rel="canonical" href="{canonical_url}">
   <meta property="og:title" content="{escape(title)}">
   <meta property="og:description" content="{escape(description)}">
@@ -1861,7 +2310,7 @@ def page_shell(
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
-    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;700&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap"
     rel="stylesheet"
   >
   <link rel="icon" href="/assets/shadowfetch-mark.svg" type="image/svg+xml">
@@ -1926,16 +2375,18 @@ def render_site_header(context: dict, nav_current: str) -> str:
           <img src="/assets/shadowfetch-mark.svg" alt="" width="42" height="42">
           <span>
             <strong>ShadowFetch News</strong>
-            <small>Late-breaking headlines across every beat</small>
+            <small>An old-paper read on the modern day</small>
           </span>
         </a>
 
         <nav class="site-nav" aria-label="Primary">
           {render_nav_link("/", "Front Page", nav_current == "home")}
-          {render_nav_link("/latest/", "Late Breaking", nav_current == "latest")}
-          {render_nav_link("/sections/", "Sections", nav_current == "sections")}
+          {render_nav_link("/latest/", "Newswire", nav_current == "latest")}
+          {render_nav_link("/sections/", "Desks", nav_current == "sections")}
           {render_nav_link("/topics/", "Topics", nav_current == "topics")}
+          {render_nav_link("/journal/", "Journal", nav_current == "journal")}
           {render_nav_link("/search/", "Search", nav_current == "search")}
+          {render_nav_link("/archive/", "Archive", nav_current == "archive")}
           {render_nav_link("/about/", "About", nav_current == "about")}
         </nav>
       </div>
@@ -1943,7 +2394,7 @@ def render_site_header(context: dict, nav_current: str) -> str:
 
     <div class="ticker-bar">
       <div class="container ticker-wrap">
-        <span class="ticker-label">Late Breaking</span>
+        <span class="ticker-label">Newswire</span>
         <div class="ticker-window" aria-live="polite">
           <div class="ticker-track" id="breaking-ticker-track">
             {context['breaking_ticker']}
@@ -1962,9 +2413,15 @@ def render_site_footer(footer_copy: str) -> str:
       <div>
         <p class="footer-title">ShadowFetch News</p>
         <p class="footer-copy">{escape(footer_copy)}</p>
+        <div class="footer-socials">
+          <a href="{SOCIAL_X_URL}" target="_blank" rel="noreferrer noopener">X / Twitter</a>
+          <a href="{SOCIAL_BLUESKY_URL}" target="_blank" rel="noreferrer noopener">Bluesky</a>
+          <a href="{SOCIAL_KALSHI_URL}" target="_blank" rel="noreferrer noopener">Kalshi</a>
+        </div>
       </div>
       <div class="footer-links">
-        <a href="/latest/">Latest</a>
+        <a href="/latest/">Newswire</a>
+        <a href="/journal/">Journal</a>
         <a href="/topics/">Topics</a>
         <a href="/sources/">Sources</a>
         <a href="/archive/">Archive</a>
@@ -1979,10 +2436,11 @@ def render_mobile_dock(nav_current: str) -> str:
     return f"""
   <nav class="mobile-dock" aria-label="Mobile">
     {render_mobile_link("/", "Front", nav_current == "home")}
-    {render_mobile_link("/latest/", "Latest", nav_current == "latest")}
-    {render_mobile_link("/topics/", "Topics", nav_current == "topics")}
+    {render_mobile_link("/latest/", "Wire", nav_current == "latest")}
+    {render_mobile_link("/journal/", "Journal", nav_current == "journal")}
     {render_mobile_link("/search/", "Search", nav_current == "search")}
-    {render_mobile_link("/sections/", "Sections", nav_current == "sections")}
+    {render_mobile_link("/sections/", "Desks", nav_current == "sections")}
+    {render_mobile_link("/topics/", "Topics", nav_current == "topics")}
   </nav>
 """
 
@@ -2008,7 +2466,7 @@ def render_search_form(query: str, variant: str) -> str:
         id="search-input-{variant}"
         type="search"
         name="q"
-        placeholder="Search briefs, topics, sources, people, places..."
+        placeholder="Search briefs, journal posts, topics, sources, people, places..."
         value="{escape(query)}"
         data-search-input
       >
@@ -2038,9 +2496,9 @@ def render_featured_grid(stories: list[dict]) -> str:
         <h2>Another strong story line to watch</h2>
         {rail_markup}
         <div class="stack-links">
-          <a class="social-panel-link" href="/roundups/today/">
-            <span>Roundup</span>
-            <strong>Open today’s editor package</strong>
+          <a class="social-panel-link" href="/journal/">
+            <span>Journal</span>
+            <strong>Read the latest byline pieces</strong>
           </a>
           <a class="social-panel-link" href="/topics/">
             <span>Topics</span>
@@ -2169,6 +2627,63 @@ def render_editors_pick_grid(picks: list[dict]) -> str:
             """
         )
     return f'<div class="editor-grid">{"".join(cards)}</div>'
+
+
+def render_journal_feature(post: dict | None) -> str:
+    if not post:
+        return '<p class="empty-card">The journal lead is waiting for its first entry.</p>'
+
+    tag_row = render_topic_chip_row(
+        [{"title": tag, "path": f"/search/?q={parse.quote(tag)}"} for tag in post.get("tags", [])[:3]]
+    )
+    return f"""
+    <article class="feature-lead journal-feature">
+      <p class="panel-label">Lead Column</p>
+      <div class="story-meta">
+        <span class="story-tag">Journal</span>
+        <span class="story-source">{escape(post['author'])}</span>
+        <span class="story-time">{escape(post['display_date'])}</span>
+        <span class="story-recency story-recency-cool">{post['reading_time']} min read</span>
+      </div>
+      <h2><a class="story-headline-link" href="{post['path']}">{escape(post['title'])}</a></h2>
+      <p>{escape(post['description'])}</p>
+      {tag_row}
+      <div class="story-actions">
+        <a class="story-link" href="{post['path']}">Read column</a>
+      </div>
+    </article>
+    """
+
+
+def render_journal_grid(posts: list[dict]) -> str:
+    if not posts:
+        return '<p class="empty-card">The journal will show up here as soon as the first post is published.</p>'
+    return f'<div class="journal-grid">{"".join(render_journal_card(post) for post in posts)}</div>'
+
+
+def render_journal_card(post: dict) -> str:
+    tag_markup = "".join(
+        f'<a class="topic-chip" href="/search/?q={parse.quote(tag)}">{escape(tag)}</a>'
+        for tag in post.get("tags", [])[:3]
+    )
+    chip_row = f'<div class="chip-row">{tag_markup}</div>' if tag_markup else ""
+    return f"""
+    <article class="journal-card">
+      <p class="panel-label">Journal</p>
+      <div class="story-meta">
+        <span class="story-tag">Column</span>
+        <span class="story-source">{escape(post['author'])}</span>
+        <span class="story-time">{escape(post['display_date'])}</span>
+        <span class="story-recency story-recency-cool">{post['reading_time']} min read</span>
+      </div>
+      <h3><a class="story-headline-link" href="{post['path']}">{escape(post['title'])}</a></h3>
+      <p>{escape(post['description'])}</p>
+      {chip_row}
+      <div class="story-actions">
+        <a class="story-link" href="{post['path']}">Read entry</a>
+      </div>
+    </article>
+    """
 
 
 def render_topic_grid(topics: list[dict], large: bool = False) -> str:

@@ -203,7 +203,7 @@ function renderSearchResults(searchIndex, query, resultsNode, emptyNode, titleNo
       titleNode.textContent = "Search the newsroom";
     }
     if (summaryNode) {
-      summaryNode.textContent = "Type a topic, person, company, place, or source to pull up matching pages.";
+      summaryNode.textContent = "Type a topic, person, company, place, source, or journal idea to pull up matching pages.";
     }
     return;
   }
@@ -229,7 +229,7 @@ function renderSearchResults(searchIndex, query, resultsNode, emptyNode, titleNo
     titleNode.textContent = `Search: ${normalizedQuery}`;
   }
   if (summaryNode) {
-    summaryNode.textContent = `Showing ${ranked.length} result${ranked.length === 1 ? "" : "s"} across briefs, topics, sources, and coverage pages.`;
+    summaryNode.textContent = `Showing ${ranked.length} result${ranked.length === 1 ? "" : "s"} across briefs, journal posts, topics, sources, and coverage pages.`;
   }
 }
 

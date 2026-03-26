@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-03-26T17:15:02.060673Z",
+  "generated_at": "2026-03-26T17:26:49.382458Z",
   "successful_sources": 71,
   "total_sources": 79,
   "featured": [
     {
-      "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
-      "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
-      "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
+      "title": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now.",
+      "link": "https://www.cbsnews.com/news/heloc-rates-6-range-what-20000-heloc-costs-monthly/",
+      "summary": "HELOC interest rates are closing in on the 6% range. So, how much will a $20,000 line of credit cost right now?",
       "source": "CBS News Latest",
       "source_key": "cbs-news-latest",
       "source_homepage": "https://www.cbsnews.com/",
       "source_feed": "https://www.cbsnews.com/latest/rss/main",
       "section": "Top Stories",
       "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:05:06Z"
+      "timestamp": "2026-03-26T17:22:22Z"
     },
     {
       "title": "Details revealed of Board of Peace plan for Gaza disarmament",
@@ -28,31 +28,55 @@
       "timestamp": "2026-03-26T16:47:01Z"
     },
     {
-      "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
-      "link": "https://thehill.com/policy/defense/5802502-hegseth-supports-deal-iran/",
-      "summary": "Pete Hegseth said he welcomes a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week the defense secretary was \u201cdisappointed\u201d by the idea,...",
+      "title": "Hillary Clinton to keynote New Hampshire event",
+      "link": "https://thehill.com/homenews/state-watch/5802517-hillary-clinton-new-hampshire/",
+      "summary": "Former Secretary of State Hillary Clinton (D) is set to speak at a major Democratic Party fundraiser in New Hampshire next month, the state party announced Thursday. Clinton is...",
       "source": "The Hill",
       "source_key": "the-hill",
       "source_homepage": "https://thehill.com/",
       "source_feed": "https://thehill.com/feed/",
       "section": "U.S. & Politics",
       "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T17:02:52Z"
+      "timestamp": "2026-03-26T17:11:40Z"
     },
     {
-      "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
-      "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
-      "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
-      "source": "CNBC Top",
-      "source_key": "cnbc-top",
-      "source_homepage": "https://www.cnbc.com/",
-      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "title": "Best Buy\u2019s stock is rallying amid takeover speculation. But here\u2019s the real story.",
+      "link": "https://www.marketwatch.com/story/best-buys-stock-is-rallying-amid-takeover-speculation-but-heres-the-real-story-43d4ffb4?mod=mw_rss_topstories",
+      "summary": "Some attributed the jump in Best Buy\u2019s stock to the prospect of a takeover by GameStop, but the analyst who wrote the note that started that speculation says otherwise.",
+      "source": "MarketWatch",
+      "source_key": "marketwatch",
+      "source_homepage": "https://www.marketwatch.com",
+      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
       "section": "Business & Markets",
       "section_key": "business-markets",
-      "timestamp": "2026-03-26T17:14:17Z"
+      "timestamp": "2026-03-26T17:23:00Z"
     }
   ],
   "latest": [
+    {
+      "title": "Updated NBA rookie rankings: Why the ROY race is all but over",
+      "link": "https://www.espn.com/nba/story/_/id/48306024/2025-26-nba-rookie-rankings-end-regular-season-flagg-knueppel-edgecomb-rookie-year-race",
+      "summary": "Where do the NBA's top rookies stack up with a few weeks left in the regular season? We stacked the top 10.",
+      "source": "ESPN NBA",
+      "source_key": "espn-nba",
+      "source_homepage": "https://www.espn.com/nba/",
+      "source_feed": "https://www.espn.com/espn/rss/nba/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:14:55Z"
+    },
+    {
+      "title": "NBA Power Rankings: The Thunder reign while East teams rise",
+      "link": "https://www.espn.com/nba/story/_/id/48296257/nba-power-rankings-thunder-reign-celtics-pistons-rise",
+      "summary": "Where our NBA insiders ranked all 30 teams as the regular season reaches the home stretch.",
+      "source": "ESPN NBA",
+      "source_key": "espn-nba",
+      "source_homepage": "https://www.espn.com/nba/",
+      "source_feed": "https://www.espn.com/espn/rss/nba/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-26T18:14:55Z"
+    },
     {
       "title": "Source: Mets add Pham on minors deal for depth",
       "link": "https://www.espn.com/mlb/story/_/id/48312897/source-mets-tommy-pham-agree-minor-league-deal",
@@ -198,28 +222,88 @@
       "timestamp": "2026-03-26T17:35:21Z"
     },
     {
-      "title": "LSU works to lure Wade back as it fires McMahon",
-      "link": "https://www.espn.com/mens-college-basketball/story/_/id/48312538/sources-lsu-working-lure-wade-back-firing-mcmahon",
-      "summary": "LSU is working to finalize a deal to bring back Will Wade, the current coach at NC State, who was suspended for the 2019 NCAA tournament while at LSU and later fired amid an NCA...",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T17:35:21Z"
+      "title": "Best Buy\u2019s stock is rallying amid takeover speculation. But here\u2019s the real story.",
+      "link": "https://www.marketwatch.com/story/best-buys-stock-is-rallying-amid-takeover-speculation-but-heres-the-real-story-43d4ffb4?mod=mw_rss_topstories",
+      "summary": "Some attributed the jump in Best Buy\u2019s stock to the prospect of a takeover by GameStop, but the analyst who wrote the note that started that speculation says otherwise.",
+      "source": "MarketWatch",
+      "source_key": "marketwatch",
+      "source_homepage": "https://www.marketwatch.com",
+      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T17:23:00Z"
     },
     {
-      "title": "QB Simpson says he's 'absolutely' 1st-round pick",
-      "link": "https://www.espn.com/nfl/story/_/id/48311228/alabama-qb-ty-simpson-says-absolutely-1st-round-pick",
-      "summary": "Ty Simpson felt like he made a final impression at Alabama's pro day in front of NFL scouts. He believes he's 'absolutely' a lock to be a first-round pick.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-26T17:35:21Z"
+      "title": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now.",
+      "link": "https://www.cbsnews.com/news/heloc-rates-6-range-what-20000-heloc-costs-monthly/",
+      "summary": "HELOC interest rates are closing in on the 6% range. So, how much will a $20,000 line of credit cost right now?",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:22:22Z"
+    },
+    {
+      "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
+      "link": "https://www.cnbc.com/2026/03/26/united-airlines-flight-attendants-labor-deal.html",
+      "summary": "United Airlines and its flight attendants union reached a new labor deal.",
+      "source": "CNBC Top",
+      "source_key": "cnbc-top",
+      "source_homepage": "https://www.cnbc.com/",
+      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T17:20:30Z"
+    },
+    {
+      "title": "Average US long-term mortgage rate leaps to 6.38%, the highest level in more than 6 months",
+      "link": "https://abcnews.com/Business/wireStory/average-us-long-term-mortgage-rate-leaps-638-131438436",
+      "summary": "The average long-term U.S. mortgage rate climbed this week to its highest level in more than six months, driving up borrowing costs for prospective homebuyers during what\u2019s supp...",
+      "source": "ABC News Business",
+      "source_key": "abc-news-business",
+      "source_homepage": "https://abcnews.go.com/business",
+      "source_feed": "https://abcnews.go.com/abcnews/businessheadlines",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-26T17:17:40Z"
+    },
+    {
+      "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
+      "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:16:39Z"
+    },
+    {
+      "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
+      "link": "https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716",
+      "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
+      "source": "ABC News Top Stories",
+      "source_key": "abc-news-top-stories",
+      "source_homepage": "https://abcnews.go.com/",
+      "source_feed": "https://abcnews.go.com/abcnews/topstories",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:15:02Z"
+    },
+    {
+      "title": "What could cause mortgage rates to drop this April?",
+      "link": "https://www.cbsnews.com/news/causes-mortgage-rates-drop-april-2026/",
+      "summary": "Mortgage rates have climbed back up in recent weeks, but several forces could pull them lower before April ends.",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:14:45Z"
     },
     {
       "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
@@ -246,6 +330,42 @@
       "timestamp": "2026-03-26T17:13:24Z"
     },
     {
+      "title": "Hillary Clinton to keynote New Hampshire event",
+      "link": "https://thehill.com/homenews/state-watch/5802517-hillary-clinton-new-hampshire/",
+      "summary": "Former Secretary of State Hillary Clinton (D) is set to speak at a major Democratic Party fundraiser in New Hampshire next month, the state party announced Thursday. Clinton is...",
+      "source": "The Hill",
+      "source_key": "the-hill",
+      "source_homepage": "https://thehill.com/",
+      "source_feed": "https://thehill.com/feed/",
+      "section": "U.S. & Politics",
+      "section_key": "u-s-politics",
+      "timestamp": "2026-03-26T17:11:40Z"
+    },
+    {
+      "title": "Heat wave slams the Southwest",
+      "link": "https://www.cbsnews.com/video/heat-wave-slams-the-southwest/",
+      "summary": "High temperatures are affecting the Southwest and breaking records. CBS News meteorologist Jessica Burch has the latest.",
+      "source": "CBS News Latest",
+      "source_key": "cbs-news-latest",
+      "source_homepage": "https://www.cbsnews.com/",
+      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-26T17:11:00Z"
+    },
+    {
+      "title": "Brussels opens investigation into Snapchat amid concern over children\u2019s safety",
+      "link": "https://www.theguardian.com/technology/2026/mar/26/brussels-opens-investigation-into-snapchat-amid-concern-over-childrens-safety",
+      "summary": "European Commission says social messaging app is exposing children to grooming and sexual exploitation Brussels has opened an investigation into Snapchat over concerns the socia...",
+      "source": "Guardian Technology",
+      "source_key": "guardian-technology",
+      "source_homepage": "https://www.theguardian.com/uk/technology",
+      "source_feed": "https://www.theguardian.com/uk/technology/rss",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-26T17:08:55Z"
+    },
+    {
       "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
       "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
       "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
@@ -270,21 +390,9 @@
       "timestamp": "2026-03-26T17:04:00Z"
     },
     {
-      "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
-      "link": "https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716",
-      "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
-      "source": "ABC News Top Stories",
-      "source_key": "abc-news-top-stories",
-      "source_homepage": "https://abcnews.go.com/",
-      "source_feed": "https://abcnews.go.com/abcnews/topstories",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T17:02:54Z"
-    },
-    {
       "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
       "link": "https://thehill.com/policy/defense/5802502-hegseth-supports-deal-iran/",
-      "summary": "Pete Hegseth said he welcomes a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week the defense secretary was \u201cdisappointed\u201d by the idea,...",
+      "summary": "Defense Secretary Pete Hegseth said he would welcome a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week that Hegseth was \u201cdisappointed...",
       "source": "The Hill",
       "source_key": "the-hill",
       "source_homepage": "https://thehill.com/",
@@ -292,18 +400,6 @@
       "section": "U.S. & Politics",
       "section_key": "u-s-politics",
       "timestamp": "2026-03-26T17:02:52Z"
-    },
-    {
-      "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
-      "link": "https://www.cnbc.com/2026/03/26/united-airlines-flight-attendants-labor-deal.html",
-      "summary": "United Airlines and its flight attendants union reached a new labor deal.",
-      "source": "CNBC Top",
-      "source_key": "cnbc-top",
-      "source_homepage": "https://www.cnbc.com/",
-      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T17:02:29Z"
     },
     {
       "title": "Trump housing chief seeks new criminal probe into Letitia James",
@@ -316,6 +412,18 @@
       "section": "U.S. & Politics",
       "section_key": "u-s-politics",
       "timestamp": "2026-03-26T17:01:17Z"
+    },
+    {
+      "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
+      "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/",
+      "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic...",
+      "source": "NASA News Releases",
+      "source_key": "nasa-news-releases",
+      "source_homepage": "https://www.nasa.gov/news/",
+      "source_feed": "https://www.nasa.gov/news-release/feed/",
+      "section": "Science & Space",
+      "section_key": "science-space",
+      "timestamp": "2026-03-26T17:00:55Z"
     },
     {
       "title": "These 10 top-rated stocks are crushing the S&P 500 \u2014 yet the media and Wall Street ignore them",
@@ -376,6 +484,18 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T16:59:58Z"
+    },
+    {
+      "title": "NASA\u2019s IXPE Gets Fresh Look at Supernova",
+      "link": "https://www.nasa.gov/image-article/nasas-ixpe-gets-fresh-look-at-supernova/",
+      "summary": "NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) mission has taken a new observation of a supernova, RCW 86, seen here in an image released on March 24, 2026. This observation h...",
+      "source": "NASA News Releases",
+      "source_key": "nasa-news-releases",
+      "source_homepage": "https://www.nasa.gov/news/",
+      "source_feed": "https://www.nasa.gov/news-release/feed/",
+      "section": "Science & Space",
+      "section_key": "science-space",
+      "timestamp": "2026-03-26T16:58:30Z"
     },
     {
       "title": "Senate GOP sends Democrats \"last and final\" offer to end DHS shutdown",
@@ -534,18 +654,6 @@
       "timestamp": "2026-03-26T16:43:44Z"
     },
     {
-      "title": "Trump says \u2018military wanted\u2019 White House ballroom: \u2018That was supposed to be secret\u2019",
-      "link": "https://thehill.com/blogs/in-the-know/5802453-trump-white-house-ballroom/",
-      "summary": "President Trump says there\u2019s a national security component to the construction of the White House ballroom that was \u201csupposed to be secret.\u201d \u201cNow it\u2019s no secret, the military wa...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-26T16:42:34Z"
-    },
-    {
       "title": "Long-term care is expensive. Take these 3 steps now to help you afford it later.",
       "link": "https://www.marketwatch.com/story/long-term-care-is-expensive-take-these-3-steps-now-to-help-you-afford-it-later-f71f6ffb?mod=mw_rss_topstories",
       "summary": "Costs for in-home care and assisted living are up almost 50% since 2019.",
@@ -568,18 +676,6 @@
       "section": "Top Stories",
       "section_key": "top-stories",
       "timestamp": "2026-03-26T16:38:00Z"
-    },
-    {
-      "title": "Trump reveals Iran apparently gifted the U.S. boats of oil that moved through Strait of Hormuz",
-      "link": "https://www.cbsnews.com/video/trump-reveals-iran-apparently-gifted-the-us-boats-of-oil-that-moved-through-strait-of-hormuz/",
-      "summary": "President Trump said Iran gifted the U.S. multiple boats of oil that were moved through the Strait of Hormuz. Mr. Trump made the comments during a Cabinet meeting after saying t...",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:37:00Z"
     },
     {
       "title": "Anchorage becomes first federally chartered US firm to bring Tron \u2018inside the regulatory perimeter\u2019",
@@ -606,18 +702,6 @@
       "timestamp": "2026-03-26T16:33:18Z"
     },
     {
-      "title": "Passengers describe surviving LaGuardia collision: \"I'm a walking miracle\"",
-      "link": "https://www.cbsnews.com/news/passengers-describe-surviving-laguardia-airport-collision/",
-      "summary": "Rebecca Liquori and Rachel Mariotti worked together to remove the exit door and help passengers off the plane after the deadly collision at New York's LaGuardia Airport.",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:32:28Z"
-    },
-    {
       "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
       "link": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
       "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its...",
@@ -642,18 +726,6 @@
       "timestamp": "2026-03-26T16:27:43Z"
     },
     {
-      "title": "Congress prepares to vote on DHS funding that could end TSA chaos",
-      "link": "https://www.cbsnews.com/video/congress-prepares-to-vote-on-dhs-funding-that-could-end-tsa-chaos/",
-      "summary": "The Senate and House of Representatives are expected to hold votes to test potential off-ramps during a partial government shutdown that has stalled TSA lines at U.S. airports....",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:27:00Z"
-    },
-    {
       "title": "An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who\u2019s right?",
       "link": "https://www.marketwatch.com/story/an-older-relative-wants-to-give-my-daughter-19-000-when-she-turns-18-i-said-no-whos-right-f793a2f1?mod=mw_rss_topstories",
       "summary": "\u201cWe don\u2019t think it\u2019s healthy for very young adults to have access to large sums of money without working for it.\u201d",
@@ -676,18 +748,6 @@
       "section": "U.S. & Politics",
       "section_key": "u-s-politics",
       "timestamp": "2026-03-26T16:26:03Z"
-    },
-    {
-      "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
-      "link": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
-      "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-26T16:25:49Z"
     },
     {
       "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
@@ -736,18 +796,6 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-26T16:19:41Z"
-    },
-    {
-      "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
-      "link": "https://www.cnbc.com/2026/03/26/mlb-faces-historic-shift-as-potential-lockout-media-rights-and-league-changes-loom.html",
-      "summary": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
-      "source": "CNBC Top",
-      "source_key": "cnbc-top",
-      "source_homepage": "https://www.cnbc.com/",
-      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-26T16:18:25Z"
     },
     {
       "title": "Trump says Iran \u2018lousy fighters but great negotiators\u2019",
@@ -1156,54 +1204,6 @@
       "section": "Entertainment",
       "section_key": "entertainment",
       "timestamp": "2026-03-26T14:27:46Z"
-    },
-    {
-      "title": "Seth Meyers on Donald Trump\u2019s \u2018present\u2019 from Iran: \u2018Is the president getting catfished?\u2019",
-      "link": "https://www.theguardian.com/culture/2026/mar/26/seth-meyer-iran-war-trump-voting",
-      "summary": "Late-night hosts discussed Trump\u2019s hypocrisy over mail-in voting and his insistence that the US is not actually at war Late-night hosts speculated on Donald Trump \u2019s mystery \u201cpr...",
-      "source": "Guardian Culture",
-      "source_key": "guardian-culture",
-      "source_homepage": "https://www.theguardian.com/culture",
-      "source_feed": "https://www.theguardian.com/culture/rss",
-      "section": "Entertainment",
-      "section_key": "entertainment",
-      "timestamp": "2026-03-26T14:27:07Z"
-    },
-    {
-      "title": "Daunting, inspiring, comforting, terrifying: the writers who can make silence as eloquent as words",
-      "link": "https://www.theguardian.com/culture/2026/mar/26/daunting-inspiring-comforting-terrifying-the-writers-who-can-make-silence-as-eloquent-as-words",
-      "summary": "From the hush of medieval lullabies to striking poems about Grenfell, great authors know how to deploy the power of silence On a snowy Sunday morning in February 1808, the poet...",
-      "source": "Guardian Culture",
-      "source_key": "guardian-culture",
-      "source_homepage": "https://www.theguardian.com/culture",
-      "source_feed": "https://www.theguardian.com/culture/rss",
-      "section": "Entertainment",
-      "section_key": "entertainment",
-      "timestamp": "2026-03-26T14:25:51Z"
-    },
-    {
-      "title": "EPA approves sale of higher-ethanol fuel in bid to lower gas prices",
-      "link": "https://www.theguardian.com/us-news/2026/mar/26/epa-higher-ethanol-fuel-gas-prices",
-      "summary": "Higher blend has been prohibited in warm weather because of concerns it could worsen smog The US Environmental Protection Agency said on Wednesday that it would temporarily allo...",
-      "source": "The Guardian Environment",
-      "source_key": "the-guardian-environment",
-      "source_homepage": "https://www.theguardian.com/environment",
-      "source_feed": "https://www.theguardian.com/environment/rss",
-      "section": "Climate & Environment",
-      "section_key": "climate-environment",
-      "timestamp": "2026-03-26T14:21:04Z"
-    },
-    {
-      "title": "TikTok for Business accounts targeted in new phishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
-      "summary": "Threat actors are targeting TikTok for Business accounts in a phishing campaign that prevents security bots from analyzing malicious pages. [...]",
-      "source": "BleepingComputer",
-      "source_key": "bleepingcomputer",
-      "source_homepage": "https://www.bleepingcomputer.com/",
-      "source_feed": "https://www.bleepingcomputer.com/feed/",
-      "section": "Security & Privacy",
-      "section_key": "security-privacy",
-      "timestamp": "2026-03-26T14:09:17Z"
     }
   ],
   "sections": [
@@ -1215,6 +1215,66 @@
       "successful_sources": 5,
       "total_sources": 7,
       "stories": [
+        {
+          "title": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now.",
+          "link": "https://www.cbsnews.com/news/heloc-rates-6-range-what-20000-heloc-costs-monthly/",
+          "summary": "HELOC interest rates are closing in on the 6% range. So, how much will a $20,000 line of credit cost right now?",
+          "source": "CBS News Latest",
+          "source_key": "cbs-news-latest",
+          "source_homepage": "https://www.cbsnews.com/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:22:22Z"
+        },
+        {
+          "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
+          "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
+          "source": "CBS News Latest",
+          "source_key": "cbs-news-latest",
+          "source_homepage": "https://www.cbsnews.com/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:16:39Z"
+        },
+        {
+          "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
+          "link": "https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716",
+          "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
+          "source": "ABC News Top Stories",
+          "source_key": "abc-news-top-stories",
+          "source_homepage": "https://abcnews.go.com/",
+          "source_feed": "https://abcnews.go.com/abcnews/topstories",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:15:02Z"
+        },
+        {
+          "title": "What could cause mortgage rates to drop this April?",
+          "link": "https://www.cbsnews.com/news/causes-mortgage-rates-drop-april-2026/",
+          "summary": "Mortgage rates have climbed back up in recent weeks, but several forces could pull them lower before April ends.",
+          "source": "CBS News Latest",
+          "source_key": "cbs-news-latest",
+          "source_homepage": "https://www.cbsnews.com/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:14:45Z"
+        },
+        {
+          "title": "Heat wave slams the Southwest",
+          "link": "https://www.cbsnews.com/video/heat-wave-slams-the-southwest/",
+          "summary": "High temperatures are affecting the Southwest and breaking records. CBS News meteorologist Jessica Burch has the latest.",
+          "source": "CBS News Latest",
+          "source_key": "cbs-news-latest",
+          "source_homepage": "https://www.cbsnews.com/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/main",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-26T17:11:00Z"
+        },
         {
           "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
           "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
@@ -1238,18 +1298,6 @@
           "section": "Top Stories",
           "section_key": "top-stories",
           "timestamp": "2026-03-26T17:04:00Z"
-        },
-        {
-          "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
-          "link": "https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716",
-          "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
-          "source": "ABC News Top Stories",
-          "source_key": "abc-news-top-stories",
-          "source_homepage": "https://abcnews.go.com/",
-          "source_feed": "https://abcnews.go.com/abcnews/topstories",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T17:02:54Z"
         },
         {
           "title": "Senate GOP sends Democrats \"last and final\" offer to end DHS shutdown",
@@ -1300,54 +1348,6 @@
           "timestamp": "2026-03-26T16:38:00Z"
         },
         {
-          "title": "Trump reveals Iran apparently gifted the U.S. boats of oil that moved through Strait of Hormuz",
-          "link": "https://www.cbsnews.com/video/trump-reveals-iran-apparently-gifted-the-us-boats-of-oil-that-moved-through-strait-of-hormuz/",
-          "summary": "President Trump said Iran gifted the U.S. multiple boats of oil that were moved through the Strait of Hormuz. Mr. Trump made the comments during a Cabinet meeting after saying t...",
-          "source": "CBS News Latest",
-          "source_key": "cbs-news-latest",
-          "source_homepage": "https://www.cbsnews.com/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/main",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:37:00Z"
-        },
-        {
-          "title": "Passengers describe surviving LaGuardia collision: \"I'm a walking miracle\"",
-          "link": "https://www.cbsnews.com/news/passengers-describe-surviving-laguardia-airport-collision/",
-          "summary": "Rebecca Liquori and Rachel Mariotti worked together to remove the exit door and help passengers off the plane after the deadly collision at New York's LaGuardia Airport.",
-          "source": "CBS News Latest",
-          "source_key": "cbs-news-latest",
-          "source_homepage": "https://www.cbsnews.com/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/main",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:32:28Z"
-        },
-        {
-          "title": "Congress prepares to vote on DHS funding that could end TSA chaos",
-          "link": "https://www.cbsnews.com/video/congress-prepares-to-vote-on-dhs-funding-that-could-end-tsa-chaos/",
-          "summary": "The Senate and House of Representatives are expected to hold votes to test potential off-ramps during a partial government shutdown that has stalled TSA lines at U.S. airports....",
-          "source": "CBS News Latest",
-          "source_key": "cbs-news-latest",
-          "source_homepage": "https://www.cbsnews.com/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/main",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:27:00Z"
-        },
-        {
-          "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
-          "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
-          "source": "CBS News Latest",
-          "source_key": "cbs-news-latest",
-          "source_homepage": "https://www.cbsnews.com/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/main",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-26T16:25:49Z"
-        },
-        {
           "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
           "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
           "summary": "Forces can now board sanctioned vessels if required, after ministers identified a legal basis in January.",
@@ -1393,6 +1393,18 @@
       "successful_sources": 9,
       "total_sources": 11,
       "stories": [
+        {
+          "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
+          "link": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
+          "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
+          "source": "CBS News World",
+          "source_key": "cbs-news-world",
+          "source_homepage": "https://www.cbsnews.com/world/",
+          "source_feed": "https://www.cbsnews.com/latest/rss/world",
+          "section": "World",
+          "section_key": "world",
+          "timestamp": "2026-03-26T17:16:39Z"
+        },
         {
           "title": "Details revealed of Board of Peace plan for Gaza disarmament",
           "link": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
@@ -1440,18 +1452,6 @@
           "section": "World",
           "section_key": "world",
           "timestamp": "2026-03-26T16:27:43Z"
-        },
-        {
-          "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
-          "link": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
-          "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
-          "source": "CBS News World",
-          "source_key": "cbs-news-world",
-          "source_homepage": "https://www.cbsnews.com/world/",
-          "source_feed": "https://www.cbsnews.com/latest/rss/world",
-          "section": "World",
-          "section_key": "world",
-          "timestamp": "2026-03-26T16:25:49Z"
         },
         {
           "title": "Trump says Iran \u2018lousy fighters but great negotiators\u2019",
@@ -1572,6 +1572,42 @@
       "total_sources": 11,
       "stories": [
         {
+          "title": "Best Buy\u2019s stock is rallying amid takeover speculation. But here\u2019s the real story.",
+          "link": "https://www.marketwatch.com/story/best-buys-stock-is-rallying-amid-takeover-speculation-but-heres-the-real-story-43d4ffb4?mod=mw_rss_topstories",
+          "summary": "Some attributed the jump in Best Buy\u2019s stock to the prospect of a takeover by GameStop, but the analyst who wrote the note that started that speculation says otherwise.",
+          "source": "MarketWatch",
+          "source_key": "marketwatch",
+          "source_homepage": "https://www.marketwatch.com",
+          "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T17:23:00Z"
+        },
+        {
+          "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
+          "link": "https://www.cnbc.com/2026/03/26/united-airlines-flight-attendants-labor-deal.html",
+          "summary": "United Airlines and its flight attendants union reached a new labor deal.",
+          "source": "CNBC Top",
+          "source_key": "cnbc-top",
+          "source_homepage": "https://www.cnbc.com/",
+          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T17:20:30Z"
+        },
+        {
+          "title": "Average US long-term mortgage rate leaps to 6.38%, the highest level in more than 6 months",
+          "link": "https://abcnews.com/Business/wireStory/average-us-long-term-mortgage-rate-leaps-638-131438436",
+          "summary": "The average long-term U.S. mortgage rate climbed this week to its highest level in more than six months, driving up borrowing costs for prospective homebuyers during what\u2019s supp...",
+          "source": "ABC News Business",
+          "source_key": "abc-news-business",
+          "source_homepage": "https://abcnews.go.com/business",
+          "source_feed": "https://abcnews.go.com/abcnews/businessheadlines",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-26T17:17:40Z"
+        },
+        {
           "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
           "link": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
           "summary": "President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
@@ -1594,18 +1630,6 @@
           "section": "Business & Markets",
           "section_key": "business-markets",
           "timestamp": "2026-03-26T17:13:24Z"
-        },
-        {
-          "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
-          "link": "https://www.cnbc.com/2026/03/26/united-airlines-flight-attendants-labor-deal.html",
-          "summary": "United Airlines and its flight attendants union reached a new labor deal.",
-          "source": "CNBC Top",
-          "source_key": "cnbc-top",
-          "source_homepage": "https://www.cnbc.com/",
-          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T17:02:29Z"
         },
         {
           "title": "These 10 top-rated stocks are crushing the S&P 500 \u2014 yet the media and Wall Street ignore them",
@@ -1714,30 +1738,6 @@
           "section": "Business & Markets",
           "section_key": "business-markets",
           "timestamp": "2026-03-26T16:19:41Z"
-        },
-        {
-          "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
-          "link": "https://www.cnbc.com/2026/03/26/mlb-faces-historic-shift-as-potential-lockout-media-rights-and-league-changes-loom.html",
-          "summary": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
-          "source": "CNBC Top",
-          "source_key": "cnbc-top",
-          "source_homepage": "https://www.cnbc.com/",
-          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T16:18:25Z"
-        },
-        {
-          "title": "NS&I boss replaced as savers left waiting for millions of pounds",
-          "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
-          "summary": "Pensions Minister Torston Bell said those affected would receive compensation \"where appropriate\".",
-          "source": "BBC Business",
-          "source_key": "bbc-business",
-          "source_homepage": "https://www.bbc.com/news/business",
-          "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-26T16:14:54Z"
         }
       ]
     },
@@ -1749,6 +1749,18 @@
       "successful_sources": 8,
       "total_sources": 8,
       "stories": [
+        {
+          "title": "Brussels opens investigation into Snapchat amid concern over children\u2019s safety",
+          "link": "https://www.theguardian.com/technology/2026/mar/26/brussels-opens-investigation-into-snapchat-amid-concern-over-childrens-safety",
+          "summary": "European Commission says social messaging app is exposing children to grooming and sexual exploitation Brussels has opened an investigation into Snapchat over concerns the socia...",
+          "source": "Guardian Technology",
+          "source_key": "guardian-technology",
+          "source_homepage": "https://www.theguardian.com/uk/technology",
+          "source_feed": "https://www.theguardian.com/uk/technology/rss",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-26T17:08:55Z"
+        },
         {
           "title": "The best deals we\u2019ve found from Amazon\u2019s Big Spring Sale (so far)",
           "link": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
@@ -1904,18 +1916,6 @@
           "section": "Technology",
           "section_key": "technology",
           "timestamp": "2026-03-26T13:52:38Z"
-        },
-        {
-          "title": "2026's historic snow drought is bad news for the West",
-          "link": "https://arstechnica.com/science/2026/03/2026s-historic-snow-drought-is-bad-news-for-the-west/",
-          "summary": "For much of the Western US, winter 2026 was the year snow never came.",
-          "source": "Ars Technica",
-          "source_key": "ars-technica",
-          "source_homepage": "https://arstechnica.com/",
-          "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-26T13:52:03Z"
         }
       ]
     },
@@ -1927,6 +1927,30 @@
       "successful_sources": 5,
       "total_sources": 5,
       "stories": [
+        {
+          "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
+          "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/",
+          "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic...",
+          "source": "NASA News Releases",
+          "source_key": "nasa-news-releases",
+          "source_homepage": "https://www.nasa.gov/news/",
+          "source_feed": "https://www.nasa.gov/news-release/feed/",
+          "section": "Science & Space",
+          "section_key": "science-space",
+          "timestamp": "2026-03-26T17:00:55Z"
+        },
+        {
+          "title": "NASA\u2019s IXPE Gets Fresh Look at Supernova",
+          "link": "https://www.nasa.gov/image-article/nasas-ixpe-gets-fresh-look-at-supernova/",
+          "summary": "NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) mission has taken a new observation of a supernova, RCW 86, seen here in an image released on March 24, 2026. This observation h...",
+          "source": "NASA News Releases",
+          "source_key": "nasa-news-releases",
+          "source_homepage": "https://www.nasa.gov/news/",
+          "source_feed": "https://www.nasa.gov/news-release/feed/",
+          "section": "Science & Space",
+          "section_key": "science-space",
+          "timestamp": "2026-03-26T16:58:30Z"
+        },
         {
           "title": "Curiosity Blog, Sols 4838-4844: Wrapping Up the Boxwork Terrain",
           "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4838-4844-wrapping-up-the-boxwork-terrain/",
@@ -2027,10 +2051,10 @@
           "title": "NASA Sets Coverage for First Artemis Crewed Mission Around Moon",
           "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon/",
           "summary": "A variety of prelaunch, launch, and mission events for NASA\u2019s Artemis II mission around the Moon will stream online. The agency is targeting no earlier than Wednesday, April 1,...",
-          "source": "NASA News Releases",
-          "source_key": "nasa-news-releases",
-          "source_homepage": "https://www.nasa.gov/news/",
-          "source_feed": "https://www.nasa.gov/news-release/feed/",
+          "source": "NASA Artemis",
+          "source_key": "nasa-artemis",
+          "source_homepage": "https://www.nasa.gov/missions/artemis/",
+          "source_feed": "https://www.nasa.gov/missions/artemis/feed/",
           "section": "Science & Space",
           "section_key": "science-space",
           "timestamp": "2026-03-25T22:58:26Z"
@@ -2039,10 +2063,10 @@
           "title": "NASA Sets Coverage for Artemis II Moon Mission",
           "link": "https://www.nasa.gov/missions/artemis/artemis-2/nasa-sets-coverage-for-artemis-ii-moon-mission/",
           "summary": "Editor\u2019s note: NASA will continuously update this Artemis II briefings and mission events page throughout prelaunch, launch, and mission activities. NASA will provide live cover...",
-          "source": "NASA News Releases",
-          "source_key": "nasa-news-releases",
-          "source_homepage": "https://www.nasa.gov/news/",
-          "source_feed": "https://www.nasa.gov/news-release/feed/",
+          "source": "NASA Artemis",
+          "source_key": "nasa-artemis",
+          "source_homepage": "https://www.nasa.gov/missions/artemis/",
+          "source_feed": "https://www.nasa.gov/missions/artemis/feed/",
           "section": "Science & Space",
           "section_key": "science-space",
           "timestamp": "2026-03-25T21:55:11Z"
@@ -2070,30 +2094,6 @@
           "section": "Science & Space",
           "section_key": "science-space",
           "timestamp": "2026-03-25T16:00:11Z"
-        },
-        {
-          "title": "NASA-ISRO Satellite Captures Pacific Northwest Through Clouds",
-          "link": "https://www.nasa.gov/missions/nisar/nasa-isro-satellite-captures-pacific-northwest-through-clouds/",
-          "summary": "Seattle and Portland, Oregon, are among the cloudiest cities in the United States. But that infamous cloud cover is no match for the U.S.-Indian Earth satellite NISAR (NASA-ISRO...",
-          "source": "NASA Earth",
-          "source_key": "nasa-earth",
-          "source_homepage": "https://www.nasa.gov/earth/",
-          "source_feed": "https://www.nasa.gov/earth/feed/",
-          "section": "Science & Space",
-          "section_key": "science-space",
-          "timestamp": "2026-03-25T15:51:39Z"
-        },
-        {
-          "title": "Kona Storms Flood O\u02bbahu",
-          "link": "https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/",
-          "summary": "Back-to-back subtropical cyclones in March fueled destructive flash flooding on several of the Hawaiian Islands.",
-          "source": "NASA Earth",
-          "source_key": "nasa-earth",
-          "source_homepage": "https://www.nasa.gov/earth/",
-          "source_feed": "https://www.nasa.gov/earth/feed/",
-          "section": "Science & Space",
-          "section_key": "science-space",
-          "timestamp": "2026-03-25T04:01:00Z"
         }
       ]
     },
@@ -2404,9 +2404,9 @@
           "timestamp": "2026-03-26T12:30:00Z"
         },
         {
-          "title": "WAGO GmbH & Co. KG Industrial Managed Switches",
-          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01",
-          "summary": "View CSAF Summary An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device...",
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded...",
           "source": "CISA Cybersecurity Advisories",
           "source_key": "cisa-cybersecurity-advisories",
           "source_homepage": "https://www.cisa.gov/news-events/cybersecurity-advisories",
@@ -2440,13 +2440,13 @@
           "timestamp": "2026-03-26T12:00:00Z"
         },
         {
-          "title": "UK sanctions Chinese crypto marketplace tied to scam compounds",
-          "link": "https://therecord.media/xinbi-crypto-marketplace-sanctioned",
-          "summary": "The British government sanctioned Xinbi, a Chinese-language cryptocurrency marketplace accused of enabling large-scale online fraud and human exploitation, in a move targeting t...",
-          "source": "The Record",
-          "source_key": "the-record",
-          "source_homepage": "https://therecord.media/",
-          "source_feed": "https://therecord.media/feed",
+          "title": "WAGO GmbH & Co. KG Industrial Managed Switches",
+          "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01",
+          "summary": "View CSAF Summary An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device...",
+          "source": "CISA Cybersecurity Advisories",
+          "source_key": "cisa-cybersecurity-advisories",
+          "source_homepage": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+          "source_feed": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
           "section": "Security & Privacy",
           "section_key": "security-privacy",
           "timestamp": "2026-03-26T12:00:00Z"
@@ -2640,6 +2640,30 @@
       "total_sources": 8,
       "stories": [
         {
+          "title": "Updated NBA rookie rankings: Why the ROY race is all but over",
+          "link": "https://www.espn.com/nba/story/_/id/48306024/2025-26-nba-rookie-rankings-end-regular-season-flagg-knueppel-edgecomb-rookie-year-race",
+          "summary": "Where do the NBA's top rookies stack up with a few weeks left in the regular season? We stacked the top 10.",
+          "source": "ESPN NBA",
+          "source_key": "espn-nba",
+          "source_homepage": "https://www.espn.com/nba/",
+          "source_feed": "https://www.espn.com/espn/rss/nba/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:14:55Z"
+        },
+        {
+          "title": "NBA Power Rankings: The Thunder reign while East teams rise",
+          "link": "https://www.espn.com/nba/story/_/id/48296257/nba-power-rankings-thunder-reign-celtics-pistons-rise",
+          "summary": "Where our NBA insiders ranked all 30 teams as the regular season reaches the home stretch.",
+          "source": "ESPN NBA",
+          "source_key": "espn-nba",
+          "source_homepage": "https://www.espn.com/nba/",
+          "source_feed": "https://www.espn.com/espn/rss/nba/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-26T18:14:55Z"
+        },
+        {
           "title": "Source: Mets add Pham on minors deal for depth",
           "link": "https://www.espn.com/mlb/story/_/id/48312897/source-mets-tommy-pham-agree-minor-league-deal",
           "summary": "The Mets added to their depth on Opening Day, reaching a minor league deal with veteran outfielder Tommy Pham, a source told ESPN.",
@@ -2775,30 +2799,6 @@
           "title": "Brady on comeback: NFL didn't 'like that idea'",
           "link": "https://www.espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
           "summary": "Tom Brady says he explored the possibility of coming out of retirement and returning to the NFL, adding that the league did not \"like that idea very much.\"",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T17:35:21Z"
-        },
-        {
-          "title": "LSU works to lure Wade back as it fires McMahon",
-          "link": "https://www.espn.com/mens-college-basketball/story/_/id/48312538/sources-lsu-working-lure-wade-back-firing-mcmahon",
-          "summary": "LSU is working to finalize a deal to bring back Will Wade, the current coach at NC State, who was suspended for the 2019 NCAA tournament while at LSU and later fired amid an NCA...",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-26T17:35:21Z"
-        },
-        {
-          "title": "QB Simpson says he's 'absolutely' 1st-round pick",
-          "link": "https://www.espn.com/nfl/story/_/id/48311228/alabama-qb-ty-simpson-says-absolutely-1st-round-pick",
-          "summary": "Ty Simpson felt like he made a final impression at Alabama's pro day in front of NFL scouts. He believes he's 'absolutely' a lock to be a first-round pick.",
           "source": "ESPN Headlines",
           "source_key": "espn-headlines",
           "source_homepage": "https://www.espn.com/",
@@ -2996,6 +2996,18 @@
       "total_sources": 9,
       "stories": [
         {
+          "title": "Hillary Clinton to keynote New Hampshire event",
+          "link": "https://thehill.com/homenews/state-watch/5802517-hillary-clinton-new-hampshire/",
+          "summary": "Former Secretary of State Hillary Clinton (D) is set to speak at a major Democratic Party fundraiser in New Hampshire next month, the state party announced Thursday. Clinton is...",
+          "source": "The Hill",
+          "source_key": "the-hill",
+          "source_homepage": "https://thehill.com/",
+          "source_feed": "https://thehill.com/feed/",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-26T17:11:40Z"
+        },
+        {
           "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
           "link": "https://www.cbsnews.com/news/minnesota-elections-office-subpoenaed-federal-criminal-probe-non-citizens-state-voter-rolls/",
           "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
@@ -3010,7 +3022,7 @@
         {
           "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
           "link": "https://thehill.com/policy/defense/5802502-hegseth-supports-deal-iran/",
-          "summary": "Pete Hegseth said he welcomes a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week the defense secretary was \u201cdisappointed\u201d by the idea,...",
+          "summary": "Defense Secretary Pete Hegseth said he would welcome a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week that Hegseth was \u201cdisappointed...",
           "source": "The Hill",
           "source_key": "the-hill",
           "source_homepage": "https://thehill.com/",
@@ -3114,18 +3126,6 @@
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
           "timestamp": "2026-03-26T16:45:33Z"
-        },
-        {
-          "title": "Trump says \u2018military wanted\u2019 White House ballroom: \u2018That was supposed to be secret\u2019",
-          "link": "https://thehill.com/blogs/in-the-know/5802453-trump-white-house-ballroom/",
-          "summary": "President Trump says there\u2019s a national security component to the construction of the White House ballroom that was \u201csupposed to be secret.\u201d \u201cNow it\u2019s no secret, the military wa...",
-          "source": "The Hill",
-          "source_key": "the-hill",
-          "source_homepage": "https://thehill.com/",
-          "source_feed": "https://thehill.com/feed/",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-26T16:42:34Z"
         },
         {
           "title": "Anchorage becomes first federally chartered US firm to bring Tron \u2018inside the regulatory perimeter\u2019",

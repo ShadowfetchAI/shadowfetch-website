@@ -298,7 +298,7 @@ button {
   align-items: center;
   gap: 1.5rem;
   min-width: max-content;
-  animation: ticker-scroll 45s linear infinite;
+  animation: ticker-scroll 72s linear infinite;
 }
 
 .ticker-track:hover {
@@ -507,6 +507,12 @@ button {
 .panel h2 {
   margin-top: 0.35rem;
   font-size: 2rem;
+}
+
+.hero-note {
+  background:
+    radial-gradient(circle at top right, rgba(184, 139, 77, 0.18), transparent 30%),
+    linear-gradient(180deg, rgba(255, 249, 240, 0.98) 0%, rgba(248, 240, 229, 0.98) 100%);
 }
 
 .section-heading {
@@ -732,6 +738,22 @@ button {
   margin-top: 1rem;
 }
 
+.feature-lead p,
+.feature-snippet p,
+.briefing-rail p,
+.panel p,
+.story-card p,
+.story-compact p,
+.developing-card p,
+.editor-card p,
+.topic-card p,
+.quicklink-card p,
+.source-directory-card p,
+.date-card p,
+.about-card p {
+  line-height: 1.68;
+}
+
 .story-link,
 .story-source-link {
   display: inline-flex;
@@ -945,6 +967,49 @@ button {
   display: grid;
   gap: 0.8rem;
   margin-top: 1rem;
+}
+
+.edition-list {
+  display: grid;
+  gap: 0.85rem;
+  margin-top: 1.05rem;
+}
+
+.edition-link {
+  display: grid;
+  gap: 0.28rem;
+  padding: 1rem 1.05rem;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(64, 48, 30, 0.1);
+  background: rgba(255, 251, 244, 0.9);
+  transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+}
+
+.edition-link:hover {
+  transform: translateY(-2px);
+  border-color: rgba(126, 47, 32, 0.24);
+  background: rgba(255, 248, 238, 0.98);
+}
+
+.edition-kicker {
+  color: var(--accent);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.edition-link strong {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.45rem;
+  line-height: 1;
+  letter-spacing: -0.025em;
+}
+
+.edition-link small {
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.55;
 }
 
 .social-panel-link {

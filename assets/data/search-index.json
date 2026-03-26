@@ -1,5 +1,25 @@
 [
   {
+    "title": "Updated NBA rookie rankings: Why the ROY race is all but over",
+    "summary": "Where do the NBA's top rookies stack up with a few weeks left in the regular season? We stacked the top 10.",
+    "path": "/briefs/updated-nba-rookie-rankings-why-the-roy-race-is-all-but-over-0ad5e7c0/",
+    "type": "Brief",
+    "section": "Sports",
+    "source": "ESPN NBA",
+    "timestamp": "2026-03-26T18:14:55Z",
+    "keywords": ""
+  },
+  {
+    "title": "NBA Power Rankings: The Thunder reign while East teams rise",
+    "summary": "Where our NBA insiders ranked all 30 teams as the regular season reaches the home stretch.",
+    "path": "/briefs/nba-power-rankings-the-thunder-reign-while-east-teams-rise-01895de9/",
+    "type": "Brief",
+    "section": "Sports",
+    "source": "ESPN NBA",
+    "timestamp": "2026-03-26T18:14:55Z",
+    "keywords": ""
+  },
+  {
     "title": "Source: Mets add Pham on minors deal for depth",
     "summary": "The Mets added to their depth on Opening Day, reaching a minor league deal with veteran outfielder Tommy Pham, a source told ESPN.",
     "path": "/briefs/source-mets-add-pham-on-minors-deal-for-depth-f8bbdfde/",
@@ -120,24 +140,74 @@
     "keywords": "Media & Attention"
   },
   {
-    "title": "LSU works to lure Wade back as it fires McMahon",
-    "summary": "LSU is working to finalize a deal to bring back Will Wade, the current coach at NC State, who was suspended for the 2019 NCAA tournament while at LSU and later fired amid an NCA...",
-    "path": "/briefs/lsu-works-to-lure-wade-back-as-it-fires-mcmahon-980f1096/",
+    "title": "Best Buy\u2019s stock is rallying amid takeover speculation. But here\u2019s the real story.",
+    "summary": "Some attributed the jump in Best Buy\u2019s stock to the prospect of a takeover by GameStop, but the analyst who wrote the note that started that speculation says otherwise.",
+    "path": "/briefs/best-buy-s-stock-is-rallying-amid-takeover-speculation-but-here-s-the--c77b23e4/",
     "type": "Brief",
-    "section": "Sports",
-    "source": "ESPN Headlines",
-    "timestamp": "2026-03-26T17:35:21Z",
+    "section": "Business & Markets",
+    "source": "MarketWatch",
+    "timestamp": "2026-03-26T17:23:00Z",
     "keywords": "Public Health Watch"
   },
   {
-    "title": "QB Simpson says he's 'absolutely' 1st-round pick",
-    "summary": "Ty Simpson felt like he made a final impression at Alabama's pro day in front of NFL scouts. He believes he's 'absolutely' a lock to be a first-round pick.",
-    "path": "/briefs/qb-simpson-says-he-s-absolutely-1st-round-pick-7544e477/",
+    "title": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now.",
+    "summary": "HELOC interest rates are closing in on the 6% range. So, how much will a $20,000 line of credit cost right now?",
+    "path": "/briefs/heloc-rates-are-closing-in-on-the-6-range-here-s-what-a-20-000-heloc-c-2d4d0539/",
     "type": "Brief",
-    "section": "Sports",
-    "source": "ESPN Headlines",
-    "timestamp": "2026-03-26T17:35:21Z",
-    "keywords": ""
+    "section": "Top Stories",
+    "source": "CBS News Latest",
+    "timestamp": "2026-03-26T17:22:22Z",
+    "keywords": "Markets & Economy"
+  },
+  {
+    "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
+    "summary": "United Airlines and its flight attendants union reached a new labor deal.",
+    "path": "/briefs/united-airlines-flight-attendants-reach-labor-deal-for-first-raises-si-8005de75/",
+    "type": "Brief",
+    "section": "Business & Markets",
+    "source": "CNBC Top",
+    "timestamp": "2026-03-26T17:20:30Z",
+    "keywords": "AI & Tech Shift"
+  },
+  {
+    "title": "Average US long-term mortgage rate leaps to 6.38%, the highest level in more than 6 months",
+    "summary": "The average long-term U.S. mortgage rate climbed this week to its highest level in more than six months, driving up borrowing costs for prospective homebuyers during what\u2019s supp...",
+    "path": "/briefs/average-us-long-term-mortgage-rate-leaps-to-6-38-the-highest-level-in--852a9815/",
+    "type": "Brief",
+    "section": "Business & Markets",
+    "source": "ABC News Business",
+    "timestamp": "2026-03-26T17:17:40Z",
+    "keywords": "Media & Attention Markets & Economy"
+  },
+  {
+    "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
+    "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
+    "path": "/briefs/witkoff-says-u-s-presented-iran-with-15-point-plan-for-potential-peace-3b855d61/",
+    "type": "Brief",
+    "section": "Top Stories",
+    "source": "CBS News Latest",
+    "timestamp": "2026-03-26T17:16:39Z",
+    "keywords": "Conflict Watch Power & Policy"
+  },
+  {
+    "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
+    "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
+    "path": "/briefs/2-charged-in-connection-with-alleged-explosive-device-at-macdill-air-f-fdaf318b/",
+    "type": "Brief",
+    "section": "Top Stories",
+    "source": "ABC News Top Stories",
+    "timestamp": "2026-03-26T17:15:02Z",
+    "keywords": "AI & Tech Shift Media & Attention"
+  },
+  {
+    "title": "What could cause mortgage rates to drop this April?",
+    "summary": "Mortgage rates have climbed back up in recent weeks, but several forces could pull them lower before April ends.",
+    "path": "/briefs/what-could-cause-mortgage-rates-to-drop-this-april-1b870300/",
+    "type": "Brief",
+    "section": "Top Stories",
+    "source": "CBS News Latest",
+    "timestamp": "2026-03-26T17:14:45Z",
+    "keywords": "Markets & Economy"
   },
   {
     "title": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
@@ -160,6 +230,36 @@
     "keywords": "AI & Tech Shift Media & Attention Sports & Culture"
   },
   {
+    "title": "Hillary Clinton to keynote New Hampshire event",
+    "summary": "Former Secretary of State Hillary Clinton (D) is set to speak at a major Democratic Party fundraiser in New Hampshire next month, the state party announced Thursday. Clinton is...",
+    "path": "/briefs/hillary-clinton-to-keynote-new-hampshire-event-e824d195/",
+    "type": "Brief",
+    "section": "U.S. & Politics",
+    "source": "The Hill",
+    "timestamp": "2026-03-26T17:11:40Z",
+    "keywords": "AI & Tech Shift Media & Attention"
+  },
+  {
+    "title": "Heat wave slams the Southwest",
+    "summary": "High temperatures are affecting the Southwest and breaking records. CBS News meteorologist Jessica Burch has the latest.",
+    "path": "/briefs/heat-wave-slams-the-southwest-521d5d5c/",
+    "type": "Brief",
+    "section": "Top Stories",
+    "source": "CBS News Latest",
+    "timestamp": "2026-03-26T17:11:00Z",
+    "keywords": "Media & Attention Climate & Energy"
+  },
+  {
+    "title": "Brussels opens investigation into Snapchat amid concern over children\u2019s safety",
+    "summary": "European Commission says social messaging app is exposing children to grooming and sexual exploitation Brussels has opened an investigation into Snapchat over concerns the socia...",
+    "path": "/briefs/brussels-opens-investigation-into-snapchat-amid-concern-over-children--8658075a/",
+    "type": "Brief",
+    "section": "Technology",
+    "source": "Guardian Technology",
+    "timestamp": "2026-03-26T17:08:55Z",
+    "keywords": "AI & Tech Shift Media & Attention Law & Courts"
+  },
+  {
     "title": "Minnesota elections office subpoenaed in probe over state voter rolls, sources say",
     "summary": "The Minnesota Secretary of State's Office has been ordered to turn over certain voter records.",
     "path": "/briefs/minnesota-elections-office-subpoenaed-in-probe-over-state-voter-rolls--2a15b161/",
@@ -177,37 +277,17 @@
     "section": "Top Stories",
     "source": "CBS News Latest",
     "timestamp": "2026-03-26T17:04:00Z",
-    "keywords": "Power & Policy Conflict Watch"
-  },
-  {
-    "title": "2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI",
-    "summary": "An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.",
-    "path": "/briefs/2-charged-in-connection-with-alleged-explosive-device-at-macdill-air-f-fdaf318b/",
-    "type": "Brief",
-    "section": "Top Stories",
-    "source": "ABC News Top Stories",
-    "timestamp": "2026-03-26T17:02:54Z",
-    "keywords": "AI & Tech Shift Media & Attention"
+    "keywords": "Conflict Watch Power & Policy"
   },
   {
     "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
-    "summary": "Pete Hegseth said he welcomes a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week the defense secretary was \u201cdisappointed\u201d by the idea,...",
+    "summary": "Defense Secretary Pete Hegseth said he would welcome a U.S.-led negotiated peace deal with Iran, after President Trump indicated earlier this week that Hegseth was \u201cdisappointed...",
     "path": "/briefs/hegseth-says-he-welcomes-deal-with-iran-but-pentagon-will-keep-negotia-a5106454/",
     "type": "Brief",
     "section": "U.S. & Politics",
     "source": "The Hill",
     "timestamp": "2026-03-26T17:02:52Z",
-    "keywords": "AI & Tech Shift Power & Policy Conflict Watch"
-  },
-  {
-    "title": "United Airlines, flight attendants reach labor deal for first raises since pandemic",
-    "summary": "United Airlines and its flight attendants union reached a new labor deal.",
-    "path": "/briefs/united-airlines-flight-attendants-reach-labor-deal-for-first-raises-si-8005de75/",
-    "type": "Brief",
-    "section": "Business & Markets",
-    "source": "CNBC Top",
-    "timestamp": "2026-03-26T17:02:29Z",
-    "keywords": "AI & Tech Shift"
+    "keywords": "AI & Tech Shift Conflict Watch Power & Policy"
   },
   {
     "title": "Trump housing chief seeks new criminal probe into Letitia James",
@@ -218,6 +298,16 @@
     "source": "The Hill",
     "timestamp": "2026-03-26T17:01:17Z",
     "keywords": "AI & Tech Shift Power & Policy Markets & Economy"
+  },
+  {
+    "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
+    "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic...",
+    "path": "/briefs/arctic-winter-sea-ice-ties-record-low-nasa-nsidc-scientists-find-76989a5a/",
+    "type": "Brief",
+    "section": "Science & Space",
+    "source": "NASA News Releases",
+    "timestamp": "2026-03-26T17:00:55Z",
+    "keywords": "Space & Science Frontier"
   },
   {
     "title": "These 10 top-rated stocks are crushing the S&P 500 \u2014 yet the media and Wall Street ignore them",
@@ -247,7 +337,7 @@
     "section": "U.S. & Politics",
     "source": "The Hill",
     "timestamp": "2026-03-26T17:00:00Z",
-    "keywords": "AI & Tech Shift Media & Attention Power & Policy Markets & Economy Public Health Watch"
+    "keywords": "Media & Attention Power & Policy Markets & Economy Public Health Watch"
   },
   {
     "title": "The essential ingredients for a winning Democratic midterm message",
@@ -267,7 +357,17 @@
     "section": "Business & Markets",
     "source": "CNBC Top",
     "timestamp": "2026-03-26T16:59:58Z",
-    "keywords": "AI & Tech Shift Power & Policy Conflict Watch Markets & Economy"
+    "keywords": "Conflict Watch Power & Policy Markets & Economy"
+  },
+  {
+    "title": "NASA\u2019s IXPE Gets Fresh Look at Supernova",
+    "summary": "NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) mission has taken a new observation of a supernova, RCW 86, seen here in an image released on March 24, 2026. This observation h...",
+    "path": "/briefs/nasa-s-ixpe-gets-fresh-look-at-supernova-4daea987/",
+    "type": "Brief",
+    "section": "Science & Space",
+    "source": "NASA News Releases",
+    "timestamp": "2026-03-26T16:58:30Z",
+    "keywords": "Space & Science Frontier"
   },
   {
     "title": "Senate GOP sends Democrats \"last and final\" offer to end DHS shutdown",
@@ -287,7 +387,7 @@
     "section": "Business & Markets",
     "source": "MarketWatch",
     "timestamp": "2026-03-26T16:56:00Z",
-    "keywords": "Power & Policy Conflict Watch Markets & Economy"
+    "keywords": "Conflict Watch Power & Policy Markets & Economy"
   },
   {
     "title": "Harris books appearances in the South next month: CNN",
@@ -297,7 +397,7 @@
     "section": "U.S. & Politics",
     "source": "The Hill",
     "timestamp": "2026-03-26T16:50:41Z",
-    "keywords": "Media & Attention Power & Policy"
+    "keywords": ""
   },
   {
     "title": "Mace to Trump: \u2018Take Lindsey Graham out of the Situation Room\u2019",
@@ -347,7 +447,7 @@
     "section": "U.S. & Politics",
     "source": "The Block",
     "timestamp": "2026-03-26T16:45:33Z",
-    "keywords": "Media & Attention"
+    "keywords": ""
   },
   {
     "title": "Trump to Congress: End DHS shutdown or face 'very drastic measures'",
@@ -377,7 +477,7 @@
     "section": "Technology",
     "source": "The Verge",
     "timestamp": "2026-03-26T16:44:20Z",
-    "keywords": "Media & Attention Space & Science Frontier"
+    "keywords": "Space & Science Frontier"
   },
   {
     "title": "\u2018It feels slimy\u2019: My friend offered to be my adviser, but didn\u2019t tell me he\u2019s paid to push financial products. Can I trust him?",
@@ -400,16 +500,6 @@
     "keywords": "Conflict Watch Public Health Watch Law & Courts"
   },
   {
-    "title": "Trump says \u2018military wanted\u2019 White House ballroom: \u2018That was supposed to be secret\u2019",
-    "summary": "President Trump says there\u2019s a national security component to the construction of the White House ballroom that was \u201csupposed to be secret.\u201d \u201cNow it\u2019s no secret, the military wa...",
-    "path": "/briefs/trump-says-military-wanted-white-house-ballroom-that-was-supposed-to-b-3744b660/",
-    "type": "Brief",
-    "section": "U.S. & Politics",
-    "source": "The Hill",
-    "timestamp": "2026-03-26T16:42:34Z",
-    "keywords": "Conflict Watch"
-  },
-  {
     "title": "Long-term care is expensive. Take these 3 steps now to help you afford it later.",
     "summary": "Costs for in-home care and assisted living are up almost 50% since 2019.",
     "path": "/briefs/long-term-care-is-expensive-take-these-3-steps-now-to-help-you-afford--f8ec1829/",
@@ -417,7 +507,7 @@
     "section": "Business & Markets",
     "source": "MarketWatch",
     "timestamp": "2026-03-26T16:40:00Z",
-    "keywords": "Media & Attention"
+    "keywords": ""
   },
   {
     "title": "Savannah Guthrie says \"we cannot be at peace without knowing\" as search for mom continues",
@@ -428,16 +518,6 @@
     "source": "CBS News Latest",
     "timestamp": "2026-03-26T16:38:00Z",
     "keywords": ""
-  },
-  {
-    "title": "Trump reveals Iran apparently gifted the U.S. boats of oil that moved through Strait of Hormuz",
-    "summary": "President Trump said Iran gifted the U.S. multiple boats of oil that were moved through the Strait of Hormuz. Mr. Trump made the comments during a Cabinet meeting after saying t...",
-    "path": "/briefs/trump-reveals-iran-apparently-gifted-the-u-s-boats-of-oil-that-moved-t-b69adf16/",
-    "type": "Brief",
-    "section": "Top Stories",
-    "source": "CBS News Latest",
-    "timestamp": "2026-03-26T16:37:00Z",
-    "keywords": "Conflict Watch Markets & Economy"
   },
   {
     "title": "Anchorage becomes first federally chartered US firm to bring Tron \u2018inside the regulatory perimeter\u2019",
@@ -460,16 +540,6 @@
     "keywords": "Conflict Watch"
   },
   {
-    "title": "Passengers describe surviving LaGuardia collision: \"I'm a walking miracle\"",
-    "summary": "Rebecca Liquori and Rachel Mariotti worked together to remove the exit door and help passengers off the plane after the deadly collision at New York's LaGuardia Airport.",
-    "path": "/briefs/passengers-describe-surviving-laguardia-collision-i-m-a-walking-miracl-928e8000/",
-    "type": "Brief",
-    "section": "Top Stories",
-    "source": "CBS News Latest",
-    "timestamp": "2026-03-26T16:32:28Z",
-    "keywords": ""
-  },
-  {
     "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
     "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its...",
     "path": "/briefs/meta-gets-ready-to-launch-two-new-ray-ban-ai-glasses-946aac5a/",
@@ -487,16 +557,6 @@
     "section": "World",
     "source": "Al Jazeera",
     "timestamp": "2026-03-26T16:27:43Z",
-    "keywords": ""
-  },
-  {
-    "title": "Congress prepares to vote on DHS funding that could end TSA chaos",
-    "summary": "The Senate and House of Representatives are expected to hold votes to test potential off-ramps during a partial government shutdown that has stalled TSA lines at U.S. airports....",
-    "path": "/briefs/congress-prepares-to-vote-on-dhs-funding-that-could-end-tsa-chaos-a64fb48f/",
-    "type": "Brief",
-    "section": "Top Stories",
-    "source": "CBS News Latest",
-    "timestamp": "2026-03-26T16:27:00Z",
     "keywords": ""
   },
   {
@@ -520,16 +580,6 @@
     "keywords": "Markets & Economy"
   },
   {
-    "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
-    "summary": "President Trump warned Iran to make a deal on his terms \"before it is too late.\"",
-    "path": "/briefs/witkoff-says-u-s-presented-iran-with-15-point-plan-for-potential-peace-3b855d61/",
-    "type": "Brief",
-    "section": "Top Stories",
-    "source": "CBS News Latest",
-    "timestamp": "2026-03-26T16:25:49Z",
-    "keywords": ""
-  },
-  {
     "title": "UK now 'ready' to seize Russian shadow fleet ships, Healey says",
     "summary": "Forces can now board sanctioned vessels if required, after ministers identified a legal basis in January.",
     "path": "/briefs/uk-now-ready-to-seize-russian-shadow-fleet-ships-healey-says-4436ae12/",
@@ -537,7 +587,7 @@
     "section": "Top Stories",
     "source": "BBC News",
     "timestamp": "2026-03-26T16:24:42Z",
-    "keywords": "Law & Courts"
+    "keywords": "Conflict Watch Law & Courts"
   },
   {
     "title": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
@@ -557,7 +607,7 @@
     "section": "Technology",
     "source": "New York Times Technology",
     "timestamp": "2026-03-26T16:21:28Z",
-    "keywords": "Markets & Economy Sports & Culture"
+    "keywords": "Sports & Culture"
   },
   {
     "title": "Don't panic - five ways to stop your kids' endless scrolling",
@@ -567,16 +617,6 @@
     "section": "Business & Markets",
     "source": "BBC Business",
     "timestamp": "2026-03-26T16:19:41Z",
-    "keywords": ""
-  },
-  {
-    "title": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
-    "summary": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
-    "path": "/briefs/mlb-faces-a-historic-shift-as-potential-lockout-media-rights-and-other-4b1d1630/",
-    "type": "Brief",
-    "section": "Business & Markets",
-    "source": "CNBC Top",
-    "timestamp": "2026-03-26T16:18:25Z",
     "keywords": ""
   },
   {
@@ -657,7 +697,7 @@
     "section": "World",
     "source": "Al Jazeera",
     "timestamp": "2026-03-26T15:56:05Z",
-    "keywords": "Markets & Economy Public Health Watch"
+    "keywords": "Public Health Watch"
   },
   {
     "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
@@ -1020,16 +1060,6 @@
     "keywords": ""
   },
   {
-    "title": "2026's historic snow drought is bad news for the West",
-    "summary": "For much of the Western US, winter 2026 was the year snow never came.",
-    "path": "/briefs/2026-s-historic-snow-drought-is-bad-news-for-the-west-9e985506/",
-    "type": "Brief",
-    "section": "Technology",
-    "source": "Ars Technica",
-    "timestamp": "2026-03-26T13:52:03Z",
-    "keywords": ""
-  },
-  {
     "title": "Bill Maher to receive Kennedy Center\u2019s Mark Twain prize after White House denial",
     "summary": "Comedian who called Trump \u2018gracious and measured\u2019 will win humor award the White House dubbed \u2018FAKE NEWS\u2019 Bill Maher will win the prestigious Mark Twain prize for American humor...",
     "path": "/briefs/bill-maher-to-receive-kennedy-center-s-mark-twain-prize-after-white-ho-42773b5d/",
@@ -1120,14 +1150,14 @@
     "keywords": "Space & Science Frontier Climate & Energy"
   },
   {
-    "title": "WAGO GmbH & Co. KG Industrial Managed Switches",
-    "summary": "View CSAF Summary An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device...",
-    "path": "/briefs/wago-gmbh-co-kg-industrial-managed-switches-da4008f9/",
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded...",
+    "path": "/briefs/cisa-adds-one-known-exploited-vulnerability-to-catalog-6967b023/",
     "type": "Brief",
     "section": "Security & Privacy",
     "source": "CISA Cybersecurity Advisories",
     "timestamp": "2026-03-26T12:00:00Z",
-    "keywords": "Public Health Watch"
+    "keywords": ""
   },
   {
     "title": "PTC Windchill Product Lifecycle Management",
@@ -1150,14 +1180,14 @@
     "keywords": ""
   },
   {
-    "title": "UK sanctions Chinese crypto marketplace tied to scam compounds",
-    "summary": "The British government sanctioned Xinbi, a Chinese-language cryptocurrency marketplace accused of enabling large-scale online fraud and human exploitation, in a move targeting t...",
-    "path": "/briefs/uk-sanctions-chinese-crypto-marketplace-tied-to-scam-compounds-a0ee2e9e/",
+    "title": "WAGO GmbH & Co. KG Industrial Managed Switches",
+    "summary": "View CSAF Summary An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device...",
+    "path": "/briefs/wago-gmbh-co-kg-industrial-managed-switches-da4008f9/",
     "type": "Brief",
     "section": "Security & Privacy",
-    "source": "The Record",
+    "source": "CISA Cybersecurity Advisories",
     "timestamp": "2026-03-26T12:00:00Z",
-    "keywords": ""
+    "keywords": "Public Health Watch"
   },
   {
     "title": "England sewage spills nearly halved in 2025 due mostly to drier weather",
@@ -1235,9 +1265,9 @@
     "path": "/briefs/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon-b3e19b71/",
     "type": "Brief",
     "section": "Science & Space",
-    "source": "NASA News Releases",
+    "source": "NASA Artemis",
     "timestamp": "2026-03-25T22:58:26Z",
-    "keywords": "Space & Science Frontier"
+    "keywords": ""
   },
   {
     "title": "Lebanese emergency workers risk lives to aid civilians during ongoing Israeli attacks",
@@ -1255,9 +1285,9 @@
     "path": "/briefs/nasa-sets-coverage-for-artemis-ii-moon-mission-883f905c/",
     "type": "Brief",
     "section": "Science & Space",
-    "source": "NASA News Releases",
+    "source": "NASA Artemis",
     "timestamp": "2026-03-25T21:55:11Z",
-    "keywords": "Space & Science Frontier"
+    "keywords": ""
   },
   {
     "title": "Artemis Moon Tree Dedicated in Honor of Mary W. Jackson",
@@ -1334,7 +1364,7 @@
     "summary": "Seattle and Portland, Oregon, are among the cloudiest cities in the United States. But that infamous cloud cover is no match for the U.S.-Indian Earth satellite NISAR (NASA-ISRO...",
     "path": "/briefs/nasa-isro-satellite-captures-pacific-northwest-through-clouds-df32a217/",
     "type": "Brief",
-    "section": "Science & Space",
+    "section": "Climate & Environment",
     "source": "NASA Earth",
     "timestamp": "2026-03-25T15:51:39Z",
     "keywords": "Climate & Energy"
@@ -1347,7 +1377,7 @@
     "section": "Health",
     "source": "PBS Health",
     "timestamp": "2026-03-25T14:52:35Z",
-    "keywords": "Law & Courts"
+    "keywords": ""
   },
   {
     "title": "Young people less satisfied with the NHS - survey",
@@ -1384,7 +1414,7 @@
     "summary": "Back-to-back subtropical cyclones in March fueled destructive flash flooding on several of the Hawaiian Islands.",
     "path": "/briefs/kona-storms-flood-o-ahu-991cd0c3/",
     "type": "Brief",
-    "section": "Science & Space",
+    "section": "Climate & Environment",
     "source": "NASA Earth",
     "timestamp": "2026-03-25T04:01:00Z",
     "keywords": "Climate & Energy"
@@ -1427,7 +1457,7 @@
     "section": "Climate & Environment",
     "source": "BBC Science & Environment",
     "timestamp": "2026-03-24T15:37:53Z",
-    "keywords": "Climate & Energy"
+    "keywords": ""
   },
   {
     "title": "Did you remember to pack the antimatter? CERN takes antiprotons for a short drive",
@@ -1475,7 +1505,7 @@
     "path": "/topics/ai-tech-shift/",
     "type": "Topic",
     "section": "Topics",
-    "source": "74 tracked stories",
+    "source": "72 tracked stories",
     "timestamp": "2026-03-26T18:00:19Z",
     "keywords": "ai artificial intelligence openai google apple meta microsoft chip chips semiconductor software platform app robot internet"
   },
@@ -1485,19 +1515,9 @@
     "path": "/topics/media-attention/",
     "type": "Topic",
     "section": "Topics",
-    "source": "51 tracked stories",
+    "source": "53 tracked stories",
     "timestamp": "2026-03-26T18:00:19Z",
     "keywords": "media newsroom journalism streaming tv television x twitter bluesky youtube tiktok cnn cbs podcast"
-  },
-  {
-    "title": "Power & Policy",
-    "summary": "Government, elections, institutions, and the stories moving public life.",
-    "path": "/topics/power-policy/",
-    "type": "Topic",
-    "section": "Topics",
-    "source": "40 tracked stories",
-    "timestamp": "2026-03-26T17:14:17Z",
-    "keywords": "trump biden election elections campaign congress senate house court policy department president government minister governor"
   },
   {
     "title": "Conflict Watch",
@@ -1505,9 +1525,19 @@
     "path": "/topics/conflict-watch/",
     "type": "Topic",
     "section": "Topics",
-    "source": "39 tracked stories",
-    "timestamp": "2026-03-26T17:04:00Z",
+    "source": "37 tracked stories",
+    "timestamp": "2026-03-26T17:16:39Z",
     "keywords": "war attack attacks missile missiles ceasefire iran israel gaza ukraine russia military troops navy strike conflict"
+  },
+  {
+    "title": "Power & Policy",
+    "summary": "Government, elections, institutions, and the stories moving public life.",
+    "path": "/topics/power-policy/",
+    "type": "Topic",
+    "section": "Topics",
+    "source": "36 tracked stories",
+    "timestamp": "2026-03-26T17:16:39Z",
+    "keywords": "trump biden election elections campaign congress senate house court policy department president government minister governor"
   },
   {
     "title": "Markets & Economy",
@@ -1515,8 +1545,8 @@
     "path": "/topics/markets-economy/",
     "type": "Topic",
     "section": "Topics",
-    "source": "23 tracked stories",
-    "timestamp": "2026-03-26T17:14:17Z",
+    "source": "24 tracked stories",
+    "timestamp": "2026-03-26T17:22:22Z",
     "keywords": "market markets economy economic inflation rates rate fed borrowing stocks oil energy earnings tariff jobs consumer"
   },
   {
@@ -1526,7 +1556,7 @@
     "type": "Topic",
     "section": "Topics",
     "source": "21 tracked stories",
-    "timestamp": "2026-03-26T17:35:21Z",
+    "timestamp": "2026-03-26T17:23:00Z",
     "keywords": "health disease medical medicine hospital virus nih who patients trial outbreak vaccine mental health"
   },
   {
@@ -1535,8 +1565,8 @@
     "path": "/topics/space-science-frontier/",
     "type": "Topic",
     "section": "Topics",
-    "source": "18 tracked stories",
-    "timestamp": "2026-03-26T16:44:20Z",
+    "source": "20 tracked stories",
+    "timestamp": "2026-03-26T17:00:55Z",
     "keywords": "nasa artemis space rocket moon mars science scientists launch research engineering astronomy physics"
   },
   {
@@ -1545,7 +1575,7 @@
     "path": "/topics/law-courts/",
     "type": "Topic",
     "section": "Topics",
-    "source": "12 tracked stories",
+    "source": "13 tracked stories",
     "timestamp": "2026-03-26T18:00:19Z",
     "keywords": "court courts judge judges lawsuit lawsuits legal justice investigation investigations prosecutor prosecutors"
   },
@@ -1555,8 +1585,8 @@
     "path": "/topics/climate-energy/",
     "type": "Topic",
     "section": "Topics",
-    "source": "12 tracked stories",
-    "timestamp": "2026-03-26T15:26:13Z",
+    "source": "13 tracked stories",
+    "timestamp": "2026-03-26T17:11:00Z",
     "keywords": "climate weather heat storm wildfire energy environment emissions ocean earth air quality carbon temperature flood"
   },
   {
@@ -1576,7 +1606,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "8 recent stories",
-    "timestamp": "2026-03-26T17:02:52Z",
+    "timestamp": "2026-03-26T17:11:40Z",
     "keywords": "U.S. & Politics"
   },
   {
@@ -1586,18 +1616,8 @@
     "type": "Source",
     "section": "Sources",
     "source": "8 recent stories",
-    "timestamp": "2026-03-26T15:26:13Z",
+    "timestamp": "2026-03-26T17:00:55Z",
     "keywords": "Science & Space"
-  },
-  {
-    "title": "ESPN Headlines",
-    "summary": "Appearing across Sports, with 8 recent stories on the site.",
-    "path": "/sources/espn-headlines/",
-    "type": "Source",
-    "section": "Sources",
-    "source": "8 recent stories",
-    "timestamp": "2026-03-26T17:55:10Z",
-    "keywords": "Sports"
   },
   {
     "title": "CBS News Latest",
@@ -1606,7 +1626,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "8 recent stories",
-    "timestamp": "2026-03-26T17:05:06Z",
+    "timestamp": "2026-03-26T17:22:22Z",
     "keywords": "Top Stories"
   },
   {
@@ -1618,16 +1638,6 @@
     "source": "7 recent stories",
     "timestamp": "2026-03-26T16:49:11Z",
     "keywords": "Technology"
-  },
-  {
-    "title": "CNBC Top",
-    "summary": "Appearing across Business, with 7 recent stories on the site.",
-    "path": "/sources/cnbc-top/",
-    "type": "Source",
-    "section": "Sources",
-    "source": "7 recent stories",
-    "timestamp": "2026-03-26T17:14:17Z",
-    "keywords": "Business & Markets"
   },
   {
     "title": "Al Jazeera",
@@ -1650,6 +1660,16 @@
     "keywords": "Entertainment"
   },
   {
+    "title": "MarketWatch",
+    "summary": "Appearing across Business, with 6 recent stories on the site.",
+    "path": "/sources/marketwatch/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "6 recent stories",
+    "timestamp": "2026-03-26T17:23:00Z",
+    "keywords": "Business & Markets"
+  },
+  {
     "title": "Guardian Culture",
     "summary": "Appearing across Culture, with 6 recent stories on the site.",
     "path": "/sources/guardian-culture/",
@@ -1668,6 +1688,26 @@
     "source": "6 recent stories",
     "timestamp": "2026-03-26T18:00:19Z",
     "keywords": "Sports"
+  },
+  {
+    "title": "ESPN Headlines",
+    "summary": "Appearing across Sports, with 6 recent stories on the site.",
+    "path": "/sources/espn-headlines/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "6 recent stories",
+    "timestamp": "2026-03-26T17:55:10Z",
+    "keywords": "Sports"
+  },
+  {
+    "title": "CNBC Top",
+    "summary": "Appearing across Business, with 6 recent stories on the site.",
+    "path": "/sources/cnbc-top/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "6 recent stories",
+    "timestamp": "2026-03-26T17:20:30Z",
+    "keywords": "Business & Markets"
   },
   {
     "title": "BleepingComputer",
@@ -1690,16 +1730,6 @@
     "keywords": "Health"
   },
   {
-    "title": "The Record",
-    "summary": "Appearing across Security, with 5 recent stories on the site.",
-    "path": "/sources/the-record/",
-    "type": "Source",
-    "section": "Sources",
-    "source": "5 recent stories",
-    "timestamp": "2026-03-26T15:30:00Z",
-    "keywords": "Security & Privacy"
-  },
-  {
     "title": "The Guardian Environment",
     "summary": "Appearing across Climate, with 5 recent stories on the site.",
     "path": "/sources/the-guardian-environment/",
@@ -1720,16 +1750,6 @@
     "keywords": "Health"
   },
   {
-    "title": "MarketWatch",
-    "summary": "Appearing across Business, with 5 recent stories on the site.",
-    "path": "/sources/marketwatch/",
-    "type": "Source",
-    "section": "Sources",
-    "source": "5 recent stories",
-    "timestamp": "2026-03-26T17:00:00Z",
-    "keywords": "Business & Markets"
-  },
-  {
     "title": "BBC Science & Environment",
     "summary": "Appearing across Climate, with 5 recent stories on the site.",
     "path": "/sources/bbc-science-environment/",
@@ -1738,6 +1758,16 @@
     "source": "5 recent stories",
     "timestamp": "2026-03-26T15:00:14Z",
     "keywords": "Climate & Environment"
+  },
+  {
+    "title": "The Record",
+    "summary": "Appearing across Security, with 4 recent stories on the site.",
+    "path": "/sources/the-record/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "4 recent stories",
+    "timestamp": "2026-03-26T15:30:00Z",
+    "keywords": "Security & Privacy"
   },
   {
     "title": "New York Times Technology",
@@ -1750,14 +1780,34 @@
     "keywords": "Technology"
   },
   {
+    "title": "CISA Cybersecurity Advisories",
+    "summary": "Appearing across Security, with 4 recent stories on the site.",
+    "path": "/sources/cisa-cybersecurity-advisories/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "4 recent stories",
+    "timestamp": "2026-03-26T12:00:00Z",
+    "keywords": "Security & Privacy"
+  },
+  {
     "title": "ABC News Top Stories",
     "summary": "Appearing across Front, with 4 recent stories on the site.",
     "path": "/sources/abc-news-top-stories/",
     "type": "Source",
     "section": "Sources",
     "source": "4 recent stories",
-    "timestamp": "2026-03-26T17:02:54Z",
+    "timestamp": "2026-03-26T17:15:02Z",
     "keywords": "Top Stories"
+  },
+  {
+    "title": "NASA Artemis",
+    "summary": "Appearing across Science, with 3 recent stories on the site.",
+    "path": "/sources/nasa-artemis/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "3 recent stories",
+    "timestamp": "2026-03-25T22:58:26Z",
+    "keywords": "Science & Space"
   },
   {
     "title": "Guardian Science",
@@ -1768,26 +1818,6 @@
     "source": "3 recent stories",
     "timestamp": "2026-03-26T12:00:36Z",
     "keywords": "Science & Space"
-  },
-  {
-    "title": "CISA Cybersecurity Advisories",
-    "summary": "Appearing across Security, with 3 recent stories on the site.",
-    "path": "/sources/cisa-cybersecurity-advisories/",
-    "type": "Source",
-    "section": "Sources",
-    "source": "3 recent stories",
-    "timestamp": "2026-03-26T12:00:00Z",
-    "keywords": "Security & Privacy"
-  },
-  {
-    "title": "Ars Technica",
-    "summary": "Appearing across Tech, with 3 recent stories on the site.",
-    "path": "/sources/ars-technica/",
-    "type": "Source",
-    "section": "Sources",
-    "source": "3 recent stories",
-    "timestamp": "2026-03-26T15:17:18Z",
-    "keywords": "Technology"
   },
   {
     "title": "WHO News",
@@ -1830,6 +1860,16 @@
     "keywords": "Science & Space Climate & Environment"
   },
   {
+    "title": "ESPN NBA",
+    "summary": "Appearing across Sports, with 2 recent stories on the site.",
+    "path": "/sources/espn-nba/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "2 recent stories",
+    "timestamp": "2026-03-26T18:14:55Z",
+    "keywords": "Sports"
+  },
+  {
     "title": "Decrypt",
     "summary": "Appearing across Politics, with 2 recent stories on the site.",
     "path": "/sources/decrypt/",
@@ -1870,6 +1910,16 @@
     "keywords": "Entertainment"
   },
   {
+    "title": "Ars Technica",
+    "summary": "Appearing across Tech, with 2 recent stories on the site.",
+    "path": "/sources/ars-technica/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "2 recent stories",
+    "timestamp": "2026-03-26T15:17:18Z",
+    "keywords": "Technology"
+  },
+  {
     "title": "PBS Science",
     "summary": "Appearing across Science, Climate, with 1 recent story on the site.",
     "path": "/sources/pbs-science/",
@@ -1890,14 +1940,14 @@
     "keywords": "Health"
   },
   {
-    "title": "NASA Artemis",
-    "summary": "Appearing across Science, with 1 recent story on the site.",
-    "path": "/sources/nasa-artemis/",
+    "title": "Guardian Technology",
+    "summary": "Appearing across Tech, with 1 recent story on the site.",
+    "path": "/sources/guardian-technology/",
     "type": "Source",
     "section": "Sources",
     "source": "1 recent stories",
-    "timestamp": "2026-03-25T21:19:37Z",
-    "keywords": "Science & Space"
+    "timestamp": "2026-03-26T17:08:55Z",
+    "keywords": "Technology"
   },
   {
     "title": "BBC World",
@@ -1930,13 +1980,23 @@
     "keywords": "World"
   },
   {
+    "title": "ABC News Business",
+    "summary": "Appearing across Business, with 1 recent story on the site.",
+    "path": "/sources/abc-news-business/",
+    "type": "Source",
+    "section": "Sources",
+    "source": "1 recent stories",
+    "timestamp": "2026-03-26T17:17:40Z",
+    "keywords": "Business & Markets"
+  },
+  {
     "title": "SEC Press Releases",
     "summary": "Appearing across Business, with 0 recent stories on the site.",
     "path": "/sources/sec-press-releases/",
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Business & Markets"
   },
   {
@@ -1946,7 +2006,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Security & Privacy"
   },
   {
@@ -1956,7 +2016,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "World"
   },
   {
@@ -1966,7 +2026,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Top Stories"
   },
   {
@@ -1976,7 +2036,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Business & Markets"
   },
   {
@@ -1986,7 +2046,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "U.S. & Politics"
   },
   {
@@ -1996,7 +2056,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "World"
   },
   {
@@ -2006,7 +2066,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "U.S. & Politics"
   },
   {
@@ -2016,7 +2076,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Top Stories"
   },
   {
@@ -2026,7 +2086,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Business & Markets"
   },
   {
@@ -2036,7 +2096,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Entertainment"
   },
   {
@@ -2046,7 +2106,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "World"
   },
   {
@@ -2056,7 +2116,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "U.S. & Politics"
   },
   {
@@ -2066,7 +2126,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Top Stories"
   },
   {
@@ -2076,7 +2136,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Technology"
   },
   {
@@ -2086,7 +2146,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Business & Markets"
   },
   {
@@ -2096,7 +2156,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Security & Privacy"
   },
   {
@@ -2106,18 +2166,8 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "World"
-  },
-  {
-    "title": "Guardian Technology",
-    "summary": "Appearing across Tech, with 0 recent stories on the site.",
-    "path": "/sources/guardian-technology/",
-    "type": "Source",
-    "section": "Sources",
-    "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
-    "keywords": "Technology"
   },
   {
     "title": "Guardian Sport",
@@ -2126,7 +2176,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Sports"
   },
   {
@@ -2136,7 +2186,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Climate & Environment"
   },
   {
@@ -2146,7 +2196,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Business & Markets"
   },
   {
@@ -2156,7 +2206,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Business & Markets"
   },
   {
@@ -2166,17 +2216,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
-    "keywords": "Sports"
-  },
-  {
-    "title": "ESPN NBA",
-    "summary": "Appearing across Sports, with 0 recent stories on the site.",
-    "path": "/sources/espn-nba/",
-    "type": "Source",
-    "section": "Sources",
-    "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Sports"
   },
   {
@@ -2186,7 +2226,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "U.S. & Politics"
   },
   {
@@ -2196,7 +2236,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Technology"
   },
   {
@@ -2206,7 +2246,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "U.S. & Politics"
   },
   {
@@ -2216,7 +2256,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Health"
   },
   {
@@ -2226,7 +2266,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Technology"
   },
   {
@@ -2236,7 +2276,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Sports"
   },
   {
@@ -2246,7 +2286,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "World"
   },
   {
@@ -2256,7 +2296,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Top Stories"
   },
   {
@@ -2266,7 +2306,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Sports"
   },
   {
@@ -2276,7 +2316,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Business & Markets"
   },
   {
@@ -2286,7 +2326,7 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "Technology"
   },
   {
@@ -2296,28 +2336,48 @@
     "type": "Source",
     "section": "Sources",
     "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
+    "timestamp": "2026-03-26T17:26:49.382458Z",
     "keywords": "U.S. & Politics"
   },
   {
-    "title": "ABC News Business",
-    "summary": "Appearing across Business, with 0 recent stories on the site.",
-    "path": "/sources/abc-news-business/",
-    "type": "Source",
-    "section": "Sources",
-    "source": "0 recent stories",
-    "timestamp": "2026-03-26T17:15:02.060673Z",
-    "keywords": "Business & Markets"
-  },
-  {
     "title": "Trump slams Starmer's reaction to Iran war and questions U.K. alliance",
-    "summary": "Tracking 8 related reports across 6 sources, anchored by the lead story now surfacing on the site.",
+    "summary": "Tracking 6 related reports across 5 sources, anchored by the lead story now surfacing on the site.",
     "path": "/coverage/trump-slams-starmer-s-reaction-to-iran-war-and-questions-u-k-cluster-cea228/",
     "type": "Coverage",
     "section": "Developing",
-    "source": "8 related reports",
+    "source": "6 related reports",
     "timestamp": "2026-03-26T17:04:00Z",
     "keywords": "Trump slams Starmer's reaction to Iran war and questions U.K. alliance"
+  },
+  {
+    "title": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now.",
+    "summary": "Tracking 2 related reports across 1 source, anchored by the lead story now surfacing on the site.",
+    "path": "/coverage/heloc-rates-are-closing-in-on-the-6-range-here-s-what-a-20-0-cluster-2d4d05/",
+    "type": "Coverage",
+    "section": "Developing",
+    "source": "2 related reports",
+    "timestamp": "2026-03-26T17:22:22Z",
+    "keywords": "HELOC rates are closing in on the 6% range. Here's what a $20,000 HELOC costs monthly now."
+  },
+  {
+    "title": "Average US long-term mortgage rate leaps to 6.38%, the highest level in more than 6 months",
+    "summary": "Tracking 2 related reports across 2 sources, anchored by the lead story now surfacing on the site.",
+    "path": "/coverage/average-us-long-term-mortgage-rate-leaps-to-6-38-the-highest-cluster-852a98/",
+    "type": "Coverage",
+    "section": "Developing",
+    "source": "2 related reports",
+    "timestamp": "2026-03-26T17:17:40Z",
+    "keywords": "Average US long-term mortgage rate leaps to 6.38%, the highest level in more than 6 months"
+  },
+  {
+    "title": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal",
+    "summary": "Tracking 2 related reports across 2 sources, anchored by the lead story now surfacing on the site.",
+    "path": "/coverage/witkoff-says-u-s-presented-iran-with-15-point-plan-for-poten-cluster-3b855d/",
+    "type": "Coverage",
+    "section": "Developing",
+    "source": "2 related reports",
+    "timestamp": "2026-03-26T17:16:39Z",
+    "keywords": "Witkoff says U.S. presented Iran with 15-point plan for potential peace proposal"
   },
   {
     "title": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019",
@@ -2330,16 +2390,6 @@
     "keywords": "Hegseth says he welcomes deal with Iran, but Pentagon will keep \u2018negotiating with bombs\u2019"
   },
   {
-    "title": "Details revealed of Board of Peace plan for Gaza disarmament",
-    "summary": "Tracking 2 related reports across 2 sources, anchored by the lead story now surfacing on the site.",
-    "path": "/coverage/details-revealed-of-board-of-peace-plan-for-gaza-disarmament-cluster-620fca/",
-    "type": "Coverage",
-    "section": "Developing",
-    "source": "2 related reports",
-    "timestamp": "2026-03-26T16:47:01Z",
-    "keywords": "Details revealed of Board of Peace plan for Gaza disarmament"
-  },
-  {
     "title": "Olympics align with Trump as transgender athletes banned from women\u2019s games",
     "summary": "Tracking 2 related reports across 2 sources, anchored by the lead story now surfacing on the site.",
     "path": "/coverage/olympics-align-with-trump-as-transgender-athletes-banned-fro-cluster-d0c5fe/",
@@ -2348,16 +2398,6 @@
     "source": "2 related reports",
     "timestamp": "2026-03-26T16:27:43Z",
     "keywords": "Olympics align with Trump as transgender athletes banned from women\u2019s games"
-  },
-  {
-    "title": "UK Sanctions Crypto Marketplace Xinbi in Crackdown on Southeast Asian Scam Centers",
-    "summary": "Tracking 2 related reports across 2 sources, anchored by the lead story now surfacing on the site.",
-    "path": "/coverage/uk-sanctions-crypto-marketplace-xinbi-in-crackdown-on-southe-cluster-8d9144/",
-    "type": "Coverage",
-    "section": "Developing",
-    "source": "2 related reports",
-    "timestamp": "2026-03-26T16:26:03Z",
-    "keywords": "UK Sanctions Crypto Marketplace Xinbi in Crackdown on Southeast Asian Scam Centers"
   },
   {
     "title": "The Front Page Should Feel Like A Front Page Again",

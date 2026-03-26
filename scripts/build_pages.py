@@ -1076,6 +1076,9 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
     topics = model.get("topics", [])[:6]
     editors_picks = model.get("editors_picks", [])
     journal_posts = model.get("journal_posts", [])[:3]
+    lead_feature = featured[0] if featured else None
+    lead_pick = editors_picks[0] if editors_picks else None
+    lead_journal = journal_posts[0] if journal_posts else None
 
     hero = f"""
     <section class="container hero hero-home">
@@ -1112,25 +1115,20 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
       </div>
 
       <aside class="panel hero-note">
-        <p class="panel-label">From The Editor’s Desk</p>
-        <h2>Give the site a voice, not just a wire.</h2>
+        <p class="panel-label">Today’s Edition</p>
+        <h2>Start with the stories that make the rest of the page easier to read.</h2>
         <p>
-          The homepage handles the headlines. The journal is where you can publish takes, roundups,
-          essays, market notes, or whatever deserves your own byline.
+          If a reader only has a few minutes, this is the better path through the day:
+          the main front-page lead, one brief with stronger context, and one byline piece that sounds like you.
         </p>
-        <div class="stack-links">
-          <a class="social-panel-link" href="/journal/">
-            <span>Journal</span>
-            <strong>Open your columns and dispatches</strong>
-          </a>
-          <a class="social-panel-link" href="{SOCIAL_X_URL}" target="_blank" rel="noreferrer noopener">
-            <span>X / Twitter</span>
-            <strong>@MrBobCorbin</strong>
-          </a>
-          <a class="social-panel-link" href="{SOCIAL_BLUESKY_URL}" target="_blank" rel="noreferrer noopener">
-            <span>Bluesky</span>
-            <strong>mrbobcorbin.bsky.social</strong>
-          </a>
+        <div class="edition-list">
+          {render_edition_link("Lead Story", lead_feature.get("title") if lead_feature else "The lead story will land here after the next refresh.", lead_feature.get("brief_path") if lead_feature else "/latest/", lead_feature.get("summary") if lead_feature else "Open the newswire while the next top-line story is being prepared.")}
+          {render_edition_link("Best Context", lead_pick.get("title") if lead_pick else "A more contextual brief will appear here as the feed settles.", lead_pick.get("brief_path") if lead_pick else "/topics/", lead_pick.get("why_it_matters") if lead_pick else "Topic pages and editor picks turn the feed into a more readable edition.")}
+          {render_edition_link("Your Byline", lead_journal.get("title") if lead_journal else "Your latest column will show here once the next journal entry is published.", lead_journal.get("path") if lead_journal else "/journal/", lead_journal.get("description") if lead_journal else "The journal is where the publication starts sounding like you instead of only sounding fast.")}
+        </div>
+        <div class="button-row">
+          <a class="button button-secondary" href="/latest/">Open the newswire</a>
+          <a class="button button-secondary" href="/topics/">Track the big threads</a>
         </div>
       </aside>
     </section>
@@ -2616,6 +2614,16 @@ def render_quicklink_card(title: str, body: str, href: str) -> str:
       <p>{escape(body)}</p>
       <a class="story-link" href="{href}">Open page</a>
     </article>
+    """
+
+
+def render_edition_link(kicker: str, title: str, href: str, summary: str) -> str:
+    return f"""
+    <a class="edition-link" href="{href}">
+      <span class="edition-kicker">{escape(kicker)}</span>
+      <strong>{escape(title)}</strong>
+      <small>{escape(summary)}</small>
+    </a>
     """
 
 

@@ -247,10 +247,10 @@ button {
 }
 
 .masthead-wrap {
-  padding: 0.9rem 0 0.55rem;
+  padding: 0.65rem 0 0.4rem;
   flex-direction: column;
   align-items: center;
-  gap: 0.55rem;
+  gap: 0.4rem;
 }
 
 .masthead-edition {
@@ -258,10 +258,10 @@ button {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  padding: 0.45rem 0;
+  padding: 0.35rem 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.22);
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 0.72rem;
+  font-size: 0.66rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--muted);
@@ -273,7 +273,7 @@ button {
   gap: 1rem;
   justify-content: center;
   width: 100%;
-  padding: 0.65rem 0 0.8rem;
+  padding: 0.45rem 0 0.55rem;
   border-top: 4px double rgba(0, 0, 0, 0.78);
   border-bottom: 4px double rgba(0, 0, 0, 0.78);
 }
@@ -285,7 +285,7 @@ button {
 }
 
 .brand strong {
-  font-size: clamp(3.6rem, 9vw, 6.9rem);
+  font-size: clamp(3rem, 7.4vw, 5.9rem);
   line-height: 0.82;
   letter-spacing: -0.05em;
   font-family: "Cormorant Garamond", serif;
@@ -294,7 +294,7 @@ button {
 
 .brand small {
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 0.64rem;
+  font-size: 0.58rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--muted);
@@ -302,18 +302,18 @@ button {
 
 .brand img {
   filter: grayscale(1) contrast(1.1);
-  width: 36px;
-  height: 36px;
+  width: 30px;
+  height: 30px;
 }
 
 .site-nav {
   display: inline-flex;
   flex-wrap: wrap;
-  gap: 1rem 1.25rem;
+  gap: 0.8rem 1rem;
   font-family: "IBM Plex Sans", sans-serif;
   justify-content: center;
   width: 100%;
-  padding: 0.55rem 0 0.35rem;
+  padding: 0.4rem 0 0.25rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.18);
 }
 
@@ -323,7 +323,7 @@ button {
   transition: color 180ms ease;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  font-size: 0.82rem;
+  font-size: 0.76rem;
 }
 
 .site-nav a:hover,
@@ -338,7 +338,7 @@ button {
 }
 
 .ticker-wrap {
-  padding: 0.8rem 0;
+  padding: 0.55rem 0;
 }
 
 .ticker-label {
@@ -372,6 +372,7 @@ button {
   align-items: center;
   gap: 0.75rem;
   color: var(--text);
+  font-size: 0.95rem;
 }
 
 .ticker-divider {
@@ -389,7 +390,7 @@ button {
 
 .hero-home {
   display: block;
-  padding-top: 1.35rem;
+  padding-top: 0.9rem;
 }
 
 .hero-compact {
@@ -425,9 +426,9 @@ button {
 
 .hero-text {
   max-width: 60ch;
-  margin: 1rem 0 0;
-  line-height: 1.68;
-  font-size: 1.05rem;
+  margin: 0.8rem 0 0;
+  line-height: 1.6;
+  font-size: 0.98rem;
 }
 
 .newsprint-frontpage {
@@ -440,11 +441,11 @@ button {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: 0.8rem;
-  padding: 0.5rem 0.85rem;
+  gap: 0.6rem;
+  padding: 0.35rem 0.7rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.18);
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 0.72rem;
+  font-size: 0.64rem;
   letter-spacing: 0.13em;
   text-transform: uppercase;
   color: var(--muted);
@@ -465,7 +466,7 @@ button {
 }
 
 .newsprint-block {
-  padding: 0.9rem 1rem 1rem;
+  padding: 0.65rem 0.8rem 0.72rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
 }
 
@@ -474,14 +475,14 @@ button {
 }
 
 .newsprint-block-lead {
-  padding: 1rem 1.35rem 1.2rem;
+  padding: 0.8rem 1rem 0.95rem;
   text-align: center;
 }
 
 .paper-kicker {
-  margin: 0 0 0.45rem;
+  margin: 0 0 0.32rem;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 0.72rem;
+  font-size: 0.64rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--muted);
@@ -490,9 +491,9 @@ button {
 .paper-meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.4rem;
   justify-content: center;
-  margin-bottom: 0.55rem;
+  margin-bottom: 0.35rem;
 }
 
 .newsprint-column .paper-meta {
@@ -507,24 +508,25 @@ button {
 }
 
 .newsprint-block-lead .paper-headline {
-  font-size: clamp(3.5rem, 7vw, 5.9rem);
-  max-width: 8.5ch;
+  font-size: clamp(2.8rem, 5.8vw, 4.9rem);
+  max-width: 9.2ch;
   margin: 0 auto;
   text-transform: uppercase;
 }
 
 .newsprint-block:not(.newsprint-block-lead) .paper-headline {
-  font-size: 1.9rem;
+  font-size: 1.45rem;
 }
 
 .paper-summary {
-  margin: 0.7rem 0 0;
-  line-height: 1.65;
+  margin: 0.45rem 0 0;
+  line-height: 1.45;
+  font-size: 0.9rem;
   color: var(--muted);
 }
 
 .newsprint-utility {
-  padding: 1rem 1.35rem 1.2rem;
+  padding: 0.75rem 1rem 0.9rem;
   border-top: 1px solid rgba(0, 0, 0, 0.16);
   text-align: center;
 }
@@ -537,10 +539,11 @@ button {
 
 .newsprint-utility .hero-actions {
   justify-content: center;
+  margin-top: 1rem;
 }
 
 .newsprint-utility .hero-stats {
-  margin-top: 1.2rem;
+  margin-top: 0.8rem;
 }
 
 .newsprint-lower-row {
@@ -558,7 +561,7 @@ button {
   display: flex;
   flex-wrap: wrap;
   gap: 0.85rem;
-  margin: 1.5rem 0 0;
+  margin: 1rem 0 0;
 }
 
 .button {
@@ -566,7 +569,7 @@ button {
   align-items: center;
   justify-content: center;
   border-radius: 2px;
-  padding: 0.95rem 1.25rem;
+  padding: 0.75rem 1rem;
   transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
 }
 
@@ -590,7 +593,7 @@ button {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  margin-top: 1.5rem;
+  margin-top: 0.95rem;
 }
 
 .search-form-hero {
@@ -605,7 +608,7 @@ button {
 .search-input {
   flex: 1;
   min-width: 0;
-  padding: 0.95rem 1.1rem;
+  padding: 0.75rem 0.9rem;
   color: var(--text);
   border-radius: 2px;
   border: 1px solid rgba(0, 0, 0, 0.12);
@@ -636,7 +639,7 @@ button {
 
 .hero-stats {
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  margin-top: 1.6rem;
+  margin-top: 0.9rem;
 }
 
 .hero-stats article,
@@ -675,7 +678,7 @@ button {
 .story-compact,
 .section-card,
 .timeline-item {
-  padding: 1.25rem;
+  padding: 1rem;
 }
 
 .hero-stats strong,

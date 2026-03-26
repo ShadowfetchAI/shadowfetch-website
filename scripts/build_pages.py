@@ -1135,11 +1135,11 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
     topics = model.get("topics", [])[:6]
     editors_picks = model.get("editors_picks", [])
     journal_posts = model.get("journal_posts", [])[:3]
-    front_page_stories = select_front_page_stories(featured + model.get("latest", []), 7)
+    front_page_stories = select_front_page_stories(featured + model.get("latest", []), 9)
     lead_feature = front_page_stories[0] if front_page_stories else None
-    left_column_stories = front_page_stories[1:3]
-    right_column_stories = front_page_stories[3:5]
-    lower_row_stories = front_page_stories[5:7]
+    left_column_stories = front_page_stories[1:4]
+    right_column_stories = front_page_stories[4:7]
+    lower_row_stories = front_page_stories[7:9]
     desk_line = " • ".join(escape(section.get("short_label", section["title"])) for section in sections[:8])
     left_markup = "".join(render_newspaper_story_block(story) for story in left_column_stories)
     right_markup = "".join(render_newspaper_story_block(story) for story in right_column_stories)

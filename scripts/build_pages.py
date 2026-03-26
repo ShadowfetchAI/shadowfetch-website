@@ -28,6 +28,7 @@ ARCHIVE_INDEX_PATH = ROOT / "archive" / "index.html"
 SOURCES_INDEX_PATH = ROOT / "sources" / "index.html"
 ROUNDUP_TODAY_PATH = ROOT / "roundups" / "today" / "index.html"
 JOURNAL_INDEX_PATH = ROOT / "journal" / "index.html"
+RSS_FEED_PATH = ROOT / "feed.xml"
 
 SECTION_ROOT = ROOT / "sections"
 TOPIC_ROOT = ROOT / "topics"
@@ -48,6 +49,7 @@ SOCIAL_X_URL = "https://x.com/MrBobCorbin"
 SOCIAL_BLUESKY_URL = "https://bsky.app/profile/mrbobcorbin.bsky.social"
 SOCIAL_KALSHI_URL = "https://kalshi.com/sign-up/?referral=6ca54e6d-a516-4918-bc0a-829b18f99f70"
 AUTHOR_NAME = "MrBobCorbin"
+OG_DEFAULT_IMAGE = "https://shadowfetch.com/assets/shadowfetch-mark.svg"
 
 STOPWORDS = {
     "about",

@@ -56,10 +56,10 @@ That writes a fresh `assets/data/feed.json`, regenerates the HTML pages across t
 
 The site is deployed from generated output:
 
-- GitHub Actions refreshes feed data before deployment and on a schedule.
-- GitHub Actions also regenerates every HTML page, the search index, and sitemap files.
+- GitHub Actions now builds the newsroom and deploys `dist/` to Cloudflare Pages.
+- The deploy workflow also refreshes feed data before each deployment and on a schedule.
 - The deployed site ships with the current stories already embedded into the page HTML.
-- Cloudflare Pages can now deploy the prepared `dist/` directory with the `functions/` folder for dynamic routes.
+- Cloudflare Pages serves the prepared `dist/` directory with the `functions/` folder for dynamic routes.
 
 ## Cloudflare move
 
@@ -69,8 +69,14 @@ The repo is now set up for a real cutover to Cloudflare Pages:
 - `functions/api/visit.js` adds a dynamic visitor counter endpoint.
 - `functions/api/meta.js` and `functions/api/latest.js` add lightweight runtime APIs.
 - `migrations/0001_shadowfetch.sql` seeds the optional D1 database table for the counter.
+- `.github/workflows/static.yml` now targets Cloudflare Pages instead of GitHub Pages.
 
 The step-by-step cutover notes are in [docs/cloudflare-migration.md](/Users/robertcorbin/Documents/Playground/Shadowfetch/docs/cloudflare-migration.md).
+
+To enable GitHub-driven deploys and scheduled refreshes, add these repository secrets:
+
+- `CLOUDFLARE_API_TOKEN`
+- `CLOUDFLARE_ACCOUNT_ID`
 
 ## Feed strategy
 

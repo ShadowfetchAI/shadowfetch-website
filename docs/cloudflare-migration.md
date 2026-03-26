@@ -70,6 +70,9 @@ If D1 is not configured yet, the new counter API falls back to CounterAPI so the
 
 ## Notes
 
-- Keep the current GitHub Pages workflow in place until Cloudflare is live.
 - The `functions/` directory is only compiled when deploying with Wrangler.
 - `dist/_headers` is generated automatically for basic caching and security headers.
+- The repository workflow now expects two GitHub secrets for automated Cloudflare deploys:
+  - `CLOUDFLARE_API_TOKEN`
+  - `CLOUDFLARE_ACCOUNT_ID`
+- If the old Cloudflare Git integration stays broken, GitHub Actions direct deploys are the reliable path forward.

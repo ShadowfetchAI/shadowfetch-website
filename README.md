@@ -1,93 +1,99 @@
 # ShadowFetch News
 
-ShadowFetch News is a multi-page newsroom with a late-breaking front page, topic hubs, source profiles,
-story briefs, coverage clusters, a searchable archive, and a top-of-page visitor counter plus social links.
+ShadowFetch News is a newspaper-style digital newsroom built for fast reads, broad coverage, and source-first linking.
+It combines a print-inspired front page with generated section pages, topic hubs, searchable archives, editorial briefs,
+and a lightweight journal for original writing.
 
-The repo now also includes a Cloudflare migration path so the site can move off GitHub Pages and grow into a hybrid static-plus-dynamic newsroom.
+Live site: [www.shadowfetch.com](https://www.shadowfetch.com)
 
-## Site structure
+## What it is
 
-- `index.html` is the front page.
-- `latest/index.html` is the denser late-breaking archive view.
-- `sections/index.html` is the desk directory.
-- `topics/index.html` is the topic hub index.
-- `sources/index.html` is the source directory.
-- `search/index.html` is the client-side search page.
-- `archive/index.html` is the dated archive index.
-- `roundups/today/index.html` is the generated daily roundup page.
-- `sections/<section-key>/index.html` pages are generated desk pages for each section.
-- `topics/<topic-key>/index.html` pages group broader story lines across the site.
-- `sources/<source-key>/index.html` pages show each feed source and its recent footprint.
-- `briefs/<story-slug>/index.html` pages are internal story briefs with related links.
-- `coverage/<cluster-slug>/index.html` pages group developing stories.
-- `archive/<YYYY-MM-DD>/index.html` pages store dated story sets.
-- `about/index.html` explains the project and follow links.
-- `assets/styles.css` contains the shared visual system.
-- `assets/app.js` contains the social links, visitor counter logic, filter controls, and search behavior.
-- `assets/data/feed-config.json` defines the section list and source feeds.
-- `assets/data/feed.json` is the generated feed dataset consumed by the site.
-- `assets/data/search-index.json` is the generated search dataset for the search page.
-- `scripts/build_feed.py` fetches the configured feeds and prepares the JSON feed dataset.
-- `scripts/build_pages.py` generates the site shell, all section/topic/source/detail pages, the search index, `sitemap.xml`, and `robots.txt`.
-- `scripts/build_dist.py` packages the generated site into `dist/` for Cloudflare Pages.
-- `functions/api/*.js` adds Cloudflare Pages Functions for dynamic routes like the visitor counter and feed APIs.
-- `wrangler.jsonc` defines the Cloudflare Pages project config.
+- A multi-page news site with a front page, live wire, desks, topics, archive, and journal
+- A source-first reading experience where headlines can send readers to the original publisher
+- A Cloudflare-ready newsroom with prepared content and a few dynamic endpoints
+- A project designed to feel nostalgic and editorial, not like a generic feed dashboard
 
-## Visitor counter
+## Highlights
 
-The visitor counter now has a migration-safe stack:
+- 1950s-inspired newspaper presentation with clickable digital articles
+- Generated section pages for world, politics, business, technology, sports, entertainment, health, science, and more
+- Topic hubs, source profiles, coverage clusters, and internal story briefs
+- Searchable archive and dated archive pages
+- Markdown-backed journal for original posts
+- Top-of-page social links and on-site visitor counter
+- Cloudflare Pages deployment with Functions and optional D1-backed counter storage
 
-- The browser first tries the local Cloudflare route at `/api/visit`.
-- If D1 is configured in Cloudflare, the counter can be stored on your own site stack.
-- If D1 is not configured yet, the Cloudflare function falls back to CounterAPI.
-- The browser only increments once per session and still degrades cleanly if no counter backend is available.
+## Project structure
 
-## Refresh the feed locally
+- `index.html`: front page
+- `latest/index.html`: late-breaking wire
+- `sections/`: desk landing pages
+- `topics/`: topic hubs
+- `sources/`: source profiles
+- `briefs/`: generated story brief pages
+- `coverage/`: grouped developing-story pages
+- `archive/`: dated archive pages
+- `journal/`: published original writing
+- `content/journal/`: markdown source for journal posts
+- `assets/styles.css`: shared visual system
+- `assets/app.js`: client-side enhancements, search, filters, social links, counter behavior
+- `assets/data/feed-config.json`: feed and desk configuration
+- `scripts/build_feed.py`: fetches and prepares feed data
+- `scripts/build_pages.py`: generates the HTML site and search index
+- `scripts/build_dist.py`: prepares the Cloudflare deployment bundle
+- `functions/api/`: Cloudflare Pages Functions for runtime APIs
+
+## Local development
+
+Requirements:
+
+- Python 3.11+
+- Node.js 20+
+
+Install dependencies:
 
 ```bash
-python3 scripts/build_feed.py
-python3 scripts/build_pages.py
-python3 scripts/build_dist.py
+npm install
 ```
 
-That writes a fresh `assets/data/feed.json`, regenerates the HTML pages across the site, rebuilds `assets/data/search-index.json`, refreshes the sitemap files, and prepares the Cloudflare-ready `dist/` directory.
+Build the newsroom:
 
-## Publishing note
+```bash
+npm run build
+```
 
-The site is deployed from generated output:
+Run it locally with Cloudflare Pages:
 
-- GitHub Actions now builds the newsroom and deploys `dist/` to Cloudflare Pages.
-- The deploy workflow also refreshes feed data before each deployment and on a schedule.
-- The deployed site ships with the current stories already embedded into the page HTML.
-- Cloudflare Pages serves the prepared `dist/` directory with the `functions/` folder for dynamic routes.
+```bash
+npm run dev
+```
 
-## Cloudflare move
+## Deployment
 
-The repo is now set up for a real cutover to Cloudflare Pages:
+ShadowFetch News is built for Cloudflare Pages.
 
-- `dist/` is the Cloudflare build output.
-- `functions/api/visit.js` adds a dynamic visitor counter endpoint.
-- `functions/api/meta.js` and `functions/api/latest.js` add lightweight runtime APIs.
-- `migrations/0001_shadowfetch.sql` seeds the optional D1 database table for the counter.
-- `.github/workflows/static.yml` now targets Cloudflare Pages instead of GitHub Pages.
+- Pushes to `main` can deploy through GitHub Actions
+- The scheduled workflow refreshes feed data twice an hour
+- Cloudflare Functions power runtime routes like `/api/visit`, `/api/meta`, and `/api/latest`
+- D1 can store the visitor counter on your own stack, with fallback support already in place
 
-The step-by-step cutover notes are in [docs/cloudflare-migration.md](/Users/robertcorbin/Documents/Playground/Shadowfetch/docs/cloudflare-migration.md).
-
-To enable GitHub-driven deploys and scheduled refreshes, add these repository secrets:
+Repository secrets needed for automated deployment:
 
 - `CLOUDFLARE_API_TOKEN`
 - `CLOUDFLARE_ACCOUNT_ID`
 
-## Feed strategy
+More details: [Cloudflare migration notes](docs/cloudflare-migration.md)
 
-The source mix leans on:
+## Writing and publishing
 
-- official institutional feeds where practical
-- long-running publisher feeds for broad coverage
-- topic-specific feeds for areas like security, science, politics, business, and culture
+Journal entries live in `content/journal/` as markdown files.
+The site generator turns them into published pages under `journal/`.
 
-## Next upgrades
+## Contributing
 
-- publish original editor-written notes and roundups
-- add newsletter capture and analytics-backed most-read modules
-- introduce richer manual curation controls for the homepage
+Contributions are welcome.
+Start with [CONTRIBUTING.md](CONTRIBUTING.md) for workflow and content guidelines.
+
+## Security
+
+If you find a security issue, please follow [SECURITY.md](SECURITY.md) instead of opening a public issue.

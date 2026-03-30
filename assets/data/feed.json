@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-03-30T20:30:18.043114Z",
+  "generated_at": "2026-03-30T20:50:40.396899Z",
   "successful_sources": 71,
   "total_sources": 79,
   "featured": [
     {
-      "title": "Trump threatens to invade Iran, \"obliterate\" its energy resources",
-      "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea/",
-      "summary": "Energy markets remain volatile as President Trump threatens Iran with an invasion to seize its oil while also suggesting a deal could soon end the war.",
-      "source": "CBS News Latest",
-      "source_key": "cbs-news-latest",
-      "source_homepage": "https://www.cbsnews.com/",
-      "source_feed": "https://www.cbsnews.com/latest/rss/main",
+      "title": "Michigan synagogue attacker committed 'Hezbollah-inspired act of terrorism': FBI",
+      "link": "https://abcnews.com/US/michigan-synagogue-attacker-committed-hezbollah-inspired-act-terrorism/story?id=131537299",
+      "summary": "The man armed with fireworks who rammed his truck into a West Bloomfield, Michigan, synagogue was carrying out \"a Hezbollah-inspired act of terrorism,\" the FBI said.",
+      "source": "ABC News Top Stories",
+      "source_key": "abc-news-top-stories",
+      "source_homepage": "https://abcnews.go.com/",
+      "source_feed": "https://abcnews.go.com/abcnews/topstories",
       "section": "Top Stories",
       "section_key": "top-stories",
-      "timestamp": "2026-03-30T20:21:39Z"
+      "timestamp": "2026-03-30T20:43:37Z"
     },
     {
       "title": "US embassy reopens in Venezuela months after Maduro abduction",
@@ -40,19 +40,127 @@
       "timestamp": "2026-03-30T20:19:59Z"
     },
     {
-      "title": "Microsoft\u2019s stock may extend a record stretch of lagging performance that\u2019s ignited fierce debate",
-      "link": "https://www.marketwatch.com/story/microsofts-stock-may-extend-a-record-stretch-of-lagging-performance-thats-ignited-fierce-debate-ff1a2576?mod=mw_rss_topstories",
-      "summary": "Analysts are divided over whether Microsoft\u2019s diversified business model is a long-term AI advantage or a convenient present-day excuse.",
+      "title": "This AI power company\u2019s Trump-named power project still has no customers in sight",
+      "link": "https://www.marketwatch.com/story/this-ai-power-companys-trump-named-power-project-still-has-no-customers-in-sight-8ad766b3?mod=mw_rss_topstories",
+      "summary": "Fermi\u2019s stock sank to a record low, as Project Matador has yet to secure its first client, and the company didn\u2019t provide clarity on when it would.",
       "source": "MarketWatch",
       "source_key": "marketwatch",
       "source_homepage": "https://www.marketwatch.com",
       "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
       "section": "Business & Markets",
       "section_key": "business-markets",
-      "timestamp": "2026-03-30T20:22:00Z"
+      "timestamp": "2026-03-30T20:41:00Z"
     }
   ],
   "latest": [
+    {
+      "title": "Pack's LaFleur mulls low grade in player survey",
+      "link": "https://www.espn.com/nfl/story/_/id/48348614/packers-matt-lafleur-mulls-low-survey-grade-cites-need-grow-connection-players",
+      "summary": "Matt LaFleur said he's aware of the issues that have prevented the Packers from making a Super Bowl run.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-30T21:32:18Z"
+    },
+    {
+      "title": "49ers HC, owner deliver mixed signals on Aiyuk",
+      "link": "https://www.espn.com/nfl/story/_/id/48349809/49ers-coach-owner-deliver-mixed-messages-aiyuk-future",
+      "summary": "49ers coach Kyle Shanahan and owner Jed York delivered differing messages on Bradon Aiyuk's future Monday.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-30T21:32:17Z"
+    },
+    {
+      "title": "Giants' Harbaugh open to possible OBJ reunion",
+      "link": "https://www.espn.com/nfl/story/_/id/48348428/giants-harbaugh-open-possible-odell-beckham-jr-reunion",
+      "summary": "Free agent wide receiver Odell Beckham Jr. wants to return to the New York Giants. The Giants are at least open to looking into adding Beckham for a second tour with the team.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-30T21:32:17Z"
+    },
+    {
+      "title": "Cowboys unsure on Pickens' offseason attendance",
+      "link": "https://www.espn.com/nfl/story/_/id/48348124/cowboys-unsure-george-pickens-attend-offseason-program",
+      "summary": "Cowboys coach Brian Schottenheimer does not have assurances that franchise-tagged receiver George Pickens will be in attendance for the team's offseason program.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-30T21:32:17Z"
+    },
+    {
+      "title": "Rams explored trading Adams, decided against it",
+      "link": "https://www.espn.com/nfl/story/_/id/48348389/rams-say-explored-trading-adams-decided-it",
+      "summary": "Rams coach Sean McVay acknowledged that the team explored the possibility of trading wide receiver Davante Adams but ultimately decided it wasn't what was best for the team.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-30T21:32:17Z"
+    },
+    {
+      "title": "Shanahan: No 'benefit' for Niners in Aussie trip",
+      "link": "https://www.espn.com/nfl/story/_/id/48348153/kyle-shanahan-says-niners-get-no-benefit-australia-trip",
+      "summary": "Kyle Shanahan isn't thrilled that the 49ers will open the 2026 season with a trip to Australia.",
+      "source": "ESPN Headlines",
+      "source_key": "espn-headlines",
+      "source_homepage": "https://www.espn.com/",
+      "source_feed": "https://www.espn.com/espn/rss/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-30T21:32:17Z"
+    },
+    {
+      "title": "Browns pull proposal to trade picks 5 years out",
+      "link": "https://www.espn.com/nfl/story/_/id/48348462/sources-browns-pull-proposal-allow-trades-5-years-out",
+      "summary": "The Browns have withdrawn their rule proposal to allow NFL teams to trade draft picks five years into the future instead of three, according to NFL Network.",
+      "source": "ESPN NFL",
+      "source_key": "espn-nfl",
+      "source_homepage": "https://www.espn.com/nfl/",
+      "source_feed": "https://www.espn.com/espn/rss/nfl/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-30T21:29:52Z"
+    },
+    {
+      "title": "Lions considering moving All-Pro RT Sewell to LT",
+      "link": "https://www.espn.com/nfl/story/_/id/48349293/lions-considering-moving-all-pro-rt-sewell-lt-campbell-says",
+      "summary": "Lions coach Dan Campbell said Monday he's considering switching All-Pro right tackle Penei Sewell to left tackle for the 2026 season.",
+      "source": "ESPN NFL",
+      "source_key": "espn-nfl",
+      "source_homepage": "https://www.espn.com/nfl/",
+      "source_feed": "https://www.espn.com/espn/rss/nfl/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-30T21:29:52Z"
+    },
+    {
+      "title": "Saints: Enough snaps for both Kamara, Etienne",
+      "link": "https://www.espn.com/nfl/story/_/id/48348095/saints-coach-moore-enough-snaps-kamara-etienne",
+      "summary": "Saints coach Kellen Moore said Monday there would be enough snaps to go around for running backs Alvin Kamara and Travis Etienne.",
+      "source": "ESPN NFL",
+      "source_key": "espn-nfl",
+      "source_homepage": "https://www.espn.com/nfl/",
+      "source_feed": "https://www.espn.com/espn/rss/nfl/news",
+      "section": "Sports",
+      "section_key": "sports",
+      "timestamp": "2026-03-30T21:29:52Z"
+    },
     {
       "title": "Mets fans boo Bichette as early strikeouts mount",
       "link": "https://www.espn.com/mlb/story/_/id/48342743/bo-bichette-hears-boos-mets-fans-strikeouts-mount",
@@ -114,100 +222,76 @@
       "timestamp": "2026-03-30T21:07:52Z"
     },
     {
-      "title": "Murakami joins DeLauter in elite rookie HR club",
-      "link": "https://www.espn.com/mlb/story/_/id/48342983/murakami-joins-delauter-exclusive-rookie-hr-club",
-      "summary": "Munetaka Murakami of the Chicago White Sox and Chase DeLauter of the Cleveland Guardians have accomplished something in the last week that had been done only twice before: homer...",
-      "source": "ESPN MLB",
-      "source_key": "espn-mlb",
-      "source_homepage": "https://www.espn.com/mlb/",
-      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-30T21:07:52Z"
+      "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
+      "summary": "A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network. [...]",
+      "source": "BleepingComputer",
+      "source_key": "bleepingcomputer",
+      "source_homepage": "https://www.bleepingcomputer.com/",
+      "source_feed": "https://www.bleepingcomputer.com/feed/",
+      "section": "Security & Privacy",
+      "section_key": "security-privacy",
+      "timestamp": "2026-03-30T20:49:22Z"
     },
     {
-      "title": "\u26be 2026 predictions: Playoff teams, award winners",
-      "link": "https://www.espn.com/mlb/story/_/id/48290428/mlb-2026-season-predictions-divisions-playoffs-world-series-mvp-cy-young-awards",
-      "summary": "Can the Dodgers three-peat? Will Skubal and Skenes win another Cy Young? Our experts make their predictions for the 2026 baseball season.",
-      "source": "ESPN MLB",
-      "source_key": "espn-mlb",
-      "source_homepage": "https://www.espn.com/mlb/",
-      "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-30T21:07:52Z"
+      "title": "Michigan synagogue attacker committed 'Hezbollah-inspired act of terrorism': FBI",
+      "link": "https://abcnews.com/US/michigan-synagogue-attacker-committed-hezbollah-inspired-act-terrorism/story?id=131537299",
+      "summary": "The man armed with fireworks who rammed his truck into a West Bloomfield, Michigan, synagogue was carrying out \"a Hezbollah-inspired act of terrorism,\" the FBI said.",
+      "source": "ABC News Top Stories",
+      "source_key": "abc-news-top-stories",
+      "source_homepage": "https://abcnews.go.com/",
+      "source_feed": "https://abcnews.go.com/abcnews/topstories",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-30T20:43:37Z"
     },
     {
-      "title": "Passan: How ball-strike challenge rule is rocking baseball -- and who is using it best (and worst)",
-      "link": "https://www.espn.com/mlb/story/_/id/48346818/mlb-2026-automated-balls-strikes-challenges-abs-best-worst-opening-weekend",
-      "summary": "Baseball's new ABS system is the talk of the sport. We hand out awards after the first weekend of the rule.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-30T20:46:14Z"
+      "title": "This AI power company\u2019s Trump-named power project still has no customers in sight",
+      "link": "https://www.marketwatch.com/story/this-ai-power-companys-trump-named-power-project-still-has-no-customers-in-sight-8ad766b3?mod=mw_rss_topstories",
+      "summary": "Fermi\u2019s stock sank to a record low, as Project Matador has yet to secure its first client, and the company didn\u2019t provide clarity on when it would.",
+      "source": "MarketWatch",
+      "source_key": "marketwatch",
+      "source_homepage": "https://www.marketwatch.com",
+      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-30T20:41:00Z"
     },
     {
-      "title": "A historic rookie class? Is Trout back? 10 things we learned from opening weekend",
-      "link": "https://www.espn.com/mlb/story/_/id/48339938/mlb-2026-opening-weekend-takeaways-rookies-yankees-dodgers-hot-start-early-struggles",
-      "summary": "From early trends to the most -- and least -- surprising performances, what stood out in baseball's return.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-30T20:46:14Z"
+      "title": "Sysco goes all in on the \u2018cash and carry\u2019 food-service business with a $29 billion buyout",
+      "link": "https://www.marketwatch.com/story/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-29-billion-buyout-5e06c72c?mod=mw_rss_topstories",
+      "summary": "Sysco\u2019s stock tumbles after announcing a $29.1 billion cash-and-stock deal to buy Jetro Restaurant Depot.",
+      "source": "MarketWatch",
+      "source_key": "marketwatch",
+      "source_homepage": "https://www.marketwatch.com",
+      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-30T20:38:00Z"
     },
     {
-      "title": "Giants' Harbaugh open to possible OBJ reunion",
-      "link": "https://www.espn.com/nfl/story/_/id/48348428/giants-harbaugh-open-possible-odell-beckham-jr-reunion",
-      "summary": "Free agent wide receiver Odell Beckham Jr. wants to return to the New York Giants. The Giants are at least open to looking into adding Beckham for a second tour with the team.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-30T20:24:19Z"
+      "title": "JetBlue Airways raises checked bag fees at least $4 as fuel prices soar",
+      "link": "https://www.cnbc.com/2026/03/30/jetblue-airways-raises-checked-baggage-fees-as-fuel-prices-soar.html",
+      "summary": "Airfare has climbed for routes around the world, driven by higher fuel prices since the U.S. and Israel attacked Iran.",
+      "source": "CNBC Top",
+      "source_key": "cnbc-top",
+      "source_homepage": "https://www.cnbc.com/",
+      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "section": "Business & Markets",
+      "section_key": "business-markets",
+      "timestamp": "2026-03-30T20:35:01Z"
     },
     {
-      "title": "Shanahan: No 'benefit' for Niners in Aussie trip",
-      "link": "https://www.espn.com/nfl/story/_/id/48348153/kyle-shanahan-says-niners-get-no-benefit-australia-trip",
-      "summary": "Kyle Shanahan isn't thrilled that the 49ers will open the 2026 season with a trip to Australia.",
-      "source": "ESPN Headlines",
-      "source_key": "espn-headlines",
-      "source_homepage": "https://www.espn.com/",
-      "source_feed": "https://www.espn.com/espn/rss/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-30T20:24:19Z"
-    },
-    {
-      "title": "Lions considering moving All-Pro RT Sewell to LT",
-      "link": "https://www.espn.com/nfl/story/_/id/48349293/lions-considering-moving-all-pro-rt-sewell-lt-campbell-says",
-      "summary": "Lions coach Dan Campbell said Monday he's considering switching All-Pro right tackle Penei Sewell to left tackle for the 2026 season.",
-      "source": "ESPN NFL",
-      "source_key": "espn-nfl",
-      "source_homepage": "https://www.espn.com/nfl/",
-      "source_feed": "https://www.espn.com/espn/rss/nfl/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-30T20:24:19Z"
-    },
-    {
-      "title": "Saints: Enough snaps for both Kamara, Etienne",
-      "link": "https://www.espn.com/nfl/story/_/id/48348095/saints-coach-moore-enough-snaps-kamara-etienne",
-      "summary": "Saints coach Kellen Moore said Monday there would be enough snaps to go around for running backs Alvin Kamara and Travis Etienne.",
-      "source": "ESPN NFL",
-      "source_key": "espn-nfl",
-      "source_homepage": "https://www.espn.com/nfl/",
-      "source_feed": "https://www.espn.com/espn/rss/nfl/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-30T20:24:19Z"
+      "title": "Yemeni politician says former U.S. soldiers tried to kill him. Now he's suing in U.S. court",
+      "link": "https://www.npr.org/2026/03/30/nx-s1-5707305/yemen-politician-assassination-us-soldiers-lawsuit",
+      "summary": "The suit is centered around the alleged attempt on Anssaf Ali Mayo's life. But it raises broader questions, including about the role of the United Arab Emirates in Yemen's civil...",
+      "source": "NPR News",
+      "source_key": "npr-news",
+      "source_homepage": "https://www.npr.org/sections/news/",
+      "source_feed": "https://feeds.npr.org/1001/rss.xml",
+      "section": "Top Stories",
+      "section_key": "top-stories",
+      "timestamp": "2026-03-30T20:22:34Z"
     },
     {
       "title": "Microsoft\u2019s stock may extend a record stretch of lagging performance that\u2019s ignited fierce debate",
@@ -270,16 +354,16 @@
       "timestamp": "2026-03-30T20:19:38Z"
     },
     {
-      "title": "Michigan synagogue attacker committed 'Hezbollah-inspired act of terrorism': FBI",
-      "link": "https://abcnews.com/US/michigan-synagogue-attacker-committed-hezbollah-inspired-act-terrorism/story?id=131537299",
-      "summary": "The man armed with fireworks who rammed his truck into a West Bloomfield, Michigan, synagogue was carrying out \"a Hezbollah-inspired act of terrorism,\" the FBI said.",
-      "source": "ABC News Top Stories",
-      "source_key": "abc-news-top-stories",
-      "source_homepage": "https://abcnews.go.com/",
-      "source_feed": "https://abcnews.go.com/abcnews/topstories",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-30T20:17:10Z"
+      "title": "Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit",
+      "link": "https://arstechnica.com/tech-policy/2026/03/judge-halts-nexstar-tegna-merger-after-fcc-let-firms-exceed-tv-ownership-limit/",
+      "summary": "\"Defendants must immediately cease\" actions to integrate and consolidate the firms.",
+      "source": "Ars Technica",
+      "source_key": "ars-technica",
+      "source_homepage": "https://arstechnica.com/",
+      "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
+      "section": "Technology",
+      "section_key": "technology",
+      "timestamp": "2026-03-30T20:18:16Z"
     },
     {
       "title": "US embassy reopens in Venezuela months after Maduro abduction",
@@ -364,18 +448,6 @@
       "section": "Business & Markets",
       "section_key": "business-markets",
       "timestamp": "2026-03-30T20:05:00Z"
-    },
-    {
-      "title": "Kryptonite for 10 NBA title contenders: Which weaknesses could sink playoff teams?",
-      "link": "https://www.espn.com/nba/story/_/id/48315335/nba-2025-2026-playoff-kryptonite-opponents-avoid-eastern-western-conference",
-      "summary": "We evaluated every playoff contender's biggest weaknesses, how it will impact the postseason and which team is best positioned to exploit them.",
-      "source": "ESPN NBA",
-      "source_key": "espn-nba",
-      "source_homepage": "https://www.espn.com/nba/",
-      "source_feed": "https://www.espn.com/espn/rss/nba/news",
-      "section": "Sports",
-      "section_key": "sports",
-      "timestamp": "2026-03-30T20:03:06Z"
     },
     {
       "title": "Michigan synagogue attack was Hezbollah-inspired terrorist act, FBI announces",
@@ -690,18 +762,6 @@
       "timestamp": "2026-03-30T19:27:58Z"
     },
     {
-      "title": "US-bound flight returns to Brazil over engine problem",
-      "link": "https://thehill.com/policy/transportation/5807824-delta-flight-engine-issue-brazil/",
-      "summary": "A Delta Air Lines flight bound for Atlanta returned to S\u00e3o Paulo on Sunday evening because of an engine issue, the airline said. Delta flight 104, an Airbus A330-300, returned t...",
-      "source": "The Hill",
-      "source_key": "the-hill",
-      "source_homepage": "https://thehill.com/",
-      "source_feed": "https://thehill.com/feed/",
-      "section": "U.S. & Politics",
-      "section_key": "u-s-politics",
-      "timestamp": "2026-03-30T19:26:33Z"
-    },
-    {
       "title": "Delaware judge reassigns Elon Musk cases after accusation of bias",
       "link": "https://www.cnbc.com/2026/03/30/delaware-judge-reassigns-elon-musk-cases-after-accusation-of-bias.html",
       "summary": "Kathaleen McCormick, a judge in Delaware's Court of Chancery, is reassigning cases involving Elon Musk to other judges in the state's business court.",
@@ -762,43 +822,19 @@
       "timestamp": "2026-03-30T19:15:50Z"
     },
     {
-      "title": "C\u00e9line Dion announces comeback shows four years after Stiff Person Syndrome diagnosis",
+      "title": "C\u00e9line Dion announces comeback shows in Paris after incurable diagnosis",
       "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
       "summary": "The star was diagnosed with a rare condition that affects her singing voice and her ability to walk.",
-      "source": "BBC News",
-      "source_key": "bbc-news",
-      "source_homepage": "https://www.bbc.com/news",
-      "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
-      "section": "Top Stories",
-      "section_key": "top-stories",
-      "timestamp": "2026-03-30T19:15:23Z"
-    },
-    {
-      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-      "link": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
       "source": "BBC World",
       "source_key": "bbc-world",
       "source_homepage": "https://www.bbc.com/news/world",
       "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "section": "World",
       "section_key": "world",
-      "timestamp": "2026-03-30T19:14:12Z"
+      "timestamp": "2026-03-30T19:15:23Z"
     },
     {
-      "title": "These stocks are \u2018the place to be\u2019 if you want serious AI growth, says BofA",
-      "link": "https://www.marketwatch.com/story/these-stocks-are-the-place-to-be-if-you-want-serious-ai-growth-says-bofa-35df5562?mod=mw_rss_topstories",
-      "summary": "Analysts like the strong multiyear growth potential that chip-equipment companies may hold.",
-      "source": "MarketWatch",
-      "source_key": "marketwatch",
-      "source_homepage": "https://www.marketwatch.com",
-      "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-30T19:08:00Z"
-    },
-    {
-      "title": "Meta hopes SCOTUS piracy ruling will help it beat lawsuit over torrenting AI data",
+      "title": "Authors' lucky break in court may help class action over Meta torrenting",
       "link": "https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/",
       "summary": "Judge gave authors an easier attack on Meta\u2019s torrenting. Meta hopes SCOTUS ruling will block it.",
       "source": "Ars Technica",
@@ -808,18 +844,6 @@
       "section": "Technology",
       "section_key": "technology",
       "timestamp": "2026-03-30T19:04:01Z"
-    },
-    {
-      "title": "Millions of drivers mis-sold car finance to receive average \u00a3829 in compensation",
-      "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The City regulator says 12.1 million mis-sold motor finance deals will be eligible for redress.",
-      "source": "BBC Business",
-      "source_key": "bbc-business",
-      "source_homepage": "https://www.bbc.com/news/business",
-      "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-30T18:59:19Z"
     },
     {
       "title": "Cuba waits for Russian oil tanker to arrive amid US blockade",
@@ -832,18 +856,6 @@
       "section": "World",
       "section_key": "world",
       "timestamp": "2026-03-30T18:56:01Z"
-    },
-    {
-      "title": "JetBlue Airways raises checked bag fees at least $4 as fuel prices soar",
-      "link": "https://www.cnbc.com/2026/03/30/jetblue-airways-raises-checked-baggage-fees-as-fuel-prices-soar.html",
-      "summary": "Airfare has climbed for routes around the world, driven by higher fuel prices since the U.S. and Israel attacked Iran.",
-      "source": "CNBC Top",
-      "source_key": "cnbc-top",
-      "source_homepage": "https://www.cnbc.com/",
-      "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "section": "Business & Markets",
-      "section_key": "business-markets",
-      "timestamp": "2026-03-30T18:55:28Z"
     },
     {
       "title": "Sarah Shahi Plays a Therapist on \u2018Paradise\u2019 and Nearly Everywhere Else",
@@ -1182,18 +1194,6 @@
       "timestamp": "2026-03-30T15:08:50Z"
     },
     {
-      "title": "Tapping, twirling and \"T\" signs: Sports replays have a language all their own",
-      "link": "https://abcnews.com/Technology/wireStory/tapping-twirling-signs-sports-replays-language-131542705",
-      "summary": "Every moment of any major sporting event can be dissected in high-definition these days, meaning officials and umpires sometimes seem to be staring at a TV screen to review clos...",
-      "source": "ABC News Technology",
-      "source_key": "abc-news-technology",
-      "source_homepage": "https://abcnews.go.com/technology",
-      "source_feed": "https://abcnews.go.com/abcnews/technologyheadlines",
-      "section": "Technology",
-      "section_key": "technology",
-      "timestamp": "2026-03-30T15:02:54Z"
-    },
-    {
       "title": "Tributes to Showaddywaddy guitarist after death",
       "link": "https://www.bbc.com/news/articles/cly08d1evlyo?at_medium=RSS&at_campaign=rss",
       "summary": "A former bandmate has described Trevor Oakes as \"an innovator and a fantastic asset to the band\".",
@@ -1216,6 +1216,30 @@
       "total_sources": 7,
       "stories": [
         {
+          "title": "Michigan synagogue attacker committed 'Hezbollah-inspired act of terrorism': FBI",
+          "link": "https://abcnews.com/US/michigan-synagogue-attacker-committed-hezbollah-inspired-act-terrorism/story?id=131537299",
+          "summary": "The man armed with fireworks who rammed his truck into a West Bloomfield, Michigan, synagogue was carrying out \"a Hezbollah-inspired act of terrorism,\" the FBI said.",
+          "source": "ABC News Top Stories",
+          "source_key": "abc-news-top-stories",
+          "source_homepage": "https://abcnews.go.com/",
+          "source_feed": "https://abcnews.go.com/abcnews/topstories",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-30T20:43:37Z"
+        },
+        {
+          "title": "Yemeni politician says former U.S. soldiers tried to kill him. Now he's suing in U.S. court",
+          "link": "https://www.npr.org/2026/03/30/nx-s1-5707305/yemen-politician-assassination-us-soldiers-lawsuit",
+          "summary": "The suit is centered around the alleged attempt on Anssaf Ali Mayo's life. But it raises broader questions, including about the role of the United Arab Emirates in Yemen's civil...",
+          "source": "NPR News",
+          "source_key": "npr-news",
+          "source_homepage": "https://www.npr.org/sections/news/",
+          "source_feed": "https://feeds.npr.org/1001/rss.xml",
+          "section": "Top Stories",
+          "section_key": "top-stories",
+          "timestamp": "2026-03-30T20:22:34Z"
+        },
+        {
           "title": "Trump threatens to invade Iran, \"obliterate\" its energy resources",
           "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea/",
           "summary": "Energy markets remain volatile as President Trump threatens Iran with an invasion to seize its oil while also suggesting a deal could soon end the war.",
@@ -1226,18 +1250,6 @@
           "section": "Top Stories",
           "section_key": "top-stories",
           "timestamp": "2026-03-30T20:21:39Z"
-        },
-        {
-          "title": "Michigan synagogue attacker committed 'Hezbollah-inspired act of terrorism': FBI",
-          "link": "https://abcnews.com/US/michigan-synagogue-attacker-committed-hezbollah-inspired-act-terrorism/story?id=131537299",
-          "summary": "The man armed with fireworks who rammed his truck into a West Bloomfield, Michigan, synagogue was carrying out \"a Hezbollah-inspired act of terrorism,\" the FBI said.",
-          "source": "ABC News Top Stories",
-          "source_key": "abc-news-top-stories",
-          "source_homepage": "https://abcnews.go.com/",
-          "source_feed": "https://abcnews.go.com/abcnews/topstories",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-30T20:17:10Z"
         },
         {
           "title": "Tony-nominated actor Mary Beth Hurt dies at 79",
@@ -1370,18 +1382,6 @@
           "section": "Top Stories",
           "section_key": "top-stories",
           "timestamp": "2026-03-30T19:19:53Z"
-        },
-        {
-          "title": "C\u00e9line Dion announces comeback shows four years after Stiff Person Syndrome diagnosis",
-          "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
-          "summary": "The star was diagnosed with a rare condition that affects her singing voice and her ability to walk.",
-          "source": "BBC News",
-          "source_key": "bbc-news",
-          "source_homepage": "https://www.bbc.com/news",
-          "source_feed": "https://feeds.bbci.co.uk/news/rss.xml",
-          "section": "Top Stories",
-          "section_key": "top-stories",
-          "timestamp": "2026-03-30T19:15:23Z"
         }
       ]
     },
@@ -1478,16 +1478,16 @@
           "timestamp": "2026-03-30T19:15:50Z"
         },
         {
-          "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-          "link": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
-          "summary": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
+          "title": "C\u00e9line Dion announces comeback shows in Paris after incurable diagnosis",
+          "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
+          "summary": "The star was diagnosed with a rare condition that affects her singing voice and her ability to walk.",
           "source": "BBC World",
           "source_key": "bbc-world",
           "source_homepage": "https://www.bbc.com/news/world",
           "source_feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
           "section": "World",
           "section_key": "world",
-          "timestamp": "2026-03-30T19:14:12Z"
+          "timestamp": "2026-03-30T19:15:23Z"
         },
         {
           "title": "Cuba waits for Russian oil tanker to arrive amid US blockade",
@@ -1571,6 +1571,42 @@
       "successful_sources": 9,
       "total_sources": 11,
       "stories": [
+        {
+          "title": "This AI power company\u2019s Trump-named power project still has no customers in sight",
+          "link": "https://www.marketwatch.com/story/this-ai-power-companys-trump-named-power-project-still-has-no-customers-in-sight-8ad766b3?mod=mw_rss_topstories",
+          "summary": "Fermi\u2019s stock sank to a record low, as Project Matador has yet to secure its first client, and the company didn\u2019t provide clarity on when it would.",
+          "source": "MarketWatch",
+          "source_key": "marketwatch",
+          "source_homepage": "https://www.marketwatch.com",
+          "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-30T20:41:00Z"
+        },
+        {
+          "title": "Sysco goes all in on the \u2018cash and carry\u2019 food-service business with a $29 billion buyout",
+          "link": "https://www.marketwatch.com/story/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-29-billion-buyout-5e06c72c?mod=mw_rss_topstories",
+          "summary": "Sysco\u2019s stock tumbles after announcing a $29.1 billion cash-and-stock deal to buy Jetro Restaurant Depot.",
+          "source": "MarketWatch",
+          "source_key": "marketwatch",
+          "source_homepage": "https://www.marketwatch.com",
+          "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-30T20:38:00Z"
+        },
+        {
+          "title": "JetBlue Airways raises checked bag fees at least $4 as fuel prices soar",
+          "link": "https://www.cnbc.com/2026/03/30/jetblue-airways-raises-checked-baggage-fees-as-fuel-prices-soar.html",
+          "summary": "Airfare has climbed for routes around the world, driven by higher fuel prices since the U.S. and Israel attacked Iran.",
+          "source": "CNBC Top",
+          "source_key": "cnbc-top",
+          "source_homepage": "https://www.cnbc.com/",
+          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "section": "Business & Markets",
+          "section_key": "business-markets",
+          "timestamp": "2026-03-30T20:35:01Z"
+        },
         {
           "title": "Microsoft\u2019s stock may extend a record stretch of lagging performance that\u2019s ignited fierce debate",
           "link": "https://www.marketwatch.com/story/microsofts-stock-may-extend-a-record-stretch-of-lagging-performance-thats-ignited-fierce-debate-ff1a2576?mod=mw_rss_topstories",
@@ -1702,42 +1738,6 @@
           "section": "Business & Markets",
           "section_key": "business-markets",
           "timestamp": "2026-03-30T19:18:00Z"
-        },
-        {
-          "title": "These stocks are \u2018the place to be\u2019 if you want serious AI growth, says BofA",
-          "link": "https://www.marketwatch.com/story/these-stocks-are-the-place-to-be-if-you-want-serious-ai-growth-says-bofa-35df5562?mod=mw_rss_topstories",
-          "summary": "Analysts like the strong multiyear growth potential that chip-equipment companies may hold.",
-          "source": "MarketWatch",
-          "source_key": "marketwatch",
-          "source_homepage": "https://www.marketwatch.com",
-          "source_feed": "https://feeds.marketwatch.com/marketwatch/topstories/",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-30T19:08:00Z"
-        },
-        {
-          "title": "Millions of drivers mis-sold car finance to receive average \u00a3829 in compensation",
-          "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
-          "summary": "The City regulator says 12.1 million mis-sold motor finance deals will be eligible for redress.",
-          "source": "BBC Business",
-          "source_key": "bbc-business",
-          "source_homepage": "https://www.bbc.com/news/business",
-          "source_feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-30T18:59:19Z"
-        },
-        {
-          "title": "JetBlue Airways raises checked bag fees at least $4 as fuel prices soar",
-          "link": "https://www.cnbc.com/2026/03/30/jetblue-airways-raises-checked-baggage-fees-as-fuel-prices-soar.html",
-          "summary": "Airfare has climbed for routes around the world, driven by higher fuel prices since the U.S. and Israel attacked Iran.",
-          "source": "CNBC Top",
-          "source_key": "cnbc-top",
-          "source_homepage": "https://www.cnbc.com/",
-          "source_feed": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-          "section": "Business & Markets",
-          "section_key": "business-markets",
-          "timestamp": "2026-03-30T18:55:28Z"
         }
       ]
     },
@@ -1749,6 +1749,18 @@
       "successful_sources": 8,
       "total_sources": 8,
       "stories": [
+        {
+          "title": "Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit",
+          "link": "https://arstechnica.com/tech-policy/2026/03/judge-halts-nexstar-tegna-merger-after-fcc-let-firms-exceed-tv-ownership-limit/",
+          "summary": "\"Defendants must immediately cease\" actions to integrate and consolidate the firms.",
+          "source": "Ars Technica",
+          "source_key": "ars-technica",
+          "source_homepage": "https://arstechnica.com/",
+          "source_feed": "https://feeds.arstechnica.com/arstechnica/index",
+          "section": "Technology",
+          "section_key": "technology",
+          "timestamp": "2026-03-30T20:18:16Z"
+        },
         {
           "title": "Democrats Examine Elon Musk\u2019s Role in Suspension of Business Disclosure Law",
           "link": "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
@@ -1774,7 +1786,7 @@
           "timestamp": "2026-03-30T19:47:46Z"
         },
         {
-          "title": "Meta hopes SCOTUS piracy ruling will help it beat lawsuit over torrenting AI data",
+          "title": "Authors' lucky break in court may help class action over Meta torrenting",
           "link": "https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/",
           "summary": "Judge gave authors an easier attack on Meta\u2019s torrenting. Meta hopes SCOTUS ruling will block it.",
           "source": "Ars Technica",
@@ -1904,18 +1916,6 @@
           "section": "Technology",
           "section_key": "technology",
           "timestamp": "2026-03-30T15:08:50Z"
-        },
-        {
-          "title": "Tapping, twirling and \"T\" signs: Sports replays have a language all their own",
-          "link": "https://abcnews.com/Technology/wireStory/tapping-twirling-signs-sports-replays-language-131542705",
-          "summary": "Every moment of any major sporting event can be dissected in high-definition these days, meaning officials and umpires sometimes seem to be staring at a TV screen to review clos...",
-          "source": "ABC News Technology",
-          "source_key": "abc-news-technology",
-          "source_homepage": "https://abcnews.go.com/technology",
-          "source_feed": "https://abcnews.go.com/abcnews/technologyheadlines",
-          "section": "Technology",
-          "section_key": "technology",
-          "timestamp": "2026-03-30T15:02:54Z"
         }
       ]
     },
@@ -2284,6 +2284,18 @@
       "total_sources": 5,
       "stories": [
         {
+          "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
+          "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
+          "summary": "A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network. [...]",
+          "source": "BleepingComputer",
+          "source_key": "bleepingcomputer",
+          "source_homepage": "https://www.bleepingcomputer.com/",
+          "source_feed": "https://www.bleepingcomputer.com/feed/",
+          "section": "Security & Privacy",
+          "section_key": "security-privacy",
+          "timestamp": "2026-03-30T20:49:22Z"
+        },
+        {
           "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
           "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
           "summary": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
@@ -2438,18 +2450,6 @@
           "section": "Security & Privacy",
           "section_key": "security-privacy",
           "timestamp": "2026-03-30T06:42:58Z"
-        },
-        {
-          "title": "Apple\u2019s Camera Indicator Lights",
-          "link": "https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html",
-          "summary": "A thoughtful review of Apple\u2019s system to alert users that the camera is on. It\u2019s really well-designed, and important in a world where malware could surreptitiously start recordi...",
-          "source": "Schneier on Security",
-          "source_key": "schneier-on-security",
-          "source_homepage": "https://www.schneier.com/",
-          "source_feed": "https://www.schneier.com/feed/atom/",
-          "section": "Security & Privacy",
-          "section_key": "security-privacy",
-          "timestamp": "2026-03-30T02:50:28Z"
         }
       ]
     },
@@ -2640,6 +2640,114 @@
       "total_sources": 8,
       "stories": [
         {
+          "title": "Pack's LaFleur mulls low grade in player survey",
+          "link": "https://www.espn.com/nfl/story/_/id/48348614/packers-matt-lafleur-mulls-low-survey-grade-cites-need-grow-connection-players",
+          "summary": "Matt LaFleur said he's aware of the issues that have prevented the Packers from making a Super Bowl run.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-30T21:32:18Z"
+        },
+        {
+          "title": "49ers HC, owner deliver mixed signals on Aiyuk",
+          "link": "https://www.espn.com/nfl/story/_/id/48349809/49ers-coach-owner-deliver-mixed-messages-aiyuk-future",
+          "summary": "49ers coach Kyle Shanahan and owner Jed York delivered differing messages on Bradon Aiyuk's future Monday.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-30T21:32:17Z"
+        },
+        {
+          "title": "Giants' Harbaugh open to possible OBJ reunion",
+          "link": "https://www.espn.com/nfl/story/_/id/48348428/giants-harbaugh-open-possible-odell-beckham-jr-reunion",
+          "summary": "Free agent wide receiver Odell Beckham Jr. wants to return to the New York Giants. The Giants are at least open to looking into adding Beckham for a second tour with the team.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-30T21:32:17Z"
+        },
+        {
+          "title": "Cowboys unsure on Pickens' offseason attendance",
+          "link": "https://www.espn.com/nfl/story/_/id/48348124/cowboys-unsure-george-pickens-attend-offseason-program",
+          "summary": "Cowboys coach Brian Schottenheimer does not have assurances that franchise-tagged receiver George Pickens will be in attendance for the team's offseason program.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-30T21:32:17Z"
+        },
+        {
+          "title": "Rams explored trading Adams, decided against it",
+          "link": "https://www.espn.com/nfl/story/_/id/48348389/rams-say-explored-trading-adams-decided-it",
+          "summary": "Rams coach Sean McVay acknowledged that the team explored the possibility of trading wide receiver Davante Adams but ultimately decided it wasn't what was best for the team.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-30T21:32:17Z"
+        },
+        {
+          "title": "Shanahan: No 'benefit' for Niners in Aussie trip",
+          "link": "https://www.espn.com/nfl/story/_/id/48348153/kyle-shanahan-says-niners-get-no-benefit-australia-trip",
+          "summary": "Kyle Shanahan isn't thrilled that the 49ers will open the 2026 season with a trip to Australia.",
+          "source": "ESPN Headlines",
+          "source_key": "espn-headlines",
+          "source_homepage": "https://www.espn.com/",
+          "source_feed": "https://www.espn.com/espn/rss/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-30T21:32:17Z"
+        },
+        {
+          "title": "Browns pull proposal to trade picks 5 years out",
+          "link": "https://www.espn.com/nfl/story/_/id/48348462/sources-browns-pull-proposal-allow-trades-5-years-out",
+          "summary": "The Browns have withdrawn their rule proposal to allow NFL teams to trade draft picks five years into the future instead of three, according to NFL Network.",
+          "source": "ESPN NFL",
+          "source_key": "espn-nfl",
+          "source_homepage": "https://www.espn.com/nfl/",
+          "source_feed": "https://www.espn.com/espn/rss/nfl/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-30T21:29:52Z"
+        },
+        {
+          "title": "Lions considering moving All-Pro RT Sewell to LT",
+          "link": "https://www.espn.com/nfl/story/_/id/48349293/lions-considering-moving-all-pro-rt-sewell-lt-campbell-says",
+          "summary": "Lions coach Dan Campbell said Monday he's considering switching All-Pro right tackle Penei Sewell to left tackle for the 2026 season.",
+          "source": "ESPN NFL",
+          "source_key": "espn-nfl",
+          "source_homepage": "https://www.espn.com/nfl/",
+          "source_feed": "https://www.espn.com/espn/rss/nfl/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-30T21:29:52Z"
+        },
+        {
+          "title": "Saints: Enough snaps for both Kamara, Etienne",
+          "link": "https://www.espn.com/nfl/story/_/id/48348095/saints-coach-moore-enough-snaps-kamara-etienne",
+          "summary": "Saints coach Kellen Moore said Monday there would be enough snaps to go around for running backs Alvin Kamara and Travis Etienne.",
+          "source": "ESPN NFL",
+          "source_key": "espn-nfl",
+          "source_homepage": "https://www.espn.com/nfl/",
+          "source_feed": "https://www.espn.com/espn/rss/nfl/news",
+          "section": "Sports",
+          "section_key": "sports",
+          "timestamp": "2026-03-30T21:29:52Z"
+        },
+        {
           "title": "Mets fans boo Bichette as early strikeouts mount",
           "link": "https://www.espn.com/mlb/story/_/id/48342743/bo-bichette-hears-boos-mets-fans-strikeouts-mount",
           "summary": "Bo Bichette heard his first boos from Mets fans as he has struck out eight times in his first three games. \"I thought my at-bats were terrible, too,\" he said.",
@@ -2698,114 +2806,6 @@
           "section": "Sports",
           "section_key": "sports",
           "timestamp": "2026-03-30T21:07:52Z"
-        },
-        {
-          "title": "Murakami joins DeLauter in elite rookie HR club",
-          "link": "https://www.espn.com/mlb/story/_/id/48342983/murakami-joins-delauter-exclusive-rookie-hr-club",
-          "summary": "Munetaka Murakami of the Chicago White Sox and Chase DeLauter of the Cleveland Guardians have accomplished something in the last week that had been done only twice before: homer...",
-          "source": "ESPN MLB",
-          "source_key": "espn-mlb",
-          "source_homepage": "https://www.espn.com/mlb/",
-          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-30T21:07:52Z"
-        },
-        {
-          "title": "\u26be 2026 predictions: Playoff teams, award winners",
-          "link": "https://www.espn.com/mlb/story/_/id/48290428/mlb-2026-season-predictions-divisions-playoffs-world-series-mvp-cy-young-awards",
-          "summary": "Can the Dodgers three-peat? Will Skubal and Skenes win another Cy Young? Our experts make their predictions for the 2026 baseball season.",
-          "source": "ESPN MLB",
-          "source_key": "espn-mlb",
-          "source_homepage": "https://www.espn.com/mlb/",
-          "source_feed": "https://www.espn.com/espn/rss/mlb/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-30T21:07:52Z"
-        },
-        {
-          "title": "Passan: How ball-strike challenge rule is rocking baseball -- and who is using it best (and worst)",
-          "link": "https://www.espn.com/mlb/story/_/id/48346818/mlb-2026-automated-balls-strikes-challenges-abs-best-worst-opening-weekend",
-          "summary": "Baseball's new ABS system is the talk of the sport. We hand out awards after the first weekend of the rule.",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-30T20:46:14Z"
-        },
-        {
-          "title": "A historic rookie class? Is Trout back? 10 things we learned from opening weekend",
-          "link": "https://www.espn.com/mlb/story/_/id/48339938/mlb-2026-opening-weekend-takeaways-rookies-yankees-dodgers-hot-start-early-struggles",
-          "summary": "From early trends to the most -- and least -- surprising performances, what stood out in baseball's return.",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-30T20:46:14Z"
-        },
-        {
-          "title": "Giants' Harbaugh open to possible OBJ reunion",
-          "link": "https://www.espn.com/nfl/story/_/id/48348428/giants-harbaugh-open-possible-odell-beckham-jr-reunion",
-          "summary": "Free agent wide receiver Odell Beckham Jr. wants to return to the New York Giants. The Giants are at least open to looking into adding Beckham for a second tour with the team.",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-30T20:24:19Z"
-        },
-        {
-          "title": "Shanahan: No 'benefit' for Niners in Aussie trip",
-          "link": "https://www.espn.com/nfl/story/_/id/48348153/kyle-shanahan-says-niners-get-no-benefit-australia-trip",
-          "summary": "Kyle Shanahan isn't thrilled that the 49ers will open the 2026 season with a trip to Australia.",
-          "source": "ESPN Headlines",
-          "source_key": "espn-headlines",
-          "source_homepage": "https://www.espn.com/",
-          "source_feed": "https://www.espn.com/espn/rss/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-30T20:24:19Z"
-        },
-        {
-          "title": "Lions considering moving All-Pro RT Sewell to LT",
-          "link": "https://www.espn.com/nfl/story/_/id/48349293/lions-considering-moving-all-pro-rt-sewell-lt-campbell-says",
-          "summary": "Lions coach Dan Campbell said Monday he's considering switching All-Pro right tackle Penei Sewell to left tackle for the 2026 season.",
-          "source": "ESPN NFL",
-          "source_key": "espn-nfl",
-          "source_homepage": "https://www.espn.com/nfl/",
-          "source_feed": "https://www.espn.com/espn/rss/nfl/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-30T20:24:19Z"
-        },
-        {
-          "title": "Saints: Enough snaps for both Kamara, Etienne",
-          "link": "https://www.espn.com/nfl/story/_/id/48348095/saints-coach-moore-enough-snaps-kamara-etienne",
-          "summary": "Saints coach Kellen Moore said Monday there would be enough snaps to go around for running backs Alvin Kamara and Travis Etienne.",
-          "source": "ESPN NFL",
-          "source_key": "espn-nfl",
-          "source_homepage": "https://www.espn.com/nfl/",
-          "source_feed": "https://www.espn.com/espn/rss/nfl/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-30T20:24:19Z"
-        },
-        {
-          "title": "Kryptonite for 10 NBA title contenders: Which weaknesses could sink playoff teams?",
-          "link": "https://www.espn.com/nba/story/_/id/48315335/nba-2025-2026-playoff-kryptonite-opponents-avoid-eastern-western-conference",
-          "summary": "We evaluated every playoff contender's biggest weaknesses, how it will impact the postseason and which team is best positioned to exploit them.",
-          "source": "ESPN NBA",
-          "source_key": "espn-nba",
-          "source_homepage": "https://www.espn.com/nba/",
-          "source_feed": "https://www.espn.com/espn/rss/nba/news",
-          "section": "Sports",
-          "section_key": "sports",
-          "timestamp": "2026-03-30T20:03:06Z"
         }
       ]
     },
@@ -2996,6 +2996,18 @@
       "total_sources": 9,
       "stories": [
         {
+          "title": "Yemeni politician says former U.S. soldiers tried to kill him. Now he's suing in U.S. court",
+          "link": "https://www.npr.org/2026/03/30/nx-s1-5707305/yemen-politician-assassination-us-soldiers-lawsuit",
+          "summary": "The suit is centered around the alleged attempt on Anssaf Ali Mayo's life. But it raises broader questions, including about the role of the United Arab Emirates in Yemen's civil...",
+          "source": "NPR Politics",
+          "source_key": "npr-politics",
+          "source_homepage": "https://www.npr.org/sections/politics/",
+          "source_feed": "https://feeds.npr.org/1014/rss.xml",
+          "section": "U.S. & Politics",
+          "section_key": "u-s-politics",
+          "timestamp": "2026-03-30T20:22:34Z"
+        },
+        {
           "title": "Bitcoin Flashes 'Warning Sign' With Nearly Half of BTC Supply Sitting at a Loss: Report",
           "link": "https://decrypt.co/362797/bitcoin-warning-sign-nearly-half-btc-supply-sitting-loss",
           "summary": "Almost half of the Bitcoin supply is sitting at a loss, analysts said, as the top crypto asset remains about 47% off its all-time high.",
@@ -3150,18 +3162,6 @@
           "section": "U.S. & Politics",
           "section_key": "u-s-politics",
           "timestamp": "2026-03-30T19:31:20Z"
-        },
-        {
-          "title": "US-bound flight returns to Brazil over engine problem",
-          "link": "https://thehill.com/policy/transportation/5807824-delta-flight-engine-issue-brazil/",
-          "summary": "A Delta Air Lines flight bound for Atlanta returned to S\u00e3o Paulo on Sunday evening because of an engine issue, the airline said. Delta flight 104, an Airbus A330-300, returned t...",
-          "source": "The Hill",
-          "source_key": "the-hill",
-          "source_homepage": "https://thehill.com/",
-          "source_feed": "https://thehill.com/feed/",
-          "section": "U.S. & Politics",
-          "section_key": "u-s-politics",
-          "timestamp": "2026-03-30T19:26:33Z"
         }
       ]
     }

@@ -21,6 +21,9 @@ SEARCH_INDEX_PATH = ROOT / "assets" / "data" / "search-index.json"
 
 INDEX_PATH = ROOT / "index.html"
 LATEST_PATH = ROOT / "latest" / "index.html"
+WEATHER_PATH = ROOT / "weather" / "index.html"
+SPORTS_PATH = ROOT / "sports" / "index.html"
+MARKETS_PATH = ROOT / "markets" / "index.html"
 SECTIONS_INDEX_PATH = ROOT / "sections" / "index.html"
 ABOUT_PATH = ROOT / "about" / "index.html"
 TOPICS_INDEX_PATH = ROOT / "topics" / "index.html"
@@ -53,6 +56,7 @@ AMAZON_AFFILIATE_URL = "https://www.amazon.com/amazon-fire-tv-stick-4K-select/dp
 AMAZON_AFFILIATE_LABEL = "Amazon Fire TV Stick 4K"
 AUTHOR_NAME = "MrBobCorbin"
 THEME_COLOR = "#111111"
+HOME_BASE_LABEL = "Cornelia, Georgia"
 
 
 def compute_asset_version() -> str:
@@ -625,6 +629,21 @@ def build_primary_pages(config: dict, model: dict, context: dict) -> None:
         render_latest_page(config, model, context, latest_limit),
         encoding="utf-8",
     )
+    WEATHER_PATH.parent.mkdir(parents=True, exist_ok=True)
+    WEATHER_PATH.write_text(
+        render_weather_page(model, context),
+        encoding="utf-8",
+    )
+    SPORTS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    SPORTS_PATH.write_text(
+        render_sports_page(model, context),
+        encoding="utf-8",
+    )
+    MARKETS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    MARKETS_PATH.write_text(
+        render_markets_page(model, context),
+        encoding="utf-8",
+    )
     SECTIONS_INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
     SECTIONS_INDEX_PATH.write_text(
         render_sections_page(model, context),
@@ -822,6 +841,41 @@ def build_search_index(config: dict, model: dict) -> None:
             }
         )
 
+    documents.extend(
+        [
+            {
+                "title": "Weather Desk",
+                "summary": f"Local forecast, active alerts, and weather-aware coverage centered on {HOME_BASE_LABEL}.",
+                "path": "/weather/",
+                "type": "Desk",
+                "section": "Weather",
+                "source": "Forecasts and weather coverage",
+                "timestamp": model.get("generated_at"),
+                "keywords": "weather forecast alerts climate local conditions",
+            },
+            {
+                "title": "Sports Desk",
+                "summary": "Live scoreboards, games to watch, and ShadowFetch sports coverage in one place.",
+                "path": "/sports/",
+                "type": "Desk",
+                "section": "Sports",
+                "source": "Scoreboards and sports coverage",
+                "timestamp": model.get("generated_at"),
+                "keywords": "sports scores scoreboard mlb nba nhl games",
+            },
+            {
+                "title": "Markets Desk",
+                "summary": "A fast market pulse with Dow, S&P, Nasdaq, Bitcoin, and the business stories moving the day.",
+                "path": "/markets/",
+                "type": "Desk",
+                "section": "Markets",
+                "source": "Market watchlist and business coverage",
+                "timestamp": model.get("generated_at"),
+                "keywords": "markets dow s&p nasdaq bitcoin business crypto finance",
+            },
+        ]
+    )
+
     SEARCH_INDEX_PATH.write_text(json.dumps(documents, indent=2), encoding="utf-8")
 
 
@@ -874,6 +928,9 @@ def build_sitemap(model: dict) -> None:
     routes = [
         "/",
         "/latest/",
+        "/weather/",
+        "/sports/",
+        "/markets/",
         "/sections/",
         "/journal/",
         "/about/",
@@ -1242,8 +1299,49 @@ def render_home_page(config: dict, model: dict, context: dict, latest_limit: int
     </section>
 
     <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Daily Utility</p>
+          <h2>The part of the site worth checking between headline sweeps</h2>
+        </div>
+        <p class="section-copy">
+          ShadowFetch is moving beyond a front page alone. These utility modules bring in local weather, live sports, and a fast market pulse without losing the publication feel.
+        </p>
+      </div>
+      <div class="utility-dashboard">
+        <article class="panel utility-card" id="home-weather-card">
+          <p class="panel-label">Weather</p>
+          <h3>{HOME_BASE_LABEL}</h3>
+          <p class="utility-placeholder">Loading the current outlook and the next few forecast turns.</p>
+          <div class="story-actions">
+            <a class="story-link" href="/weather/">Open weather desk</a>
+          </div>
+        </article>
+        <article class="panel utility-card" id="home-sports-card">
+          <p class="panel-label">Sports</p>
+          <h3>Games worth checking right now</h3>
+          <p class="utility-placeholder">Loading live scoreboards and the next windows to watch.</p>
+          <div class="story-actions">
+            <a class="story-link" href="/sports/">Open sports desk</a>
+          </div>
+        </article>
+        <article class="panel utility-card" id="home-markets-card">
+          <p class="panel-label">Markets</p>
+          <h3>Indices, crypto, and the business pulse</h3>
+          <p class="utility-placeholder">Loading the market watchlist and the stories moving the tape.</p>
+          <div class="story-actions">
+            <a class="story-link" href="/markets/">Open markets desk</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="container page-section">
       <div class="quicklink-grid">
         {render_quicklink_card("Newswire", "The fastest scan across every desk on the site.", "/latest/")}
+        {render_quicklink_card("Weather", "Local forecast, alerts, and climate-driven coverage in one pass.", "/weather/")}
+        {render_quicklink_card("Sports", "Scoreboards, sports headlines, and a cleaner route into the games.", "/sports/")}
+        {render_quicklink_card("Markets", "Dow, S&P, Nasdaq, Bitcoin, and the stories pushing the session.", "/markets/")}
         {render_quicklink_card("Journal", "Your byline, columns, and blog posts in one place.", "/journal/")}
         {render_quicklink_card("Topics", "Follow the bigger story lines instead of one-off headlines.", "/topics/")}
         {render_quicklink_card("Archive", "Browse stories by date and time when you need the timeline.", "/archive/")}
@@ -1441,6 +1539,186 @@ def render_latest_page(config: dict, model: dict, context: dict, latest_limit: i
         hero_markup=hero,
         main_markup=main_markup,
         footer_copy="The newswire is built for fast repeat visits, cleaner filtering, and a quicker route into deeper coverage.",
+    )
+
+
+def find_section(model: dict, key: str) -> dict:
+    for section in model.get("sections", []):
+        if section.get("key") == key:
+            return section
+    return {"stories": [], "path": "/sections/", "title": key.replace("-", " ").title()}
+
+
+def render_weather_page(model: dict, context: dict) -> str:
+    climate_section = find_section(model, "climate-environment")
+    health_section = find_section(model, "health")
+
+    hero = f"""
+    <section class="container hero hero-compact">
+      <div class="hero-copy">
+        <p class="eyebrow">Weather Desk</p>
+        <h1>A local forecast page with enough signal to earn repeat visits.</h1>
+        <p class="hero-text">
+          ShadowFetch weather starts with {HOME_BASE_LABEL}, then layers in alerts and a climate-aware read on the broader day.
+        </p>
+      </div>
+    </section>
+    """
+
+    main_markup = f"""
+    <section class="container page-section">
+      <div class="utility-dashboard utility-dashboard-wide">
+        <article class="panel utility-card utility-card-span" id="weather-current-panel">
+          <p class="panel-label">Current Conditions</p>
+          <h2>{HOME_BASE_LABEL}</h2>
+          <div id="weather-current" class="utility-placeholder">Loading the latest forecast...</div>
+          <div class="forecast-grid" id="weather-forecast-grid"></div>
+        </article>
+        <article class="panel utility-card" id="weather-alerts-panel">
+          <p class="panel-label">Alerts</p>
+          <h2>Warnings and watches near home</h2>
+          <div id="weather-alerts" class="utility-placeholder">Checking for active alerts...</div>
+        </article>
+      </div>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Weather Watch</p>
+          <h2>Climate and environment coverage worth opening next</h2>
+        </div>
+        <p class="section-copy">
+          The weather page still belongs inside a broader publication, so the forecast now sits beside the best reporting on climate, environment, and public-health spillover.
+        </p>
+      </div>
+      <div class="story-grid story-grid-latest">
+        {render_story_grid((climate_section.get("stories", []) + health_section.get("stories", []))[:8])}
+      </div>
+    </section>
+    """
+
+    return page_shell(
+        title="Weather | ShadowFetch News",
+        description=f"Local forecast, alerts, and weather-aware coverage centered on {HOME_BASE_LABEL}.",
+        canonical_path="/weather/",
+        context=context,
+        nav_current="weather",
+        page_key="weather",
+        hero_markup=hero,
+        main_markup=main_markup,
+        footer_copy="Forecasts and alerts belong on the same front page readers already trust for the rest of the day.",
+    )
+
+
+def render_sports_page(model: dict, context: dict) -> str:
+    sports_section = find_section(model, "sports")
+
+    hero = f"""
+    <section class="container hero hero-compact">
+      <div class="hero-copy">
+        <p class="eyebrow">Sports Desk</p>
+        <h1>Live scoreboards first, then the stories with enough weight to matter tomorrow too.</h1>
+        <p class="hero-text">
+          This desk is built for the two sports readers usually want at the same time: fast game-state awareness and a sharper route into the best sports writing on the site.
+        </p>
+      </div>
+    </section>
+    """
+
+    main_markup = f"""
+    <section class="container page-section">
+      <div class="utility-dashboard utility-dashboard-wide">
+        <article class="panel utility-card utility-card-span">
+          <p class="panel-label">Scoreboards</p>
+          <h2>What is live, what is next, and what is already final</h2>
+          <div id="sports-scoreboards" class="utility-placeholder">Loading today&apos;s scoreboards...</div>
+        </article>
+      </div>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Sports Wire</p>
+          <h2>The biggest stories beyond the box score</h2>
+        </div>
+        <p class="section-copy">
+          The scoreboards keep the page useful in the moment; the wire keeps it valuable after the final horn or last out.
+        </p>
+      </div>
+      <div class="story-grid story-grid-latest">
+        {render_story_grid(sports_section.get("stories", [])[:12])}
+      </div>
+    </section>
+    """
+
+    return page_shell(
+        title="Sports | ShadowFetch News",
+        description="Live scoreboards, games to watch, and ShadowFetch sports coverage in one desk.",
+        canonical_path="/sports/",
+        context=context,
+        nav_current="sports",
+        page_key="sports",
+        hero_markup=hero,
+        main_markup=main_markup,
+        footer_copy="The sports desk keeps one eye on the scoreboard and the other on the stories that will still matter after tonight.",
+    )
+
+
+def render_markets_page(model: dict, context: dict) -> str:
+    business_section = find_section(model, "business-markets")
+    technology_section = find_section(model, "technology")
+
+    hero = f"""
+    <section class="container hero hero-compact">
+      <div class="hero-copy">
+        <p class="eyebrow">Markets Desk</p>
+        <h1>A faster read on indices, crypto, and the stories pushing money around.</h1>
+        <p class="hero-text">
+          This page is built for quick repeat checks: the watchlist up top, the business wire underneath, and enough context to understand why the tape is moving.
+        </p>
+      </div>
+    </section>
+    """
+
+    main_markup = f"""
+    <section class="container page-section">
+      <div class="utility-dashboard utility-dashboard-wide">
+        <article class="panel utility-card utility-card-span">
+          <p class="panel-label">Watchlist</p>
+          <h2>Dow, S&amp;P, Nasdaq, and Bitcoin in one scan</h2>
+          <div id="markets-watchlist" class="utility-placeholder">Loading the market pulse...</div>
+        </article>
+      </div>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Market Wire</p>
+          <h2>The business stories worth opening after the numbers</h2>
+        </div>
+        <p class="section-copy">
+          Watchlists tell you what moved. These stories help explain why and where the second-order effects are likely to show up next.
+        </p>
+      </div>
+      <div class="story-grid story-grid-latest">
+        {render_story_grid((business_section.get("stories", []) + technology_section.get("stories", []))[:12])}
+      </div>
+    </section>
+    """
+
+    return page_shell(
+        title="Markets | ShadowFetch News",
+        description="A market pulse with Dow, S&P, Nasdaq, Bitcoin, and the business stories moving the session.",
+        canonical_path="/markets/",
+        context=context,
+        nav_current="markets",
+        page_key="markets",
+        hero_markup=hero,
+        main_markup=main_markup,
+        footer_copy="Indices and headlines belong together when readers are trying to understand the day instead of just watch numbers flicker.",
     )
 
 
@@ -2591,12 +2869,13 @@ def render_site_header(context: dict, nav_current: str) -> str:
         <nav class="site-nav" aria-label="Primary">
           {render_nav_link("/", "Front Page", nav_current == "home")}
           {render_nav_link("/latest/", "Newswire", nav_current == "latest")}
+          {render_nav_link("/weather/", "Weather", nav_current == "weather")}
+          {render_nav_link("/sports/", "Sports", nav_current == "sports")}
+          {render_nav_link("/markets/", "Markets", nav_current == "markets")}
           {render_nav_link("/sections/", "Desks", nav_current == "sections")}
-          {render_nav_link("/topics/", "Topics", nav_current == "topics")}
           {render_nav_link("/journal/", "Journal", nav_current == "journal")}
-          {render_nav_link("/search/", "Search", nav_current == "search")}
+          {render_nav_link("/topics/", "Topics", nav_current == "topics")}
           {render_nav_link("/archive/", "Archive", nav_current == "archive")}
-          {render_nav_link("/about/", "About", nav_current == "about")}
         </nav>
       </div>
     </div>
@@ -2630,6 +2909,9 @@ def render_site_footer(footer_copy: str) -> str:
       </div>
       <div class="footer-links">
         <a href="/latest/">Newswire</a>
+        <a href="/weather/">Weather</a>
+        <a href="/sports/">Sports</a>
+        <a href="/markets/">Markets</a>
         <a href="/journal/">Journal</a>
         <a href="/topics/">Topics</a>
         <a href="/sources/">Sources</a>
@@ -2645,11 +2927,11 @@ def render_mobile_dock(nav_current: str) -> str:
     return f"""
   <nav class="mobile-dock" aria-label="Mobile">
     {render_mobile_link("/", "Front", nav_current == "home")}
+    {render_mobile_link("/weather/", "Weather", nav_current == "weather")}
     {render_mobile_link("/latest/", "Wire", nav_current == "latest")}
-    {render_mobile_link("/journal/", "Journal", nav_current == "journal")}
+    {render_mobile_link("/sports/", "Sports", nav_current == "sports")}
+    {render_mobile_link("/markets/", "Markets", nav_current == "markets")}
     {render_mobile_link("/search/", "Search", nav_current == "search")}
-    {render_mobile_link("/sections/", "Desks", nav_current == "sections")}
-    {render_mobile_link("/topics/", "Topics", nav_current == "topics")}
   </nav>
 """
 

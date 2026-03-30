@@ -1729,3 +1729,174 @@ button {
     flex-wrap: wrap;
   }
 }
+
+/* ─── UTILITY DESKS ────────────────────────────────────────── */
+.utility-dashboard {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.utility-dashboard-wide {
+  grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.9fr);
+}
+
+.utility-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.utility-card-span {
+  min-height: 100%;
+}
+
+.utility-placeholder,
+.utility-copy,
+.utility-subcopy {
+  color: var(--muted);
+}
+
+.utility-value {
+  font-family: "Libre Baskerville", Georgia, serif;
+  font-size: clamp(1.8rem, 4vw, 3.1rem);
+  line-height: 1;
+  margin: 0;
+}
+
+.utility-reading {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.mini-forecast,
+.mini-score-list,
+.mini-market-list {
+  display: grid;
+  gap: 0.7rem;
+}
+
+.mini-forecast {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.mini-forecast article,
+.mini-score-list article,
+.mini-market-list article,
+.forecast-card,
+.score-card,
+.market-card,
+.alert-card {
+  border: 1px solid rgba(17, 17, 17, 0.1);
+  background: rgba(255, 255, 255, 0.7);
+  padding: 0.8rem 0.9rem;
+}
+
+.mini-forecast article,
+.mini-score-list article,
+.mini-market-list article {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.mini-market-list article {
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+}
+
+.mini-market-list article small {
+  grid-column: 1 / -1;
+}
+
+.forecast-grid,
+.scoreboard-grid,
+.watchlist-grid {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.forecast-grid {
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.scoreboard-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.watchlist-grid {
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+}
+
+.scoreboard-section + .scoreboard-section {
+  margin-top: 1.25rem;
+}
+
+.score-card-top,
+.team-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.team-stack {
+  display: grid;
+  gap: 0.45rem;
+  margin-top: 0.8rem;
+}
+
+.market-card h3,
+.utility-card h3,
+.scoreboard-section h3 {
+  margin: 0;
+}
+
+.market-move,
+.utility-up,
+.utility-down,
+.utility-flat {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.75rem;
+}
+
+.utility-up {
+  color: #1d6f42;
+}
+
+.utility-down {
+  color: #8a1f1f;
+}
+
+.utility-flat {
+  color: var(--muted);
+}
+
+.alert-list {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.alert-card strong,
+.forecast-card strong,
+.score-card strong,
+.market-card .panel-label {
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.section-heading-compact {
+  margin-bottom: 0.85rem;
+}
+
+@media (max-width: 1100px) {
+  .utility-dashboard,
+  .utility-dashboard-wide {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 700px) {
+  .mini-forecast {
+    grid-template-columns: 1fr;
+  }
+}

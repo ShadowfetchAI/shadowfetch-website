@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather | ShadowFetch News</title>
+  <meta name="description" content="Local forecast, alerts, and weather-aware coverage centered on Cornelia, Georgia.">
+  <meta name="theme-color" content="#111111">
+  <link rel="canonical" href="https://shadowfetch.com/weather/">
+  <link rel="alternate" type="application/rss+xml" title="ShadowFetch News RSS" href="/feed.xml">
+  <meta property="og:title" content="Weather | ShadowFetch News">
+  <meta property="og:description" content="Local forecast, alerts, and weather-aware coverage centered on Cornelia, Georgia.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="ShadowFetch News">
+  <meta property="og:url" content="https://shadowfetch.com/weather/">
+  <meta property="og:image" content="https://shadowfetch.com/assets/shadowfetch-mark.svg?v=d34679203bd5">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Weather | ShadowFetch News">
+  <meta name="twitter:description" content="Local forecast, alerts, and weather-aware coverage centered on Cornelia, Georgia.">
+  <meta name="twitter:image" content="https://shadowfetch.com/assets/shadowfetch-mark.svg?v=d34679203bd5">
+  <meta name="twitter:site" content="@MrBobCorbin">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap"
+    rel="stylesheet"
+  >
+  <link rel="icon" href="/assets/shadowfetch-mark.svg?v=d34679203bd5" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/styles.css?v=d34679203bd5">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsMediaOrganization",
+      "name": "ShadowFetch News",
+      "url": "https://shadowfetch.com",
+      "sameAs": [
+        "https://x.com/MrBobCorbin",
+        "https://bsky.app/profile/mrbobcorbin.bsky.social",
+        "https://kalshi.com/sign-up/?referral=6ca54e6d-a516-4918-bc0a-829b18f99f70"
+      ]
+    }
+  </script>
+</head>
+<body data-page="weather">
+  <div class="page-orb orb-left" aria-hidden="true"></div>
+  <div class="page-orb orb-right" aria-hidden="true"></div>
+
+  
+  <header class="site-chrome">
+    <div class="utility-bar">
+      <div class="container utility-wrap">
+        <div class="utility-pill">
+          <span class="utility-label">Visitor Counter</span>
+          <strong data-visit-count>20</strong>
+        </div>
+        <div class="utility-pill utility-status">
+          <span class="utility-label">Updated</span>
+          <strong data-generated-at>Mar 30, 8:50 PM</strong>
+        </div>
+        <div class="utility-links">
+          <a class="utility-link" data-social-link="x" href="https://x.com/MrBobCorbin" target="_blank" rel="noreferrer noopener">X / Twitter</a>
+          <a class="utility-link" data-social-link="bluesky" href="https://bsky.app/profile/mrbobcorbin.bsky.social" target="_blank" rel="noreferrer noopener">Bluesky</a>
+          <a class="utility-link" data-social-link="kalshi" href="https://kalshi.com/sign-up/?referral=6ca54e6d-a516-4918-bc0a-829b18f99f70" target="_blank" rel="noreferrer noopener">Kalshi</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="affiliate-strip">
+      <div class="container affiliate-wrap">
+        <span class="affiliate-kicker">Affiliate Pick</span>
+        <a class="affiliate-link" href="https://www.amazon.com/amazon-fire-tv-stick-4K-select/dp/B0C6W3D4RM?pd_rd_w=hdHW1&amp;content-id=amzn1.sym.b600c7d8-57ec-4c97-938f-a8d4e9e462a3&amp;pf_rd_p=b600c7d8-57ec-4c97-938f-a8d4e9e462a3&amp;pf_rd_r=N53TX5D2HD4M059PSYB3&amp;pd_rd_wg=0Gl04&amp;pd_rd_r=dbd4c563-cd34-48a7-8ec4-70c1b57f91d3&amp;pd_rd_i=B0C6W3D4RM&amp;psc=1&amp;linkCode=ll2&amp;tag=mywebsit0e1eb-20&amp;linkId=3471f9a970d1cfb033e058c3f451378e&amp;language=en_US&amp;ref_=as_li_ss_tl" target="_blank" rel="sponsored noreferrer noopener">Amazon Fire TV Stick 4K</a>
+        <span class="affiliate-note">Amazon affiliate link</span>
+      </div>
+    </div>
+
+    <div class="masthead">
+      <div class="container masthead-edition">
+        <span data-edition-stamp>Monday, March 30, 2026</span>
+        <span>Late City Edition</span>
+        <span>Vol. 1 • No. 089</span>
+      </div>
+      <div class="container masthead-wrap">
+        <a class="brand" href="/" aria-label="ShadowFetch News home">
+          <img src="/assets/shadowfetch-mark.svg?v=d34679203bd5" alt="" width="42" height="42">
+          <span>
+            <small>The Digital Evening Paper</small>
+            <strong>ShadowFetch News</strong>
+            <small>An old-paper read on the modern day</small>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="/">Front Page</a>
+          <a href="/latest/">Newswire</a>
+          <a href="/weather/" aria-current="page">Weather</a>
+          <a href="/sports/">Sports</a>
+          <a href="/markets/">Markets</a>
+          <a href="/sections/">Desks</a>
+          <a href="/journal/">Journal</a>
+          <a href="/topics/">Topics</a>
+          <a href="/archive/">Archive</a>
+        </nav>
+      </div>
+    </div>
+
+    <div class="ticker-bar">
+      <div class="container ticker-wrap">
+        <span class="ticker-label">Newswire</span>
+        <div class="ticker-window" aria-live="polite">
+          <div class="ticker-track" id="breaking-ticker-track">
+            <a class="ticker-item" href="/briefs/pack-s-lafleur-mulls-low-grade-in-player-survey-0a420fcb/"><span>Pack&#39;s LaFleur mulls low grade in player survey</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/49ers-hc-owner-deliver-mixed-signals-on-aiyuk-0059c931/"><span>49ers HC, owner deliver mixed signals on Aiyuk</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/giants-harbaugh-open-to-possible-obj-reunion-a9822108/"><span>Giants&#39; Harbaugh open to possible OBJ reunion</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/cowboys-unsure-on-pickens-offseason-attendance-76c80d85/"><span>Cowboys unsure on Pickens&#39; offseason attendance</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/rams-explored-trading-adams-decided-against-it-f5c3511d/"><span>Rams explored trading Adams, decided against it</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/shanahan-no-benefit-for-niners-in-aussie-trip-01a4c6b9/"><span>Shanahan: No &#39;benefit&#39; for Niners in Aussie trip</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/browns-pull-proposal-to-trade-picks-5-years-out-316a7334/"><span>Browns pull proposal to trade picks 5 years out</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/lions-considering-moving-all-pro-rt-sewell-to-lt-ea4c58bc/"><span>Lions considering moving All-Pro RT Sewell to LT</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/saints-enough-snaps-for-both-kamara-etienne-a576a3bc/"><span>Saints: Enough snaps for both Kamara, Etienne</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/mets-fans-boo-bichette-as-early-strikeouts-mount-19a58428/"><span>Mets fans boo Bichette as early strikeouts mount</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/m-s-hancock-tosses-6-no-hit-innings-in-26-debut-7fec7260/"><span>M&#39;s Hancock tosses 6 no-hit innings in &#39;26 debut</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/ex-yankee-clay-on-77-78-title-teams-dies-at-71-f608e82b/"><span>Ex-Yankee Clay, on &#39;77-78 title teams, dies at 71</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/jays-pitchers-set-mark-with-50-k-s-in-1st-3-games-1a636823/"><span>Jays pitchers set mark with 50 K&#39;s in 1st 3 games</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/royals-owner-admits-sense-of-urgency-about-lease-c2862c8e/"><span>Royals owner admits sense of urgency about lease</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks-e84d1466/"><span>New RoadK1ll WebSocket implant used to pivot on breached networks</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/michigan-synagogue-attacker-committed-hezbollah-inspired-act-of-terror-4d5351ab/"><span>Michigan synagogue attacker committed &#39;Hezbollah-inspired act of terrorism&#39;: FBI</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/this-ai-power-company-s-trump-named-power-project-still-has-no-custome-5137f1d6/"><span>This AI power company’s Trump-named power project still has no customers in sight</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-2-e9e9bef8/"><span>Sysco goes all in on the ‘cash and carry’ food-service business with a $29 billion buyout</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/jetblue-airways-raises-checked-bag-fees-at-least-4-as-fuel-prices-soar-51a13bc9/"><span>JetBlue Airways raises checked bag fees at least $4 as fuel prices soar</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/yemeni-politician-says-former-u-s-soldiers-tried-to-kill-him-now-he-s--b407a7c4/"><span>Yemeni politician says former U.S. soldiers tried to kill him. Now he&#39;s suing in U.S. court</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/pack-s-lafleur-mulls-low-grade-in-player-survey-0a420fcb/"><span>Pack&#39;s LaFleur mulls low grade in player survey</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/49ers-hc-owner-deliver-mixed-signals-on-aiyuk-0059c931/"><span>49ers HC, owner deliver mixed signals on Aiyuk</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/giants-harbaugh-open-to-possible-obj-reunion-a9822108/"><span>Giants&#39; Harbaugh open to possible OBJ reunion</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/cowboys-unsure-on-pickens-offseason-attendance-76c80d85/"><span>Cowboys unsure on Pickens&#39; offseason attendance</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/rams-explored-trading-adams-decided-against-it-f5c3511d/"><span>Rams explored trading Adams, decided against it</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/shanahan-no-benefit-for-niners-in-aussie-trip-01a4c6b9/"><span>Shanahan: No &#39;benefit&#39; for Niners in Aussie trip</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/browns-pull-proposal-to-trade-picks-5-years-out-316a7334/"><span>Browns pull proposal to trade picks 5 years out</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/lions-considering-moving-all-pro-rt-sewell-to-lt-ea4c58bc/"><span>Lions considering moving All-Pro RT Sewell to LT</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/saints-enough-snaps-for-both-kamara-etienne-a576a3bc/"><span>Saints: Enough snaps for both Kamara, Etienne</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/mets-fans-boo-bichette-as-early-strikeouts-mount-19a58428/"><span>Mets fans boo Bichette as early strikeouts mount</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/m-s-hancock-tosses-6-no-hit-innings-in-26-debut-7fec7260/"><span>M&#39;s Hancock tosses 6 no-hit innings in &#39;26 debut</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/ex-yankee-clay-on-77-78-title-teams-dies-at-71-f608e82b/"><span>Ex-Yankee Clay, on &#39;77-78 title teams, dies at 71</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/jays-pitchers-set-mark-with-50-k-s-in-1st-3-games-1a636823/"><span>Jays pitchers set mark with 50 K&#39;s in 1st 3 games</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/royals-owner-admits-sense-of-urgency-about-lease-c2862c8e/"><span>Royals owner admits sense of urgency about lease</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks-e84d1466/"><span>New RoadK1ll WebSocket implant used to pivot on breached networks</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/michigan-synagogue-attacker-committed-hezbollah-inspired-act-of-terror-4d5351ab/"><span>Michigan synagogue attacker committed &#39;Hezbollah-inspired act of terrorism&#39;: FBI</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/this-ai-power-company-s-trump-named-power-project-still-has-no-custome-5137f1d6/"><span>This AI power company’s Trump-named power project still has no customers in sight</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-2-e9e9bef8/"><span>Sysco goes all in on the ‘cash and carry’ food-service business with a $29 billion buyout</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/jetblue-airways-raises-checked-bag-fees-at-least-4-as-fuel-prices-soar-51a13bc9/"><span>JetBlue Airways raises checked bag fees at least $4 as fuel prices soar</span></a>
+<span class="ticker-divider" aria-hidden="true">•</span>
+<a class="ticker-item" href="/briefs/yemeni-politician-says-former-u-s-soldiers-tried-to-kill-him-now-he-s--b407a7c4/"><span>Yemeni politician says former U.S. soldiers tried to kill him. Now he&#39;s suing in U.S. court</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+  <main>
+    
+    <section class="container hero hero-compact">
+      <div class="hero-copy">
+        <p class="eyebrow">Weather Desk</p>
+        <h1>A local forecast page with enough signal to earn repeat visits.</h1>
+        <p class="hero-text">
+          ShadowFetch weather starts with Cornelia, Georgia, then layers in alerts and a climate-aware read on the broader day.
+        </p>
+      </div>
+    </section>
+    
+    
+    <section class="container page-section">
+      <div class="utility-dashboard utility-dashboard-wide">
+        <article class="panel utility-card utility-card-span" id="weather-current-panel">
+          <p class="panel-label">Current Conditions</p>
+          <h2>Cornelia, Georgia</h2>
+          <div id="weather-current" class="utility-placeholder">Loading the latest forecast...</div>
+          <div class="forecast-grid" id="weather-forecast-grid"></div>
+        </article>
+        <article class="panel utility-card" id="weather-alerts-panel">
+          <p class="panel-label">Alerts</p>
+          <h2>Warnings and watches near home</h2>
+          <div id="weather-alerts" class="utility-placeholder">Checking for active alerts...</div>
+        </article>
+      </div>
+    </section>
+
+    <section class="container page-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Weather Watch</p>
+          <h2>Climate and environment coverage worth opening next</h2>
+        </div>
+        <p class="section-copy">
+          The weather page still belongs inside a broader publication, so the forecast now sits beside the best reporting on climate, environment, and public-health spillover.
+        </p>
+      </div>
+      <div class="story-grid story-grid-latest">
+        
+    <article class="story-card" data-section-key="climate-environment">
+      
+      <div class="story-meta">
+        
+        <a class="story-tag" href="/sections/climate-environment/">Climate &amp; Environment</a>
+        <a class="story-source" href="/sources/the-guardian-environment/">The Guardian Environment</a>
+        <span class="story-time">Mar 30, 1:00 PM</span>
+        <span class="story-recency story-recency-cool">7 hr ago</span>
+      </div>
+
+      <h3><a class="story-headline-link" href="https://www.theguardian.com/us-news/2026/mar/30/hydropower-great-lakes-clean-energy" target="_blank" rel="noreferrer noopener">Demand for hydropower surges as Trump clamps down on clean energy</a></h3>
+      <p>Home to one of the world’s largest deposits of freshwater, the Great Lakes region will soon host next-generation generators – just as prices are being hiked across the US Submer...</p>
+      <div class="chip-row"><a class="topic-chip" href="/topics/climate-energy/">Climate &amp; Energy</a></div>
+      <div class="story-actions">
+        <a class="story-source-link" href="https://www.theguardian.com/us-news/2026/mar/30/hydropower-great-lakes-clean-energy" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="/briefs/demand-for-hydropower-surges-as-trump-clamps-down-on-clean-energy-0463e0c7/">ShadowFetch brief</a>
+        <span class="story-reading-time">1 min read</span>
+      </div>
+    </article>
+    
+    <article class="story-card" data-section-key="climate-environment">
+      
+      <div class="story-meta">
+        
+        <a class="story-tag" href="/sections/climate-environment/">Climate &amp; Environment</a>
+        <a class="story-source" href="/sources/the-guardian-environment/">The Guardian Environment</a>
+        <span class="story-time">Mar 30, 11:00 AM</span>
+        <span class="story-recency story-recency-cool">9 hr ago</span>
+      </div>
+
+      <h3><a class="story-headline-link" href="https://www.theguardian.com/us-news/2026/mar/30/trump-protections-endangered-species-gulf-of-mexico" target="_blank" rel="noreferrer noopener">Trump to revoke protections for endangered species in Gulf of Mexico</a></h3>
+      <p>President is convening so-called ‘God squad’ to override provisions of Endangered Species Act for ‘national security’ Sign up for the Breaking News US email to get newsletter al...</p>
+      
+      <div class="story-actions">
+        <a class="story-source-link" href="https://www.theguardian.com/us-news/2026/mar/30/trump-protections-endangered-species-gulf-of-mexico" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="/briefs/trump-to-revoke-protections-for-endangered-species-in-gulf-of-mexico-18620d78/">ShadowFetch brief</a>
+        <span class="story-reading-time">1 min read</span>
+      </div>
+    </article>
+    
+    <article class="story-card" data-section-key="climate-environment">
+      
+      <div class="story-meta">
+        
+        <a class="story-tag" href="/sections/climate-environment/">Climate &amp; Environment</a>
+        <a class="story-source" href="/sources/bbc-science-environment/">BBC Science &amp; Environment</a>
+        <span class="story-time">Mar 30, 9:54 AM</span>
+        <span class="story-recency story-recency-cool">10 hr ago</span>
+      </div>
+
+      <h3><a class="story-headline-link" href="https://www.bbc.com/news/articles/cge0nqee84yo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noreferrer noopener">Concerns over £166k cost of rehoming bats</a></h3>
+      <p>Concerns have been raised over the cost of two bat houses being built next to the M5.</p>
+      
+      <div class="story-actions">
+        <a class="story-source-link" href="https://www.bbc.com/news/articles/cge0nqee84yo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="/briefs/concerns-over-166k-cost-of-rehoming-bats-f931cba5/">ShadowFetch brief</a>
+        <span class="story-reading-time">1 min read</span>
+      </div>
+    </article>
+    
+    <article class="story-card" data-section-key="climate-environment">
+      
+      <div class="story-meta">
+        
+        <a class="story-tag" href="/sections/climate-environment/">Climate &amp; Environment</a>
+        <a class="story-source" href="/sources/the-guardian-environment/">The Guardian Environment</a>
+        <span class="story-time">Mar 30, 5:44 AM</span>
+        <span class="story-recency story-recency-cool">15 hr ago</span>
+      </div>
+
+      <h3><a class="story-headline-link" href="https://www.theguardian.com/world/2026/mar/30/monday-briefing-has-the-single-use-vape-ban-made-any-difference-to-our-health-or-our-environment" target="_blank" rel="noreferrer noopener">Monday briefing: ​Has the single-use vape ban made any difference to our health or our environment?</a></h3>
+      <p>In today’s newsletter: Nearly a year after ​disposable vapes​ were outlawed, new figures suggest the policy has delivered only modest gains while creating new challenges Good mo...</p>
+      <div class="chip-row"><a class="topic-chip" href="/topics/public-health-watch/">Public Health Watch</a><a class="topic-chip" href="/topics/climate-energy/">Climate &amp; Energy</a></div>
+      <div class="story-actions">
+        <a class="story-source-link" href="https://www.theguardian.com/world/2026/mar/30/monday-briefing-has-the-single-use-vape-ban-made-any-difference-to-our-health-or-our-environment" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="/briefs/monday-briefing-has-the-single-use-vape-ban-made-any-difference-to-our-2aaa00e8/">ShadowFetch brief</a>
+        <span class="story-reading-time">1 min read</span>
+      </div>
+    </article>
+    
+    <article class="story-card" data-section-key="science-space">
+      
+      <div class="story-meta">
+        
+        <a class="story-tag" href="/sections/science-space/">Science &amp; Space</a>
+        <a class="story-source" href="/sources/nasa-news-releases/">NASA News Releases</a>
+        <span class="story-time">Mar 30, 4:01 AM</span>
+        <span class="story-recency story-recency-cool">16 hr ago</span>
+      </div>
+
+      <h3><a class="story-headline-link" href="https://science.nasa.gov/earth/earth-observatory/seeing-blue-during-schirmachers-summer-melt-season/" target="_blank" rel="noreferrer noopener">Seeing Blue During Schirmacher’s Summer Melt Season</a></h3>
+      <p>A network of meltwater lakes and drainage channels made an Antarctic ice shelf known for its blue ice areas even bluer.</p>
+      
+      <div class="story-actions">
+        <a class="story-source-link" href="https://science.nasa.gov/earth/earth-observatory/seeing-blue-during-schirmachers-summer-melt-season/" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="/briefs/seeing-blue-during-schirmacher-s-summer-melt-season-8d12be02/">ShadowFetch brief</a>
+        <span class="story-reading-time">1 min read</span>
+      </div>
+    </article>
+    
+    <article class="story-card" data-section-key="climate-environment">
+      
+      <div class="story-meta">
+        
+        <a class="story-tag" href="/sections/climate-environment/">Climate &amp; Environment</a>
+        <a class="story-source" href="/sources/bbc-science-environment/">BBC Science &amp; Environment</a>
+        <span class="story-time">Mar 29, 11:50 PM</span>
+        <span class="story-recency story-recency-cool">21 hr ago</span>
+      </div>
+
+      <h3><a class="story-headline-link" href="https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noreferrer noopener">First stop, the Moon. Next stop, Mars? Why Nasa&#39;s mission matters</a></h3>
+      <p>From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.</p>
+      <div class="chip-row"><a class="topic-chip" href="/topics/space-science-frontier/">Space &amp; Science Frontier</a></div>
+      <div class="story-actions">
+        <a class="story-source-link" href="https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="/briefs/first-stop-the-moon-next-stop-mars-why-nasa-s-mission-matters-04f84507/">ShadowFetch brief</a>
+        <span class="story-reading-time">1 min read</span>
+      </div>
+    </article>
+    
+    <article class="story-card" data-section-key="climate-environment">
+      
+      <div class="story-meta">
+        
+        <a class="story-tag" href="/sections/climate-environment/">Climate &amp; Environment</a>
+        <a class="story-source" href="/sources/the-guardian-environment/">The Guardian Environment</a>
+        <span class="story-time">Mar 29, 11:08 PM</span>
+        <span class="story-recency story-recency-cool">21 hr ago</span>
+      </div>
+
+      <h3><a class="story-headline-link" href="https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race" target="_blank" rel="noreferrer noopener">LA county sheriff’s deputy dies after medical emergency during relay race</a></h3>
+      <p>Levi Vargas, 30, was competing in Baker to Vegas race through Mojave desert as US south-west faces extreme heat A Los Angeles county sheriff’s deputy, Levi Vargas, died on Satur...</p>
+      <div class="chip-row"><a class="topic-chip" href="/topics/climate-energy/">Climate &amp; Energy</a></div>
+      <div class="story-actions">
+        <a class="story-source-link" href="https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="/briefs/la-county-sheriff-s-deputy-dies-after-medical-emergency-during-relay-r-f3b4c505/">ShadowFetch brief</a>
+        <span class="story-reading-time">1 min read</span>
+      </div>
+    </article>
+    
+    <article class="story-card" data-section-key="climate-environment">
+      
+      <div class="story-meta">
+        
+        <a class="story-tag" href="/sections/climate-environment/">Climate &amp; Environment</a>
+        <a class="story-source" href="/sources/bbc-science-environment/">BBC Science &amp; Environment</a>
+        <span class="story-time">Mar 29, 2:09 PM</span>
+        <span class="story-recency story-recency-cool">1 day ago</span>
+      </div>
+
+      <h3><a class="story-headline-link" href="https://www.bbc.com/news/articles/c5y92nxlj2vo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noreferrer noopener">Bid for £1m to enhance &#39;treasured&#39; landscape</a></h3>
+      <p>A series of improvements to the North Wessex Downs are on the cards if the funding bid succeeds.</p>
+      
+      <div class="story-actions">
+        <a class="story-source-link" href="https://www.bbc.com/news/articles/c5y92nxlj2vo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="/briefs/bid-for-1m-to-enhance-treasured-landscape-5a9c0456/">ShadowFetch brief</a>
+        <span class="story-reading-time">1 min read</span>
+      </div>
+    </article>
+    
+      </div>
+    </section>
+    
+  </main>
+
+  
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <div>
+        <p class="footer-title">ShadowFetch News</p>
+        <p class="footer-copy">Forecasts and alerts belong on the same front page readers already trust for the rest of the day.</p>
+        <div class="footer-socials">
+          <a href="https://x.com/MrBobCorbin" target="_blank" rel="noreferrer noopener">X / Twitter</a>
+          <a href="https://bsky.app/profile/mrbobcorbin.bsky.social" target="_blank" rel="noreferrer noopener">Bluesky</a>
+          <a href="https://kalshi.com/sign-up/?referral=6ca54e6d-a516-4918-bc0a-829b18f99f70" target="_blank" rel="noreferrer noopener">Kalshi</a>
+        </div>
+      </div>
+      <div class="footer-links">
+        <a href="/latest/">Newswire</a>
+        <a href="/weather/">Weather</a>
+        <a href="/sports/">Sports</a>
+        <a href="/markets/">Markets</a>
+        <a href="/journal/">Journal</a>
+        <a href="/topics/">Topics</a>
+        <a href="/sources/">Sources</a>
+        <a href="/archive/">Archive</a>
+        <a href="/about/">About</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <nav class="mobile-dock" aria-label="Mobile">
+    <a class="mobile-link" href="/">Front</a>
+    <a class="mobile-link mobile-active" href="/weather/" aria-current="page">Weather</a>
+    <a class="mobile-link" href="/latest/">Wire</a>
+    <a class="mobile-link" href="/sports/">Sports</a>
+    <a class="mobile-link" href="/markets/">Markets</a>
+    <a class="mobile-link" href="/search/">Search</a>
+  </nav>
+
+  <script src="/assets/app.js?v=d34679203bd5"></script>
+</body>
+</html>

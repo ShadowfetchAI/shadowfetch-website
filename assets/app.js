@@ -19,6 +19,9 @@ const SEARCH_INDEX_URL = "/assets/data/search-index.json";
 const LOCAL_COUNTER_ENDPOINT = "/api/visit";
 const LOCAL_META_ENDPOINT = "/api/meta";
 const LOCAL_LATEST_ENDPOINT = "/api/latest";
+const LOCAL_WEATHER_ENDPOINT = "/api/weather";
+const LOCAL_SPORTS_ENDPOINT = "/api/sports";
+const LOCAL_MARKETS_ENDPOINT = "/api/markets";
 
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", bootSite);
@@ -33,6 +36,9 @@ function bootSite() {
   });
   initializeLiveEdition().catch(() => {
     // Keep the static build visible if live hydration is unavailable.
+  });
+  initializeUtilitySurfaces().catch(() => {
+    // Utility panels should fail quietly and keep the static page readable.
   });
   initializeFilterToolbars();
   initializeSearchPage().catch(() => {
@@ -353,6 +359,298 @@ function recencyBadge(timestamp) {
   }
 
   return '<span class="story-recency story-recency-cool">Earlier</span>';
+}
+
+async function initializeUtilitySurfaces() {
+  const page = document.body?.dataset.page || "";
+  const tasks = [];
+
+  if (page === "home") {
+    tasks.push(initializeHomeUtilityCards());
+  }
+  if (page === "weather") {
+    tasks.push(initializeWeatherPage());
+  }
+  if (page === "sports") {
+    tasks.push(initializeSportsPage());
+  }
+  if (page === "markets") {
+    tasks.push(initializeMarketsPage());
+  }
+
+  await Promise.all(tasks);
+}
+
+async function fetchEndpoint(endpoint) {
+  const response = await fetch(endpoint, {
+    cache: "no-store"
+  });
+  if (!response.ok) {
+    throw new Error(`Request failed for ${endpoint}`);
+  }
+
+  const payload = await response.json();
+  if (!payload?.ok) {
+    throw new Error(`Invalid payload from ${endpoint}`);
+  }
+  return payload;
+}
+
+async function initializeHomeUtilityCards() {
+  const [weather, sports, markets] = await Promise.all([
+    fetchEndpoint(LOCAL_WEATHER_ENDPOINT).catch(() => null),
+    fetchEndpoint(LOCAL_SPORTS_ENDPOINT).catch(() => null),
+    fetchEndpoint(LOCAL_MARKETS_ENDPOINT).catch(() => null)
+  ]);
+
+  if (weather) {
+    renderHomeWeatherCard(weather);
+  }
+  if (sports) {
+    renderHomeSportsCard(sports);
+  }
+  if (markets) {
+    renderHomeMarketsCard(markets);
+  }
+}
+
+async function initializeWeatherPage() {
+  const payload = await fetchEndpoint(LOCAL_WEATHER_ENDPOINT);
+  renderWeatherPage(payload);
+}
+
+async function initializeSportsPage() {
+  const payload = await fetchEndpoint(LOCAL_SPORTS_ENDPOINT);
+  renderSportsPage(payload);
+}
+
+async function initializeMarketsPage() {
+  const payload = await fetchEndpoint(LOCAL_MARKETS_ENDPOINT);
+  renderMarketsPage(payload);
+}
+
+function renderHomeWeatherCard(payload) {
+  const card = document.getElementById("home-weather-card");
+  if (!card) {
+    return;
+  }
+
+  const current = payload.current;
+  const nextPeriods = (payload.forecast || []).slice(0, 3);
+  if (!current) {
+    return;
+  }
+
+  card.innerHTML = `
+    <p class="panel-label">Weather</p>
+    <h3>${escapeHtml(payload.location?.shortLabel || "Local forecast")}</h3>
+    <p class="utility-value">${escapeHtml(String(current.temperature ?? "--"))}&deg;${escapeHtml(current.temperatureUnit || "F")}</p>
+    <p class="utility-copy">${escapeHtml(current.shortForecast || "Forecast unavailable.")}</p>
+    <div class="mini-forecast">
+      ${nextPeriods.map((period) => `
+        <article>
+          <strong>${escapeHtml(period.name || "")}</strong>
+          <span>${escapeHtml(String(period.temperature ?? "--"))}&deg;${escapeHtml(period.temperatureUnit || "F")}</span>
+        </article>
+      `).join("")}
+    </div>
+    <div class="story-actions">
+      <a class="story-link" href="/weather/">Open weather desk</a>
+    </div>
+  `;
+}
+
+function renderHomeSportsCard(payload) {
+  const card = document.getElementById("home-sports-card");
+  if (!card) {
+    return;
+  }
+
+  const games = flattenGames(payload.scoreboards || []).slice(0, 3);
+  if (!games.length) {
+    return;
+  }
+
+  card.innerHTML = `
+    <p class="panel-label">Sports</p>
+    <h3>Live boards and tonight&apos;s best windows</h3>
+    <div class="mini-score-list">
+      ${games.map((game) => `
+        <article>
+          <strong>${escapeHtml(game.league)}</strong>
+          <span>${escapeHtml(shortGameLabel(game))}</span>
+          <small>${escapeHtml(game.status || "")}</small>
+        </article>
+      `).join("")}
+    </div>
+    <div class="story-actions">
+      <a class="story-link" href="/sports/">Open sports desk</a>
+    </div>
+  `;
+}
+
+function renderHomeMarketsCard(payload) {
+  const card = document.getElementById("home-markets-card");
+  if (!card) {
+    return;
+  }
+
+  const watchlist = (payload.watchlist || []).slice(0, 4);
+  if (!watchlist.length) {
+    return;
+  }
+
+  card.innerHTML = `
+    <p class="panel-label">Markets</p>
+    <h3>Indices and crypto in one scan</h3>
+    <div class="mini-market-list">
+      ${watchlist.map((quote) => `
+        <article>
+          <strong>${escapeHtml(quote.symbol || "")}</strong>
+          <span>${escapeHtml(quote.valueDisplay || "Unavailable")}</span>
+          <small class="${quoteToneClass(quote)}">${escapeHtml(quote.changePercentDisplay || quote.changeDisplay || "Flat")}</small>
+        </article>
+      `).join("")}
+    </div>
+    <div class="story-actions">
+      <a class="story-link" href="/markets/">Open markets desk</a>
+    </div>
+  `;
+}
+
+function renderWeatherPage(payload) {
+  const currentNode = document.getElementById("weather-current");
+  const forecastNode = document.getElementById("weather-forecast-grid");
+  const alertsNode = document.getElementById("weather-alerts");
+  if (!currentNode || !forecastNode || !alertsNode) {
+    return;
+  }
+
+  const current = payload.current;
+  if (current) {
+    currentNode.innerHTML = `
+      <div class="utility-reading">
+        <p class="utility-value">${escapeHtml(String(current.temperature ?? "--"))}&deg;${escapeHtml(current.temperatureUnit || "F")}</p>
+        <p class="utility-copy">${escapeHtml(current.shortForecast || "")}</p>
+        <p class="utility-subcopy">${escapeHtml(current.windSpeed || "")} ${escapeHtml(current.windDirection || "")}</p>
+      </div>
+    `;
+  }
+
+  forecastNode.innerHTML = (payload.forecast || []).map((period) => `
+    <article class="forecast-card">
+      <strong>${escapeHtml(period.name || "")}</strong>
+      <span>${escapeHtml(String(period.temperature ?? "--"))}&deg;${escapeHtml(period.temperatureUnit || "F")}</span>
+      <p>${escapeHtml(period.shortForecast || "")}</p>
+    </article>
+  `).join("");
+
+  const alerts = payload.alerts || [];
+  alertsNode.innerHTML = alerts.length
+    ? `<div class="alert-list">${alerts.map((alert) => `
+        <article class="alert-card">
+          <strong>${escapeHtml(alert.event || "Alert")}</strong>
+          <p>${escapeHtml(alert.headline || "")}</p>
+          <small>${escapeHtml([alert.severity, alert.urgency].filter(Boolean).join(" • "))}</small>
+        </article>
+      `).join("")}</div>`
+    : '<p class="utility-copy">No active alerts for home right now.</p>';
+}
+
+function renderSportsPage(payload) {
+  const scoreboardsNode = document.getElementById("sports-scoreboards");
+  if (!scoreboardsNode) {
+    return;
+  }
+
+  const boards = payload.scoreboards || [];
+  if (!boards.length) {
+    scoreboardsNode.innerHTML = '<p class="utility-copy">No live scoreboards are available right now.</p>';
+    return;
+  }
+
+  scoreboardsNode.innerHTML = boards.map((board) => `
+    <section class="scoreboard-section">
+      <div class="section-heading section-heading-compact">
+        <div>
+          <p class="eyebrow">${escapeHtml(board.league)}</p>
+          <h3>${escapeHtml(board.league)} scoreboard</h3>
+        </div>
+      </div>
+      <div class="scoreboard-grid">
+        ${(board.games || []).map((game) => `
+          <article class="score-card">
+            <div class="score-card-top">
+              <strong>${escapeHtml(shortGameLabel(game))}</strong>
+              <span>${escapeHtml(game.status || "")}</span>
+            </div>
+            <div class="team-stack">
+              ${(game.competitors || []).map((team) => `
+                <div class="team-row">
+                  <span>${escapeHtml(team.abbreviation || team.name || "")}</span>
+                  <strong>${escapeHtml(team.score || "0")}</strong>
+                </div>
+              `).join("")}
+            </div>
+          </article>
+        `).join("")}
+      </div>
+    </section>
+  `).join("");
+}
+
+function renderMarketsPage(payload) {
+  const watchlistNode = document.getElementById("markets-watchlist");
+  if (!watchlistNode) {
+    return;
+  }
+
+  const watchlist = payload.watchlist || [];
+  if (!watchlist.length) {
+    watchlistNode.innerHTML = '<p class="utility-copy">Market data is temporarily unavailable.</p>';
+    return;
+  }
+
+  watchlistNode.innerHTML = `
+    <div class="watchlist-grid">
+      ${watchlist.map((quote) => `
+        <article class="market-card">
+          <p class="panel-label">${escapeHtml(quote.symbol || "")}</p>
+          <h3>${escapeHtml(quote.valueDisplay || "Unavailable")}</h3>
+          <p class="market-move ${quoteToneClass(quote)}">${escapeHtml(quote.changePercentDisplay || quote.changeDisplay || "Flat")}</p>
+          <small>${escapeHtml(quote.asOf || "")}</small>
+        </article>
+      `).join("")}
+    </div>
+  `;
+}
+
+function flattenGames(scoreboards) {
+  return scoreboards.flatMap((board) =>
+    (board.games || []).map((game) => ({
+      ...game,
+      league: board.league
+    }))
+  );
+}
+
+function shortGameLabel(game) {
+  const competitors = game.competitors || [];
+  if (competitors.length < 2) {
+    return game.name || "Game";
+  }
+  return `${competitors[1].abbreviation || competitors[1].name} @ ${competitors[0].abbreviation || competitors[0].name}`;
+}
+
+function quoteToneClass(quote) {
+  const value = typeof quote.changePercent === "number"
+    ? quote.changePercent
+    : parseFloat(String(quote.changePercentDisplay || quote.changeDisplay || "0").replace(/[^\d.-]/g, ""));
+
+  if (Number.isNaN(value) || value === 0) {
+    return "utility-flat";
+  }
+  return value > 0 ? "utility-up" : "utility-down";
 }
 
 function initializeFilterToolbars() {

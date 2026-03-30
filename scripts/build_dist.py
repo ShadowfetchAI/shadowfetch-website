@@ -29,11 +29,14 @@ DIRECTORIES = [
     "coverage",
     "journal",
     "latest",
+    "markets",
     "roundups",
     "search",
     "sections",
+    "sports",
     "sources",
     "topics",
+    "weather",
 ]
 
 FILES = [

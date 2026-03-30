@@ -2574,7 +2574,7 @@ def render_site_header(context: dict, nav_current: str) -> str:
 
     <div class="masthead">
       <div class="container masthead-edition">
-        <span>{context['edition_stamp']}</span>
+        <span data-edition-stamp>{context['edition_stamp']}</span>
         <span>Late City Edition</span>
         <span>{context['edition_issue']}</span>
       </div>

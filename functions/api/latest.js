@@ -3,7 +3,7 @@ import { clampInt, loadFeedSnapshot } from "../_lib/feed.js";
 export async function onRequestGet(context) {
   try {
     const url = new URL(context.request.url);
-    const limit = clampInt(url.searchParams.get("limit"), 1, 48, 12);
+    const limit = clampInt(url.searchParams.get("limit"), 1, 120, 12);
     const section = String(url.searchParams.get("section") || "").trim().toLowerCase();
     const feed = await loadFeedSnapshot(context);
 

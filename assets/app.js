@@ -17,6 +17,8 @@ const siteConfig = {
 
 const SEARCH_INDEX_URL = "/assets/data/search-index.json";
 const LOCAL_COUNTER_ENDPOINT = "/api/visit";
+const LOCAL_META_ENDPOINT = "/api/meta";
+const LOCAL_LATEST_ENDPOINT = "/api/latest";
 
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", bootSite);
@@ -28,6 +30,9 @@ function bootSite() {
   applySocialLinks();
   initializeVisitorCounter().catch(() => {
     setVisitCount("Unavailable");
+  });
+  initializeLiveEdition().catch(() => {
+    // Keep the static build visible if live hydration is unavailable.
   });
   initializeFilterToolbars();
   initializeSearchPage().catch(() => {
@@ -122,6 +127,232 @@ function setVisitCount(value) {
   document.querySelectorAll("[data-visit-count]").forEach((node) => {
     node.textContent = value;
   });
+}
+
+async function initializeLiveEdition() {
+  const page = document.body?.dataset.page || "";
+  const metaPromise = fetchSiteMeta();
+
+  if (page === "home" || page === "latest") {
+    const gridId = page === "home" ? "home-latest-grid" : "archive-grid";
+    const toolbarId = page === "home" ? "home-filter-toolbar" : "archive-filter-toolbar";
+    const summaryId = page === "home" ? "home-latest-summary" : "archive-summary";
+    const limit = storyCountForGrid(gridId, page === "home" ? 18 : 96);
+    const latest = await fetchLatestStories(limit);
+
+    if (latest?.generatedAt) {
+      applyGeneratedAt(latest.generatedAt);
+    }
+    if (Array.isArray(latest?.stories) && latest.stories.length) {
+      renderBreakingTicker(latest.stories.slice(0, 16));
+      renderLatestGrid(gridId, toolbarId, summaryId, latest.stories);
+    }
+  } else {
+    const latest = await fetchLatestStories(16);
+    if (latest?.generatedAt) {
+      applyGeneratedAt(latest.generatedAt);
+    }
+    if (Array.isArray(latest?.stories) && latest.stories.length) {
+      renderBreakingTicker(latest.stories);
+    }
+  }
+
+  const meta = await metaPromise;
+  if (meta?.generatedAt) {
+    applyGeneratedAt(meta.generatedAt);
+  }
+}
+
+async function fetchSiteMeta() {
+  try {
+    const response = await fetch(LOCAL_META_ENDPOINT, {
+      cache: "no-store"
+    });
+    if (!response.ok) {
+      return null;
+    }
+
+    const payload = await response.json();
+    return payload?.ok ? payload : null;
+  } catch {
+    return null;
+  }
+}
+
+async function fetchLatestStories(limit) {
+  try {
+    const response = await fetch(`${LOCAL_LATEST_ENDPOINT}?limit=${encodeURIComponent(limit)}`, {
+      cache: "no-store"
+    });
+    if (!response.ok) {
+      return null;
+    }
+
+    const payload = await response.json();
+    return payload?.ok ? payload : null;
+  } catch {
+    return null;
+  }
+}
+
+function applyGeneratedAt(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return;
+  }
+
+  const stamp = formatGeneratedTimestamp(date);
+  document.querySelectorAll("[data-generated-at]").forEach((node) => {
+    node.textContent = stamp;
+  });
+
+  const editionStamp = document.querySelector("[data-edition-stamp]");
+  if (editionStamp) {
+    editionStamp.textContent = formatEditionDate(date);
+  }
+}
+
+function storyCountForGrid(gridId, fallback) {
+  const grid = document.getElementById(gridId);
+  if (!grid) {
+    return fallback;
+  }
+
+  return Math.max(grid.children.length || 0, fallback);
+}
+
+function renderBreakingTicker(stories) {
+  const track = document.getElementById("breaking-ticker-track");
+  if (!track || !stories.length) {
+    return;
+  }
+
+  track.innerHTML = stories
+    .map((story, index) => {
+      const divider = index === stories.length - 1
+        ? ""
+        : '<span class="ticker-divider" aria-hidden="true">•</span>';
+
+      return `
+        <a class="ticker-item" href="${safeUrlOrPath(story.link)}" target="_blank" rel="noreferrer noopener">
+          <span>${escapeHtml(story.title || "Latest headline")}</span>
+        </a>
+        ${divider}
+      `;
+    })
+    .join("");
+}
+
+function renderLatestGrid(gridId, toolbarId, summaryId, stories) {
+  const grid = document.getElementById(gridId);
+  if (!grid || !stories.length) {
+    return;
+  }
+
+  grid.innerHTML = stories.map((story) => storyCardMarkup(story)).join("");
+
+  const toolbar = document.getElementById(toolbarId);
+  const summary = document.getElementById(summaryId);
+  if (!toolbar || !summary) {
+    return;
+  }
+
+  const activeButton = toolbar.querySelector('[aria-pressed="true"]') || toolbar.querySelector('[data-filter-key="all"]');
+  applyToolbarFilter(toolbar, grid, summary, activeButton?.dataset.filterKey || "all");
+}
+
+function storyCardMarkup(story) {
+  const headline = escapeHtml(story.title || "Latest headline");
+  const summary = escapeHtml(trimSummary(story.summary || ""));
+  const sectionLabel = escapeHtml(story.section || "Latest");
+  const sourceLabel = escapeHtml(story.source || "Source");
+  const sectionHref = story.section_key ? `/sections/${encodeURIComponent(story.section_key)}/` : "#";
+  const sourceHref = story.source_key ? `/sources/${encodeURIComponent(story.source_key)}/` : "#";
+  const timestamp = formatGeneratedTimestamp(story.timestamp);
+  const recency = recencyBadge(story.timestamp);
+
+  return `
+    <article class="story-card" data-section-key="${escapeHtml(story.section_key || "latest")}">
+      <div class="story-meta">
+        <a class="story-tag" href="${safeUrlOrPath(sectionHref)}">${sectionLabel}</a>
+        <a class="story-source" href="${safeUrlOrPath(sourceHref)}">${sourceLabel}</a>
+        <span class="story-time">${escapeHtml(timestamp)}</span>
+        ${recency}
+      </div>
+
+      <h3><a class="story-headline-link" href="${safeUrlOrPath(story.link)}" target="_blank" rel="noreferrer noopener">${headline}</a></h3>
+      <p>${summary}</p>
+
+      <div class="story-actions">
+        <a class="story-source-link" href="${safeUrlOrPath(story.link)}" target="_blank" rel="noreferrer noopener">Read original article</a>
+        <a class="story-link" href="${safeUrlOrPath(sourceHref)}">Source page</a>
+      </div>
+    </article>
+  `;
+}
+
+function trimSummary(value) {
+  const cleaned = String(value || "").replace(/\s+/g, " ").trim();
+  if (!cleaned) {
+    return "Open the original report for the latest details.";
+  }
+  if (cleaned.length <= 220) {
+    return cleaned;
+  }
+  return `${cleaned.slice(0, 217).trimEnd()}...`;
+}
+
+function formatGeneratedTimestamp(value) {
+  const date = value instanceof Date ? value : new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return "Recently updated";
+  }
+
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit"
+  }).format(date);
+}
+
+function formatEditionDate(value) {
+  const date = value instanceof Date ? value : new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return "Latest Edition";
+  }
+
+  return new Intl.DateTimeFormat("en-US", {
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric"
+  }).format(date);
+}
+
+function recencyBadge(timestamp) {
+  const date = new Date(timestamp);
+  if (Number.isNaN(date.getTime())) {
+    return "";
+  }
+
+  const deltaMinutes = Math.max(0, Math.round((Date.now() - date.getTime()) / 60000));
+  if (deltaMinutes <= 10) {
+    return '<span class="story-recency story-recency-hot">Just in</span>';
+  }
+  if (deltaMinutes < 60) {
+    return `<span class="story-recency story-recency-hot">${deltaMinutes} min ago</span>`;
+  }
+
+  const deltaHours = Math.round(deltaMinutes / 60);
+  if (deltaHours <= 2) {
+    return `<span class="story-recency story-recency-warm">${deltaHours} hr ago</span>`;
+  }
+  if (deltaHours <= 6) {
+    return `<span class="story-recency story-recency-cool">${deltaHours} hr ago</span>`;
+  }
+
+  return '<span class="story-recency story-recency-cool">Earlier</span>';
 }
 
 function initializeFilterToolbars() {

@@ -26,30 +26,16 @@ DIRECTORIES = [
     "archive",
     "assets",
     "bible",
-    "briefs",
     "calendar",
-    "coverage",
-    "journal",
-    "latest",
-    "markets",
-    "roundups",
-    "search",
-    "sections",
     "settings",
     "signup",
-    "sports",
-    "sources",
-    "topics",
-    "weather",
 ]
 
 FILES = [
-    "feed.xml",
     "index.html",
     "manifest.webmanifest",
     "robots.txt",
     "service-worker.js",
-    "sitemap.xml",
 ]
 
 HEADERS_CONTENT = """\
@@ -74,25 +60,17 @@ NOT_FOUND_HTML = """\
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Stop The Presses | ShadowFetch News</title>
-  <meta name="description" content="The page you were looking for is not on this edition of ShadowFetch News.">
-  <meta name="theme-color" content="#111111">
+  <title>Page Not Found | Shadowfetch Bible Edition</title>
+  <meta name="description" content="The page you were looking for was not found.">
+  <meta name="theme-color" content="#1a1a1a">
   <link rel="stylesheet" href="/assets/styles.css?v=""" + ASSET_VERSION + """">
 </head>
-<body data-page="not-found">
-  <main class="container" style="padding: 5rem 0;">
-    <section class="story-card" style="max-width: 48rem; margin: 0 auto; text-align: center;">
-      <p class="eyebrow">Stop The Presses</p>
-      <h1>This page missed the morning edition.</h1>
-      <p>
-        The link may be old, the story may have moved, or the page was never printed.
-        Let’s get you back to the front page.
-      </p>
-      <div class="hero-actions" style="justify-content: center;">
-        <a class="button button-primary" href="/">Return to the front page</a>
-        <a class="button button-secondary" href="/search/">Search the newsroom</a>
-      </div>
-    </section>
+<body data-edition="bible" data-page="not-found">
+  <main class="container" style="padding: 5rem 0; text-align: center;">
+    <p style="font-family: ‘IBM Plex Sans’, sans-serif; font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--accent); margin: 0 0 1rem;">Shadowfetch &bull; Bible Edition</p>
+    <h1 style="font-family: ‘Cormorant Garamond’, Georgia, serif; font-size: 2.5rem; margin: 0 0 1rem;">This page was not found.</h1>
+    <p style="font-size: 1.1rem; color: var(--muted); margin: 0 0 2rem;">"He who dwells in the shelter of the Most High will abide in the shadow of the Almighty." &mdash; Psalm 91:1</p>
+    <a href="/" style="display: inline-block; padding: 0.75rem 1.5rem; background: var(--accent); color: #fff7ed; font-family: ‘IBM Plex Sans’, sans-serif; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none;">Return to Today&rsquo;s Reading</a>
   </main>
 </body>
 </html>

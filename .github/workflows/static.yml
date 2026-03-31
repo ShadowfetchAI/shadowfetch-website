@@ -4,7 +4,8 @@ on:
   push:
     branches: ["main"]
   schedule:
-    - cron: "7,37 * * * *"
+    # Rebuild once per day at midnight UTC so today's date/reading is always fresh
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -38,6 +39,13 @@ jobs:
 
       - name: Build site
         run: npm run build
+
+      - name: Apply D1 migrations
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: d1 migrations apply shadowfetch-news --remote
 
       - name: Deploy to Cloudflare Pages
         id: deploy

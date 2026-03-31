@@ -1,0 +1,41 @@
+name: Send Daily Devotional Emails
+
+on:
+  schedule:
+    # 6:00 AM UTC every day
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (no emails sent if RESEND_API_KEY is present)"
+        required: false
+        default: "false"
+
+jobs:
+  send-devotionals:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send devotional batch
+        run: |
+          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST \
+            "https://www.shadowfetch.com/api/send-devotionals" \
+            -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
+            -H "Content-Type: application/json" \
+            -d '{}')
+
+          BODY=$(echo "$RESPONSE" | head -n -1)
+          STATUS=$(echo "$RESPONSE" | tail -n 1)
+
+          echo "HTTP Status: $STATUS"
+          echo "Response: $BODY"
+
+          if [ "$STATUS" -lt 200 ] || [ "$STATUS" -ge 300 ]; then
+            echo "Devotional send failed with status $STATUS"
+            exit 1
+          fi
+
+          SENT=$(echo "$BODY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(len(d.get('sent',[])))" 2>/dev/null || echo "?")
+          SKIPPED=$(echo "$BODY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(len(d.get('skipped',[])))" 2>/dev/null || echo "?")
+          DRY=$(echo "$BODY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('dryRun',False))" 2>/dev/null || echo "?")
+
+          echo "Sent: $SENT | Skipped: $SKIPPED | Dry run: $DRY"

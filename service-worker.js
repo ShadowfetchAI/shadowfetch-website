@@ -1,11 +1,5 @@
-const CACHE_NAME = "shadowfetch-bible-v2";
+const CACHE_NAME = "shadowfetch-bible-v3";
 const CORE_ASSETS = [
-  "/",
-  "/bible/",
-  "/calendar/",
-  "/archive/",
-  "/settings/",
-  "/signup/",
   "/manifest.webmanifest",
   "/assets/styles.css",
   "/assets/app.js",
@@ -32,6 +26,15 @@ self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") {
     return;
   }
+  const url = new URL(event.request.url);
+  const isSameOrigin = url.origin === self.location.origin;
+  const isDocument = event.request.mode === "navigate" || event.request.destination === "document";
+
+  if (isSameOrigin && isDocument) {
+    event.respondWith(networkFirst(event.request));
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request).then((cached) => {
       if (cached) {
@@ -47,3 +50,20 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
+
+async function networkFirst(request) {
+  try {
+    const response = await fetch(request);
+    if (response.ok) {
+      const clone = response.clone();
+      caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
+    }
+    return response;
+  } catch {
+    const cached = await caches.match(request);
+    if (cached) {
+      return cached;
+    }
+    throw new Error("Network unavailable and no cached document found.");
+  }
+}

@@ -141,7 +141,9 @@ function registerBiblePwa() {
   if (!("serviceWorker" in navigator)) {
     return;
   }
-  navigator.serviceWorker.register("/service-worker.js").catch(() => {
+  navigator.serviceWorker.register("/service-worker.js").then((registration) => {
+    registration.update().catch(() => {});
+  }).catch(() => {
     // Keep the site readable even if the PWA layer is unavailable.
   });
 }

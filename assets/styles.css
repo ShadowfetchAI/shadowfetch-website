@@ -2399,3 +2399,59 @@ body[data-edition="bible"] .calendar-month-day-missed {
     grid-template-columns: 1fr;
   }
 }
+
+/* ─── BIBLE EDITION — MOBILE ────────────────────────────────── */
+@media (max-width: 600px) {
+  body[data-edition="bible"] .utility-bar,
+  body[data-edition="bible"] .affiliate-strip { display: none; }
+
+  body[data-edition="bible"] .masthead { padding: 0.5rem 0 0.4rem; }
+  body[data-edition="bible"] .masthead-edition { display: none; }
+
+  body[data-edition="bible"] .brand-logo-image { width: min(100%, 240px); }
+
+  body[data-edition="bible"] .site-nav {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.4rem;
+    padding: 0 0 0.5rem;
+  }
+  body[data-edition="bible"] .site-nav a {
+    min-height: 2.75rem;
+    font-size: 0.7rem;
+    padding: 0.5rem 0.2rem;
+    justify-content: center;
+    text-align: center;
+  }
+
+  body[data-edition="bible"] .bible-headline {
+    font-size: clamp(1.9rem, 9vw, 2.8rem);
+  }
+
+  body[data-edition="bible"] .chapter-reading { padding: 1rem 0.85rem; }
+
+  body[data-edition="bible"] .verse-row {
+    grid-template-columns: 1.6rem minmax(0, 1fr);
+    gap: 0.45rem;
+    font-size: 1rem;
+    line-height: 1.8;
+  }
+
+  body[data-edition="bible"] .devotional-actions,
+  body[data-edition="bible"] .form-actions { flex-direction: column; }
+
+  body[data-edition="bible"] .devotional-actions .button,
+  body[data-edition="bible"] .form-actions .button {
+    width: 100%;
+    min-height: 2.75rem;
+    justify-content: center;
+    text-align: center;
+  }
+
+  body[data-edition="bible"] .devotional-grid-progress { grid-template-columns: 1fr; }
+
+  body[data-edition="bible"] .footer-wrap { flex-direction: column; gap: 1.25rem; }
+
+  /* Ensure the page always scrolls on iOS/Android */
+  html, body { overflow-x: hidden; }
+  html { -webkit-overflow-scrolling: touch; }
+}

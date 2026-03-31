@@ -1,4 +1,4 @@
-const CACHE_NAME = "shadowfetch-bible-v3";
+const CACHE_NAME = "shadowfetch-bible-v4";
 const CORE_ASSETS = [
   "/",
   "/bible/",

@@ -12,6 +12,7 @@ import {
   renderDevotionalEmail,
   sendViaResend,
 } from "../_lib/devotional-email.js";
+import { buildUnsubscribeUrl } from "../_lib/unsubscribe.js";
 
 export async function onRequestPost(context) {
   try {
@@ -57,10 +58,12 @@ export async function onRequestPost(context) {
       try {
         const reading = await loadReading(context, canon, dayNumber);
         const subject = buildDevotionalSubject(dayNumber);
+        const unsubscribeUrl = await buildUnsubscribeUrl(context, email);
         const html = renderDevotionalEmail({
           site: data.site || {},
           user: { email },
           reading,
+          unsubscribeUrl,
         });
 
         if (context.env.RESEND_API_KEY) {

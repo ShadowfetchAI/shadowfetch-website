@@ -266,7 +266,9 @@ function renderBibleReadingPage(page, reading) {
   const rootId = page === "home" ? "home-reading-root" : "bible-reading-root";
   const root = document.getElementById(rootId);
   if (root) {
-    root.innerHTML = renderBibleReadingHtml(reading, { showQuote: page === "bible" });
+    root.innerHTML = page === "home"
+      ? renderBibleHomePreviewHtml(reading)
+      : renderBibleReadingHtml(reading, { showQuote: page === "bible" });
   }
   const quoteRoot = document.getElementById("home-quote-root");
   if (page === "home" && quoteRoot && reading?.quote) {
@@ -276,6 +278,37 @@ function renderBibleReadingPage(page, reading) {
   if (page === "home" && ribbonDay) {
     ribbonDay.textContent = `Day ${reading.day_number} of 365`;
   }
+}
+
+function renderBibleHomePreviewHtml(reading) {
+  const firstChapter = Array.isArray(reading?.chapters) ? reading.chapters[0] : null;
+  const firstVerse = Array.isArray(firstChapter?.verses) ? firstChapter.verses[0] : null;
+  const previewText = firstVerse?.text
+    ? `${firstVerse.text.slice(0, 220)}${firstVerse.text.length > 220 ? "…" : ""}`
+    : "A calm daily reading, one complete day at a time.";
+
+  return `
+    <div class="reading-lead-body reading-preview">
+      <p class="paper-kicker">Today's Reading</p>
+      <h1 class="paper-headline bible-headline">Day ${reading.day_number}</h1>
+      <p class="paper-summary">${escapeHtml(reading.references)}</p>
+      <div class="reading-meta reading-meta-strong">
+        <span>${reading.estimated_minutes} minute read</span>
+        <span>${reading.word_count} words</span>
+        <span>${escapeHtml(reading.translation)}</span>
+      </div>
+      <p class="reading-preview-copy">One clean email a day with the exact chapters for your place in the plan. No paywall. No clutter.</p>
+      <div class="panel mini-panel reading-preview-excerpt">
+        <p class="panel-label">First verse</p>
+        <p>${escapeHtml(previewText)}</p>
+      </div>
+      <div class="hero-actions devotional-actions reading-preview-actions">
+        <a class="button button-primary" href="/signup/">Start free</a>
+        <a class="button button-secondary" href="/bible/">Preview today's reading</a>
+      </div>
+      <p class="tomorrow-teaser">Tomorrow's teaser: <a href="/calendar/">${escapeHtml(reading.tomorrow_teaser)}</a></p>
+    </div>
+  `;
 }
 
 function renderBibleReadingHtml(reading, options = {}) {
@@ -428,7 +461,7 @@ function renderBibleArchive(summary, profile) {
           <article class="panel archive-card">
             <p class="panel-label">Day ${day.day_number}</p>
             <h3>${escapeHtml(day.references)}</h3>
-            <p>${escapeHtml(day.quote?.text || "")}</p>
+            <p>${readingSummary(day)}</p>
             <a class="story-link" href="/bible/?canon=${encodeURIComponent(profile.canon)}&start_date=${encodeURIComponent(profile.start_date)}&day=${day.day_number}">Open reading</a>
           </article>
         `
@@ -441,6 +474,15 @@ function renderBibleArchive(summary, profile) {
   if (search) {
     search.addEventListener("input", () => render(search.value));
   }
+}
+
+function readingSummary(day) {
+  const quote = String(day?.quote?.text || "").trim();
+  if (quote) {
+    return escapeHtml(quote);
+  }
+  const chapterCount = Array.isArray(day?.chapters) ? day.chapters.length : 0;
+  return escapeHtml(`${chapterCount} complete chapter${chapterCount === 1 ? "" : "s"} for this day.`);
 }
 
 function updateBibleProgressUi(summary, profile) {

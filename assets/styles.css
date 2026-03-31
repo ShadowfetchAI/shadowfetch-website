@@ -260,11 +260,39 @@ body[data-edition="bible"] .support-banner {
   padding: 1rem 1.1rem;
   border: 1px solid rgba(184, 141, 74, 0.18);
   background: rgba(184, 141, 74, 0.08);
+  display: grid;
+  gap: 0.85rem;
+}
+
+body[data-edition="bible"] .support-banner p {
+  margin: 0;
+}
+
+body[data-edition="bible"] .support-banner .button-secondary {
+  width: fit-content;
+  max-width: 100%;
+  color: var(--text);
+  border-color: rgba(184, 141, 74, 0.28);
+  background: rgba(184, 141, 74, 0.18);
 }
 
 body[data-edition="bible"] .reading-stack {
   display: grid;
   gap: 1rem;
+}
+
+body[data-edition="bible"] .reading-preview-copy {
+  margin: 0 0 0.9rem;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+body[data-edition="bible"] .reading-preview-excerpt {
+  padding: 1rem 1.05rem;
+}
+
+body[data-edition="bible"] .reading-preview-excerpt p:last-child {
+  margin-bottom: 0;
 }
 
 body[data-edition="bible"] .reading-meta {
@@ -456,6 +484,10 @@ body[data-edition="bible"] .sidebar-stack {
   gap: 1rem;
 }
 
+body[data-edition="bible"] .archive-list {
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+}
+
 body[data-edition="bible"] .calendar-panel-wide {
   grid-column: span 2;
 }
@@ -469,6 +501,10 @@ body[data-edition="bible"] .bible-footer {
   body[data-edition="bible"] .devotional-grid-two,
   body[data-edition="bible"] .devotional-grid-progress {
     grid-template-columns: 1fr;
+  }
+
+  body[data-edition="bible"] .bible-front-grid > .sidebar-stack {
+    order: -1;
   }
 
   body[data-edition="bible"] .calendar-panel-wide {

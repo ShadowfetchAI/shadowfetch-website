@@ -2,7 +2,7 @@ export function buildDevotionalSubject(dayNumber) {
   return `Shadowfetch • Bible Edition — Day ${dayNumber}`;
 }
 
-export function renderDevotionalEmail({ site, user, reading }) {
+export function renderDevotionalEmail({ site, user, reading, unsubscribeUrl }) {
   const chapters = Array.isArray(reading?.chapters) ? reading.chapters : [];
   const chapterMarkup = chapters
     .map((chapter) => {
@@ -33,7 +33,7 @@ export function renderDevotionalEmail({ site, user, reading }) {
         ${chapterMarkup}
         <p style="margin:24px 0 12px;font:400 16px/1.7 Georgia,serif;color:#5d4f44;">These daily chapters are free thanks to people like you. Donate what you want to help keep the emails going for everyone.</p>
         <p style="margin:0 0 16px;"><a href="${site.support_url}" style="display:inline-block;padding:12px 18px;background:#8a5d24;color:#fff7ed;text-decoration:none;font:600 14px/1 'IBM Plex Sans',Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;">Buy Me a Coffee</a></p>
-        <p style="margin:0;font:400 13px/1.6 'IBM Plex Sans',Arial,sans-serif;color:#7b654d;">This message was prepared for ${escapeHtml(user.email)}. You can update your reading preferences anytime at https://www.shadowfetch.com/settings/.</p>
+        <p style="margin:0;font:400 13px/1.6 'IBM Plex Sans',Arial,sans-serif;color:#7b654d;">This message was prepared for ${escapeHtml(user.email)}. If you ever want the emails to stop, <a href="${escapeHtml(unsubscribeUrl || "https://www.shadowfetch.com/settings/")}" style="color:#7b654d;">unsubscribe with one click</a>.</p>
       </div>
     </body>
   </html>`;

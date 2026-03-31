@@ -281,6 +281,8 @@ def main() -> None:
             tracks=CATHOLIC_TRACKS,
         ),
     }
+    for plan in plans.values():
+        validate_plan(plan)
 
     payload = build_summary_payload(plans)
 
@@ -558,6 +560,21 @@ def build_plan(
     }
 
 
+def validate_plan(plan: dict[str, Any]) -> None:
+    seen: set[tuple[str, int]] = set()
+    for day in plan["days"]:
+        for chapter in day["chapters"]:
+            verses = chapter.get("verses", [])
+            if not verses:
+                raise ValueError(f"Empty chapter payload found in {chapter.get('chapter_title')}")
+            if int(chapter.get("verse_count", 0)) != len(verses):
+                raise ValueError(f"Verse count mismatch in {chapter.get('chapter_title')}")
+            key = (str(chapter.get("book")), int(chapter.get("chapter_number", 0)))
+            if key in seen:
+                raise ValueError(f"Duplicate chapter assigned in plan: {key[0]} {key[1]}")
+            seen.add(key)
+
+
 def build_summary_payload(plans: dict[str, dict[str, Any]]) -> dict[str, Any]:
     today_date = datetime.now(timezone.utc).astimezone().date()
     protestant_day = plans["protestant"]["days"][0]
@@ -822,7 +839,7 @@ def render_signup_form(form_id: str, compact: bool = False) -> str:
     return f"""
       <form class="{card_class}" id="{form_id}" data-signup-form>
         <p class="panel-label">Start the plan</p>
-        <h3>Read through the Bible, one complete day at a time.</h3>
+        <h3>Start the free daily Bible email.</h3>
         <label class="field-label">Email address
           <input class="text-input" type="email" name="email" placeholder="you@example.com" required>
         </label>
@@ -842,13 +859,13 @@ def render_signup_form(form_id: str, compact: bool = False) -> str:
         </label>
         <label class="checkbox-field">
           <input type="checkbox" name="subscribed" value="1" checked>
-          <span>Send the daily email</span>
+          <span>Send me the daily reading</span>
         </label>
         <div class="form-actions">
-          <button class="button button-primary" type="submit">Start today</button>
-          <a class="button button-secondary" href="/calendar/">Preview the calendar</a>
+          <button class="button button-primary" type="submit">Start free</button>
+          <a class="button button-secondary" href="/bible/">Preview today's reading</a>
         </div>
-        <p class="form-note" data-signup-status>Daily email sends one personalized reading built from complete chapters only.</p>
+        <p class="form-note" data-signup-status>One personalized email a day with complete chapters only. Unsubscribe anytime.</p>
       </form>
     """
 
@@ -909,6 +926,36 @@ def render_day_article(day: dict[str, Any], *, show_quote: bool = False) -> str:
     """
 
 
+def render_home_preview(day: dict[str, Any]) -> str:
+    first_chapter = (day.get("chapters") or [{}])[0]
+    first_verse = ((first_chapter.get("verses") or [{}])[0]).get("text", "")
+    excerpt = escape(first_verse[:220].rstrip())
+    if first_verse and len(first_verse) > 220:
+        excerpt += "…"
+    return f"""
+      <div class="reading-lead-body reading-preview">
+        <p class="paper-kicker">Today's Reading</p>
+        <h1 class="paper-headline bible-headline">Day {day['day_number']}</h1>
+        <p class="paper-summary">{escape(day['references'])}</p>
+        <div class="reading-meta reading-meta-strong">
+          <span>{day['estimated_minutes']} minute read</span>
+          <span>{day['word_count']} words</span>
+          <span>{escape(day['translation'])}</span>
+        </div>
+        <p class="reading-preview-copy">One calm reading plan. Complete chapters. One email a day. No paywall on Scripture.</p>
+        <div class="panel mini-panel reading-preview-excerpt">
+          <p class="panel-label">First verse</p>
+          <p>{excerpt}</p>
+        </div>
+        <div class="hero-actions devotional-actions reading-preview-actions">
+          <a class="button button-primary" href="/signup/">Start free</a>
+          <a class="button button-secondary" href="/bible/">Preview today's reading</a>
+        </div>
+        <p class="tomorrow-teaser">Tomorrow&apos;s teaser: <a href="/calendar/">{escape(day['tomorrow_teaser'])}</a></p>
+      </div>
+    """
+
+
 def render_progress_section(progress: dict[str, Any]) -> str:
     days_markup = "".join(
         f'<button class="heat-day heat-day-{escape(day["status"])}" type="button" title="{escape(day["label"])}">{day["day"]}</button>'
@@ -948,10 +995,6 @@ def render_progress_section(progress: dict[str, Any]) -> str:
 def render_home_page(payload: dict[str, Any]) -> str:
     today = payload["today"]
     reading = today["protestant"]
-    encouragement_markup = "".join(
-        f'<article class="panel mini-panel"><p class="panel-label">Encouragement</p><h3>{escape(item["title"])}</h3><p>{escape(item["summary"])}</p></article>'
-        for item in payload["encouragement"]
-    )
     hero = f"""
       <section class="container hero hero-home bible-hero">
         <div class="newsprint-frontpage bible-frontpage">
@@ -963,7 +1006,7 @@ def render_home_page(payload: dict[str, Any]) -> str:
           <div class="bible-front-grid">
             <article class="newsprint-center reading-lead">
               <div id="home-reading-root">
-                {render_day_article(reading)}
+                {render_home_preview(reading)}
               </div>
             </article>
             <aside class="newsprint-column sidebar-stack">
@@ -978,12 +1021,15 @@ def render_home_page(payload: dict[str, Any]) -> str:
                   <p>{escape(payload['quote_of_day']['reflection'])}</p>
                 </article>
               </div>
-              {encouragement_markup}
+              <article class="panel mini-panel">
+                <p class="panel-label">How it works</p>
+                <h3>Start on your day. Stay at your pace.</h3>
+                <p>Choose your canon, pick a start date, and get one clean daily email with the exact chapters for your place in the plan.</p>
+              </article>
             </aside>
           </div>
         </div>
       </section>
-      {render_progress_section(payload['progress'])}
     """
 
     return page_shell(
@@ -1015,12 +1061,12 @@ def render_bible_page(payload: dict[str, Any]) -> str:
         </article>
         <aside class="reading-column">
           <article class="panel form-card">
-            <p class="panel-label">Personal dashboard</p>
-            <h3>Your reading should follow your start date.</h3>
-            <p>The page will personalize itself once you sign up or save your reading preferences.</p>
+            <p class="panel-label">Email signup</p>
+            <h3>Get the daily reading in your inbox.</h3>
+            <p>Pick your canon and start date. The site sends one clean reading email each day.</p>
             <div class="button-row">
-              <a class="button button-primary" href="/signup/">Start the plan</a>
-              <a class="button button-secondary" href="/settings/">Adjust settings</a>
+              <a class="button button-primary" href="/signup/">Start free</a>
+              <a class="button button-secondary" href="/settings/">Unsubscribe info</a>
             </div>
           </article>
         </aside>
@@ -1093,17 +1139,6 @@ def render_calendar_page(payload: dict[str, Any]) -> str:
 
 
 def render_archive_page(payload: dict[str, Any]) -> str:
-    preview_cards = "".join(
-        f"""
-        <article class="panel archive-card">
-          <p class="panel-label">{escape(item['label'])}</p>
-          <h3>{escape(item['references'])}</h3>
-          <p>{escape(item['summary'])}</p>
-          <a class="story-link" href="{item['path']}">Open reading</a>
-        </article>
-        """
-        for item in payload["archive"][:12]
-    )
     content = f"""
       <section class="container hero hero-compact bible-subpage-hero">
         <div class="section-heading">
@@ -1111,7 +1146,7 @@ def render_archive_page(payload: dict[str, Any]) -> str:
             <p class="eyebrow">Archive</p>
             <h1>Browse past reading days</h1>
           </div>
-          <p class="section-copy">Every day in the plan stays easy to reopen, search, and revisit later.</p>
+          <p class="section-copy">Search by book, chapter, or day number and reopen any reading without digging through clutter.</p>
         </div>
       </section>
       <section class="container page-section">
@@ -1120,7 +1155,6 @@ def render_archive_page(payload: dict[str, Any]) -> str:
             <input class="text-input" type="search" id="archive-search" placeholder="Try Genesis, Romans, Psalm 91, Day 10…">
           </label>
         </div>
-        <div class="archive-list">{preview_cards}</div>
         <div id="archive-root" class="archive-list archive-list-dynamic"></div>
       </section>
     """
@@ -1146,14 +1180,13 @@ def render_settings_page(payload: dict[str, Any]) -> str:
       </section>
       <section class="container page-section devotional-grid devotional-grid-two settings-grid">
         <article class="panel form-card">
-          <p class="panel-label">Reading preferences</p>
+          <p class="panel-label">Email preferences</p>
           {render_signup_form("settings-signup", compact=False)}
         </article>
         <article class="panel form-card">
-          <p class="panel-label">Email & install</p>
-          <h3>Daily email cadence</h3>
-          <p>{escape(payload['settings']['email_frequency'])}</p>
-          <p>{escape(payload['settings']['install_label'])}</p>
+          <p class="panel-label">Unsubscribe</p>
+          <h3>Keep it simple.</h3>
+          <p>Shadowfetch sends one daily reading email. This page is here if you ever want to stop receiving it or change your start date.</p>
           <div class="button-row">
             <a class="button button-secondary" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Support the emails</a>
             <a class="button button-secondary" href="/signup/">Open signup page</a>

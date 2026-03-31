@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-31T20:11:15.840629Z",
+  "generated_at": "2026-03-31T20:19:17.895651Z",
   "site": {
     "title": "Shadowfetch: Bible Edition",
     "short_name": "Shadowfetch Bible",
     "tagline": "Fetch the Word. Abide in the Shadow.",
-    "description": "A calm, protective daily Bible-reading companion with complete chapters, gentle progress, and a newspaper-inspired devotional layout built around Psalm 91.",
+    "description": "A calm, protective daily Bible-reading companion with complete chapters, one simple email a day, and a newspaper-inspired devotional layout built around Psalm 91.",
     "support_url": "https://www.buymeacoffee.com/shadowfetch",
     "psalm_91": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty."
   },

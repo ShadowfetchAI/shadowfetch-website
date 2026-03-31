@@ -63,7 +63,6 @@ function bootBibleEdition() {
   applyBibleTheme();
   wireBibleThemeToggle();
   wireBibleSignupForms();
-  wireBibleMarkRead();
   initializeVisitorCounter().catch(() => {
     setVisitCount("Unavailable");
   });
@@ -101,7 +100,7 @@ function wireBibleSignupForms() {
       const status = form.querySelector("[data-signup-status]");
       const formData = new FormData(form);
       const body = Object.fromEntries(formData.entries());
-      body.subscribed = formData.get("subscribed") === "1";
+      body.subscribed = formData.get("subscribed") === "0" ? false : true;
       if (status) {
         status.textContent = "Saving your reading setup...";
       }
@@ -138,48 +137,6 @@ function wireBibleSignupForms() {
   });
 }
 
-function wireBibleMarkRead() {
-  document.body.addEventListener("click", async (event) => {
-    const button = event.target.closest("[data-mark-read]");
-    if (!button) {
-      return;
-    }
-
-    const profile = readBibleProfile();
-    const readingDay = Number.parseInt(button.dataset.readingDay || "1", 10) || 1;
-    const readingDate = new Date().toISOString().slice(0, 10);
-    button.disabled = true;
-    button.textContent = "Saving...";
-
-    const progressSet = readLocalProgress(profile);
-    progressSet.add(readingDay);
-    writeLocalProgress(profile, progressSet);
-
-    try {
-      const response = await fetch(BIBLE_PROGRESS_ENDPOINT, {
-        method: "POST",
-        headers: {
-          "content-type": "application/json"
-        },
-        body: JSON.stringify({
-          email: profile.email || "",
-          reading_day: readingDay,
-          reading_date: readingDate
-        })
-      });
-      const payload = await response.json();
-      if (!response.ok || !payload?.ok) {
-        throw new Error(payload?.error || "Could not mark this reading yet.");
-      }
-      button.textContent = "Marked as Read";
-      hydrateBibleEdition().catch(() => {});
-    } catch (error) {
-      button.disabled = false;
-      button.textContent = "Try again";
-    }
-  });
-}
-
 function registerBiblePwa() {
   if (!("serviceWorker" in navigator)) {
     return;
@@ -198,11 +155,6 @@ async function hydrateBibleEdition() {
   if (page === "home" || page === "bible") {
     const reading = await fetchBibleReading(profile);
     renderBibleReadingPage(page, reading);
-    updateBibleProgressUi(summary, profile);
-  }
-
-  if (page === "calendar") {
-    renderBibleCalendar(summary, profile);
   }
 
   if (page === "archive") {
@@ -306,7 +258,7 @@ function renderBibleHomePreviewHtml(reading) {
         <a class="button button-primary" href="/signup/">Start free</a>
         <a class="button button-secondary" href="/bible/">Preview today's reading</a>
       </div>
-      <p class="tomorrow-teaser">Tomorrow's teaser: <a href="/calendar/">${escapeHtml(reading.tomorrow_teaser)}</a></p>
+      <p class="tomorrow-teaser">Tomorrow's teaser: ${escapeHtml(reading.tomorrow_teaser)}</p>
     </div>
   `;
 }
@@ -331,10 +283,10 @@ function renderBibleReadingHtml(reading, options = {}) {
       </div>
       <div class="reading-stack">${chapterMarkup}</div>
       <div class="hero-actions devotional-actions">
-        <button class="button button-primary" type="button" data-mark-read data-reading-day="${reading.day_number}">Mark as Read</button>
-        <a class="button button-secondary" href="/calendar/">Open calendar</a>
+        <a class="button button-primary" href="/signup/">Get the daily email</a>
+        <a class="button button-secondary" href="/archive/">Browse the archive</a>
       </div>
-      <p class="tomorrow-teaser">Tomorrow's teaser: <a href="/calendar/">${escapeHtml(reading.tomorrow_teaser)}</a></p>
+      <p class="tomorrow-teaser">Tomorrow's teaser: ${escapeHtml(reading.tomorrow_teaser)}</p>
       ${quoteMarkup}
     </div>
   `;
@@ -502,7 +454,6 @@ function syncBibleForms(profile) {
   document.querySelectorAll("[data-signup-form]").forEach((form) => {
     const email = form.querySelector('input[name="email"]');
     const startDate = form.querySelector('input[name="start_date"]');
-    const subscribed = form.querySelector('input[name="subscribed"]');
     if (email && !email.value && profile.email) {
       email.value = profile.email;
     }
@@ -512,22 +463,7 @@ function syncBibleForms(profile) {
     form.querySelectorAll('input[name="canon"]').forEach((input) => {
       input.checked = input.value === profile.canon;
     });
-    if (subscribed) {
-      subscribed.checked = profile.subscribed !== false;
-    }
   });
-}
-
-function readLocalProgress(profile) {
-  const scope = `${profile.canon}:${profile.start_date}:${profile.email || "guest"}`;
-  const raw = safeJsonParse(localStorage.getItem(`${BIBLE_PROGRESS_KEY}:${scope}`));
-  return new Set(Array.isArray(raw) ? raw.map((value) => Number.parseInt(String(value), 10)).filter(Boolean) : []);
-}
-
-function writeLocalProgress(profile, progressSet) {
-  const scope = `${profile.canon}:${profile.start_date}:${profile.email || "guest"}`;
-  const values = Array.from(progressSet).sort((a, b) => a - b);
-  localStorage.setItem(`${BIBLE_PROGRESS_KEY}:${scope}`, JSON.stringify(values));
 }
 
 function safeJsonParse(value) {

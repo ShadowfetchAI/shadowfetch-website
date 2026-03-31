@@ -33,7 +33,7 @@ SITE_TITLE = "Shadowfetch: Bible Edition"
 SITE_SHORT_NAME = "Shadowfetch Bible"
 TAGLINE = "Fetch the Word. Abide in the Shadow."
 SITE_DESCRIPTION = (
-    "A calm, protective daily Bible-reading companion with complete chapters, gentle progress, "
+    "A calm, protective daily Bible-reading companion with complete chapters, one simple email a day, "
     "and a newspaper-inspired devotional layout built around Psalm 91."
 )
 PSALM_91 = "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty."
@@ -788,15 +788,13 @@ def render_header() -> str:
           <span class="brand-logo-copy">
             <small>Fetch the Word. Abide in the Shadow.</small>
             <strong>Bible Edition</strong>
-            <small>A calm daily-reading paper for morning and evening</small>
+            <small>A calm daily Scripture email and reading desk</small>
           </span>
         </a>
         <nav class="site-nav" aria-label="Primary">
           <a class="nav-link" href="/">Today</a>
           <a class="nav-link" href="/bible/">Bible</a>
-          <a class="nav-link" href="/calendar/">Calendar</a>
           <a class="nav-link" href="/archive/">Archive</a>
-          <a class="nav-link" href="/settings/">Settings</a>
           <a class="nav-link" href="/signup/">Signup</a>
         </nav>
       </div>
@@ -814,13 +812,12 @@ def render_footer() -> str:
         <p class="footer-copy">Fetch the Word. Abide in the Shadow. Daily Scripture remains free on the web and in email for everyone.</p>
         <div class="footer-socials">
           <a href="/bible/">Today's Reading</a>
-          <a href="/calendar/">Calendar</a>
-          <a href="/settings/">Settings</a>
+          <a href="/archive/">Archive</a>
+          <a href="/signup/">Signup</a>
           <a href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
         </div>
       </div>
       <div class="footer-links">
-        <a href="/signup/">Sign up</a>
         <a href="/archive/">Archive</a>
         <a href="/settings/">Unsubscribe info</a>
         <a href="mailto:hello@shadowfetch.com">Contact</a>
@@ -856,10 +853,6 @@ def render_signup_form(form_id: str, compact: bool = False) -> str:
         </fieldset>
         <label class="field-label">Start date
           <input class="text-input" type="date" name="start_date" value="{date.today().isoformat()}">
-        </label>
-        <label class="checkbox-field">
-          <input type="checkbox" name="subscribed" value="1" checked>
-          <span>Send me the daily reading</span>
         </label>
         <div class="form-actions">
           <button class="button button-primary" type="submit">Start free</button>
@@ -917,10 +910,10 @@ def render_day_article(day: dict[str, Any], *, show_quote: bool = False) -> str:
         </div>
         <div class="reading-stack">{chapters_markup}</div>
       <div class="hero-actions devotional-actions">
-        <button class="button button-primary" type="button" data-mark-read data-reading-day="{day['day_number']}">Mark as Read</button>
-        <a class="button button-secondary" href="/bible/">Open focused reading page</a>
+        <a class="button button-primary" href="/signup/">Get the daily email</a>
+        <a class="button button-secondary" href="/archive/">Browse the archive</a>
       </div>
-        <p class="tomorrow-teaser">Tomorrow&apos;s teaser: <a href="/calendar/">{escape(day['tomorrow_teaser'])}</a></p>
+        <p class="tomorrow-teaser">Tomorrow&apos;s teaser: {escape(day['tomorrow_teaser'])}</p>
         {quote_markup}
       </div>
     """
@@ -951,7 +944,7 @@ def render_home_preview(day: dict[str, Any]) -> str:
           <a class="button button-primary" href="/signup/">Start free</a>
           <a class="button button-secondary" href="/bible/">Preview today's reading</a>
         </div>
-        <p class="tomorrow-teaser">Tomorrow&apos;s teaser: <a href="/calendar/">{escape(day['tomorrow_teaser'])}</a></p>
+        <p class="tomorrow-teaser">Tomorrow&apos;s teaser: {escape(day['tomorrow_teaser'])}</p>
       </div>
     """
 
@@ -1066,7 +1059,7 @@ def render_bible_page(payload: dict[str, Any]) -> str:
             <p>Pick your canon and start date. The site sends one clean reading email each day.</p>
             <div class="button-row">
               <a class="button button-primary" href="/signup/">Start free</a>
-              <a class="button button-secondary" href="/settings/">Unsubscribe info</a>
+              <a class="button button-secondary" href="/archive/">Browse archive</a>
             </div>
           </article>
         </aside>
@@ -1082,56 +1075,39 @@ def render_bible_page(payload: dict[str, Any]) -> str:
 
 
 def render_calendar_page(payload: dict[str, Any]) -> str:
-    progress = payload["progress"]
-    days_markup = "".join(
-        f'<button class="heat-day heat-day-{escape(day["status"])}" type="button">{day["day"]}</button>'
-        for day in progress.get("calendar_days", [])
-    )
     content = f"""
       <section class="container hero hero-compact bible-subpage-hero">
         <div class="section-heading">
           <div>
-            <p class="eyebrow">Calendar</p>
-            <h1>See the year at a glance</h1>
+            <p class="eyebrow">Reading Rhythm</p>
+            <h1>One email. One day. Full chapters.</h1>
           </div>
-          <p class="section-copy">A full calendar view helps people see continuity, missed days, and the quiet momentum of staying with the plan.</p>
+          <p class="section-copy">Shadowfetch is built to be simple: sign up once, receive one personalized email a day, and come back to the site whenever you want to read or browse.</p>
         </div>
-      </section>
-      <section class="container page-section devotional-grid devotional-grid-progress">
-        <article class="panel progress-panel">
-          <p class="panel-label">Year progress</p>
-          <div class="progress-ring">
-            <strong>{progress.get('percentage', 0)}%</strong>
-            <span>{progress.get('completed_days', 0)} days marked read</span>
-          </div>
-        </article>
-        <article class="panel calendar-panel calendar-panel-wide">
-          <p class="panel-label">{escape(progress.get('calendar_month'))}</p>
-          <div class="calendar-heatmap">{days_markup}</div>
-        </article>
-        <article class="panel catchup-panel">
-          <p class="panel-label">Gentle notes</p>
-          <ul class="catch-up-list">
-            <li>Missed days stay visible, but softly.</li>
-            <li>Leap years get a grace day.</li>
-            <li>Catch-up never blocks today&apos;s reading.</li>
-          </ul>
-        </article>
       </section>
       <section class="container page-section">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Year plan</p>
-            <h2>Your full 365-day layout</h2>
-          </div>
-          <p class="section-copy">This view is generated from your saved start date on the device and can be used as an installable dashboard.</p>
+        <div class="devotional-grid devotional-grid-three">
+          <article class="panel mini-panel">
+            <p class="panel-label">Step 1</p>
+            <h3>Pick your canon</h3>
+            <p>Choose Protestant or Roman Catholic and set the day you want to begin.</p>
+          </article>
+          <article class="panel mini-panel">
+            <p class="panel-label">Step 2</p>
+            <h3>Receive the reading</h3>
+            <p>Each email contains the exact complete chapters for that day. Nothing is trimmed mid-passage.</p>
+          </article>
+          <article class="panel mini-panel">
+            <p class="panel-label">Step 3</p>
+            <h3>Leave whenever you want</h3>
+            <p>Every message includes a one-click unsubscribe link. No account dashboard is required.</p>
+          </article>
         </div>
-        <div id="calendar-root" class="calendar-year-grid"></div>
       </section>
     """
     return page_shell(
-        title="Calendar | Shadowfetch Bible Edition",
-        description="Track the year, keep the pace gentle, and see a calm calendar view of completed, current, and upcoming readings.",
+        title="Reading Rhythm | Shadowfetch Bible Edition",
+        description="See how the daily Bible email works: one calm message a day, complete chapters, and one-click unsubscribe.",
         canonical_path="/calendar/",
         body_class="calendar",
         content=content,
@@ -1172,32 +1148,33 @@ def render_settings_page(payload: dict[str, Any]) -> str:
       <section class="container hero hero-compact bible-subpage-hero">
         <div class="section-heading">
           <div>
-            <p class="eyebrow">Settings</p>
-            <h1>Adjust the reading without friction</h1>
+            <p class="eyebrow">Unsubscribe</p>
+            <h1>Simple by design</h1>
           </div>
-          <p class="section-copy">Canon, start date, email preferences, and unsubscribe information stay in one quiet settings page.</p>
+          <p class="section-copy">There are no accounts to manage. Sign up once, receive the daily reading, and use the unsubscribe link in any email if you ever want it to stop.</p>
         </div>
       </section>
       <section class="container page-section devotional-grid devotional-grid-two settings-grid">
         <article class="panel form-card">
-          <p class="panel-label">Email preferences</p>
-          {render_signup_form("settings-signup", compact=False)}
+          <p class="panel-label">Need to stop?</p>
+          <h3>Use the email footer.</h3>
+          <p>Every daily email includes a one-click unsubscribe link. Nothing else needs to be remembered and nothing else needs to be managed.</p>
+          <div class="button-row">
+            <a class="button button-primary" href="/signup/">Start free</a>
+            <a class="button button-secondary" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Support the emails</a>
+          </div>
         </article>
         <article class="panel form-card">
-          <p class="panel-label">Unsubscribe</p>
-          <h3>Keep it simple.</h3>
-          <p>Shadowfetch sends one daily reading email. This page is here if you ever want to stop receiving it or change your start date.</p>
-          <div class="button-row">
-            <a class="button button-secondary" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Support the emails</a>
-            <a class="button button-secondary" href="/signup/">Open signup page</a>
-          </div>
-          <p class="form-note">Unsubscribe should stay one click from every email footer.</p>
+          <p class="panel-label">What gets sent</p>
+          <h3>Complete chapters only.</h3>
+          <p>Each email is assembled from precomputed daily reading files built from whole chapter records. The build checks the chapter slices before publish so the passages do not get cut off.</p>
+          <p class="form-note">If someone signs up today, Day 1 can send immediately and the regular daily mail run picks up from there.</p>
         </article>
       </section>
     """
     return page_shell(
-        title="Settings | Shadowfetch Bible Edition",
-        description="Manage canon, start date, email preferences, and the gentle pace of the daily-reading plan.",
+        title="Unsubscribe | Shadowfetch Bible Edition",
+        description="Simple unsubscribe information and a clear explanation of how the daily Bible email works.",
         canonical_path="/settings/",
         body_class="settings",
         content=content,

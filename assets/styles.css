@@ -72,6 +72,7 @@ body[data-edition="bible"][data-theme="light"] {
 
 html {
   scroll-behavior: smooth;
+  overflow-y: scroll;
 }
 
 body {

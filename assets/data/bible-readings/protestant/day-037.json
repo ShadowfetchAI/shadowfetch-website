@@ -1,0 +1,713 @@
+{
+  "day_number": 37,
+  "references": "Exodus 23-24 • Job 37 • Isaiah 37 • Mark 9",
+  "word_count": 4020,
+  "estimated_minutes": 19,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Mark 9:40",
+    "text": "For he that is not against us is on our part.",
+    "reflection": "Let this verse be the quieter voice that sets the pace for the rest of the day."
+  },
+  "tomorrow_teaser": "Exodus 25-26 • Job 38 • Isaiah 38 • Mark 10",
+  "chapters": [
+    {
+      "book": "Exodus",
+      "chapter_number": 23,
+      "chapter_title": "Exodus 23",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness."
+        },
+        {
+          "verse": 2,
+          "text": "Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:"
+        },
+        {
+          "verse": 3,
+          "text": "Neither shalt thou countenance a poor man in his cause."
+        },
+        {
+          "verse": 4,
+          "text": "If thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring it back to him again."
+        },
+        {
+          "verse": 5,
+          "text": "If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him."
+        },
+        {
+          "verse": 6,
+          "text": "Thou shalt not wrest the judgment of thy poor in his cause."
+        },
+        {
+          "verse": 7,
+          "text": "Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked."
+        },
+        {
+          "verse": 8,
+          "text": "And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous."
+        },
+        {
+          "verse": 9,
+          "text": "Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt."
+        },
+        {
+          "verse": 10,
+          "text": "And six years thou shalt sow thy land, and shalt gather in the fruits thereof:"
+        },
+        {
+          "verse": 11,
+          "text": "But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard."
+        },
+        {
+          "verse": 12,
+          "text": "Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed."
+        },
+        {
+          "verse": 13,
+          "text": "And in all things that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth."
+        },
+        {
+          "verse": 14,
+          "text": "Three times thou shalt keep a feast unto me in the year."
+        },
+        {
+          "verse": 15,
+          "text": "Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)"
+        },
+        {
+          "verse": 16,
+          "text": "And the feast of harvest, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering, which is in the end of the year, when thou hast gathered in thy labours out of the field."
+        },
+        {
+          "verse": 17,
+          "text": "Three times in the year all thy males shall appear before the LORD God."
+        },
+        {
+          "verse": 18,
+          "text": "Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning."
+        },
+        {
+          "verse": 19,
+          "text": "The first of the firstfruits of thy land thou shalt bring into the house of the LORD thy God. Thou shalt not seethe a kid in his mother’s milk."
+        },
+        {
+          "verse": 20,
+          "text": "Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared."
+        },
+        {
+          "verse": 21,
+          "text": "Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him."
+        },
+        {
+          "verse": 22,
+          "text": "But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries."
+        },
+        {
+          "verse": 23,
+          "text": "For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off."
+        },
+        {
+          "verse": 24,
+          "text": "Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images."
+        },
+        {
+          "verse": 25,
+          "text": "And ye shall serve the LORD your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee."
+        },
+        {
+          "verse": 26,
+          "text": "There shall nothing cast their young, nor be barren, in thy land: the number of thy days I will fulfil."
+        },
+        {
+          "verse": 27,
+          "text": "I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee."
+        },
+        {
+          "verse": 28,
+          "text": "And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee."
+        },
+        {
+          "verse": 29,
+          "text": "I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee."
+        },
+        {
+          "verse": 30,
+          "text": "By little and little I will drive them out from before thee, until thou be increased, and inherit the land."
+        },
+        {
+          "verse": 31,
+          "text": "And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee."
+        },
+        {
+          "verse": 32,
+          "text": "Thou shalt make no covenant with them, nor with their gods."
+        },
+        {
+          "verse": 33,
+          "text": "They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee."
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 829
+    },
+    {
+      "book": "Exodus",
+      "chapter_number": 24,
+      "chapter_title": "Exodus 24",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off."
+        },
+        {
+          "verse": 2,
+          "text": "And Moses alone shall come near the LORD: but they shall not come nigh; neither shall the people go up with him."
+        },
+        {
+          "verse": 3,
+          "text": "And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD hath said will we do."
+        },
+        {
+          "verse": 4,
+          "text": "And Moses wrote all the words of the LORD, and rose up early in the morning, and builded an altar under the hill, and twelve pillars, according to the twelve tribes of Israel."
+        },
+        {
+          "verse": 5,
+          "text": "And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "And Moses took half of the blood, and put it in basons; and half of the blood he sprinkled on the altar."
+        },
+        {
+          "verse": 7,
+          "text": "And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient."
+        },
+        {
+          "verse": 8,
+          "text": "And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD hath made with you concerning all these words."
+        },
+        {
+          "verse": 9,
+          "text": "Then went up Moses, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel:"
+        },
+        {
+          "verse": 10,
+          "text": "And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness."
+        },
+        {
+          "verse": 11,
+          "text": "And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink."
+        },
+        {
+          "verse": 12,
+          "text": "And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them."
+        },
+        {
+          "verse": 13,
+          "text": "And Moses rose up, and his minister Joshua: and Moses went up into the mount of God."
+        },
+        {
+          "verse": 14,
+          "text": "And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them."
+        },
+        {
+          "verse": 15,
+          "text": "And Moses went up into the mount, and a cloud covered the mount."
+        },
+        {
+          "verse": 16,
+          "text": "And the glory of the LORD abode upon mount Sinai, and the cloud covered it six days: and the seventh day he called unto Moses out of the midst of the cloud."
+        },
+        {
+          "verse": 17,
+          "text": "And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel."
+        },
+        {
+          "verse": 18,
+          "text": "And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights."
+        }
+      ],
+      "verse_count": 18,
+      "word_count": 492
+    },
+    {
+      "book": "Job",
+      "chapter_number": 37,
+      "chapter_title": "Job 37",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "At this also my heart trembleth, and is moved out of his place."
+        },
+        {
+          "verse": 2,
+          "text": "Hear attentively the noise of his voice, and the sound that goeth out of his mouth."
+        },
+        {
+          "verse": 3,
+          "text": "He directeth it under the whole heaven, and his lightning unto the ends of the earth."
+        },
+        {
+          "verse": 4,
+          "text": "After it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard."
+        },
+        {
+          "verse": 5,
+          "text": "God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend."
+        },
+        {
+          "verse": 6,
+          "text": "For he saith to the snow, Be thou on the earth; likewise to the small rain, and to the great rain of his strength."
+        },
+        {
+          "verse": 7,
+          "text": "He sealeth up the hand of every man; that all men may know his work."
+        },
+        {
+          "verse": 8,
+          "text": "Then the beasts go into dens, and remain in their places."
+        },
+        {
+          "verse": 9,
+          "text": "Out of the south cometh the whirlwind: and cold out of the north."
+        },
+        {
+          "verse": 10,
+          "text": "By the breath of God frost is given: and the breadth of the waters is straitened."
+        },
+        {
+          "verse": 11,
+          "text": "Also by watering he wearieth the thick cloud: he scattereth his bright cloud:"
+        },
+        {
+          "verse": 12,
+          "text": "And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth."
+        },
+        {
+          "verse": 13,
+          "text": "He causeth it to come, whether for correction, or for his land, or for mercy."
+        },
+        {
+          "verse": 14,
+          "text": "Hearken unto this, O Job: stand still, and consider the wondrous works of God."
+        },
+        {
+          "verse": 15,
+          "text": "Dost thou know when God disposed them, and caused the light of his cloud to shine?"
+        },
+        {
+          "verse": 16,
+          "text": "Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?"
+        },
+        {
+          "verse": 17,
+          "text": "How thy garments are warm, when he quieteth the earth by the south wind?"
+        },
+        {
+          "verse": 18,
+          "text": "Hast thou with him spread out the sky, which is strong, and as a molten looking glass?"
+        },
+        {
+          "verse": 19,
+          "text": "Teach us what we shall say unto him; for we cannot order our speech by reason of darkness."
+        },
+        {
+          "verse": 20,
+          "text": "Shall it be told him that I speak? if a man speak, surely he shall be swallowed up."
+        },
+        {
+          "verse": 21,
+          "text": "And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them."
+        },
+        {
+          "verse": 22,
+          "text": "Fair weather cometh out of the north: with God is terrible majesty."
+        },
+        {
+          "verse": 23,
+          "text": "Touching the Almighty, we cannot find him out: he is excellent in power, and in judgment, and in plenty of justice: he will not afflict."
+        },
+        {
+          "verse": 24,
+          "text": "Men do therefore fear him: he respecteth not any that are wise of heart."
+        }
+      ],
+      "verse_count": 24,
+      "word_count": 402
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 37,
+      "chapter_title": "Isaiah 37",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD."
+        },
+        {
+          "verse": 2,
+          "text": "And he sent Eliakim, who was over the household, and Shebna the scribe, and the elders of the priests covered with sackcloth, unto Isaiah the prophet the son of Amoz."
+        },
+        {
+          "verse": 3,
+          "text": "And they said unto him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and of blasphemy: for the children are come to the birth, and there is not strength to bring forth."
+        },
+        {
+          "verse": 4,
+          "text": "It may be the LORD thy God will hear the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God, and will reprove the words which the LORD thy God hath heard: wherefore lift up thy prayer for the remnant that is left."
+        },
+        {
+          "verse": 5,
+          "text": "So the servants of king Hezekiah came to Isaiah."
+        },
+        {
+          "verse": 6,
+          "text": "And Isaiah said unto them, Thus shall ye say unto your master, Thus saith the LORD, Be not afraid of the words that thou hast heard, wherewith the servants of the king of Assyria have blasphemed me."
+        },
+        {
+          "verse": 7,
+          "text": "Behold, I will send a blast upon him, and he shall hear a rumour, and return to his own land; and I will cause him to fall by the sword in his own land."
+        },
+        {
+          "verse": 8,
+          "text": "So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish."
+        },
+        {
+          "verse": 9,
+          "text": "And he heard say concerning Tirhakah king of Ethiopia, He is come forth to make war with thee. And when he heard it, he sent messengers to Hezekiah, saying,"
+        },
+        {
+          "verse": 10,
+          "text": "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God, in whom thou trustest, deceive thee, saying, Jerusalem shall not be given into the hand of the king of Assyria."
+        },
+        {
+          "verse": 11,
+          "text": "Behold, thou hast heard what the kings of Assyria have done to all lands by destroying them utterly; and shalt thou be delivered?"
+        },
+        {
+          "verse": 12,
+          "text": "Have the gods of the nations delivered them which my fathers have destroyed, as Gozan, and Haran, and Rezeph, and the children of Eden which were in Telassar?"
+        },
+        {
+          "verse": 13,
+          "text": "Where is the king of Hamath, and the king of Arphad, and the king of the city of Sepharvaim, Hena, and Ivah?"
+        },
+        {
+          "verse": 14,
+          "text": "And Hezekiah received the letter from the hand of the messengers, and read it: and Hezekiah went up unto the house of the LORD, and spread it before the LORD."
+        },
+        {
+          "verse": 15,
+          "text": "And Hezekiah prayed unto the LORD, saying,"
+        },
+        {
+          "verse": 16,
+          "text": "O LORD of hosts, God of Israel, that dwellest between the cherubims, thou art the God, even thou alone, of all the kingdoms of the earth: thou hast made heaven and earth."
+        },
+        {
+          "verse": 17,
+          "text": "Incline thine ear, O LORD, and hear; open thine eyes, O LORD, and see: and hear all the words of Sennacherib, which hath sent to reproach the living God."
+        },
+        {
+          "verse": 18,
+          "text": "Of a truth, LORD, the kings of Assyria have laid waste all the nations, and their countries,"
+        },
+        {
+          "verse": 19,
+          "text": "And have cast their gods into the fire: for they were no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them."
+        },
+        {
+          "verse": 20,
+          "text": "Now therefore, O LORD our God, save us from his hand, that all the kingdoms of the earth may know that thou art the LORD, even thou only."
+        },
+        {
+          "verse": 21,
+          "text": "Then Isaiah the son of Amoz sent unto Hezekiah, saying, Thus saith the LORD God of Israel, Whereas thou hast prayed to me against Sennacherib king of Assyria:"
+        },
+        {
+          "verse": 22,
+          "text": "This is the word which the LORD hath spoken concerning him; The virgin, the daughter of Zion, hath despised thee, and laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee."
+        },
+        {
+          "verse": 23,
+          "text": "Whom hast thou reproached and blasphemed? and against whom hast thou exalted thy voice, and lifted up thine eyes on high? even against the Holy One of Israel."
+        },
+        {
+          "verse": 24,
+          "text": "By thy servants hast thou reproached the Lord, and hast said, By the multitude of my chariots am I come up to the height of the mountains, to the sides of Lebanon; and I will cut down the tall cedars thereof, and the choice fir trees thereof: and I will enter into the height of his border, and the forest of his Carmel."
+        },
+        {
+          "verse": 25,
+          "text": "I have digged, and drunk water; and with the sole of my feet have I dried up all the rivers of the besieged places."
+        },
+        {
+          "verse": 26,
+          "text": "Hast thou not heard long ago, how I have done it; and of ancient times, that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste defenced cities into ruinous heaps."
+        },
+        {
+          "verse": 27,
+          "text": "Therefore their inhabitants were of small power, they were dismayed and confounded: they were as the grass of the field, and as the green herb, as the grass on the housetops, and as corn blasted before it be grown up."
+        },
+        {
+          "verse": 28,
+          "text": "But I know thy abode, and thy going out, and thy coming in, and thy rage against me."
+        },
+        {
+          "verse": 29,
+          "text": "Because thy rage against me, and thy tumult, is come up into mine ears, therefore will I put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest."
+        },
+        {
+          "verse": 30,
+          "text": "And this shall be a sign unto thee, Ye shall eat this year such as groweth of itself; and the second year that which springeth of the same: and in the third year sow ye, and reap, and plant vineyards, and eat the fruit thereof."
+        },
+        {
+          "verse": 31,
+          "text": "And the remnant that is escaped of the house of Judah shall again take root downward, and bear fruit upward:"
+        },
+        {
+          "verse": 32,
+          "text": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD of hosts shall do this."
+        },
+        {
+          "verse": 33,
+          "text": "Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shields, nor cast a bank against it."
+        },
+        {
+          "verse": 34,
+          "text": "By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD."
+        },
+        {
+          "verse": 35,
+          "text": "For I will defend this city to save it for mine own sake, and for my servant David’s sake."
+        },
+        {
+          "verse": 36,
+          "text": "Then the angel of the LORD went forth, and smote in the camp of the Assyrians a hundred and fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses."
+        },
+        {
+          "verse": 37,
+          "text": "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh."
+        },
+        {
+          "verse": 38,
+          "text": "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword; and they escaped into the land of Armenia: and Esarhaddon his son reigned in his stead."
+        }
+      ],
+      "verse_count": 38,
+      "word_count": 1133
+    },
+    {
+      "book": "Mark",
+      "chapter_number": 9,
+      "chapter_title": "Mark 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power."
+        },
+        {
+          "verse": 2,
+          "text": "And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them."
+        },
+        {
+          "verse": 3,
+          "text": "And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them."
+        },
+        {
+          "verse": 4,
+          "text": "And there appeared unto them Elias with Moses: and they were talking with Jesus."
+        },
+        {
+          "verse": 5,
+          "text": "And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias."
+        },
+        {
+          "verse": 6,
+          "text": "For he wist not what to say; for they were sore afraid."
+        },
+        {
+          "verse": 7,
+          "text": "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him."
+        },
+        {
+          "verse": 8,
+          "text": "And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves."
+        },
+        {
+          "verse": 9,
+          "text": "And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead."
+        },
+        {
+          "verse": 10,
+          "text": "And they kept that saying with themselves, questioning one with another what the rising from the dead should mean."
+        },
+        {
+          "verse": 11,
+          "text": "And they asked him, saying, Why say the scribes that Elias must first come?"
+        },
+        {
+          "verse": 12,
+          "text": "And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought."
+        },
+        {
+          "verse": 13,
+          "text": "But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him."
+        },
+        {
+          "verse": 14,
+          "text": "And when he came to his disciples, he saw a great multitude about them, and the scribes questioning with them."
+        },
+        {
+          "verse": 15,
+          "text": "And straightway all the people, when they beheld him, were greatly amazed, and running to him saluted him."
+        },
+        {
+          "verse": 16,
+          "text": "And he asked the scribes, What question ye with them?"
+        },
+        {
+          "verse": 17,
+          "text": "And one of the multitude answered and said, Master, I have brought unto thee my son, which hath a dumb spirit;"
+        },
+        {
+          "verse": 18,
+          "text": "And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not."
+        },
+        {
+          "verse": 19,
+          "text": "He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me."
+        },
+        {
+          "verse": 20,
+          "text": "And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming."
+        },
+        {
+          "verse": 21,
+          "text": "And he asked his father, How long is it ago since this came unto him? And he said, Of a child."
+        },
+        {
+          "verse": 22,
+          "text": "And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us."
+        },
+        {
+          "verse": 23,
+          "text": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth."
+        },
+        {
+          "verse": 24,
+          "text": "And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief."
+        },
+        {
+          "verse": 25,
+          "text": "When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, Thou dumb and deaf spirit, I charge thee, come out of him, and enter no more into him."
+        },
+        {
+          "verse": 26,
+          "text": "And the spirit cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead."
+        },
+        {
+          "verse": 27,
+          "text": "But Jesus took him by the hand, and lifted him up; and he arose."
+        },
+        {
+          "verse": 28,
+          "text": "And when he was come into the house, his disciples asked him privately, Why could not we cast him out?"
+        },
+        {
+          "verse": 29,
+          "text": "And he said unto them, This kind can come forth by nothing, but by prayer and fasting."
+        },
+        {
+          "verse": 30,
+          "text": "And they departed thence, and passed through Galilee; and he would not that any man should know it."
+        },
+        {
+          "verse": 31,
+          "text": "For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day."
+        },
+        {
+          "verse": 32,
+          "text": "But they understood not that saying, and were afraid to ask him."
+        },
+        {
+          "verse": 33,
+          "text": "And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?"
+        },
+        {
+          "verse": 34,
+          "text": "But they held their peace: for by the way they had disputed among themselves, who should be the greatest."
+        },
+        {
+          "verse": 35,
+          "text": "And he sat down, and called the twelve, and saith unto them, If any man desire to be first, the same shall be last of all, and servant of all."
+        },
+        {
+          "verse": 36,
+          "text": "And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,"
+        },
+        {
+          "verse": 37,
+          "text": "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me."
+        },
+        {
+          "verse": 38,
+          "text": "And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us."
+        },
+        {
+          "verse": 39,
+          "text": "But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me."
+        },
+        {
+          "verse": 40,
+          "text": "For he that is not against us is on our part."
+        },
+        {
+          "verse": 41,
+          "text": "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward."
+        },
+        {
+          "verse": 42,
+          "text": "And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea."
+        },
+        {
+          "verse": 43,
+          "text": "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:"
+        },
+        {
+          "verse": 44,
+          "text": "Where their worm dieth not, and the fire is not quenched."
+        },
+        {
+          "verse": 45,
+          "text": "And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:"
+        },
+        {
+          "verse": 46,
+          "text": "Where their worm dieth not, and the fire is not quenched."
+        },
+        {
+          "verse": 47,
+          "text": "And if thine eye offend thee, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:"
+        },
+        {
+          "verse": 48,
+          "text": "Where their worm dieth not, and the fire is not quenched."
+        },
+        {
+          "verse": 49,
+          "text": "For every one shall be salted with fire, and every sacrifice shall be salted with salt."
+        },
+        {
+          "verse": 50,
+          "text": "Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another."
+        }
+      ],
+      "verse_count": 50,
+      "word_count": 1164
+    }
+  ]
+}

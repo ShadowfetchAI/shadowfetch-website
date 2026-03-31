@@ -1,0 +1,504 @@
+{
+  "day_number": 198,
+  "references": "2 Samuel 2 • Proverbs 6 • Joel 1 • 2 Timothy 2",
+  "word_count": 2482,
+  "estimated_minutes": 12,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Proverbs 6:7",
+    "text": "Which having no guide, overseer, or ruler,",
+    "reflection": "Let this passage feel like lamp light: warm enough to guide, gentle enough to rest in."
+  },
+  "tomorrow_teaser": "2 Samuel 3 • Proverbs 7 • Joel 2 • 2 Timothy 3",
+  "chapters": [
+    {
+      "book": "2 Samuel",
+      "chapter_number": 2,
+      "chapter_title": "2 Samuel 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron."
+        },
+        {
+          "verse": 2,
+          "text": "So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal’s wife the Carmelite."
+        },
+        {
+          "verse": 3,
+          "text": "And his men that were with him did David bring up, every man with his household: and they dwelt in the cities of Hebron."
+        },
+        {
+          "verse": 4,
+          "text": "And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, That the men of Jabeshgilead were they that buried Saul."
+        },
+        {
+          "verse": 5,
+          "text": "And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed be ye of the LORD, that ye have shewed this kindness unto your lord, even unto Saul, and have buried him."
+        },
+        {
+          "verse": 6,
+          "text": "And now the LORD shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore now let your hands be strengthened, and be ye valiant: for your master Saul is dead, and also the house of Judah have anointed me king over them."
+        },
+        {
+          "verse": 8,
+          "text": "But Abner the son of Ner, captain of Saul’s host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;"
+        },
+        {
+          "verse": 9,
+          "text": "And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel."
+        },
+        {
+          "verse": 10,
+          "text": "Ishbosheth Saul’s son was forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David."
+        },
+        {
+          "verse": 11,
+          "text": "And the time that David was king in Hebron over the house of Judah was seven years and six months."
+        },
+        {
+          "verse": 12,
+          "text": "And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon."
+        },
+        {
+          "verse": 13,
+          "text": "And Joab the son of Zeruiah, and the servants of David, went out, and met together by the pool of Gibeon: and they sat down, the one on the one side of the pool, and the other on the other side of the pool."
+        },
+        {
+          "verse": 14,
+          "text": "And Abner said to Joab, Let the young men now arise, and play before us. And Joab said, Let them arise."
+        },
+        {
+          "verse": 15,
+          "text": "Then there arose and went over by number twelve of Benjamin, which pertained to Ishbosheth the son of Saul, and twelve of the servants of David."
+        },
+        {
+          "verse": 16,
+          "text": "And they caught every one his fellow by the head, and thrust his sword in his fellow’s side; so they fell down together: wherefore that place was called Helkathhazzurim, which is in Gibeon."
+        },
+        {
+          "verse": 17,
+          "text": "And there was a very sore battle that day; and Abner was beaten, and the men of Israel, before the servants of David."
+        },
+        {
+          "verse": 18,
+          "text": "And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and Asahel was as light of foot as a wild roe."
+        },
+        {
+          "verse": 19,
+          "text": "And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner."
+        },
+        {
+          "verse": 20,
+          "text": "Then Abner looked behind him, and said, Art thou Asahel? And he answered, I am."
+        },
+        {
+          "verse": 21,
+          "text": "And Abner said to him, Turn thee aside to thy right hand or to thy left, and lay thee hold on one of the young men, and take thee his armour. But Asahel would not turn aside from following of him."
+        },
+        {
+          "verse": 22,
+          "text": "And Abner said again to Asahel, Turn thee aside from following me: wherefore should I smite thee to the ground? how then should I hold up my face to Joab thy brother?"
+        },
+        {
+          "verse": 23,
+          "text": "Howbeit he refused to turn aside: wherefore Abner with the hinder end of the spear smote him under the fifth rib, that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, that as many as came to the place where Asahel fell down and died stood still."
+        },
+        {
+          "verse": 24,
+          "text": "Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that lieth before Giah by the way of the wilderness of Gibeon."
+        },
+        {
+          "verse": 25,
+          "text": "And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill."
+        },
+        {
+          "verse": 26,
+          "text": "Then Abner called to Joab, and said, Shall the sword devour for ever? knowest thou not that it will be bitterness in the latter end? how long shall it be then, ere thou bid the people return from following their brethren?"
+        },
+        {
+          "verse": 27,
+          "text": "And Joab said, As God liveth, unless thou hadst spoken, surely then in the morning the people had gone up every one from following his brother."
+        },
+        {
+          "verse": 28,
+          "text": "So Joab blew a trumpet, and all the people stood still, and pursued after Israel no more, neither fought they any more."
+        },
+        {
+          "verse": 29,
+          "text": "And Abner and his men walked all that night through the plain, and passed over Jordan, and went through all Bithron, and they came to Mahanaim."
+        },
+        {
+          "verse": 30,
+          "text": "And Joab returned from following Abner: and when he had gathered all the people together, there lacked of David’s servants nineteen men and Asahel."
+        },
+        {
+          "verse": 31,
+          "text": "But the servants of David had smitten of Benjamin, and of Abner’s men, so that three hundred and threescore men died."
+        },
+        {
+          "verse": 32,
+          "text": "And they took up Asahel, and buried him in the sepulchre of his father, which was in Bethlehem. And Joab and his men went all night, and they came to Hebron at break of day."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 917
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 6,
+      "chapter_title": "Proverbs 6",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,"
+        },
+        {
+          "verse": 2,
+          "text": "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth."
+        },
+        {
+          "verse": 3,
+          "text": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend."
+        },
+        {
+          "verse": 4,
+          "text": "Give not sleep to thine eyes, nor slumber to thine eyelids."
+        },
+        {
+          "verse": 5,
+          "text": "Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler."
+        },
+        {
+          "verse": 6,
+          "text": "Go to the ant, thou sluggard; consider her ways, and be wise:"
+        },
+        {
+          "verse": 7,
+          "text": "Which having no guide, overseer, or ruler,"
+        },
+        {
+          "verse": 8,
+          "text": "Provideth her meat in the summer, and gathereth her food in the harvest."
+        },
+        {
+          "verse": 9,
+          "text": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
+        },
+        {
+          "verse": 10,
+          "text": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:"
+        },
+        {
+          "verse": 11,
+          "text": "So shall thy poverty come as one that travelleth, and thy want as an armed man."
+        },
+        {
+          "verse": 12,
+          "text": "A naughty person, a wicked man, walketh with a froward mouth."
+        },
+        {
+          "verse": 13,
+          "text": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;"
+        },
+        {
+          "verse": 14,
+          "text": "Frowardness is in his heart, he deviseth mischief continually; he soweth discord."
+        },
+        {
+          "verse": 15,
+          "text": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy."
+        },
+        {
+          "verse": 16,
+          "text": "These six things doth the LORD hate: yea, seven are an abomination unto him:"
+        },
+        {
+          "verse": 17,
+          "text": "A proud look, a lying tongue, and hands that shed innocent blood,"
+        },
+        {
+          "verse": 18,
+          "text": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,"
+        },
+        {
+          "verse": 19,
+          "text": "A false witness that speaketh lies, and he that soweth discord among brethren."
+        },
+        {
+          "verse": 20,
+          "text": "My son, keep thy father’s commandment, and forsake not the law of thy mother:"
+        },
+        {
+          "verse": 21,
+          "text": "Bind them continually upon thine heart, and tie them about thy neck."
+        },
+        {
+          "verse": 22,
+          "text": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee."
+        },
+        {
+          "verse": 23,
+          "text": "For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:"
+        },
+        {
+          "verse": 24,
+          "text": "To keep thee from the evil woman, from the flattery of the tongue of a strange woman."
+        },
+        {
+          "verse": 25,
+          "text": "Lust not after her beauty in thine heart; neither let her take thee with her eyelids."
+        },
+        {
+          "verse": 26,
+          "text": "For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life."
+        },
+        {
+          "verse": 27,
+          "text": "Can a man take fire in his bosom, and his clothes not be burned?"
+        },
+        {
+          "verse": 28,
+          "text": "Can one go upon hot coals, and his feet not be burned?"
+        },
+        {
+          "verse": 29,
+          "text": "So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent."
+        },
+        {
+          "verse": 30,
+          "text": "Men do not despise a thief, if he steal to satisfy his soul when he is hungry;"
+        },
+        {
+          "verse": 31,
+          "text": "But if he be found, he shall restore sevenfold; he shall give all the substance of his house."
+        },
+        {
+          "verse": 32,
+          "text": "But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul."
+        },
+        {
+          "verse": 33,
+          "text": "A wound and dishonour shall he get; and his reproach shall not be wiped away."
+        },
+        {
+          "verse": 34,
+          "text": "For jealousy is the rage of a man: therefore he will not spare in the day of vengeance."
+        },
+        {
+          "verse": 35,
+          "text": "He will not regard any ransom; neither will he rest content, though thou givest many gifts."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 548
+    },
+    {
+      "book": "Joel",
+      "chapter_number": 1,
+      "chapter_title": "Joel 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The word of the LORD that came to Joel the son of Pethuel."
+        },
+        {
+          "verse": 2,
+          "text": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?"
+        },
+        {
+          "verse": 3,
+          "text": "Tell ye your children of it, and let your children tell their children, and their children another generation."
+        },
+        {
+          "verse": 4,
+          "text": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten."
+        },
+        {
+          "verse": 5,
+          "text": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth."
+        },
+        {
+          "verse": 6,
+          "text": "For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion."
+        },
+        {
+          "verse": 7,
+          "text": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white."
+        },
+        {
+          "verse": 8,
+          "text": "Lament like a virgin girded with sackcloth for the husband of her youth."
+        },
+        {
+          "verse": 9,
+          "text": "The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD’s ministers, mourn."
+        },
+        {
+          "verse": 10,
+          "text": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth."
+        },
+        {
+          "verse": 11,
+          "text": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished."
+        },
+        {
+          "verse": 12,
+          "text": "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men."
+        },
+        {
+          "verse": 13,
+          "text": "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God."
+        },
+        {
+          "verse": 14,
+          "text": "Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the LORD your God, and cry unto the LORD."
+        },
+        {
+          "verse": 15,
+          "text": "Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come."
+        },
+        {
+          "verse": 16,
+          "text": "Is not the meat cut off before our eyes, yea, joy and gladness from the house of our God?"
+        },
+        {
+          "verse": 17,
+          "text": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered."
+        },
+        {
+          "verse": 18,
+          "text": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate."
+        },
+        {
+          "verse": 19,
+          "text": "O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field."
+        },
+        {
+          "verse": 20,
+          "text": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness."
+        }
+      ],
+      "verse_count": 20,
+      "word_count": 509
+    },
+    {
+      "book": "2 Timothy",
+      "chapter_number": 2,
+      "chapter_title": "2 Timothy 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Thou therefore, my son, be strong in the grace that is in Christ Jesus."
+        },
+        {
+          "verse": 2,
+          "text": "And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also."
+        },
+        {
+          "verse": 3,
+          "text": "Thou therefore endure hardness, as a good soldier of Jesus Christ."
+        },
+        {
+          "verse": 4,
+          "text": "No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier."
+        },
+        {
+          "verse": 5,
+          "text": "And if a man also strive for masteries, yet is he not crowned, except he strive lawfully."
+        },
+        {
+          "verse": 6,
+          "text": "The husbandman that laboureth must be first partaker of the fruits."
+        },
+        {
+          "verse": 7,
+          "text": "Consider what I say; and the Lord give thee understanding in all things."
+        },
+        {
+          "verse": 8,
+          "text": "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:"
+        },
+        {
+          "verse": 9,
+          "text": "Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound."
+        },
+        {
+          "verse": 10,
+          "text": "Therefore I endure all things for the elect’s sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory."
+        },
+        {
+          "verse": 11,
+          "text": "It is a faithful saying: For if we be dead with him, we shall also live with him:"
+        },
+        {
+          "verse": 12,
+          "text": "If we suffer, we shall also reign with him: if we deny him, he also will deny us:"
+        },
+        {
+          "verse": 13,
+          "text": "If we believe not, yet he abideth faithful: he cannot deny himself."
+        },
+        {
+          "verse": 14,
+          "text": "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers."
+        },
+        {
+          "verse": 15,
+          "text": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth."
+        },
+        {
+          "verse": 16,
+          "text": "But shun profane and vain babblings: for they will increase unto more ungodliness."
+        },
+        {
+          "verse": 17,
+          "text": "And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;"
+        },
+        {
+          "verse": 18,
+          "text": "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some."
+        },
+        {
+          "verse": 19,
+          "text": "Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity."
+        },
+        {
+          "verse": 20,
+          "text": "But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour."
+        },
+        {
+          "verse": 21,
+          "text": "If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work."
+        },
+        {
+          "verse": 22,
+          "text": "Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart."
+        },
+        {
+          "verse": 23,
+          "text": "But foolish and unlearned questions avoid, knowing that they do gender strifes."
+        },
+        {
+          "verse": 24,
+          "text": "And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,"
+        },
+        {
+          "verse": 25,
+          "text": "In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;"
+        },
+        {
+          "verse": 26,
+          "text": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."
+        }
+      ],
+      "verse_count": 26,
+      "word_count": 508
+    }
+  ]
+}

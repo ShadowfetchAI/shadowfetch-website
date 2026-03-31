@@ -1,0 +1,685 @@
+{
+  "day_number": 68,
+  "references": "Numbers 18-19 • Psalms 26 • Jeremiah 2 • Luke 24",
+  "word_count": 4056,
+  "estimated_minutes": 19,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 26:2",
+    "text": "Examine me, O LORD, and prove me; try my reins and my heart.",
+    "reflection": "Carry this line with you and let it soften the edges of whatever waits today."
+  },
+  "tomorrow_teaser": "Numbers 20-21 • Psalms 27 • Jeremiah 3 • John 1",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 18,
+      "chapter_title": "Numbers 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood."
+        },
+        {
+          "verse": 2,
+          "text": "And thy brethren also of the tribe of Levi, the tribe of thy father, bring thou with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee shall minister before the tabernacle of witness."
+        },
+        {
+          "verse": 3,
+          "text": "And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die."
+        },
+        {
+          "verse": 4,
+          "text": "And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you."
+        },
+        {
+          "verse": 5,
+          "text": "And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel."
+        },
+        {
+          "verse": 6,
+          "text": "And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are given as a gift for the LORD, to do the service of the tabernacle of the congregation."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore thou and thy sons with thee shall keep your priest’s office for everything of the altar, and within the vail; and ye shall serve: I have given your priest’s office unto you as a service of gift: and the stranger that cometh nigh shall be put to death."
+        },
+        {
+          "verse": 8,
+          "text": "And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever."
+        },
+        {
+          "verse": 9,
+          "text": "This shall be thine of the most holy things, reserved from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs which they shall render unto me, shall be most holy for thee and for thy sons."
+        },
+        {
+          "verse": 10,
+          "text": "In the most holy place shalt thou eat it; every male shall eat it: it shall be holy unto thee."
+        },
+        {
+          "verse": 11,
+          "text": "And this is thine; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, by a statute for ever: every one that is clean in thy house shall eat of it."
+        },
+        {
+          "verse": 12,
+          "text": "All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the LORD, them have I given thee."
+        },
+        {
+          "verse": 13,
+          "text": "And whatsoever is first ripe in the land, which they shall bring unto the LORD, shall be thine; every one that is clean in thine house shall eat of it."
+        },
+        {
+          "verse": 14,
+          "text": "Every thing devoted in Israel shall be thine."
+        },
+        {
+          "verse": 15,
+          "text": "Every thing that openeth the matrix in all flesh, which they bring unto the LORD, whether it be of men or beasts, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem."
+        },
+        {
+          "verse": 16,
+          "text": "And those that are to be redeemed from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary, which is twenty gerahs."
+        },
+        {
+          "verse": 17,
+          "text": "But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they are holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat for an offering made by fire, for a sweet savour unto the LORD."
+        },
+        {
+          "verse": 18,
+          "text": "And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine."
+        },
+        {
+          "verse": 19,
+          "text": "All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, by a statute for ever: it is a covenant of salt for ever before the LORD unto thee and to thy seed with thee."
+        },
+        {
+          "verse": 20,
+          "text": "And the LORD spake unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any part among them: I am thy part and thine inheritance among the children of Israel."
+        },
+        {
+          "verse": 21,
+          "text": "And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, even the service of the tabernacle of the congregation."
+        },
+        {
+          "verse": 22,
+          "text": "Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die."
+        },
+        {
+          "verse": 23,
+          "text": "But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: it shall be a statute for ever throughout your generations, that among the children of Israel they have no inheritance."
+        },
+        {
+          "verse": 24,
+          "text": "But the tithes of the children of Israel, which they offer as an heave offering unto the LORD, I have given to the Levites to inherit: therefore I have said unto them, Among the children of Israel they shall have no inheritance."
+        },
+        {
+          "verse": 25,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 26,
+          "text": "Thus speak unto the Levites, and say unto them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the LORD, even a tenth part of the tithe."
+        },
+        {
+          "verse": 27,
+          "text": "And this your heave offering shall be reckoned unto you, as though it were the corn of the threshingfloor, and as the fulness of the winepress."
+        },
+        {
+          "verse": 28,
+          "text": "Thus ye also shall offer an heave offering unto the LORD of all your tithes, which ye receive of the children of Israel; and ye shall give thereof the LORD’s heave offering to Aaron the priest."
+        },
+        {
+          "verse": 29,
+          "text": "Out of all your gifts ye shall offer every heave offering of the LORD, of all the best thereof, even the hallowed part thereof out of it."
+        },
+        {
+          "verse": 30,
+          "text": "Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress."
+        },
+        {
+          "verse": 31,
+          "text": "And ye shall eat it in every place, ye and your households: for it is your reward for your service in the tabernacle of the congregation."
+        },
+        {
+          "verse": 32,
+          "text": "And ye shall bear no sin by reason of it, when ye have heaved from it the best of it: neither shall ye pollute the holy things of the children of Israel, lest ye die."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 1115
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 19,
+      "chapter_title": "Numbers 19",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses and unto Aaron, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "This is the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke:"
+        },
+        {
+          "verse": 3,
+          "text": "And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and one shall slay her before his face:"
+        },
+        {
+          "verse": 4,
+          "text": "And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:"
+        },
+        {
+          "verse": 5,
+          "text": "And one shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn:"
+        },
+        {
+          "verse": 6,
+          "text": "And the priest shall take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer."
+        },
+        {
+          "verse": 7,
+          "text": "Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even."
+        },
+        {
+          "verse": 8,
+          "text": "And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even."
+        },
+        {
+          "verse": 9,
+          "text": "And a man that is clean shall gather up the ashes of the heifer, and lay them up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it is a purification for sin."
+        },
+        {
+          "verse": 10,
+          "text": "And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever."
+        },
+        {
+          "verse": 11,
+          "text": "He that toucheth the dead body of any man shall be unclean seven days."
+        },
+        {
+          "verse": 12,
+          "text": "He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean."
+        },
+        {
+          "verse": 13,
+          "text": "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him."
+        },
+        {
+          "verse": 14,
+          "text": "This is the law, when a man dieth in a tent: all that come into the tent, and all that is in the tent, shall be unclean seven days."
+        },
+        {
+          "verse": 15,
+          "text": "And every open vessel, which hath no covering bound upon it, is unclean."
+        },
+        {
+          "verse": 16,
+          "text": "And whosoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days."
+        },
+        {
+          "verse": 17,
+          "text": "And for an unclean person they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put thereto in a vessel:"
+        },
+        {
+          "verse": 18,
+          "text": "And a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave:"
+        },
+        {
+          "verse": 19,
+          "text": "And the clean person shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify himself, and wash his clothes, and bathe himself in water, and shall be clean at even."
+        },
+        {
+          "verse": 20,
+          "text": "But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he hath defiled the sanctuary of the LORD: the water of separation hath not been sprinkled upon him; he is unclean."
+        },
+        {
+          "verse": 21,
+          "text": "And it shall be a perpetual statute unto them, that he that sprinkleth the water of separation shall wash his clothes; and he that toucheth the water of separation shall be unclean until even."
+        },
+        {
+          "verse": 22,
+          "text": "And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 683
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 26,
+      "chapter_title": "Psalms 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide."
+        },
+        {
+          "verse": 2,
+          "text": "Examine me, O LORD, and prove me; try my reins and my heart."
+        },
+        {
+          "verse": 3,
+          "text": "For thy lovingkindness is before mine eyes: and I have walked in thy truth."
+        },
+        {
+          "verse": 4,
+          "text": "I have not sat with vain persons, neither will I go in with dissemblers."
+        },
+        {
+          "verse": 5,
+          "text": "I have hated the congregation of evil doers; and will not sit with the wicked."
+        },
+        {
+          "verse": 6,
+          "text": "I will wash mine hands in innocency: so will I compass thine altar, O LORD:"
+        },
+        {
+          "verse": 7,
+          "text": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works."
+        },
+        {
+          "verse": 8,
+          "text": "LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth."
+        },
+        {
+          "verse": 9,
+          "text": "Gather not my soul with sinners, nor my life with bloody men:"
+        },
+        {
+          "verse": 10,
+          "text": "In whose hands is mischief, and their right hand is full of bribes."
+        },
+        {
+          "verse": 11,
+          "text": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me."
+        },
+        {
+          "verse": 12,
+          "text": "My foot standeth in an even place: in the congregations will I bless the LORD."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 183
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 2,
+      "chapter_title": "Jeremiah 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Moreover the word of the LORD came to me, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Go and cry in the ears of Jerusalem, saying, Thus saith the LORD; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land that was not sown."
+        },
+        {
+          "verse": 3,
+          "text": "Israel was holiness unto the LORD, and the firstfruits of his increase: all that devour him shall offend; evil shall come upon them, saith the LORD."
+        },
+        {
+          "verse": 4,
+          "text": "Hear ye the word of the LORD, O house of Jacob, and all the families of the house of Israel:"
+        },
+        {
+          "verse": 5,
+          "text": "Thus saith the LORD, What iniquity have your fathers found in me, that they are gone far from me, and have walked after vanity, and are become vain?"
+        },
+        {
+          "verse": 6,
+          "text": "Neither said they, Where is the LORD that brought us up out of the land of Egypt, that led us through the wilderness, through a land of deserts and of pits, through a land of drought, and of the shadow of death, through a land that no man passed through, and where no man dwelt?"
+        },
+        {
+          "verse": 7,
+          "text": "And I brought you into a plentiful country, to eat the fruit thereof and the goodness thereof; but when ye entered, ye defiled my land, and made mine heritage an abomination."
+        },
+        {
+          "verse": 8,
+          "text": "The priests said not, Where is the LORD? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after things that do not profit."
+        },
+        {
+          "verse": 9,
+          "text": "Wherefore I will yet plead with you, saith the LORD, and with your children’s children will I plead."
+        },
+        {
+          "verse": 10,
+          "text": "For pass over the isles of Chittim, and see; and send unto Kedar, and consider diligently, and see if there be such a thing."
+        },
+        {
+          "verse": 11,
+          "text": "Hath a nation changed their gods, which are yet no gods? but my people have changed their glory for that which doth not profit."
+        },
+        {
+          "verse": 12,
+          "text": "Be astonished, O ye heavens, at this, and be horribly afraid, be ye very desolate, saith the LORD."
+        },
+        {
+          "verse": 13,
+          "text": "For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water."
+        },
+        {
+          "verse": 14,
+          "text": "Is Israel a servant? is he a homeborn slave? why is he spoiled?"
+        },
+        {
+          "verse": 15,
+          "text": "The young lions roared upon him, and yelled, and they made his land waste: his cities are burned without inhabitant."
+        },
+        {
+          "verse": 16,
+          "text": "Also the children of Noph and Tahapanes have broken the crown of thy head."
+        },
+        {
+          "verse": 17,
+          "text": "Hast thou not procured this unto thyself, in that thou hast forsaken the LORD thy God, when he led thee by the way?"
+        },
+        {
+          "verse": 18,
+          "text": "And now what hast thou to do in the way of Egypt, to drink the waters of Sihor? or what hast thou to do in the way of Assyria, to drink the waters of the river?"
+        },
+        {
+          "verse": 19,
+          "text": "Thine own wickedness shall correct thee, and thy backslidings shall reprove thee: know therefore and see that it is an evil thing and bitter, that thou hast forsaken the LORD thy God, and that my fear is not in thee, saith the Lord GOD of hosts."
+        },
+        {
+          "verse": 20,
+          "text": "For of old time I have broken thy yoke, and burst thy bands; and thou saidst, I will not transgress; when upon every high hill and under every green tree thou wanderest, playing the harlot."
+        },
+        {
+          "verse": 21,
+          "text": "Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?"
+        },
+        {
+          "verse": 22,
+          "text": "For though thou wash thee with nitre, and take thee much soap, yet thine iniquity is marked before me, saith the Lord GOD."
+        },
+        {
+          "verse": 23,
+          "text": "How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: thou art a swift dromedary traversing her ways;"
+        },
+        {
+          "verse": 24,
+          "text": "A wild ass used to the wilderness, that snuffeth up the wind at her pleasure; in her occasion who can turn her away? all they that seek her will not weary themselves; in her month they shall find her."
+        },
+        {
+          "verse": 25,
+          "text": "Withhold thy foot from being unshod, and thy throat from thirst: but thou saidst, There is no hope: no; for I have loved strangers, and after them will I go."
+        },
+        {
+          "verse": 26,
+          "text": "As the thief is ashamed when he is found, so is the house of Israel ashamed; they, their kings, their princes, and their priests, and their prophets,"
+        },
+        {
+          "verse": 27,
+          "text": "Saying to a stock, Thou art my father; and to a stone, Thou hast brought me forth: for they have turned their back unto me, and not their face: but in the time of their trouble they will say, Arise, and save us."
+        },
+        {
+          "verse": 28,
+          "text": "But where are thy gods that thou hast made thee? let them arise, if they can save thee in the time of thy trouble: for according to the number of thy cities are thy gods, O Judah."
+        },
+        {
+          "verse": 29,
+          "text": "Wherefore will ye plead with me? ye all have transgressed against me, saith the LORD."
+        },
+        {
+          "verse": 30,
+          "text": "In vain have I smitten your children; they received no correction: your own sword hath devoured your prophets, like a destroying lion."
+        },
+        {
+          "verse": 31,
+          "text": "O generation, see ye the word of the LORD. Have I been a wilderness unto Israel? a land of darkness? wherefore say my people, We are lords; we will come no more unto thee?"
+        },
+        {
+          "verse": 32,
+          "text": "Can a maid forget her ornaments, or a bride her attire? yet my people have forgotten me days without number."
+        },
+        {
+          "verse": 33,
+          "text": "Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways."
+        },
+        {
+          "verse": 34,
+          "text": "Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these."
+        },
+        {
+          "verse": 35,
+          "text": "Yet thou sayest, Because I am innocent, surely his anger shall turn from me. Behold, I will plead with thee, because thou sayest, I have not sinned."
+        },
+        {
+          "verse": 36,
+          "text": "Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria."
+        },
+        {
+          "verse": 37,
+          "text": "Yea, thou shalt go forth from him, and thine hands upon thine head: for the LORD hath rejected thy confidences, and thou shalt not prosper in them."
+        }
+      ],
+      "verse_count": 37,
+      "word_count": 1020
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 24,
+      "chapter_title": "Luke 24",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them."
+        },
+        {
+          "verse": 2,
+          "text": "And they found the stone rolled away from the sepulchre."
+        },
+        {
+          "verse": 3,
+          "text": "And they entered in, and found not the body of the Lord Jesus."
+        },
+        {
+          "verse": 4,
+          "text": "And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:"
+        },
+        {
+          "verse": 5,
+          "text": "And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?"
+        },
+        {
+          "verse": 6,
+          "text": "He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,"
+        },
+        {
+          "verse": 7,
+          "text": "Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again."
+        },
+        {
+          "verse": 8,
+          "text": "And they remembered his words,"
+        },
+        {
+          "verse": 9,
+          "text": "And returned from the sepulchre, and told all these things unto the eleven, and to all the rest."
+        },
+        {
+          "verse": 10,
+          "text": "It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles."
+        },
+        {
+          "verse": 11,
+          "text": "And their words seemed to them as idle tales, and they believed them not."
+        },
+        {
+          "verse": 12,
+          "text": "Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass."
+        },
+        {
+          "verse": 13,
+          "text": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs."
+        },
+        {
+          "verse": 14,
+          "text": "And they talked together of all these things which had happened."
+        },
+        {
+          "verse": 15,
+          "text": "And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them."
+        },
+        {
+          "verse": 16,
+          "text": "But their eyes were holden that they should not know him."
+        },
+        {
+          "verse": 17,
+          "text": "And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?"
+        },
+        {
+          "verse": 18,
+          "text": "And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?"
+        },
+        {
+          "verse": 19,
+          "text": "And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:"
+        },
+        {
+          "verse": 20,
+          "text": "And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him."
+        },
+        {
+          "verse": 21,
+          "text": "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done."
+        },
+        {
+          "verse": 22,
+          "text": "Yea, and certain women also of our company made us astonished, which were early at the sepulchre;"
+        },
+        {
+          "verse": 23,
+          "text": "And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive."
+        },
+        {
+          "verse": 24,
+          "text": "And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not."
+        },
+        {
+          "verse": 25,
+          "text": "Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:"
+        },
+        {
+          "verse": 26,
+          "text": "Ought not Christ to have suffered these things, and to enter into his glory?"
+        },
+        {
+          "verse": 27,
+          "text": "And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself."
+        },
+        {
+          "verse": 28,
+          "text": "And they drew nigh unto the village, whither they went: and he made as though he would have gone further."
+        },
+        {
+          "verse": 29,
+          "text": "But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them."
+        },
+        {
+          "verse": 30,
+          "text": "And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them."
+        },
+        {
+          "verse": 31,
+          "text": "And their eyes were opened, and they knew him; and he vanished out of their sight."
+        },
+        {
+          "verse": 32,
+          "text": "And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?"
+        },
+        {
+          "verse": 33,
+          "text": "And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,"
+        },
+        {
+          "verse": 34,
+          "text": "Saying, The Lord is risen indeed, and hath appeared to Simon."
+        },
+        {
+          "verse": 35,
+          "text": "And they told what things were done in the way, and how he was known of them in breaking of bread."
+        },
+        {
+          "verse": 36,
+          "text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you."
+        },
+        {
+          "verse": 37,
+          "text": "But they were terrified and affrighted, and supposed that they had seen a spirit."
+        },
+        {
+          "verse": 38,
+          "text": "And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?"
+        },
+        {
+          "verse": 39,
+          "text": "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."
+        },
+        {
+          "verse": 40,
+          "text": "And when he had thus spoken, he shewed them his hands and his feet."
+        },
+        {
+          "verse": 41,
+          "text": "And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?"
+        },
+        {
+          "verse": 42,
+          "text": "And they gave him a piece of a broiled fish, and of an honeycomb."
+        },
+        {
+          "verse": 43,
+          "text": "And he took it, and did eat before them."
+        },
+        {
+          "verse": 44,
+          "text": "And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me."
+        },
+        {
+          "verse": 45,
+          "text": "Then opened he their understanding, that they might understand the scriptures,"
+        },
+        {
+          "verse": 46,
+          "text": "And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:"
+        },
+        {
+          "verse": 47,
+          "text": "And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem."
+        },
+        {
+          "verse": 48,
+          "text": "And ye are witnesses of these things."
+        },
+        {
+          "verse": 49,
+          "text": "And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high."
+        },
+        {
+          "verse": 50,
+          "text": "And he led them out as far as to Bethany, and he lifted up his hands, and blessed them."
+        },
+        {
+          "verse": 51,
+          "text": "And it came to pass, while he blessed them, he was parted from them, and carried up into heaven."
+        },
+        {
+          "verse": 52,
+          "text": "And they worshipped him, and returned to Jerusalem with great joy:"
+        },
+        {
+          "verse": 53,
+          "text": "And were continually in the temple, praising and blessing God. Amen."
+        }
+      ],
+      "verse_count": 53,
+      "word_count": 1055
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "day_number": 13,
+  "references": "Genesis 25-26 • Job 13 • Isaiah 13 • Matthew 13",
+  "word_count": 3965,
+  "estimated_minutes": 19,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Matthew 13:9",
+    "text": "Who hath ears to hear, let him hear.",
+    "reflection": "Let this verse be the quieter voice that sets the pace for the rest of the day."
+  },
+  "tomorrow_teaser": "Genesis 27-28 • Job 14 • Isaiah 14 • Matthew 14",
+  "chapters": [
+    {
+      "book": "Genesis",
+      "chapter_number": 25,
+      "chapter_title": "Genesis 25",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then again Abraham took a wife, and her name was Keturah."
+        },
+        {
+          "verse": 2,
+          "text": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah."
+        },
+        {
+          "verse": 3,
+          "text": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim."
+        },
+        {
+          "verse": 4,
+          "text": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these were the children of Keturah."
+        },
+        {
+          "verse": 5,
+          "text": "And Abraham gave all that he had unto Isaac."
+        },
+        {
+          "verse": 6,
+          "text": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country."
+        },
+        {
+          "verse": 7,
+          "text": "And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years."
+        },
+        {
+          "verse": 8,
+          "text": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
+        },
+        {
+          "verse": 9,
+          "text": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;"
+        },
+        {
+          "verse": 10,
+          "text": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
+        },
+        {
+          "verse": 11,
+          "text": "And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahairoi."
+        },
+        {
+          "verse": 12,
+          "text": "Now these are the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:"
+        },
+        {
+          "verse": 13,
+          "text": "And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,"
+        },
+        {
+          "verse": 14,
+          "text": "And Mishma, and Dumah, and Massa,"
+        },
+        {
+          "verse": 15,
+          "text": "Hadar, and Tema, Jetur, Naphish, and Kedemah:"
+        },
+        {
+          "verse": 16,
+          "text": "These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations."
+        },
+        {
+          "verse": 17,
+          "text": "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people."
+        },
+        {
+          "verse": 18,
+          "text": "And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren."
+        },
+        {
+          "verse": 19,
+          "text": "And these are the generations of Isaac, Abraham’s son: Abraham begat Isaac:"
+        },
+        {
+          "verse": 20,
+          "text": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian."
+        },
+        {
+          "verse": 21,
+          "text": "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived."
+        },
+        {
+          "verse": 22,
+          "text": "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD."
+        },
+        {
+          "verse": 23,
+          "text": "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger."
+        },
+        {
+          "verse": 24,
+          "text": "And when her days to be delivered were fulfilled, behold, there were twins in her womb."
+        },
+        {
+          "verse": 25,
+          "text": "And the first came out red, all over like an hairy garment; and they called his name Esau."
+        },
+        {
+          "verse": 26,
+          "text": "And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them."
+        },
+        {
+          "verse": 27,
+          "text": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents."
+        },
+        {
+          "verse": 28,
+          "text": "And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob."
+        },
+        {
+          "verse": 29,
+          "text": "And Jacob sod pottage: and Esau came from the field, and he was faint:"
+        },
+        {
+          "verse": 30,
+          "text": "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom."
+        },
+        {
+          "verse": 31,
+          "text": "And Jacob said, Sell me this day thy birthright."
+        },
+        {
+          "verse": 32,
+          "text": "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?"
+        },
+        {
+          "verse": 33,
+          "text": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob."
+        },
+        {
+          "verse": 34,
+          "text": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright."
+        }
+      ],
+      "verse_count": 34,
+      "word_count": 711
+    },
+    {
+      "book": "Genesis",
+      "chapter_number": 26,
+      "chapter_title": "Genesis 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar."
+        },
+        {
+          "verse": 2,
+          "text": "And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:"
+        },
+        {
+          "verse": 3,
+          "text": "Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;"
+        },
+        {
+          "verse": 4,
+          "text": "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;"
+        },
+        {
+          "verse": 5,
+          "text": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws."
+        },
+        {
+          "verse": 6,
+          "text": "And Isaac dwelt in Gerar:"
+        },
+        {
+          "verse": 7,
+          "text": "And the men of the place asked him of his wife; and he said, She is my sister: for he feared to say, She is my wife; lest, said he, the men of the place should kill me for Rebekah; because she was fair to look upon."
+        },
+        {
+          "verse": 8,
+          "text": "And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife."
+        },
+        {
+          "verse": 9,
+          "text": "And Abimelech called Isaac, and said, Behold, of a surety she is thy wife: and how saidst thou, She is my sister? And Isaac said unto him, Because I said, Lest I die for her."
+        },
+        {
+          "verse": 10,
+          "text": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us."
+        },
+        {
+          "verse": 11,
+          "text": "And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death."
+        },
+        {
+          "verse": 12,
+          "text": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him."
+        },
+        {
+          "verse": 13,
+          "text": "And the man waxed great, and went forward, and grew until he became very great:"
+        },
+        {
+          "verse": 14,
+          "text": "For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him."
+        },
+        {
+          "verse": 15,
+          "text": "For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth."
+        },
+        {
+          "verse": 16,
+          "text": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we."
+        },
+        {
+          "verse": 17,
+          "text": "And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there."
+        },
+        {
+          "verse": 18,
+          "text": "And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them."
+        },
+        {
+          "verse": 19,
+          "text": "And Isaac’s servants digged in the valley, and found there a well of springing water."
+        },
+        {
+          "verse": 20,
+          "text": "And the herdmen of Gerar did strive with Isaac’s herdmen, saying, The water is ours: and he called the name of the well Esek; because they strove with him."
+        },
+        {
+          "verse": 21,
+          "text": "And they digged another well, and strove for that also: and he called the name of it Sitnah."
+        },
+        {
+          "verse": 22,
+          "text": "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the LORD hath made room for us, and we shall be fruitful in the land."
+        },
+        {
+          "verse": 23,
+          "text": "And he went up from thence to Beersheba."
+        },
+        {
+          "verse": 24,
+          "text": "And the LORD appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham’s sake."
+        },
+        {
+          "verse": 25,
+          "text": "And he builded an altar there, and called upon the name of the LORD, and pitched his tent there: and there Isaac’s servants digged a well."
+        },
+        {
+          "verse": 26,
+          "text": "Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army."
+        },
+        {
+          "verse": 27,
+          "text": "And Isaac said unto them, Wherefore come ye to me, seeing ye hate me, and have sent me away from you?"
+        },
+        {
+          "verse": 28,
+          "text": "And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee;"
+        },
+        {
+          "verse": 29,
+          "text": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the LORD."
+        },
+        {
+          "verse": 30,
+          "text": "And he made them a feast, and they did eat and drink."
+        },
+        {
+          "verse": 31,
+          "text": "And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace."
+        },
+        {
+          "verse": 32,
+          "text": "And it came to pass the same day, that Isaac’s servants came, and told him concerning the well which they had digged, and said unto him, We have found water."
+        },
+        {
+          "verse": 33,
+          "text": "And he called it Shebah: therefore the name of the city is Beersheba unto this day."
+        },
+        {
+          "verse": 34,
+          "text": "And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:"
+        },
+        {
+          "verse": 35,
+          "text": "Which were a grief of mind unto Isaac and to Rebekah."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 895
+    },
+    {
+      "book": "Job",
+      "chapter_number": 13,
+      "chapter_title": "Job 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Lo, mine eye hath seen all this, mine ear hath heard and understood it."
+        },
+        {
+          "verse": 2,
+          "text": "What ye know, the same do I know also: I am not inferior unto you."
+        },
+        {
+          "verse": 3,
+          "text": "Surely I would speak to the Almighty, and I desire to reason with God."
+        },
+        {
+          "verse": 4,
+          "text": "But ye are forgers of lies, ye are all physicians of no value."
+        },
+        {
+          "verse": 5,
+          "text": "O that ye would altogether hold your peace! and it should be your wisdom."
+        },
+        {
+          "verse": 6,
+          "text": "Hear now my reasoning, and hearken to the pleadings of my lips."
+        },
+        {
+          "verse": 7,
+          "text": "Will ye speak wickedly for God? and talk deceitfully for him?"
+        },
+        {
+          "verse": 8,
+          "text": "Will ye accept his person? will ye contend for God?"
+        },
+        {
+          "verse": 9,
+          "text": "Is it good that he should search you out? or as one man mocketh another, do ye so mock him?"
+        },
+        {
+          "verse": 10,
+          "text": "He will surely reprove you, if ye do secretly accept persons."
+        },
+        {
+          "verse": 11,
+          "text": "Shall not his excellency make you afraid? and his dread fall upon you?"
+        },
+        {
+          "verse": 12,
+          "text": "Your remembrances are like unto ashes, your bodies to bodies of clay."
+        },
+        {
+          "verse": 13,
+          "text": "Hold your peace, let me alone, that I may speak, and let come on me what will."
+        },
+        {
+          "verse": 14,
+          "text": "Wherefore do I take my flesh in my teeth, and put my life in mine hand?"
+        },
+        {
+          "verse": 15,
+          "text": "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him."
+        },
+        {
+          "verse": 16,
+          "text": "He also shall be my salvation: for an hypocrite shall not come before him."
+        },
+        {
+          "verse": 17,
+          "text": "Hear diligently my speech, and my declaration with your ears."
+        },
+        {
+          "verse": 18,
+          "text": "Behold now, I have ordered my cause; I know that I shall be justified."
+        },
+        {
+          "verse": 19,
+          "text": "Who is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost."
+        },
+        {
+          "verse": 20,
+          "text": "Only do not two things unto me: then will I not hide myself from thee."
+        },
+        {
+          "verse": 21,
+          "text": "Withdraw thine hand far from me: and let not thy dread make me afraid."
+        },
+        {
+          "verse": 22,
+          "text": "Then call thou, and I will answer: or let me speak, and answer thou me."
+        },
+        {
+          "verse": 23,
+          "text": "How many are mine iniquities and sins? make me to know my transgression and my sin."
+        },
+        {
+          "verse": 24,
+          "text": "Wherefore hidest thou thy face, and holdest me for thine enemy?"
+        },
+        {
+          "verse": 25,
+          "text": "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?"
+        },
+        {
+          "verse": 26,
+          "text": "For thou writest bitter things against me, and makest me to possess the iniquities of my youth."
+        },
+        {
+          "verse": 27,
+          "text": "Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet."
+        },
+        {
+          "verse": 28,
+          "text": "And he, as a rotten thing, consumeth, as a garment that is moth eaten."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 413
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 13,
+      "chapter_title": "Isaiah 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The burden of Babylon, which Isaiah the son of Amoz did see."
+        },
+        {
+          "verse": 2,
+          "text": "Lift ye up a banner upon the high mountain, exalt the voice unto them, shake the hand, that they may go into the gates of the nobles."
+        },
+        {
+          "verse": 3,
+          "text": "I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness."
+        },
+        {
+          "verse": 4,
+          "text": "The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the LORD of hosts mustereth the host of the battle."
+        },
+        {
+          "verse": 5,
+          "text": "They come from a far country, from the end of heaven, even the LORD, and the weapons of his indignation, to destroy the whole land."
+        },
+        {
+          "verse": 6,
+          "text": "Howl ye; for the day of the LORD is at hand; it shall come as a destruction from the Almighty."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore shall all hands be faint, and every man’s heart shall melt:"
+        },
+        {
+          "verse": 8,
+          "text": "And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces shall be as flames."
+        },
+        {
+          "verse": 9,
+          "text": "Behold, the day of the LORD cometh, cruel both with wrath and fierce anger, to lay the land desolate: and he shall destroy the sinners thereof out of it."
+        },
+        {
+          "verse": 10,
+          "text": "For the stars of heaven and the constellations thereof shall not give their light: the sun shall be darkened in his going forth, and the moon shall not cause her light to shine."
+        },
+        {
+          "verse": 11,
+          "text": "And I will punish the world for their evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible."
+        },
+        {
+          "verse": 12,
+          "text": "I will make a man more precious than fine gold; even a man than the golden wedge of Ophir."
+        },
+        {
+          "verse": 13,
+          "text": "Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the LORD of hosts, and in the day of his fierce anger."
+        },
+        {
+          "verse": 14,
+          "text": "And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land."
+        },
+        {
+          "verse": 15,
+          "text": "Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword."
+        },
+        {
+          "verse": 16,
+          "text": "Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished."
+        },
+        {
+          "verse": 17,
+          "text": "Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it."
+        },
+        {
+          "verse": 18,
+          "text": "Their bows also shall dash the young men to pieces; and they shall have no pity on the fruit of the womb; their eye shall not spare children."
+        },
+        {
+          "verse": 19,
+          "text": "And Babylon, the glory of kingdoms, the beauty of the Chaldees’ excellency, shall be as when God overthrew Sodom and Gomorrah."
+        },
+        {
+          "verse": 20,
+          "text": "It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there."
+        },
+        {
+          "verse": 21,
+          "text": "But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there."
+        },
+        {
+          "verse": 22,
+          "text": "And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 577
+    },
+    {
+      "book": "Matthew",
+      "chapter_number": 13,
+      "chapter_title": "Matthew 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The same day went Jesus out of the house, and sat by the sea side."
+        },
+        {
+          "verse": 2,
+          "text": "And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore."
+        },
+        {
+          "verse": 3,
+          "text": "And he spake many things unto them in parables, saying, Behold, a sower went forth to sow;"
+        },
+        {
+          "verse": 4,
+          "text": "And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up:"
+        },
+        {
+          "verse": 5,
+          "text": "Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:"
+        },
+        {
+          "verse": 6,
+          "text": "And when the sun was up, they were scorched; and because they had no root, they withered away."
+        },
+        {
+          "verse": 7,
+          "text": "And some fell among thorns; and the thorns sprung up, and choked them:"
+        },
+        {
+          "verse": 8,
+          "text": "But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold."
+        },
+        {
+          "verse": 9,
+          "text": "Who hath ears to hear, let him hear."
+        },
+        {
+          "verse": 10,
+          "text": "And the disciples came, and said unto him, Why speakest thou unto them in parables?"
+        },
+        {
+          "verse": 11,
+          "text": "He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given."
+        },
+        {
+          "verse": 12,
+          "text": "For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath."
+        },
+        {
+          "verse": 13,
+          "text": "Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand."
+        },
+        {
+          "verse": 14,
+          "text": "And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:"
+        },
+        {
+          "verse": 15,
+          "text": "For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them."
+        },
+        {
+          "verse": 16,
+          "text": "But blessed are your eyes, for they see: and your ears, for they hear."
+        },
+        {
+          "verse": 17,
+          "text": "For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
+        },
+        {
+          "verse": 18,
+          "text": "Hear ye therefore the parable of the sower."
+        },
+        {
+          "verse": 19,
+          "text": "When any one heareth the word of the kingdom, and understandeth it not, then cometh the wicked one, and catcheth away that which was sown in his heart. This is he which received seed by the way side."
+        },
+        {
+          "verse": 20,
+          "text": "But he that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it;"
+        },
+        {
+          "verse": 21,
+          "text": "Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended."
+        },
+        {
+          "verse": 22,
+          "text": "He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful."
+        },
+        {
+          "verse": 23,
+          "text": "But he that received seed into the good ground is he that heareth the word, and understandeth it; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty."
+        },
+        {
+          "verse": 24,
+          "text": "Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:"
+        },
+        {
+          "verse": 25,
+          "text": "But while men slept, his enemy came and sowed tares among the wheat, and went his way."
+        },
+        {
+          "verse": 26,
+          "text": "But when the blade was sprung up, and brought forth fruit, then appeared the tares also."
+        },
+        {
+          "verse": 27,
+          "text": "So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?"
+        },
+        {
+          "verse": 28,
+          "text": "He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?"
+        },
+        {
+          "verse": 29,
+          "text": "But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them."
+        },
+        {
+          "verse": 30,
+          "text": "Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn."
+        },
+        {
+          "verse": 31,
+          "text": "Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:"
+        },
+        {
+          "verse": 32,
+          "text": "Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof."
+        },
+        {
+          "verse": 33,
+          "text": "Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened."
+        },
+        {
+          "verse": 34,
+          "text": "All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:"
+        },
+        {
+          "verse": 35,
+          "text": "That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world."
+        },
+        {
+          "verse": 36,
+          "text": "Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field."
+        },
+        {
+          "verse": 37,
+          "text": "He answered and said unto them, He that soweth the good seed is the Son of man;"
+        },
+        {
+          "verse": 38,
+          "text": "The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;"
+        },
+        {
+          "verse": 39,
+          "text": "The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels."
+        },
+        {
+          "verse": 40,
+          "text": "As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world."
+        },
+        {
+          "verse": 41,
+          "text": "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;"
+        },
+        {
+          "verse": 42,
+          "text": "And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."
+        },
+        {
+          "verse": 43,
+          "text": "Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear."
+        },
+        {
+          "verse": 44,
+          "text": "Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field."
+        },
+        {
+          "verse": 45,
+          "text": "Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:"
+        },
+        {
+          "verse": 46,
+          "text": "Who, when he had found one pearl of great price, went and sold all that he had, and bought it."
+        },
+        {
+          "verse": 47,
+          "text": "Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:"
+        },
+        {
+          "verse": 48,
+          "text": "Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away."
+        },
+        {
+          "verse": 49,
+          "text": "So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,"
+        },
+        {
+          "verse": 50,
+          "text": "And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth."
+        },
+        {
+          "verse": 51,
+          "text": "Jesus saith unto them, Have ye understood all these things? They say unto him, Yea, Lord."
+        },
+        {
+          "verse": 52,
+          "text": "Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old."
+        },
+        {
+          "verse": 53,
+          "text": "And it came to pass, that when Jesus had finished these parables, he departed thence."
+        },
+        {
+          "verse": 54,
+          "text": "And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?"
+        },
+        {
+          "verse": 55,
+          "text": "Is not this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?"
+        },
+        {
+          "verse": 56,
+          "text": "And his sisters, are they not all with us? Whence then hath this man all these things?"
+        },
+        {
+          "verse": 57,
+          "text": "And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house."
+        },
+        {
+          "verse": 58,
+          "text": "And he did not many mighty works there because of their unbelief."
+        }
+      ],
+      "verse_count": 58,
+      "word_count": 1369
+    }
+  ]
+}

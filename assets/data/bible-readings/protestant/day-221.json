@@ -1,0 +1,520 @@
+{
+  "day_number": 221,
+  "references": "1 Kings 1 • Proverbs 29 • Micah 7 • James 4",
+  "word_count": 2887,
+  "estimated_minutes": 14,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Proverbs 29:12",
+    "text": "If a ruler hearken to lies, all his servants are wicked.",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "1 Kings 2 • Proverbs 30 • Nahum 1 • James 5",
+  "chapters": [
+    {
+      "book": "1 Kings",
+      "chapter_number": 1,
+      "chapter_title": "1 Kings 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat."
+        },
+        {
+          "verse": 2,
+          "text": "Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat."
+        },
+        {
+          "verse": 3,
+          "text": "So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king."
+        },
+        {
+          "verse": 4,
+          "text": "And the damsel was very fair, and cherished the king, and ministered to him: but the king knew her not."
+        },
+        {
+          "verse": 5,
+          "text": "Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him."
+        },
+        {
+          "verse": 6,
+          "text": "And his father had not displeased him at any time in saying, Why hast thou done so? and he also was a very goodly man; and his mother bare him after Absalom."
+        },
+        {
+          "verse": 7,
+          "text": "And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him."
+        },
+        {
+          "verse": 8,
+          "text": "But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah."
+        },
+        {
+          "verse": 9,
+          "text": "And Adonijah slew sheep and oxen and fat cattle by the stone of Zoheleth, which is by Enrogel, and called all his brethren the king’s sons, and all the men of Judah the king’s servants:"
+        },
+        {
+          "verse": 10,
+          "text": "But Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not."
+        },
+        {
+          "verse": 11,
+          "text": "Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?"
+        },
+        {
+          "verse": 12,
+          "text": "Now therefore come, let me, I pray thee, give thee counsel, that thou mayest save thine own life, and the life of thy son Solomon."
+        },
+        {
+          "verse": 13,
+          "text": "Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?"
+        },
+        {
+          "verse": 14,
+          "text": "Behold, while thou yet talkest there with the king, I also will come in after thee, and confirm thy words."
+        },
+        {
+          "verse": 15,
+          "text": "And Bathsheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite ministered unto the king."
+        },
+        {
+          "verse": 16,
+          "text": "And Bathsheba bowed, and did obeisance unto the king. And the king said, What wouldest thou?"
+        },
+        {
+          "verse": 17,
+          "text": "And she said unto him, My lord, thou swarest by the LORD thy God unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne."
+        },
+        {
+          "verse": 18,
+          "text": "And now, behold, Adonijah reigneth; and now, my lord the king, thou knowest it not:"
+        },
+        {
+          "verse": 19,
+          "text": "And he hath slain oxen and fat cattle and sheep in abundance, and hath called all the sons of the king, and Abiathar the priest, and Joab the captain of the host: but Solomon thy servant hath he not called."
+        },
+        {
+          "verse": 20,
+          "text": "And thou, my lord, O king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him."
+        },
+        {
+          "verse": 21,
+          "text": "Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted offenders."
+        },
+        {
+          "verse": 22,
+          "text": "And, lo, while she yet talked with the king, Nathan the prophet also came in."
+        },
+        {
+          "verse": 23,
+          "text": "And they told the king, saying, Behold Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground."
+        },
+        {
+          "verse": 24,
+          "text": "And Nathan said, My lord, O king, hast thou said, Adonijah shall reign after me, and he shall sit upon my throne?"
+        },
+        {
+          "verse": 25,
+          "text": "For he is gone down this day, and hath slain oxen and fat cattle and sheep in abundance, and hath called all the king’s sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah."
+        },
+        {
+          "verse": 26,
+          "text": "But me, even me thy servant, and Zadok the priest, and Benaiah the son of Jehoiada, and thy servant Solomon, hath he not called."
+        },
+        {
+          "verse": 27,
+          "text": "Is this thing done by my lord the king, and thou hast not shewed it unto thy servant, who should sit on the throne of my lord the king after him?"
+        },
+        {
+          "verse": 28,
+          "text": "Then king David answered and said, Call me Bathsheba. And she came into the king’s presence, and stood before the king."
+        },
+        {
+          "verse": 29,
+          "text": "And the king sware, and said, As the LORD liveth, that hath redeemed my soul out of all distress,"
+        },
+        {
+          "verse": 30,
+          "text": "Even as I sware unto thee by the LORD God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day."
+        },
+        {
+          "verse": 31,
+          "text": "Then Bathsheba bowed with her face to the earth, and did reverence to the king, and said, Let my lord king David live for ever."
+        },
+        {
+          "verse": 32,
+          "text": "And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king."
+        },
+        {
+          "verse": 33,
+          "text": "The king also said unto them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon:"
+        },
+        {
+          "verse": 34,
+          "text": "And let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow ye with the trumpet, and say, God save king Solomon."
+        },
+        {
+          "verse": 35,
+          "text": "Then ye shall come up after him, that he may come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be ruler over Israel and over Judah."
+        },
+        {
+          "verse": 36,
+          "text": "And Benaiah the son of Jehoiada answered the king, and said, Amen: the LORD God of my lord the king say so too."
+        },
+        {
+          "verse": 37,
+          "text": "As the LORD hath been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David."
+        },
+        {
+          "verse": 38,
+          "text": "So Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, went down, and caused Solomon to ride upon king David’s mule, and brought him to Gihon."
+        },
+        {
+          "verse": 39,
+          "text": "And Zadok the priest took an horn of oil out of the tabernacle, and anointed Solomon. And they blew the trumpet; and all the people said, God save king Solomon."
+        },
+        {
+          "verse": 40,
+          "text": "And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them."
+        },
+        {
+          "verse": 41,
+          "text": "And Adonijah and all the guests that were with him heard it as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore is this noise of the city being in an uproar?"
+        },
+        {
+          "verse": 42,
+          "text": "And while he yet spake, behold, Jonathan the son of Abiathar the priest came; and Adonijah said unto him, Come in; for thou art a valiant man, and bringest good tidings."
+        },
+        {
+          "verse": 43,
+          "text": "And Jonathan answered and said to Adonijah, Verily our lord king David hath made Solomon king."
+        },
+        {
+          "verse": 44,
+          "text": "And the king hath sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king’s mule:"
+        },
+        {
+          "verse": 45,
+          "text": "And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from thence rejoicing, so that the city rang again. This is the noise that ye have heard."
+        },
+        {
+          "verse": 46,
+          "text": "And also Solomon sitteth on the throne of the kingdom."
+        },
+        {
+          "verse": 47,
+          "text": "And moreover the king’s servants came to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne. And the king bowed himself upon the bed."
+        },
+        {
+          "verse": 48,
+          "text": "And also thus said the king, Blessed be the LORD God of Israel, which hath given one to sit on my throne this day, mine eyes even seeing it."
+        },
+        {
+          "verse": 49,
+          "text": "And all the guests that were with Adonijah were afraid, and rose up, and went every man his way."
+        },
+        {
+          "verse": 50,
+          "text": "And Adonijah feared because of Solomon, and arose, and went, and caught hold on the horns of the altar."
+        },
+        {
+          "verse": 51,
+          "text": "And it was told Solomon, saying, Behold, Adonijah feareth king Solomon: for, lo, he hath caught hold on the horns of the altar, saying, Let king Solomon swear unto me today that he will not slay his servant with the sword."
+        },
+        {
+          "verse": 52,
+          "text": "And Solomon said, If he will shew himself a worthy man, there shall not an hair of him fall to the earth: but if wickedness shall be found in him, he shall die."
+        },
+        {
+          "verse": 53,
+          "text": "So king Solomon sent, and they brought him down from the altar. And he came and bowed himself to king Solomon: and Solomon said unto him, Go to thine house."
+        }
+      ],
+      "verse_count": 53,
+      "word_count": 1506
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 29,
+      "chapter_title": "Proverbs 29",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy."
+        },
+        {
+          "verse": 2,
+          "text": "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."
+        },
+        {
+          "verse": 3,
+          "text": "Whoso loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth his substance."
+        },
+        {
+          "verse": 4,
+          "text": "The king by judgment establisheth the land: but he that receiveth gifts overthroweth it."
+        },
+        {
+          "verse": 5,
+          "text": "A man that flattereth his neighbour spreadeth a net for his feet."
+        },
+        {
+          "verse": 6,
+          "text": "In the transgression of an evil man there is a snare: but the righteous doth sing and rejoice."
+        },
+        {
+          "verse": 7,
+          "text": "The righteous considereth the cause of the poor: but the wicked regardeth not to know it."
+        },
+        {
+          "verse": 8,
+          "text": "Scornful men bring a city into a snare: but wise men turn away wrath."
+        },
+        {
+          "verse": 9,
+          "text": "If a wise man contendeth with a foolish man, whether he rage or laugh, there is no rest."
+        },
+        {
+          "verse": 10,
+          "text": "The bloodthirsty hate the upright: but the just seek his soul."
+        },
+        {
+          "verse": 11,
+          "text": "A fool uttereth all his mind: but a wise man keepeth it in till afterwards."
+        },
+        {
+          "verse": 12,
+          "text": "If a ruler hearken to lies, all his servants are wicked."
+        },
+        {
+          "verse": 13,
+          "text": "The poor and the deceitful man meet together: the LORD lighteneth both their eyes."
+        },
+        {
+          "verse": 14,
+          "text": "The king that faithfully judgeth the poor, his throne shall be established for ever."
+        },
+        {
+          "verse": 15,
+          "text": "The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame."
+        },
+        {
+          "verse": 16,
+          "text": "When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall."
+        },
+        {
+          "verse": 17,
+          "text": "Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul."
+        },
+        {
+          "verse": 18,
+          "text": "Where there is no vision, the people perish: but he that keepeth the law, happy is he."
+        },
+        {
+          "verse": 19,
+          "text": "A servant will not be corrected by words: for though he understand he will not answer."
+        },
+        {
+          "verse": 20,
+          "text": "Seest thou a man that is hasty in his words? there is more hope of a fool than of him."
+        },
+        {
+          "verse": 21,
+          "text": "He that delicately bringeth up his servant from a child shall have him become his son at the length."
+        },
+        {
+          "verse": 22,
+          "text": "An angry man stirreth up strife, and a furious man aboundeth in transgression."
+        },
+        {
+          "verse": 23,
+          "text": "A man’s pride shall bring him low: but honour shall uphold the humble in spirit."
+        },
+        {
+          "verse": 24,
+          "text": "Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth it not."
+        },
+        {
+          "verse": 25,
+          "text": "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe."
+        },
+        {
+          "verse": 26,
+          "text": "Many seek the ruler’s favour; but every man’s judgment cometh from the LORD."
+        },
+        {
+          "verse": 27,
+          "text": "An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 428
+    },
+    {
+      "book": "Micah",
+      "chapter_number": 7,
+      "chapter_title": "Micah 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit."
+        },
+        {
+          "verse": 2,
+          "text": "The good man is perished out of the earth: and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net."
+        },
+        {
+          "verse": 3,
+          "text": "That they may do evil with both hands earnestly, the prince asketh, and the judge asketh for a reward; and the great man, he uttereth his mischievous desire: so they wrap it up."
+        },
+        {
+          "verse": 4,
+          "text": "The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of thy watchmen and thy visitation cometh; now shall be their perplexity."
+        },
+        {
+          "verse": 5,
+          "text": "Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom."
+        },
+        {
+          "verse": 6,
+          "text": "For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man’s enemies are the men of his own house."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me."
+        },
+        {
+          "verse": 8,
+          "text": "Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me."
+        },
+        {
+          "verse": 9,
+          "text": "I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness."
+        },
+        {
+          "verse": 10,
+          "text": "Then she that is mine enemy shall see it, and shame shall cover her which said unto me, Where is the LORD thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets."
+        },
+        {
+          "verse": 11,
+          "text": "In the day that thy walls are to be built, in that day shall the decree be far removed."
+        },
+        {
+          "verse": 12,
+          "text": "In that day also he shall come even to thee from Assyria, and from the fortified cities, and from the fortress even to the river, and from sea to sea, and from mountain to mountain."
+        },
+        {
+          "verse": 13,
+          "text": "Notwithstanding the land shall be desolate because of them that dwell therein, for the fruit of their doings."
+        },
+        {
+          "verse": 14,
+          "text": "Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old."
+        },
+        {
+          "verse": 15,
+          "text": "According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things."
+        },
+        {
+          "verse": 16,
+          "text": "The nations shall see and be confounded at all their might: they shall lay their hand upon their mouth, their ears shall be deaf."
+        },
+        {
+          "verse": 17,
+          "text": "They shall lick the dust like a serpent, they shall move out of their holes like worms of the earth: they shall be afraid of the LORD our God, and shall fear because of thee."
+        },
+        {
+          "verse": 18,
+          "text": "Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy."
+        },
+        {
+          "verse": 19,
+          "text": "He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea."
+        },
+        {
+          "verse": 20,
+          "text": "Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old."
+        }
+      ],
+      "verse_count": 20,
+      "word_count": 584
+    },
+    {
+      "book": "James",
+      "chapter_number": 4,
+      "chapter_title": "James 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?"
+        },
+        {
+          "verse": 2,
+          "text": "Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not."
+        },
+        {
+          "verse": 3,
+          "text": "Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts."
+        },
+        {
+          "verse": 4,
+          "text": "Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God."
+        },
+        {
+          "verse": 5,
+          "text": "Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?"
+        },
+        {
+          "verse": 6,
+          "text": "But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble."
+        },
+        {
+          "verse": 7,
+          "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you."
+        },
+        {
+          "verse": 8,
+          "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded."
+        },
+        {
+          "verse": 9,
+          "text": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."
+        },
+        {
+          "verse": 10,
+          "text": "Humble yourselves in the sight of the Lord, and he shall lift you up."
+        },
+        {
+          "verse": 11,
+          "text": "Speak not evil one of another, brethren. He that speaketh evil of his brother, and judgeth his brother, speaketh evil of the law, and judgeth the law: but if thou judge the law, thou art not a doer of the law, but a judge."
+        },
+        {
+          "verse": 12,
+          "text": "There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?"
+        },
+        {
+          "verse": 13,
+          "text": "Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"
+        },
+        {
+          "verse": 14,
+          "text": "Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away."
+        },
+        {
+          "verse": 15,
+          "text": "For that ye ought to say, If the Lord will, we shall live, and do this, or that."
+        },
+        {
+          "verse": 16,
+          "text": "But now ye rejoice in your boastings: all such rejoicing is evil."
+        },
+        {
+          "verse": 17,
+          "text": "Therefore to him that knoweth to do good, and doeth it not, to him it is sin."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 369
+    }
+  ]
+}

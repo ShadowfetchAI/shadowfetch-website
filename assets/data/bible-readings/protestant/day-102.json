@@ -1,0 +1,516 @@
+{
+  "day_number": 102,
+  "references": "Deuteronomy 20 • Psalms 60 • Jeremiah 36 • Acts 13",
+  "word_count": 3248,
+  "estimated_minutes": 16,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 60:11",
+    "text": "Give us help from trouble: for vain is the help of man.",
+    "reflection": "Let this passage feel like lamp light: warm enough to guide, gentle enough to rest in."
+  },
+  "tomorrow_teaser": "Deuteronomy 21 • Psalms 61 • Jeremiah 37 • Acts 14",
+  "chapters": [
+    {
+      "book": "Deuteronomy",
+      "chapter_number": 20,
+      "chapter_title": "Deuteronomy 20",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt."
+        },
+        {
+          "verse": 2,
+          "text": "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,"
+        },
+        {
+          "verse": 3,
+          "text": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;"
+        },
+        {
+          "verse": 4,
+          "text": "For the LORD your God is he that goeth with you, to fight for you against your enemies, to save you."
+        },
+        {
+          "verse": 5,
+          "text": "And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it."
+        },
+        {
+          "verse": 6,
+          "text": "And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it."
+        },
+        {
+          "verse": 7,
+          "text": "And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her."
+        },
+        {
+          "verse": 8,
+          "text": "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart."
+        },
+        {
+          "verse": 9,
+          "text": "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people."
+        },
+        {
+          "verse": 10,
+          "text": "When thou comest nigh unto a city to fight against it, then proclaim peace unto it."
+        },
+        {
+          "verse": 11,
+          "text": "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee."
+        },
+        {
+          "verse": 12,
+          "text": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:"
+        },
+        {
+          "verse": 13,
+          "text": "And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:"
+        },
+        {
+          "verse": 14,
+          "text": "But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee."
+        },
+        {
+          "verse": 15,
+          "text": "Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations."
+        },
+        {
+          "verse": 16,
+          "text": "But of the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:"
+        },
+        {
+          "verse": 17,
+          "text": "But thou shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:"
+        },
+        {
+          "verse": 18,
+          "text": "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God."
+        },
+        {
+          "verse": 19,
+          "text": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man’s life) to employ them in the siege:"
+        },
+        {
+          "verse": 20,
+          "text": "Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued."
+        }
+      ],
+      "verse_count": 20,
+      "word_count": 648
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 60,
+      "chapter_title": "Psalms 60",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again."
+        },
+        {
+          "verse": 2,
+          "text": "Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh."
+        },
+        {
+          "verse": 3,
+          "text": "Thou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment."
+        },
+        {
+          "verse": 4,
+          "text": "Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah."
+        },
+        {
+          "verse": 5,
+          "text": "That thy beloved may be delivered; save with thy right hand, and hear me."
+        },
+        {
+          "verse": 6,
+          "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."
+        },
+        {
+          "verse": 7,
+          "text": "Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;"
+        },
+        {
+          "verse": 8,
+          "text": "Moab is my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me."
+        },
+        {
+          "verse": 9,
+          "text": "Who will bring me into the strong city? who will lead me into Edom?"
+        },
+        {
+          "verse": 10,
+          "text": "Wilt not thou, O God, which hadst cast us off? and thou, O God, which didst not go out with our armies?"
+        },
+        {
+          "verse": 11,
+          "text": "Give us help from trouble: for vain is the help of man."
+        },
+        {
+          "verse": 12,
+          "text": "Through God we shall do valiantly: for he it is that shall tread down our enemies."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 211
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 36,
+      "chapter_title": "Jeremiah 36",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, that this word came unto Jeremiah from the LORD, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Take thee a roll of a book, and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spake unto thee, from the days of Josiah, even unto this day."
+        },
+        {
+          "verse": 3,
+          "text": "It may be that the house of Judah will hear all the evil which I purpose to do unto them; that they may return every man from his evil way; that I may forgive their iniquity and their sin."
+        },
+        {
+          "verse": 4,
+          "text": "Then Jeremiah called Baruch the son of Neriah: and Baruch wrote from the mouth of Jeremiah all the words of the LORD, which he had spoken unto him, upon a roll of a book."
+        },
+        {
+          "verse": 5,
+          "text": "And Jeremiah commanded Baruch, saying, I am shut up; I cannot go into the house of the LORD:"
+        },
+        {
+          "verse": 6,
+          "text": "Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the LORD in the ears of the people in the LORD’s house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities."
+        },
+        {
+          "verse": 7,
+          "text": "It may be they will present their supplication before the LORD, and will return every one from his evil way: for great is the anger and the fury that the LORD hath pronounced against this people."
+        },
+        {
+          "verse": 8,
+          "text": "And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of the LORD in the LORD’s house."
+        },
+        {
+          "verse": 9,
+          "text": "And it came to pass in the fifth year of Jehoiakim the son of Josiah king of Judah, in the ninth month, that they proclaimed a fast before the LORD to all the people in Jerusalem, and to all the people that came from the cities of Judah unto Jerusalem."
+        },
+        {
+          "verse": 10,
+          "text": "Then read Baruch in the book the words of Jeremiah in the house of the LORD, in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of the LORD’s house, in the ears of all the people."
+        },
+        {
+          "verse": 11,
+          "text": "When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the LORD,"
+        },
+        {
+          "verse": 12,
+          "text": "Then he went down into the king’s house, into the scribe’s chamber: and, lo, all the princes sat there, even Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes."
+        },
+        {
+          "verse": 13,
+          "text": "Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people."
+        },
+        {
+          "verse": 14,
+          "text": "Therefore all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah, the son of Cushi, unto Baruch, saying, Take in thine hand the roll wherein thou hast read in the ears of the people, and come. So Baruch the son of Neriah took the roll in his hand, and came unto them."
+        },
+        {
+          "verse": 15,
+          "text": "And they said unto him, Sit down now, and read it in our ears. So Baruch read it in their ears."
+        },
+        {
+          "verse": 16,
+          "text": "Now it came to pass, when they had heard all the words, they were afraid both one and other, and said unto Baruch, We will surely tell the king of all these words."
+        },
+        {
+          "verse": 17,
+          "text": "And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth?"
+        },
+        {
+          "verse": 18,
+          "text": "Then Baruch answered them, He pronounced all these words unto me with his mouth, and I wrote them with ink in the book."
+        },
+        {
+          "verse": 19,
+          "text": "Then said the princes unto Baruch, Go, hide thee, thou and Jeremiah; and let no man know where ye be."
+        },
+        {
+          "verse": 20,
+          "text": "And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king."
+        },
+        {
+          "verse": 21,
+          "text": "So the king sent Jehudi to fetch the roll: and he took it out of Elishama the scribe’s chamber. And Jehudi read it in the ears of the king, and in the ears of all the princes which stood beside the king."
+        },
+        {
+          "verse": 22,
+          "text": "Now the king sat in the winterhouse in the ninth month: and there was a fire on the hearth burning before him."
+        },
+        {
+          "verse": 23,
+          "text": "And it came to pass, that when Jehudi had read three or four leaves, he cut it with the penknife, and cast it into the fire that was on the hearth, until all the roll was consumed in the fire that was on the hearth."
+        },
+        {
+          "verse": 24,
+          "text": "Yet they were not afraid, nor rent their garments, neither the king, nor any of his servants that heard all these words."
+        },
+        {
+          "verse": 25,
+          "text": "Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them."
+        },
+        {
+          "verse": 26,
+          "text": "But the king commanded Jerahmeel the son of Hammelech, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet: but the LORD hid them."
+        },
+        {
+          "verse": 27,
+          "text": "Then the word of the LORD came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,"
+        },
+        {
+          "verse": 28,
+          "text": "Take thee again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah hath burned."
+        },
+        {
+          "verse": 29,
+          "text": "And thou shalt say to Jehoiakim king of Judah, Thus saith the LORD; Thou hast burned this roll, saying, Why hast thou written therein, saying, The king of Babylon shall certainly come and destroy this land, and shall cause to cease from thence man and beast?"
+        },
+        {
+          "verse": 30,
+          "text": "Therefore thus saith the LORD of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost."
+        },
+        {
+          "verse": 31,
+          "text": "And I will punish him and his seed and his servants for their iniquity; and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah, all the evil that I have pronounced against them; but they hearkened not."
+        },
+        {
+          "verse": 32,
+          "text": "Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and there were added besides unto them many like words."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 1116
+    },
+    {
+      "book": "Acts",
+      "chapter_number": 13,
+      "chapter_title": "Acts 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul."
+        },
+        {
+          "verse": 2,
+          "text": "As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them."
+        },
+        {
+          "verse": 3,
+          "text": "And when they had fasted and prayed, and laid their hands on them, they sent them away."
+        },
+        {
+          "verse": 4,
+          "text": "So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus."
+        },
+        {
+          "verse": 5,
+          "text": "And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister."
+        },
+        {
+          "verse": 6,
+          "text": "And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Barjesus:"
+        },
+        {
+          "verse": 7,
+          "text": "Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God."
+        },
+        {
+          "verse": 8,
+          "text": "But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith."
+        },
+        {
+          "verse": 9,
+          "text": "Then Saul, (who also is called Paul,) filled with the Holy Ghost, set his eyes on him,"
+        },
+        {
+          "verse": 10,
+          "text": "And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?"
+        },
+        {
+          "verse": 11,
+          "text": "And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand."
+        },
+        {
+          "verse": 12,
+          "text": "Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord."
+        },
+        {
+          "verse": 13,
+          "text": "Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem."
+        },
+        {
+          "verse": 14,
+          "text": "But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down."
+        },
+        {
+          "verse": 15,
+          "text": "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on."
+        },
+        {
+          "verse": 16,
+          "text": "Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience."
+        },
+        {
+          "verse": 17,
+          "text": "The God of this people of Israel chose our fathers, and exalted the people when they dwelt as strangers in the land of Egypt, and with an high arm brought he them out of it."
+        },
+        {
+          "verse": 18,
+          "text": "And about the time of forty years suffered he their manners in the wilderness."
+        },
+        {
+          "verse": 19,
+          "text": "And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot."
+        },
+        {
+          "verse": 20,
+          "text": "And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet."
+        },
+        {
+          "verse": 21,
+          "text": "And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years."
+        },
+        {
+          "verse": 22,
+          "text": "And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will."
+        },
+        {
+          "verse": 23,
+          "text": "Of this man’s seed hath God according to his promise raised unto Israel a Saviour, Jesus:"
+        },
+        {
+          "verse": 24,
+          "text": "When John had first preached before his coming the baptism of repentance to all the people of Israel."
+        },
+        {
+          "verse": 25,
+          "text": "And as John fulfilled his course, he said, Whom think ye that I am? I am not he. But, behold, there cometh one after me, whose shoes of his feet I am not worthy to loose."
+        },
+        {
+          "verse": 26,
+          "text": "Men and brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent."
+        },
+        {
+          "verse": 27,
+          "text": "For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled them in condemning him."
+        },
+        {
+          "verse": 28,
+          "text": "And though they found no cause of death in him, yet desired they Pilate that he should be slain."
+        },
+        {
+          "verse": 29,
+          "text": "And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a sepulchre."
+        },
+        {
+          "verse": 30,
+          "text": "But God raised him from the dead:"
+        },
+        {
+          "verse": 31,
+          "text": "And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people."
+        },
+        {
+          "verse": 32,
+          "text": "And we declare unto you glad tidings, how that the promise which was made unto the fathers,"
+        },
+        {
+          "verse": 33,
+          "text": "God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee."
+        },
+        {
+          "verse": 34,
+          "text": "And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David."
+        },
+        {
+          "verse": 35,
+          "text": "Wherefore he saith also in another psalm, Thou shalt not suffer thine Holy One to see corruption."
+        },
+        {
+          "verse": 36,
+          "text": "For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:"
+        },
+        {
+          "verse": 37,
+          "text": "But he, whom God raised again, saw no corruption."
+        },
+        {
+          "verse": 38,
+          "text": "Be it known unto you therefore, men and brethren, that through this man is preached unto you the forgiveness of sins:"
+        },
+        {
+          "verse": 39,
+          "text": "And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses."
+        },
+        {
+          "verse": 40,
+          "text": "Beware therefore, lest that come upon you, which is spoken of in the prophets;"
+        },
+        {
+          "verse": 41,
+          "text": "Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you."
+        },
+        {
+          "verse": 42,
+          "text": "And when the Jews were gone out of the synagogue, the Gentiles besought that these words might be preached to them the next sabbath."
+        },
+        {
+          "verse": 43,
+          "text": "Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God."
+        },
+        {
+          "verse": 44,
+          "text": "And the next sabbath day came almost the whole city together to hear the word of God."
+        },
+        {
+          "verse": 45,
+          "text": "But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming."
+        },
+        {
+          "verse": 46,
+          "text": "Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles."
+        },
+        {
+          "verse": 47,
+          "text": "For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth."
+        },
+        {
+          "verse": 48,
+          "text": "And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed."
+        },
+        {
+          "verse": 49,
+          "text": "And the word of the Lord was published throughout all the region."
+        },
+        {
+          "verse": 50,
+          "text": "But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts."
+        },
+        {
+          "verse": 51,
+          "text": "But they shook off the dust of their feet against them, and came unto Iconium."
+        },
+        {
+          "verse": 52,
+          "text": "And the disciples were filled with joy, and with the Holy Ghost."
+        }
+      ],
+      "verse_count": 52,
+      "word_count": 1273
+    }
+  ]
+}

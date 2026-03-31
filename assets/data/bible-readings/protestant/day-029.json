@@ -1,0 +1,665 @@
+{
+  "day_number": 29,
+  "references": "Exodus 7-8 • Job 29 • Isaiah 29 • Mark 1",
+  "word_count": 3716,
+  "estimated_minutes": 18,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Mark 1:33",
+    "text": "And all the city was gathered together at the door.",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "Exodus 9-10 • Job 30 • Isaiah 30 • Mark 2",
+  "chapters": [
+    {
+      "book": "Exodus",
+      "chapter_number": 7,
+      "chapter_title": "Exodus 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet."
+        },
+        {
+          "verse": 2,
+          "text": "Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land."
+        },
+        {
+          "verse": 3,
+          "text": "And I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt."
+        },
+        {
+          "verse": 4,
+          "text": "But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, and my people the children of Israel, out of the land of Egypt by great judgments."
+        },
+        {
+          "verse": 5,
+          "text": "And the Egyptians shall know that I am the LORD, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them."
+        },
+        {
+          "verse": 6,
+          "text": "And Moses and Aaron did as the LORD commanded them, so did they."
+        },
+        {
+          "verse": 7,
+          "text": "And Moses was fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh."
+        },
+        {
+          "verse": 8,
+          "text": "And the LORD spake unto Moses and unto Aaron, saying,"
+        },
+        {
+          "verse": 9,
+          "text": "When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast it before Pharaoh, and it shall become a serpent."
+        },
+        {
+          "verse": 10,
+          "text": "And Moses and Aaron went in unto Pharaoh, and they did so as the LORD had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent."
+        },
+        {
+          "verse": 11,
+          "text": "Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments."
+        },
+        {
+          "verse": 12,
+          "text": "For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods."
+        },
+        {
+          "verse": 13,
+          "text": "And he hardened Pharaoh’s heart, that he hearkened not unto them; as the LORD had said."
+        },
+        {
+          "verse": 14,
+          "text": "And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the people go."
+        },
+        {
+          "verse": 15,
+          "text": "Get thee unto Pharaoh in the morning; lo, he goeth out unto the water; and thou shalt stand by the river’s brink against he come; and the rod which was turned to a serpent shalt thou take in thine hand."
+        },
+        {
+          "verse": 16,
+          "text": "And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou wouldest not hear."
+        },
+        {
+          "verse": 17,
+          "text": "Thus saith the LORD, In this thou shalt know that I am the LORD: behold, I will smite with the rod that is in mine hand upon the waters which are in the river, and they shall be turned to blood."
+        },
+        {
+          "verse": 18,
+          "text": "And the fish that is in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river."
+        },
+        {
+          "verse": 19,
+          "text": "And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone."
+        },
+        {
+          "verse": 20,
+          "text": "And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood."
+        },
+        {
+          "verse": 21,
+          "text": "And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt."
+        },
+        {
+          "verse": 22,
+          "text": "And the magicians of Egypt did so with their enchantments: and Pharaoh’s heart was hardened, neither did he hearken unto them; as the LORD had said."
+        },
+        {
+          "verse": 23,
+          "text": "And Pharaoh turned and went into his house, neither did he set his heart to this also."
+        },
+        {
+          "verse": 24,
+          "text": "And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river."
+        },
+        {
+          "verse": 25,
+          "text": "And seven days were fulfilled, after that the LORD had smitten the river."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 698
+    },
+    {
+      "book": "Exodus",
+      "chapter_number": 8,
+      "chapter_title": "Exodus 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
+        },
+        {
+          "verse": 2,
+          "text": "And if thou refuse to let them go, behold, I will smite all thy borders with frogs:"
+        },
+        {
+          "verse": 3,
+          "text": "And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:"
+        },
+        {
+          "verse": 4,
+          "text": "And the frogs shall come up both on thee, and upon thy people, and upon all thy servants."
+        },
+        {
+          "verse": 5,
+          "text": "And the LORD spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt."
+        },
+        {
+          "verse": 6,
+          "text": "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt."
+        },
+        {
+          "verse": 7,
+          "text": "And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt."
+        },
+        {
+          "verse": 8,
+          "text": "Then Pharaoh called for Moses and Aaron, and said, Intreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD."
+        },
+        {
+          "verse": 9,
+          "text": "And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, that they may remain in the river only?"
+        },
+        {
+          "verse": 10,
+          "text": "And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the LORD our God."
+        },
+        {
+          "verse": 11,
+          "text": "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only."
+        },
+        {
+          "verse": 12,
+          "text": "And Moses and Aaron went out from Pharaoh: and Moses cried unto the LORD because of the frogs which he had brought against Pharaoh."
+        },
+        {
+          "verse": 13,
+          "text": "And the LORD did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields."
+        },
+        {
+          "verse": 14,
+          "text": "And they gathered them together upon heaps: and the land stank."
+        },
+        {
+          "verse": 15,
+          "text": "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said."
+        },
+        {
+          "verse": 16,
+          "text": "And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt."
+        },
+        {
+          "verse": 17,
+          "text": "And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt."
+        },
+        {
+          "verse": 18,
+          "text": "And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast."
+        },
+        {
+          "verse": 19,
+          "text": "Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh’s heart was hardened, and he hearkened not unto them; as the LORD had said."
+        },
+        {
+          "verse": 20,
+          "text": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
+        },
+        {
+          "verse": 21,
+          "text": "Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are."
+        },
+        {
+          "verse": 22,
+          "text": "And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the LORD in the midst of the earth."
+        },
+        {
+          "verse": 23,
+          "text": "And I will put a division between my people and thy people: to morrow shall this sign be."
+        },
+        {
+          "verse": 24,
+          "text": "And the LORD did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants’ houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies."
+        },
+        {
+          "verse": 25,
+          "text": "And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land."
+        },
+        {
+          "verse": 26,
+          "text": "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?"
+        },
+        {
+          "verse": 27,
+          "text": "We will go three days’ journey into the wilderness, and sacrifice to the LORD our God, as he shall command us."
+        },
+        {
+          "verse": 28,
+          "text": "And Pharaoh said, I will let you go, that ye may sacrifice to the LORD your God in the wilderness; only ye shall not go very far away: intreat for me."
+        },
+        {
+          "verse": 29,
+          "text": "And Moses said, Behold, I go out from thee, and I will intreat the LORD that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the LORD."
+        },
+        {
+          "verse": 30,
+          "text": "And Moses went out from Pharaoh, and intreated the LORD."
+        },
+        {
+          "verse": 31,
+          "text": "And the LORD did according to the word of Moses; and he removed the swarms of flies from Pharaoh, from his servants, and from his people; there remained not one."
+        },
+        {
+          "verse": 32,
+          "text": "And Pharaoh hardened his heart at this time also, neither would he let the people go."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 937
+    },
+    {
+      "book": "Job",
+      "chapter_number": 29,
+      "chapter_title": "Job 29",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Moreover Job continued his parable, and said,"
+        },
+        {
+          "verse": 2,
+          "text": "Oh that I were as in months past, as in the days when God preserved me;"
+        },
+        {
+          "verse": 3,
+          "text": "When his candle shined upon my head, and when by his light I walked through darkness;"
+        },
+        {
+          "verse": 4,
+          "text": "As I was in the days of my youth, when the secret of God was upon my tabernacle;"
+        },
+        {
+          "verse": 5,
+          "text": "When the Almighty was yet with me, when my children were about me;"
+        },
+        {
+          "verse": 6,
+          "text": "When I washed my steps with butter, and the rock poured me out rivers of oil;"
+        },
+        {
+          "verse": 7,
+          "text": "When I went out to the gate through the city, when I prepared my seat in the street!"
+        },
+        {
+          "verse": 8,
+          "text": "The young men saw me, and hid themselves: and the aged arose, and stood up."
+        },
+        {
+          "verse": 9,
+          "text": "The princes refrained talking, and laid their hand on their mouth."
+        },
+        {
+          "verse": 10,
+          "text": "The nobles held their peace, and their tongue cleaved to the roof of their mouth."
+        },
+        {
+          "verse": 11,
+          "text": "When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:"
+        },
+        {
+          "verse": 12,
+          "text": "Because I delivered the poor that cried, and the fatherless, and him that had none to help him."
+        },
+        {
+          "verse": 13,
+          "text": "The blessing of him that was ready to perish came upon me: and I caused the widow’s heart to sing for joy."
+        },
+        {
+          "verse": 14,
+          "text": "I put on righteousness, and it clothed me: my judgment was as a robe and a diadem."
+        },
+        {
+          "verse": 15,
+          "text": "I was eyes to the blind, and feet was I to the lame."
+        },
+        {
+          "verse": 16,
+          "text": "I was a father to the poor: and the cause which I knew not I searched out."
+        },
+        {
+          "verse": 17,
+          "text": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth."
+        },
+        {
+          "verse": 18,
+          "text": "Then I said, I shall die in my nest, and I shall multiply my days as the sand."
+        },
+        {
+          "verse": 19,
+          "text": "My root was spread out by the waters, and the dew lay all night upon my branch."
+        },
+        {
+          "verse": 20,
+          "text": "My glory was fresh in me, and my bow was renewed in my hand."
+        },
+        {
+          "verse": 21,
+          "text": "Unto me men gave ear, and waited, and kept silence at my counsel."
+        },
+        {
+          "verse": 22,
+          "text": "After my words they spake not again; and my speech dropped upon them."
+        },
+        {
+          "verse": 23,
+          "text": "And they waited for me as for the rain; and they opened their mouth wide as for the latter rain."
+        },
+        {
+          "verse": 24,
+          "text": "If I laughed on them, they believed it not; and the light of my countenance they cast not down."
+        },
+        {
+          "verse": 25,
+          "text": "I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 405
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 29,
+      "chapter_title": "Isaiah 29",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices."
+        },
+        {
+          "verse": 2,
+          "text": "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel."
+        },
+        {
+          "verse": 3,
+          "text": "And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee."
+        },
+        {
+          "verse": 4,
+          "text": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust."
+        },
+        {
+          "verse": 5,
+          "text": "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly."
+        },
+        {
+          "verse": 6,
+          "text": "Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire."
+        },
+        {
+          "verse": 7,
+          "text": "And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision."
+        },
+        {
+          "verse": 8,
+          "text": "It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion."
+        },
+        {
+          "verse": 9,
+          "text": "Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink."
+        },
+        {
+          "verse": 10,
+          "text": "For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered."
+        },
+        {
+          "verse": 11,
+          "text": "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:"
+        },
+        {
+          "verse": 12,
+          "text": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned."
+        },
+        {
+          "verse": 13,
+          "text": "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"
+        },
+        {
+          "verse": 14,
+          "text": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid."
+        },
+        {
+          "verse": 15,
+          "text": "Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?"
+        },
+        {
+          "verse": 16,
+          "text": "Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?"
+        },
+        {
+          "verse": 17,
+          "text": "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?"
+        },
+        {
+          "verse": 18,
+          "text": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness."
+        },
+        {
+          "verse": 19,
+          "text": "The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel."
+        },
+        {
+          "verse": 20,
+          "text": "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:"
+        },
+        {
+          "verse": 21,
+          "text": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought."
+        },
+        {
+          "verse": 22,
+          "text": "Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale."
+        },
+        {
+          "verse": 23,
+          "text": "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel."
+        },
+        {
+          "verse": 24,
+          "text": "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine."
+        }
+      ],
+      "verse_count": 24,
+      "word_count": 743
+    },
+    {
+      "book": "Mark",
+      "chapter_number": 1,
+      "chapter_title": "Mark 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The beginning of the gospel of Jesus Christ, the Son of God;"
+        },
+        {
+          "verse": 2,
+          "text": "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+        },
+        {
+          "verse": 3,
+          "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+        },
+        {
+          "verse": 4,
+          "text": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins."
+        },
+        {
+          "verse": 5,
+          "text": "And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins."
+        },
+        {
+          "verse": 6,
+          "text": "And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;"
+        },
+        {
+          "verse": 7,
+          "text": "And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose."
+        },
+        {
+          "verse": 8,
+          "text": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost."
+        },
+        {
+          "verse": 9,
+          "text": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan."
+        },
+        {
+          "verse": 10,
+          "text": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:"
+        },
+        {
+          "verse": 11,
+          "text": "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased."
+        },
+        {
+          "verse": 12,
+          "text": "And immediately the Spirit driveth him into the wilderness."
+        },
+        {
+          "verse": 13,
+          "text": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him."
+        },
+        {
+          "verse": 14,
+          "text": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,"
+        },
+        {
+          "verse": 15,
+          "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
+        },
+        {
+          "verse": 16,
+          "text": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers."
+        },
+        {
+          "verse": 17,
+          "text": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men."
+        },
+        {
+          "verse": 18,
+          "text": "And straightway they forsook their nets, and followed him."
+        },
+        {
+          "verse": 19,
+          "text": "And when he had gone a little farther thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets."
+        },
+        {
+          "verse": 20,
+          "text": "And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him."
+        },
+        {
+          "verse": 21,
+          "text": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught."
+        },
+        {
+          "verse": 22,
+          "text": "And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes."
+        },
+        {
+          "verse": 23,
+          "text": "And there was in their synagogue a man with an unclean spirit; and he cried out,"
+        },
+        {
+          "verse": 24,
+          "text": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God."
+        },
+        {
+          "verse": 25,
+          "text": "And Jesus rebuked him, saying, Hold thy peace, and come out of him."
+        },
+        {
+          "verse": 26,
+          "text": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him."
+        },
+        {
+          "verse": 27,
+          "text": "And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him."
+        },
+        {
+          "verse": 28,
+          "text": "And immediately his fame spread abroad throughout all the region round about Galilee."
+        },
+        {
+          "verse": 29,
+          "text": "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John."
+        },
+        {
+          "verse": 30,
+          "text": "But Simon’s wife’s mother lay sick of a fever, and anon they tell him of her."
+        },
+        {
+          "verse": 31,
+          "text": "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them."
+        },
+        {
+          "verse": 32,
+          "text": "And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils."
+        },
+        {
+          "verse": 33,
+          "text": "And all the city was gathered together at the door."
+        },
+        {
+          "verse": 34,
+          "text": "And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him."
+        },
+        {
+          "verse": 35,
+          "text": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed."
+        },
+        {
+          "verse": 36,
+          "text": "And Simon and they that were with him followed after him."
+        },
+        {
+          "verse": 37,
+          "text": "And when they had found him, they said unto him, All men seek for thee."
+        },
+        {
+          "verse": 38,
+          "text": "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth."
+        },
+        {
+          "verse": 39,
+          "text": "And he preached in their synagogues throughout all Galilee, and cast out devils."
+        },
+        {
+          "verse": 40,
+          "text": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean."
+        },
+        {
+          "verse": 41,
+          "text": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
+        },
+        {
+          "verse": 42,
+          "text": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed."
+        },
+        {
+          "verse": 43,
+          "text": "And he straitly charged him, and forthwith sent him away;"
+        },
+        {
+          "verse": 44,
+          "text": "And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them."
+        },
+        {
+          "verse": 45,
+          "text": "But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter."
+        }
+      ],
+      "verse_count": 45,
+      "word_count": 933
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "day_number": 148,
+  "references": "Judges 8 • Psalms 106 • Ezekiel 25 • 1 Corinthians 15",
+  "word_count": 3426,
+  "estimated_minutes": 16,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 106:12",
+    "text": "Then believed they his words; they sang his praise.",
+    "reflection": "Hold this verse close and let its steadiness shape the next few hours."
+  },
+  "tomorrow_teaser": "Judges 9 • Psalms 107 • Ezekiel 26 • 1 Corinthians 16",
+  "chapters": [
+    {
+      "book": "Judges",
+      "chapter_number": 8,
+      "chapter_title": "Judges 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply."
+        },
+        {
+          "verse": 2,
+          "text": "And he said unto them, What have I done now in comparison of you? Is not the gleaning of the grapes of Ephraim better than the vintage of Abiezer?"
+        },
+        {
+          "verse": 3,
+          "text": "God hath delivered into your hands the princes of Midian, Oreb and Zeeb: and what was I able to do in comparison of you? Then their anger was abated toward him, when he had said that."
+        },
+        {
+          "verse": 4,
+          "text": "And Gideon came to Jordan, and passed over, he, and the three hundred men that were with him, faint, yet pursuing them."
+        },
+        {
+          "verse": 5,
+          "text": "And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they be faint, and I am pursuing after Zebah and Zalmunna, kings of Midian."
+        },
+        {
+          "verse": 6,
+          "text": "And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thine army?"
+        },
+        {
+          "verse": 7,
+          "text": "And Gideon said, Therefore when the LORD hath delivered Zebah and Zalmunna into mine hand, then I will tear your flesh with the thorns of the wilderness and with briers."
+        },
+        {
+          "verse": 8,
+          "text": "And he went up thence to Penuel, and spake unto them likewise: and the men of Penuel answered him as the men of Succoth had answered him."
+        },
+        {
+          "verse": 9,
+          "text": "And he spake also unto the men of Penuel, saying, When I come again in peace, I will break down this tower."
+        },
+        {
+          "verse": 10,
+          "text": "Now Zebah and Zalmunna were in Karkor, and their hosts with them, about fifteen thousand men, all that were left of all the hosts of the children of the east: for there fell an hundred and twenty thousand men that drew sword."
+        },
+        {
+          "verse": 11,
+          "text": "And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host: for the host was secure."
+        },
+        {
+          "verse": 12,
+          "text": "And when Zebah and Zalmunna fled, he pursued after them, and took the two kings of Midian, Zebah and Zalmunna, and discomfited all the host."
+        },
+        {
+          "verse": 13,
+          "text": "And Gideon the son of Joash returned from battle before the sun was up,"
+        },
+        {
+          "verse": 14,
+          "text": "And caught a young man of the men of Succoth, and enquired of him: and he described unto him the princes of Succoth, and the elders thereof, even threescore and seventeen men."
+        },
+        {
+          "verse": 15,
+          "text": "And he came unto the men of Succoth, and said, Behold Zebah and Zalmunna, with whom ye did upbraid me, saying, Are the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thy men that are weary?"
+        },
+        {
+          "verse": 16,
+          "text": "And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth."
+        },
+        {
+          "verse": 17,
+          "text": "And he beat down the tower of Penuel, and slew the men of the city."
+        },
+        {
+          "verse": 18,
+          "text": "Then said he unto Zebah and Zalmunna, What manner of men were they whom ye slew at Tabor? And they answered, As thou art, so were they; each one resembled the children of a king."
+        },
+        {
+          "verse": 19,
+          "text": "And he said, They were my brethren, even the sons of my mother: as the LORD liveth, if ye had saved them alive, I would not slay you."
+        },
+        {
+          "verse": 20,
+          "text": "And he said unto Jether his firstborn, Up, and slay them. But the youth drew not his sword: for he feared, because he was yet a youth."
+        },
+        {
+          "verse": 21,
+          "text": "Then Zebah and Zalmunna said, Rise thou, and fall upon us: for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that were on their camels’ necks."
+        },
+        {
+          "verse": 22,
+          "text": "Then the men of Israel said unto Gideon, Rule thou over us, both thou, and thy son, and thy son’s son also: for thou hast delivered us from the hand of Midian."
+        },
+        {
+          "verse": 23,
+          "text": "And Gideon said unto them, I will not rule over you, neither shall my son rule over you: the LORD shall rule over you."
+        },
+        {
+          "verse": 24,
+          "text": "And Gideon said unto them, I would desire a request of you, that ye would give me every man the earrings of his prey. (For they had golden earrings, because they were Ishmaelites.)"
+        },
+        {
+          "verse": 25,
+          "text": "And they answered, We will willingly give them. And they spread a garment, and did cast therein every man the earrings of his prey."
+        },
+        {
+          "verse": 26,
+          "text": "And the weight of the golden earrings that he requested was a thousand and seven hundred shekels of gold; beside ornaments, and collars, and purple raiment that was on the kings of Midian, and beside the chains that were about their camels’ necks."
+        },
+        {
+          "verse": 27,
+          "text": "And Gideon made an ephod thereof, and put it in his city, even in Ophrah: and all Israel went thither a whoring after it: which thing became a snare unto Gideon, and to his house."
+        },
+        {
+          "verse": 28,
+          "text": "Thus was Midian subdued before the children of Israel, so that they lifted up their heads no more. And the country was in quietness forty years in the days of Gideon."
+        },
+        {
+          "verse": 29,
+          "text": "And Jerubbaal the son of Joash went and dwelt in his own house."
+        },
+        {
+          "verse": 30,
+          "text": "And Gideon had threescore and ten sons of his body begotten: for he had many wives."
+        },
+        {
+          "verse": 31,
+          "text": "And his concubine that was in Shechem, she also bare him a son, whose name he called Abimelech."
+        },
+        {
+          "verse": 32,
+          "text": "And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abiezrites."
+        },
+        {
+          "verse": 33,
+          "text": "And it came to pass, as soon as Gideon was dead, that the children of Israel turned again, and went a whoring after Baalim, and made Baalberith their god."
+        },
+        {
+          "verse": 34,
+          "text": "And the children of Israel remembered not the LORD their God, who had delivered them out of the hands of all their enemies on every side:"
+        },
+        {
+          "verse": 35,
+          "text": "Neither shewed they kindness to the house of Jerubbaal, namely, Gideon, according to all the goodness which he had shewed unto Israel."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 988
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 106,
+      "chapter_title": "Psalms 106",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Praise ye the LORD. O give thanks unto the LORD; for he is good: for his mercy endureth for ever."
+        },
+        {
+          "verse": 2,
+          "text": "Who can utter the mighty acts of the LORD? who can shew forth all his praise?"
+        },
+        {
+          "verse": 3,
+          "text": "Blessed are they that keep judgment, and he that doeth righteousness at all times."
+        },
+        {
+          "verse": 4,
+          "text": "Remember me, O LORD, with the favour that thou bearest unto thy people: O visit me with thy salvation;"
+        },
+        {
+          "verse": 5,
+          "text": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance."
+        },
+        {
+          "verse": 6,
+          "text": "We have sinned with our fathers, we have committed iniquity, we have done wickedly."
+        },
+        {
+          "verse": 7,
+          "text": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked him at the sea, even at the Red sea."
+        },
+        {
+          "verse": 8,
+          "text": "Nevertheless he saved them for his name’s sake, that he might make his mighty power to be known."
+        },
+        {
+          "verse": 9,
+          "text": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness."
+        },
+        {
+          "verse": 10,
+          "text": "And he saved them from the hand of him that hated them, and redeemed them from the hand of the enemy."
+        },
+        {
+          "verse": 11,
+          "text": "And the waters covered their enemies: there was not one of them left."
+        },
+        {
+          "verse": 12,
+          "text": "Then believed they his words; they sang his praise."
+        },
+        {
+          "verse": 13,
+          "text": "They soon forgat his works; they waited not for his counsel:"
+        },
+        {
+          "verse": 14,
+          "text": "But lusted exceedingly in the wilderness, and tempted God in the desert."
+        },
+        {
+          "verse": 15,
+          "text": "And he gave them their request; but sent leanness into their soul."
+        },
+        {
+          "verse": 16,
+          "text": "They envied Moses also in the camp, and Aaron the saint of the LORD."
+        },
+        {
+          "verse": 17,
+          "text": "The earth opened and swallowed up Dathan, and covered the company of Abiram."
+        },
+        {
+          "verse": 18,
+          "text": "And a fire was kindled in their company; the flame burned up the wicked."
+        },
+        {
+          "verse": 19,
+          "text": "They made a calf in Horeb, and worshipped the molten image."
+        },
+        {
+          "verse": 20,
+          "text": "Thus they changed their glory into the similitude of an ox that eateth grass."
+        },
+        {
+          "verse": 21,
+          "text": "They forgat God their saviour, which had done great things in Egypt;"
+        },
+        {
+          "verse": 22,
+          "text": "Wondrous works in the land of Ham, and terrible things by the Red sea."
+        },
+        {
+          "verse": 23,
+          "text": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy them."
+        },
+        {
+          "verse": 24,
+          "text": "Yea, they despised the pleasant land, they believed not his word:"
+        },
+        {
+          "verse": 25,
+          "text": "But murmured in their tents, and hearkened not unto the voice of the LORD."
+        },
+        {
+          "verse": 26,
+          "text": "Therefore he lifted up his hand against them, to overthrow them in the wilderness:"
+        },
+        {
+          "verse": 27,
+          "text": "To overthrow their seed also among the nations, and to scatter them in the lands."
+        },
+        {
+          "verse": 28,
+          "text": "They joined themselves also unto Baalpeor, and ate the sacrifices of the dead."
+        },
+        {
+          "verse": 29,
+          "text": "Thus they provoked him to anger with their inventions: and the plague brake in upon them."
+        },
+        {
+          "verse": 30,
+          "text": "Then stood up Phinehas, and executed judgment: and so the plague was stayed."
+        },
+        {
+          "verse": 31,
+          "text": "And that was counted unto him for righteousness unto all generations for evermore."
+        },
+        {
+          "verse": 32,
+          "text": "They angered him also at the waters of strife, so that it went ill with Moses for their sakes:"
+        },
+        {
+          "verse": 33,
+          "text": "Because they provoked his spirit, so that he spake unadvisedly with his lips."
+        },
+        {
+          "verse": 34,
+          "text": "They did not destroy the nations, concerning whom the LORD commanded them:"
+        },
+        {
+          "verse": 35,
+          "text": "But were mingled among the heathen, and learned their works."
+        },
+        {
+          "verse": 36,
+          "text": "And they served their idols: which were a snare unto them."
+        },
+        {
+          "verse": 37,
+          "text": "Yea, they sacrificed their sons and their daughters unto devils,"
+        },
+        {
+          "verse": 38,
+          "text": "And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood."
+        },
+        {
+          "verse": 39,
+          "text": "Thus were they defiled with their own works, and went a whoring with their own inventions."
+        },
+        {
+          "verse": 40,
+          "text": "Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance."
+        },
+        {
+          "verse": 41,
+          "text": "And he gave them into the hand of the heathen; and they that hated them ruled over them."
+        },
+        {
+          "verse": 42,
+          "text": "Their enemies also oppressed them, and they were brought into subjection under their hand."
+        },
+        {
+          "verse": 43,
+          "text": "Many times did he deliver them; but they provoked him with their counsel, and were brought low for their iniquity."
+        },
+        {
+          "verse": 44,
+          "text": "Nevertheless he regarded their affliction, when he heard their cry:"
+        },
+        {
+          "verse": 45,
+          "text": "And he remembered for them his covenant, and repented according to the multitude of his mercies."
+        },
+        {
+          "verse": 46,
+          "text": "He made them also to be pitied of all those that carried them captives."
+        },
+        {
+          "verse": 47,
+          "text": "Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise."
+        },
+        {
+          "verse": 48,
+          "text": "Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD."
+        }
+      ],
+      "verse_count": 48,
+      "word_count": 763
+    },
+    {
+      "book": "Ezekiel",
+      "chapter_number": 25,
+      "chapter_title": "Ezekiel 25",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The word of the LORD came again unto me, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Son of man, set thy face against the Ammonites, and prophesy against them;"
+        },
+        {
+          "verse": 3,
+          "text": "And say unto the Ammonites, Hear the word of the Lord GOD; Thus saith the Lord GOD; Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;"
+        },
+        {
+          "verse": 4,
+          "text": "Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk."
+        },
+        {
+          "verse": 5,
+          "text": "And I will make Rabbah a stable for camels, and the Ammonites a couching place for flocks: and ye shall know that I am the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "For thus saith the Lord GOD; Because thou hast clapped thine hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;"
+        },
+        {
+          "verse": 7,
+          "text": "Behold, therefore I will stretch out mine hand upon thee, and will deliver thee for a spoil to the heathen; and I will cut thee off from the people, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I am the LORD."
+        },
+        {
+          "verse": 8,
+          "text": "Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;"
+        },
+        {
+          "verse": 9,
+          "text": "Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,"
+        },
+        {
+          "verse": 10,
+          "text": "Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations."
+        },
+        {
+          "verse": 11,
+          "text": "And I will execute judgments upon Moab; and they shall know that I am the LORD."
+        },
+        {
+          "verse": 12,
+          "text": "Thus saith the Lord GOD; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;"
+        },
+        {
+          "verse": 13,
+          "text": "Therefore thus saith the Lord GOD; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword."
+        },
+        {
+          "verse": 14,
+          "text": "And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord GOD."
+        },
+        {
+          "verse": 15,
+          "text": "Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy it for the old hatred;"
+        },
+        {
+          "verse": 16,
+          "text": "Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast."
+        },
+        {
+          "verse": 17,
+          "text": "And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengeance upon them."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 508
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter_number": 15,
+      "chapter_title": "1 Corinthians 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;"
+        },
+        {
+          "verse": 2,
+          "text": "By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain."
+        },
+        {
+          "verse": 3,
+          "text": "For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;"
+        },
+        {
+          "verse": 4,
+          "text": "And that he was buried, and that he rose again the third day according to the scriptures:"
+        },
+        {
+          "verse": 5,
+          "text": "And that he was seen of Cephas, then of the twelve:"
+        },
+        {
+          "verse": 6,
+          "text": "After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep."
+        },
+        {
+          "verse": 7,
+          "text": "After that, he was seen of James; then of all the apostles."
+        },
+        {
+          "verse": 8,
+          "text": "And last of all he was seen of me also, as of one born out of due time."
+        },
+        {
+          "verse": 9,
+          "text": "For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God."
+        },
+        {
+          "verse": 10,
+          "text": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me."
+        },
+        {
+          "verse": 11,
+          "text": "Therefore whether it were I or they, so we preach, and so ye believed."
+        },
+        {
+          "verse": 12,
+          "text": "Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?"
+        },
+        {
+          "verse": 13,
+          "text": "But if there be no resurrection of the dead, then is Christ not risen:"
+        },
+        {
+          "verse": 14,
+          "text": "And if Christ be not risen, then is our preaching vain, and your faith is also vain."
+        },
+        {
+          "verse": 15,
+          "text": "Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not."
+        },
+        {
+          "verse": 16,
+          "text": "For if the dead rise not, then is not Christ raised:"
+        },
+        {
+          "verse": 17,
+          "text": "And if Christ be not raised, your faith is vain; ye are yet in your sins."
+        },
+        {
+          "verse": 18,
+          "text": "Then they also which are fallen asleep in Christ are perished."
+        },
+        {
+          "verse": 19,
+          "text": "If in this life only we have hope in Christ, we are of all men most miserable."
+        },
+        {
+          "verse": 20,
+          "text": "But now is Christ risen from the dead, and become the firstfruits of them that slept."
+        },
+        {
+          "verse": 21,
+          "text": "For since by man came death, by man came also the resurrection of the dead."
+        },
+        {
+          "verse": 22,
+          "text": "For as in Adam all die, even so in Christ shall all be made alive."
+        },
+        {
+          "verse": 23,
+          "text": "But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming."
+        },
+        {
+          "verse": 24,
+          "text": "Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power."
+        },
+        {
+          "verse": 25,
+          "text": "For he must reign, till he hath put all enemies under his feet."
+        },
+        {
+          "verse": 26,
+          "text": "The last enemy that shall be destroyed is death."
+        },
+        {
+          "verse": 27,
+          "text": "For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him."
+        },
+        {
+          "verse": 28,
+          "text": "And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all."
+        },
+        {
+          "verse": 29,
+          "text": "Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?"
+        },
+        {
+          "verse": 30,
+          "text": "And why stand we in jeopardy every hour?"
+        },
+        {
+          "verse": 31,
+          "text": "I protest by your rejoicing which I have in Christ Jesus our LORD, I die daily."
+        },
+        {
+          "verse": 32,
+          "text": "If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die."
+        },
+        {
+          "verse": 33,
+          "text": "Be not deceived: evil communications corrupt good manners."
+        },
+        {
+          "verse": 34,
+          "text": "Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame."
+        },
+        {
+          "verse": 35,
+          "text": "But some man will say, How are the dead raised up? and with what body do they come?"
+        },
+        {
+          "verse": 36,
+          "text": "Thou fool, that which thou sowest is not quickened, except it die:"
+        },
+        {
+          "verse": 37,
+          "text": "And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:"
+        },
+        {
+          "verse": 38,
+          "text": "But God giveth it a body as it hath pleased him, and to every seed his own body."
+        },
+        {
+          "verse": 39,
+          "text": "All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds."
+        },
+        {
+          "verse": 40,
+          "text": "There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another."
+        },
+        {
+          "verse": 41,
+          "text": "There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory."
+        },
+        {
+          "verse": 42,
+          "text": "So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:"
+        },
+        {
+          "verse": 43,
+          "text": "It is sown in dishonour; it is raised in glory: it is sown in weakness; it is raised in power:"
+        },
+        {
+          "verse": 44,
+          "text": "It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body."
+        },
+        {
+          "verse": 45,
+          "text": "And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit."
+        },
+        {
+          "verse": 46,
+          "text": "Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual."
+        },
+        {
+          "verse": 47,
+          "text": "The first man is of the earth, earthy: the second man is the Lord from heaven."
+        },
+        {
+          "verse": 48,
+          "text": "As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly."
+        },
+        {
+          "verse": 49,
+          "text": "And as we have borne the image of the earthy, we shall also bear the image of the heavenly."
+        },
+        {
+          "verse": 50,
+          "text": "Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption."
+        },
+        {
+          "verse": 51,
+          "text": "Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,"
+        },
+        {
+          "verse": 52,
+          "text": "In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed."
+        },
+        {
+          "verse": 53,
+          "text": "For this corruptible must put on incorruption, and this mortal must put on immortality."
+        },
+        {
+          "verse": 54,
+          "text": "So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory."
+        },
+        {
+          "verse": 55,
+          "text": "O death, where is thy sting? O grave, where is thy victory?"
+        },
+        {
+          "verse": 56,
+          "text": "The sting of death is sin; and the strength of sin is the law."
+        },
+        {
+          "verse": 57,
+          "text": "But thanks be to God, which giveth us the victory through our Lord Jesus Christ."
+        },
+        {
+          "verse": 58,
+          "text": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord."
+        }
+      ],
+      "verse_count": 58,
+      "word_count": 1167
+    }
+  ]
+}

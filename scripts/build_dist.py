@@ -25,7 +25,9 @@ DIRECTORIES = [
     "about",
     "archive",
     "assets",
+    "bible",
     "briefs",
+    "calendar",
     "coverage",
     "journal",
     "latest",
@@ -33,6 +35,8 @@ DIRECTORIES = [
     "roundups",
     "search",
     "sections",
+    "settings",
+    "signup",
     "sports",
     "sources",
     "topics",
@@ -42,7 +46,9 @@ DIRECTORIES = [
 FILES = [
     "feed.xml",
     "index.html",
+    "manifest.webmanifest",
     "robots.txt",
+    "service-worker.js",
     "sitemap.xml",
 ]
 

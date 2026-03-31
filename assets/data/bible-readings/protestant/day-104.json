@@ -1,0 +1,496 @@
+{
+  "day_number": 104,
+  "references": "Deuteronomy 22 • Psalms 62 • Jeremiah 38 • Acts 15",
+  "word_count": 3053,
+  "estimated_minutes": 15,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 62:1",
+    "text": "Truly my soul waiteth upon God: from him cometh my salvation.",
+    "reflection": "Carry this line with you and let it soften the edges of whatever waits today."
+  },
+  "tomorrow_teaser": "Deuteronomy 23 • Psalms 63 • Jeremiah 39 • Acts 16",
+  "chapters": [
+    {
+      "book": "Deuteronomy",
+      "chapter_number": 22,
+      "chapter_title": "Deuteronomy 22",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother."
+        },
+        {
+          "verse": 2,
+          "text": "And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again."
+        },
+        {
+          "verse": 3,
+          "text": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother’s, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself."
+        },
+        {
+          "verse": 4,
+          "text": "Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again."
+        },
+        {
+          "verse": 5,
+          "text": "The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so are abomination unto the LORD thy God."
+        },
+        {
+          "verse": 6,
+          "text": "If a bird’s nest chance to be before thee in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:"
+        },
+        {
+          "verse": 7,
+          "text": "But thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and that thou mayest prolong thy days."
+        },
+        {
+          "verse": 8,
+          "text": "When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence."
+        },
+        {
+          "verse": 9,
+          "text": "Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled."
+        },
+        {
+          "verse": 10,
+          "text": "Thou shalt not plow with an ox and an ass together."
+        },
+        {
+          "verse": 11,
+          "text": "Thou shalt not wear a garment of divers sorts, as of woollen and linen together."
+        },
+        {
+          "verse": 12,
+          "text": "Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself."
+        },
+        {
+          "verse": 13,
+          "text": "If any man take a wife, and go in unto her, and hate her,"
+        },
+        {
+          "verse": 14,
+          "text": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:"
+        },
+        {
+          "verse": 15,
+          "text": "Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel’s virginity unto the elders of the city in the gate:"
+        },
+        {
+          "verse": 16,
+          "text": "And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;"
+        },
+        {
+          "verse": 17,
+          "text": "And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter’s virginity. And they shall spread the cloth before the elders of the city."
+        },
+        {
+          "verse": 18,
+          "text": "And the elders of that city shall take that man and chastise him;"
+        },
+        {
+          "verse": 19,
+          "text": "And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days."
+        },
+        {
+          "verse": 20,
+          "text": "But if this thing be true, and the tokens of virginity be not found for the damsel:"
+        },
+        {
+          "verse": 21,
+          "text": "Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you."
+        },
+        {
+          "verse": 22,
+          "text": "If a man be found lying with a woman married to an husband, then they shall both of them die, both the man that lay with the woman, and the woman: so shalt thou put away evil from Israel."
+        },
+        {
+          "verse": 23,
+          "text": "If a damsel that is a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;"
+        },
+        {
+          "verse": 24,
+          "text": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you."
+        },
+        {
+          "verse": 25,
+          "text": "But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:"
+        },
+        {
+          "verse": 26,
+          "text": "But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death: for as when a man riseth against his neighbour, and slayeth him, even so is this matter:"
+        },
+        {
+          "verse": 27,
+          "text": "For he found her in the field, and the betrothed damsel cried, and there was none to save her."
+        },
+        {
+          "verse": 28,
+          "text": "If a man find a damsel that is a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;"
+        },
+        {
+          "verse": 29,
+          "text": "Then the man that lay with her shall give unto the damsel’s father fifty shekels of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days."
+        },
+        {
+          "verse": 30,
+          "text": "A man shall not take his father’s wife, nor discover his father’s skirt."
+        }
+      ],
+      "verse_count": 30,
+      "word_count": 908
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 62,
+      "chapter_title": "Psalms 62",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Truly my soul waiteth upon God: from him cometh my salvation."
+        },
+        {
+          "verse": 2,
+          "text": "He only is my rock and my salvation; he is my defence; I shall not be greatly moved."
+        },
+        {
+          "verse": 3,
+          "text": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall shall ye be, and as a tottering fence."
+        },
+        {
+          "verse": 4,
+          "text": "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah."
+        },
+        {
+          "verse": 5,
+          "text": "My soul, wait thou only upon God; for my expectation is from him."
+        },
+        {
+          "verse": 6,
+          "text": "He only is my rock and my salvation: he is my defence; I shall not be moved."
+        },
+        {
+          "verse": 7,
+          "text": "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God."
+        },
+        {
+          "verse": 8,
+          "text": "Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah."
+        },
+        {
+          "verse": 9,
+          "text": "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity."
+        },
+        {
+          "verse": 10,
+          "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them."
+        },
+        {
+          "verse": 11,
+          "text": "God hath spoken once; twice have I heard this; that power belongeth unto God."
+        },
+        {
+          "verse": 12,
+          "text": "Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 228
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 38,
+      "chapter_title": "Jeremiah 38",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah, heard the words that Jeremiah had spoken unto all the people, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Thus saith the LORD, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live."
+        },
+        {
+          "verse": 3,
+          "text": "Thus saith the LORD, This city shall surely be given into the hand of the king of Babylon’s army, which shall take it."
+        },
+        {
+          "verse": 4,
+          "text": "Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt."
+        },
+        {
+          "verse": 5,
+          "text": "Then Zedekiah the king said, Behold, he is in your hand: for the king is not he that can do any thing against you."
+        },
+        {
+          "verse": 6,
+          "text": "Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that was in the court of the prison: and they let down Jeremiah with cords. And in the dungeon there was no water, but mire: so Jeremiah sunk in the mire."
+        },
+        {
+          "verse": 7,
+          "text": "Now when Ebedmelech the Ethiopian, one of the eunuchs which was in the king’s house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;"
+        },
+        {
+          "verse": 8,
+          "text": "Ebedmelech went forth out of the king’s house, and spake to the king, saying,"
+        },
+        {
+          "verse": 9,
+          "text": "My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for there is no more bread in the city."
+        },
+        {
+          "verse": 10,
+          "text": "Then the king commanded Ebedmelech the Ethiopian, saying, Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon, before he die."
+        },
+        {
+          "verse": 11,
+          "text": "So Ebedmelech took the men with him, and went into the house of the king under the treasury, and took thence old cast clouts and old rotten rags, and let them down by cords into the dungeon to Jeremiah."
+        },
+        {
+          "verse": 12,
+          "text": "And Ebedmelech the Ethiopian said unto Jeremiah, Put now these old cast clouts and rotten rags under thine armholes under the cords. And Jeremiah did so."
+        },
+        {
+          "verse": 13,
+          "text": "So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison."
+        },
+        {
+          "verse": 14,
+          "text": "Then Zedekiah the king sent, and took Jeremiah the prophet unto him into the third entry that is in the house of the LORD: and the king said unto Jeremiah, I will ask thee a thing; hide nothing from me."
+        },
+        {
+          "verse": 15,
+          "text": "Then Jeremiah said unto Zedekiah, If I declare it unto thee, wilt thou not surely put me to death? and if I give thee counsel, wilt thou not hearken unto me?"
+        },
+        {
+          "verse": 16,
+          "text": "So Zedekiah the king sware secretly unto Jeremiah, saying, As the LORD liveth, that made us this soul, I will not put thee to death, neither will I give thee into the hand of these men that seek thy life."
+        },
+        {
+          "verse": 17,
+          "text": "Then said Jeremiah unto Zedekiah, Thus saith the LORD, the God of hosts, the God of Israel; If thou wilt assuredly go forth unto the king of Babylon’s princes, then thy soul shall live, and this city shall not be burned with fire; and thou shalt live, and thine house:"
+        },
+        {
+          "verse": 18,
+          "text": "But if thou wilt not go forth to the king of Babylon’s princes, then shall this city be given into the hand of the Chaldeans, and they shall burn it with fire, and thou shalt not escape out of their hand."
+        },
+        {
+          "verse": 19,
+          "text": "And Zedekiah the king said unto Jeremiah, I am afraid of the Jews that are fallen to the Chaldeans, lest they deliver me into their hand, and they mock me."
+        },
+        {
+          "verse": 20,
+          "text": "But Jeremiah said, They shall not deliver thee. Obey, I beseech thee, the voice of the LORD, which I speak unto thee: so it shall be well unto thee, and thy soul shall live."
+        },
+        {
+          "verse": 21,
+          "text": "But if thou refuse to go forth, this is the word that the LORD hath shewed me:"
+        },
+        {
+          "verse": 22,
+          "text": "And, behold, all the women that are left in the king of Judah’s house shall be brought forth to the king of Babylon’s princes, and those women shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, and they are turned away back."
+        },
+        {
+          "verse": 23,
+          "text": "So they shall bring out all thy wives and thy children to the Chaldeans: and thou shalt not escape out of their hand, but shalt be taken by the hand of the king of Babylon: and thou shalt cause this city to be burned with fire."
+        },
+        {
+          "verse": 24,
+          "text": "Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou shalt not die."
+        },
+        {
+          "verse": 25,
+          "text": "But if the princes hear that I have talked with thee, and they come unto thee, and say unto thee, Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee:"
+        },
+        {
+          "verse": 26,
+          "text": "Then thou shalt say unto them, I presented my supplication before the king, that he would not cause me to return to Jonathan’s house, to die there."
+        },
+        {
+          "verse": 27,
+          "text": "Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived."
+        },
+        {
+          "verse": 28,
+          "text": "So Jeremiah abode in the court of the prison until the day that Jerusalem was taken: and he was there when Jerusalem was taken."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 992
+    },
+    {
+      "book": "Acts",
+      "chapter_number": 15,
+      "chapter_title": "Acts 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And certain men which came down from Judaea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved."
+        },
+        {
+          "verse": 2,
+          "text": "When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question."
+        },
+        {
+          "verse": 3,
+          "text": "And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren."
+        },
+        {
+          "verse": 4,
+          "text": "And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them."
+        },
+        {
+          "verse": 5,
+          "text": "But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses."
+        },
+        {
+          "verse": 6,
+          "text": "And the apostles and elders came together for to consider of this matter."
+        },
+        {
+          "verse": 7,
+          "text": "And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe."
+        },
+        {
+          "verse": 8,
+          "text": "And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as he did unto us;"
+        },
+        {
+          "verse": 9,
+          "text": "And put no difference between us and them, purifying their hearts by faith."
+        },
+        {
+          "verse": 10,
+          "text": "Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?"
+        },
+        {
+          "verse": 11,
+          "text": "But we believe that through the grace of the LORD Jesus Christ we shall be saved, even as they."
+        },
+        {
+          "verse": 12,
+          "text": "Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them."
+        },
+        {
+          "verse": 13,
+          "text": "And after they had held their peace, James answered, saying, Men and brethren, hearken unto me:"
+        },
+        {
+          "verse": 14,
+          "text": "Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name."
+        },
+        {
+          "verse": 15,
+          "text": "And to this agree the words of the prophets; as it is written,"
+        },
+        {
+          "verse": 16,
+          "text": "After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:"
+        },
+        {
+          "verse": 17,
+          "text": "That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things."
+        },
+        {
+          "verse": 18,
+          "text": "Known unto God are all his works from the beginning of the world."
+        },
+        {
+          "verse": 19,
+          "text": "Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:"
+        },
+        {
+          "verse": 20,
+          "text": "But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood."
+        },
+        {
+          "verse": 21,
+          "text": "For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day."
+        },
+        {
+          "verse": 22,
+          "text": "Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren:"
+        },
+        {
+          "verse": 23,
+          "text": "And they wrote letters by them after this manner; The apostles and elders and brethren send greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia:"
+        },
+        {
+          "verse": 24,
+          "text": "Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment:"
+        },
+        {
+          "verse": 25,
+          "text": "It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,"
+        },
+        {
+          "verse": 26,
+          "text": "Men that have hazarded their lives for the name of our Lord Jesus Christ."
+        },
+        {
+          "verse": 27,
+          "text": "We have sent therefore Judas and Silas, who shall also tell you the same things by mouth."
+        },
+        {
+          "verse": 28,
+          "text": "For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;"
+        },
+        {
+          "verse": 29,
+          "text": "That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well."
+        },
+        {
+          "verse": 30,
+          "text": "So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:"
+        },
+        {
+          "verse": 31,
+          "text": "Which when they had read, they rejoiced for the consolation."
+        },
+        {
+          "verse": 32,
+          "text": "And Judas and Silas, being prophets also themselves, exhorted the brethren with many words, and confirmed them."
+        },
+        {
+          "verse": 33,
+          "text": "And after they had tarried there a space, they were let go in peace from the brethren unto the apostles."
+        },
+        {
+          "verse": 34,
+          "text": "Notwithstanding it pleased Silas to abide there still."
+        },
+        {
+          "verse": 35,
+          "text": "Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also."
+        },
+        {
+          "verse": 36,
+          "text": "And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the LORD, and see how they do."
+        },
+        {
+          "verse": 37,
+          "text": "And Barnabas determined to take with them John, whose surname was Mark."
+        },
+        {
+          "verse": 38,
+          "text": "But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work."
+        },
+        {
+          "verse": 39,
+          "text": "And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;"
+        },
+        {
+          "verse": 40,
+          "text": "And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God."
+        },
+        {
+          "verse": 41,
+          "text": "And he went through Syria and Cilicia, confirming the churches."
+        }
+      ],
+      "verse_count": 41,
+      "word_count": 925
+    }
+  ]
+}

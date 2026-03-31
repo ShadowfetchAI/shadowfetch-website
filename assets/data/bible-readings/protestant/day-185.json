@@ -1,0 +1,412 @@
+{
+  "day_number": 185,
+  "references": "1 Samuel 20 • Psalms 143 • Hosea 2 • 1 Thessalonians 3",
+  "word_count": 2523,
+  "estimated_minutes": 12,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 143:9",
+    "text": "Deliver me, O LORD, from mine enemies: I flee unto thee to hide me.",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "1 Samuel 21 • Psalms 144 • Hosea 3 • 1 Thessalonians 4",
+  "chapters": [
+    {
+      "book": "1 Samuel",
+      "chapter_number": 20,
+      "chapter_title": "1 Samuel 20",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life?"
+        },
+        {
+          "verse": 2,
+          "text": "And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will shew it me: and why should my father hide this thing from me? it is not so."
+        },
+        {
+          "verse": 3,
+          "text": "And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly as the LORD liveth, and as thy soul liveth, there is but a step between me and death."
+        },
+        {
+          "verse": 4,
+          "text": "Then said Jonathan unto David, Whatsoever thy soul desireth, I will even do it for thee."
+        },
+        {
+          "verse": 5,
+          "text": "And David said unto Jonathan, Behold, to morrow is the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third day at even."
+        },
+        {
+          "verse": 6,
+          "text": "If thy father at all miss me, then say, David earnestly asked leave of me that he might run to Bethlehem his city: for there is a yearly sacrifice there for all the family."
+        },
+        {
+          "verse": 7,
+          "text": "If he say thus, It is well; thy servant shall have peace: but if he be very wroth, then be sure that evil is determined by him."
+        },
+        {
+          "verse": 8,
+          "text": "Therefore thou shalt deal kindly with thy servant; for thou hast brought thy servant into a covenant of the LORD with thee: notwithstanding, if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father?"
+        },
+        {
+          "verse": 9,
+          "text": "And Jonathan said, Far be it from thee: for if I knew certainly that evil were determined by my father to come upon thee, then would not I tell it thee?"
+        },
+        {
+          "verse": 10,
+          "text": "Then said David to Jonathan, Who shall tell me? or what if thy father answer thee roughly?"
+        },
+        {
+          "verse": 11,
+          "text": "And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field."
+        },
+        {
+          "verse": 12,
+          "text": "And Jonathan said unto David, O LORD God of Israel, when I have sounded my father about to morrow any time, or the third day, and, behold, if there be good toward David, and I then send not unto thee, and shew it thee;"
+        },
+        {
+          "verse": 13,
+          "text": "The LORD do so and much more to Jonathan: but if it please my father to do thee evil, then I will shew it thee, and send thee away, that thou mayest go in peace: and the LORD be with thee, as he hath been with my father."
+        },
+        {
+          "verse": 14,
+          "text": "And thou shalt not only while yet I live shew me the kindness of the LORD, that I die not:"
+        },
+        {
+          "verse": 15,
+          "text": "But also thou shalt not cut off thy kindness from my house for ever: no, not when the LORD hath cut off the enemies of David every one from the face of the earth."
+        },
+        {
+          "verse": 16,
+          "text": "So Jonathan made a covenant with the house of David, saying, Let the LORD even require it at the hand of David’s enemies."
+        },
+        {
+          "verse": 17,
+          "text": "And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul."
+        },
+        {
+          "verse": 18,
+          "text": "Then Jonathan said to David, To morrow is the new moon: and thou shalt be missed, because thy seat will be empty."
+        },
+        {
+          "verse": 19,
+          "text": "And when thou hast stayed three days, then thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was in hand, and shalt remain by the stone Ezel."
+        },
+        {
+          "verse": 20,
+          "text": "And I will shoot three arrows on the side thereof, as though I shot at a mark."
+        },
+        {
+          "verse": 21,
+          "text": "And, behold, I will send a lad, saying, Go, find out the arrows. If I expressly say unto the lad, Behold, the arrows are on this side of thee, take them; then come thou: for there is peace to thee, and no hurt; as the LORD liveth."
+        },
+        {
+          "verse": 22,
+          "text": "But if I say thus unto the young man, Behold, the arrows are beyond thee; go thy way: for the LORD hath sent thee away."
+        },
+        {
+          "verse": 23,
+          "text": "And as touching the matter which thou and I have spoken of, behold, the LORD be between thee and me for ever."
+        },
+        {
+          "verse": 24,
+          "text": "So David hid himself in the field: and when the new moon was come, the king sat him down to eat meat."
+        },
+        {
+          "verse": 25,
+          "text": "And the king sat upon his seat, as at other times, even upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty."
+        },
+        {
+          "verse": 26,
+          "text": "Nevertheless Saul spake not any thing that day: for he thought, Something hath befallen him, he is not clean; surely he is not clean."
+        },
+        {
+          "verse": 27,
+          "text": "And it came to pass on the morrow, which was the second day of the month, that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day?"
+        },
+        {
+          "verse": 28,
+          "text": "And Jonathan answered Saul, David earnestly asked leave of me to go to Bethlehem:"
+        },
+        {
+          "verse": 29,
+          "text": "And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me to be there: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table."
+        },
+        {
+          "verse": 30,
+          "text": "Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness?"
+        },
+        {
+          "verse": 31,
+          "text": "For as long as the son of Jesse liveth upon the ground, thou shalt not be established, nor thy kingdom. Wherefore now send and fetch him unto me, for he shall surely die."
+        },
+        {
+          "verse": 32,
+          "text": "And Jonathan answered Saul his father, and said unto him, Wherefore shall he be slain? what hath he done?"
+        },
+        {
+          "verse": 33,
+          "text": "And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was determined of his father to slay David."
+        },
+        {
+          "verse": 34,
+          "text": "So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame."
+        },
+        {
+          "verse": 35,
+          "text": "And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him."
+        },
+        {
+          "verse": 36,
+          "text": "And he said unto his lad, Run, find out now the arrows which I shoot. And as the lad ran, he shot an arrow beyond him."
+        },
+        {
+          "verse": 37,
+          "text": "And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, Is not the arrow beyond thee?"
+        },
+        {
+          "verse": 38,
+          "text": "And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan’s lad gathered up the arrows, and came to his master."
+        },
+        {
+          "verse": 39,
+          "text": "But the lad knew not any thing: only Jonathan and David knew the matter."
+        },
+        {
+          "verse": 40,
+          "text": "And Jonathan gave his artillery unto his lad, and said unto him, Go, carry them to the city."
+        },
+        {
+          "verse": 41,
+          "text": "And as soon as the lad was gone, David arose out of a place toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded."
+        },
+        {
+          "verse": 42,
+          "text": "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city."
+        }
+      ],
+      "verse_count": 42,
+      "word_count": 1297
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 143,
+      "chapter_title": "Psalms 143",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness."
+        },
+        {
+          "verse": 2,
+          "text": "And enter not into judgment with thy servant: for in thy sight shall no man living be justified."
+        },
+        {
+          "verse": 3,
+          "text": "For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead."
+        },
+        {
+          "verse": 4,
+          "text": "Therefore is my spirit overwhelmed within me; my heart within me is desolate."
+        },
+        {
+          "verse": 5,
+          "text": "I remember the days of old; I meditate on all thy works; I muse on the work of thy hands."
+        },
+        {
+          "verse": 6,
+          "text": "I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah."
+        },
+        {
+          "verse": 7,
+          "text": "Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit."
+        },
+        {
+          "verse": 8,
+          "text": "Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee."
+        },
+        {
+          "verse": 9,
+          "text": "Deliver me, O LORD, from mine enemies: I flee unto thee to hide me."
+        },
+        {
+          "verse": 10,
+          "text": "Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness."
+        },
+        {
+          "verse": 11,
+          "text": "Quicken me, O LORD, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble."
+        },
+        {
+          "verse": 12,
+          "text": "And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 253
+    },
+    {
+      "book": "Hosea",
+      "chapter_number": 2,
+      "chapter_title": "Hosea 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Say ye unto your brethren, Ammi; and to your sisters, Ruhamah."
+        },
+        {
+          "verse": 2,
+          "text": "Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;"
+        },
+        {
+          "verse": 3,
+          "text": "Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst."
+        },
+        {
+          "verse": 4,
+          "text": "And I will not have mercy upon her children; for they be the children of whoredoms."
+        },
+        {
+          "verse": 5,
+          "text": "For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink."
+        },
+        {
+          "verse": 6,
+          "text": "Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths."
+        },
+        {
+          "verse": 7,
+          "text": "And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now."
+        },
+        {
+          "verse": 8,
+          "text": "For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal."
+        },
+        {
+          "verse": 9,
+          "text": "Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness."
+        },
+        {
+          "verse": 10,
+          "text": "And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand."
+        },
+        {
+          "verse": 11,
+          "text": "I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts."
+        },
+        {
+          "verse": 12,
+          "text": "And I will destroy her vines and her fig trees, whereof she hath said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them."
+        },
+        {
+          "verse": 13,
+          "text": "And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her."
+        },
+        {
+          "verse": 15,
+          "text": "And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt."
+        },
+        {
+          "verse": 16,
+          "text": "And it shall be at that day, saith the LORD, that thou shalt call me Ishi; and shalt call me no more Baali."
+        },
+        {
+          "verse": 17,
+          "text": "For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name."
+        },
+        {
+          "verse": 18,
+          "text": "And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely."
+        },
+        {
+          "verse": 19,
+          "text": "And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies."
+        },
+        {
+          "verse": 20,
+          "text": "I will even betroth thee unto me in faithfulness: and thou shalt know the LORD."
+        },
+        {
+          "verse": 21,
+          "text": "And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth;"
+        },
+        {
+          "verse": 22,
+          "text": "And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel."
+        },
+        {
+          "verse": 23,
+          "text": "And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 678
+    },
+    {
+      "book": "1 Thessalonians",
+      "chapter_number": 3,
+      "chapter_title": "1 Thessalonians 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;"
+        },
+        {
+          "verse": 2,
+          "text": "And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:"
+        },
+        {
+          "verse": 3,
+          "text": "That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto."
+        },
+        {
+          "verse": 4,
+          "text": "For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know."
+        },
+        {
+          "verse": 5,
+          "text": "For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain."
+        },
+        {
+          "verse": 6,
+          "text": "But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:"
+        },
+        {
+          "verse": 7,
+          "text": "Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:"
+        },
+        {
+          "verse": 8,
+          "text": "For now we live, if ye stand fast in the Lord."
+        },
+        {
+          "verse": 9,
+          "text": "For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;"
+        },
+        {
+          "verse": 10,
+          "text": "Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?"
+        },
+        {
+          "verse": 11,
+          "text": "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you."
+        },
+        {
+          "verse": 12,
+          "text": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:"
+        },
+        {
+          "verse": 13,
+          "text": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 295
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "day_number": 126,
+  "references": "Joshua 10 • Psalms 84 • Ezekiel 3 • Romans 9",
+  "word_count": 3148,
+  "estimated_minutes": 15,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 84:1",
+    "text": "How amiable are thy tabernacles, O LORD of hosts!",
+    "reflection": "Let this passage feel like lamp light: warm enough to guide, gentle enough to rest in."
+  },
+  "tomorrow_teaser": "Joshua 11 • Psalms 85 • Ezekiel 4 • Romans 10",
+  "chapters": [
+    {
+      "book": "Joshua",
+      "chapter_number": 10,
+      "chapter_title": "Joshua 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now it came to pass, when Adonizedec king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;"
+        },
+        {
+          "verse": 2,
+          "text": "That they feared greatly, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all the men thereof were mighty."
+        },
+        {
+          "verse": 3,
+          "text": "Wherefore Adonizedec king of Jerusalem sent unto Hoham king of Hebron, and unto Piram king of Jarmuth, and unto Japhia king of Lachish, and unto Debir king of Eglon, saying,"
+        },
+        {
+          "verse": 4,
+          "text": "Come up unto me, and help me, that we may smite Gibeon: for it hath made peace with Joshua and with the children of Israel."
+        },
+        {
+          "verse": 5,
+          "text": "Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it."
+        },
+        {
+          "verse": 6,
+          "text": "And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us."
+        },
+        {
+          "verse": 7,
+          "text": "So Joshua ascended from Gilgal, he, and all the people of war with him, and all the mighty men of valour."
+        },
+        {
+          "verse": 8,
+          "text": "And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee."
+        },
+        {
+          "verse": 9,
+          "text": "Joshua therefore came unto them suddenly, and went up from Gilgal all night."
+        },
+        {
+          "verse": 10,
+          "text": "And the LORD discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Bethhoron, and smote them to Azekah, and unto Makkedah."
+        },
+        {
+          "verse": 11,
+          "text": "And it came to pass, as they fled from before Israel, and were in the going down to Bethhoron, that the LORD cast down great stones from heaven upon them unto Azekah, and they died: they were more which died with hailstones than they whom the children of Israel slew with the sword."
+        },
+        {
+          "verse": 12,
+          "text": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon."
+        },
+        {
+          "verse": 13,
+          "text": "And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day."
+        },
+        {
+          "verse": 14,
+          "text": "And there was no day like that before it or after it, that the LORD hearkened unto the voice of a man: for the LORD fought for Israel."
+        },
+        {
+          "verse": 15,
+          "text": "And Joshua returned, and all Israel with him, unto the camp to Gilgal."
+        },
+        {
+          "verse": 16,
+          "text": "But these five kings fled, and hid themselves in a cave at Makkedah."
+        },
+        {
+          "verse": 17,
+          "text": "And it was told Joshua, saying, The five kings are found hid in a cave at Makkedah."
+        },
+        {
+          "verse": 18,
+          "text": "And Joshua said, Roll great stones upon the mouth of the cave, and set men by it for to keep them:"
+        },
+        {
+          "verse": 19,
+          "text": "And stay ye not, but pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the LORD your God hath delivered them into your hand."
+        },
+        {
+          "verse": 20,
+          "text": "And it came to pass, when Joshua and the children of Israel had made an end of slaying them with a very great slaughter, till they were consumed, that the rest which remained of them entered into fenced cities."
+        },
+        {
+          "verse": 21,
+          "text": "And all the people returned to the camp to Joshua at Makkedah in peace: none moved his tongue against any of the children of Israel."
+        },
+        {
+          "verse": 22,
+          "text": "Then said Joshua, Open the mouth of the cave, and bring out those five kings unto me out of the cave."
+        },
+        {
+          "verse": 23,
+          "text": "And they did so, and brought forth those five kings unto him out of the cave, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon."
+        },
+        {
+          "verse": 24,
+          "text": "And it came to pass, when they brought out those kings unto Joshua, that Joshua called for all the men of Israel, and said unto the captains of the men of war which went with him, Come near, put your feet upon the necks of these kings. And they came near, and put their feet upon the necks of them."
+        },
+        {
+          "verse": 25,
+          "text": "And Joshua said unto them, Fear not, nor be dismayed, be strong and of good courage: for thus shall the LORD do to all your enemies against whom ye fight."
+        },
+        {
+          "verse": 26,
+          "text": "And afterward Joshua smote them, and slew them, and hanged them on five trees: and they were hanging upon the trees until the evening."
+        },
+        {
+          "verse": 27,
+          "text": "And it came to pass at the time of the going down of the sun, that Joshua commanded, and they took them down off the trees, and cast them into the cave wherein they had been hid, and laid great stones in the cave’s mouth, which remain until this very day."
+        },
+        {
+          "verse": 28,
+          "text": "And that day Joshua took Makkedah, and smote it with the edge of the sword, and the king thereof he utterly destroyed, them, and all the souls that were therein; he let none remain: and he did to the king of Makkedah as he did unto the king of Jericho."
+        },
+        {
+          "verse": 29,
+          "text": "Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah:"
+        },
+        {
+          "verse": 30,
+          "text": "And the LORD delivered it also, and the king thereof, into the hand of Israel; and he smote it with the edge of the sword, and all the souls that were therein; he let none remain in it; but did unto the king thereof as he did unto the king of Jericho."
+        },
+        {
+          "verse": 31,
+          "text": "And Joshua passed from Libnah, and all Israel with him, unto Lachish, and encamped against it, and fought against it:"
+        },
+        {
+          "verse": 32,
+          "text": "And the LORD delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that were therein, according to all that he had done to Libnah."
+        },
+        {
+          "verse": 33,
+          "text": "Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his people, until he had left him none remaining."
+        },
+        {
+          "verse": 34,
+          "text": "And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:"
+        },
+        {
+          "verse": 35,
+          "text": "And they took it on that day, and smote it with the edge of the sword, and all the souls that were therein he utterly destroyed that day, according to all that he had done to Lachish."
+        },
+        {
+          "verse": 36,
+          "text": "And Joshua went up from Eglon, and all Israel with him, unto Hebron; and they fought against it:"
+        },
+        {
+          "verse": 37,
+          "text": "And they took it, and smote it with the edge of the sword, and the king thereof, and all the cities thereof, and all the souls that were therein; he left none remaining, according to all that he had done to Eglon; but destroyed it utterly, and all the souls that were therein."
+        },
+        {
+          "verse": 38,
+          "text": "And Joshua returned, and all Israel with him, to Debir; and fought against it:"
+        },
+        {
+          "verse": 39,
+          "text": "And he took it, and the king thereof, and all the cities thereof; and they smote them with the edge of the sword, and utterly destroyed all the souls that were therein; he left none remaining: as he had done to Hebron, so he did to Debir, and to the king thereof; as he had done also to Libnah, and to her king."
+        },
+        {
+          "verse": 40,
+          "text": "So Joshua smote all the country of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly destroyed all that breathed, as the LORD God of Israel commanded."
+        },
+        {
+          "verse": 41,
+          "text": "And Joshua smote them from Kadeshbarnea even unto Gaza, and all the country of Goshen, even unto Gibeon."
+        },
+        {
+          "verse": 42,
+          "text": "And all these kings and their land did Joshua take at one time, because the LORD God of Israel fought for Israel."
+        },
+        {
+          "verse": 43,
+          "text": "And Joshua returned, and all Israel with him, unto the camp to Gilgal."
+        }
+      ],
+      "verse_count": 43,
+      "word_count": 1394
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 84,
+      "chapter_title": "Psalms 84",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "How amiable are thy tabernacles, O LORD of hosts!"
+        },
+        {
+          "verse": 2,
+          "text": "My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God."
+        },
+        {
+          "verse": 3,
+          "text": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts, my King, and my God."
+        },
+        {
+          "verse": 4,
+          "text": "Blessed are they that dwell in thy house: they will be still praising thee. Selah."
+        },
+        {
+          "verse": 5,
+          "text": "Blessed is the man whose strength is in thee; in whose heart are the ways of them."
+        },
+        {
+          "verse": 6,
+          "text": "Who passing through the valley of Baca make it a well; the rain also filleth the pools."
+        },
+        {
+          "verse": 7,
+          "text": "They go from strength to strength, every one of them in Zion appeareth before God."
+        },
+        {
+          "verse": 8,
+          "text": "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah."
+        },
+        {
+          "verse": 9,
+          "text": "Behold, O God our shield, and look upon the face of thine anointed."
+        },
+        {
+          "verse": 10,
+          "text": "For a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness."
+        },
+        {
+          "verse": 11,
+          "text": "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly."
+        },
+        {
+          "verse": 12,
+          "text": "O LORD of hosts, blessed is the man that trusteth in thee."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 226
+    },
+    {
+      "book": "Ezekiel",
+      "chapter_number": 3,
+      "chapter_title": "Ezekiel 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel."
+        },
+        {
+          "verse": 2,
+          "text": "So I opened my mouth, and he caused me to eat that roll."
+        },
+        {
+          "verse": 3,
+          "text": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness."
+        },
+        {
+          "verse": 4,
+          "text": "And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them."
+        },
+        {
+          "verse": 5,
+          "text": "For thou art not sent to a people of a strange speech and of an hard language, but to the house of Israel;"
+        },
+        {
+          "verse": 6,
+          "text": "Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee."
+        },
+        {
+          "verse": 7,
+          "text": "But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted."
+        },
+        {
+          "verse": 8,
+          "text": "Behold, I have made thy face strong against their faces, and thy forehead strong against their foreheads."
+        },
+        {
+          "verse": 9,
+          "text": "As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house."
+        },
+        {
+          "verse": 10,
+          "text": "Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears."
+        },
+        {
+          "verse": 11,
+          "text": "And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord GOD; whether they will hear, or whether they will forbear."
+        },
+        {
+          "verse": 12,
+          "text": "Then the spirit took me up, and I heard behind me a voice of a great rushing, saying, Blessed be the glory of the LORD from his place."
+        },
+        {
+          "verse": 13,
+          "text": "I heard also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing."
+        },
+        {
+          "verse": 14,
+          "text": "So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the LORD was strong upon me."
+        },
+        {
+          "verse": 15,
+          "text": "Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days."
+        },
+        {
+          "verse": 16,
+          "text": "And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 17,
+          "text": "Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me."
+        },
+        {
+          "verse": 18,
+          "text": "When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand."
+        },
+        {
+          "verse": 19,
+          "text": "Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul."
+        },
+        {
+          "verse": 20,
+          "text": "Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumbling-block before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand."
+        },
+        {
+          "verse": 21,
+          "text": "Nevertheless if thou warn the righteous man, that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also thou hast delivered thy soul."
+        },
+        {
+          "verse": 22,
+          "text": "And the hand of the LORD was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with thee."
+        },
+        {
+          "verse": 23,
+          "text": "Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river of Chebar: and I fell on my face."
+        },
+        {
+          "verse": 24,
+          "text": "Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within thine house."
+        },
+        {
+          "verse": 25,
+          "text": "But thou, O son of man, behold, they shall put bands upon thee, and shall bind thee with them, and thou shalt not go out among them:"
+        },
+        {
+          "verse": 26,
+          "text": "And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house."
+        },
+        {
+          "verse": 27,
+          "text": "But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 809
+    },
+    {
+      "book": "Romans",
+      "chapter_number": 9,
+      "chapter_title": "Romans 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,"
+        },
+        {
+          "verse": 2,
+          "text": "That I have great heaviness and continual sorrow in my heart."
+        },
+        {
+          "verse": 3,
+          "text": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:"
+        },
+        {
+          "verse": 4,
+          "text": "Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;"
+        },
+        {
+          "verse": 5,
+          "text": "Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen."
+        },
+        {
+          "verse": 6,
+          "text": "Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:"
+        },
+        {
+          "verse": 7,
+          "text": "Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called."
+        },
+        {
+          "verse": 8,
+          "text": "That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed."
+        },
+        {
+          "verse": 9,
+          "text": "For this is the word of promise, At this time will I come, and Sarah shall have a son."
+        },
+        {
+          "verse": 10,
+          "text": "And not only this; but when Rebecca also had conceived by one, even by our father Isaac;"
+        },
+        {
+          "verse": 11,
+          "text": "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)"
+        },
+        {
+          "verse": 12,
+          "text": "It was said unto her, The elder shall serve the younger."
+        },
+        {
+          "verse": 13,
+          "text": "As it is written, Jacob have I loved, but Esau have I hated."
+        },
+        {
+          "verse": 14,
+          "text": "What shall we say then? Is there unrighteousness with God? God forbid."
+        },
+        {
+          "verse": 15,
+          "text": "For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion."
+        },
+        {
+          "verse": 16,
+          "text": "So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy."
+        },
+        {
+          "verse": 17,
+          "text": "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth."
+        },
+        {
+          "verse": 18,
+          "text": "Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth."
+        },
+        {
+          "verse": 19,
+          "text": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?"
+        },
+        {
+          "verse": 20,
+          "text": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?"
+        },
+        {
+          "verse": 21,
+          "text": "Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?"
+        },
+        {
+          "verse": 22,
+          "text": "What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:"
+        },
+        {
+          "verse": 23,
+          "text": "And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,"
+        },
+        {
+          "verse": 24,
+          "text": "Even us, whom he hath called, not of the Jews only, but also of the Gentiles?"
+        },
+        {
+          "verse": 25,
+          "text": "As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved."
+        },
+        {
+          "verse": 26,
+          "text": "And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God."
+        },
+        {
+          "verse": 27,
+          "text": "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:"
+        },
+        {
+          "verse": 28,
+          "text": "For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth."
+        },
+        {
+          "verse": 29,
+          "text": "And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha."
+        },
+        {
+          "verse": 30,
+          "text": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith."
+        },
+        {
+          "verse": 31,
+          "text": "But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness."
+        },
+        {
+          "verse": 32,
+          "text": "Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;"
+        },
+        {
+          "verse": 33,
+          "text": "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed."
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 719
+    }
+  ]
+}

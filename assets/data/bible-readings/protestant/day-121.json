@@ -1,0 +1,528 @@
+{
+  "day_number": 121,
+  "references": "Joshua 5 • Psalms 79 • Lamentations 3 • Romans 4",
+  "word_count": 2253,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 79:7",
+    "text": "For they have devoured Jacob, and laid waste his dwelling place.",
+    "reflection": "Let this verse be the quieter voice that sets the pace for the rest of the day."
+  },
+  "tomorrow_teaser": "Joshua 6 • Psalms 80 • Lamentations 4 • Romans 5",
+  "chapters": [
+    {
+      "book": "Joshua",
+      "chapter_number": 5,
+      "chapter_title": "Joshua 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel."
+        },
+        {
+          "verse": 2,
+          "text": "At that time the LORD said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time."
+        },
+        {
+          "verse": 3,
+          "text": "And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins."
+        },
+        {
+          "verse": 4,
+          "text": "And this is the cause why Joshua did circumcise: All the people that came out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came out of Egypt."
+        },
+        {
+          "verse": 5,
+          "text": "Now all the people that came out were circumcised: but all the people that were born in the wilderness by the way as they came forth out of Egypt, them they had not circumcised."
+        },
+        {
+          "verse": 6,
+          "text": "For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the LORD: unto whom the LORD sware that he would not shew them the land, which the LORD sware unto their fathers that he would give us, a land that floweth with milk and honey."
+        },
+        {
+          "verse": 7,
+          "text": "And their children, whom he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way."
+        },
+        {
+          "verse": 8,
+          "text": "And it came to pass, when they had done circumcising all the people, that they abode in their places in the camp, till they were whole."
+        },
+        {
+          "verse": 9,
+          "text": "And the LORD said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day."
+        },
+        {
+          "verse": 10,
+          "text": "And the children of Israel encamped in Gilgal, and kept the passover on the fourteenth day of the month at even in the plains of Jericho."
+        },
+        {
+          "verse": 11,
+          "text": "And they did eat of the old corn of the land on the morrow after the passover, unleavened cakes, and parched corn in the selfsame day."
+        },
+        {
+          "verse": 12,
+          "text": "And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year."
+        },
+        {
+          "verse": 13,
+          "text": "And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art thou for us, or for our adversaries?"
+        },
+        {
+          "verse": 14,
+          "text": "And he said, Nay; but as captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?"
+        },
+        {
+          "verse": 15,
+          "text": "And the captain of the LORD’s host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so."
+        }
+      ],
+      "verse_count": 15,
+      "word_count": 551
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 79,
+      "chapter_title": "Psalms 79",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O GOD, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps."
+        },
+        {
+          "verse": 2,
+          "text": "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth."
+        },
+        {
+          "verse": 3,
+          "text": "Their blood have they shed like water round about Jerusalem; and there was none to bury them."
+        },
+        {
+          "verse": 4,
+          "text": "We are become a reproach to our neighbours, a scorn and derision to them that are round about us."
+        },
+        {
+          "verse": 5,
+          "text": "How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?"
+        },
+        {
+          "verse": 6,
+          "text": "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name."
+        },
+        {
+          "verse": 7,
+          "text": "For they have devoured Jacob, and laid waste his dwelling place."
+        },
+        {
+          "verse": 8,
+          "text": "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low."
+        },
+        {
+          "verse": 9,
+          "text": "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name’s sake."
+        },
+        {
+          "verse": 10,
+          "text": "Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed."
+        },
+        {
+          "verse": 11,
+          "text": "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;"
+        },
+        {
+          "verse": 12,
+          "text": "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord."
+        },
+        {
+          "verse": 13,
+          "text": "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 278
+    },
+    {
+      "book": "Lamentations",
+      "chapter_number": 3,
+      "chapter_title": "Lamentations 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I AM the man that hath seen affliction by the rod of his wrath."
+        },
+        {
+          "verse": 2,
+          "text": "He hath led me, and brought me into darkness, but not into light."
+        },
+        {
+          "verse": 3,
+          "text": "Surely against me is he turned; he turneth his hand against me all the day."
+        },
+        {
+          "verse": 4,
+          "text": "My flesh and my skin hath he made old; he hath broken my bones."
+        },
+        {
+          "verse": 5,
+          "text": "He hath builded against me, and compassed me with gall and travail."
+        },
+        {
+          "verse": 6,
+          "text": "He hath set me in dark places, as they that be dead of old."
+        },
+        {
+          "verse": 7,
+          "text": "He hath hedged me about, that I cannot get out: he hath made my chain heavy."
+        },
+        {
+          "verse": 8,
+          "text": "Also when I cry and shout, he shutteth out my prayer."
+        },
+        {
+          "verse": 9,
+          "text": "He hath inclosed my ways with hewn stone, he hath made my paths crooked."
+        },
+        {
+          "verse": 10,
+          "text": "He was unto me as a bear lying in wait, and as a lion in secret places."
+        },
+        {
+          "verse": 11,
+          "text": "He hath turned aside my ways, and pulled me in pieces: he hath made me desolate."
+        },
+        {
+          "verse": 12,
+          "text": "He hath bent his bow, and set me as a mark for the arrow."
+        },
+        {
+          "verse": 13,
+          "text": "He hath caused the arrows of his quiver to enter into my reins."
+        },
+        {
+          "verse": 14,
+          "text": "I was a derision to all my people; and their song all the day."
+        },
+        {
+          "verse": 15,
+          "text": "He hath filled me with bitterness, he hath made me drunken with wormwood."
+        },
+        {
+          "verse": 16,
+          "text": "He hath also broken my teeth with gravel stones, he hath covered me with ashes."
+        },
+        {
+          "verse": 17,
+          "text": "And thou hast removed my soul far off from peace: I forgat prosperity."
+        },
+        {
+          "verse": 18,
+          "text": "And I said, My strength and my hope is perished from the LORD:"
+        },
+        {
+          "verse": 19,
+          "text": "Remembering mine affliction and my misery, the wormwood and the gall."
+        },
+        {
+          "verse": 20,
+          "text": "My soul hath them still in remembrance, and is humbled in me."
+        },
+        {
+          "verse": 21,
+          "text": "This I recall to my mind, therefore have I hope."
+        },
+        {
+          "verse": 22,
+          "text": "It is of the LORD’s mercies that we are not consumed, because his compassions fail not."
+        },
+        {
+          "verse": 23,
+          "text": "They are new every morning: great is thy faithfulness."
+        },
+        {
+          "verse": 24,
+          "text": "The LORD is my portion, saith my soul; therefore will I hope in him."
+        },
+        {
+          "verse": 25,
+          "text": "The LORD is good unto them that wait for him, to the soul that seeketh him."
+        },
+        {
+          "verse": 26,
+          "text": "It is good that a man should both hope and quietly wait for the salvation of the LORD."
+        },
+        {
+          "verse": 27,
+          "text": "It is good for a man that he bear the yoke in his youth."
+        },
+        {
+          "verse": 28,
+          "text": "He sitteth alone and keepeth silence, because he hath borne it upon him."
+        },
+        {
+          "verse": 29,
+          "text": "He putteth his mouth in the dust; if so be there may be hope."
+        },
+        {
+          "verse": 30,
+          "text": "He giveth his cheek to him that smiteth him: he is filled full with reproach."
+        },
+        {
+          "verse": 31,
+          "text": "For the LORD will not cast off for ever:"
+        },
+        {
+          "verse": 32,
+          "text": "But though he cause grief, yet will he have compassion according to the multitude of his mercies."
+        },
+        {
+          "verse": 33,
+          "text": "For he doth not afflict willingly nor grieve the children of men."
+        },
+        {
+          "verse": 34,
+          "text": "To crush under his feet all the prisoners of the earth,"
+        },
+        {
+          "verse": 35,
+          "text": "To turn aside the right of a man before the face of the most High,"
+        },
+        {
+          "verse": 36,
+          "text": "To subvert a man in his cause, the LORD approveth not."
+        },
+        {
+          "verse": 37,
+          "text": "Who is he that saith, and it cometh to pass, when the Lord commandeth it not?"
+        },
+        {
+          "verse": 38,
+          "text": "Out of the mouth of the most High proceedeth not evil and good?"
+        },
+        {
+          "verse": 39,
+          "text": "Wherefore doth a living man complain, a man for the punishment of his sins?"
+        },
+        {
+          "verse": 40,
+          "text": "Let us search and try our ways, and turn again to the LORD."
+        },
+        {
+          "verse": 41,
+          "text": "Let us lift up our heart with our hands unto God in the heavens."
+        },
+        {
+          "verse": 42,
+          "text": "We have transgressed and have rebelled: thou hast not pardoned."
+        },
+        {
+          "verse": 43,
+          "text": "Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied."
+        },
+        {
+          "verse": 44,
+          "text": "Thou hast covered thyself with a cloud, that our prayer should not pass through."
+        },
+        {
+          "verse": 45,
+          "text": "Thou hast made us as the offscouring and refuse in the midst of the people."
+        },
+        {
+          "verse": 46,
+          "text": "All our enemies have opened their mouths against us."
+        },
+        {
+          "verse": 47,
+          "text": "Fear and a snare is come upon us, desolation and destruction."
+        },
+        {
+          "verse": 48,
+          "text": "Mine eye runneth down with rivers of water for the destruction of the daughter of my people."
+        },
+        {
+          "verse": 49,
+          "text": "Mine eye trickleth down, and ceaseth not, without any intermission,"
+        },
+        {
+          "verse": 50,
+          "text": "Till the LORD look down, and behold from heaven."
+        },
+        {
+          "verse": 51,
+          "text": "Mine eye affecteth mine heart because of all the daughters of my city."
+        },
+        {
+          "verse": 52,
+          "text": "Mine enemies chased me sore, like a bird, without cause."
+        },
+        {
+          "verse": 53,
+          "text": "They have cut off my life in the dungeon, and cast a stone upon me."
+        },
+        {
+          "verse": 54,
+          "text": "Waters flowed over mine head; then I said, I am cut off."
+        },
+        {
+          "verse": 55,
+          "text": "I called upon thy name, O LORD, out of the low dungeon."
+        },
+        {
+          "verse": 56,
+          "text": "Thou hast heard my voice: hide not thine ear at my breathing, at my cry."
+        },
+        {
+          "verse": 57,
+          "text": "Thou drewest near in the day that I called upon thee: thou saidst, Fear not."
+        },
+        {
+          "verse": 58,
+          "text": "O LORD, thou hast pleaded the causes of my soul; thou hast redeemed my life."
+        },
+        {
+          "verse": 59,
+          "text": "O LORD, thou hast seen my wrong: judge thou my cause."
+        },
+        {
+          "verse": 60,
+          "text": "Thou hast seen all their vengeance and all their imaginations against me."
+        },
+        {
+          "verse": 61,
+          "text": "Thou hast heard their reproach, O LORD, and all their imaginations against me;"
+        },
+        {
+          "verse": 62,
+          "text": "The lips of those that rose up against me, and their device against me all the day."
+        },
+        {
+          "verse": 63,
+          "text": "Behold their sitting down, and their rising up; I am their musick."
+        },
+        {
+          "verse": 64,
+          "text": "Render unto them a recompence, O LORD, according to the work of their hands."
+        },
+        {
+          "verse": 65,
+          "text": "Give them sorrow of heart, thy curse unto them."
+        },
+        {
+          "verse": 66,
+          "text": "Persecute and destroy them in anger from under the heavens of the LORD."
+        }
+      ],
+      "verse_count": 66,
+      "word_count": 877
+    },
+    {
+      "book": "Romans",
+      "chapter_number": 4,
+      "chapter_title": "Romans 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "What shall we say then that Abraham our father, as pertaining to the flesh, hath found?"
+        },
+        {
+          "verse": 2,
+          "text": "For if Abraham were justified by works, he hath whereof to glory; but not before God."
+        },
+        {
+          "verse": 3,
+          "text": "For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness."
+        },
+        {
+          "verse": 4,
+          "text": "Now to him that worketh is the reward not reckoned of grace, but of debt."
+        },
+        {
+          "verse": 5,
+          "text": "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness."
+        },
+        {
+          "verse": 6,
+          "text": "Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,"
+        },
+        {
+          "verse": 7,
+          "text": "Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered."
+        },
+        {
+          "verse": 8,
+          "text": "Blessed is the man to whom the Lord will not impute sin."
+        },
+        {
+          "verse": 9,
+          "text": "Cometh this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness."
+        },
+        {
+          "verse": 10,
+          "text": "How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision."
+        },
+        {
+          "verse": 11,
+          "text": "And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:"
+        },
+        {
+          "verse": 12,
+          "text": "And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised."
+        },
+        {
+          "verse": 13,
+          "text": "For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith."
+        },
+        {
+          "verse": 14,
+          "text": "For if they which are of the law be heirs, faith is made void, and the promise made of none effect:"
+        },
+        {
+          "verse": 15,
+          "text": "Because the law worketh wrath: for where no law is, there is no transgression."
+        },
+        {
+          "verse": 16,
+          "text": "Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,"
+        },
+        {
+          "verse": 17,
+          "text": "(As it is written, I have made thee a father of many nations,) before him whom he believed, even God, who quickeneth the dead, and calleth those things which be not as though they were."
+        },
+        {
+          "verse": 18,
+          "text": "Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall thy seed be."
+        },
+        {
+          "verse": 19,
+          "text": "And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sarah’s womb:"
+        },
+        {
+          "verse": 20,
+          "text": "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;"
+        },
+        {
+          "verse": 21,
+          "text": "And being fully persuaded that, what he had promised, he was able also to perform."
+        },
+        {
+          "verse": 22,
+          "text": "And therefore it was imputed to him for righteousness."
+        },
+        {
+          "verse": 23,
+          "text": "Now it was not written for his sake alone, that it was imputed to him;"
+        },
+        {
+          "verse": 24,
+          "text": "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;"
+        },
+        {
+          "verse": 25,
+          "text": "Who was delivered for our offences, and was raised again for our justification."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 547
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "day_number": 62,
+  "references": "Numbers 6-7 • Psalms 20 • Isaiah 62 • Luke 18",
+  "word_count": 4059,
+  "estimated_minutes": 19,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 20:9",
+    "text": "Save, LORD: let the king hear us when we call.",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "Numbers 8-9 • Psalms 21 • Isaiah 63 • Luke 19",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 6,
+      "chapter_title": "Numbers 6",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD:"
+        },
+        {
+          "verse": 3,
+          "text": "He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried."
+        },
+        {
+          "verse": 4,
+          "text": "All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk."
+        },
+        {
+          "verse": 5,
+          "text": "All the days of the vow of his separation there shall no razor come upon his head: until the days be fulfilled, in the which he separateth himself unto the LORD, he shall be holy, and shall let the locks of the hair of his head grow."
+        },
+        {
+          "verse": 6,
+          "text": "All the days that he separateth himself unto the LORD he shall come at no dead body."
+        },
+        {
+          "verse": 7,
+          "text": "He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is upon his head."
+        },
+        {
+          "verse": 8,
+          "text": "All the days of his separation he is holy unto the LORD."
+        },
+        {
+          "verse": 9,
+          "text": "And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it."
+        },
+        {
+          "verse": 10,
+          "text": "And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation:"
+        },
+        {
+          "verse": 11,
+          "text": "And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day."
+        },
+        {
+          "verse": 12,
+          "text": "And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled."
+        },
+        {
+          "verse": 13,
+          "text": "And this is the law of the Nazarite, when the days of his separation are fulfilled: he shall be brought unto the door of the tabernacle of the congregation:"
+        },
+        {
+          "verse": 14,
+          "text": "And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings,"
+        },
+        {
+          "verse": 15,
+          "text": "And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings."
+        },
+        {
+          "verse": 16,
+          "text": "And the priest shall bring them before the LORD, and shall offer his sin offering, and his burnt offering:"
+        },
+        {
+          "verse": 17,
+          "text": "And he shall offer the ram for a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his meat offering, and his drink offering."
+        },
+        {
+          "verse": 18,
+          "text": "And the Nazarite shall shave the head of his separation at the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put it in the fire which is under the sacrifice of the peace offerings."
+        },
+        {
+          "verse": 19,
+          "text": "And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them upon the hands of the Nazarite, after the hair of his separation is shaven:"
+        },
+        {
+          "verse": 20,
+          "text": "And the priest shall wave them for a wave offering before the LORD: this is holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine."
+        },
+        {
+          "verse": 21,
+          "text": "This is the law of the Nazarite who hath vowed, and of his offering unto the LORD for his separation, beside that that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation."
+        },
+        {
+          "verse": 22,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 23,
+          "text": "Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them,"
+        },
+        {
+          "verse": 24,
+          "text": "The LORD bless thee, and keep thee:"
+        },
+        {
+          "verse": 25,
+          "text": "The LORD make his face shine upon thee, and be gracious unto thee:"
+        },
+        {
+          "verse": 26,
+          "text": "The LORD lift up his countenance upon thee, and give thee peace."
+        },
+        {
+          "verse": 27,
+          "text": "And they shall put my name upon the children of Israel; and I will bless them."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 742
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 7,
+      "chapter_title": "Numbers 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;"
+        },
+        {
+          "verse": 2,
+          "text": "That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered:"
+        },
+        {
+          "verse": 3,
+          "text": "And they brought their offering before the LORD, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle."
+        },
+        {
+          "verse": 4,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 5,
+          "text": "Take it of them, that they may be to do the service of the tabernacle of the congregation; and thou shalt give them unto the Levites, to every man according to his service."
+        },
+        {
+          "verse": 6,
+          "text": "And Moses took the wagons and the oxen, and gave them unto the Levites."
+        },
+        {
+          "verse": 7,
+          "text": "Two wagons and four oxen he gave unto the sons of Gershon, according to their service:"
+        },
+        {
+          "verse": 8,
+          "text": "And four wagons and eight oxen he gave unto the sons of Merari, according unto their service, under the hand of Ithamar the son of Aaron the priest."
+        },
+        {
+          "verse": 9,
+          "text": "But unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them was that they should bear upon their shoulders."
+        },
+        {
+          "verse": 10,
+          "text": "And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar."
+        },
+        {
+          "verse": 11,
+          "text": "And the LORD said unto Moses, They shall offer their offering, each prince on his day, for the dedicating of the altar."
+        },
+        {
+          "verse": 12,
+          "text": "And he that offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah:"
+        },
+        {
+          "verse": 13,
+          "text": "And his offering was one silver charger, the weight thereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 14,
+          "text": "One spoon of ten shekels of gold, full of incense:"
+        },
+        {
+          "verse": 15,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 16,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 17,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nahshon the son of Amminadab."
+        },
+        {
+          "verse": 18,
+          "text": "On the second day Nethaneel the son of Zuar, prince of Issachar, did offer:"
+        },
+        {
+          "verse": 19,
+          "text": "He offered for his offering one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 20,
+          "text": "One spoon of gold of ten shekels, full of incense:"
+        },
+        {
+          "verse": 21,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 22,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 23,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nethaneel the son of Zuar."
+        },
+        {
+          "verse": 24,
+          "text": "On the third day Eliab the son of Helon, prince of the children of Zebulun, did offer:"
+        },
+        {
+          "verse": 25,
+          "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 26,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 27,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 28,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 29,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliab the son of Helon."
+        },
+        {
+          "verse": 30,
+          "text": "On the fourth day Elizur the son of Shedeur, prince of the children of Reuben, did offer:"
+        },
+        {
+          "verse": 31,
+          "text": "His offering was one silver charger of the weight of an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 32,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 33,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 34,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 35,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elizur the son of Shedeur."
+        },
+        {
+          "verse": 36,
+          "text": "On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, did offer:"
+        },
+        {
+          "verse": 37,
+          "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 38,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 39,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 40,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 41,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Shelumiel the son of Zurishaddai."
+        },
+        {
+          "verse": 42,
+          "text": "On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, offered:"
+        },
+        {
+          "verse": 43,
+          "text": "His offering was one silver charger of the weight of an hundred and thirty shekels, a silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 44,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 45,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 46,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 47,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliasaph the son of Deuel."
+        },
+        {
+          "verse": 48,
+          "text": "On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, offered:"
+        },
+        {
+          "verse": 49,
+          "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 50,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 51,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 52,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 53,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elishama the son of Ammihud."
+        },
+        {
+          "verse": 54,
+          "text": "On the eighth day offered Gamaliel the son of Pedahzur, prince of the children of Manasseh:"
+        },
+        {
+          "verse": 55,
+          "text": "His offering was one silver charger of the weight of an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 56,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 57,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 58,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 59,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Gamaliel the son of Pedahzur."
+        },
+        {
+          "verse": 60,
+          "text": "On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered:"
+        },
+        {
+          "verse": 61,
+          "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 62,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 63,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 64,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 65,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Abidan the son of Gideoni."
+        },
+        {
+          "verse": 66,
+          "text": "On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered:"
+        },
+        {
+          "verse": 67,
+          "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 68,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 69,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 70,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 71,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahiezer the son of Ammishaddai."
+        },
+        {
+          "verse": 72,
+          "text": "On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, offered:"
+        },
+        {
+          "verse": 73,
+          "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 74,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 75,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 76,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 77,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Pagiel the son of Ocran."
+        },
+        {
+          "verse": 78,
+          "text": "On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, offered:"
+        },
+        {
+          "verse": 79,
+          "text": "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+          "verse": 80,
+          "text": "One golden spoon of ten shekels, full of incense:"
+        },
+        {
+          "verse": 81,
+          "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+          "verse": 82,
+          "text": "One kid of the goats for a sin offering:"
+        },
+        {
+          "verse": 83,
+          "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahira the son of Enan."
+        },
+        {
+          "verse": 84,
+          "text": "This was the dedication of the altar, in the day when it was anointed, by the princes of Israel: twelve chargers of silver, twelve silver bowls, twelve spoons of gold:"
+        },
+        {
+          "verse": 85,
+          "text": "Each charger of silver weighing an hundred and thirty shekels, each bowl seventy: all the silver vessels weighed two thousand and four hundred shekels, after the shekel of the sanctuary:"
+        },
+        {
+          "verse": 86,
+          "text": "The golden spoons were twelve, full of incense, weighing ten shekels apiece, after the shekel of the sanctuary: all the gold of the spoons was an hundred and twenty shekels."
+        },
+        {
+          "verse": 87,
+          "text": "All the oxen for the burnt offering were twelve bullocks, the rams twelve, the lambs of the first year twelve, with their meat offering: and the kids of the goats for sin offering twelve."
+        },
+        {
+          "verse": 88,
+          "text": "And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed."
+        },
+        {
+          "verse": 89,
+          "text": "And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him."
+        }
+      ],
+      "verse_count": 89,
+      "word_count": 1939
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 20,
+      "chapter_title": "Psalms 20",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;"
+        },
+        {
+          "verse": 2,
+          "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;"
+        },
+        {
+          "verse": 3,
+          "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah."
+        },
+        {
+          "verse": 4,
+          "text": "Grant thee according to thine own heart, and fulfil all thy counsel."
+        },
+        {
+          "verse": 5,
+          "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions."
+        },
+        {
+          "verse": 6,
+          "text": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand."
+        },
+        {
+          "verse": 7,
+          "text": "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God."
+        },
+        {
+          "verse": 8,
+          "text": "They are brought down and fallen: but we are risen, and stand upright."
+        },
+        {
+          "verse": 9,
+          "text": "Save, LORD: let the king hear us when we call."
+        }
+      ],
+      "verse_count": 9,
+      "word_count": 144
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 62,
+      "chapter_title": "Isaiah 62",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth."
+        },
+        {
+          "verse": 2,
+          "text": "And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the LORD shall name."
+        },
+        {
+          "verse": 3,
+          "text": "Thou shalt also be a crown of glory in the hand of the LORD, and a royal diadem in the hand of thy God."
+        },
+        {
+          "verse": 4,
+          "text": "Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzibah, and thy land Beulah: for the LORD delighteth in thee, and thy land shall be married."
+        },
+        {
+          "verse": 5,
+          "text": "For as a young man marrieth a virgin, so shall thy sons marry thee: and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee."
+        },
+        {
+          "verse": 6,
+          "text": "I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the LORD, keep not silence,"
+        },
+        {
+          "verse": 7,
+          "text": "And give him no rest, till he establish, and till he make Jerusalem a praise in the earth."
+        },
+        {
+          "verse": 8,
+          "text": "The LORD hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn to be meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:"
+        },
+        {
+          "verse": 9,
+          "text": "But they that have gathered it shall eat it, and praise the LORD; and they that have brought it together shall drink it in the courts of my holiness."
+        },
+        {
+          "verse": 10,
+          "text": "Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people."
+        },
+        {
+          "verse": 11,
+          "text": "Behold, the LORD hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his work before him."
+        },
+        {
+          "verse": 12,
+          "text": "And they shall call them, The holy people, The redeemed of the LORD: and thou shalt be called, Sought out, A city not forsaken."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 364
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 18,
+      "chapter_title": "Luke 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And he spake a parable unto them to this end, that men ought always to pray, and not to faint;"
+        },
+        {
+          "verse": 2,
+          "text": "Saying, There was in a city a judge, which feared not God, neither regarded man:"
+        },
+        {
+          "verse": 3,
+          "text": "And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary."
+        },
+        {
+          "verse": 4,
+          "text": "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;"
+        },
+        {
+          "verse": 5,
+          "text": "Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me."
+        },
+        {
+          "verse": 6,
+          "text": "And the Lord said, Hear what the unjust judge saith."
+        },
+        {
+          "verse": 7,
+          "text": "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?"
+        },
+        {
+          "verse": 8,
+          "text": "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?"
+        },
+        {
+          "verse": 9,
+          "text": "And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:"
+        },
+        {
+          "verse": 10,
+          "text": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican."
+        },
+        {
+          "verse": 11,
+          "text": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican."
+        },
+        {
+          "verse": 12,
+          "text": "I fast twice in the week, I give tithes of all that I possess."
+        },
+        {
+          "verse": 13,
+          "text": "And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner."
+        },
+        {
+          "verse": 14,
+          "text": "I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted."
+        },
+        {
+          "verse": 15,
+          "text": "And they brought unto him also infants, that he would touch them: but when his disciples saw it, they rebuked them."
+        },
+        {
+          "verse": 16,
+          "text": "But Jesus called them unto him, and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God."
+        },
+        {
+          "verse": 17,
+          "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein."
+        },
+        {
+          "verse": 18,
+          "text": "And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?"
+        },
+        {
+          "verse": 19,
+          "text": "And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God."
+        },
+        {
+          "verse": 20,
+          "text": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother."
+        },
+        {
+          "verse": 21,
+          "text": "And he said, All these have I kept from my youth up."
+        },
+        {
+          "verse": 22,
+          "text": "Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me."
+        },
+        {
+          "verse": 23,
+          "text": "And when he heard this, he was very sorrowful: for he was very rich."
+        },
+        {
+          "verse": 24,
+          "text": "And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!"
+        },
+        {
+          "verse": 25,
+          "text": "For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God."
+        },
+        {
+          "verse": 26,
+          "text": "And they that heard it said, Who then can be saved?"
+        },
+        {
+          "verse": 27,
+          "text": "And he said, The things which are impossible with men are possible with God."
+        },
+        {
+          "verse": 28,
+          "text": "Then Peter said, Lo, we have left all, and followed thee."
+        },
+        {
+          "verse": 29,
+          "text": "And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God’s sake,"
+        },
+        {
+          "verse": 30,
+          "text": "Who shall not receive manifold more in this present time, and in the world to come life everlasting."
+        },
+        {
+          "verse": 31,
+          "text": "Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished."
+        },
+        {
+          "verse": 32,
+          "text": "For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:"
+        },
+        {
+          "verse": 33,
+          "text": "And they shall scourge him, and put him to death: and the third day he shall rise again."
+        },
+        {
+          "verse": 34,
+          "text": "And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken."
+        },
+        {
+          "verse": 35,
+          "text": "And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:"
+        },
+        {
+          "verse": 36,
+          "text": "And hearing the multitude pass by, he asked what it meant."
+        },
+        {
+          "verse": 37,
+          "text": "And they told him, that Jesus of Nazareth passeth by."
+        },
+        {
+          "verse": 38,
+          "text": "And he cried, saying, Jesus, thou son of David, have mercy on me."
+        },
+        {
+          "verse": 39,
+          "text": "And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou son of David, have mercy on me."
+        },
+        {
+          "verse": 40,
+          "text": "And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,"
+        },
+        {
+          "verse": 41,
+          "text": "Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight."
+        },
+        {
+          "verse": 42,
+          "text": "And Jesus said unto him, Receive thy sight: thy faith hath saved thee."
+        },
+        {
+          "verse": 43,
+          "text": "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God."
+        }
+      ],
+      "verse_count": 43,
+      "word_count": 870
+    }
+  ]
+}

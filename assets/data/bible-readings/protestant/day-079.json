@@ -1,0 +1,772 @@
+{
+  "day_number": 79,
+  "references": "Numbers 33 • Psalms 37 • Jeremiah 13 • John 11",
+  "word_count": 3529,
+  "estimated_minutes": 17,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 37:27",
+    "text": "Depart from evil, and do good; and dwell for evermore.",
+    "reflection": "Read it without rushing. The comfort is in the staying, not the sprinting."
+  },
+  "tomorrow_teaser": "Numbers 34 • Psalms 38 • Jeremiah 14 • John 12",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 33,
+      "chapter_title": "Numbers 33",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron."
+        },
+        {
+          "verse": 2,
+          "text": "And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out."
+        },
+        {
+          "verse": 3,
+          "text": "And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians."
+        },
+        {
+          "verse": 4,
+          "text": "For the Egyptians buried all their firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments."
+        },
+        {
+          "verse": 5,
+          "text": "And the children of Israel removed from Rameses, and pitched in Succoth."
+        },
+        {
+          "verse": 6,
+          "text": "And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness."
+        },
+        {
+          "verse": 7,
+          "text": "And they removed from Etham, and turned again unto Pihahiroth, which is before Baalzephon: and they pitched before Migdol."
+        },
+        {
+          "verse": 8,
+          "text": "And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah."
+        },
+        {
+          "verse": 9,
+          "text": "And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there."
+        },
+        {
+          "verse": 10,
+          "text": "And they removed from Elim, and encamped by the Red sea."
+        },
+        {
+          "verse": 11,
+          "text": "And they removed from the Red sea, and encamped in the wilderness of Sin."
+        },
+        {
+          "verse": 12,
+          "text": "And they took their journey out of the wilderness of Sin, and encamped in Dophkah."
+        },
+        {
+          "verse": 13,
+          "text": "And they departed from Dophkah, and encamped in Alush."
+        },
+        {
+          "verse": 14,
+          "text": "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink."
+        },
+        {
+          "verse": 15,
+          "text": "And they departed from Rephidim, and pitched in the wilderness of Sinai."
+        },
+        {
+          "verse": 16,
+          "text": "And they removed from the desert of Sinai, and pitched at Kibrothhattaavah."
+        },
+        {
+          "verse": 17,
+          "text": "And they departed from Kibrothhattaavah, and encamped at Hazeroth."
+        },
+        {
+          "verse": 18,
+          "text": "And they departed from Hazeroth, and pitched in Rithmah."
+        },
+        {
+          "verse": 19,
+          "text": "And they departed from Rithmah, and pitched at Rimmonparez."
+        },
+        {
+          "verse": 20,
+          "text": "And they departed from Rimmonparez, and pitched in Libnah."
+        },
+        {
+          "verse": 21,
+          "text": "And they removed from Libnah, and pitched at Rissah."
+        },
+        {
+          "verse": 22,
+          "text": "And they journeyed from Rissah, and pitched in Kehelathah."
+        },
+        {
+          "verse": 23,
+          "text": "And they went from Kehelathah, and pitched in mount Shapher."
+        },
+        {
+          "verse": 24,
+          "text": "And they removed from mount Shapher, and encamped in Haradah."
+        },
+        {
+          "verse": 25,
+          "text": "And they removed from Haradah, and pitched in Makheloth."
+        },
+        {
+          "verse": 26,
+          "text": "And they removed from Makheloth, and encamped at Tahath."
+        },
+        {
+          "verse": 27,
+          "text": "And they departed from Tahath, and pitched at Tarah."
+        },
+        {
+          "verse": 28,
+          "text": "And they removed from Tarah, and pitched in Mithcah."
+        },
+        {
+          "verse": 29,
+          "text": "And they went from Mithcah, and pitched in Hashmonah."
+        },
+        {
+          "verse": 30,
+          "text": "And they departed from Hashmonah, and encamped at Moseroth."
+        },
+        {
+          "verse": 31,
+          "text": "And they departed from Moseroth, and pitched in Benejaakan."
+        },
+        {
+          "verse": 32,
+          "text": "And they removed from Benejaakan, and encamped at Horhagidgad."
+        },
+        {
+          "verse": 33,
+          "text": "And they went from Horhagidgad, and pitched in Jotbathah."
+        },
+        {
+          "verse": 34,
+          "text": "And they removed from Jotbathah, and encamped at Ebronah."
+        },
+        {
+          "verse": 35,
+          "text": "And they departed from Ebronah, and encamped at Eziongaber."
+        },
+        {
+          "verse": 36,
+          "text": "And they removed from Eziongaber, and pitched in the wilderness of Zin, which is Kadesh."
+        },
+        {
+          "verse": 37,
+          "text": "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom."
+        },
+        {
+          "verse": 38,
+          "text": "And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month."
+        },
+        {
+          "verse": 39,
+          "text": "And Aaron was an hundred and twenty and three years old when he died in mount Hor."
+        },
+        {
+          "verse": 40,
+          "text": "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel."
+        },
+        {
+          "verse": 41,
+          "text": "And they departed from mount Hor, and pitched in Zalmonah."
+        },
+        {
+          "verse": 42,
+          "text": "And they departed from Zalmonah, and pitched in Punon."
+        },
+        {
+          "verse": 43,
+          "text": "And they departed from Punon, and pitched in Oboth."
+        },
+        {
+          "verse": 44,
+          "text": "And they departed from Oboth, and pitched in Ijeabarim, in the border of Moab."
+        },
+        {
+          "verse": 45,
+          "text": "And they departed from Iim, and pitched in Dibongad."
+        },
+        {
+          "verse": 46,
+          "text": "And they removed from Dibongad, and encamped in Almondiblathaim."
+        },
+        {
+          "verse": 47,
+          "text": "And they removed from Almondiblathaim, and pitched in the mountains of Abarim, before Nebo."
+        },
+        {
+          "verse": 48,
+          "text": "And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho."
+        },
+        {
+          "verse": 49,
+          "text": "And they pitched by Jordan, from Bethjesimoth even unto Abelshittim in the plains of Moab."
+        },
+        {
+          "verse": 50,
+          "text": "And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,"
+        },
+        {
+          "verse": 51,
+          "text": "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;"
+        },
+        {
+          "verse": 52,
+          "text": "Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:"
+        },
+        {
+          "verse": 53,
+          "text": "And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it."
+        },
+        {
+          "verse": 54,
+          "text": "And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit."
+        },
+        {
+          "verse": 55,
+          "text": "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell."
+        },
+        {
+          "verse": 56,
+          "text": "Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them."
+        }
+      ],
+      "verse_count": 56,
+      "word_count": 929
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 37,
+      "chapter_title": "Psalms 37",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity."
+        },
+        {
+          "verse": 2,
+          "text": "For they shall soon be cut down like the grass, and wither as the green herb."
+        },
+        {
+          "verse": 3,
+          "text": "Trust in the LORD, and do good; so shalt thou dwell in the land, and verily thou shalt be fed."
+        },
+        {
+          "verse": 4,
+          "text": "Delight thyself also in the LORD: and he shall give thee the desires of thine heart."
+        },
+        {
+          "verse": 5,
+          "text": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass."
+        },
+        {
+          "verse": 6,
+          "text": "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday."
+        },
+        {
+          "verse": 7,
+          "text": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass."
+        },
+        {
+          "verse": 8,
+          "text": "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil."
+        },
+        {
+          "verse": 9,
+          "text": "For evildoers shall be cut off: but those that wait upon the LORD, they shall inherit the earth."
+        },
+        {
+          "verse": 10,
+          "text": "For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be."
+        },
+        {
+          "verse": 11,
+          "text": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace."
+        },
+        {
+          "verse": 12,
+          "text": "The wicked plotteth against the just, and gnasheth upon him with his teeth."
+        },
+        {
+          "verse": 13,
+          "text": "The LORD shall laugh at him: for he seeth that his day is coming."
+        },
+        {
+          "verse": 14,
+          "text": "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation."
+        },
+        {
+          "verse": 15,
+          "text": "Their sword shall enter into their own heart, and their bows shall be broken."
+        },
+        {
+          "verse": 16,
+          "text": "A little that a righteous man hath is better than the riches of many wicked."
+        },
+        {
+          "verse": 17,
+          "text": "For the arms of the wicked shall be broken: but the LORD upholdeth the righteous."
+        },
+        {
+          "verse": 18,
+          "text": "The LORD knoweth the days of the upright: and their inheritance shall be for ever."
+        },
+        {
+          "verse": 19,
+          "text": "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied."
+        },
+        {
+          "verse": 20,
+          "text": "But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away."
+        },
+        {
+          "verse": 21,
+          "text": "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth."
+        },
+        {
+          "verse": 22,
+          "text": "For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off."
+        },
+        {
+          "verse": 23,
+          "text": "The steps of a good man are ordered by the LORD: and he delighteth in his way."
+        },
+        {
+          "verse": 24,
+          "text": "Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand."
+        },
+        {
+          "verse": 25,
+          "text": "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread."
+        },
+        {
+          "verse": 26,
+          "text": "He is ever merciful, and lendeth; and his seed is blessed."
+        },
+        {
+          "verse": 27,
+          "text": "Depart from evil, and do good; and dwell for evermore."
+        },
+        {
+          "verse": 28,
+          "text": "For the LORD loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off."
+        },
+        {
+          "verse": 29,
+          "text": "The righteous shall inherit the land, and dwell therein for ever."
+        },
+        {
+          "verse": 30,
+          "text": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment."
+        },
+        {
+          "verse": 31,
+          "text": "The law of his God is in his heart; none of his steps shall slide."
+        },
+        {
+          "verse": 32,
+          "text": "The wicked watcheth the righteous, and seeketh to slay him."
+        },
+        {
+          "verse": 33,
+          "text": "The LORD will not leave him in his hand, nor condemn him when he is judged."
+        },
+        {
+          "verse": 34,
+          "text": "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it."
+        },
+        {
+          "verse": 35,
+          "text": "I have seen the wicked in great power, and spreading himself like a green bay tree."
+        },
+        {
+          "verse": 36,
+          "text": "Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found."
+        },
+        {
+          "verse": 37,
+          "text": "Mark the perfect man, and behold the upright: for the end of that man is peace."
+        },
+        {
+          "verse": 38,
+          "text": "But the transgressors shall be destroyed together: the end of the wicked shall be cut off."
+        },
+        {
+          "verse": 39,
+          "text": "But the salvation of the righteous is of the LORD: he is their strength in the time of trouble."
+        },
+        {
+          "verse": 40,
+          "text": "And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him."
+        }
+      ],
+      "verse_count": 40,
+      "word_count": 702
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 13,
+      "chapter_title": "Jeremiah 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Thus saith the LORD unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water."
+        },
+        {
+          "verse": 2,
+          "text": "So I got a girdle according to the word of the LORD, and put it on my loins."
+        },
+        {
+          "verse": 3,
+          "text": "And the word of the LORD came unto me the second time, saying,"
+        },
+        {
+          "verse": 4,
+          "text": "Take the girdle that thou hast got, which is upon thy loins, and arise, go to Euphrates, and hide it there in a hole of the rock."
+        },
+        {
+          "verse": 5,
+          "text": "So I went, and hid it by Euphrates, as the LORD commanded me."
+        },
+        {
+          "verse": 6,
+          "text": "And it came to pass after many days, that the LORD said unto me, Arise, go to Euphrates, and take the girdle from thence, which I commanded thee to hide there."
+        },
+        {
+          "verse": 7,
+          "text": "Then I went to Euphrates, and digged, and took the girdle from the place where I had hid it: and, behold, the girdle was marred, it was profitable for nothing."
+        },
+        {
+          "verse": 8,
+          "text": "Then the word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 9,
+          "text": "Thus saith the LORD, After this manner will I mar the pride of Judah, and the great pride of Jerusalem."
+        },
+        {
+          "verse": 10,
+          "text": "This evil people, which refuse to hear my words, which walk in the imagination of their heart, and walk after other gods, to serve them, and to worship them, shall even be as this girdle, which is good for nothing."
+        },
+        {
+          "verse": 11,
+          "text": "For as the girdle cleaveth to the loins of a man, so have I caused to cleave unto me the whole house of Israel and the whole house of Judah, saith the LORD; that they might be unto me for a people, and for a name, and for a praise, and for a glory: but they would not hear."
+        },
+        {
+          "verse": 12,
+          "text": "Therefore thou shalt speak unto them this word; Thus saith the LORD God of Israel, Every bottle shall be filled with wine: and they shall say unto thee, Do we not certainly know that every bottle shall be filled with wine?"
+        },
+        {
+          "verse": 13,
+          "text": "Then shalt thou say unto them, Thus saith the LORD, Behold, I will fill all the inhabitants of this land, even the kings that sit upon David’s throne, and the priests, and the prophets, and all the inhabitants of Jerusalem, with drunkenness."
+        },
+        {
+          "verse": 14,
+          "text": "And I will dash them one against another, even the fathers and the sons together, saith the LORD: I will not pity, nor spare, nor have mercy, but destroy them."
+        },
+        {
+          "verse": 15,
+          "text": "Hear ye, and give ear; be not proud: for the LORD hath spoken."
+        },
+        {
+          "verse": 16,
+          "text": "Give glory to the LORD your God, before he cause darkness, and before your feet stumble upon the dark mountains, and, while ye look for light, he turn it into the shadow of death, and make it gross darkness."
+        },
+        {
+          "verse": 17,
+          "text": "But if ye will not hear it, my soul shall weep in secret places for your pride; and mine eye shall weep sore, and run down with tears, because the LORD’s flock is carried away captive."
+        },
+        {
+          "verse": 18,
+          "text": "Say unto the king and to the queen, Humble yourselves, sit down: for your principalities shall come down, even the crown of your glory."
+        },
+        {
+          "verse": 19,
+          "text": "The cities of the south shall be shut up, and none shall open them: Judah shall be carried away captive all of it, it shall be wholly carried away captive."
+        },
+        {
+          "verse": 20,
+          "text": "Lift up your eyes, and behold them that come from the north: where is the flock that was given thee, thy beautiful flock?"
+        },
+        {
+          "verse": 21,
+          "text": "What wilt thou say when he shall punish thee? for thou hast taught them to be captains, and as chief over thee: shall not sorrows take thee, as a woman in travail?"
+        },
+        {
+          "verse": 22,
+          "text": "And if thou say in thine heart, Wherefore come these things upon me? For the greatness of thine iniquity are thy skirts discovered, and thy heels made bare."
+        },
+        {
+          "verse": 23,
+          "text": "Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are accustomed to do evil."
+        },
+        {
+          "verse": 24,
+          "text": "Therefore will I scatter them as the stubble that passeth away by the wind of the wilderness."
+        },
+        {
+          "verse": 25,
+          "text": "This is thy lot, the portion of thy measures from me, saith the LORD; because thou hast forgotten me, and trusted in falsehood."
+        },
+        {
+          "verse": 26,
+          "text": "Therefore will I discover thy skirts upon thy face, that thy shame may appear."
+        },
+        {
+          "verse": 27,
+          "text": "I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, and thine abominations on the hills in the fields. Woe unto thee, O Jerusalem! wilt thou not be made clean? when shall it once be?"
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 741
+    },
+    {
+      "book": "John",
+      "chapter_number": 11,
+      "chapter_title": "John 11",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha."
+        },
+        {
+          "verse": 2,
+          "text": "(It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)"
+        },
+        {
+          "verse": 3,
+          "text": "Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick."
+        },
+        {
+          "verse": 4,
+          "text": "When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby."
+        },
+        {
+          "verse": 5,
+          "text": "Now Jesus loved Martha, and her sister, and Lazarus."
+        },
+        {
+          "verse": 6,
+          "text": "When he had heard therefore that he was sick, he abode two days still in the same place where he was."
+        },
+        {
+          "verse": 7,
+          "text": "Then after that saith he to his disciples, Let us go into Judaea again."
+        },
+        {
+          "verse": 8,
+          "text": "His disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?"
+        },
+        {
+          "verse": 9,
+          "text": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world."
+        },
+        {
+          "verse": 10,
+          "text": "But if a man walk in the night, he stumbleth, because there is no light in him."
+        },
+        {
+          "verse": 11,
+          "text": "These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep."
+        },
+        {
+          "verse": 12,
+          "text": "Then said his disciples, Lord, if he sleep, he shall do well."
+        },
+        {
+          "verse": 13,
+          "text": "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep."
+        },
+        {
+          "verse": 14,
+          "text": "Then said Jesus unto them plainly, Lazarus is dead."
+        },
+        {
+          "verse": 15,
+          "text": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him."
+        },
+        {
+          "verse": 16,
+          "text": "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him."
+        },
+        {
+          "verse": 17,
+          "text": "Then when Jesus came, he found that he had lain in the grave four days already."
+        },
+        {
+          "verse": 18,
+          "text": "Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:"
+        },
+        {
+          "verse": 19,
+          "text": "And many of the Jews came to Martha and Mary, to comfort them concerning their brother."
+        },
+        {
+          "verse": 20,
+          "text": "Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house."
+        },
+        {
+          "verse": 21,
+          "text": "Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died."
+        },
+        {
+          "verse": 22,
+          "text": "But I know, that even now, whatsoever thou wilt ask of God, God will give it thee."
+        },
+        {
+          "verse": 23,
+          "text": "Jesus saith unto her, Thy brother shall rise again."
+        },
+        {
+          "verse": 24,
+          "text": "Martha saith unto him, I know that he shall rise again in the resurrection at the last day."
+        },
+        {
+          "verse": 25,
+          "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:"
+        },
+        {
+          "verse": 26,
+          "text": "And whosoever liveth and believeth in me shall never die. Believest thou this?"
+        },
+        {
+          "verse": 27,
+          "text": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world."
+        },
+        {
+          "verse": 28,
+          "text": "And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee."
+        },
+        {
+          "verse": 29,
+          "text": "As soon as she heard that, she arose quickly, and came unto him."
+        },
+        {
+          "verse": 30,
+          "text": "Now Jesus was not yet come into the town, but was in that place where Martha met him."
+        },
+        {
+          "verse": 31,
+          "text": "The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there."
+        },
+        {
+          "verse": 32,
+          "text": "Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died."
+        },
+        {
+          "verse": 33,
+          "text": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,"
+        },
+        {
+          "verse": 34,
+          "text": "And said, Where have ye laid him? They said unto him, Lord, come and see."
+        },
+        {
+          "verse": 35,
+          "text": "Jesus wept."
+        },
+        {
+          "verse": 36,
+          "text": "Then said the Jews, Behold how he loved him!"
+        },
+        {
+          "verse": 37,
+          "text": "And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?"
+        },
+        {
+          "verse": 38,
+          "text": "Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it."
+        },
+        {
+          "verse": 39,
+          "text": "Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been dead four days."
+        },
+        {
+          "verse": 40,
+          "text": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?"
+        },
+        {
+          "verse": 41,
+          "text": "Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me."
+        },
+        {
+          "verse": 42,
+          "text": "And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me."
+        },
+        {
+          "verse": 43,
+          "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth."
+        },
+        {
+          "verse": 44,
+          "text": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go."
+        },
+        {
+          "verse": 45,
+          "text": "Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him."
+        },
+        {
+          "verse": 46,
+          "text": "But some of them went their ways to the Pharisees, and told them what things Jesus had done."
+        },
+        {
+          "verse": 47,
+          "text": "Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles."
+        },
+        {
+          "verse": 48,
+          "text": "If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation."
+        },
+        {
+          "verse": 49,
+          "text": "And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,"
+        },
+        {
+          "verse": 50,
+          "text": "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not."
+        },
+        {
+          "verse": 51,
+          "text": "And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;"
+        },
+        {
+          "verse": 52,
+          "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad."
+        },
+        {
+          "verse": 53,
+          "text": "Then from that day forth they took counsel together for to put him to death."
+        },
+        {
+          "verse": 54,
+          "text": "Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples."
+        },
+        {
+          "verse": 55,
+          "text": "And the Jews’ passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves."
+        },
+        {
+          "verse": 56,
+          "text": "Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?"
+        },
+        {
+          "verse": 57,
+          "text": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him."
+        }
+      ],
+      "verse_count": 57,
+      "word_count": 1157
+    }
+  ]
+}

@@ -1,47 +1,50 @@
-# ShadowFetch News
+# Shadowfetch: Bible Edition
 
-ShadowFetch News is a newspaper-style digital newsroom built for fast reads, broad coverage, and source-first linking.
-It combines a print-inspired front page with generated section pages, topic hubs, searchable archives, editorial briefs,
-and a lightweight journal for original writing.
+Shadowfetch: Bible Edition repurposes `shadowfetch.com` into a calm daily Bible-reading companion built around Psalm 91:1:
 
-Live site: [www.shadowfetch.com](https://www.shadowfetch.com)
+> He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.
 
-## What it is
+The site keeps the newspaper-style layout language from the old Shadowfetch build, but the content flow is now devotional:
 
-- A multi-page news site with a front page, live wire, desks, topics, archive, and journal
-- A source-first reading experience where headlines can send readers to the original publisher
-- A Cloudflare-ready newsroom with prepared content and a few dynamic endpoints
-- A project designed to feel nostalgic and editorial, not like a generic feed dashboard
+- daily complete-chapter readings
+- canon choice for Protestant or Roman Catholic readers
+- signup and preference storage through Cloudflare D1
+- a PWA-friendly reading experience
+- a searchable archive and year calendar
+- optional daily email delivery plumbing
 
-## Highlights
+## Product shape
 
-- 1950s-inspired newspaper presentation with clickable digital articles
-- Generated section pages for world, politics, business, technology, sports, entertainment, health, science, and more
-- Topic hubs, source profiles, coverage clusters, and internal story briefs
-- Searchable archive and dated archive pages
-- Markdown-backed journal for original posts
-- Top-of-page social links and on-site visitor counter
-- Cloudflare Pages deployment with Functions and optional D1-backed counter storage
+- `/` presents the daily reading and signup card
+- `/bible/` is the focused reading page
+- `/calendar/` shows the year plan and progress-friendly calendar
+- `/archive/` exposes all 365 reading days
+- `/settings/` lets readers update canon/start-date/email choices
+- `/signup/` is the standalone onboarding page
 
-## Project structure
+## Data model
 
-- `index.html`: front page
-- `latest/index.html`: late-breaking wire
-- `sections/`: desk landing pages
-- `topics/`: topic hubs
-- `sources/`: source profiles
-- `briefs/`: generated story brief pages
-- `coverage/`: grouped developing-story pages
-- `archive/`: dated archive pages
-- `journal/`: published original writing
-- `content/journal/`: markdown source for journal posts
-- `assets/styles.css`: shared visual system
-- `assets/app.js`: client-side enhancements, search, filters, social links, counter behavior
-- `assets/data/feed-config.json`: feed and desk configuration
-- `scripts/build_feed.py`: fetches and prepares feed data
-- `scripts/build_pages.py`: generates the HTML site and search index
-- `scripts/build_dist.py`: prepares the Cloudflare deployment bundle
-- `functions/api/`: Cloudflare Pages Functions for runtime APIs
+The build process bundles two public-domain scripture sources:
+
+- Protestant plan: King James Version
+- Catholic plan: Douay-Rheims
+
+The generator precomputes:
+
+- a 365-day reading plan for each canon
+- daily quote/reflection snippets
+- per-day reading payloads under `assets/data/bible-readings/`
+- the main summary payload at `assets/data/bible-edition.json`
+
+## Runtime
+
+Cloudflare Pages Functions provide:
+
+- `/api/day` for personalized day lookups
+- `/api/signup` for storing reader preferences
+- `/api/progress` for read-state persistence
+- `/api/send-devotionals` for daily email delivery batches
+- `/api/meta` for health checks and freshness reporting
 
 ## Local development
 
@@ -56,13 +59,13 @@ Install dependencies:
 npm install
 ```
 
-Build the newsroom:
+Build the site:
 
 ```bash
 npm run build
 ```
 
-Run it locally with Cloudflare Pages:
+Run it locally:
 
 ```bash
 npm run dev
@@ -70,30 +73,21 @@ npm run dev
 
 ## Deployment
 
-ShadowFetch News is built for Cloudflare Pages.
+The production site is deployed on Cloudflare Pages using the `shadowfetch` Pages project.
 
-- Pushes to `main` can deploy through GitHub Actions
-- The scheduled workflow refreshes feed data twice an hour
-- Cloudflare Functions power runtime routes like `/api/visit`, `/api/meta`, and `/api/latest`
-- D1 can store the visitor counter on your own stack, with fallback support already in place
-
-Repository secrets needed for automated deployment:
+Required secrets:
 
 - `CLOUDFLARE_API_TOKEN`
 - `CLOUDFLARE_ACCOUNT_ID`
 
-More details: [Cloudflare migration notes](docs/cloudflare-migration.md)
+Optional runtime secrets for daily emails:
 
-## Writing and publishing
+- `RESEND_API_KEY`
+- `RESEND_FROM`
+- `CRON_SECRET`
 
-Journal entries live in `content/journal/` as markdown files.
-The site generator turns them into published pages under `journal/`.
+## Support
 
-## Contributing
+Bible text remains free on the web and in email. The only monetization is a voluntary support link:
 
-Contributions are welcome.
-Start with [CONTRIBUTING.md](CONTRIBUTING.md) for workflow and content guidelines.
-
-## Security
-
-If you find a security issue, please follow [SECURITY.md](SECURITY.md) instead of opening a public issue.
+- [Buy Me a Coffee](https://www.buymeacoffee.com/shadowfetch)

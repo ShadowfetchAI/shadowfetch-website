@@ -1,0 +1,513 @@
+{
+  "day_number": 54,
+  "references": "Leviticus 17-18 • Psalms 12 • Isaiah 54 • Luke 10",
+  "word_count": 2869,
+  "estimated_minutes": 14,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 12:8",
+    "text": "The wicked walk on every side, when the vilest men are exalted.",
+    "reflection": "Let this passage feel like lamp light: warm enough to guide, gentle enough to rest in."
+  },
+  "tomorrow_teaser": "Leviticus 19-20 • Psalms 13 • Isaiah 55 • Luke 11",
+  "chapters": [
+    {
+      "book": "Leviticus",
+      "chapter_number": 17,
+      "chapter_title": "Leviticus 17",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying,"
+        },
+        {
+          "verse": 3,
+          "text": "What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp,"
+        },
+        {
+          "verse": 4,
+          "text": "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:"
+        },
+        {
+          "verse": 5,
+          "text": "To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the LORD, unto the door of the tabernacle of the congregation, unto the priest, and offer them for peace offerings unto the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "And the priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations."
+        },
+        {
+          "verse": 8,
+          "text": "And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,"
+        },
+        {
+          "verse": 9,
+          "text": "And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the LORD; even that man shall be cut off from among his people."
+        },
+        {
+          "verse": 10,
+          "text": "And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people."
+        },
+        {
+          "verse": 11,
+          "text": "For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul."
+        },
+        {
+          "verse": 12,
+          "text": "Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood."
+        },
+        {
+          "verse": 13,
+          "text": "And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust."
+        },
+        {
+          "verse": 14,
+          "text": "For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off."
+        },
+        {
+          "verse": 15,
+          "text": "And every soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean."
+        },
+        {
+          "verse": 16,
+          "text": "But if he wash them not, nor bathe his flesh; then he shall bear his iniquity."
+        }
+      ],
+      "verse_count": 16,
+      "word_count": 553
+    },
+    {
+      "book": "Leviticus",
+      "chapter_number": 18,
+      "chapter_title": "Leviticus 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto the children of Israel, and say unto them, I am the LORD your God."
+        },
+        {
+          "verse": 3,
+          "text": "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances."
+        },
+        {
+          "verse": 4,
+          "text": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the LORD your God."
+        },
+        {
+          "verse": 5,
+          "text": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness."
+        },
+        {
+          "verse": 8,
+          "text": "The nakedness of thy father’s wife shalt thou not uncover: it is thy father’s nakedness."
+        },
+        {
+          "verse": 9,
+          "text": "The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, whether she be born at home, or born abroad, even their nakedness thou shalt not uncover."
+        },
+        {
+          "verse": 10,
+          "text": "The nakedness of thy son’s daughter, or of thy daughter’s daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness."
+        },
+        {
+          "verse": 11,
+          "text": "The nakedness of thy father’s wife’s daughter, begotten of thy father, she is thy sister, thou shalt not uncover her nakedness."
+        },
+        {
+          "verse": 12,
+          "text": "Thou shalt not uncover the nakedness of thy father’s sister: she is thy father’s near kinswoman."
+        },
+        {
+          "verse": 13,
+          "text": "Thou shalt not uncover the nakedness of thy mother’s sister: for she is thy mother’s near kinswoman."
+        },
+        {
+          "verse": 14,
+          "text": "Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she is thine aunt."
+        },
+        {
+          "verse": 15,
+          "text": "Thou shalt not uncover the nakedness of thy daughter in law: she is thy son’s wife; thou shalt not uncover her nakedness."
+        },
+        {
+          "verse": 16,
+          "text": "Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness."
+        },
+        {
+          "verse": 17,
+          "text": "Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; for they are her near kinswomen: it is wickedness."
+        },
+        {
+          "verse": 18,
+          "text": "Neither shalt thou take a wife to her sister, to vex her, to uncover her nakedness, beside the other in her life time."
+        },
+        {
+          "verse": 19,
+          "text": "Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness."
+        },
+        {
+          "verse": 20,
+          "text": "Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her."
+        },
+        {
+          "verse": 21,
+          "text": "And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the LORD."
+        },
+        {
+          "verse": 22,
+          "text": "Thou shalt not lie with mankind, as with womankind: it is abomination."
+        },
+        {
+          "verse": 23,
+          "text": "Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion."
+        },
+        {
+          "verse": 24,
+          "text": "Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:"
+        },
+        {
+          "verse": 25,
+          "text": "And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants."
+        },
+        {
+          "verse": 26,
+          "text": "Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:"
+        },
+        {
+          "verse": 27,
+          "text": "(For all these abominations have the men of the land done, which were before you, and the land is defiled;)"
+        },
+        {
+          "verse": 28,
+          "text": "That the land spue not you out also, when ye defile it, as it spued out the nations that were before you."
+        },
+        {
+          "verse": 29,
+          "text": "For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people."
+        },
+        {
+          "verse": 30,
+          "text": "Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the LORD your God."
+        }
+      ],
+      "verse_count": 30,
+      "word_count": 684
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 12,
+      "chapter_title": "Psalms 12",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men."
+        },
+        {
+          "verse": 2,
+          "text": "They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak."
+        },
+        {
+          "verse": 3,
+          "text": "The LORD shall cut off all flattering lips, and the tongue that speaketh proud things:"
+        },
+        {
+          "verse": 4,
+          "text": "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?"
+        },
+        {
+          "verse": 5,
+          "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him."
+        },
+        {
+          "verse": 6,
+          "text": "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times."
+        },
+        {
+          "verse": 7,
+          "text": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever."
+        },
+        {
+          "verse": 8,
+          "text": "The wicked walk on every side, when the vilest men are exalted."
+        }
+      ],
+      "verse_count": 8,
+      "word_count": 147
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 54,
+      "chapter_title": "Isaiah 54",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD."
+        },
+        {
+          "verse": 2,
+          "text": "Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;"
+        },
+        {
+          "verse": 3,
+          "text": "For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited."
+        },
+        {
+          "verse": 4,
+          "text": "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more."
+        },
+        {
+          "verse": 5,
+          "text": "For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called."
+        },
+        {
+          "verse": 6,
+          "text": "For the LORD hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God."
+        },
+        {
+          "verse": 7,
+          "text": "For a small moment have I forsaken thee; but with great mercies will I gather thee."
+        },
+        {
+          "verse": 8,
+          "text": "In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the LORD thy Redeemer."
+        },
+        {
+          "verse": 9,
+          "text": "For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee."
+        },
+        {
+          "verse": 10,
+          "text": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee."
+        },
+        {
+          "verse": 11,
+          "text": "O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires."
+        },
+        {
+          "verse": 12,
+          "text": "And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones."
+        },
+        {
+          "verse": 13,
+          "text": "And all thy children shall be taught of the LORD; and great shall be the peace of thy children."
+        },
+        {
+          "verse": 14,
+          "text": "In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee."
+        },
+        {
+          "verse": 15,
+          "text": "Behold, they shall surely gather together, but not by me: whosoever shall gather together against thee shall fall for thy sake."
+        },
+        {
+          "verse": 16,
+          "text": "Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy."
+        },
+        {
+          "verse": 17,
+          "text": "No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 493
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 10,
+      "chapter_title": "Luke 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "After these things the LORD appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come."
+        },
+        {
+          "verse": 2,
+          "text": "Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest."
+        },
+        {
+          "verse": 3,
+          "text": "Go your ways: behold, I send you forth as lambs among wolves."
+        },
+        {
+          "verse": 4,
+          "text": "Carry neither purse, nor scrip, nor shoes: and salute no man by the way."
+        },
+        {
+          "verse": 5,
+          "text": "And into whatsoever house ye enter, first say, Peace be to this house."
+        },
+        {
+          "verse": 6,
+          "text": "And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again."
+        },
+        {
+          "verse": 7,
+          "text": "And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house."
+        },
+        {
+          "verse": 8,
+          "text": "And into whatsoever city ye enter, and they receive you, eat such things as are set before you:"
+        },
+        {
+          "verse": 9,
+          "text": "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you."
+        },
+        {
+          "verse": 10,
+          "text": "But into whatsoever city ye enter, and they receive you not, go your ways out into the streets of the same, and say,"
+        },
+        {
+          "verse": 11,
+          "text": "Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you."
+        },
+        {
+          "verse": 12,
+          "text": "But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city."
+        },
+        {
+          "verse": 13,
+          "text": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes."
+        },
+        {
+          "verse": 14,
+          "text": "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you."
+        },
+        {
+          "verse": 15,
+          "text": "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell."
+        },
+        {
+          "verse": 16,
+          "text": "He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me."
+        },
+        {
+          "verse": 17,
+          "text": "And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name."
+        },
+        {
+          "verse": 18,
+          "text": "And he said unto them, I beheld Satan as lightning fall from heaven."
+        },
+        {
+          "verse": 19,
+          "text": "Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you."
+        },
+        {
+          "verse": 20,
+          "text": "Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven."
+        },
+        {
+          "verse": 21,
+          "text": "In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight."
+        },
+        {
+          "verse": 22,
+          "text": "All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and he to whom the Son will reveal him."
+        },
+        {
+          "verse": 23,
+          "text": "And he turned him unto his disciples, and said privately, Blessed are the eyes which see the things that ye see:"
+        },
+        {
+          "verse": 24,
+          "text": "For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
+        },
+        {
+          "verse": 25,
+          "text": "And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?"
+        },
+        {
+          "verse": 26,
+          "text": "He said unto him, What is written in the law? how readest thou?"
+        },
+        {
+          "verse": 27,
+          "text": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself."
+        },
+        {
+          "verse": 28,
+          "text": "And he said unto him, Thou hast answered right: this do, and thou shalt live."
+        },
+        {
+          "verse": 29,
+          "text": "But he, willing to justify himself, said unto Jesus, And who is my neighbour?"
+        },
+        {
+          "verse": 30,
+          "text": "And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead."
+        },
+        {
+          "verse": 31,
+          "text": "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side."
+        },
+        {
+          "verse": 32,
+          "text": "And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side."
+        },
+        {
+          "verse": 33,
+          "text": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him,"
+        },
+        {
+          "verse": 34,
+          "text": "And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him."
+        },
+        {
+          "verse": 35,
+          "text": "And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee."
+        },
+        {
+          "verse": 36,
+          "text": "Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?"
+        },
+        {
+          "verse": 37,
+          "text": "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
+        },
+        {
+          "verse": 38,
+          "text": "Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house."
+        },
+        {
+          "verse": 39,
+          "text": "And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word."
+        },
+        {
+          "verse": 40,
+          "text": "But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me."
+        },
+        {
+          "verse": 41,
+          "text": "And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:"
+        },
+        {
+          "verse": 42,
+          "text": "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her."
+        }
+      ],
+      "verse_count": 42,
+      "word_count": 992
+    }
+  ]
+}

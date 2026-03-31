@@ -1,0 +1,581 @@
+{
+  "day_number": 102,
+  "references": "Josue 17-18 • Psalms 60 • Jeremias 36 • Acts 13",
+  "word_count": 3560,
+  "estimated_minutes": 17,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 60:1",
+    "text": "Unto the end, in hymns, for David.",
+    "reflection": "Let this passage feel like lamp light: warm enough to guide, gentle enough to rest in."
+  },
+  "tomorrow_teaser": "Josue 19-20 • Psalms 61 • Jeremias 37 • Acts 14",
+  "chapters": [
+    {
+      "book": "Josue",
+      "chapter_number": 17,
+      "chapter_title": "Josue 17",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And *all the children of Israel assembled together in Silo, and there they set up the tabernacle of the testimony, and the land was subdued before them."
+        },
+        {
+          "verse": 2,
+          "text": "But there remained seven tribes of the children of Israel, which as yet had not received their possessions."
+        },
+        {
+          "verse": 3,
+          "text": "*And Josue said to them: How long are you indolent and slack, and go not in to possess the land which the Lord, the God of your fathers, hath given you?"
+        },
+        {
+          "verse": 4,
+          "text": "Choose of every tribe three men, that I may send them, and they may go and compass the land, and mark it out according to the number of each multitude: and bring back to me what they have marked out."
+        },
+        {
+          "verse": 5,
+          "text": "Divide to yourselves the land into seven parts: let Juda be in his bounds on the south side, and the house of Joseph on the north."
+        },
+        {
+          "verse": 6,
+          "text": "The land in the midst between these, mark ye out into seven parts; and you shall come hither to me, that I may cast lots for you before the Lord your God."
+        },
+        {
+          "verse": 7,
+          "text": "For the Levites have no part among you; but the priesthood of the Lord is their inheritance. And Gad and Ruben, and the half tribe of Manasses, have already received their possessions beyond the Jordan eastward: which Moses, the servant of the Lord, gave them."
+        },
+        {
+          "verse": 8,
+          "text": "And when the men were risen up, to go to mark out the land, Josue commanded them, saying: Go round the land and mark it out, and return to me: that I may cast lots for you before the Lord, in Silo."
+        },
+        {
+          "verse": 9,
+          "text": "So they went: and surveying it, divided it into seven parts, writing them down in a book. And they returned to Josue, to the camp, in Silo."
+        },
+        {
+          "verse": 10,
+          "text": "And he cast lots before the Lord, in Silo, and divided the land to the children of Israel into seven parts."
+        },
+        {
+          "verse": 11,
+          "text": "And first came up the lot of the children of Benjamin, by their families, to possess the land between the children of Juda and the children of Joseph."
+        },
+        {
+          "verse": 12,
+          "text": "And their border northward was from the Jordan: going along by the side of Jericho on the north side, and thence going up westward to the mountains, and reaching to the wilderness of Bethaven,"
+        },
+        {
+          "verse": 13,
+          "text": "And passing along southward by *Luza, the same is Bethel: and it goeth down into Ataroth-addar to the mountain, that is on the south of the nether Bethoron:"
+        },
+        {
+          "verse": 14,
+          "text": "And it bendeth thence, going round towards the sea, south of the mountain that looketh towards Bethoron to the south-west: and the outgoings thereof, are into Cariathbaal, which is called also Cariathiarim, a city of the children of Juda. This is their coast towards the sea, westward."
+        },
+        {
+          "verse": 15,
+          "text": "But on the south side, the border goeth out from part of Cariathiarim, towards the sea, and cometh to the fountain of the waters of Nephtoa:"
+        },
+        {
+          "verse": 16,
+          "text": "And it goeth down to that part of the mountain, that looketh on the valley of the children of Ennom: and is over-against the north quarter, in the furthermost part of the valley of Raphaim, and it goeth down into Geennom, (that is the valley of Ennom) by the side of the Jebusite to the south: and cometh to the fountain of Rogel,"
+        },
+        {
+          "verse": 17,
+          "text": "Passing thence to the north, and going out to Ensemes, that is to say, the fountain of the sun:"
+        },
+        {
+          "verse": 18,
+          "text": "And it passeth along to the hills that are over-against the ascent of Adommim: and it goeth down to Abenboen, that is, the stone of Boen, the son of Ruben: and it passeth on the north side to the champaign countries, and goeth down into the plain,"
+        },
+        {
+          "verse": 19,
+          "text": "And it passeth by Bethhagla northward: and the outgoings thereof are towards the north of the most salt sea, at the south end of the Jordan,"
+        },
+        {
+          "verse": 20,
+          "text": "Which is the border of it on the east side. This is the possession of the children of Benjamin by their borders round about, and their families."
+        },
+        {
+          "verse": 21,
+          "text": "And their cities were, Jericho, and Bethhagla, and Vale-Casis,"
+        },
+        {
+          "verse": 22,
+          "text": "Betharaba, and Samaraim, and Bethel,"
+        },
+        {
+          "verse": 23,
+          "text": "And Avim, and Aphara, and Ophera,"
+        },
+        {
+          "verse": 24,
+          "text": "The town Emona, and Ophni, and Gabee: twelve cities, and their villages,"
+        },
+        {
+          "verse": 25,
+          "text": "Gabaon, and Rama, and Beroth,"
+        },
+        {
+          "verse": 26,
+          "text": "And Mesphe, and Caphara, and Amosa,"
+        },
+        {
+          "verse": 27,
+          "text": "And Recem, Jarephel, and Tharela,"
+        },
+        {
+          "verse": 28,
+          "text": "And Sela, Eleph, and Jebus, which is Jerusalem, Gabaath, and Cariath: fourteen cities, and their villages. This is the possession of the children of Benjamin by their families."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 730
+    },
+    {
+      "book": "Josue",
+      "chapter_number": 18,
+      "chapter_title": "Josue 18",
+      "verses": [
+        {
+          "verse": 54,
+          "text": "And *the Lord spoke to Josue, saying: Speak to the children of Israel, and say to them:"
+        },
+        {
+          "verse": 55,
+          "text": "Appoint cities of refuge, *of which I spoke to you by the hand of Moses:"
+        },
+        {
+          "verse": 56,
+          "text": "That whosoever shall kill a person unawares may flee to them: and may escape the wrath of the kinsman, who is the avenger of blood:"
+        },
+        {
+          "verse": 57,
+          "text": "And when he shall flee to one of these cities: he shall stand before the gate of the city, and shall speak to the ancients of that city, such things, as prove him innocent: and so shall they receive him, and give him a place to dwell in."
+        },
+        {
+          "verse": 58,
+          "text": "And when the avenger of blood shall pursue him, they shall not deliver him into his hands, because he slew his neighbour unawares, and is not proved to have been his enemy two or three days before."
+        },
+        {
+          "verse": 59,
+          "text": "And he shall dwell in that city, till he stand before judgment to give an account of his fact, and till the death of the high-priest, who shall be at that time: then shall the manslayer return, and go into his own city and house from whence he fled."
+        },
+        {
+          "verse": 60,
+          "text": "And they appointed Cedes in Galilee, of Mount Nephthali, and Sichem in Mount Ephraim, and Cariath-arbe, the same is Hebron in the mountain of Juda."
+        },
+        {
+          "verse": 61,
+          "text": "And beyond the Jordan to the east of Jericho, *they appointed Bosor, which is upon the plain of the wilderness of the tribe of Ruben, and Ramoth in Galaad of the tribe of Gad, and Gaulon in Basan of the tribe of Manasses."
+        },
+        {
+          "verse": 62,
+          "text": "These cities were appointed for all the children of Israel, and for the strangers that dwelt among them: that whosoever had killed a person unawares might flee to them, and not die by the hand of the kinsman, coveting to revenge the blood that was shed, until he should stand before the people to lay open his cause."
+        }
+      ],
+      "verse_count": 9,
+      "word_count": 317
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 60,
+      "chapter_title": "Psalms 60",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Unto the end, in hymns, for David."
+        },
+        {
+          "verse": 2,
+          "text": "Hear, O God, my supplication; be attentive to my prayer."
+        },
+        {
+          "verse": 3,
+          "text": "To thee have I cried from the ends of the earth; when my heart was in anguish, thou hast exalted me on a rock. Thou hast conducted me;"
+        },
+        {
+          "verse": 4,
+          "text": "for thou hast been my hope: a tower of strength against the face of the enemy."
+        },
+        {
+          "verse": 5,
+          "text": "In thy tabernacle I shall dwell for ever: I shall be protected under the covert of thy wings."
+        },
+        {
+          "verse": 6,
+          "text": "For thou, my God, hast heard my prayer: thou hast given an inheritance to them that fear thy name."
+        },
+        {
+          "verse": 7,
+          "text": "Thou wilt add days to the days of the king; his years even to generation and generation."
+        },
+        {
+          "verse": 8,
+          "text": "He abideth for ever in the sight of God: his mercy and truth who shall search?"
+        },
+        {
+          "verse": 9,
+          "text": "So will I sing a psalm to thy name for ever and ever: that I may pay my vows from day to day."
+        }
+      ],
+      "verse_count": 9,
+      "word_count": 154
+    },
+    {
+      "book": "Jeremias",
+      "chapter_number": 36,
+      "chapter_title": "Jeremias 36",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass *in the fourth year of Joakim, the son of Josias, king of Juda, that this word came to Jeremias by the Lord, saying:"
+        },
+        {
+          "verse": 2,
+          "text": "Take thee a roll of a book, and thou shalt write in it all the words that I have spoken to thee against Israel and Juda, and against all the nations from the day that I spoke to thee, from the days of Josias even to this day."
+        },
+        {
+          "verse": 3,
+          "text": "If so be, when the house of Juda shall hear all the evils that I purpose to do unto them, that they may return every man from his wicked way: and I will forgive their iniquity, and their sin."
+        },
+        {
+          "verse": 4,
+          "text": "So Jeremias called Baruch, the son of Nerias: and Baruch wrote from the mouth of Jeremias, all the words of the Lord, which he spoke to him, upon the roll of a book."
+        },
+        {
+          "verse": 5,
+          "text": "And Jeremias commanded Baruch, saying: I am shut up, and cannot go into the house of the Lord."
+        },
+        {
+          "verse": 6,
+          "text": "Go thou in, therefore, and read out of the volume, which thou hast written from my mouth, the words of the Lord, in the hearing of all the people in the house of the Lord, on the fasting day; and also, thou shalt read them in the hearing of all Juda, that come out of their cities:"
+        },
+        {
+          "verse": 7,
+          "text": "If so be, they may present their supplication before the Lord, and may return every one from his wicked way; for great is the wrath and indignation which the Lord hath pronounced against this people."
+        },
+        {
+          "verse": 8,
+          "text": "And Baruch, the son of Nerias, did according to all that Jeremias, the prophet, had commanded him, reading out of the volume the words of the Lord, in the house of the Lord."
+        },
+        {
+          "verse": 9,
+          "text": "And it came to pass in the fifth year of Joakim, the son of Josias, king of Juda, in the ninth month, that they proclaimed a fast before the Lord to all the people in Jerusalem, and to all the people that were come together out of the cities of Juda to Jerusalem."
+        },
+        {
+          "verse": 10,
+          "text": "And Baruch read out of the volume the words of Jeremias, in the house of the Lord, in the treasury of Gamarias, the son of Saphan, the scribe, in the upper court, in the entry of the new gate of the house of the Lord, in the hearing of all the people."
+        },
+        {
+          "verse": 11,
+          "text": "And when Micheas, the son of Gamarias, the son of Saphan, had heard out of the book all the words of the Lord,"
+        },
+        {
+          "verse": 12,
+          "text": "He went down into the king's house, to the secretary's chamber; and behold all the princes sat there; Elisama, the scribe, and Dalaias, the son of Semeias, and Elnathan, the son of Achobor, and Gamarias, the son of Saphan, and Sedecias, the son of Hananias, and all the princes."
+        },
+        {
+          "verse": 13,
+          "text": "And Micheas told them all the words that he had heard, when Baruch read out of the volume in the hearing of the people."
+        },
+        {
+          "verse": 14,
+          "text": "Therefore all the princes sent Judi, the son of Nathanias, the son of Selemias, the son of Chusi, to Baruch, saying: Take in thy hand the volume in which thou hast read in the hearing of the people, and come. So Baruch, the son of Nerias, took the volume in his hand, and came to them."
+        },
+        {
+          "verse": 15,
+          "text": "And they said to him: Sit down and read these things in our hearing. And Baruch read in their hearing."
+        },
+        {
+          "verse": 16,
+          "text": "And when they had heard all the words, they looked upon one another with astonishment, and they said to Baruch: We must tell the king all these words."
+        },
+        {
+          "verse": 17,
+          "text": "And they asked him, saying: Tell us how didst thou write all these words from his mouth."
+        },
+        {
+          "verse": 18,
+          "text": "And Baruch said to them: With his mouth he pronounced all these words as if he were reading to me: and I wrote in a volume with ink."
+        },
+        {
+          "verse": 19,
+          "text": "And the princes said to Baruch: Go, and hide thee, both thou and Jeremias, and let no man know where you are."
+        },
+        {
+          "verse": 20,
+          "text": "And they went in to the king, into the court; but they laid up the volume in the chamber of Elisama, the scribe; and they told all the words in the hearing of the king."
+        },
+        {
+          "verse": 21,
+          "text": "And the king sent Judi that he should take the volume: who, bringing it out of the chamber of Elisama, the scribe, read it in the hearing of the king, and of all the princes that stood about the king."
+        },
+        {
+          "verse": 22,
+          "text": "Now the king sat in the winter-house, In the ninth month; and there was a hearth before him, full of burning coals."
+        },
+        {
+          "verse": 23,
+          "text": "And when Judi had read three or four pages, he cut it with the penknife, and he cast it into the fire that was upon the hearth, till all the volume was consumed with the fire that was on the hearth."
+        },
+        {
+          "verse": 24,
+          "text": "And the king, and all his servants that heard all these words, were not afraid, nor did they rend their garments."
+        },
+        {
+          "verse": 25,
+          "text": "But yet Elnathan, and Dalaias, and Gamarias spoke to the king, not to burn. the book; and he heard them not."
+        },
+        {
+          "verse": 26,
+          "text": "And the king commanded Jeremiel, the son of Amelech, and Saraias the son of Ezriel, and Selemias, the son of Abdeel, to take up Baruch, the scribe, and Jeremias, the prophet: but the Lord hid them."
+        },
+        {
+          "verse": 27,
+          "text": "And the word of the Lord came to Jeremias, the prophet, after that the king had burnt the volume, and the words that Baruch had written from the mouth of Jeremias, saying:"
+        },
+        {
+          "verse": 28,
+          "text": "Take thee again another volume: and write in it all the former words that were in the first volume, which Joakim, the king of Juda, hath burnt."
+        },
+        {
+          "verse": 29,
+          "text": "And thou shalt say to Joakim, the king of Juda: Thus saith the Lord: Thou hast burnt that volume, saying: Why hast thou written therein, and said: The king of Babylon shall come speedily, and shall lay waste this land: and shall cause to cease from thence man and beast?"
+        },
+        {
+          "verse": 30,
+          "text": "Therefore thus saith the Lord against Joakim, the king of Juda: He shall have none to sit upon the throne of David; and his dead body shall be cast out to the heat by day, and to the frost by night."
+        },
+        {
+          "verse": 31,
+          "text": "And I will punish him, and his seed: and his servants for their iniquities, and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Juda, all the evil that I have pronounced against them: but they have not heard."
+        },
+        {
+          "verse": 32,
+          "text": "And Jeremias took another volume, and gave it to Baruch, the son of Nerias, the scribe; who wrote in it, from the mouth of Jeremias, all the words of the book which Joakim, the king of Juda, had burnt with fire; and there were added besides, many more words than had been before."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 1128
+    },
+    {
+      "book": "Acts",
+      "chapter_number": 13,
+      "chapter_title": "Acts 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now *there were in the church, which was at Antioch, prophets and teachers, among whom was Barnabas, and Simon, who was called Niger, and Lucius of Cyrene, and Manahen, who was the foster-brother of Herod, the tetrarch, and Saul."
+        },
+        {
+          "verse": 2,
+          "text": "And as they were ministering to the Lord, and fasting, the Holy Ghost said to them: Separate me Saul and Barnabas, for the work to which I have taken them."
+        },
+        {
+          "verse": 3,
+          "text": "Then they fasting and praying, and imposing their hands upon them, sent them away."
+        },
+        {
+          "verse": 4,
+          "text": "So they being sent by the Holy Ghost, went to Seleucia: and from thence they sailed to Cyprus."
+        },
+        {
+          "verse": 5,
+          "text": "And when they were come to Salamina, they preached the word of God in the synagogues of the Jews. And they had John also in the ministry."
+        },
+        {
+          "verse": 6,
+          "text": "And when they had gone through the whole island, as far as Paphos, they found a certain man, a magician, a false prophet, a Jew, whose name was Bar-jesu,"
+        },
+        {
+          "verse": 7,
+          "text": "Who was with the proconsul, Sergius Paulus, a prudent man. He, sending for Barnabas and Saul, desired to hear the word of God."
+        },
+        {
+          "verse": 8,
+          "text": "But Elymas, the magician, (for so his name is interpreted) withstood them, seeking to turn away the proconsul from the faith."
+        },
+        {
+          "verse": 9,
+          "text": "Then Saul, otherwise Paul, filled with the Holy Ghost, looking upon him,"
+        },
+        {
+          "verse": 10,
+          "text": "Said: O thou full of all guile, and of all deceit, child of the devil, enemy of all justice, thou dost not cease to pervert the right ways of the Lord."
+        },
+        {
+          "verse": 11,
+          "text": "And now behold, the hand of the Lord upon thee, and thou shalt be blind, not seeing the sun for a time. And immediately there fell on him a mist and darkness, and going about, he sought some one to lead him by the hand."
+        },
+        {
+          "verse": 12,
+          "text": "Then the proconsul, when he had seen what was done, believed, marvelling at the doctrine of the Lord."
+        },
+        {
+          "verse": 13,
+          "text": "And when Paul, and they who were with him, had sailed from Paphos, they came to Perge, in Pamphylia. *But John departing from them, returned to Jerusalem."
+        },
+        {
+          "verse": 14,
+          "text": "But they passing through Perge, came to Antioch, in Pisidia: and entering into the synagogue on the sabbath-day, they sat down."
+        },
+        {
+          "verse": 15,
+          "text": "And after the reading of the law and the prophets, the rulers of the synagogue sent to them, saying: Ye men, brethren, if you have any word of exhortation to make to the people, speak."
+        },
+        {
+          "verse": 16,
+          "text": "Then Paul rising up, and with his hand bespeaking silence, said: Ye men of Israel, and you that fear God, give ear."
+        },
+        {
+          "verse": 17,
+          "text": "The God of the people of Israel chose our fathers, and exalted the people, when they were sojourners* in the land of Egypt, **and with a mighty arm brought them out from thence,"
+        },
+        {
+          "verse": 18,
+          "text": "*And for the space of forty years endured their manners in the desert."
+        },
+        {
+          "verse": 19,
+          "text": "And destroying seven nations in the land of Chanaan, *he divided their land to them, by lot,"
+        },
+        {
+          "verse": 20,
+          "text": "As it were, after four hundred and fifty years:* and after these things, he gave them judges, until Samuel, the prophet."
+        },
+        {
+          "verse": 21,
+          "text": "And afterwards *they desired a king: and God gave them Saul, the son of Cis, a man of the tribe of Benjamin, forty years."
+        },
+        {
+          "verse": 22,
+          "text": "*And when he had removed him, he raised them up David to be king: to whom giving testimony, he said: I have found David, the son of Jesse, a man according to my own heart, who shall do all my will."
+        },
+        {
+          "verse": 23,
+          "text": "Of this man's seed God, *according to his promise, hath raised up to Israel a Saviour, Jesus,"
+        },
+        {
+          "verse": 24,
+          "text": "*John first preaching before his coming the baptism of penance to all the people of Israel."
+        },
+        {
+          "verse": 25,
+          "text": "And when John was fulfilling his course, he said: *I am not he, whom you think me to be: but behold he cometh after me, the shoes of whose feet I am not worthy to loose."
+        },
+        {
+          "verse": 26,
+          "text": "Men, brethren, sons of the race of Abraham, and whosoever among you fear God, to you the word of this salvation is sent."
+        },
+        {
+          "verse": 27,
+          "text": "For they who inhabited Jerusalem, and the rulers thereof, not knowing him, nor the voices of the prophets, which are read every sabbath, judging him, have fulfilled them,"
+        },
+        {
+          "verse": 28,
+          "text": "And finding no cause of death in him, *they petitioned of Pilate, that they might put him to death."
+        },
+        {
+          "verse": 29,
+          "text": "And when they had fulfilled all things that were written of him, taking him down from the tree, they laid him in a sepulchre."
+        },
+        {
+          "verse": 30,
+          "text": "*But God raised him up from the dead the third day: who was seen for many days by those,"
+        },
+        {
+          "verse": 31,
+          "text": "Who went up together with him from Galilee to Jerusalem: who, to this present time, are witnesses of him to the people."
+        },
+        {
+          "verse": 32,
+          "text": "And we declare to you that the promise which was made to our fathers,"
+        },
+        {
+          "verse": 33,
+          "text": "This same hath God fulfilled to our children, raising up Jesus again, as in the second Psalm also is written: *Thou art my Son, this day have I begotten thee."
+        },
+        {
+          "verse": 34,
+          "text": "And to shew that he raised him up from the dead to return now no more to corruption, he said thus: *That I will give you the holy things of David sure."
+        },
+        {
+          "verse": 35,
+          "text": "And, therefore, in another place also he saith: *Thou shalt not suffer thy Holy One to see corruption."
+        },
+        {
+          "verse": 36,
+          "text": "For David, after he had served in his generation, according to the will of God, *slept: and was laid unto his fathers, and saw corruption."
+        },
+        {
+          "verse": 37,
+          "text": "But he whom God hath raised from the dead, saw no corruption."
+        },
+        {
+          "verse": 38,
+          "text": "Be it known, therefore, to you, men, brethren, that through him forgiveness of sins is preached to you: and from all the things, from which you could not be justified by the law of Moses,"
+        },
+        {
+          "verse": 39,
+          "text": "In him every one, who believeth, is justified."
+        },
+        {
+          "verse": 40,
+          "text": "Beware, therefore, lest that come upon you which is said in the prophets:"
+        },
+        {
+          "verse": 41,
+          "text": "*Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which you will not believe, if any man shall tell it you."
+        },
+        {
+          "verse": 42,
+          "text": "And as they went out, they desired them that on the next sabbath they would speak these words to them."
+        },
+        {
+          "verse": 43,
+          "text": "And when the synagogue was broken up, many of the Jews, and of the strangers who served God, followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God."
+        },
+        {
+          "verse": 44,
+          "text": "But the next sabbath-day, the whole city almost came together, to hear the word of God."
+        },
+        {
+          "verse": 45,
+          "text": "And the Jews seeing the multitudes, were filled with envy, and contradicted those things which were said by Paul, blaspheming."
+        },
+        {
+          "verse": 46,
+          "text": "Then Paul and Barnabas said boldly: To you it behoved us first to speak the word of God: but seeing you reject it, and judge yourselves unworthy of eternal life: behold we turn to the Gentiles."
+        },
+        {
+          "verse": 47,
+          "text": "For so the Lord hath commanded us: *I have set thee to be the light of the Gentiles: that thou mayest be for salvation unto the utmost part of the earth."
+        },
+        {
+          "verse": 48,
+          "text": "And the Gentiles hearing this, were glad, and glorified the word of the Lord: and as many as were pre-ordained to eternal life, believed."
+        },
+        {
+          "verse": 49,
+          "text": "And the word of the Lord was published throughout the whole country."
+        },
+        {
+          "verse": 50,
+          "text": "But the Jews stirred up religious and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas: and cast them out of their borders."
+        },
+        {
+          "verse": 51,
+          "text": "*But they shaking off the dust of their feet against them, came to Iconium.**"
+        },
+        {
+          "verse": 52,
+          "text": "And the disciples were filled with joy and with the Holy Ghost."
+        }
+      ],
+      "verse_count": 52,
+      "word_count": 1231
+    }
+  ]
+}

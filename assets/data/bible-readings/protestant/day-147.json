@@ -1,0 +1,600 @@
+{
+  "day_number": 147,
+  "references": "Judges 7 • Psalms 105 • Ezekiel 24 • 1 Corinthians 14",
+  "word_count": 3247,
+  "estimated_minutes": 16,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 105:18",
+    "text": "Whose feet they hurt with fetters: he was laid in iron:",
+    "reflection": "This is the kind of sentence to keep near when the day feels louder than your prayers."
+  },
+  "tomorrow_teaser": "Judges 8 • Psalms 106 • Ezekiel 25 • 1 Corinthians 15",
+  "chapters": [
+    {
+      "book": "Judges",
+      "chapter_number": 7,
+      "chapter_title": "Judges 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley."
+        },
+        {
+          "verse": 2,
+          "text": "And the LORD said unto Gideon, The people that are with thee are too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me."
+        },
+        {
+          "verse": 3,
+          "text": "Now therefore go to, proclaim in the ears of the people, saying, Whosoever is fearful and afraid, let him return and depart early from mount Gilead. And there returned of the people twenty and two thousand; and there remained ten thousand."
+        },
+        {
+          "verse": 4,
+          "text": "And the LORD said unto Gideon, The people are yet too many; bring them down unto the water, and I will try them for thee there: and it shall be, that of whom I say unto thee, This shall go with thee, the same shall go with thee; and of whomsoever I say unto thee, This shall not go with thee, the same shall not go."
+        },
+        {
+          "verse": 5,
+          "text": "So he brought down the people unto the water: and the LORD said unto Gideon, Every one that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink."
+        },
+        {
+          "verse": 6,
+          "text": "And the number of them that lapped, putting their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water."
+        },
+        {
+          "verse": 7,
+          "text": "And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the other people go every man unto his place."
+        },
+        {
+          "verse": 8,
+          "text": "So the people took victuals in their hand, and their trumpets: and he sent all the rest of Israel every man unto his tent, and retained those three hundred men: and the host of Midian was beneath him in the valley."
+        },
+        {
+          "verse": 9,
+          "text": "And it came to pass the same night, that the LORD said unto him, Arise, get thee down unto the host; for I have delivered it into thine hand."
+        },
+        {
+          "verse": 10,
+          "text": "But if thou fear to go down, go thou with Phurah thy servant down to the host:"
+        },
+        {
+          "verse": 11,
+          "text": "And thou shalt hear what they say; and afterward shall thine hands be strengthened to go down unto the host. Then went he down with Phurah his servant unto the outside of the armed men that were in the host."
+        },
+        {
+          "verse": 12,
+          "text": "And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels were without number, as the sand by the sea side for multitude."
+        },
+        {
+          "verse": 13,
+          "text": "And when Gideon was come, behold, there was a man that told a dream unto his fellow, and said, Behold, I dreamed a dream, and, lo, a cake of barley bread tumbled into the host of Midian, and came unto a tent, and smote it that it fell, and overturned it, that the tent lay along."
+        },
+        {
+          "verse": 14,
+          "text": "And his fellow answered and said, This is nothing else save the sword of Gideon the son of Joash, a man of Israel: for into his hand hath God delivered Midian, and all the host."
+        },
+        {
+          "verse": 15,
+          "text": "And it was so, when Gideon heard the telling of the dream, and the interpretation thereof, that he worshipped, and returned into the host of Israel, and said, Arise; for the LORD hath delivered into your hand the host of Midian."
+        },
+        {
+          "verse": 16,
+          "text": "And he divided the three hundred men into three companies, and he put a trumpet in every man’s hand, with empty pitchers, and lamps within the pitchers."
+        },
+        {
+          "verse": 17,
+          "text": "And he said unto them, Look on me, and do likewise: and, behold, when I come to the outside of the camp, it shall be that, as I do, so shall ye do."
+        },
+        {
+          "verse": 18,
+          "text": "When I blow with a trumpet, I and all that are with me, then blow ye the trumpets also on every side of all the camp, and say, The sword of the LORD, and of Gideon."
+        },
+        {
+          "verse": 19,
+          "text": "So Gideon, and the hundred men that were with him, came unto the outside of the camp in the beginning of the middle watch; and they had but newly set the watch: and they blew the trumpets, and brake the pitchers that were in their hands."
+        },
+        {
+          "verse": 20,
+          "text": "And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow withal: and they cried, The sword of the LORD, and of Gideon."
+        },
+        {
+          "verse": 21,
+          "text": "And they stood every man in his place round about the camp; and all the host ran, and cried, and fled."
+        },
+        {
+          "verse": 22,
+          "text": "And the three hundred blew the trumpets, and the LORD set every man’s sword against his fellow, even throughout all the host: and the host fled to Bethshittah in Zererath, and to the border of Abelmeholah, unto Tabbath."
+        },
+        {
+          "verse": 23,
+          "text": "And the men of Israel gathered themselves together out of Naphtali, and out of Asher, and out of all Manasseh, and pursued after the Midianites."
+        },
+        {
+          "verse": 24,
+          "text": "And Gideon sent messengers throughout all mount Ephraim, saying, Come down against the Midianites, and take before them the waters unto Bethbarah and Jordan. Then all the men of Ephraim gathered themselves together, and took the waters unto Bethbarah and Jordan."
+        },
+        {
+          "verse": 25,
+          "text": "And they took two princes of the Midianites, Oreb and Zeeb; and they slew Oreb upon the rock Oreb, and Zeeb they slew at the winepress of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb to Gideon on the other side Jordan."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 954
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 105,
+      "chapter_title": "Psalms 105",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O give thanks unto the LORD; call upon his name: make known his deeds among the people."
+        },
+        {
+          "verse": 2,
+          "text": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works."
+        },
+        {
+          "verse": 3,
+          "text": "Glory ye in his holy name: let the heart of them rejoice that seek the LORD."
+        },
+        {
+          "verse": 4,
+          "text": "Seek the LORD, and his strength: seek his face evermore."
+        },
+        {
+          "verse": 5,
+          "text": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;"
+        },
+        {
+          "verse": 6,
+          "text": "O ye seed of Abraham his servant, ye children of Jacob his chosen."
+        },
+        {
+          "verse": 7,
+          "text": "He is the LORD our God: his judgments are in all the earth."
+        },
+        {
+          "verse": 8,
+          "text": "He hath remembered his covenant for ever, the word which he commanded to a thousand generations."
+        },
+        {
+          "verse": 9,
+          "text": "Which covenant he made with Abraham, and his oath unto Isaac;"
+        },
+        {
+          "verse": 10,
+          "text": "And confirmed the same unto Jacob for a law, and to Israel for an everlasting covenant:"
+        },
+        {
+          "verse": 11,
+          "text": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:"
+        },
+        {
+          "verse": 12,
+          "text": "When they were but a few men in number; yea, very few, and strangers in it."
+        },
+        {
+          "verse": 13,
+          "text": "When they went from one nation to another, from one kingdom to another people;"
+        },
+        {
+          "verse": 14,
+          "text": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;"
+        },
+        {
+          "verse": 15,
+          "text": "Saying, Touch not mine anointed, and do my prophets no harm."
+        },
+        {
+          "verse": 16,
+          "text": "Moreover he called for a famine upon the land: he brake the whole staff of bread."
+        },
+        {
+          "verse": 17,
+          "text": "He sent a man before them, even Joseph, who was sold for a servant:"
+        },
+        {
+          "verse": 18,
+          "text": "Whose feet they hurt with fetters: he was laid in iron:"
+        },
+        {
+          "verse": 19,
+          "text": "Until the time that his word came: the word of the LORD tried him."
+        },
+        {
+          "verse": 20,
+          "text": "The king sent and loosed him; even the ruler of the people, and let him go free."
+        },
+        {
+          "verse": 21,
+          "text": "He made him lord of his house, and ruler of all his substance:"
+        },
+        {
+          "verse": 22,
+          "text": "To bind his princes at his pleasure; and teach his senators wisdom."
+        },
+        {
+          "verse": 23,
+          "text": "Israel also came into Egypt; and Jacob sojourned in the land of Ham."
+        },
+        {
+          "verse": 24,
+          "text": "And he increased his people greatly; and made them stronger than their enemies."
+        },
+        {
+          "verse": 25,
+          "text": "He turned their heart to hate his people, to deal subtilly with his servants."
+        },
+        {
+          "verse": 26,
+          "text": "He sent Moses his servant; and Aaron whom he had chosen."
+        },
+        {
+          "verse": 27,
+          "text": "They shewed his signs among them, and wonders in the land of Ham."
+        },
+        {
+          "verse": 28,
+          "text": "He sent darkness, and made it dark; and they rebelled not against his word."
+        },
+        {
+          "verse": 29,
+          "text": "He turned their waters into blood, and slew their fish."
+        },
+        {
+          "verse": 30,
+          "text": "Their land brought forth frogs in abundance, in the chambers of their kings."
+        },
+        {
+          "verse": 31,
+          "text": "He spake, and there came divers sorts of flies, and lice in all their coasts."
+        },
+        {
+          "verse": 32,
+          "text": "He gave them hail for rain, and flaming fire in their land."
+        },
+        {
+          "verse": 33,
+          "text": "He smote their vines also and their fig trees; and brake the trees of their coasts."
+        },
+        {
+          "verse": 34,
+          "text": "He spake, and the locusts came, and caterpillers, and that without number,"
+        },
+        {
+          "verse": 35,
+          "text": "And did eat up all the herbs in their land, and devoured the fruit of their ground."
+        },
+        {
+          "verse": 36,
+          "text": "He smote also all the firstborn in their land, the chief of all their strength."
+        },
+        {
+          "verse": 37,
+          "text": "He brought them forth also with silver and gold: and there was not one feeble person among their tribes."
+        },
+        {
+          "verse": 38,
+          "text": "Egypt was glad when they departed: for the fear of them fell upon them."
+        },
+        {
+          "verse": 39,
+          "text": "He spread a cloud for a covering; and fire to give light in the night."
+        },
+        {
+          "verse": 40,
+          "text": "The people asked, and he brought quails, and satisfied them with the bread of heaven."
+        },
+        {
+          "verse": 41,
+          "text": "He opened the rock, and the waters gushed out; they ran in the dry places like a river."
+        },
+        {
+          "verse": 42,
+          "text": "For he remembered his holy promise, and Abraham his servant."
+        },
+        {
+          "verse": 43,
+          "text": "And he brought forth his people with joy, and his chosen with gladness:"
+        },
+        {
+          "verse": 44,
+          "text": "And gave them the lands of the heathen: and they inherited the labour of the people;"
+        },
+        {
+          "verse": 45,
+          "text": "That they might observe his statutes, and keep his laws. Praise ye the LORD."
+        }
+      ],
+      "verse_count": 45,
+      "word_count": 632
+    },
+    {
+      "book": "Ezekiel",
+      "chapter_number": 24,
+      "chapter_title": "Ezekiel 24",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Son of man, write thee the name of the day, even of this same day: the king of Babylon set himself against Jerusalem this same day."
+        },
+        {
+          "verse": 3,
+          "text": "And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord GOD; Set on a pot, set it on, and also pour water into it:"
+        },
+        {
+          "verse": 4,
+          "text": "Gather the pieces thereof into it, even every good piece, the thigh, and the shoulder; fill it with the choice bones."
+        },
+        {
+          "verse": 5,
+          "text": "Take the choice of the flock, and burn also the bones under it, and make it boil well, and let them seethe the bones of it therein."
+        },
+        {
+          "verse": 6,
+          "text": "Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum is therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it."
+        },
+        {
+          "verse": 7,
+          "text": "For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;"
+        },
+        {
+          "verse": 8,
+          "text": "That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered."
+        },
+        {
+          "verse": 9,
+          "text": "Therefore thus saith the Lord GOD; Woe to the bloody city! I will even make the pile for fire great."
+        },
+        {
+          "verse": 10,
+          "text": "Heap on wood, kindle the fire, consume the flesh, and spice it well, and let the bones be burned."
+        },
+        {
+          "verse": 11,
+          "text": "Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and that the filthiness of it may be molten in it, that the scum of it may be consumed."
+        },
+        {
+          "verse": 12,
+          "text": "She hath wearied herself with lies, and her great scum went not forth out of her: her scum shall be in the fire."
+        },
+        {
+          "verse": 13,
+          "text": "In thy filthiness is lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee."
+        },
+        {
+          "verse": 14,
+          "text": "I the LORD have spoken it: it shall come to pass, and I will do it; I will not go back, neither will I spare, neither will I repent; according to thy ways, and according to thy doings, shall they judge thee, saith the Lord GOD."
+        },
+        {
+          "verse": 15,
+          "text": "Also the word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 16,
+          "text": "Son of man, behold, I take away from thee the desire of thine eyes with a stroke: yet neither shalt thou mourn nor weep, neither shall thy tears run down."
+        },
+        {
+          "verse": 17,
+          "text": "Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not thy lips, and eat not the bread of men."
+        },
+        {
+          "verse": 18,
+          "text": "So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded."
+        },
+        {
+          "verse": 19,
+          "text": "And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so?"
+        },
+        {
+          "verse": 20,
+          "text": "Then I answered them, The word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 21,
+          "text": "Speak unto the house of Israel, Thus saith the Lord GOD; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword."
+        },
+        {
+          "verse": 22,
+          "text": "And ye shall do as I have done: ye shall not cover your lips, nor eat the bread of men."
+        },
+        {
+          "verse": 23,
+          "text": "And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another."
+        },
+        {
+          "verse": 24,
+          "text": "Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I am the Lord GOD."
+        },
+        {
+          "verse": 25,
+          "text": "Also, thou son of man, shall it not be in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters,"
+        },
+        {
+          "verse": 26,
+          "text": "That he that escapeth in that day shall come unto thee, to cause thee to hear it with thine ears?"
+        },
+        {
+          "verse": 27,
+          "text": "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the LORD."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 774
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter_number": 14,
+      "chapter_title": "1 Corinthians 14",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Follow after charity, and desire spiritual gifts, but rather that ye may prophesy."
+        },
+        {
+          "verse": 2,
+          "text": "For he that speaketh in an unknown tongue speaketh not unto men, but unto God: for no man understandeth him; howbeit in the spirit he speaketh mysteries."
+        },
+        {
+          "verse": 3,
+          "text": "But he that prophesieth speaketh unto men to edification, and exhortation, and comfort."
+        },
+        {
+          "verse": 4,
+          "text": "He that speaketh in an unknown tongue edifieth himself; but he that prophesieth edifieth the church."
+        },
+        {
+          "verse": 5,
+          "text": "I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying."
+        },
+        {
+          "verse": 6,
+          "text": "Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?"
+        },
+        {
+          "verse": 7,
+          "text": "And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?"
+        },
+        {
+          "verse": 8,
+          "text": "For if the trumpet give an uncertain sound, who shall prepare himself to the battle?"
+        },
+        {
+          "verse": 9,
+          "text": "So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air."
+        },
+        {
+          "verse": 10,
+          "text": "There are, it may be, so many kinds of voices in the world, and none of them is without signification."
+        },
+        {
+          "verse": 11,
+          "text": "Therefore if I know not the meaning of the voice, I shall be unto him that speaketh a barbarian, and he that speaketh shall be a barbarian unto me."
+        },
+        {
+          "verse": 12,
+          "text": "Even so ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel to the edifying of the church."
+        },
+        {
+          "verse": 13,
+          "text": "Wherefore let him that speaketh in an unknown tongue pray that he may interpret."
+        },
+        {
+          "verse": 14,
+          "text": "For if I pray in an unknown tongue, my spirit prayeth, but my understanding is unfruitful."
+        },
+        {
+          "verse": 15,
+          "text": "What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also."
+        },
+        {
+          "verse": 16,
+          "text": "Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?"
+        },
+        {
+          "verse": 17,
+          "text": "For thou verily givest thanks well, but the other is not edified."
+        },
+        {
+          "verse": 18,
+          "text": "I thank my God, I speak with tongues more than ye all:"
+        },
+        {
+          "verse": 19,
+          "text": "Yet in the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue."
+        },
+        {
+          "verse": 20,
+          "text": "Brethren, be not children in understanding: howbeit in malice be ye children, but in understanding be men."
+        },
+        {
+          "verse": 21,
+          "text": "In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the LORD."
+        },
+        {
+          "verse": 22,
+          "text": "Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying serveth not for them that believe not, but for them which believe."
+        },
+        {
+          "verse": 23,
+          "text": "If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?"
+        },
+        {
+          "verse": 24,
+          "text": "But if all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:"
+        },
+        {
+          "verse": 25,
+          "text": "And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth."
+        },
+        {
+          "verse": 26,
+          "text": "How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying."
+        },
+        {
+          "verse": 27,
+          "text": "If any man speak in an unknown tongue, let it be by two, or at the most by three, and that by course; and let one interpret."
+        },
+        {
+          "verse": 28,
+          "text": "But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God."
+        },
+        {
+          "verse": 29,
+          "text": "Let the prophets speak two or three, and let the other judge."
+        },
+        {
+          "verse": 30,
+          "text": "If any thing be revealed to another that sitteth by, let the first hold his peace."
+        },
+        {
+          "verse": 31,
+          "text": "For ye may all prophesy one by one, that all may learn, and all may be comforted."
+        },
+        {
+          "verse": 32,
+          "text": "And the spirits of the prophets are subject to the prophets."
+        },
+        {
+          "verse": 33,
+          "text": "For God is not the author of confusion, but of peace, as in all churches of the saints."
+        },
+        {
+          "verse": 34,
+          "text": "Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law."
+        },
+        {
+          "verse": 35,
+          "text": "And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church."
+        },
+        {
+          "verse": 36,
+          "text": "What? came the word of God out from you? or came it unto you only?"
+        },
+        {
+          "verse": 37,
+          "text": "If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord."
+        },
+        {
+          "verse": 38,
+          "text": "But if any man be ignorant, let him be ignorant."
+        },
+        {
+          "verse": 39,
+          "text": "Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues."
+        },
+        {
+          "verse": 40,
+          "text": "Let all things be done decently and in order."
+        }
+      ],
+      "verse_count": 40,
+      "word_count": 887
+    }
+  ]
+}

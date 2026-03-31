@@ -1,0 +1,701 @@
+{
+  "day_number": 36,
+  "references": "Exodus 21-22 • Job 36 • Isaiah 36 • Mark 8",
+  "word_count": 3730,
+  "estimated_minutes": 18,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Mark 8:37",
+    "text": "Or what shall a man give in exchange for his soul?",
+    "reflection": "If the day gets scattered, return here and let this verse gather you again."
+  },
+  "tomorrow_teaser": "Exodus 23-24 • Job 37 • Isaiah 37 • Mark 9",
+  "chapters": [
+    {
+      "book": "Exodus",
+      "chapter_number": 21,
+      "chapter_title": "Exodus 21",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now these are the judgments which thou shalt set before them."
+        },
+        {
+          "verse": 2,
+          "text": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing."
+        },
+        {
+          "verse": 3,
+          "text": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him."
+        },
+        {
+          "verse": 4,
+          "text": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself."
+        },
+        {
+          "verse": 5,
+          "text": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:"
+        },
+        {
+          "verse": 6,
+          "text": "Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever."
+        },
+        {
+          "verse": 7,
+          "text": "And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do."
+        },
+        {
+          "verse": 8,
+          "text": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her."
+        },
+        {
+          "verse": 9,
+          "text": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters."
+        },
+        {
+          "verse": 10,
+          "text": "If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish."
+        },
+        {
+          "verse": 11,
+          "text": "And if he do not these three unto her, then shall she go out free without money."
+        },
+        {
+          "verse": 12,
+          "text": "He that smiteth a man, so that he die, shall be surely put to death."
+        },
+        {
+          "verse": 13,
+          "text": "And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee."
+        },
+        {
+          "verse": 14,
+          "text": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die."
+        },
+        {
+          "verse": 15,
+          "text": "And he that smiteth his father, or his mother, shall be surely put to death."
+        },
+        {
+          "verse": 16,
+          "text": "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death."
+        },
+        {
+          "verse": 17,
+          "text": "And he that curseth his father, or his mother, shall surely be put to death."
+        },
+        {
+          "verse": 18,
+          "text": "And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:"
+        },
+        {
+          "verse": 19,
+          "text": "If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed."
+        },
+        {
+          "verse": 20,
+          "text": "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished."
+        },
+        {
+          "verse": 21,
+          "text": "Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money."
+        },
+        {
+          "verse": 22,
+          "text": "If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges determine."
+        },
+        {
+          "verse": 23,
+          "text": "And if any mischief follow, then thou shalt give life for life,"
+        },
+        {
+          "verse": 24,
+          "text": "Eye for eye, tooth for tooth, hand for hand, foot for foot,"
+        },
+        {
+          "verse": 25,
+          "text": "Burning for burning, wound for wound, stripe for stripe."
+        },
+        {
+          "verse": 26,
+          "text": "And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake."
+        },
+        {
+          "verse": 27,
+          "text": "And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake."
+        },
+        {
+          "verse": 28,
+          "text": "If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit."
+        },
+        {
+          "verse": 29,
+          "text": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death."
+        },
+        {
+          "verse": 30,
+          "text": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him."
+        },
+        {
+          "verse": 31,
+          "text": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him."
+        },
+        {
+          "verse": 32,
+          "text": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned."
+        },
+        {
+          "verse": 33,
+          "text": "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;"
+        },
+        {
+          "verse": 34,
+          "text": "The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his."
+        },
+        {
+          "verse": 35,
+          "text": "And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide."
+        },
+        {
+          "verse": 36,
+          "text": "Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own."
+        }
+      ],
+      "verse_count": 36,
+      "word_count": 901
+    },
+    {
+      "book": "Exodus",
+      "chapter_number": 22,
+      "chapter_title": "Exodus 22",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep."
+        },
+        {
+          "verse": 2,
+          "text": "If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him."
+        },
+        {
+          "verse": 3,
+          "text": "If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft."
+        },
+        {
+          "verse": 4,
+          "text": "If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double."
+        },
+        {
+          "verse": 5,
+          "text": "If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution."
+        },
+        {
+          "verse": 6,
+          "text": "If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed therewith; he that kindled the fire shall surely make restitution."
+        },
+        {
+          "verse": 7,
+          "text": "If a man shall deliver unto his neighbour money or stuff to keep, and it be stolen out of the man’s house; if the thief be found, let him pay double."
+        },
+        {
+          "verse": 8,
+          "text": "If the thief be not found, then the master of the house shall be brought unto the judges, to see whether he have put his hand unto his neighbour’s goods."
+        },
+        {
+          "verse": 9,
+          "text": "For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour."
+        },
+        {
+          "verse": 10,
+          "text": "If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it:"
+        },
+        {
+          "verse": 11,
+          "text": "Then shall an oath of the LORD be between them both, that he hath not put his hand unto his neighbour’s goods; and the owner of it shall accept thereof, and he shall not make it good."
+        },
+        {
+          "verse": 12,
+          "text": "And if it be stolen from him, he shall make restitution unto the owner thereof."
+        },
+        {
+          "verse": 13,
+          "text": "If it be torn in pieces, then let him bring it for witness, and he shall not make good that which was torn."
+        },
+        {
+          "verse": 14,
+          "text": "And if a man borrow ought of his neighbour, and it be hurt, or die, the owner thereof being not with it, he shall surely make it good."
+        },
+        {
+          "verse": 15,
+          "text": "But if the owner thereof be with it, he shall not make it good: if it be an hired thing, it came for his hire."
+        },
+        {
+          "verse": 16,
+          "text": "And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife."
+        },
+        {
+          "verse": 17,
+          "text": "If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins."
+        },
+        {
+          "verse": 18,
+          "text": "Thou shalt not suffer a witch to live."
+        },
+        {
+          "verse": 19,
+          "text": "Whosoever lieth with a beast shall surely be put to death."
+        },
+        {
+          "verse": 20,
+          "text": "He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed."
+        },
+        {
+          "verse": 21,
+          "text": "Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt."
+        },
+        {
+          "verse": 22,
+          "text": "Ye shall not afflict any widow, or fatherless child."
+        },
+        {
+          "verse": 23,
+          "text": "If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;"
+        },
+        {
+          "verse": 24,
+          "text": "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless."
+        },
+        {
+          "verse": 25,
+          "text": "If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury."
+        },
+        {
+          "verse": 26,
+          "text": "If thou at all take thy neighbour’s raiment to pledge, thou shalt deliver it unto him by that the sun goeth down:"
+        },
+        {
+          "verse": 27,
+          "text": "For that is his covering only, it is his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I am gracious."
+        },
+        {
+          "verse": 28,
+          "text": "Thou shalt not revile the gods, nor curse the ruler of thy people."
+        },
+        {
+          "verse": 29,
+          "text": "Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me."
+        },
+        {
+          "verse": 30,
+          "text": "Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me."
+        },
+        {
+          "verse": 31,
+          "text": "And ye shall be holy men unto me: neither shall ye eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 795
+    },
+    {
+      "book": "Job",
+      "chapter_number": 36,
+      "chapter_title": "Job 36",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Elihu also proceeded, and said,"
+        },
+        {
+          "verse": 2,
+          "text": "Suffer me a little, and I will shew thee that I have yet to speak on God’s behalf."
+        },
+        {
+          "verse": 3,
+          "text": "I will fetch my knowledge from afar, and will ascribe righteousness to my Maker."
+        },
+        {
+          "verse": 4,
+          "text": "For truly my words shall not be false: he that is perfect in knowledge is with thee."
+        },
+        {
+          "verse": 5,
+          "text": "Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom."
+        },
+        {
+          "verse": 6,
+          "text": "He preserveth not the life of the wicked: but giveth right to the poor."
+        },
+        {
+          "verse": 7,
+          "text": "He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted."
+        },
+        {
+          "verse": 8,
+          "text": "And if they be bound in fetters, and be holden in cords of affliction;"
+        },
+        {
+          "verse": 9,
+          "text": "Then he sheweth them their work, and their transgressions that they have exceeded."
+        },
+        {
+          "verse": 10,
+          "text": "He openeth also their ear to discipline, and commandeth that they return from iniquity."
+        },
+        {
+          "verse": 11,
+          "text": "If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures."
+        },
+        {
+          "verse": 12,
+          "text": "But if they obey not, they shall perish by the sword, and they shall die without knowledge."
+        },
+        {
+          "verse": 13,
+          "text": "But the hypocrites in heart heap up wrath: they cry not when he bindeth them."
+        },
+        {
+          "verse": 14,
+          "text": "They die in youth, and their life is among the unclean."
+        },
+        {
+          "verse": 15,
+          "text": "He delivereth the poor in his affliction, and openeth their ears in oppression."
+        },
+        {
+          "verse": 16,
+          "text": "Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness."
+        },
+        {
+          "verse": 17,
+          "text": "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee."
+        },
+        {
+          "verse": 18,
+          "text": "Because there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee."
+        },
+        {
+          "verse": 19,
+          "text": "Will he esteem thy riches? no, not gold, nor all the forces of strength."
+        },
+        {
+          "verse": 20,
+          "text": "Desire not the night, when people are cut off in their place."
+        },
+        {
+          "verse": 21,
+          "text": "Take heed, regard not iniquity: for this hast thou chosen rather than affliction."
+        },
+        {
+          "verse": 22,
+          "text": "Behold, God exalteth by his power: who teacheth like him?"
+        },
+        {
+          "verse": 23,
+          "text": "Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?"
+        },
+        {
+          "verse": 24,
+          "text": "Remember that thou magnify his work, which men behold."
+        },
+        {
+          "verse": 25,
+          "text": "Every man may see it; man may behold it afar off."
+        },
+        {
+          "verse": 26,
+          "text": "Behold, God is great, and we know him not, neither can the number of his years be searched out."
+        },
+        {
+          "verse": 27,
+          "text": "For he maketh small the drops of water: they pour down rain according to the vapour thereof:"
+        },
+        {
+          "verse": 28,
+          "text": "Which the clouds do drop and distil upon man abundantly."
+        },
+        {
+          "verse": 29,
+          "text": "Also can any understand the spreadings of the clouds, or the noise of his tabernacle?"
+        },
+        {
+          "verse": 30,
+          "text": "Behold, he spreadeth his light upon it, and covereth the bottom of the sea."
+        },
+        {
+          "verse": 31,
+          "text": "For by them judgeth he the people; he giveth meat in abundance."
+        },
+        {
+          "verse": 32,
+          "text": "With clouds he covereth the light; and commandeth it not to shine by the cloud that cometh betwixt."
+        },
+        {
+          "verse": 33,
+          "text": "The noise thereof sheweth concerning it, the cattle also concerning the vapour."
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 496
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 36,
+      "chapter_title": "Isaiah 36",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now it came to pass in the fourteenth year of king Hezekiah, that Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them."
+        },
+        {
+          "verse": 2,
+          "text": "And the king of Assyria sent Rabshakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller’s field."
+        },
+        {
+          "verse": 3,
+          "text": "Then came forth unto him Eliakim, Hilkiah’s son, which was over the house, and Shebna the scribe, and Joah, Asaph’s son, the recorder."
+        },
+        {
+          "verse": 4,
+          "text": "And Rabshakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence is this wherein thou trustest?"
+        },
+        {
+          "verse": 5,
+          "text": "I say, sayest thou, (but they are but vain words) I have counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?"
+        },
+        {
+          "verse": 6,
+          "text": "Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust in him."
+        },
+        {
+          "verse": 7,
+          "text": "But if thou say to me, We trust in the LORD our God: is it not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?"
+        },
+        {
+          "verse": 8,
+          "text": "Now therefore give pledges, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them."
+        },
+        {
+          "verse": 9,
+          "text": "How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?"
+        },
+        {
+          "verse": 10,
+          "text": "And am I now come up without the LORD against this land to destroy it? the LORD said unto me, Go up against this land, and destroy it."
+        },
+        {
+          "verse": 11,
+          "text": "Then said Eliakim and Shebna and Joah unto Rabshakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand it: and speak not to us in the Jews’ language, in the ears of the people that are on the wall."
+        },
+        {
+          "verse": 12,
+          "text": "But Rabshakeh said, Hath my master sent me to thy master and to thee to speak these words? hath he not sent me to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?"
+        },
+        {
+          "verse": 13,
+          "text": "Then Rabshakeh stood, and cried with a loud voice in the Jews’ language, and said, Hear ye the words of the great king, the king of Assyria."
+        },
+        {
+          "verse": 14,
+          "text": "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you."
+        },
+        {
+          "verse": 15,
+          "text": "Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us: this city shall not be delivered into the hand of the king of Assyria."
+        },
+        {
+          "verse": 16,
+          "text": "Hearken not to Hezekiah: for thus saith the king of Assyria, Make an agreement with me by a present, and come out to me: and eat ye every one of his vine, and every one of his fig tree, and drink ye every one the waters of his own cistern;"
+        },
+        {
+          "verse": 17,
+          "text": "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards."
+        },
+        {
+          "verse": 18,
+          "text": "Beware lest Hezekiah persuade you, saying, The LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?"
+        },
+        {
+          "verse": 19,
+          "text": "Where are the gods of Hamath and Arphad? where are the gods of Sepharvaim? and have they delivered Samaria out of my hand?"
+        },
+        {
+          "verse": 20,
+          "text": "Who are they among all the gods of these lands, that have delivered their land out of my hand, that the LORD should deliver Jerusalem out of my hand?"
+        },
+        {
+          "verse": 21,
+          "text": "But they held their peace, and answered him not a word: for the king’s commandment was, saying, Answer him not."
+        },
+        {
+          "verse": 22,
+          "text": "Then came Eliakim, the son of Hilkiah, that was over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 695
+    },
+    {
+      "book": "Mark",
+      "chapter_number": 8,
+      "chapter_title": "Mark 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,"
+        },
+        {
+          "verse": 2,
+          "text": "I have compassion on the multitude, because they have now been with me three days, and have nothing to eat:"
+        },
+        {
+          "verse": 3,
+          "text": "And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far."
+        },
+        {
+          "verse": 4,
+          "text": "And his disciples answered him, From whence can a man satisfy these men with bread here in the wilderness?"
+        },
+        {
+          "verse": 5,
+          "text": "And he asked them, How many loaves have ye? And they said, Seven."
+        },
+        {
+          "verse": 6,
+          "text": "And he commanded the people to sit down on the ground: and he took the seven loaves, and gave thanks, and brake, and gave to his disciples to set before them; and they did set them before the people."
+        },
+        {
+          "verse": 7,
+          "text": "And they had a few small fishes: and he blessed, and commanded to set them also before them."
+        },
+        {
+          "verse": 8,
+          "text": "So they did eat, and were filled: and they took up of the broken meat that was left seven baskets."
+        },
+        {
+          "verse": 9,
+          "text": "And they that had eaten were about four thousand: and he sent them away."
+        },
+        {
+          "verse": 10,
+          "text": "And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha."
+        },
+        {
+          "verse": 11,
+          "text": "And the Pharisees came forth, and began to question with him, seeking of him a sign from heaven, tempting him."
+        },
+        {
+          "verse": 12,
+          "text": "And he sighed deeply in his spirit, and saith, Why doth this generation seek after a sign? verily I say unto you, There shall no sign be given unto this generation."
+        },
+        {
+          "verse": 13,
+          "text": "And he left them, and entering into the ship again departed to the other side."
+        },
+        {
+          "verse": 14,
+          "text": "Now the disciples had forgotten to take bread, neither had they in the ship with them more than one loaf."
+        },
+        {
+          "verse": 15,
+          "text": "And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and of the leaven of Herod."
+        },
+        {
+          "verse": 16,
+          "text": "And they reasoned among themselves, saying, It is because we have no bread."
+        },
+        {
+          "verse": 17,
+          "text": "And when Jesus knew it, he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?"
+        },
+        {
+          "verse": 18,
+          "text": "Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?"
+        },
+        {
+          "verse": 19,
+          "text": "When I brake the five loaves among five thousand, how many baskets full of fragments took ye up? They say unto him, Twelve."
+        },
+        {
+          "verse": 20,
+          "text": "And when the seven among four thousand, how many baskets full of fragments took ye up? And they said, Seven."
+        },
+        {
+          "verse": 21,
+          "text": "And he said unto them, How is it that ye do not understand?"
+        },
+        {
+          "verse": 22,
+          "text": "And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him."
+        },
+        {
+          "verse": 23,
+          "text": "And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought."
+        },
+        {
+          "verse": 24,
+          "text": "And he looked up, and said, I see men as trees, walking."
+        },
+        {
+          "verse": 25,
+          "text": "After that he put his hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly."
+        },
+        {
+          "verse": 26,
+          "text": "And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town."
+        },
+        {
+          "verse": 27,
+          "text": "And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying unto them, Whom do men say that I am?"
+        },
+        {
+          "verse": 28,
+          "text": "And they answered, John the Baptist: but some say, Elias; and others, One of the prophets."
+        },
+        {
+          "verse": 29,
+          "text": "And he saith unto them, But whom say ye that I am? And Peter answereth and saith unto him, Thou art the Christ."
+        },
+        {
+          "verse": 30,
+          "text": "And he charged them that they should tell no man of him."
+        },
+        {
+          "verse": 31,
+          "text": "And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again."
+        },
+        {
+          "verse": 32,
+          "text": "And he spake that saying openly. And Peter took him, and began to rebuke him."
+        },
+        {
+          "verse": 33,
+          "text": "But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men."
+        },
+        {
+          "verse": 34,
+          "text": "And when he had called the people unto him with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me."
+        },
+        {
+          "verse": 35,
+          "text": "For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel’s, the same shall save it."
+        },
+        {
+          "verse": 36,
+          "text": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?"
+        },
+        {
+          "verse": 37,
+          "text": "Or what shall a man give in exchange for his soul?"
+        },
+        {
+          "verse": 38,
+          "text": "Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels."
+        }
+      ],
+      "verse_count": 38,
+      "word_count": 843
+    }
+  ]
+}

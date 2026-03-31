@@ -1,0 +1,426 @@
+{
+  "day_number": 278,
+  "references": "1 Esdras 2 • Ecclesiasticus 19",
+  "word_count": 1536,
+  "estimated_minutes": 8,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "1 Esdras 2:27",
+    "text": "The men of Machmas, a hundred twenty-two.",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "1 Esdras 3 • Ecclesiasticus 20",
+  "chapters": [
+    {
+      "book": "1 Esdras",
+      "chapter_number": 2,
+      "chapter_title": "1 Esdras 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now *these are the children of the province, that went out of the captivity, which Nabuchodonosor, king of Babylon, had carried away to Babylon, and who returned to Jerusalem and Juda, every man to his city:"
+        },
+        {
+          "verse": 2,
+          "text": "Who came with Zorobabel, Josue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. The number of the men of the people of Israel:"
+        },
+        {
+          "verse": 3,
+          "text": "The children of Pharos, two thousand one hundred seventy-two."
+        },
+        {
+          "verse": 4,
+          "text": "The children of Sephatia, three hundred seventy-two."
+        },
+        {
+          "verse": 5,
+          "text": "The children of Area, seven hundred seventy-five."
+        },
+        {
+          "verse": 6,
+          "text": "The children of Phahath Moab, of the children of Josue: Joab, two thousand eight hundred twelve."
+        },
+        {
+          "verse": 7,
+          "text": "The children of Elam, a thousand two hundred fifty-four."
+        },
+        {
+          "verse": 8,
+          "text": "The children of Zethua, nine hundred forty-five."
+        },
+        {
+          "verse": 9,
+          "text": "The children of Zachai, seven hundred sixty."
+        },
+        {
+          "verse": 10,
+          "text": "The children of Bani, six hundred forty-two."
+        },
+        {
+          "verse": 11,
+          "text": "The children of Bebai, six hundred twenty-three."
+        },
+        {
+          "verse": 12,
+          "text": "The children of Azgad, a thousand two hundred twenty-two."
+        },
+        {
+          "verse": 13,
+          "text": "The children of Adonicam, six hundred sixty-six."
+        },
+        {
+          "verse": 14,
+          "text": "The children of Beguai, two thousand fifty-six."
+        },
+        {
+          "verse": 15,
+          "text": "The children of Adin, four hundred fifty-four."
+        },
+        {
+          "verse": 16,
+          "text": "The children of Ather, who were of Ezechias, ninety-eight."
+        },
+        {
+          "verse": 17,
+          "text": "The children of Besai, three hundred and twenty-three."
+        },
+        {
+          "verse": 18,
+          "text": "The children of Jora, a hundred and twelve."
+        },
+        {
+          "verse": 19,
+          "text": "The children of Hasum, two hundred twenty-three."
+        },
+        {
+          "verse": 20,
+          "text": "The children of Gebbar, ninety-five."
+        },
+        {
+          "verse": 21,
+          "text": "The children of Bethlehem, a hundred twenty-three."
+        },
+        {
+          "verse": 22,
+          "text": "The men of Netupha, fifty-six."
+        },
+        {
+          "verse": 23,
+          "text": "The men of Anathoth, a hundred twenty-eight."
+        },
+        {
+          "verse": 24,
+          "text": "The children of Azmaveth, forty-two."
+        },
+        {
+          "verse": 25,
+          "text": "The children of Cariathiarim, Cephira, and Beroth, seven hundred forty-three."
+        },
+        {
+          "verse": 26,
+          "text": "The children of Rama and Gabaa, six hundred twenty-one."
+        },
+        {
+          "verse": 27,
+          "text": "The men of Machmas, a hundred twenty-two."
+        },
+        {
+          "verse": 28,
+          "text": "The men of Bethel and Hai, two hundred twenty-three."
+        },
+        {
+          "verse": 29,
+          "text": "The children of Nebo, fifty-two."
+        },
+        {
+          "verse": 30,
+          "text": "The children of Megbis, a hundred fifty-six."
+        },
+        {
+          "verse": 31,
+          "text": "The children of the other Elam, a thousand two hundred fifty-four."
+        },
+        {
+          "verse": 32,
+          "text": "The children of Harim, three hundred and twenty."
+        },
+        {
+          "verse": 33,
+          "text": "The children of Lod, Hadid and Ono, seven hundred twenty-five."
+        },
+        {
+          "verse": 34,
+          "text": "The children of Jericho, three hundred forty-five."
+        },
+        {
+          "verse": 35,
+          "text": "The children of Senaa, three thousand six hundred thirty."
+        },
+        {
+          "verse": 36,
+          "text": "The priests: the children of Jadaia, of the house of Josue, nine hundred seventy-three."
+        },
+        {
+          "verse": 37,
+          "text": "The children of Emmer, a thousand fifty-two."
+        },
+        {
+          "verse": 38,
+          "text": "The children of Pheshur, a thousand two hundred forty-seven."
+        },
+        {
+          "verse": 39,
+          "text": "The children of Harim, a thousand and seventeen."
+        },
+        {
+          "verse": 40,
+          "text": "The Levites: The children of Josue, and of Cedmihel, the children of Odovia, seventy-four."
+        },
+        {
+          "verse": 41,
+          "text": "The singing men: The children of Asaph, a hundred twenty-eight."
+        },
+        {
+          "verse": 42,
+          "text": "The children of the porters: the children of Sellum, the children of Ater, the children of Telmon, the children of Accub, the children of Hatita, the children of Sobai: in all a hundred thirty-nine."
+        },
+        {
+          "verse": 43,
+          "text": "The Nathinites: The children of Siha, the children of Hasupha, the children of Tabbaoth,"
+        },
+        {
+          "verse": 44,
+          "text": "The children of Ceros, the children of Sia, the children of Phadon,"
+        },
+        {
+          "verse": 45,
+          "text": "The children of Lebana, the children of Hegaba, the children of Accub,"
+        },
+        {
+          "verse": 46,
+          "text": "The children of Hagab, the children of Semlai, the children of Hanan,"
+        },
+        {
+          "verse": 47,
+          "text": "The children of Gaddel, the children of Gaher, the children of Raaia,"
+        },
+        {
+          "verse": 48,
+          "text": "The children of Rasin, the children of Necoda, the children of Gazam,"
+        },
+        {
+          "verse": 49,
+          "text": "The children of Aza, the children of Phasea, the children of Besee,"
+        },
+        {
+          "verse": 50,
+          "text": "The children of Asena, the children of Munim, the children of Nephusim,"
+        },
+        {
+          "verse": 51,
+          "text": "The children of Bacbuc, the children of Hacupha, the children of Harhur."
+        },
+        {
+          "verse": 52,
+          "text": "The children of Besluth, the children of Mahida, the children of Harsa,"
+        },
+        {
+          "verse": 53,
+          "text": "The children of Bercos, the children of Sisara, the children of Thema,"
+        },
+        {
+          "verse": 54,
+          "text": "The children of Nasia, the children of Hatipha."
+        },
+        {
+          "verse": 55,
+          "text": "The children of the servants of Solomon, the children of Sotai, the children of Sopheret, the children of Pharuda,"
+        },
+        {
+          "verse": 56,
+          "text": "The children of Jala, the children of Dercon, the children of Geddel."
+        },
+        {
+          "verse": 57,
+          "text": "The children of Saphatia, the children of Hatil, the children of Phochereth, which were of Asebaim, the children of Ami,"
+        },
+        {
+          "verse": 58,
+          "text": "All the Nathinites, and the children of the servants of Solomon, three hundred ninety-two."
+        },
+        {
+          "verse": 59,
+          "text": "And these are they that came up from Thelmela, Thelharsa, Cherub, and Adon, and Emer. And they could not shew the house of their fathers and their seed, whether they were of Israel."
+        },
+        {
+          "verse": 60,
+          "text": "The children of Dalaia, the children of Tobia, the children of Necoda, six hundred fifty-two."
+        },
+        {
+          "verse": 61,
+          "text": "And of the children of the priests: The children of Hobia, the children of Accos, the children of Berzellai, who took a wife of the daughters of Berzellai, the Galaadite, and was called by their name:"
+        },
+        {
+          "verse": 62,
+          "text": "These sought the writing of their genealogy, and found it not; and they were cast out of the priesthood."
+        },
+        {
+          "verse": 63,
+          "text": "*And Athersatha said to them, that they should not eat of the holy of holies, till there arose a priest, learned and perfect."
+        },
+        {
+          "verse": 64,
+          "text": "All the multitudes as one man, were forty-two thousand three hundred and sixty,"
+        },
+        {
+          "verse": 65,
+          "text": "Besides their men-servants, and women-servants, of whom there were seven thousand three hundred and thirty-seven: and among them singing men and singing women, two hundred."
+        },
+        {
+          "verse": 66,
+          "text": "Their horses, seven hundred thirty-six, their mules, two hundred forty-five,"
+        },
+        {
+          "verse": 67,
+          "text": "Their camels, four hundred thirty-five, their asses, six thousand seven hundred and twenty."
+        },
+        {
+          "verse": 68,
+          "text": "And some of the chief of the fathers, when they came to the temple of the Lord, which is in Jerusalem, offered freely to the house of the Lord to build it in its place."
+        },
+        {
+          "verse": 69,
+          "text": "According to their ability, they gave towards the expenses of the work, sixty-one thousand solids of gold, five thousand pounds of silver, and a hundred garments for the priests."
+        },
+        {
+          "verse": 70,
+          "text": "So the priests, and the Levites, and some of the people, and the singing men, and the porters, and the Nathinites, dwelt in their cities, and all Israel in their cities."
+        }
+      ],
+      "verse_count": 70,
+      "word_count": 904
+    },
+    {
+      "book": "Ecclesiasticus",
+      "chapter_number": 19,
+      "chapter_title": "Ecclesiasticus 19",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A workman that is a drunkard shall not be rich: and he that contemneth small things, shall fall by little and little."
+        },
+        {
+          "verse": 2,
+          "text": "*Wine and women make wise men fall off, and shall rebuke the prudent:"
+        },
+        {
+          "verse": 3,
+          "text": "And he that joineth himself to harlots, will be wicked. Rottenness and worms shall inherit him, and he shall be lifted up for a greater example, and his soul shall be taken away out of the number."
+        },
+        {
+          "verse": 4,
+          "text": "*He that is hasty to give credit, is light of heart, and shall be lessened: and he that sinneth against his own soul, shall be despised."
+        },
+        {
+          "verse": 5,
+          "text": "He that rejoiceth in iniquity, shall be censured, and he that hateth chastisement, shall have less life: and he that hateth babbling, extinguisheth evil."
+        },
+        {
+          "verse": 6,
+          "text": "He that sinneth against his own soul, shall repent: and he that is delighted with wickedness, shall be condemned."
+        },
+        {
+          "verse": 7,
+          "text": "Rehearse not again a wicked and harsh word, and thou shalt not fare the worse."
+        },
+        {
+          "verse": 8,
+          "text": "Tell not thy mind to friend or foe: and if there be a sin with thee, disclose it not."
+        },
+        {
+          "verse": 9,
+          "text": "For he will hearken to thee, and will watch thee, and as it were defending thy sin he will hate thee, and so will he be with thee always."
+        },
+        {
+          "verse": 10,
+          "text": "Hast thou heard a word against thy neighbour? let it die within thee, trusting that it will not burst thee."
+        },
+        {
+          "verse": 11,
+          "text": "At the hearing of a word the fool is in travail, as a woman groaning in the bringing forth a child."
+        },
+        {
+          "verse": 12,
+          "text": "As an arrow that sticketh in a man's thigh: so is a word in the heart of a fool."
+        },
+        {
+          "verse": 13,
+          "text": "*Reprove a friend, lest he may not have understood, and say; I did it not: or if he did it, that he may do it no more."
+        },
+        {
+          "verse": 14,
+          "text": "Reprove thy neighbour, for it may be he hath not said it: and if he hath said it, that he may not say it again."
+        },
+        {
+          "verse": 15,
+          "text": "Admonish thy friend: for there is often a fault committed."
+        },
+        {
+          "verse": 16,
+          "text": "And believe not every word. There is one, that slippeth with the tongue, but not from his heart."
+        },
+        {
+          "verse": 17,
+          "text": "*For who is there that hath not offended with his tongue? Admonish thy neighbour before thou threaten him."
+        },
+        {
+          "verse": 18,
+          "text": "And give place to the fear of the Most High: for the fear of God is all wisdom, and therein is to fear God, and the disposition of the law is in all wisdom."
+        },
+        {
+          "verse": 19,
+          "text": "But the learning of wickedness is not wisdom: and the device of sinners is not prudence."
+        },
+        {
+          "verse": 20,
+          "text": "There is a subtle wickedness, and the same is detestable: and there is a man that is foolish, wanting in wisdom."
+        },
+        {
+          "verse": 21,
+          "text": "Better is a man that hath less wisdom, and wanteth understanding, with the fear of God, than he that aboundeth in understanding, and transgresseth the law of the Most High."
+        },
+        {
+          "verse": 22,
+          "text": "There is an exquisite subtilty, and the same is unjust."
+        },
+        {
+          "verse": 23,
+          "text": "And there is one that uttereth an exact word, telling the truth. There is one that humbleth himself wickedly, and his interior is full of deceit."
+        },
+        {
+          "verse": 24,
+          "text": "And there is one that submitteth himself exceedingly with a great lowliness: and there is one that casteth down his countenance, and maketh as if he did not see that which is unknown:"
+        },
+        {
+          "verse": 25,
+          "text": "And if he be hindered from sinning for want of power, if he shall find opportunity to do evil, he will do it."
+        },
+        {
+          "verse": 26,
+          "text": "A man is known by his look, and a wise man, when thou meetest him, is known by his countenance."
+        },
+        {
+          "verse": 27,
+          "text": "The attire of the body, and the laughter of the teeth, and the gait of the man, shew what he is."
+        },
+        {
+          "verse": 28,
+          "text": "There is a lying rebuke in the anger of an injurious man: and there is a judgment that is not allowed to be good: and there is one that holdeth his peace, and he is wise."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 632
+    }
+  ]
+}

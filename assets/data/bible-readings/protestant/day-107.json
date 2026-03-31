@@ -1,0 +1,364 @@
+{
+  "day_number": 107,
+  "references": "Deuteronomy 25 • Psalms 65 • Jeremiah 41 • Acts 18",
+  "word_count": 2167,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 65:2",
+    "text": "O thou that hearest prayer, unto thee shall all flesh come.",
+    "reflection": "Let this be the sheltering word of the day: small enough to remember, strong enough to keep."
+  },
+  "tomorrow_teaser": "Deuteronomy 26 • Psalms 66 • Jeremiah 42 • Acts 19",
+  "chapters": [
+    {
+      "book": "Deuteronomy",
+      "chapter_number": 25,
+      "chapter_title": "Deuteronomy 25",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked."
+        },
+        {
+          "verse": 2,
+          "text": "And it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number."
+        },
+        {
+          "verse": 3,
+          "text": "Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee."
+        },
+        {
+          "verse": 4,
+          "text": "Thou shalt not muzzle the ox when he treadeth out the corn."
+        },
+        {
+          "verse": 5,
+          "text": "If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her."
+        },
+        {
+          "verse": 6,
+          "text": "And it shall be, that the firstborn which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel."
+        },
+        {
+          "verse": 7,
+          "text": "And if the man like not to take his brother’s wife, then let his brother’s wife go up to the gate unto the elders, and say, My husband’s brother refuseth to raise up unto his brother a name in Israel, he will not perform the duty of my husband’s brother."
+        },
+        {
+          "verse": 8,
+          "text": "Then the elders of his city shall call him, and speak unto him: and if he stand to it, and say, I like not to take her;"
+        },
+        {
+          "verse": 9,
+          "text": "Then shall his brother’s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother’s house."
+        },
+        {
+          "verse": 10,
+          "text": "And his name shall be called in Israel, The house of him that hath his shoe loosed."
+        },
+        {
+          "verse": 11,
+          "text": "When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets:"
+        },
+        {
+          "verse": 12,
+          "text": "Then thou shalt cut off her hand, thine eye shall not pity her."
+        },
+        {
+          "verse": 13,
+          "text": "Thou shalt not have in thy bag divers weights, a great and a small."
+        },
+        {
+          "verse": 14,
+          "text": "Thou shalt not have in thine house divers measures, a great and a small."
+        },
+        {
+          "verse": 15,
+          "text": "But thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the LORD thy God giveth thee."
+        },
+        {
+          "verse": 16,
+          "text": "For all that do such things, and all that do unrighteously, are an abomination unto the LORD thy God."
+        },
+        {
+          "verse": 17,
+          "text": "Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;"
+        },
+        {
+          "verse": 18,
+          "text": "How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary; and he feared not God."
+        },
+        {
+          "verse": 19,
+          "text": "Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it."
+        }
+      ],
+      "verse_count": 19,
+      "word_count": 570
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 65,
+      "chapter_title": "Psalms 65",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed."
+        },
+        {
+          "verse": 2,
+          "text": "O thou that hearest prayer, unto thee shall all flesh come."
+        },
+        {
+          "verse": 3,
+          "text": "Iniquities prevail against me: as for our transgressions, thou shalt purge them away."
+        },
+        {
+          "verse": 4,
+          "text": "Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple."
+        },
+        {
+          "verse": 5,
+          "text": "By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:"
+        },
+        {
+          "verse": 6,
+          "text": "Which by his strength setteth fast the mountains; being girded with power:"
+        },
+        {
+          "verse": 7,
+          "text": "Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people."
+        },
+        {
+          "verse": 8,
+          "text": "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice."
+        },
+        {
+          "verse": 9,
+          "text": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it."
+        },
+        {
+          "verse": 10,
+          "text": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof."
+        },
+        {
+          "verse": 11,
+          "text": "Thou crownest the year with thy goodness; and thy paths drop fatness."
+        },
+        {
+          "verse": 12,
+          "text": "They drop upon the pastures of the wilderness: and the little hills rejoice on every side."
+        },
+        {
+          "verse": 13,
+          "text": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 267
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 41,
+      "chapter_title": "Jeremiah 41",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now it came to pass in the seventh month, that Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came unto Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah."
+        },
+        {
+          "verse": 2,
+          "text": "Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and smote Gedaliah the son of Ahikam the son of Shaphan with the sword, and slew him, whom the king of Babylon had made governor over the land."
+        },
+        {
+          "verse": 3,
+          "text": "Ishmael also slew all the Jews that were with him, even with Gedaliah, at Mizpah, and the Chaldeans that were found there, and the men of war."
+        },
+        {
+          "verse": 4,
+          "text": "And it came to pass the second day after he had slain Gedaliah, and no man knew it,"
+        },
+        {
+          "verse": 5,
+          "text": "That there came certain from Shechem, from Shiloh, and from Samaria, even fourscore men, having their beards shaven, and their clothes rent, and having cut themselves, with offerings and incense in their hand, to bring them to the house of the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "And Ishmael the son of Nethaniah went forth from Mizpah to meet them, weeping all along as he went: and it came to pass, as he met them, he said unto them, Come to Gedaliah the son of Ahikam."
+        },
+        {
+          "verse": 7,
+          "text": "And it was so, when they came into the midst of the city, that Ishmael the son of Nethaniah slew them, and cast them into the midst of the pit, he, and the men that were with him."
+        },
+        {
+          "verse": 8,
+          "text": "But ten men were found among them that said unto Ishmael, Slay us not: for we have treasures in the field, of wheat, and of barley, and of oil, and of honey. So he forbare, and slew them not among their brethren."
+        },
+        {
+          "verse": 9,
+          "text": "Now the pit wherein Ishmael had cast all the dead bodies of the men, whom he had slain because of Gedaliah, was it which Asa the king had made for fear of Baasha king of Israel: and Ishmael the son of Nethaniah filled it with them that were slain."
+        },
+        {
+          "verse": 10,
+          "text": "Then Ishmael carried away captive all the residue of the people that were in Mizpah, even the king’s daughters, and all the people that remained in Mizpah, whom Nebuzaradan the captain of the guard had committed to Gedaliah the son of Ahikam: and Ishmael the son of Nethaniah carried them away captive, and departed to go over to the Ammonites."
+        },
+        {
+          "verse": 11,
+          "text": "But when Johanan the son of Kareah, and all the captains of the forces that were with him, heard of all the evil that Ishmael the son of Nethaniah had done,"
+        },
+        {
+          "verse": 12,
+          "text": "Then they took all the men, and went to fight with Ishmael the son of Nethaniah, and found him by the great waters that are in Gibeon."
+        },
+        {
+          "verse": 13,
+          "text": "Now it came to pass, that when all the people which were with Ishmael saw Johanan the son of Kareah, and all the captains of the forces that were with him, then they were glad."
+        },
+        {
+          "verse": 14,
+          "text": "So all the people that Ishmael had carried away captive from Mizpah cast about and returned, and went unto Johanan the son of Kareah."
+        },
+        {
+          "verse": 15,
+          "text": "But Ishmael the son of Nethaniah escaped from Johanan with eight men, and went to the Ammonites."
+        },
+        {
+          "verse": 16,
+          "text": "Then took Johanan the son of Kareah, and all the captains of the forces that were with him, all the remnant of the people whom he had recovered from Ishmael the son of Nethaniah, from Mizpah, after that he had slain Gedaliah the son of Ahikam, even mighty men of war, and the women, and the children, and the eunuchs, whom he had brought again from Gibeon:"
+        },
+        {
+          "verse": 17,
+          "text": "And they departed, and dwelt in the habitation of Chimham, which is by Bethlehem, to go to enter into Egypt,"
+        },
+        {
+          "verse": 18,
+          "text": "Because of the Chaldeans: for they were afraid of them, because Ishmael the son of Nethaniah had slain Gedaliah the son of Ahikam, whom the king of Babylon made governor in the land."
+        }
+      ],
+      "verse_count": 18,
+      "word_count": 665
+    },
+    {
+      "book": "Acts",
+      "chapter_number": 18,
+      "chapter_title": "Acts 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "After these things Paul departed from Athens, and came to Corinth;"
+        },
+        {
+          "verse": 2,
+          "text": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them."
+        },
+        {
+          "verse": 3,
+          "text": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
+        },
+        {
+          "verse": 4,
+          "text": "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks."
+        },
+        {
+          "verse": 5,
+          "text": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ."
+        },
+        {
+          "verse": 6,
+          "text": "And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles."
+        },
+        {
+          "verse": 7,
+          "text": "And he departed thence, and entered into a certain man’s house, named Justus, one that worshipped God, whose house joined hard to the synagogue."
+        },
+        {
+          "verse": 8,
+          "text": "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized."
+        },
+        {
+          "verse": 9,
+          "text": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:"
+        },
+        {
+          "verse": 10,
+          "text": "For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city."
+        },
+        {
+          "verse": 11,
+          "text": "And he continued there a year and six months, teaching the word of God among them."
+        },
+        {
+          "verse": 12,
+          "text": "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,"
+        },
+        {
+          "verse": 13,
+          "text": "Saying, This fellow persuadeth men to worship God contrary to the law."
+        },
+        {
+          "verse": 14,
+          "text": "And when Paul was now about to open his mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O ye Jews, reason would that I should bear with you:"
+        },
+        {
+          "verse": 15,
+          "text": "But if it be a question of words and names, and of your law, look ye to it; for I will be no judge of such matters."
+        },
+        {
+          "verse": 16,
+          "text": "And he drave them from the judgment seat."
+        },
+        {
+          "verse": 17,
+          "text": "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things."
+        },
+        {
+          "verse": 18,
+          "text": "And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow."
+        },
+        {
+          "verse": 19,
+          "text": "And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews."
+        },
+        {
+          "verse": 20,
+          "text": "When they desired him to tarry longer time with them, he consented not;"
+        },
+        {
+          "verse": 21,
+          "text": "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus."
+        },
+        {
+          "verse": 22,
+          "text": "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch."
+        },
+        {
+          "verse": 23,
+          "text": "And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples."
+        },
+        {
+          "verse": 24,
+          "text": "And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus."
+        },
+        {
+          "verse": 25,
+          "text": "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John."
+        },
+        {
+          "verse": 26,
+          "text": "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto them, and expounded unto him the way of God more perfectly."
+        },
+        {
+          "verse": 27,
+          "text": "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:"
+        },
+        {
+          "verse": 28,
+          "text": "For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 665
+    }
+  ]
+}

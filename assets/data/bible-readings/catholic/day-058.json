@@ -1,0 +1,717 @@
+{
+  "day_number": 58,
+  "references": "Leviticus 25-26 • Psalms 16 • Isaias 58 • Luke 14",
+  "word_count": 4123,
+  "estimated_minutes": 20,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 16:10",
+    "text": "they have shut up their fat: their mouth hath spoken proudly.",
+    "reflection": "Come back to this sentence tonight and see what it held together for you."
+  },
+  "tomorrow_teaser": "Leviticus 27 • Numbers 1 • Psalms 17 • Isaias 59 • Luke 15",
+  "chapters": [
+    {
+      "book": "Leviticus",
+      "chapter_number": 25,
+      "chapter_title": "Leviticus 25",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Lord spoke to Moses* in Mount Sinai, saying:"
+        },
+        {
+          "verse": 2,
+          "text": "Speak to the children of Israel, and thou shalt say to them: When you shall have entered into the land which I will give you, observe the rest of the sabbath to the Lord."
+        },
+        {
+          "verse": 3,
+          "text": "*Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and shalt gather the fruits thereof:"
+        },
+        {
+          "verse": 4,
+          "text": "But in the seventh year there shall be a sabbath to the land, of the resting of the Lord: thou shalt not sow thy field, nor prune thy vineyard."
+        },
+        {
+          "verse": 5,
+          "text": "What the ground shall bring forth of itself, thou shalt not reap: neither shalt thou gather the grapes of the first-fruits as a vintage: for it is a year of rest to the land:"
+        },
+        {
+          "verse": 6,
+          "text": "But they shall be unto you for meat, to thee and to thy man-servant, to thy maid-servant and thy hireling, and to the strangers that sojourn with thee:"
+        },
+        {
+          "verse": 7,
+          "text": "All things that grow shall be meat to thy beasts and to thy cattle."
+        },
+        {
+          "verse": 8,
+          "text": "Thou shalt also number to thee seven weeks of years, that is to say, seven times seven, which together make forty-nine years:"
+        },
+        {
+          "verse": 9,
+          "text": "And thou shalt sound the trumpet in the seventh month, the tenth day of the month, in the time of the expiation in all your land:"
+        },
+        {
+          "verse": 10,
+          "text": "And thou shalt sanctify the fiftieth year, and shalt proclaim remission to all the inhabitants of thy land: for it is the year of jubilee. Every man shall return to his possession, and every one shall go back to his former family:"
+        },
+        {
+          "verse": 11,
+          "text": "Because it is the jubilee and the fiftieth year. You shall not sow, nor reap the things that grow in the field of their own accord, neither shall you gather the first-fruits of the vines,"
+        },
+        {
+          "verse": 12,
+          "text": "Because of the sanctification of the jubilee: but as they grow you shall presently eat them."
+        },
+        {
+          "verse": 13,
+          "text": "In the year of the jubilee all shall return to their possessions."
+        },
+        {
+          "verse": 14,
+          "text": "When thou shalt sell any thing to thy neighbour, or shalt buy of him; grieve not thy brother: but thou shalt buy of him according to the number of years from the jubilee,"
+        },
+        {
+          "verse": 15,
+          "text": "And he shall sell to thee according to the computation of the fruits."
+        },
+        {
+          "verse": 16,
+          "text": "The more years remain after the jubilee, the more shall the price increase: and the less time is counted, so much the less shall the purchase cost. For he shall sell to thee the time of the fruits."
+        },
+        {
+          "verse": 17,
+          "text": "Do not afflict your countrymen, but let every one fear his God: because I am the Lord your God."
+        },
+        {
+          "verse": 18,
+          "text": "Do my precepts, and keep my judgments, and fulfil them: that you may dwell in the land without any fear,"
+        },
+        {
+          "verse": 19,
+          "text": "And the ground may yield you its fruits, of which you may eat your fill, fearing no man's invasion."
+        },
+        {
+          "verse": 20,
+          "text": "But if you say: What shall we eat the seventh year, if we sow not, nor gather our fruits?"
+        },
+        {
+          "verse": 21,
+          "text": "I will give you my blessing the sixth year, and it shall yield the fruits of three years:"
+        },
+        {
+          "verse": 22,
+          "text": "And the eighth year you shall sow, and shall eat of the old fruits, until the ninth year: till new grow up, you shall eat the old store."
+        },
+        {
+          "verse": 23,
+          "text": "The land also shall not be sold for ever: because it is mine, and you are strangers and sojourners with me."
+        },
+        {
+          "verse": 24,
+          "text": "For which cause all the country of your possession shall be under the condition of redemption."
+        },
+        {
+          "verse": 25,
+          "text": "If thy brother, being impoverished, sell his little possession, and his kinsman will, he may redeem what he had sold."
+        },
+        {
+          "verse": 26,
+          "text": "But if he have no kinsman, and he himself can find the price to redeem it:"
+        },
+        {
+          "verse": 27,
+          "text": "The value of the fruits shall be counted from that time when he sold it: and the overplus he shall restore to the buyer, and so shall receive his possession again."
+        },
+        {
+          "verse": 28,
+          "text": "But if his hands find not the means to repay the price, the buyer shall have what he bought, until the year of the jubilee. For in that year all that is sold shall return to the owner, and to the ancient possessor."
+        },
+        {
+          "verse": 29,
+          "text": "He that selleth a house within the walls of a city, shall have the liberty to redeem it, until one year be expired:"
+        },
+        {
+          "verse": 30,
+          "text": "If he redeem it not, and the whole year be fully out, the buyer shall possess it, and his posterity for ever, and it cannot be redeemed, not even in the jubilee."
+        },
+        {
+          "verse": 31,
+          "text": "But if the house be in a village, that hath no walls, it shall be sold according to the same law as the fields: if it be not redeemed before, in the jubilee it shall return to the owner."
+        },
+        {
+          "verse": 32,
+          "text": "The houses of Levites, which are in cities, may always be redeemed:"
+        },
+        {
+          "verse": 33,
+          "text": "If they be not redeemed, in the jubilee they shall all return to the owners, because the houses of the cities of the Levites are for their possessions among the children of Israel."
+        },
+        {
+          "verse": 34,
+          "text": "But let not their suburbs be sold, because it is a perpetual possession."
+        },
+        {
+          "verse": 35,
+          "text": "If thy brother be impoverished, and weak of hand, and thou receive him as a stranger and sojourner, and he live with thee,"
+        },
+        {
+          "verse": 36,
+          "text": "Take not usury of him, nor more than thou gavest: fear thy God, that thy brother may live with thee."
+        },
+        {
+          "verse": 37,
+          "text": "Thou shalt not give him thy money upon usury, nor exact of him any increase of fruits."
+        },
+        {
+          "verse": 38,
+          "text": "I am the Lord your God, who brought you out of the land of Egypt, that I might give you the land of Chanaan, and might be your God."
+        },
+        {
+          "verse": 39,
+          "text": "If thy brother, constrained by poverty, sell himself to thee, thou shalt not oppress him with the service of bond-servants:"
+        },
+        {
+          "verse": 40,
+          "text": "But he shall be as a hireling, and a sojourner: he shall work with thee until the year of the jubilee,"
+        },
+        {
+          "verse": 41,
+          "text": "And afterwards he shall go out with his children, and shall return to his kindred and to the possession of his fathers."
+        },
+        {
+          "verse": 42,
+          "text": "For they are my servants, and I brought them out of the land of Egypt: let them not be sold as bond-men:"
+        },
+        {
+          "verse": 43,
+          "text": "Afflict him not by might, but fear thy God."
+        },
+        {
+          "verse": 44,
+          "text": "Let your bond-men, and your bond-women, be of the nations that are round about you."
+        },
+        {
+          "verse": 45,
+          "text": "And of the strangers that sojourn among you, or that were born of them in your land, these you shall have for servants:"
+        },
+        {
+          "verse": 46,
+          "text": "And by right of inheritance shall leave them to your posterity, and shall possess them for ever. But oppress not your brethren, the children of Israel, by might."
+        },
+        {
+          "verse": 47,
+          "text": "If the hand of a stranger, or a sojourner, grow strong among you, and thy brother being impoverished sell himself to him, or to any of his race:"
+        },
+        {
+          "verse": 48,
+          "text": "After the sale he may be redeemed. He that will of his brethren shall redeem him:"
+        },
+        {
+          "verse": 49,
+          "text": "Either his uncle, or his uncle's son, or his kinsman, by blood, or by affinity. But if he himself be able also, he shall redeem himself,"
+        },
+        {
+          "verse": 50,
+          "text": "Counting only the years from the time of his selling unto the year of the jubilee: and counting the money, that he was sold for, according to the number of the years and the reckoning of a hired servant."
+        },
+        {
+          "verse": 51,
+          "text": "If there be many years that remain until the jubilee, according to them shall he also repay the price."
+        },
+        {
+          "verse": 52,
+          "text": "If few, he shall make the reckoning with him according to the number of the years, and shall repay to the buyer of what remaineth of the years,"
+        },
+        {
+          "verse": 53,
+          "text": "His wages being allowed for which he served before: he shall not afflict him violently in thy sight."
+        },
+        {
+          "verse": 54,
+          "text": "And if by these means he cannot be redeemed, in the year of the jubilee he shall go out with his children."
+        },
+        {
+          "verse": 55,
+          "text": "For the children of Israel are my servants, whom I brought forth out of the land of Egypt."
+        }
+      ],
+      "verse_count": 55,
+      "word_count": 1292
+    },
+    {
+      "book": "Leviticus",
+      "chapter_number": 26,
+      "chapter_title": "Leviticus 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I am the Lord* your God:** you shall not make to yourselves any idol or graven thing, neither shall you erect pillars, nor set up a remarkable stone in your land, to adore it: for I am the Lord your God."
+        },
+        {
+          "verse": 2,
+          "text": "Keep my sabbaths, and reverence my sanctuary: I am the Lord."
+        },
+        {
+          "verse": 3,
+          "text": "*If you walk in my precepts, and keep my commandments, and do them, I will give you rain in due seasons."
+        },
+        {
+          "verse": 4,
+          "text": "And the ground shall bring forth its increase, and the trees shall be filled with fruit."
+        },
+        {
+          "verse": 5,
+          "text": "The threshing of your harvest shall reach unto the vintage, and the vintage shall reach unto the sowing-time: and you shall eat your bread to the full, and dwell in your land without fear."
+        },
+        {
+          "verse": 6,
+          "text": "I will give peace in your coasts: you shall sleep, and there shall be none to make you afraid. I will take away evil beasts: and the sword shall not pass through your quarters."
+        },
+        {
+          "verse": 7,
+          "text": "You shall pursue your enemies, and they shall fall before you."
+        },
+        {
+          "verse": 8,
+          "text": "Five of yours shall pursue a hundred others, and a hundred of you ten thousand: your enemies shall fall before you by the sword."
+        },
+        {
+          "verse": 9,
+          "text": "I will look on you, and make you increase: you shall be multiplied, and I will establish my covenant with you."
+        },
+        {
+          "verse": 10,
+          "text": "You shall eat the oldest of the old store, and, new coming on, you shall cast away the old."
+        },
+        {
+          "verse": 11,
+          "text": "I will set my tabernacle in the midst of you, and my soul shall not cast you off."
+        },
+        {
+          "verse": 12,
+          "text": "*I will walk among you, and will be your God, and you shall be my people."
+        },
+        {
+          "verse": 13,
+          "text": "I am the Lord your God: who have brought you out of the land of the Egyptians, that you should not serve them, and who have broken the chains of your necks, that you might go upright."
+        },
+        {
+          "verse": 14,
+          "text": "*But if you will not hear me, nor do all my commandments,"
+        },
+        {
+          "verse": 15,
+          "text": "If you despise my laws, and contemn my judgments, so as not to do those things which are appointed by me, and to make void my covenant:"
+        },
+        {
+          "verse": 16,
+          "text": "I also will do these things to you: I will quickly visit you with poverty, and burning heat, which shall waste your eyes, and consume your lives. You shall sow your seed in vain, which shall be devoured by your enemies."
+        },
+        {
+          "verse": 17,
+          "text": "I will set my face against you, and you shall fall down before your enemies, and shall be made subject to them that hate you, you shall flee when no man pursueth you."
+        },
+        {
+          "verse": 18,
+          "text": "But if you will not yet for all this obey me, I will chastise you seven times more for your sins,"
+        },
+        {
+          "verse": 19,
+          "text": "And I will break the pride of your stubbornness, and I will make to you the heaven above as iron, and the earth as brass:"
+        },
+        {
+          "verse": 20,
+          "text": "Your labour shall be spent in vain, the ground shall not bring forth her increase, nor the trees yield their fruit."
+        },
+        {
+          "verse": 21,
+          "text": "If you walk contrary to me, and will not hearken to me, I will bring seven times more plagues upon you for your sins:"
+        },
+        {
+          "verse": 22,
+          "text": "And I will send in upon you the beasts of the held, to destroy you, and your cattle, and make you few in number, and that your highways may be desolate."
+        },
+        {
+          "verse": 23,
+          "text": "And if even so you will not amend, but will walk contrary to me:"
+        },
+        {
+          "verse": 24,
+          "text": "I also will walk contrary to you, and will strike you seven times for your sins."
+        },
+        {
+          "verse": 25,
+          "text": "And I will bring in upon you the sword that shall avenge my covenant. And when you shall flee into the cities, I will send the pestilence in the midst of you, and you shall be delivered into the hands of your enemies."
+        },
+        {
+          "verse": 26,
+          "text": "After I shall have broken the staff of your bread: so that ten women shall bake your bread in one oven, and give it out by weight: and you shall eat, and shall not be filled."
+        },
+        {
+          "verse": 27,
+          "text": "But if you will not for all this hearken to me, but will walk against me:"
+        },
+        {
+          "verse": 28,
+          "text": "I will also go against you with opposite fury, and I will chastise you with seven plagues for your sins,"
+        },
+        {
+          "verse": 29,
+          "text": "So that you shall eat the flesh of your sons and of your daughters."
+        },
+        {
+          "verse": 30,
+          "text": "I will destroy your high places, and break your idols. You shall fall among the ruins of your idols, and my soul shall abhor you,"
+        },
+        {
+          "verse": 31,
+          "text": "Insomuch that I will bring your cities to be a wilderness, and I will make your sanctuaries desolate, and will receive no more your sweet odours."
+        },
+        {
+          "verse": 32,
+          "text": "And I will destroy your land, and your enemies shall be astonished at it, when they shall be the inhabitants thereof."
+        },
+        {
+          "verse": 33,
+          "text": "And I will scatter you among the Gentiles, and I will draw out the sword after you, and your land shall be desert, and your cities destroyed:"
+        },
+        {
+          "verse": 34,
+          "text": "Then shall the land enjoy her sabbaths all the days of her desolation: when you shall be"
+        },
+        {
+          "verse": 35,
+          "text": "In the enemies' land, she shall keep a sabbath, and rest in the sabbaths of her desolation, because she did not rest in your sabbaths when you dwelt therein."
+        },
+        {
+          "verse": 36,
+          "text": "And as to them that shall remain of you, I will send fear in their hearts in the countries of their enemies, the sound of a flying leaf shall terrify them, and they shall flee as it were from the sword: they shall fall, when no man pursueth them,"
+        },
+        {
+          "verse": 37,
+          "text": "And they shall every one fall upon their brethren, as fleeing from wars, none of you shall dare to resist your enemies."
+        },
+        {
+          "verse": 38,
+          "text": "You shall perish among the Gentiles, and an enemy's land shall consume you."
+        },
+        {
+          "verse": 39,
+          "text": "And if of them also some remain, they shall pine away in their iniquities, in the land of their enemies, and they shall be afflicted for the sins of their fathers, and their own:"
+        },
+        {
+          "verse": 40,
+          "text": "Until they confess their iniquities and the iniquities of their ancestors, whereby they have transgressed me, and walked contrary unto me."
+        },
+        {
+          "verse": 41,
+          "text": "Therefore I also will walk against them, and bring them into their enemies' land, until their uncircumcised mind be ashamed: then shall they pray for their sins."
+        },
+        {
+          "verse": 42,
+          "text": "And I will remember my covenant, that I made with Jacob, and Isaac, and Abraham. I will remember also the land:"
+        },
+        {
+          "verse": 43,
+          "text": "Which when she shall be left by them, shall enjoy her sabbaths, being desolate for them. But they shall pray for their sins, because they rejected my judgments, and despised my laws."
+        },
+        {
+          "verse": 44,
+          "text": "And yet for all that when they were in the land of their enemies, I did not cast them off altogether, neither did I so despise them that they should be quite consumed, and I should make void my covenant with them. For I am the Lord their God."
+        },
+        {
+          "verse": 45,
+          "text": "And I will remember my former covenant, when I brought them out of the land of Egypt, in the sight of the Gentiles, to be their God. I am the Lord. These are the judgments, and precepts, and laws, which the Lord gave between him and the children of Israel, in Mount Sinai, by the hand of Moses."
+        }
+      ],
+      "verse_count": 45,
+      "word_count": 1168
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 16,
+      "chapter_title": "Psalms 16",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The prayer of David. Hear, O Lord, my justice: attend to my supplication. Give ear unto my prayer, which proceedeth not from deceitful lips."
+        },
+        {
+          "verse": 2,
+          "text": "Let my judgment come forth from thy countenance: let thy eyes behold the things that are equitable."
+        },
+        {
+          "verse": 3,
+          "text": "Thou hast proved my heart, and visited it by night, thou hast tried me by fire: and iniquity hath not been found in me."
+        },
+        {
+          "verse": 4,
+          "text": "That my mouth may not speak the works of men: for the sake of the words of thy lips, I have kept hard ways."
+        },
+        {
+          "verse": 5,
+          "text": "Perfect thou my goings in thy paths: that my footsteps be not moved."
+        },
+        {
+          "verse": 6,
+          "text": "I have cried to thee, for thou, O God, hast heard me: O incline thy ear unto me, and hear my words."
+        },
+        {
+          "verse": 7,
+          "text": "Shew forth thy wonderful mercies; thou who savest them that trust in thee."
+        },
+        {
+          "verse": 8,
+          "text": "From them that resist thy right hand keep me, as the apple of thy eye. Protect me under the shadow of thy wings."
+        },
+        {
+          "verse": 9,
+          "text": "From the face of the wicked who have afflicted me. My enemies have surrounded my soul:"
+        },
+        {
+          "verse": 10,
+          "text": "they have shut up their fat: their mouth hath spoken proudly."
+        },
+        {
+          "verse": 11,
+          "text": "They have cast me forth, and now they have surrounded me: they have set their eyes bowing down to the earth."
+        },
+        {
+          "verse": 12,
+          "text": "They have taken me, as a lion prepared for the prey; and as a young lion dwelling in secret places."
+        },
+        {
+          "verse": 13,
+          "text": "Arise, O Lord, disappoint him and supplant him; deliver my soul from the wicked one; thy sword"
+        },
+        {
+          "verse": 14,
+          "text": "from the enemies of thy hand. O Lord, divide them from the few of the earth in their life: their belly is filled from thy hidden stores. They are full of children: and they have left to their little ones the rest of their substance."
+        },
+        {
+          "verse": 15,
+          "text": "But as for me, I will appear before thy sight in justice: I shall be satisfied when thy glory shall appear."
+        }
+      ],
+      "verse_count": 15,
+      "word_count": 311
+    },
+    {
+      "book": "Isaias",
+      "chapter_number": 58,
+      "chapter_title": "Isaias 58",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Cry, cease not, lift up thy voice like a trumpet, and shew my people their wicked doings, and the house of Jacob their sins."
+        },
+        {
+          "verse": 2,
+          "text": "For they seek me from day to day, and desire to know my ways, as a nation that hath done justice, and hath not forsaken the judgment of their God: they ask of me the judgments of justice: they are willing to approach to God."
+        },
+        {
+          "verse": 3,
+          "text": "Why have we fasted, and thou hast not regarded: why have we humbled our souls, and thou hast not taken notice? Behold, in the day of your fast, your own will is found, and you exact of all your debtors."
+        },
+        {
+          "verse": 4,
+          "text": "Behold, you fast for debates and strife, and strike with the fist wickedly. Do not fast as you have done until this day, to make your cry to be heard on high."
+        },
+        {
+          "verse": 5,
+          "text": "*Is this such a fast as I have chosen: for a man to afflict his soul for a day? is this it, to wind his head about like a circle, and to spread sackcloth and ashes? wilt thou call this a fast, and a day acceptable to the Lord?"
+        },
+        {
+          "verse": 6,
+          "text": "Is not this rather the fast that I have chosen? loose the bands of wickedness, undo the bundles that oppress, let them that are broken, go free, and break asunder every burden."
+        },
+        {
+          "verse": 7,
+          "text": "*Deal thy bread to the hungry, and bring the needy and the harbourless into thy house: when thou shalt see one naked, cover him, and despise not thy own flesh."
+        },
+        {
+          "verse": 8,
+          "text": "Then shall thy light break forth as the morning, and thy health shall speedily arise, and thy justice shall go before thy face, and the glory of the Lord shall gather thee up."
+        },
+        {
+          "verse": 9,
+          "text": "Then shalt thou call, and the Lord shall hear: thou shalt cry, and he shall say, Here I am. If thou wilt take away the chain out of the midst of thee, and cease to stretch out the finger, and to speak that which profiteth not."
+        },
+        {
+          "verse": 10,
+          "text": "When thou shalt pour out thy soul to the hungry, and shalt satisfy the afflicted soul, then shall thy light rise up in darkness, and thy darkness shall be as the noon-day."
+        },
+        {
+          "verse": 11,
+          "text": "And the Lord will give thee rest continually, and will fill thy soul with brightness, and deliver thy bones, and thou shalt be like a watered garden, and like a fountain of water, whose waters shall not fail"
+        },
+        {
+          "verse": 12,
+          "text": "*And the places that have been desolate for ages, shall be built in thee: thou shalt raise up the foundations of generation and generation: and thou shalt be called the repairer of the fences, turning the paths into rest."
+        },
+        {
+          "verse": 13,
+          "text": "If thou turn away thy foot from the sabbath, from doing thy own will in my holy day, and call the sabbath delightful, and the holy of the Lord glorious, and glorify him, while thou dost not thy own ways, and thy own will is not found, to speak a word:"
+        },
+        {
+          "verse": 14,
+          "text": "Then shalt thou be delighted in the Lord, and I will lift thee up above the high places of the earth, and will feed thee with the inheritance of Jacob, thy father. For the mouth of the Lord hath spoken it."
+        }
+      ],
+      "verse_count": 14,
+      "word_count": 532
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 14,
+      "chapter_title": "Luke 14",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass, when Jesus went into the house of a certain chief of the Pharisees, on the sabbath-day, to eat bread, and they were watching him."
+        },
+        {
+          "verse": 2,
+          "text": "And behold there was a certain man before him, who had the dropsy."
+        },
+        {
+          "verse": 3,
+          "text": "And Jesus answering, spoke to the lawyers and Pharisees, saying: Is it lawful to heal on the sabbath-day?"
+        },
+        {
+          "verse": 4,
+          "text": "But they held their peace. But he, taking him, healed him, and sent him away."
+        },
+        {
+          "verse": 5,
+          "text": "And answering them, he said: Which of you, whose ass or his ox shall fall into a pit, and he will not immediately draw him out, on the sabbath-day?"
+        },
+        {
+          "verse": 6,
+          "text": "And they could not answer him to these things."
+        },
+        {
+          "verse": 7,
+          "text": "And he spoke a parable also to them that were invited, marking how they chose the first seats at the table, saying to them:"
+        },
+        {
+          "verse": 8,
+          "text": "When thou art invited to a wedding, sit not down in the highest place, lest perhaps one more honourable than thou be invited by him:"
+        },
+        {
+          "verse": 9,
+          "text": "And he who invited thee, and him, come and say to thee: Give place to this man; and then thou begin, with blushing, to take the lowest place."
+        },
+        {
+          "verse": 10,
+          "text": "But when thou art invited, go sit down in the lowest place; that when he who invited thee cometh, he may say to thee: *Friend, go up higher. Then shalt thou have glory before them that sit at table with thee."
+        },
+        {
+          "verse": 11,
+          "text": "*Because every one that exalteth himself, shall be humbled: and he that humbleth himself, shall be exalted."
+        },
+        {
+          "verse": 12,
+          "text": "And he said to him also that had invited him: *When thou makest a dinner, or a supper, call not thy friends, nor thy brethren, nor thy kinsmen, nor thy neighbours who are rich; lest they also invite thee again, and a recompense be made to thee."
+        },
+        {
+          "verse": 13,
+          "text": "But when thou makest a feast, call the poor, the feeble, the lame, and the blind:"
+        },
+        {
+          "verse": 14,
+          "text": "And thou shalt be blessed, because they have not wherewith to make thee recompense: for recompense shall be made thee at the resurrection of the just."
+        },
+        {
+          "verse": 15,
+          "text": "When one of them that sat at table with him, had heard these things, he said to him: Blessed is he that shall eat bread in the kingdom of God."
+        },
+        {
+          "verse": 16,
+          "text": "But he said to him: *A certain man made a great supper, and invited many."
+        },
+        {
+          "verse": 17,
+          "text": "And he sent his servant, at supper-time, to say to them that were invited, that they should come, for now all things are ready."
+        },
+        {
+          "verse": 18,
+          "text": "And they began all at once to make excuse. The first said to him: I have bought a farm, and I must needs go out and see it: I pray thee, have me excused."
+        },
+        {
+          "verse": 19,
+          "text": "And another said: I have bought five yoke of oxen, and I go to try them: I pray thee, have me excused."
+        },
+        {
+          "verse": 20,
+          "text": "And another said: I have married a wife, and therefore I cannot come."
+        },
+        {
+          "verse": 21,
+          "text": "And the servant returning, told these things to his lord. Then the master of the house being angry, said to his servant: Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the feeble, and the blind, and the lame."
+        },
+        {
+          "verse": 22,
+          "text": "And the servant said: Lord, it is done as thou hast commanded, and yet there is room."
+        },
+        {
+          "verse": 23,
+          "text": "And the lord said to the servant: Go out into the highways and hedges, and compel them to come in, that my house may be filled."
+        },
+        {
+          "verse": 24,
+          "text": "But I say to you, that none of those men that were invited, shall taste of my supper."
+        },
+        {
+          "verse": 25,
+          "text": "And there went great multitudes with him: and turning, he said to them:"
+        },
+        {
+          "verse": 26,
+          "text": "*If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple."
+        },
+        {
+          "verse": 27,
+          "text": "*And whosoever doth not carry his cross, and come after me, cannot be my disciple."
+        },
+        {
+          "verse": 28,
+          "text": "For which of you, having a mind to build a tower, doth not first sit down and reckon the charges that are necessary, whether he have wherewithal to finish it?"
+        },
+        {
+          "verse": 29,
+          "text": "Lest after he hath laid the foundation, and is not able to finish it, all that see it begin to mock him,"
+        },
+        {
+          "verse": 30,
+          "text": "Saying: This man began to build, and was not able to finish."
+        },
+        {
+          "verse": 31,
+          "text": "Or what king about to go to make war against another king, doth not first sit down and think, whether he be able with ten thousand to meet him that with twenty thousand cometh against him?"
+        },
+        {
+          "verse": 32,
+          "text": "Or else whilst the other is yet afar off, sending an embassy, he desireth conditions of peace."
+        },
+        {
+          "verse": 33,
+          "text": "So likewise every one of you that doth not renounce all that he possesseth, cannot be my disciple."
+        },
+        {
+          "verse": 34,
+          "text": "*Salt is good. But if the salt shall lose its savour, wherewith shall it be seasoned?"
+        },
+        {
+          "verse": 35,
+          "text": "It is neither profitable for the land, nor for the dunghill, but shall be cast out. He that hath ears to hear, let him hear."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 820
+    }
+  ]
+}

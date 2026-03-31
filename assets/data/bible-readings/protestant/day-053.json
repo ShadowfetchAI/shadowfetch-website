@@ -1,0 +1,653 @@
+{
+  "day_number": 53,
+  "references": "Leviticus 15-16 • Psalms 11 • Isaiah 53 • Luke 9",
+  "word_count": 4055,
+  "estimated_minutes": 19,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 11:3",
+    "text": "If the foundations be destroyed, what can the righteous do?",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "Leviticus 17-18 • Psalms 12 • Isaiah 54 • Luke 10",
+  "chapters": [
+    {
+      "book": "Leviticus",
+      "chapter_number": 15,
+      "chapter_title": "Leviticus 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses and to Aaron, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean."
+        },
+        {
+          "verse": 3,
+          "text": "And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his uncleanness."
+        },
+        {
+          "verse": 4,
+          "text": "Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean."
+        },
+        {
+          "verse": 5,
+          "text": "And whosoever toucheth his bed shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+          "verse": 6,
+          "text": "And he that sitteth on any thing whereon he sat that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+          "verse": 7,
+          "text": "And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+          "verse": 8,
+          "text": "And if he that hath the issue spit upon him that is clean; then he shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+          "verse": 9,
+          "text": "And what saddle soever he rideth upon that hath the issue shall be unclean."
+        },
+        {
+          "verse": 10,
+          "text": "And whosoever toucheth any thing that was under him shall be unclean until the even: and he that beareth any of those things shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+          "verse": 11,
+          "text": "And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+          "verse": 12,
+          "text": "And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water."
+        },
+        {
+          "verse": 13,
+          "text": "And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean."
+        },
+        {
+          "verse": 14,
+          "text": "And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the LORD unto the door of the tabernacle of the congregation, and give them unto the priest:"
+        },
+        {
+          "verse": 15,
+          "text": "And the priest shall offer them, the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for him before the LORD for his issue."
+        },
+        {
+          "verse": 16,
+          "text": "And if any man’s seed of copulation go out from him, then he shall wash all his flesh in water, and be unclean until the even."
+        },
+        {
+          "verse": 17,
+          "text": "And every garment, and every skin, whereon is the seed of copulation, shall be washed with water, and be unclean until the even."
+        },
+        {
+          "verse": 18,
+          "text": "The woman also with whom man shall lie with seed of copulation, they shall both bathe themselves in water, and be unclean until the even."
+        },
+        {
+          "verse": 19,
+          "text": "And if a woman have an issue, and her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even."
+        },
+        {
+          "verse": 20,
+          "text": "And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean."
+        },
+        {
+          "verse": 21,
+          "text": "And whosoever toucheth her bed shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+          "verse": 22,
+          "text": "And whosoever toucheth any thing that she sat upon shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+          "verse": 23,
+          "text": "And if it be on her bed, or on any thing whereon she sitteth, when he toucheth it, he shall be unclean until the even."
+        },
+        {
+          "verse": 24,
+          "text": "And if any man lie with her at all, and her flowers be upon him, he shall be unclean seven days; and all the bed whereon he lieth shall be unclean."
+        },
+        {
+          "verse": 25,
+          "text": "And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she shall be unclean."
+        },
+        {
+          "verse": 26,
+          "text": "Every bed whereon she lieth all the days of her issue shall be unto her as the bed of her separation: and whatsoever she sitteth upon shall be unclean, as the uncleanness of her separation."
+        },
+        {
+          "verse": 27,
+          "text": "And whosoever toucheth those things shall be unclean, and shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+          "verse": 28,
+          "text": "But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean."
+        },
+        {
+          "verse": 29,
+          "text": "And on the eighth day she shall take unto her two turtles, or two young pigeons, and bring them unto the priest, to the door of the tabernacle of the congregation."
+        },
+        {
+          "verse": 30,
+          "text": "And the priest shall offer the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for her before the LORD for the issue of her uncleanness."
+        },
+        {
+          "verse": 31,
+          "text": "Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that is among them."
+        },
+        {
+          "verse": 32,
+          "text": "This is the law of him that hath an issue, and of him whose seed goeth from him, and is defiled therewith;"
+        },
+        {
+          "verse": 33,
+          "text": "And of her that is sick of her flowers, and of him that hath an issue, of the man, and of the woman, and of him that lieth with her that is unclean."
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 920
+    },
+    {
+      "book": "Leviticus",
+      "chapter_number": 16,
+      "chapter_title": "Leviticus 16",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;"
+        },
+        {
+          "verse": 2,
+          "text": "And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat."
+        },
+        {
+          "verse": 3,
+          "text": "Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering."
+        },
+        {
+          "verse": 4,
+          "text": "He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on."
+        },
+        {
+          "verse": 5,
+          "text": "And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering."
+        },
+        {
+          "verse": 6,
+          "text": "And Aaron shall offer his bullock of the sin offering, which is for himself, and make an atonement for himself, and for his house."
+        },
+        {
+          "verse": 7,
+          "text": "And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation."
+        },
+        {
+          "verse": 8,
+          "text": "And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat."
+        },
+        {
+          "verse": 9,
+          "text": "And Aaron shall bring the goat upon which the LORD’s lot fell, and offer him for a sin offering."
+        },
+        {
+          "verse": 10,
+          "text": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness."
+        },
+        {
+          "verse": 11,
+          "text": "And Aaron shall bring the bullock of the sin offering, which is for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which is for himself:"
+        },
+        {
+          "verse": 12,
+          "text": "And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring it within the vail:"
+        },
+        {
+          "verse": 13,
+          "text": "And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not:"
+        },
+        {
+          "verse": 14,
+          "text": "And he shall take of the blood of the bullock, and sprinkle it with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times."
+        },
+        {
+          "verse": 15,
+          "text": "Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:"
+        },
+        {
+          "verse": 16,
+          "text": "And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness."
+        },
+        {
+          "verse": 17,
+          "text": "And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy place, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel."
+        },
+        {
+          "verse": 18,
+          "text": "And he shall go out unto the altar that is before the LORD, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put it upon the horns of the altar round about."
+        },
+        {
+          "verse": 19,
+          "text": "And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel."
+        },
+        {
+          "verse": 20,
+          "text": "And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:"
+        },
+        {
+          "verse": 21,
+          "text": "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness:"
+        },
+        {
+          "verse": 22,
+          "text": "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness."
+        },
+        {
+          "verse": 23,
+          "text": "And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy place, and shall leave them there:"
+        },
+        {
+          "verse": 24,
+          "text": "And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people."
+        },
+        {
+          "verse": 25,
+          "text": "And the fat of the sin offering shall he burn upon the altar."
+        },
+        {
+          "verse": 26,
+          "text": "And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp."
+        },
+        {
+          "verse": 27,
+          "text": "And the bullock for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, shall one carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung."
+        },
+        {
+          "verse": 28,
+          "text": "And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp."
+        },
+        {
+          "verse": 29,
+          "text": "And this shall be a statute for ever unto you: that in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourneth among you:"
+        },
+        {
+          "verse": 30,
+          "text": "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD."
+        },
+        {
+          "verse": 31,
+          "text": "It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever."
+        },
+        {
+          "verse": 32,
+          "text": "And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest’s office in his father’s stead, shall make the atonement, and shall put on the linen clothes, even the holy garments:"
+        },
+        {
+          "verse": 33,
+          "text": "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation."
+        },
+        {
+          "verse": 34,
+          "text": "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses."
+        }
+      ],
+      "verse_count": 34,
+      "word_count": 1160
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 11,
+      "chapter_title": "Psalms 11",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?"
+        },
+        {
+          "verse": 2,
+          "text": "For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart."
+        },
+        {
+          "verse": 3,
+          "text": "If the foundations be destroyed, what can the righteous do?"
+        },
+        {
+          "verse": 4,
+          "text": "The LORD is in his holy temple, the LORD’s throne is in heaven: his eyes behold, his eyelids try, the children of men."
+        },
+        {
+          "verse": 5,
+          "text": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth."
+        },
+        {
+          "verse": 6,
+          "text": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup."
+        },
+        {
+          "verse": 7,
+          "text": "For the righteous LORD loveth righteousness; his countenance doth behold the upright."
+        }
+      ],
+      "verse_count": 7,
+      "word_count": 129
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 53,
+      "chapter_title": "Isaiah 53",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Who hath believed our report? and to whom is the arm of the LORD revealed?"
+        },
+        {
+          "verse": 2,
+          "text": "For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him."
+        },
+        {
+          "verse": 3,
+          "text": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not."
+        },
+        {
+          "verse": 4,
+          "text": "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted."
+        },
+        {
+          "verse": 5,
+          "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
+        },
+        {
+          "verse": 6,
+          "text": "All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all."
+        },
+        {
+          "verse": 7,
+          "text": "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth."
+        },
+        {
+          "verse": 8,
+          "text": "He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken."
+        },
+        {
+          "verse": 9,
+          "text": "And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth."
+        },
+        {
+          "verse": 10,
+          "text": "Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the LORD shall prosper in his hand."
+        },
+        {
+          "verse": 11,
+          "text": "He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities."
+        },
+        {
+          "verse": 12,
+          "text": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 387
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 9,
+      "chapter_title": "Luke 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases."
+        },
+        {
+          "verse": 2,
+          "text": "And he sent them to preach the kingdom of God, and to heal the sick."
+        },
+        {
+          "verse": 3,
+          "text": "And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece."
+        },
+        {
+          "verse": 4,
+          "text": "And whatsoever house ye enter into, there abide, and thence depart."
+        },
+        {
+          "verse": 5,
+          "text": "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them."
+        },
+        {
+          "verse": 6,
+          "text": "And they departed, and went through the towns, preaching the gospel, and healing every where."
+        },
+        {
+          "verse": 7,
+          "text": "Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;"
+        },
+        {
+          "verse": 8,
+          "text": "And of some, that Elias had appeared; and of others, that one of the old prophets was risen again."
+        },
+        {
+          "verse": 9,
+          "text": "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him."
+        },
+        {
+          "verse": 10,
+          "text": "And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida."
+        },
+        {
+          "verse": 11,
+          "text": "And the people, when they knew it, followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing."
+        },
+        {
+          "verse": 12,
+          "text": "And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place."
+        },
+        {
+          "verse": 13,
+          "text": "But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people."
+        },
+        {
+          "verse": 14,
+          "text": "For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company."
+        },
+        {
+          "verse": 15,
+          "text": "And they did so, and made them all sit down."
+        },
+        {
+          "verse": 16,
+          "text": "Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude."
+        },
+        {
+          "verse": 17,
+          "text": "And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets."
+        },
+        {
+          "verse": 18,
+          "text": "And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?"
+        },
+        {
+          "verse": 19,
+          "text": "They answering said, John the Baptist; but some say, Elias; and others say, that one of the old prophets is risen again."
+        },
+        {
+          "verse": 20,
+          "text": "He said unto them, But whom say ye that I am? Peter answering said, The Christ of God."
+        },
+        {
+          "verse": 21,
+          "text": "And he straitly charged them, and commanded them to tell no man that thing;"
+        },
+        {
+          "verse": 22,
+          "text": "Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day."
+        },
+        {
+          "verse": 23,
+          "text": "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me."
+        },
+        {
+          "verse": 24,
+          "text": "For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it."
+        },
+        {
+          "verse": 25,
+          "text": "For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?"
+        },
+        {
+          "verse": 26,
+          "text": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father’s, and of the holy angels."
+        },
+        {
+          "verse": 27,
+          "text": "But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God."
+        },
+        {
+          "verse": 28,
+          "text": "And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray."
+        },
+        {
+          "verse": 29,
+          "text": "And as he prayed, the fashion of his countenance was altered, and his raiment was white and glistering."
+        },
+        {
+          "verse": 30,
+          "text": "And, behold, there talked with him two men, which were Moses and Elias:"
+        },
+        {
+          "verse": 31,
+          "text": "Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem."
+        },
+        {
+          "verse": 32,
+          "text": "But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him."
+        },
+        {
+          "verse": 33,
+          "text": "And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said."
+        },
+        {
+          "verse": 34,
+          "text": "While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud."
+        },
+        {
+          "verse": 35,
+          "text": "And there came a voice out of the cloud, saying, This is my beloved Son: hear him."
+        },
+        {
+          "verse": 36,
+          "text": "And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen."
+        },
+        {
+          "verse": 37,
+          "text": "And it came to pass, that on the next day, when they were come down from the hill, much people met him."
+        },
+        {
+          "verse": 38,
+          "text": "And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child."
+        },
+        {
+          "verse": 39,
+          "text": "And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him."
+        },
+        {
+          "verse": 40,
+          "text": "And I besought thy disciples to cast him out; and they could not."
+        },
+        {
+          "verse": 41,
+          "text": "And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither."
+        },
+        {
+          "verse": 42,
+          "text": "And as he was yet a coming, the devil threw him down, and tare him. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father."
+        },
+        {
+          "verse": 43,
+          "text": "And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,"
+        },
+        {
+          "verse": 44,
+          "text": "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men."
+        },
+        {
+          "verse": 45,
+          "text": "But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying."
+        },
+        {
+          "verse": 46,
+          "text": "Then there arose a reasoning among them, which of them should be greatest."
+        },
+        {
+          "verse": 47,
+          "text": "And Jesus, perceiving the thought of their heart, took a child, and set him by him,"
+        },
+        {
+          "verse": 48,
+          "text": "And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great."
+        },
+        {
+          "verse": 49,
+          "text": "And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us."
+        },
+        {
+          "verse": 50,
+          "text": "And Jesus said unto him, Forbid him not: for he that is not against us is for us."
+        },
+        {
+          "verse": 51,
+          "text": "And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,"
+        },
+        {
+          "verse": 52,
+          "text": "And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him."
+        },
+        {
+          "verse": 53,
+          "text": "And they did not receive him, because his face was as though he would go to Jerusalem."
+        },
+        {
+          "verse": 54,
+          "text": "And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?"
+        },
+        {
+          "verse": 55,
+          "text": "But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of."
+        },
+        {
+          "verse": 56,
+          "text": "For the Son of man is not come to destroy men’s lives, but to save them. And they went to another village."
+        },
+        {
+          "verse": 57,
+          "text": "And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest."
+        },
+        {
+          "verse": 58,
+          "text": "And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head."
+        },
+        {
+          "verse": 59,
+          "text": "And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father."
+        },
+        {
+          "verse": 60,
+          "text": "Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God."
+        },
+        {
+          "verse": 61,
+          "text": "And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house."
+        },
+        {
+          "verse": 62,
+          "text": "And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God."
+        }
+      ],
+      "verse_count": 62,
+      "word_count": 1459
+    }
+  ]
+}

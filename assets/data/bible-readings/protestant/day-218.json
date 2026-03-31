@@ -1,0 +1,528 @@
+{
+  "day_number": 218,
+  "references": "2 Samuel 22 • Proverbs 26 • Micah 4 • James 1",
+  "word_count": 2432,
+  "estimated_minutes": 12,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Proverbs 26:18",
+    "text": "As a mad man who casteth firebrands, arrows, and death,",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "2 Samuel 23 • Proverbs 27 • Micah 5 • James 2",
+  "chapters": [
+    {
+      "book": "2 Samuel",
+      "chapter_number": 22,
+      "chapter_title": "2 Samuel 22",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And David spake unto the LORD the words of this song in the day that the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul:"
+        },
+        {
+          "verse": 2,
+          "text": "And he said, The LORD is my rock, and my fortress, and my deliverer;"
+        },
+        {
+          "verse": 3,
+          "text": "The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence."
+        },
+        {
+          "verse": 4,
+          "text": "I will call on the LORD, who is worthy to be praised: so shall I be saved from mine enemies."
+        },
+        {
+          "verse": 5,
+          "text": "When the waves of death compassed me, the floods of ungodly men made me afraid;"
+        },
+        {
+          "verse": 6,
+          "text": "The sorrows of hell compassed me about; the snares of death prevented me;"
+        },
+        {
+          "verse": 7,
+          "text": "In my distress I called upon the LORD, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears."
+        },
+        {
+          "verse": 8,
+          "text": "Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth."
+        },
+        {
+          "verse": 9,
+          "text": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it."
+        },
+        {
+          "verse": 10,
+          "text": "He bowed the heavens also, and came down; and darkness was under his feet."
+        },
+        {
+          "verse": 11,
+          "text": "And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind."
+        },
+        {
+          "verse": 12,
+          "text": "And he made darkness pavilions round about him, dark waters, and thick clouds of the skies."
+        },
+        {
+          "verse": 13,
+          "text": "Through the brightness before him were coals of fire kindled."
+        },
+        {
+          "verse": 14,
+          "text": "The LORD thundered from heaven, and the most High uttered his voice."
+        },
+        {
+          "verse": 15,
+          "text": "And he sent out arrows, and scattered them; lightning, and discomfited them."
+        },
+        {
+          "verse": 16,
+          "text": "And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the LORD, at the blast of the breath of his nostrils."
+        },
+        {
+          "verse": 17,
+          "text": "He sent from above, he took me; he drew me out of many waters;"
+        },
+        {
+          "verse": 18,
+          "text": "He delivered me from my strong enemy, and from them that hated me: for they were too strong for me."
+        },
+        {
+          "verse": 19,
+          "text": "They prevented me in the day of my calamity: but the LORD was my stay."
+        },
+        {
+          "verse": 20,
+          "text": "He brought me forth also into a large place: he delivered me, because he delighted in me."
+        },
+        {
+          "verse": 21,
+          "text": "The LORD rewarded me according to my righteousness: according to the cleanness of my hands hath he recompensed me."
+        },
+        {
+          "verse": 22,
+          "text": "For I have kept the ways of the LORD, and have not wickedly departed from my God."
+        },
+        {
+          "verse": 23,
+          "text": "For all his judgments were before me: and as for his statutes, I did not depart from them."
+        },
+        {
+          "verse": 24,
+          "text": "I was also upright before him, and have kept myself from mine iniquity."
+        },
+        {
+          "verse": 25,
+          "text": "Therefore the LORD hath recompensed me according to my righteousness; according to my cleanness in his eye sight."
+        },
+        {
+          "verse": 26,
+          "text": "With the merciful thou wilt shew thyself merciful, and with the upright man thou wilt shew thyself upright."
+        },
+        {
+          "verse": 27,
+          "text": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself unsavoury."
+        },
+        {
+          "verse": 28,
+          "text": "And the afflicted people thou wilt save: but thine eyes are upon the haughty, that thou mayest bring them down."
+        },
+        {
+          "verse": 29,
+          "text": "For thou art my lamp, O LORD: and the LORD will lighten my darkness."
+        },
+        {
+          "verse": 30,
+          "text": "For by thee I have run through a troop: by my God have I leaped over a wall."
+        },
+        {
+          "verse": 31,
+          "text": "As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him."
+        },
+        {
+          "verse": 32,
+          "text": "For who is God, save the LORD? and who is a rock, save our God?"
+        },
+        {
+          "verse": 33,
+          "text": "God is my strength and power: and he maketh my way perfect."
+        },
+        {
+          "verse": 34,
+          "text": "He maketh my feet like hinds’ feet: and setteth me upon my high places."
+        },
+        {
+          "verse": 35,
+          "text": "He teacheth my hands to war; so that a bow of steel is broken by mine arms."
+        },
+        {
+          "verse": 36,
+          "text": "Thou hast also given me the shield of thy salvation: and thy gentleness hath made me great."
+        },
+        {
+          "verse": 37,
+          "text": "Thou hast enlarged my steps under me; so that my feet did not slip."
+        },
+        {
+          "verse": 38,
+          "text": "I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them."
+        },
+        {
+          "verse": 39,
+          "text": "And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet."
+        },
+        {
+          "verse": 40,
+          "text": "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me."
+        },
+        {
+          "verse": 41,
+          "text": "Thou hast also given me the necks of mine enemies, that I might destroy them that hate me."
+        },
+        {
+          "verse": 42,
+          "text": "They looked, but there was none to save; even unto the LORD, but he answered them not."
+        },
+        {
+          "verse": 43,
+          "text": "Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, and did spread them abroad."
+        },
+        {
+          "verse": 44,
+          "text": "Thou also hast delivered me from the strivings of my people, thou hast kept me to be head of the heathen: a people which I knew not shall serve me."
+        },
+        {
+          "verse": 45,
+          "text": "Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me."
+        },
+        {
+          "verse": 46,
+          "text": "Strangers shall fade away, and they shall be afraid out of their close places."
+        },
+        {
+          "verse": 47,
+          "text": "The LORD liveth; and blessed be my rock; and exalted be the God of the rock of my salvation."
+        },
+        {
+          "verse": 48,
+          "text": "It is God that avengeth me, and that bringeth down the people under me,"
+        },
+        {
+          "verse": 49,
+          "text": "And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man."
+        },
+        {
+          "verse": 50,
+          "text": "Therefore I will give thanks unto thee, O LORD, among the heathen, and I will sing praises unto thy name."
+        },
+        {
+          "verse": 51,
+          "text": "He is the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore."
+        }
+      ],
+      "verse_count": 51,
+      "word_count": 951
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 26,
+      "chapter_title": "Proverbs 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool."
+        },
+        {
+          "verse": 2,
+          "text": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come."
+        },
+        {
+          "verse": 3,
+          "text": "A whip for the horse, a bridle for the ass, and a rod for the fool’s back."
+        },
+        {
+          "verse": 4,
+          "text": "Answer not a fool according to his folly, lest thou also be like unto him."
+        },
+        {
+          "verse": 5,
+          "text": "Answer a fool according to his folly, lest he be wise in his own conceit."
+        },
+        {
+          "verse": 6,
+          "text": "He that sendeth a message by the hand of a fool cutteth off the feet, and drinketh damage."
+        },
+        {
+          "verse": 7,
+          "text": "The legs of the lame are not equal: so is a parable in the mouth of fools."
+        },
+        {
+          "verse": 8,
+          "text": "As he that bindeth a stone in a sling, so is he that giveth honour to a fool."
+        },
+        {
+          "verse": 9,
+          "text": "As a thorn goeth up into the hand of a drunkard, so is a parable in the mouth of fools."
+        },
+        {
+          "verse": 10,
+          "text": "The great God that formed all things both rewardeth the fool, and rewardeth transgressors."
+        },
+        {
+          "verse": 11,
+          "text": "As a dog returneth to his vomit, so a fool returneth to his folly."
+        },
+        {
+          "verse": 12,
+          "text": "Seest thou a man wise in his own conceit? there is more hope of a fool than of him."
+        },
+        {
+          "verse": 13,
+          "text": "The slothful man saith, There is a lion in the way; a lion is in the streets."
+        },
+        {
+          "verse": 14,
+          "text": "As the door turneth upon his hinges, so doth the slothful upon his bed."
+        },
+        {
+          "verse": 15,
+          "text": "The slothful hideth his hand in his bosom; it grieveth him to bring it again to his mouth."
+        },
+        {
+          "verse": 16,
+          "text": "The sluggard is wiser in his own conceit than seven men that can render a reason."
+        },
+        {
+          "verse": 17,
+          "text": "He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears."
+        },
+        {
+          "verse": 18,
+          "text": "As a mad man who casteth firebrands, arrows, and death,"
+        },
+        {
+          "verse": 19,
+          "text": "So is the man that deceiveth his neighbour, and saith, Am not I in sport?"
+        },
+        {
+          "verse": 20,
+          "text": "Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth."
+        },
+        {
+          "verse": 21,
+          "text": "As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife."
+        },
+        {
+          "verse": 22,
+          "text": "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly."
+        },
+        {
+          "verse": 23,
+          "text": "Burning lips and a wicked heart are like a potsherd covered with silver dross."
+        },
+        {
+          "verse": 24,
+          "text": "He that hateth dissembleth with his lips, and layeth up deceit within him;"
+        },
+        {
+          "verse": 25,
+          "text": "When he speaketh fair, believe him not: for there are seven abominations in his heart."
+        },
+        {
+          "verse": 26,
+          "text": "Whose hatred is covered by deceit, his wickedness shall be shewed before the whole congregation."
+        },
+        {
+          "verse": 27,
+          "text": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him."
+        },
+        {
+          "verse": 28,
+          "text": "A lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 460
+    },
+    {
+      "book": "Micah",
+      "chapter_number": 4,
+      "chapter_title": "Micah 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it."
+        },
+        {
+          "verse": 2,
+          "text": "And many nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go forth of Zion, and the word of the LORD from Jerusalem."
+        },
+        {
+          "verse": 3,
+          "text": "And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more."
+        },
+        {
+          "verse": 4,
+          "text": "But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it."
+        },
+        {
+          "verse": 5,
+          "text": "For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever."
+        },
+        {
+          "verse": 6,
+          "text": "In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;"
+        },
+        {
+          "verse": 7,
+          "text": "And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever."
+        },
+        {
+          "verse": 8,
+          "text": "And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem."
+        },
+        {
+          "verse": 9,
+          "text": "Now why dost thou cry out aloud? is there no king in thee? is thy counsellor perished? for pangs have taken thee as a woman in travail."
+        },
+        {
+          "verse": 10,
+          "text": "Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies."
+        },
+        {
+          "verse": 11,
+          "text": "Now also many nations are gathered against thee, that say, Let her be defiled, and let our eye look upon Zion."
+        },
+        {
+          "verse": 12,
+          "text": "But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor."
+        },
+        {
+          "verse": 13,
+          "text": "Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 476
+    },
+    {
+      "book": "James",
+      "chapter_number": 1,
+      "chapter_title": "James 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting."
+        },
+        {
+          "verse": 2,
+          "text": "My brethren, count it all joy when ye fall into divers temptations;"
+        },
+        {
+          "verse": 3,
+          "text": "Knowing this, that the trying of your faith worketh patience."
+        },
+        {
+          "verse": 4,
+          "text": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing."
+        },
+        {
+          "verse": 5,
+          "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."
+        },
+        {
+          "verse": 6,
+          "text": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed."
+        },
+        {
+          "verse": 7,
+          "text": "For let not that man think that he shall receive any thing of the Lord."
+        },
+        {
+          "verse": 8,
+          "text": "A double minded man is unstable in all his ways."
+        },
+        {
+          "verse": 9,
+          "text": "Let the brother of low degree rejoice in that he is exalted:"
+        },
+        {
+          "verse": 10,
+          "text": "But the rich, in that he is made low: because as the flower of the grass he shall pass away."
+        },
+        {
+          "verse": 11,
+          "text": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways."
+        },
+        {
+          "verse": 12,
+          "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
+        },
+        {
+          "verse": 13,
+          "text": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:"
+        },
+        {
+          "verse": 14,
+          "text": "But every man is tempted, when he is drawn away of his own lust, and enticed."
+        },
+        {
+          "verse": 15,
+          "text": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death."
+        },
+        {
+          "verse": 16,
+          "text": "Do not err, my beloved brethren."
+        },
+        {
+          "verse": 17,
+          "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning."
+        },
+        {
+          "verse": 18,
+          "text": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures."
+        },
+        {
+          "verse": 19,
+          "text": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:"
+        },
+        {
+          "verse": 20,
+          "text": "For the wrath of man worketh not the righteousness of God."
+        },
+        {
+          "verse": 21,
+          "text": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls."
+        },
+        {
+          "verse": 22,
+          "text": "But be ye doers of the word, and not hearers only, deceiving your own selves."
+        },
+        {
+          "verse": 23,
+          "text": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:"
+        },
+        {
+          "verse": 24,
+          "text": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was."
+        },
+        {
+          "verse": 25,
+          "text": "But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed."
+        },
+        {
+          "verse": 26,
+          "text": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain."
+        },
+        {
+          "verse": 27,
+          "text": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 545
+    }
+  ]
+}

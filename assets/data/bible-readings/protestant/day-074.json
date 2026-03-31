@@ -1,0 +1,592 @@
+{
+  "day_number": 74,
+  "references": "Numbers 28 • Psalms 32 • Jeremiah 8 • John 6",
+  "word_count": 3234,
+  "estimated_minutes": 16,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 32:1",
+    "text": "Blessed is he whose transgression is forgiven, whose sin is covered.",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "Numbers 29 • Psalms 33 • Jeremiah 9 • John 7",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 28,
+      "chapter_title": "Numbers 28",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me, shall ye observe to offer unto me in their due season."
+        },
+        {
+          "verse": 3,
+          "text": "And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the LORD; two lambs of the first year without spot day by day, for a continual burnt offering."
+        },
+        {
+          "verse": 4,
+          "text": "The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;"
+        },
+        {
+          "verse": 5,
+          "text": "And a tenth part of an ephah of flour for a meat offering, mingled with the fourth part of an hin of beaten oil."
+        },
+        {
+          "verse": 6,
+          "text": "It is a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "And the drink offering thereof shall be the fourth part of an hin for the one lamb: in the holy place shalt thou cause the strong wine to be poured unto the LORD for a drink offering."
+        },
+        {
+          "verse": 8,
+          "text": "And the other lamb shalt thou offer at even: as the meat offering of the morning, and as the drink offering thereof, thou shalt offer it, a sacrifice made by fire, of a sweet savour unto the LORD."
+        },
+        {
+          "verse": 9,
+          "text": "And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour for a meat offering, mingled with oil, and the drink offering thereof:"
+        },
+        {
+          "verse": 10,
+          "text": "This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering."
+        },
+        {
+          "verse": 11,
+          "text": "And in the beginnings of your months ye shall offer a burnt offering unto the LORD; two young bullocks, and one ram, seven lambs of the first year without spot;"
+        },
+        {
+          "verse": 12,
+          "text": "And three tenth deals of flour for a meat offering, mingled with oil, for one bullock; and two tenth deals of flour for a meat offering, mingled with oil, for one ram;"
+        },
+        {
+          "verse": 13,
+          "text": "And a several tenth deal of flour mingled with oil for a meat offering unto one lamb; for a burnt offering of a sweet savour, a sacrifice made by fire unto the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "And their drink offerings shall be half an hin of wine unto a bullock, and the third part of an hin unto a ram, and a fourth part of an hin unto a lamb: this is the burnt offering of every month throughout the months of the year."
+        },
+        {
+          "verse": 15,
+          "text": "And one kid of the goats for a sin offering unto the LORD shall be offered, beside the continual burnt offering, and his drink offering."
+        },
+        {
+          "verse": 16,
+          "text": "And in the fourteenth day of the first month is the passover of the LORD."
+        },
+        {
+          "verse": 17,
+          "text": "And in the fifteenth day of this month is the feast: seven days shall unleavened bread be eaten."
+        },
+        {
+          "verse": 18,
+          "text": "In the first day shall be an holy convocation; ye shall do no manner of servile work therein:"
+        },
+        {
+          "verse": 19,
+          "text": "But ye shall offer a sacrifice made by fire for a burnt offering unto the LORD; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:"
+        },
+        {
+          "verse": 20,
+          "text": "And their meat offering shall be of flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram;"
+        },
+        {
+          "verse": 21,
+          "text": "A several tenth deal shalt thou offer for every lamb, throughout the seven lambs:"
+        },
+        {
+          "verse": 22,
+          "text": "And one goat for a sin offering, to make an atonement for you."
+        },
+        {
+          "verse": 23,
+          "text": "Ye shall offer these beside the burnt offering in the morning, which is for a continual burnt offering."
+        },
+        {
+          "verse": 24,
+          "text": "After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the LORD: it shall be offered beside the continual burnt offering, and his drink offering."
+        },
+        {
+          "verse": 25,
+          "text": "And on the seventh day ye shall have an holy convocation; ye shall do no servile work."
+        },
+        {
+          "verse": 26,
+          "text": "Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks be out, ye shall have an holy convocation; ye shall do no servile work:"
+        },
+        {
+          "verse": 27,
+          "text": "But ye shall offer the burnt offering for a sweet savour unto the LORD; two young bullocks, one ram, seven lambs of the first year;"
+        },
+        {
+          "verse": 28,
+          "text": "And their meat offering of flour mingled with oil, three tenth deals unto one bullock, two tenth deals unto one ram,"
+        },
+        {
+          "verse": 29,
+          "text": "A several tenth deal unto one lamb, throughout the seven lambs;"
+        },
+        {
+          "verse": 30,
+          "text": "And one kid of the goats, to make an atonement for you."
+        },
+        {
+          "verse": 31,
+          "text": "Ye shall offer them beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 779
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 32,
+      "chapter_title": "Psalms 32",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Blessed is he whose transgression is forgiven, whose sin is covered."
+        },
+        {
+          "verse": 2,
+          "text": "Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile."
+        },
+        {
+          "verse": 3,
+          "text": "When I kept silence, my bones waxed old through my roaring all the day long."
+        },
+        {
+          "verse": 4,
+          "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah."
+        },
+        {
+          "verse": 5,
+          "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah."
+        },
+        {
+          "verse": 6,
+          "text": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him."
+        },
+        {
+          "verse": 7,
+          "text": "Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah."
+        },
+        {
+          "verse": 8,
+          "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye."
+        },
+        {
+          "verse": 9,
+          "text": "Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee."
+        },
+        {
+          "verse": 10,
+          "text": "Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about."
+        },
+        {
+          "verse": 11,
+          "text": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart."
+        }
+      ],
+      "verse_count": 11,
+      "word_count": 241
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 8,
+      "chapter_title": "Jeremiah 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "At that time, saith the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:"
+        },
+        {
+          "verse": 2,
+          "text": "And they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be for dung upon the face of the earth."
+        },
+        {
+          "verse": 3,
+          "text": "And death shall be chosen rather than life by all the residue of them that remain of this evil family, which remain in all the places whither I have driven them, saith the LORD of hosts."
+        },
+        {
+          "verse": 4,
+          "text": "Moreover thou shalt say unto them, Thus saith the LORD; Shall they fall, and not arise? shall he turn away, and not return?"
+        },
+        {
+          "verse": 5,
+          "text": "Why then is this people of Jerusalem slidden back by a perpetual backsliding? they hold fast deceit, they refuse to return."
+        },
+        {
+          "verse": 6,
+          "text": "I hearkened and heard, but they spake not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rusheth into the battle."
+        },
+        {
+          "verse": 7,
+          "text": "Yea, the stork in the heaven knoweth her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the LORD."
+        },
+        {
+          "verse": 8,
+          "text": "How do ye say, We are wise, and the law of the LORD is with us? Lo, certainly in vain made he it; the pen of the scribes is in vain."
+        },
+        {
+          "verse": 9,
+          "text": "The wise men are ashamed, they are dismayed and taken: lo, they have rejected the word of the LORD; and what wisdom is in them?"
+        },
+        {
+          "verse": 10,
+          "text": "Therefore will I give their wives unto others, and their fields to them that shall inherit them: for every one from the least even unto the greatest is given to covetousness, from the prophet even unto the priest every one dealeth falsely."
+        },
+        {
+          "verse": 11,
+          "text": "For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace."
+        },
+        {
+          "verse": 12,
+          "text": "Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore shall they fall among them that fall: in the time of their visitation they shall be cast down, saith the LORD."
+        },
+        {
+          "verse": 13,
+          "text": "I will surely consume them, saith the LORD: there shall be no grapes on the vine, nor figs on the fig tree, and the leaf shall fade; and the things that I have given them shall pass away from them."
+        },
+        {
+          "verse": 14,
+          "text": "Why do we sit still? assemble yourselves, and let us enter into the defenced cities, and let us be silent there: for the LORD our God hath put us to silence, and given us water of gall to drink, because we have sinned against the LORD."
+        },
+        {
+          "verse": 15,
+          "text": "We looked for peace, but no good came; and for a time of health, and behold trouble!"
+        },
+        {
+          "verse": 16,
+          "text": "The snorting of his horses was heard from Dan: the whole land trembled at the sound of the neighing of his strong ones; for they are come, and have devoured the land, and all that is in it; the city, and those that dwell therein."
+        },
+        {
+          "verse": 17,
+          "text": "For, behold, I will send serpents, cockatrices, among you, which will not be charmed, and they shall bite you, saith the LORD."
+        },
+        {
+          "verse": 18,
+          "text": "When I would comfort myself against sorrow, my heart is faint in me."
+        },
+        {
+          "verse": 19,
+          "text": "Behold the voice of the cry of the daughter of my people because of them that dwell in a far country: Is not the LORD in Zion? is not her king in her? Why have they provoked me to anger with their graven images, and with strange vanities?"
+        },
+        {
+          "verse": 20,
+          "text": "The harvest is past, the summer is ended, and we are not saved."
+        },
+        {
+          "verse": 21,
+          "text": "For the hurt of the daughter of my people am I hurt; I am black; astonishment hath taken hold on me."
+        },
+        {
+          "verse": 22,
+          "text": "Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?"
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 706
+    },
+    {
+      "book": "John",
+      "chapter_number": 6,
+      "chapter_title": "John 6",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "After these things Jesus went over the sea of Galilee, which is the sea of Tiberias."
+        },
+        {
+          "verse": 2,
+          "text": "And a great multitude followed him, because they saw his miracles which he did on them that were diseased."
+        },
+        {
+          "verse": 3,
+          "text": "And Jesus went up into a mountain, and there he sat with his disciples."
+        },
+        {
+          "verse": 4,
+          "text": "And the passover, a feast of the Jews, was nigh."
+        },
+        {
+          "verse": 5,
+          "text": "When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?"
+        },
+        {
+          "verse": 6,
+          "text": "And this he said to prove him: for he himself knew what he would do."
+        },
+        {
+          "verse": 7,
+          "text": "Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little."
+        },
+        {
+          "verse": 8,
+          "text": "One of his disciples, Andrew, Simon Peter’s brother, saith unto him,"
+        },
+        {
+          "verse": 9,
+          "text": "There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?"
+        },
+        {
+          "verse": 10,
+          "text": "And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand."
+        },
+        {
+          "verse": 11,
+          "text": "And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would."
+        },
+        {
+          "verse": 12,
+          "text": "When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost."
+        },
+        {
+          "verse": 13,
+          "text": "Therefore they gathered them together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above unto them that had eaten."
+        },
+        {
+          "verse": 14,
+          "text": "Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world."
+        },
+        {
+          "verse": 15,
+          "text": "When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone."
+        },
+        {
+          "verse": 16,
+          "text": "And when even was now come, his disciples went down unto the sea,"
+        },
+        {
+          "verse": 17,
+          "text": "And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them."
+        },
+        {
+          "verse": 18,
+          "text": "And the sea arose by reason of a great wind that blew."
+        },
+        {
+          "verse": 19,
+          "text": "So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid."
+        },
+        {
+          "verse": 20,
+          "text": "But he saith unto them, It is I; be not afraid."
+        },
+        {
+          "verse": 21,
+          "text": "Then they willingly received him into the ship: and immediately the ship was at the land whither they went."
+        },
+        {
+          "verse": 22,
+          "text": "The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;"
+        },
+        {
+          "verse": 23,
+          "text": "(Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)"
+        },
+        {
+          "verse": 24,
+          "text": "When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus."
+        },
+        {
+          "verse": 25,
+          "text": "And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?"
+        },
+        {
+          "verse": 26,
+          "text": "Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled."
+        },
+        {
+          "verse": 27,
+          "text": "Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed."
+        },
+        {
+          "verse": 28,
+          "text": "Then said they unto him, What shall we do, that we might work the works of God?"
+        },
+        {
+          "verse": 29,
+          "text": "Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent."
+        },
+        {
+          "verse": 30,
+          "text": "They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?"
+        },
+        {
+          "verse": 31,
+          "text": "Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat."
+        },
+        {
+          "verse": 32,
+          "text": "Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven."
+        },
+        {
+          "verse": 33,
+          "text": "For the bread of God is he which cometh down from heaven, and giveth life unto the world."
+        },
+        {
+          "verse": 34,
+          "text": "Then said they unto him, Lord, evermore give us this bread."
+        },
+        {
+          "verse": 35,
+          "text": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst."
+        },
+        {
+          "verse": 36,
+          "text": "But I said unto you, That ye also have seen me, and believe not."
+        },
+        {
+          "verse": 37,
+          "text": "All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out."
+        },
+        {
+          "verse": 38,
+          "text": "For I came down from heaven, not to do mine own will, but the will of him that sent me."
+        },
+        {
+          "verse": 39,
+          "text": "And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day."
+        },
+        {
+          "verse": 40,
+          "text": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day."
+        },
+        {
+          "verse": 41,
+          "text": "The Jews then murmured at him, because he said, I am the bread which came down from heaven."
+        },
+        {
+          "verse": 42,
+          "text": "And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?"
+        },
+        {
+          "verse": 43,
+          "text": "Jesus therefore answered and said unto them, Murmur not among yourselves."
+        },
+        {
+          "verse": 44,
+          "text": "No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day."
+        },
+        {
+          "verse": 45,
+          "text": "It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me."
+        },
+        {
+          "verse": 46,
+          "text": "Not that any man hath seen the Father, save he which is of God, he hath seen the Father."
+        },
+        {
+          "verse": 47,
+          "text": "Verily, verily, I say unto you, He that believeth on me hath everlasting life."
+        },
+        {
+          "verse": 48,
+          "text": "I am that bread of life."
+        },
+        {
+          "verse": 49,
+          "text": "Your fathers did eat manna in the wilderness, and are dead."
+        },
+        {
+          "verse": 50,
+          "text": "This is the bread which cometh down from heaven, that a man may eat thereof, and not die."
+        },
+        {
+          "verse": 51,
+          "text": "I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world."
+        },
+        {
+          "verse": 52,
+          "text": "The Jews therefore strove among themselves, saying, How can this man give us his flesh to eat?"
+        },
+        {
+          "verse": 53,
+          "text": "Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you."
+        },
+        {
+          "verse": 54,
+          "text": "Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day."
+        },
+        {
+          "verse": 55,
+          "text": "For my flesh is meat indeed, and my blood is drink indeed."
+        },
+        {
+          "verse": 56,
+          "text": "He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him."
+        },
+        {
+          "verse": 57,
+          "text": "As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me."
+        },
+        {
+          "verse": 58,
+          "text": "This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever."
+        },
+        {
+          "verse": 59,
+          "text": "These things said he in the synagogue, as he taught in Capernaum."
+        },
+        {
+          "verse": 60,
+          "text": "Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?"
+        },
+        {
+          "verse": 61,
+          "text": "When Jesus knew in himself that his disciples murmured at it, he said unto them, Doth this offend you?"
+        },
+        {
+          "verse": 62,
+          "text": "What and if ye shall see the Son of man ascend up where he was before?"
+        },
+        {
+          "verse": 63,
+          "text": "It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life."
+        },
+        {
+          "verse": 64,
+          "text": "But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him."
+        },
+        {
+          "verse": 65,
+          "text": "And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father."
+        },
+        {
+          "verse": 66,
+          "text": "From that time many of his disciples went back, and walked no more with him."
+        },
+        {
+          "verse": 67,
+          "text": "Then said Jesus unto the twelve, Will ye also go away?"
+        },
+        {
+          "verse": 68,
+          "text": "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life."
+        },
+        {
+          "verse": 69,
+          "text": "And we believe and are sure that thou art that Christ, the Son of the living God."
+        },
+        {
+          "verse": 70,
+          "text": "Jesus answered them, Have not I chosen you twelve, and one of you is a devil?"
+        },
+        {
+          "verse": 71,
+          "text": "He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve."
+        }
+      ],
+      "verse_count": 71,
+      "word_count": 1508
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "day_number": 232,
+  "references": "1 Kings 12 • Ecclesiastes 9 • Haggai 2 • 1 John 2",
+  "word_count": 3012,
+  "estimated_minutes": 15,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Ecclesiastes 9:8",
+    "text": "Let thy garments be always white; and let thy head lack no ointment.",
+    "reflection": "Hold this verse close and let its steadiness shape the next few hours."
+  },
+  "tomorrow_teaser": "1 Kings 13 • Ecclesiastes 10 • Zechariah 1 • 1 John 3",
+  "chapters": [
+    {
+      "book": "1 Kings",
+      "chapter_number": 12,
+      "chapter_title": "1 Kings 12",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king."
+        },
+        {
+          "verse": 2,
+          "text": "And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)"
+        },
+        {
+          "verse": 3,
+          "text": "That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,"
+        },
+        {
+          "verse": 4,
+          "text": "Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee."
+        },
+        {
+          "verse": 5,
+          "text": "And he said unto them, Depart yet for three days, then come again to me. And the people departed."
+        },
+        {
+          "verse": 6,
+          "text": "And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?"
+        },
+        {
+          "verse": 7,
+          "text": "And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever."
+        },
+        {
+          "verse": 8,
+          "text": "But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, and which stood before him:"
+        },
+        {
+          "verse": 9,
+          "text": "And he said unto them, What counsel give ye that we may answer this people, who have spoken to me, saying, Make the yoke which thy father did put upon us lighter?"
+        },
+        {
+          "verse": 10,
+          "text": "And the young men that were grown up with him spake unto him, saying, Thus shalt thou speak unto this people that spake unto thee, saying, Thy father made our yoke heavy, but make thou it lighter unto us; thus shalt thou say unto them, My little finger shall be thicker than my father’s loins."
+        },
+        {
+          "verse": 11,
+          "text": "And now whereas my father did lade you with a heavy yoke, I will add to your yoke: my father hath chastised you with whips, but I will chastise you with scorpions."
+        },
+        {
+          "verse": 12,
+          "text": "So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day."
+        },
+        {
+          "verse": 13,
+          "text": "And the king answered the people roughly, and forsook the old men’s counsel that they gave him;"
+        },
+        {
+          "verse": 14,
+          "text": "And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions."
+        },
+        {
+          "verse": 15,
+          "text": "Wherefore the king hearkened not unto the people; for the cause was from the LORD, that he might perform his saying, which the LORD spake by Ahijah the Shilonite unto Jeroboam the son of Nebat."
+        },
+        {
+          "verse": 16,
+          "text": "So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents."
+        },
+        {
+          "verse": 17,
+          "text": "But as for the children of Israel which dwelt in the cities of Judah, Rehoboam reigned over them."
+        },
+        {
+          "verse": 18,
+          "text": "Then king Rehoboam sent Adoram, who was over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem."
+        },
+        {
+          "verse": 19,
+          "text": "So Israel rebelled against the house of David unto this day."
+        },
+        {
+          "verse": 20,
+          "text": "And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only."
+        },
+        {
+          "verse": 21,
+          "text": "And when Rehoboam was come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, an hundred and fourscore thousand chosen men, which were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon."
+        },
+        {
+          "verse": 22,
+          "text": "But the word of God came unto Shemaiah the man of God, saying,"
+        },
+        {
+          "verse": 23,
+          "text": "Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remnant of the people, saying,"
+        },
+        {
+          "verse": 24,
+          "text": "Thus saith the LORD, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD."
+        },
+        {
+          "verse": 25,
+          "text": "Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel."
+        },
+        {
+          "verse": 26,
+          "text": "And Jeroboam said in his heart, Now shall the kingdom return to the house of David:"
+        },
+        {
+          "verse": 27,
+          "text": "If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, even unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah."
+        },
+        {
+          "verse": 28,
+          "text": "Whereupon the king took counsel, and made two calves of gold, and said unto them, It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt."
+        },
+        {
+          "verse": 29,
+          "text": "And he set the one in Bethel, and the other put he in Dan."
+        },
+        {
+          "verse": 30,
+          "text": "And this thing became a sin: for the people went to worship before the one, even unto Dan."
+        },
+        {
+          "verse": 31,
+          "text": "And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi."
+        },
+        {
+          "verse": 32,
+          "text": "And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like unto the feast that is in Judah, and he offered upon the altar. So did he in Bethel, sacrificing unto the calves that he had made: and he placed in Bethel the priests of the high places which he had made."
+        },
+        {
+          "verse": 33,
+          "text": "So he offered upon the altar which he had made in Bethel the fifteenth day of the eighth month, even in the month which he had devised of his own heart; and ordained a feast unto the children of Israel: and he offered upon the altar, and burnt incense."
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 1040
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter_number": 9,
+      "chapter_title": "Ecclesiastes 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them."
+        },
+        {
+          "verse": 2,
+          "text": "All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath."
+        },
+        {
+          "verse": 3,
+          "text": "This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead."
+        },
+        {
+          "verse": 4,
+          "text": "For to him that is joined to all the living there is hope: for a living dog is better than a dead lion."
+        },
+        {
+          "verse": 5,
+          "text": "For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten."
+        },
+        {
+          "verse": 6,
+          "text": "Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun."
+        },
+        {
+          "verse": 7,
+          "text": "Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works."
+        },
+        {
+          "verse": 8,
+          "text": "Let thy garments be always white; and let thy head lack no ointment."
+        },
+        {
+          "verse": 9,
+          "text": "Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun."
+        },
+        {
+          "verse": 10,
+          "text": "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest."
+        },
+        {
+          "verse": 11,
+          "text": "I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all."
+        },
+        {
+          "verse": 12,
+          "text": "For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them."
+        },
+        {
+          "verse": 13,
+          "text": "This wisdom have I seen also under the sun, and it seemed great unto me:"
+        },
+        {
+          "verse": 14,
+          "text": "There was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it:"
+        },
+        {
+          "verse": 15,
+          "text": "Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man."
+        },
+        {
+          "verse": 16,
+          "text": "Then said I, Wisdom is better than strength: nevertheless the poor man’s wisdom is despised, and his words are not heard."
+        },
+        {
+          "verse": 17,
+          "text": "The words of wise men are heard in quiet more than the cry of him that ruleth among fools."
+        },
+        {
+          "verse": 18,
+          "text": "Wisdom is better than weapons of war: but one sinner destroyeth much good."
+        }
+      ],
+      "verse_count": 18,
+      "word_count": 556
+    },
+    {
+      "book": "Haggai",
+      "chapter_number": 2,
+      "chapter_title": "Haggai 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,"
+        },
+        {
+          "verse": 3,
+          "text": "Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?"
+        },
+        {
+          "verse": 4,
+          "text": "Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts:"
+        },
+        {
+          "verse": 5,
+          "text": "According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not."
+        },
+        {
+          "verse": 6,
+          "text": "For thus saith the LORD of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;"
+        },
+        {
+          "verse": 7,
+          "text": "And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the LORD of hosts."
+        },
+        {
+          "verse": 8,
+          "text": "The silver is mine, and the gold is mine, saith the LORD of hosts."
+        },
+        {
+          "verse": 9,
+          "text": "The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts."
+        },
+        {
+          "verse": 10,
+          "text": "In the four and twentieth day of the ninth month, in the second year of Darius, came the word of the LORD by Haggai the prophet, saying,"
+        },
+        {
+          "verse": 11,
+          "text": "Thus saith the LORD of hosts; Ask now the priests concerning the law, saying,"
+        },
+        {
+          "verse": 12,
+          "text": "If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No."
+        },
+        {
+          "verse": 13,
+          "text": "Then said Haggai, If one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean."
+        },
+        {
+          "verse": 14,
+          "text": "Then answered Haggai, and said, So is this people, and so is this nation before me, saith the LORD; and so is every work of their hands; and that which they offer there is unclean."
+        },
+        {
+          "verse": 15,
+          "text": "And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the LORD:"
+        },
+        {
+          "verse": 16,
+          "text": "Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty."
+        },
+        {
+          "verse": 17,
+          "text": "I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye turned not to me, saith the LORD."
+        },
+        {
+          "verse": 18,
+          "text": "Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the LORD’s temple was laid, consider it."
+        },
+        {
+          "verse": 19,
+          "text": "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you."
+        },
+        {
+          "verse": 20,
+          "text": "And again the word of the LORD came unto Haggai in the four and twentieth day of the month, saying,"
+        },
+        {
+          "verse": 21,
+          "text": "Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;"
+        },
+        {
+          "verse": 22,
+          "text": "And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother."
+        },
+        {
+          "verse": 23,
+          "text": "In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 680
+    },
+    {
+      "book": "1 John",
+      "chapter_number": 2,
+      "chapter_title": "1 John 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:"
+        },
+        {
+          "verse": 2,
+          "text": "And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world."
+        },
+        {
+          "verse": 3,
+          "text": "And hereby we do know that we know him, if we keep his commandments."
+        },
+        {
+          "verse": 4,
+          "text": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him."
+        },
+        {
+          "verse": 5,
+          "text": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him."
+        },
+        {
+          "verse": 6,
+          "text": "He that saith he abideth in him ought himself also so to walk, even as he walked."
+        },
+        {
+          "verse": 7,
+          "text": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning."
+        },
+        {
+          "verse": 8,
+          "text": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth."
+        },
+        {
+          "verse": 9,
+          "text": "He that saith he is in the light, and hateth his brother, is in darkness even until now."
+        },
+        {
+          "verse": 10,
+          "text": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him."
+        },
+        {
+          "verse": 11,
+          "text": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes."
+        },
+        {
+          "verse": 12,
+          "text": "I write unto you, little children, because your sins are forgiven you for his name’s sake."
+        },
+        {
+          "verse": 13,
+          "text": "I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father."
+        },
+        {
+          "verse": 14,
+          "text": "I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one."
+        },
+        {
+          "verse": 15,
+          "text": "Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him."
+        },
+        {
+          "verse": 16,
+          "text": "For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world."
+        },
+        {
+          "verse": 17,
+          "text": "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever."
+        },
+        {
+          "verse": 18,
+          "text": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time."
+        },
+        {
+          "verse": 19,
+          "text": "They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us."
+        },
+        {
+          "verse": 20,
+          "text": "But ye have an unction from the Holy One, and ye know all things."
+        },
+        {
+          "verse": 21,
+          "text": "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth."
+        },
+        {
+          "verse": 22,
+          "text": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son."
+        },
+        {
+          "verse": 23,
+          "text": "Whosoever denieth the Son, the same hath not the Father: he that acknowledgeth the Son hath the Father also."
+        },
+        {
+          "verse": 24,
+          "text": "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father."
+        },
+        {
+          "verse": 25,
+          "text": "And this is the promise that he hath promised us, even eternal life."
+        },
+        {
+          "verse": 26,
+          "text": "These things have I written unto you concerning them that seduce you."
+        },
+        {
+          "verse": 27,
+          "text": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him."
+        },
+        {
+          "verse": 28,
+          "text": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming."
+        },
+        {
+          "verse": 29,
+          "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him."
+        }
+      ],
+      "verse_count": 29,
+      "word_count": 736
+    }
+  ]
+}

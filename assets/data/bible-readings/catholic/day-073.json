@@ -1,0 +1,709 @@
+{
+  "day_number": 73,
+  "references": "Numbers 28-29 • Psalms 31 • Jeremias 7 • John 5",
+  "word_count": 3835,
+  "estimated_minutes": 18,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 31:11",
+    "text": "Be glad in the Lord, and rejoice, ye just, and glory, all ye right of heart.",
+    "reflection": "Let this verse be the quieter voice that sets the pace for the rest of the day."
+  },
+  "tomorrow_teaser": "Numbers 30-31 • Psalms 32 • Jeremias 8 • John 6",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 28,
+      "chapter_title": "Numbers 28",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The Lord also said to Moses:"
+        },
+        {
+          "verse": 2,
+          "text": "Command the children of Israel, and thou shalt say to them: Offer ye my oblation and my bread, and burnt-sacrifice of most sweet odour, in their due seasons."
+        },
+        {
+          "verse": 3,
+          "text": "These are the sacrifices which you shall offer: *Two lambs of a year old, without blemish, every day for the perpetual holocaust:"
+        },
+        {
+          "verse": 4,
+          "text": "One you shall offer in the morning, and the other in the evening:"
+        },
+        {
+          "verse": 5,
+          "text": "And the tenth part of an epha of flour, which shall be tempered with the purest oil, of the measure of the fourth part of a hin."
+        },
+        {
+          "verse": 6,
+          "text": "It is the continual holocaust which you offered in Mount Sinai for a most sweet odour of a sacrifice by fire to the Lord."
+        },
+        {
+          "verse": 7,
+          "text": "And for a libation you shall offer of wine the fourth part of a hin for every lamb in the sanctuary of the Lord,"
+        },
+        {
+          "verse": 8,
+          "text": "And you shall offer the other lamb in like manner in the evening, according to all the rites of the morning sacrifice, and of the libations thereof, an oblation of most sweet odour to the Lord."
+        },
+        {
+          "verse": 9,
+          "text": "*And on the sabbath day, you shall offer two lambs of a year old, without blemish, and two tenths of flour tempered with oil in sacrifice, and the libations,"
+        },
+        {
+          "verse": 10,
+          "text": "Which regularly are poured out every sabbath for the perpetual holocaust."
+        },
+        {
+          "verse": 11,
+          "text": "And on the first day of the month you shall offer a holocaust to the Lord, two calves of the herd, one ram, and seven lambs, of a year old, without blemish,"
+        },
+        {
+          "verse": 12,
+          "text": "And three tenths of flour tempered with oil in sacrifice for every calf: and two tenths of flour tempered with oil for every ram:"
+        },
+        {
+          "verse": 13,
+          "text": "And the tenth of a tenth of flour tempered with oil in sacrifice for every lamb. It is a holocaust of most sweet odour and an offering by fire to the Lord."
+        },
+        {
+          "verse": 14,
+          "text": "And these shall be the libations of wine that are to be poured out for every victim: Half a hin for every calf, a third for a ram, and a fourth for a lamb. This shall be the holocaust for every month, as they succeed one another in the course of the year."
+        },
+        {
+          "verse": 15,
+          "text": "A buck-goat also shall be offered to the Lord for a sin-offering over and above the perpetual holocaust with its libations."
+        },
+        {
+          "verse": 16,
+          "text": "*And in the first month, on the fourteenth day of the month, shall be the Phase of the Lord,"
+        },
+        {
+          "verse": 17,
+          "text": "And on the fifteenth day the solemn feast: seven days shall they eat unleavened bread."
+        },
+        {
+          "verse": 18,
+          "text": "And the first day of them shall be venerable and holy: you shall not do any servile work therein."
+        },
+        {
+          "verse": 19,
+          "text": "And you shall offer a burnt-sacrifice a holocaust to the Lord, two calves of the herd, one ram, seven lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 20,
+          "text": "And for the sacrifices of every one three tenths of flour which shall be tempered with oil, to every calf, and two tenths to every ram,"
+        },
+        {
+          "verse": 21,
+          "text": "And the tenth of a tenth, to every lamb, that is to say, to all the seven lambs:"
+        },
+        {
+          "verse": 22,
+          "text": "And one buck-goat for sin, to make atonement for you,"
+        },
+        {
+          "verse": 23,
+          "text": "Besides the morning holocaust which you shall always offer."
+        },
+        {
+          "verse": 24,
+          "text": "So shall you do every day of the seven days for the food of the fire, and for a most sweet odour to the Lord, which shall rise from the holocaust, and from the libations of each."
+        },
+        {
+          "verse": 25,
+          "text": "The seventh day also shall be most solemn and holy unto you: you shall do no servile work therein."
+        },
+        {
+          "verse": 26,
+          "text": "The day also of first-fruits, when after the weeks are accomplished, you shall offer new fruits to the Lord, shall be venerable and holy: you shall do no servile work therein."
+        },
+        {
+          "verse": 27,
+          "text": "And you shall offer a holocaust for a most sweet odour to the Lord, two calves of the herd, one ram, and seven lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 28,
+          "text": "And in the sacrifices of them, three tenths of flour tempered with oil to every calf, two to every ram,"
+        },
+        {
+          "verse": 29,
+          "text": "The tenth of a tenth to every lamb, which in all are seven lambs: a goat also,"
+        },
+        {
+          "verse": 30,
+          "text": "Which is slain for expiation: beside the perpetual holocaust and the libations thereof."
+        },
+        {
+          "verse": 31,
+          "text": "You shall offer them all without blemish with their libations."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 701
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 29,
+      "chapter_title": "Numbers 29",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The first day also of the seventh month shall be venerable and holy unto you: you shall do no servile work therein, because it is the day of the sounding and of trumpets."
+        },
+        {
+          "verse": 2,
+          "text": "And you shall offer a holocaust for a most sweet odour to the Lord, one calf of the herd, one ram, and seven lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 3,
+          "text": "And for their sacrifices, three tenths of flour tempered with oil to every calf, two tenths to a ram,"
+        },
+        {
+          "verse": 4,
+          "text": "One tenth to a lamb, which in all are seven lambs:"
+        },
+        {
+          "verse": 5,
+          "text": "And a buck-goat for sin, which is offered for the expiation of the people,"
+        },
+        {
+          "verse": 6,
+          "text": "Besides the holocaust of the first day of the month, with the sacrifices thereof, and the perpetual holocaust with the accustomed libations. With the same ceremonies you shall offer a burnt-sacrifice for a most sweet odour to the Lord."
+        },
+        {
+          "verse": 7,
+          "text": "*The tenth day also of this seventh month shall be holy and venerable unto you, and you shall afflict your souls: you shall do no servile work therein."
+        },
+        {
+          "verse": 8,
+          "text": "And you shall offer a holocaust to the Lord for a most sweet odour, one calf of the herd, one ram, and seven lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 9,
+          "text": "And for their sacrifices, three tenths of flour tempered with oil to every calf, two tenths to a ram,"
+        },
+        {
+          "verse": 10,
+          "text": "The tenth of a tenth to every lamb, which are in all seven lambs:"
+        },
+        {
+          "verse": 11,
+          "text": "And a buck-goat for sin, besides the things that are wont to be offered for sin, for expiation, and for the perpetual holocaust, with their sacrifice and libations."
+        },
+        {
+          "verse": 12,
+          "text": "And on the fifteenth day of the seventh month, which shall be unto you holy and venerable, you shall do no servile work, but shall celebrate a solemnity to the Lord seven days."
+        },
+        {
+          "verse": 13,
+          "text": "And you shall offer a holocaust for a most sweet odour to the Lord, thirteen calves of the herd, two rams, and fourteen lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 14,
+          "text": "And for their libations, three tenths of flour tempered with oil to every calf, being in all thirteen calves: and two tenths to each ram, being two rams,"
+        },
+        {
+          "verse": 15,
+          "text": "And the tenth of a tenth to every lamb, being in all fourteen lambs:"
+        },
+        {
+          "verse": 16,
+          "text": "And a buck-goat for sin, besides the perpetual holocaust, and the sacrifice, and the libation thereof."
+        },
+        {
+          "verse": 17,
+          "text": "On the second day you shall offer twelve calves of the herd, two rams, and fourteen lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 18,
+          "text": "And the sacrifices and the libations for every one, for the calves and for the rams, and for the lambs you shall duly celebrate:"
+        },
+        {
+          "verse": 19,
+          "text": "And a buck-goat for a sin-offering, besides the perpetual holocaust, and the sacrifice and the libation thereof."
+        },
+        {
+          "verse": 20,
+          "text": "The third day you shall offer eleven calves, two rams, and fourteen lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 21,
+          "text": "And the sacrifices and the libations of every one for the calves and for the rams, and for the lambs you shall offer according to the rite:"
+        },
+        {
+          "verse": 22,
+          "text": "And a buck-goat for sin, besides the perpetual holocaust, and the sacrifice, and the libation thereof."
+        },
+        {
+          "verse": 23,
+          "text": "The fourth day you shall offer ten calves, two rams, and fourteen lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 24,
+          "text": "And the sacrifices and the libations of every one for the calves and for the rams, and for the lambs you shall celebrate in right manner:"
+        },
+        {
+          "verse": 25,
+          "text": "And a buck-goat for sin, besides the perpetual holocaust, and the sacrifice and the libation thereof."
+        },
+        {
+          "verse": 26,
+          "text": "The fifth day you shall offer nine calves, two rams, and fourteen lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 27,
+          "text": "And the sacrifices and the libations of every one for the calves and for the rams, and for the lambs, you shall celebrate according to the rite:"
+        },
+        {
+          "verse": 28,
+          "text": "And a buck-goat for sin, besides the perpetual holocaust, and the sacrifice and the libation thereof."
+        },
+        {
+          "verse": 29,
+          "text": "The sixth day you shall offer eight calves, two rams, and fourteen lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 30,
+          "text": "And the sacrifices and the libations of every one for the calves and for the rams, and for the lambs, you shall celebrate according to the rite:"
+        },
+        {
+          "verse": 31,
+          "text": "And a buck-goat for sin, besides the perpetual holocaust, and the sacrifice thereof and the libation."
+        },
+        {
+          "verse": 32,
+          "text": "The seventh day you shall offer seven calves, and two rams, and fourteen lambs of a year old, without blemish."
+        },
+        {
+          "verse": 33,
+          "text": "And the sacrifices and the libations of every one for the calves and for the rams, and for the lambs, you shall celebrate according to the rite:"
+        },
+        {
+          "verse": 34,
+          "text": "And a buck-goat for sin, besides the perpetual holocaust, and the sacrifice and the libation thereof."
+        },
+        {
+          "verse": 35,
+          "text": "On the eighth day, which is most solemn, you shall do no servile work:"
+        },
+        {
+          "verse": 36,
+          "text": "But you shall offer a holocaust for a most sweet odour to the Lord, one calf, one ram, and seven lambs of a year old, without blemish:"
+        },
+        {
+          "verse": 37,
+          "text": "And the sacrifices and the libations of every one for the calves and for the ram,s and for the lambs, you shall celebrate according to the rite:"
+        },
+        {
+          "verse": 38,
+          "text": "And a buck-goat for sin, besides the perpetual holocaust, and the sacrifice and the libation thereof."
+        },
+        {
+          "verse": 39,
+          "text": "These things shall you offer to the Lord in your solemnities: besides your vows and voluntary oblations for holocaust, for sacrifice, for libation, and for victims of peace-offerings."
+        }
+      ],
+      "verse_count": 39,
+      "word_count": 873
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 31,
+      "chapter_title": "Psalms 31",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "To David himself, understanding. Blessed *are they whose iniquities are forgiven, and whose sins are covered."
+        },
+        {
+          "verse": 2,
+          "text": "Blessed is the man to whom the Lord hath not imputed sin, and in whose spirit there is no guile."
+        },
+        {
+          "verse": 3,
+          "text": "Because I was silent, my bones grew old; whilst I cried out all the day long."
+        },
+        {
+          "verse": 4,
+          "text": "For day and night thy hand was heavy upon me: I am turned in my anguish, whilst the thorn is fastened."
+        },
+        {
+          "verse": 5,
+          "text": "I have acknowledged my sin to thee, and my injustice I have not concealed. *I said I will confess against myself my injustice to the Lord; and thou hast forgiven the wickedness of my sin."
+        },
+        {
+          "verse": 6,
+          "text": "For this shall every one that is holy pray to thee in a seasonable time. And yet in a flood of many waters, they shall not come nigh unto him."
+        },
+        {
+          "verse": 7,
+          "text": "Thou art my refuge from the trouble which hath encompassed me: my joy, deliver me from them that surround me."
+        },
+        {
+          "verse": 8,
+          "text": "I will give thee understanding, and I will instruct thee in this way, in which thou shalt go: I will fix my eyes upon thee."
+        },
+        {
+          "verse": 9,
+          "text": "Do not become like the horse and the mule, which have no understanding. With bit and bridle bind fast their jaws who come not near unto thee."
+        },
+        {
+          "verse": 10,
+          "text": "Many are the scourges of the sinner, but mercy shall encompass him that hopeth in the Lord."
+        },
+        {
+          "verse": 11,
+          "text": "Be glad in the Lord, and rejoice, ye just, and glory, all ye right of heart."
+        }
+      ],
+      "verse_count": 11,
+      "word_count": 243
+    },
+    {
+      "book": "Jeremias",
+      "chapter_number": 7,
+      "chapter_title": "Jeremias 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The word that came to Jeremias from the Lord, saying:"
+        },
+        {
+          "verse": 2,
+          "text": "Stand in the gate of the house of the Lord, and proclaim there this word, and say: Hear ye the word of the Lord, all ye men of Juda, that enter in at these gates, to adore the Lord."
+        },
+        {
+          "verse": 3,
+          "text": "Thus saith the Lord of hosts, the God of Israel: *Make your ways and your doings good: and I will dwell with you in this place."
+        },
+        {
+          "verse": 4,
+          "text": "Trust not in lying words, saying: The temple of the Lord, the temple of the Lord, it is the temple of the Lord."
+        },
+        {
+          "verse": 5,
+          "text": "For if you will order well your ways, and your doings: if you will execute judgement between a man and his neighbor."
+        },
+        {
+          "verse": 6,
+          "text": "If you opress not the stranger, the fatherless, and the widow, and shed not innocent blood in this place, and walk not after strange gods to your own hurt:"
+        },
+        {
+          "verse": 7,
+          "text": "I will dwell with you in this place: in the land, which I gave to your fathers from the beginning, and for evermore."
+        },
+        {
+          "verse": 8,
+          "text": "Behold, you put your trust in lying words, which shall not profit you:"
+        },
+        {
+          "verse": 9,
+          "text": "To steal, to murder, to commit adultery, to swear falsely, to offer to Baalim, and to go after strange gods, which you know not."
+        },
+        {
+          "verse": 10,
+          "text": "And you have come, and stood before me in this house, in which my name is called upon, and have said: We are delivered, because we have done all these abominations."
+        },
+        {
+          "verse": 11,
+          "text": "*Is this house then, in which my name hath been called upon, in your eyes become a den of robbers? I, I am he: I have seen it, saith the Lord."
+        },
+        {
+          "verse": 12,
+          "text": "Go ye to my place in Silo, where my name dwelt from the beginning: and see what I did to it for the wickedness of my people Israel:"
+        },
+        {
+          "verse": 13,
+          "text": "And now, because you have done all these works, saith the Lord: and I have spoken to you rising up early, and speaking, and you have not heard: *and I have called you, and you have not answered:"
+        },
+        {
+          "verse": 14,
+          "text": "*I will do to this house, in which my name is called upon, and in which you trust, and to the place which I have given you and your fathers, as I did to Silo."
+        },
+        {
+          "verse": 15,
+          "text": "And I will cast you away from before my face, as I have cast away all your brethren, the whole seed of Ephraim."
+        },
+        {
+          "verse": 16,
+          "text": "*Therefore do not thou pray for this people, nor take to thee praise and supplication for them, and do not withstand me: for I will not hear thee."
+        },
+        {
+          "verse": 17,
+          "text": "Seest thou not what they do in the cities of Juda, and in the streets of Jerusalem?"
+        },
+        {
+          "verse": 18,
+          "text": "The children gather wood, and the fathers kindle the fire, and the women knead the dough, to make cakes to the queen of heaven, and to offer libations to strange gods, and to provoke me to anger."
+        },
+        {
+          "verse": 19,
+          "text": "Do they provoke me to anger, saith the Lord? is it not themselves, to the confusion of their owncontenance?"
+        },
+        {
+          "verse": 20,
+          "text": "Therefore, thus saith the Lord God: Behold, my wrath and my indignation was enkindled against this place, upon men and upon beasts, and upon the trees of the field, and upon the fruits of the land, and it shall burn, and shall not be quenched."
+        },
+        {
+          "verse": 21,
+          "text": "Thus saith the Lord of hosts, the God of Israel: Add your burnt-offerings to your sacrifices, and eat ye the flesh."
+        },
+        {
+          "verse": 22,
+          "text": "For I spoke not to your fathers, and I commanded them not, in the day that I brought them out of the land of Egypt, concerning the matter of burnt-offerings and sacrifices."
+        },
+        {
+          "verse": 23,
+          "text": "But this thing I commanded them, saying: Hearken to my voice, and I will be your God, and you shall be my people: and walk ye in all the way, that I have commanded you, that it may be well with you."
+        },
+        {
+          "verse": 24,
+          "text": "But they hearkened not, nor inclined their ear: but walked in their own will, and in the perversity of their wicked heart: and went backward and not forward,"
+        },
+        {
+          "verse": 25,
+          "text": "From the day that their fathers came out of the land of Egypt, even to this day. And I have sent to you all my servants the prophets, from day to day, rising up early and sending."
+        },
+        {
+          "verse": 26,
+          "text": "And they have not hearkened to me: nor inclined their ear: but have hardened their neck, *and have done worse than their fathers."
+        },
+        {
+          "verse": 27,
+          "text": "And thou shalt speak to them all these words, but they will not hearken to thee: and thou shalt call them, but they will not answer thee."
+        },
+        {
+          "verse": 28,
+          "text": "And thou shalt say to them: This is a nation which hath not hearkened to the voice of the Lord their God, nor received instruction: faith is lost, and is taken away out of their mouth."
+        },
+        {
+          "verse": 29,
+          "text": "Cut off thy hair, and cast it away: and take up a lamentation on high: for the Lord hath rejected, and forsaken the generation of his wrath,"
+        },
+        {
+          "verse": 30,
+          "text": "Because the children of Juda have done evil in my eyes, saith the Lord. They have set their abominations in the house in which my name is called upon, to pollute it:"
+        },
+        {
+          "verse": 31,
+          "text": "And they have built the high places of Topheth, which is in the valley of the son of Ennom, to burn their sons, and their daughters, in the fire: which I commanded not, nor thought on in my heart."
+        },
+        {
+          "verse": 32,
+          "text": "Therefore, behold the days shall come, saith the Lord, and it shall no more be called Topheth, nor the Valley of the son of Ennom: but the Valley of slaughter, and they shall bury in Topheth, because there is no place."
+        },
+        {
+          "verse": 33,
+          "text": "And the carcasses of this people shall be meat for the fowls of the air, and for the beasts of the earth, and there shall be none to drive them away."
+        },
+        {
+          "verse": 34,
+          "text": "*And I will cause to cease out of the cities of Juda, and out of the streets of Jerusalem, the voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate."
+        }
+      ],
+      "verse_count": 34,
+      "word_count": 1002
+    },
+    {
+      "book": "John",
+      "chapter_number": 5,
+      "chapter_title": "John 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "After *these things there was a festival day of the Jews, and Jesus went up to Jerusalem."
+        },
+        {
+          "verse": 2,
+          "text": "Now there is at Jerusalem a pond, called Probatica, which in Hebrew is named Bethsaida, having five porches."
+        },
+        {
+          "verse": 3,
+          "text": "In these lay a great multitude of sick, of blind, of lame, of withered, waiting for the moving of the water."
+        },
+        {
+          "verse": 4,
+          "text": "And an Angel of the Lord descended at certain times into the pond: and the water was moved: And he that went down first into the pond after the motion of the water, was made whole of whatsoever infirmity he lay under."
+        },
+        {
+          "verse": 5,
+          "text": "And there was a certain man there, that had been eight and thirty years under his infirmity."
+        },
+        {
+          "verse": 6,
+          "text": "Him when Jesus had seen lying, and knew that he had been now a long time, he saith to him: Wilt thou be made whole?"
+        },
+        {
+          "verse": 7,
+          "text": "The infirm man answered him: Sir, I have no man when the water is troubled, to put me into the pond: for whilst I am coming, another goeth down before me."
+        },
+        {
+          "verse": 8,
+          "text": "Jesus saith to him: Arise, take up thy bed, and walk."
+        },
+        {
+          "verse": 9,
+          "text": "And immediately the man was made whole: and he took up his bed, and walked. And it was the sabbath that day."
+        },
+        {
+          "verse": 10,
+          "text": "The Jews, therefore, said to him that was cured: *It is the sabbath; it is not lawful for thee to take up thy bed."
+        },
+        {
+          "verse": 11,
+          "text": "He answered them: He that made me whole, he said to me: Take up thy bed, and walk."
+        },
+        {
+          "verse": 12,
+          "text": "They asked him, therefore: Who is that man who said to thee: Take up thy bed, and walk?"
+        },
+        {
+          "verse": 13,
+          "text": "But he that was healed, knew not who it was. For Jesus went aside from the multitude that was standing in the place."
+        },
+        {
+          "verse": 14,
+          "text": "Afterwards Jesus findeth him in the temple, and saith to him: Behold, thou art made whole: sin no more, lest some worse thing happen to thee."
+        },
+        {
+          "verse": 15,
+          "text": "The man went his way, and told the Jews, that it was Jesus that had made him whole."
+        },
+        {
+          "verse": 16,
+          "text": "Thereupon, the Jews persecuted Jesus, because he did these things on the sabbath."
+        },
+        {
+          "verse": 17,
+          "text": "But Jesus answered them: My Father worketh until now, and I work."
+        },
+        {
+          "verse": 18,
+          "text": "Hereupon, therefore, the Jews sought the more to kill him, because he did not only break the sabbath, but also said that God was his Father, making himself equal to God. Then Jesus answered, and said to them:"
+        },
+        {
+          "verse": 19,
+          "text": "Amen, amen, I say unto you: the Son cannot do any thing of himself, but what he seeth the Father doing: for what things soever he doth, these the Son also doth in like manner."
+        },
+        {
+          "verse": 20,
+          "text": "For the Father loveth the Son, and sheweth him all things which himself doth; and greater works than these will he shew him, that you may wonder."
+        },
+        {
+          "verse": 21,
+          "text": "For as the Father raiseth up the dead, and giveth life: so the Son also giveth life to whom he will."
+        },
+        {
+          "verse": 22,
+          "text": "For neither doth the Father judge any man: but hath given all judgment to the Son."
+        },
+        {
+          "verse": 23,
+          "text": "That all men may honour the Son, as they honour the Father. He who honoureth not the Son, honoureth not the Father, who hath sent him."
+        },
+        {
+          "verse": 24,
+          "text": "Amen, amen I say unto you, that he who heareth my word, and believeth him that sent me, hath life everlasting; and cometh not into judgment, but is passed from death to life."
+        },
+        {
+          "verse": 25,
+          "text": "Amen, amen I say unto you, that the hour cometh, and now is, when the dead shall hear the voice of the Son of God, and they that hear shall live."
+        },
+        {
+          "verse": 26,
+          "text": "For as the Father hath life in himself; so he hath given to the Son also to have life in himself:"
+        },
+        {
+          "verse": 27,
+          "text": "And he hath given him power to execute judgment, because he is the Son of man."
+        },
+        {
+          "verse": 28,
+          "text": "Wonder not at this, for the hour cometh, wherein all that are in the graves shall hear the voice of the Son of God."
+        },
+        {
+          "verse": 29,
+          "text": "*And they that have done good, shall come forth unto the resurrection of life: but they that have done evil, unto the resurrection of judgment."
+        },
+        {
+          "verse": 30,
+          "text": "I can do nothing of myself. As I hear, so I judge: and my judgment is just: because I seek not my own will, but the will of him that sent me."
+        },
+        {
+          "verse": 31,
+          "text": "If I bear witness of myself, my witness is not true."
+        },
+        {
+          "verse": 32,
+          "text": "*There is another that beareth witness of me: and I know that the witness which he witnesseth of me is true."
+        },
+        {
+          "verse": 33,
+          "text": "You sent to John: and he gave testimony to the truth."
+        },
+        {
+          "verse": 34,
+          "text": "But I receive not testimony from man: but I say these things that you may be saved."
+        },
+        {
+          "verse": 35,
+          "text": "He was a burning and a shining light. And you were willing, for a time, to rejoice in his light."
+        },
+        {
+          "verse": 36,
+          "text": "But I have a greater testimony than that of John. For the works which the Father hath given me to perfect: the works themselves, which I do, give testimony of me, that the Father hath sent me."
+        },
+        {
+          "verse": 37,
+          "text": "And the Father himself who hath sent me, *hath given testimony of me: neither have you heard his voice at any time, **nor seen his shape."
+        },
+        {
+          "verse": 38,
+          "text": "And you have not his word abiding in you: for whom he hath sent, him you believe not."
+        },
+        {
+          "verse": 39,
+          "text": "Search the Scriptures, for you think in them to have life everlasting: and the same are they that give testimony of me:"
+        },
+        {
+          "verse": 40,
+          "text": "And you will not come to me that you may have life."
+        },
+        {
+          "verse": 41,
+          "text": "I receive not glory from men."
+        },
+        {
+          "verse": 42,
+          "text": "But I know you, that you have not the love of God in you."
+        },
+        {
+          "verse": 43,
+          "text": "I am come in the name of my Father, and you receive me not: if another shall come in his own name, him you will receive."
+        },
+        {
+          "verse": 44,
+          "text": "How can you believe, who receive glory one from another: *and the glory which is from God alone, you do not seek?"
+        },
+        {
+          "verse": 45,
+          "text": "Think not that I will accuse you to the Father. There is one that accuseth you, Moses, in whom you trust."
+        },
+        {
+          "verse": 46,
+          "text": "For if you did believe Moses, you would perhaps believe me also; *for he wrote of me."
+        },
+        {
+          "verse": 47,
+          "text": "But if you do not believe his writings: how will you believe my words?"
+        }
+      ],
+      "verse_count": 47,
+      "word_count": 1016
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "day_number": 204,
+  "references": "2 Samuel 8 • Proverbs 12 • Amos 4 • Philemon 1",
+  "word_count": 1791,
+  "estimated_minutes": 9,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Proverbs 12:16",
+    "text": "A fool’s wrath is presently known: but a prudent man covereth shame.",
+    "reflection": "If the day gets scattered, return here and let this verse gather you again."
+  },
+  "tomorrow_teaser": "2 Samuel 9 • Proverbs 13 • Amos 5 • Hebrews 1",
+  "chapters": [
+    {
+      "book": "2 Samuel",
+      "chapter_number": 8,
+      "chapter_title": "2 Samuel 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And after this it came to pass that David smote the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines."
+        },
+        {
+          "verse": 2,
+          "text": "And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David’s servants, and brought gifts."
+        },
+        {
+          "verse": 3,
+          "text": "David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates."
+        },
+        {
+          "verse": 4,
+          "text": "And David took from him a thousand chariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots."
+        },
+        {
+          "verse": 5,
+          "text": "And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men."
+        },
+        {
+          "verse": 6,
+          "text": "Then David put garrisons in Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the LORD preserved David whithersoever he went."
+        },
+        {
+          "verse": 7,
+          "text": "And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem."
+        },
+        {
+          "verse": 8,
+          "text": "And from Betah, and from Berothai, cities of Hadadezer, king David took exceeding much brass."
+        },
+        {
+          "verse": 9,
+          "text": "When Toi king of Hamath heard that David had smitten all the host of Hadadezer,"
+        },
+        {
+          "verse": 10,
+          "text": "Then Toi sent Joram his son unto king David, to salute him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And Joram brought with him vessels of silver, and vessels of gold, and vessels of brass:"
+        },
+        {
+          "verse": 11,
+          "text": "Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued;"
+        },
+        {
+          "verse": 12,
+          "text": "Of Syria, and of Moab, and of the children of Ammon, and of the Philistines, and of Amalek, and of the spoil of Hadadezer, son of Rehob, king of Zobah."
+        },
+        {
+          "verse": 13,
+          "text": "And David gat him a name when he returned from smiting of the Syrians in the valley of salt, being eighteen thousand men."
+        },
+        {
+          "verse": 14,
+          "text": "And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David’s servants. And the LORD preserved David whithersoever he went."
+        },
+        {
+          "verse": 15,
+          "text": "And David reigned over all Israel; and David executed judgment and justice unto all his people."
+        },
+        {
+          "verse": 16,
+          "text": "And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was recorder;"
+        },
+        {
+          "verse": 17,
+          "text": "And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, were the priests; and Seraiah was the scribe;"
+        },
+        {
+          "verse": 18,
+          "text": "And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David’s sons were chief rulers."
+        }
+      ],
+      "verse_count": 18,
+      "word_count": 450
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 12,
+      "chapter_title": "Proverbs 12",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish."
+        },
+        {
+          "verse": 2,
+          "text": "A good man obtaineth favour of the LORD: but a man of wicked devices will he condemn."
+        },
+        {
+          "verse": 3,
+          "text": "A man shall not be established by wickedness: but the root of the righteous shall not be moved."
+        },
+        {
+          "verse": 4,
+          "text": "A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones."
+        },
+        {
+          "verse": 5,
+          "text": "The thoughts of the righteous are right: but the counsels of the wicked are deceit."
+        },
+        {
+          "verse": 6,
+          "text": "The words of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them."
+        },
+        {
+          "verse": 7,
+          "text": "The wicked are overthrown, and are not: but the house of the righteous shall stand."
+        },
+        {
+          "verse": 8,
+          "text": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised."
+        },
+        {
+          "verse": 9,
+          "text": "He that is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread."
+        },
+        {
+          "verse": 10,
+          "text": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel."
+        },
+        {
+          "verse": 11,
+          "text": "He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding."
+        },
+        {
+          "verse": 12,
+          "text": "The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit."
+        },
+        {
+          "verse": 13,
+          "text": "The wicked is snared by the transgression of his lips: but the just shall come out of trouble."
+        },
+        {
+          "verse": 14,
+          "text": "A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man’s hands shall be rendered unto him."
+        },
+        {
+          "verse": 15,
+          "text": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise."
+        },
+        {
+          "verse": 16,
+          "text": "A fool’s wrath is presently known: but a prudent man covereth shame."
+        },
+        {
+          "verse": 17,
+          "text": "He that speaketh truth sheweth forth righteousness: but a false witness deceit."
+        },
+        {
+          "verse": 18,
+          "text": "There is that speaketh like the piercings of a sword: but the tongue of the wise is health."
+        },
+        {
+          "verse": 19,
+          "text": "The lip of truth shall be established for ever: but a lying tongue is but for a moment."
+        },
+        {
+          "verse": 20,
+          "text": "Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy."
+        },
+        {
+          "verse": 21,
+          "text": "There shall no evil happen to the just: but the wicked shall be filled with mischief."
+        },
+        {
+          "verse": 22,
+          "text": "Lying lips are abomination to the LORD: but they that deal truly are his delight."
+        },
+        {
+          "verse": 23,
+          "text": "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness."
+        },
+        {
+          "verse": 24,
+          "text": "The hand of the diligent shall bear rule: but the slothful shall be under tribute."
+        },
+        {
+          "verse": 25,
+          "text": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad."
+        },
+        {
+          "verse": 26,
+          "text": "The righteous is more excellent than his neighbour: but the way of the wicked seduceth them."
+        },
+        {
+          "verse": 27,
+          "text": "The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious."
+        },
+        {
+          "verse": 28,
+          "text": "In the way of righteousness is life: and in the pathway thereof there is no death."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 478
+    },
+    {
+      "book": "Amos",
+      "chapter_number": 4,
+      "chapter_title": "Amos 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink."
+        },
+        {
+          "verse": 2,
+          "text": "The Lord GOD hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks."
+        },
+        {
+          "verse": 3,
+          "text": "And ye shall go out at the breaches, every cow at that which is before her; and ye shall cast them into the palace, saith the LORD."
+        },
+        {
+          "verse": 4,
+          "text": "Come to Bethel, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, and your tithes after three years:"
+        },
+        {
+          "verse": 5,
+          "text": "And offer a sacrifice of thanksgiving with leaven, and proclaim and publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord GOD."
+        },
+        {
+          "verse": 6,
+          "text": "And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "And also I have withholden the rain from you, when there were yet three months to the harvest: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered."
+        },
+        {
+          "verse": 8,
+          "text": "So two or three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the LORD."
+        },
+        {
+          "verse": 9,
+          "text": "I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured them: yet have ye not returned unto me, saith the LORD."
+        },
+        {
+          "verse": 10,
+          "text": "I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, and have taken away your horses; and I have made the stink of your camps to come up unto your nostrils: yet have ye not returned unto me, saith the LORD."
+        },
+        {
+          "verse": 11,
+          "text": "I have overthrown some of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the LORD."
+        },
+        {
+          "verse": 12,
+          "text": "Therefore thus will I do unto thee, O Israel: and because I will do this unto thee, prepare to meet thy God, O Israel."
+        },
+        {
+          "verse": 13,
+          "text": "For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The LORD, The God of hosts, is his name."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 432
+    },
+    {
+      "book": "Philemon",
+      "chapter_number": 1,
+      "chapter_title": "Philemon 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,"
+        },
+        {
+          "verse": 2,
+          "text": "And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:"
+        },
+        {
+          "verse": 3,
+          "text": "Grace to you, and peace, from God our Father and the Lord Jesus Christ."
+        },
+        {
+          "verse": 4,
+          "text": "I thank my God, making mention of thee always in my prayers,"
+        },
+        {
+          "verse": 5,
+          "text": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;"
+        },
+        {
+          "verse": 6,
+          "text": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus."
+        },
+        {
+          "verse": 7,
+          "text": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother."
+        },
+        {
+          "verse": 8,
+          "text": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"
+        },
+        {
+          "verse": 9,
+          "text": "Yet for love’s sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
+        },
+        {
+          "verse": 10,
+          "text": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:"
+        },
+        {
+          "verse": 11,
+          "text": "Which in time past was to thee unprofitable, but now profitable to thee and to me:"
+        },
+        {
+          "verse": 12,
+          "text": "Whom I have sent again: thou therefore receive him, that is, mine own bowels:"
+        },
+        {
+          "verse": 13,
+          "text": "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:"
+        },
+        {
+          "verse": 14,
+          "text": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly."
+        },
+        {
+          "verse": 15,
+          "text": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;"
+        },
+        {
+          "verse": 16,
+          "text": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?"
+        },
+        {
+          "verse": 17,
+          "text": "If thou count me therefore a partner, receive him as myself."
+        },
+        {
+          "verse": 18,
+          "text": "If he hath wronged thee, or oweth thee ought, put that on mine account;"
+        },
+        {
+          "verse": 19,
+          "text": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides."
+        },
+        {
+          "verse": 20,
+          "text": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord."
+        },
+        {
+          "verse": 21,
+          "text": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say."
+        },
+        {
+          "verse": 22,
+          "text": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you."
+        },
+        {
+          "verse": 23,
+          "text": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;"
+        },
+        {
+          "verse": 24,
+          "text": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers."
+        },
+        {
+          "verse": 25,
+          "text": "The grace of our Lord Jesus Christ be with your spirit. Amen."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 431
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "day_number": 3,
+  "references": "Genesis 5-6 • Job 3 • Isaiah 3 • Matthew 3",
+  "word_count": 2493,
+  "estimated_minutes": 12,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Matthew 3:8",
+    "text": "Bring forth therefore fruits meet for repentance:",
+    "reflection": "This is the kind of sentence to keep near when the day feels louder than your prayers."
+  },
+  "tomorrow_teaser": "Genesis 7-8 • Job 4 • Isaiah 4 • Matthew 4",
+  "chapters": [
+    {
+      "book": "Genesis",
+      "chapter_number": 5,
+      "chapter_title": "Genesis 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+        },
+        {
+          "verse": 2,
+          "text": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created."
+        },
+        {
+          "verse": 3,
+          "text": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:"
+        },
+        {
+          "verse": 4,
+          "text": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
+        },
+        {
+          "verse": 5,
+          "text": "And all the days that Adam lived were nine hundred and thirty years: and he died."
+        },
+        {
+          "verse": 6,
+          "text": "And Seth lived an hundred and five years, and begat Enos:"
+        },
+        {
+          "verse": 7,
+          "text": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:"
+        },
+        {
+          "verse": 8,
+          "text": "And all the days of Seth were nine hundred and twelve years: and he died."
+        },
+        {
+          "verse": 9,
+          "text": "And Enos lived ninety years, and begat Cainan:"
+        },
+        {
+          "verse": 10,
+          "text": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+        },
+        {
+          "verse": 11,
+          "text": "And all the days of Enos were nine hundred and five years: and he died."
+        },
+        {
+          "verse": 12,
+          "text": "And Cainan lived seventy years, and begat Mahalaleel:"
+        },
+        {
+          "verse": 13,
+          "text": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
+        },
+        {
+          "verse": 14,
+          "text": "And all the days of Cainan were nine hundred and ten years: and he died."
+        },
+        {
+          "verse": 15,
+          "text": "And Mahalaleel lived sixty and five years, and begat Jared:"
+        },
+        {
+          "verse": 16,
+          "text": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:"
+        },
+        {
+          "verse": 17,
+          "text": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+        },
+        {
+          "verse": 18,
+          "text": "And Jared lived an hundred sixty and two years, and he begat Enoch:"
+        },
+        {
+          "verse": 19,
+          "text": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
+        },
+        {
+          "verse": 20,
+          "text": "And all the days of Jared were nine hundred sixty and two years: and he died."
+        },
+        {
+          "verse": 21,
+          "text": "And Enoch lived sixty and five years, and begat Methuselah:"
+        },
+        {
+          "verse": 22,
+          "text": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+        },
+        {
+          "verse": 23,
+          "text": "And all the days of Enoch were three hundred sixty and five years:"
+        },
+        {
+          "verse": 24,
+          "text": "And Enoch walked with God: and he was not; for God took him."
+        },
+        {
+          "verse": 25,
+          "text": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:"
+        },
+        {
+          "verse": 26,
+          "text": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:"
+        },
+        {
+          "verse": 27,
+          "text": "And all the days of Methuselah were nine hundred sixty and nine years: and he died."
+        },
+        {
+          "verse": 28,
+          "text": "And Lamech lived an hundred eighty and two years, and begat a son:"
+        },
+        {
+          "verse": 29,
+          "text": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed."
+        },
+        {
+          "verse": 30,
+          "text": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:"
+        },
+        {
+          "verse": 31,
+          "text": "And all the days of Lamech were seven hundred seventy and seven years: and he died."
+        },
+        {
+          "verse": 32,
+          "text": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 504
+    },
+    {
+      "book": "Genesis",
+      "chapter_number": 6,
+      "chapter_title": "Genesis 6",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,"
+        },
+        {
+          "verse": 2,
+          "text": "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose."
+        },
+        {
+          "verse": 3,
+          "text": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years."
+        },
+        {
+          "verse": 4,
+          "text": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown."
+        },
+        {
+          "verse": 5,
+          "text": "And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."
+        },
+        {
+          "verse": 6,
+          "text": "And it repented the LORD that he had made man on the earth, and it grieved him at his heart."
+        },
+        {
+          "verse": 7,
+          "text": "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them."
+        },
+        {
+          "verse": 8,
+          "text": "But Noah found grace in the eyes of the LORD."
+        },
+        {
+          "verse": 9,
+          "text": "These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God."
+        },
+        {
+          "verse": 10,
+          "text": "And Noah begat three sons, Shem, Ham, and Japheth."
+        },
+        {
+          "verse": 11,
+          "text": "The earth also was corrupt before God, and the earth was filled with violence."
+        },
+        {
+          "verse": 12,
+          "text": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth."
+        },
+        {
+          "verse": 13,
+          "text": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth."
+        },
+        {
+          "verse": 14,
+          "text": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch."
+        },
+        {
+          "verse": 15,
+          "text": "And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits."
+        },
+        {
+          "verse": 16,
+          "text": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it."
+        },
+        {
+          "verse": 17,
+          "text": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die."
+        },
+        {
+          "verse": 18,
+          "text": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee."
+        },
+        {
+          "verse": 19,
+          "text": "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female."
+        },
+        {
+          "verse": 20,
+          "text": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive."
+        },
+        {
+          "verse": 21,
+          "text": "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them."
+        },
+        {
+          "verse": 22,
+          "text": "Thus did Noah; according to all that God commanded him, so did he."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 579
+    },
+    {
+      "book": "Job",
+      "chapter_number": 3,
+      "chapter_title": "Job 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "After this opened Job his mouth, and cursed his day."
+        },
+        {
+          "verse": 2,
+          "text": "And Job spake, and said,"
+        },
+        {
+          "verse": 3,
+          "text": "Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived."
+        },
+        {
+          "verse": 4,
+          "text": "Let that day be darkness; let not God regard it from above, neither let the light shine upon it."
+        },
+        {
+          "verse": 5,
+          "text": "Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it."
+        },
+        {
+          "verse": 6,
+          "text": "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months."
+        },
+        {
+          "verse": 7,
+          "text": "Lo, let that night be solitary, let no joyful voice come therein."
+        },
+        {
+          "verse": 8,
+          "text": "Let them curse it that curse the day, who are ready to raise up their mourning."
+        },
+        {
+          "verse": 9,
+          "text": "Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:"
+        },
+        {
+          "verse": 10,
+          "text": "Because it shut not up the doors of my mother’s womb, nor hid sorrow from mine eyes."
+        },
+        {
+          "verse": 11,
+          "text": "Why died I not from the womb? why did I not give up the ghost when I came out of the belly?"
+        },
+        {
+          "verse": 12,
+          "text": "Why did the knees prevent me? or why the breasts that I should suck?"
+        },
+        {
+          "verse": 13,
+          "text": "For now should I have lain still and been quiet, I should have slept: then had I been at rest,"
+        },
+        {
+          "verse": 14,
+          "text": "With kings and counsellors of the earth, which built desolate places for themselves;"
+        },
+        {
+          "verse": 15,
+          "text": "Or with princes that had gold, who filled their houses with silver:"
+        },
+        {
+          "verse": 16,
+          "text": "Or as an hidden untimely birth I had not been; as infants which never saw light."
+        },
+        {
+          "verse": 17,
+          "text": "There the wicked cease from troubling; and there the weary be at rest."
+        },
+        {
+          "verse": 18,
+          "text": "There the prisoners rest together; they hear not the voice of the oppressor."
+        },
+        {
+          "verse": 19,
+          "text": "The small and great are there; and the servant is free from his master."
+        },
+        {
+          "verse": 20,
+          "text": "Wherefore is light given to him that is in misery, and life unto the bitter in soul;"
+        },
+        {
+          "verse": 21,
+          "text": "Which long for death, but it cometh not; and dig for it more than for hid treasures;"
+        },
+        {
+          "verse": 22,
+          "text": "Which rejoice exceedingly, and are glad, when they can find the grave?"
+        },
+        {
+          "verse": 23,
+          "text": "Why is light given to a man whose way is hid, and whom God hath hedged in?"
+        },
+        {
+          "verse": 24,
+          "text": "For my sighing cometh before I eat, and my roarings are poured out like the waters."
+        },
+        {
+          "verse": 25,
+          "text": "For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me."
+        },
+        {
+          "verse": 26,
+          "text": "I was not in safety, neither had I rest, neither was I quiet; yet trouble came."
+        }
+      ],
+      "verse_count": 26,
+      "word_count": 435
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 3,
+      "chapter_title": "Isaiah 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water."
+        },
+        {
+          "verse": 2,
+          "text": "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,"
+        },
+        {
+          "verse": 3,
+          "text": "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator."
+        },
+        {
+          "verse": 4,
+          "text": "And I will give children to be their princes, and babes shall rule over them."
+        },
+        {
+          "verse": 5,
+          "text": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable."
+        },
+        {
+          "verse": 6,
+          "text": "When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand:"
+        },
+        {
+          "verse": 7,
+          "text": "In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people."
+        },
+        {
+          "verse": 8,
+          "text": "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the LORD, to provoke the eyes of his glory."
+        },
+        {
+          "verse": 9,
+          "text": "The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves."
+        },
+        {
+          "verse": 10,
+          "text": "Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings."
+        },
+        {
+          "verse": 11,
+          "text": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."
+        },
+        {
+          "verse": 12,
+          "text": "As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths."
+        },
+        {
+          "verse": 13,
+          "text": "The LORD standeth up to plead, and standeth to judge the people."
+        },
+        {
+          "verse": 14,
+          "text": "The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses."
+        },
+        {
+          "verse": 15,
+          "text": "What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts."
+        },
+        {
+          "verse": 16,
+          "text": "Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:"
+        },
+        {
+          "verse": 17,
+          "text": "Therefore the LORD will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts."
+        },
+        {
+          "verse": 18,
+          "text": "In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,"
+        },
+        {
+          "verse": 19,
+          "text": "The chains, and the bracelets, and the mufflers,"
+        },
+        {
+          "verse": 20,
+          "text": "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,"
+        },
+        {
+          "verse": 21,
+          "text": "The rings, and nose jewels,"
+        },
+        {
+          "verse": 22,
+          "text": "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,"
+        },
+        {
+          "verse": 23,
+          "text": "The glasses, and the fine linen, and the hoods, and the vails."
+        },
+        {
+          "verse": 24,
+          "text": "And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty."
+        },
+        {
+          "verse": 25,
+          "text": "Thy men shall fall by the sword, and thy mighty in the war."
+        },
+        {
+          "verse": 26,
+          "text": "And her gates shall lament and mourn; and she being desolate shall sit upon the ground."
+        }
+      ],
+      "verse_count": 26,
+      "word_count": 587
+    },
+    {
+      "book": "Matthew",
+      "chapter_number": 3,
+      "chapter_title": "Matthew 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In those days came John the Baptist, preaching in the wilderness of Judaea,"
+        },
+        {
+          "verse": 2,
+          "text": "And saying, Repent ye: for the kingdom of heaven is at hand."
+        },
+        {
+          "verse": 3,
+          "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+        },
+        {
+          "verse": 4,
+          "text": "And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey."
+        },
+        {
+          "verse": 5,
+          "text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,"
+        },
+        {
+          "verse": 6,
+          "text": "And were baptized of him in Jordan, confessing their sins."
+        },
+        {
+          "verse": 7,
+          "text": "But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?"
+        },
+        {
+          "verse": 8,
+          "text": "Bring forth therefore fruits meet for repentance:"
+        },
+        {
+          "verse": 9,
+          "text": "And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham."
+        },
+        {
+          "verse": 10,
+          "text": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire."
+        },
+        {
+          "verse": 11,
+          "text": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:"
+        },
+        {
+          "verse": 12,
+          "text": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."
+        },
+        {
+          "verse": 13,
+          "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him."
+        },
+        {
+          "verse": 14,
+          "text": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?"
+        },
+        {
+          "verse": 15,
+          "text": "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him."
+        },
+        {
+          "verse": 16,
+          "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:"
+        },
+        {
+          "verse": 17,
+          "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 388
+    }
+  ]
+}

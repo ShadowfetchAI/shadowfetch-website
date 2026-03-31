@@ -1,0 +1,360 @@
+{
+  "day_number": 196,
+  "references": "1 Samuel 31 • Proverbs 4 • Hosea 13 • 1 Timothy 6",
+  "word_count": 1655,
+  "estimated_minutes": 8,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Proverbs 4:2",
+    "text": "For I give you good doctrine, forsake ye not my law.",
+    "reflection": "Hold this verse close and let its steadiness shape the next few hours."
+  },
+  "tomorrow_teaser": "2 Samuel 1 • Proverbs 5 • Hosea 14 • 2 Timothy 1",
+  "chapters": [
+    {
+      "book": "1 Samuel",
+      "chapter_number": 31,
+      "chapter_title": "1 Samuel 31",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa."
+        },
+        {
+          "verse": 2,
+          "text": "And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Melchishua, Saul’s sons."
+        },
+        {
+          "verse": 3,
+          "text": "And the battle went sore against Saul, and the archers hit him; and he was sore wounded of the archers."
+        },
+        {
+          "verse": 4,
+          "text": "Then said Saul unto his armourbearer, Draw thy sword, and thrust me through therewith; lest these uncircumcised come and thrust me through, and abuse me. But his armourbearer would not; for he was sore afraid. Therefore Saul took a sword, and fell upon it."
+        },
+        {
+          "verse": 5,
+          "text": "And when his armourbearer saw that Saul was dead, he fell likewise upon his sword, and died with him."
+        },
+        {
+          "verse": 6,
+          "text": "So Saul died, and his three sons, and his armourbearer, and all his men, that same day together."
+        },
+        {
+          "verse": 7,
+          "text": "And when the men of Israel that were on the other side of the valley, and they that were on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them."
+        },
+        {
+          "verse": 8,
+          "text": "And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his three sons fallen in mount Gilboa."
+        },
+        {
+          "verse": 9,
+          "text": "And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish it in the house of their idols, and among the people."
+        },
+        {
+          "verse": 10,
+          "text": "And they put his armour in the house of Ashtaroth: and they fastened his body to the wall of Bethshan."
+        },
+        {
+          "verse": 11,
+          "text": "And when the inhabitants of Jabeshgilead heard of that which the Philistines had done to Saul;"
+        },
+        {
+          "verse": 12,
+          "text": "All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Bethshan, and came to Jabesh, and burnt them there."
+        },
+        {
+          "verse": 13,
+          "text": "And they took their bones, and buried them under a tree at Jabesh, and fasted seven days."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 349
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 4,
+      "chapter_title": "Proverbs 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Hear, ye children, the instruction of a father, and attend to know understanding."
+        },
+        {
+          "verse": 2,
+          "text": "For I give you good doctrine, forsake ye not my law."
+        },
+        {
+          "verse": 3,
+          "text": "For I was my father’s son, tender and only beloved in the sight of my mother."
+        },
+        {
+          "verse": 4,
+          "text": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
+        },
+        {
+          "verse": 5,
+          "text": "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth."
+        },
+        {
+          "verse": 6,
+          "text": "Forsake her not, and she shall preserve thee: love her, and she shall keep thee."
+        },
+        {
+          "verse": 7,
+          "text": "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding."
+        },
+        {
+          "verse": 8,
+          "text": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
+        },
+        {
+          "verse": 9,
+          "text": "She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee."
+        },
+        {
+          "verse": 10,
+          "text": "Hear, O my son, and receive my sayings; and the years of thy life shall be many."
+        },
+        {
+          "verse": 11,
+          "text": "I have taught thee in the way of wisdom; I have led thee in right paths."
+        },
+        {
+          "verse": 12,
+          "text": "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble."
+        },
+        {
+          "verse": 13,
+          "text": "Take fast hold of instruction; let her not go: keep her; for she is thy life."
+        },
+        {
+          "verse": 14,
+          "text": "Enter not into the path of the wicked, and go not in the way of evil men."
+        },
+        {
+          "verse": 15,
+          "text": "Avoid it, pass not by it, turn from it, and pass away."
+        },
+        {
+          "verse": 16,
+          "text": "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall."
+        },
+        {
+          "verse": 17,
+          "text": "For they eat the bread of wickedness, and drink the wine of violence."
+        },
+        {
+          "verse": 18,
+          "text": "But the path of the just is as the shining light, that shineth more and more unto the perfect day."
+        },
+        {
+          "verse": 19,
+          "text": "The way of the wicked is as darkness: they know not at what they stumble."
+        },
+        {
+          "verse": 20,
+          "text": "My son, attend to my words; incline thine ear unto my sayings."
+        },
+        {
+          "verse": 21,
+          "text": "Let them not depart from thine eyes; keep them in the midst of thine heart."
+        },
+        {
+          "verse": 22,
+          "text": "For they are life unto those that find them, and health to all their flesh."
+        },
+        {
+          "verse": 23,
+          "text": "Keep thy heart with all diligence; for out of it are the issues of life."
+        },
+        {
+          "verse": 24,
+          "text": "Put away from thee a froward mouth, and perverse lips put far from thee."
+        },
+        {
+          "verse": 25,
+          "text": "Let thine eyes look right on, and let thine eyelids look straight before thee."
+        },
+        {
+          "verse": 26,
+          "text": "Ponder the path of thy feet, and let all thy ways be established."
+        },
+        {
+          "verse": 27,
+          "text": "Turn not to the right hand nor to the left: remove thy foot from evil."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 419
+    },
+    {
+      "book": "Hosea",
+      "chapter_number": 13,
+      "chapter_title": "Hosea 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died."
+        },
+        {
+          "verse": 2,
+          "text": "And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves."
+        },
+        {
+          "verse": 3,
+          "text": "Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney."
+        },
+        {
+          "verse": 4,
+          "text": "Yet I am the LORD thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me."
+        },
+        {
+          "verse": 5,
+          "text": "I did know thee in the wilderness, in the land of great drought."
+        },
+        {
+          "verse": 6,
+          "text": "According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore I will be unto them as a lion: as a leopard by the way will I observe them:"
+        },
+        {
+          "verse": 8,
+          "text": "I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them."
+        },
+        {
+          "verse": 9,
+          "text": "O Israel, thou hast destroyed thyself; but in me is thine help."
+        },
+        {
+          "verse": 10,
+          "text": "I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?"
+        },
+        {
+          "verse": 11,
+          "text": "I gave thee a king in mine anger, and took him away in my wrath."
+        },
+        {
+          "verse": 12,
+          "text": "The iniquity of Ephraim is bound up; his sin is hid."
+        },
+        {
+          "verse": 13,
+          "text": "The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children."
+        },
+        {
+          "verse": 14,
+          "text": "I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes."
+        },
+        {
+          "verse": 15,
+          "text": "Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels."
+        },
+        {
+          "verse": 16,
+          "text": "Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up."
+        }
+      ],
+      "verse_count": 16,
+      "word_count": 426
+    },
+    {
+      "book": "1 Timothy",
+      "chapter_number": 6,
+      "chapter_title": "1 Timothy 6",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed."
+        },
+        {
+          "verse": 2,
+          "text": "And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort."
+        },
+        {
+          "verse": 3,
+          "text": "If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;"
+        },
+        {
+          "verse": 4,
+          "text": "He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,"
+        },
+        {
+          "verse": 5,
+          "text": "Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself."
+        },
+        {
+          "verse": 6,
+          "text": "But godliness with contentment is great gain."
+        },
+        {
+          "verse": 7,
+          "text": "For we brought nothing into this world, and it is certain we can carry nothing out."
+        },
+        {
+          "verse": 8,
+          "text": "And having food and raiment let us be therewith content."
+        },
+        {
+          "verse": 9,
+          "text": "But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition."
+        },
+        {
+          "verse": 10,
+          "text": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows."
+        },
+        {
+          "verse": 11,
+          "text": "But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness."
+        },
+        {
+          "verse": 12,
+          "text": "Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses."
+        },
+        {
+          "verse": 13,
+          "text": "I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;"
+        },
+        {
+          "verse": 14,
+          "text": "That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:"
+        },
+        {
+          "verse": 15,
+          "text": "Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;"
+        },
+        {
+          "verse": 16,
+          "text": "Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom be honour and power everlasting. Amen."
+        },
+        {
+          "verse": 17,
+          "text": "Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;"
+        },
+        {
+          "verse": 18,
+          "text": "That they do good, that they be rich in good works, ready to distribute, willing to communicate;"
+        },
+        {
+          "verse": 19,
+          "text": "Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life."
+        },
+        {
+          "verse": 20,
+          "text": "O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called:"
+        },
+        {
+          "verse": 21,
+          "text": "Which some professing have erred concerning the faith. Grace be with thee. Amen."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 461
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "day_number": 15,
+  "references": "Genesis 29-30 • Job 15 • Isaiah 15 • Matthew 15",
+  "word_count": 3478,
+  "estimated_minutes": 17,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Matthew 15:16",
+    "text": "And Jesus said, Are ye also yet without understanding?",
+    "reflection": "This is the kind of sentence to keep near when the day feels louder than your prayers."
+  },
+  "tomorrow_teaser": "Genesis 31-32 • Job 16 • Isaiah 16 • Matthew 16",
+  "chapters": [
+    {
+      "book": "Genesis",
+      "chapter_number": 29,
+      "chapter_title": "Genesis 29",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then Jacob went on his journey, and came into the land of the people of the east."
+        },
+        {
+          "verse": 2,
+          "text": "And he looked, and behold a well in the field, and, lo, there were three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone was upon the well’s mouth."
+        },
+        {
+          "verse": 3,
+          "text": "And thither were all the flocks gathered: and they rolled the stone from the well’s mouth, and watered the sheep, and put the stone again upon the well’s mouth in his place."
+        },
+        {
+          "verse": 4,
+          "text": "And Jacob said unto them, My brethren, whence be ye? And they said, Of Haran are we."
+        },
+        {
+          "verse": 5,
+          "text": "And he said unto them, Know ye Laban the son of Nahor? And they said, We know him."
+        },
+        {
+          "verse": 6,
+          "text": "And he said unto them, Is he well? And they said, He is well: and, behold, Rachel his daughter cometh with the sheep."
+        },
+        {
+          "verse": 7,
+          "text": "And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water ye the sheep, and go and feed them."
+        },
+        {
+          "verse": 8,
+          "text": "And they said, We cannot, until all the flocks be gathered together, and till they roll the stone from the well’s mouth; then we water the sheep."
+        },
+        {
+          "verse": 9,
+          "text": "And while he yet spake with them, Rachel came with her father’s sheep: for she kept them."
+        },
+        {
+          "verse": 10,
+          "text": "And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother."
+        },
+        {
+          "verse": 11,
+          "text": "And Jacob kissed Rachel, and lifted up his voice, and wept."
+        },
+        {
+          "verse": 12,
+          "text": "And Jacob told Rachel that he was her father’s brother, and that he was Rebekah’s son: and she ran and told her father."
+        },
+        {
+          "verse": 13,
+          "text": "And it came to pass, when Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things."
+        },
+        {
+          "verse": 14,
+          "text": "And Laban said to him, Surely thou art my bone and my flesh. And he abode with him the space of a month."
+        },
+        {
+          "verse": 15,
+          "text": "And Laban said unto Jacob, Because thou art my brother, shouldest thou therefore serve me for nought? tell me, what shall thy wages be?"
+        },
+        {
+          "verse": 16,
+          "text": "And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel."
+        },
+        {
+          "verse": 17,
+          "text": "Leah was tender eyed; but Rachel was beautiful and well favoured."
+        },
+        {
+          "verse": 18,
+          "text": "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter."
+        },
+        {
+          "verse": 19,
+          "text": "And Laban said, It is better that I give her to thee, than that I should give her to another man: abide with me."
+        },
+        {
+          "verse": 20,
+          "text": "And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her."
+        },
+        {
+          "verse": 21,
+          "text": "And Jacob said unto Laban, Give me my wife, for my days are fulfilled, that I may go in unto her."
+        },
+        {
+          "verse": 22,
+          "text": "And Laban gathered together all the men of the place, and made a feast."
+        },
+        {
+          "verse": 23,
+          "text": "And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her."
+        },
+        {
+          "verse": 24,
+          "text": "And Laban gave unto his daughter Leah Zilpah his maid for an handmaid."
+        },
+        {
+          "verse": 25,
+          "text": "And it came to pass, that in the morning, behold, it was Leah: and he said to Laban, What is this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?"
+        },
+        {
+          "verse": 26,
+          "text": "And Laban said, It must not be so done in our country, to give the younger before the firstborn."
+        },
+        {
+          "verse": 27,
+          "text": "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years."
+        },
+        {
+          "verse": 28,
+          "text": "And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also."
+        },
+        {
+          "verse": 29,
+          "text": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid."
+        },
+        {
+          "verse": 30,
+          "text": "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years."
+        },
+        {
+          "verse": 31,
+          "text": "And when the LORD saw that Leah was hated, he opened her womb: but Rachel was barren."
+        },
+        {
+          "verse": 32,
+          "text": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the LORD hath looked upon my affliction; now therefore my husband will love me."
+        },
+        {
+          "verse": 33,
+          "text": "And she conceived again, and bare a son; and said, Because the LORD hath heard that I was hated, he hath therefore given me this son also: and she called his name Simeon."
+        },
+        {
+          "verse": 34,
+          "text": "And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi."
+        },
+        {
+          "verse": 35,
+          "text": "And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 842
+    },
+    {
+      "book": "Genesis",
+      "chapter_number": 30,
+      "chapter_title": "Genesis 30",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die."
+        },
+        {
+          "verse": 2,
+          "text": "And Jacob’s anger was kindled against Rachel: and he said, Am I in God’s stead, who hath withheld from thee the fruit of the womb?"
+        },
+        {
+          "verse": 3,
+          "text": "And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her."
+        },
+        {
+          "verse": 4,
+          "text": "And she gave him Bilhah her handmaid to wife: and Jacob went in unto her."
+        },
+        {
+          "verse": 5,
+          "text": "And Bilhah conceived, and bare Jacob a son."
+        },
+        {
+          "verse": 6,
+          "text": "And Rachel said, God hath judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan."
+        },
+        {
+          "verse": 7,
+          "text": "And Bilhah Rachel’s maid conceived again, and bare Jacob a second son."
+        },
+        {
+          "verse": 8,
+          "text": "And Rachel said, With great wrestlings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali."
+        },
+        {
+          "verse": 9,
+          "text": "When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife."
+        },
+        {
+          "verse": 10,
+          "text": "And Zilpah Leah’s maid bare Jacob a son."
+        },
+        {
+          "verse": 11,
+          "text": "And Leah said, A troop cometh: and she called his name Gad."
+        },
+        {
+          "verse": 12,
+          "text": "And Zilpah Leah’s maid bare Jacob a second son."
+        },
+        {
+          "verse": 13,
+          "text": "And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher."
+        },
+        {
+          "verse": 14,
+          "text": "And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son’s mandrakes."
+        },
+        {
+          "verse": 15,
+          "text": "And she said unto her, Is it a small matter that thou hast taken my husband? and wouldest thou take away my son’s mandrakes also? And Rachel said, Therefore he shall lie with thee to night for thy son’s mandrakes."
+        },
+        {
+          "verse": 16,
+          "text": "And Jacob came out of the field in the evening, and Leah went out to meet him, and said, Thou must come in unto me; for surely I have hired thee with my son’s mandrakes. And he lay with her that night."
+        },
+        {
+          "verse": 17,
+          "text": "And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son."
+        },
+        {
+          "verse": 18,
+          "text": "And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar."
+        },
+        {
+          "verse": 19,
+          "text": "And Leah conceived again, and bare Jacob the sixth son."
+        },
+        {
+          "verse": 20,
+          "text": "And Leah said, God hath endued me with a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun."
+        },
+        {
+          "verse": 21,
+          "text": "And afterwards she bare a daughter, and called her name Dinah."
+        },
+        {
+          "verse": 22,
+          "text": "And God remembered Rachel, and God hearkened to her, and opened her womb."
+        },
+        {
+          "verse": 23,
+          "text": "And she conceived, and bare a son; and said, God hath taken away my reproach:"
+        },
+        {
+          "verse": 24,
+          "text": "And she called his name Joseph; and said, The LORD shall add to me another son."
+        },
+        {
+          "verse": 25,
+          "text": "And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country."
+        },
+        {
+          "verse": 26,
+          "text": "Give me my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee."
+        },
+        {
+          "verse": 27,
+          "text": "And Laban said unto him, I pray thee, if I have found favour in thine eyes, tarry: for I have learned by experience that the LORD hath blessed me for thy sake."
+        },
+        {
+          "verse": 28,
+          "text": "And he said, Appoint me thy wages, and I will give it."
+        },
+        {
+          "verse": 29,
+          "text": "And he said unto him, Thou knowest how I have served thee, and how thy cattle was with me."
+        },
+        {
+          "verse": 30,
+          "text": "For it was little which thou hadst before I came, and it is now increased unto a multitude; and the LORD hath blessed thee since my coming: and now when shall I provide for mine own house also?"
+        },
+        {
+          "verse": 31,
+          "text": "And he said, What shall I give thee? And Jacob said, Thou shalt not give me any thing: if thou wilt do this thing for me, I will again feed and keep thy flock."
+        },
+        {
+          "verse": 32,
+          "text": "I will pass through all thy flock to day, removing from thence all the speckled and spotted cattle, and all the brown cattle among the sheep, and the spotted and speckled among the goats: and of such shall be my hire."
+        },
+        {
+          "verse": 33,
+          "text": "So shall my righteousness answer for me in time to come, when it shall come for my hire before thy face: every one that is not speckled and spotted among the goats, and brown among the sheep, that shall be counted stolen with me."
+        },
+        {
+          "verse": 34,
+          "text": "And Laban said, Behold, I would it might be according to thy word."
+        },
+        {
+          "verse": 35,
+          "text": "And he removed that day the he goats that were ringstraked and spotted, and all the she goats that were speckled and spotted, and every one that had some white in it, and all the brown among the sheep, and gave them into the hand of his sons."
+        },
+        {
+          "verse": 36,
+          "text": "And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks."
+        },
+        {
+          "verse": 37,
+          "text": "And Jacob took him rods of green poplar, and of the hazel and chestnut tree; and pilled white strakes in them, and made the white appear which was in the rods."
+        },
+        {
+          "verse": 38,
+          "text": "And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink."
+        },
+        {
+          "verse": 39,
+          "text": "And the flocks conceived before the rods, and brought forth cattle ringstraked, speckled, and spotted."
+        },
+        {
+          "verse": 40,
+          "text": "And Jacob did separate the lambs, and set the faces of the flocks toward the ringstraked, and all the brown in the flock of Laban; and he put his own flocks by themselves, and put them not unto Laban’s cattle."
+        },
+        {
+          "verse": 41,
+          "text": "And it came to pass, whensoever the stronger cattle did conceive, that Jacob laid the rods before the eyes of the cattle in the gutters, that they might conceive among the rods."
+        },
+        {
+          "verse": 42,
+          "text": "But when the cattle were feeble, he put them not in: so the feebler were Laban’s, and the stronger Jacob’s."
+        },
+        {
+          "verse": 43,
+          "text": "And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses."
+        }
+      ],
+      "verse_count": 43,
+      "word_count": 1035
+    },
+    {
+      "book": "Job",
+      "chapter_number": 15,
+      "chapter_title": "Job 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then answered Eliphaz the Temanite, and said,"
+        },
+        {
+          "verse": 2,
+          "text": "Should a wise man utter vain knowledge, and fill his belly with the east wind?"
+        },
+        {
+          "verse": 3,
+          "text": "Should he reason with unprofitable talk? or with speeches wherewith he can do no good?"
+        },
+        {
+          "verse": 4,
+          "text": "Yea, thou castest off fear, and restrainest prayer before God."
+        },
+        {
+          "verse": 5,
+          "text": "For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty."
+        },
+        {
+          "verse": 6,
+          "text": "Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee."
+        },
+        {
+          "verse": 7,
+          "text": "Art thou the first man that was born? or wast thou made before the hills?"
+        },
+        {
+          "verse": 8,
+          "text": "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?"
+        },
+        {
+          "verse": 9,
+          "text": "What knowest thou, that we know not? what understandest thou, which is not in us?"
+        },
+        {
+          "verse": 10,
+          "text": "With us are both the grayheaded and very aged men, much elder than thy father."
+        },
+        {
+          "verse": 11,
+          "text": "Are the consolations of God small with thee? is there any secret thing with thee?"
+        },
+        {
+          "verse": 12,
+          "text": "Why doth thine heart carry thee away? and what do thy eyes wink at,"
+        },
+        {
+          "verse": 13,
+          "text": "That thou turnest thy spirit against God, and lettest such words go out of thy mouth?"
+        },
+        {
+          "verse": 14,
+          "text": "What is man, that he should be clean? and he which is born of a woman, that he should be righteous?"
+        },
+        {
+          "verse": 15,
+          "text": "Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight."
+        },
+        {
+          "verse": 16,
+          "text": "How much more abominable and filthy is man, which drinketh iniquity like water?"
+        },
+        {
+          "verse": 17,
+          "text": "I will shew thee, hear me; and that which I have seen I will declare;"
+        },
+        {
+          "verse": 18,
+          "text": "Which wise men have told from their fathers, and have not hid it:"
+        },
+        {
+          "verse": 19,
+          "text": "Unto whom alone the earth was given, and no stranger passed among them."
+        },
+        {
+          "verse": 20,
+          "text": "The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor."
+        },
+        {
+          "verse": 21,
+          "text": "A dreadful sound is in his ears: in prosperity the destroyer shall come upon him."
+        },
+        {
+          "verse": 22,
+          "text": "He believeth not that he shall return out of darkness, and he is waited for of the sword."
+        },
+        {
+          "verse": 23,
+          "text": "He wandereth abroad for bread, saying, Where is it? he knoweth that the day of darkness is ready at his hand."
+        },
+        {
+          "verse": 24,
+          "text": "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle."
+        },
+        {
+          "verse": 25,
+          "text": "For he stretcheth out his hand against God, and strengtheneth himself against the Almighty."
+        },
+        {
+          "verse": 26,
+          "text": "He runneth upon him, even on his neck, upon the thick bosses of his bucklers:"
+        },
+        {
+          "verse": 27,
+          "text": "Because he covereth his face with his fatness, and maketh collops of fat on his flanks."
+        },
+        {
+          "verse": 28,
+          "text": "And he dwelleth in desolate cities, and in houses which no man inhabiteth, which are ready to become heaps."
+        },
+        {
+          "verse": 29,
+          "text": "He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth."
+        },
+        {
+          "verse": 30,
+          "text": "He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away."
+        },
+        {
+          "verse": 31,
+          "text": "Let not him that is deceived trust in vanity: for vanity shall be his recompence."
+        },
+        {
+          "verse": 32,
+          "text": "It shall be accomplished before his time, and his branch shall not be green."
+        },
+        {
+          "verse": 33,
+          "text": "He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive."
+        },
+        {
+          "verse": 34,
+          "text": "For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery."
+        },
+        {
+          "verse": 35,
+          "text": "They conceive mischief, and bring forth vanity, and their belly prepareth deceit."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 549
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 15,
+      "chapter_title": "Isaiah 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;"
+        },
+        {
+          "verse": 2,
+          "text": "He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off."
+        },
+        {
+          "verse": 3,
+          "text": "In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly."
+        },
+        {
+          "verse": 4,
+          "text": "And Heshbon shall cry, and Elealeh: their voice shall be heard even unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him."
+        },
+        {
+          "verse": 5,
+          "text": "My heart shall cry out for Moab; his fugitives shall flee unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction."
+        },
+        {
+          "verse": 6,
+          "text": "For the waters of Nimrim shall be desolate: for the hay is withered away, the grass faileth, there is no green thing."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows."
+        },
+        {
+          "verse": 8,
+          "text": "For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beerelim."
+        },
+        {
+          "verse": 9,
+          "text": "For the waters of Dimon shall be full of blood: for I will bring more upon Dimon, lions upon him that escapeth of Moab, and upon the remnant of the land."
+        }
+      ],
+      "verse_count": 9,
+      "word_count": 266
+    },
+    {
+      "book": "Matthew",
+      "chapter_number": 15,
+      "chapter_title": "Matthew 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread."
+        },
+        {
+          "verse": 3,
+          "text": "But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?"
+        },
+        {
+          "verse": 4,
+          "text": "For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death."
+        },
+        {
+          "verse": 5,
+          "text": "But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me;"
+        },
+        {
+          "verse": 6,
+          "text": "And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition."
+        },
+        {
+          "verse": 7,
+          "text": "Ye hypocrites, well did Esaias prophesy of you, saying,"
+        },
+        {
+          "verse": 8,
+          "text": "This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me."
+        },
+        {
+          "verse": 9,
+          "text": "But in vain they do worship me, teaching for doctrines the commandments of men."
+        },
+        {
+          "verse": 10,
+          "text": "And he called the multitude, and said unto them, Hear, and understand:"
+        },
+        {
+          "verse": 11,
+          "text": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man."
+        },
+        {
+          "verse": 12,
+          "text": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?"
+        },
+        {
+          "verse": 13,
+          "text": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up."
+        },
+        {
+          "verse": 14,
+          "text": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch."
+        },
+        {
+          "verse": 15,
+          "text": "Then answered Peter and said unto him, Declare unto us this parable."
+        },
+        {
+          "verse": 16,
+          "text": "And Jesus said, Are ye also yet without understanding?"
+        },
+        {
+          "verse": 17,
+          "text": "Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?"
+        },
+        {
+          "verse": 18,
+          "text": "But those things which proceed out of the mouth come forth from the heart; and they defile the man."
+        },
+        {
+          "verse": 19,
+          "text": "For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:"
+        },
+        {
+          "verse": 20,
+          "text": "These are the things which defile a man: but to eat with unwashen hands defileth not a man."
+        },
+        {
+          "verse": 21,
+          "text": "Then Jesus went thence, and departed into the coasts of Tyre and Sidon."
+        },
+        {
+          "verse": 22,
+          "text": "And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou son of David; my daughter is grievously vexed with a devil."
+        },
+        {
+          "verse": 23,
+          "text": "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us."
+        },
+        {
+          "verse": 24,
+          "text": "But he answered and said, I am not sent but unto the lost sheep of the house of Israel."
+        },
+        {
+          "verse": 25,
+          "text": "Then came she and worshipped him, saying, Lord, help me."
+        },
+        {
+          "verse": 26,
+          "text": "But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs."
+        },
+        {
+          "verse": 27,
+          "text": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table."
+        },
+        {
+          "verse": 28,
+          "text": "Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour."
+        },
+        {
+          "verse": 29,
+          "text": "And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there."
+        },
+        {
+          "verse": 30,
+          "text": "And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus’ feet; and he healed them:"
+        },
+        {
+          "verse": 31,
+          "text": "Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel."
+        },
+        {
+          "verse": 32,
+          "text": "Then Jesus called his disciples unto him, and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way."
+        },
+        {
+          "verse": 33,
+          "text": "And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?"
+        },
+        {
+          "verse": 34,
+          "text": "And Jesus saith unto them, How many loaves have ye? And they said, Seven, and a few little fishes."
+        },
+        {
+          "verse": 35,
+          "text": "And he commanded the multitude to sit down on the ground."
+        },
+        {
+          "verse": 36,
+          "text": "And he took the seven loaves and the fishes, and gave thanks, and brake them, and gave to his disciples, and the disciples to the multitude."
+        },
+        {
+          "verse": 37,
+          "text": "And they did all eat, and were filled: and they took up of the broken meat that was left seven baskets full."
+        },
+        {
+          "verse": 38,
+          "text": "And they that did eat were four thousand men, beside women and children."
+        },
+        {
+          "verse": 39,
+          "text": "And he sent away the multitude, and took ship, and came into the coasts of Magdala."
+        }
+      ],
+      "verse_count": 39,
+      "word_count": 786
+    }
+  ]
+}

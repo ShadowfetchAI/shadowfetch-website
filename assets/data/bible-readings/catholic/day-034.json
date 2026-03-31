@@ -1,0 +1,673 @@
+{
+  "day_number": 34,
+  "references": "Exodus 17-18 • Job 34 • Isaias 34 • Mark 6",
+  "word_count": 3542,
+  "estimated_minutes": 17,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Mark 6:42",
+    "text": "And they all did eat, and had their fill.",
+    "reflection": "Come back to this sentence tonight and see what it held together for you."
+  },
+  "tomorrow_teaser": "Exodus 19-20 • Job 35 • Isaias 35 • Mark 7",
+  "chapters": [
+    {
+      "book": "Exodus",
+      "chapter_number": 17,
+      "chapter_title": "Exodus 17",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then all the multitude of the children of Israel setting forward *from the desert of Sin, by their mansions, according to the word of the Lord, encamped in Raphidim, where there was no water for the people to drink."
+        },
+        {
+          "verse": 2,
+          "text": "*And they chode with Moses, and said: Give us water, that we may drink. And Moses answered them: Why chide you with me? Wherefore do you tempt the Lord?"
+        },
+        {
+          "verse": 3,
+          "text": "So the people were thirsty there for want of water, and murmured against Moses, saying: Why didst thou make us go forth out of Egypt, to kill us and our children, and our beasts with thirst?"
+        },
+        {
+          "verse": 4,
+          "text": "And Moses cried to the Lord, saying: What shall I do to this people? Yet a little more and they will stone me."
+        },
+        {
+          "verse": 5,
+          "text": "And the Lord said to Moses: Go before the people, and take with thee of the ancients of Israel: and take in thy hand the rod wherewith thou didst strike the river, *and go."
+        },
+        {
+          "verse": 6,
+          "text": "Behold I will stand there before thee, upon the rock Horeb: and thou shalt strike the rock, and water shall come out of it that the people may drink. Moses did so before the ancients of Israel:"
+        },
+        {
+          "verse": 7,
+          "text": "And he called the name of that place Temptation, because the chiding of the children of Israel, and for that they tempted the Lord, saying: Is the Lord amongst us or not?"
+        },
+        {
+          "verse": 8,
+          "text": "*And Amalec came, and fought against Israel in Raphidim."
+        },
+        {
+          "verse": 9,
+          "text": "And Moses said to Josue: Choose out men; and go out and fight against Amalec: to-morrow I will stand on the top of the hill, having the rod of God in my hand."
+        },
+        {
+          "verse": 10,
+          "text": "Josue did as Moses had spoken, and he fought against Amalec; but Moses, and Aaron, and Hur went up upon the top of the hill."
+        },
+        {
+          "verse": 11,
+          "text": "And when Moses lifted up his hands, Israel overcame: but if he let them down a little, Amalec overcame."
+        },
+        {
+          "verse": 12,
+          "text": "And Moses' hands were heavy: so they took a stone, and put under him, and he sat on it: and Aaron and Hur stayed up his hands on both sides. And it came to pass, that his hands were not weary until sunset."
+        },
+        {
+          "verse": 13,
+          "text": "And Josue put Amalec and his people to flight, by the edge of the sword."
+        },
+        {
+          "verse": 14,
+          "text": "And the Lord said to Moses: Write this for a memorial in a book, and deliver it to the ears of Josue; for I will destroy the memory of Amalec from under heaven."
+        },
+        {
+          "verse": 15,
+          "text": "And Moses built an altar; and called the name thereof, The Lord my, exaltation, saying:"
+        },
+        {
+          "verse": 16,
+          "text": "Because the hand of the throne of the Lord, and the war of the Lord shall be against Amalec, from generation to generation."
+        }
+      ],
+      "verse_count": 16,
+      "word_count": 445
+    },
+    {
+      "book": "Exodus",
+      "chapter_number": 18,
+      "chapter_title": "Exodus 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And when *Jethro the priest of Madian, the kinsman of Moses, had heard all the things that God had done to Moses, and to Israel his people, and that the Lord had brought forth Israel out of Egypt:"
+        },
+        {
+          "verse": 2,
+          "text": "He took Sephora, the wife of Moses, whom he had sent back:"
+        },
+        {
+          "verse": 3,
+          "text": "And her two sons, of whom one was called Gersam: his father saying, *I have been a stranger in a foreign country."
+        },
+        {
+          "verse": 4,
+          "text": "And the other Eliezer: For the God of my father, said he, is my helper, and hath delivered me from the sword of Pharao."
+        },
+        {
+          "verse": 5,
+          "text": "And Jethro, the kinsman of Moses, came with his sons, and his wife to Moses into the desert, where he was camped by the mountain of God."
+        },
+        {
+          "verse": 6,
+          "text": "And he sent word to Moses, saying: I Jethro, thy kinsman, come to thee, and thy wife, and thy two sons with her."
+        },
+        {
+          "verse": 7,
+          "text": "And he went out to meet his kinsman, and worshipped and kissed him: and they saluted one another with words of peace. And when he was come into the tent,"
+        },
+        {
+          "verse": 8,
+          "text": "Moses told his kinsman all that the Lord had done to Pharao, and the Egyptians, in favour of Israel: and all the labour which had befallen them in the journey, and that the Lord had delivered them."
+        },
+        {
+          "verse": 9,
+          "text": "And Jethro rejoiced for all the good things that the Lord had done to Israel, because he had delivered them out of the hands of the Egyptians."
+        },
+        {
+          "verse": 10,
+          "text": "And he said: Blessed is the Lord, who hath delivered his people out of the hand of Egypt."
+        },
+        {
+          "verse": 11,
+          "text": "Now I know, that the Lord is great above all gods; *because they dealt proudly against them."
+        },
+        {
+          "verse": 12,
+          "text": "So Jethro, the kinsman of Moses, offered holocausts and sacrifices to God: and Aaron and all the ancients of Israel came, to eat bread with him before God."
+        },
+        {
+          "verse": 13,
+          "text": "And the next day Moses sat to judge the people, who stood by Moses from morning until night."
+        },
+        {
+          "verse": 14,
+          "text": "And when his kinsman had seen all things that he did among the people, he said: What is it that thou dost among the people? Why sittest thou alone, and all the people wait from morning till night?"
+        },
+        {
+          "verse": 15,
+          "text": "And Moses answered him: The people come to me to seek the judgment of God."
+        },
+        {
+          "verse": 16,
+          "text": "And when any controversy falleth out among them, they come to me to judge between them, and to shew the precepts of God, and his laws."
+        },
+        {
+          "verse": 17,
+          "text": "But he said: The thing thou dost is not good."
+        },
+        {
+          "verse": 18,
+          "text": "Thou are spent with foolish labour, both thou, and this people that is with thee; the business is above thy strength,* thou alone canst not bear it."
+        },
+        {
+          "verse": 19,
+          "text": "But hear my words and counsels, and God shall be with thee. Be thou to the people in those things that pertain to God, to bring their words to him:"
+        },
+        {
+          "verse": 20,
+          "text": "And to shew the people the ceremonies, and the manner of worshipping, and the way wherein they ought to walk, and the work that they ought to do."
+        },
+        {
+          "verse": 21,
+          "text": "And provide out of all the people able men, such as fear God, in whom there is truth, and that hate avarice, and appoint of them rulers of thousands, and of hundreds, and of fifties, and of tens,"
+        },
+        {
+          "verse": 22,
+          "text": "Who may judge the people at all times: and when any great matter soever shall fall out, let them refer it to thee, and let them judge the lesser matters only: that so it may be lighter for thee, the burden being shared out unto others."
+        },
+        {
+          "verse": 23,
+          "text": "If thou dost this, thou shalt fulfil the commandment of God, and shalt be able to bear his precepts: and all this people shall return to their places with peace."
+        },
+        {
+          "verse": 24,
+          "text": "And when Moses heard this, he did all things that he had suggested unto him."
+        },
+        {
+          "verse": 25,
+          "text": "And choosing able men out of all Israel, he appointed them rulers of the people, rulers over thousands, and over hundreds, and over fifties, and over tens."
+        },
+        {
+          "verse": 26,
+          "text": "And they judged the people at all times: and whatsoever was of greater difficulty they referred to him, and they judged the easier cases only."
+        },
+        {
+          "verse": 27,
+          "text": "And he let his kinsman depart: and he returned and went into his own country.*"
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 691
+    },
+    {
+      "book": "Job",
+      "chapter_number": 34,
+      "chapter_title": "Job 34",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And Eliu continued his discourse, and said:"
+        },
+        {
+          "verse": 2,
+          "text": "Hear ye, wise men, my words, and ye learned, hearken to me:"
+        },
+        {
+          "verse": 3,
+          "text": "*For the ear trieth words, and the mouth discerneth meats by the taste."
+        },
+        {
+          "verse": 4,
+          "text": "Let us choose to us judgment, and let us see among ourselves what is the best."
+        },
+        {
+          "verse": 5,
+          "text": "For Job hath said: I am just, and God hath overthrown my judgment."
+        },
+        {
+          "verse": 6,
+          "text": "For in judging me there is a lie: my arrow is violent without any sin."
+        },
+        {
+          "verse": 7,
+          "text": "What man is there like Job, who drinketh up scorning like water?"
+        },
+        {
+          "verse": 8,
+          "text": "Who goeth in company with them that work iniquity, and walketh with wicked men?"
+        },
+        {
+          "verse": 9,
+          "text": "For he hath said: Man shall not please God, although he run with him."
+        },
+        {
+          "verse": 10,
+          "text": "Therefore, ye men of understanding, hear me: far from God be wickedness, and iniquity from the Almighty."
+        },
+        {
+          "verse": 11,
+          "text": "For he will render to a man his work, and according to the ways of every one he will reward them."
+        },
+        {
+          "verse": 12,
+          "text": "For, in very deed, God will not condemn without cause, neither will the Almighty pervert judgment."
+        },
+        {
+          "verse": 13,
+          "text": "What other hath he appointed over the earth? or whom hath he set over the world which he made?"
+        },
+        {
+          "verse": 14,
+          "text": "If he turn his heart to him, he shall draw his spirit and breath unto himself."
+        },
+        {
+          "verse": 15,
+          "text": "All flesh shall perish together, and man shall return into ashes."
+        },
+        {
+          "verse": 16,
+          "text": "If then thou hast understanding, hear what is said, and hearken to the voice of my words."
+        },
+        {
+          "verse": 17,
+          "text": "Can he be healed that loveth not judgment? and how dost thou so far condemn him that is just?"
+        },
+        {
+          "verse": 18,
+          "text": "Who saith to the king: Thou art an apostate: who calleth rulers ungodly:"
+        },
+        {
+          "verse": 19,
+          "text": "*Who accepteth not the persons of princes: nor hath regarded the tyrant, when he contended against the poor man: for all are the work of his hands."
+        },
+        {
+          "verse": 20,
+          "text": "They shall suddenly die, and the people shall be troubled at midnight, and they shall pass, and take away the violent without hand."
+        },
+        {
+          "verse": 21,
+          "text": "For his eyes are upon the ways of men, and he considereth all their steps."
+        },
+        {
+          "verse": 22,
+          "text": "There is no darkness, and there is no shadow of death, where they may be hid who work iniquity."
+        },
+        {
+          "verse": 23,
+          "text": "For it is no longer in the power of man to enter into judgment with God."
+        },
+        {
+          "verse": 24,
+          "text": "He shall break in pieces many and innumerable, and shall make others to stand in their stead."
+        },
+        {
+          "verse": 25,
+          "text": "For he knoweth their works: and therefore he shall bring night on them, and they shall be destroyed."
+        },
+        {
+          "verse": 26,
+          "text": "He hath struck them as being wicked, in open sight."
+        },
+        {
+          "verse": 27,
+          "text": "Who, as it were on purpose, have revolted from him, and would not understand all his ways:"
+        },
+        {
+          "verse": 28,
+          "text": "So that they caused the cry of the needy to come to him, and he heard the voice of the poor."
+        },
+        {
+          "verse": 29,
+          "text": "For when he granteth peace, who is there that can condemn? When he hideth his countenance, who is there that can behold him, whether it regard nations, or all men?"
+        },
+        {
+          "verse": 30,
+          "text": "Who maketh a man that is a hypocrite to reign for the sins of the people?"
+        },
+        {
+          "verse": 31,
+          "text": "Seeing then I have spoken of God, I will not hinder thee in thy turn."
+        },
+        {
+          "verse": 32,
+          "text": "If I have erred, teach thou me: if I have spoken iniquity, I will add no more."
+        },
+        {
+          "verse": 33,
+          "text": "Doth God require it of thee, because it hath displeased thee? for thou begannest to speak, and not I: but if thou know any thing better, speak."
+        },
+        {
+          "verse": 34,
+          "text": "Let men of understanding speak to me, and let a wise man hearken to me."
+        },
+        {
+          "verse": 35,
+          "text": "But Job hath spoken foolishly, and his words sound not discipline."
+        },
+        {
+          "verse": 36,
+          "text": "My father, let Job be tried even to the end: cease not from the man of iniquity."
+        },
+        {
+          "verse": 37,
+          "text": "Because he addeth blasphemy upon his sins, let him be tied fast in the mean time among us: and then let him provoke God to judgment with his speeches."
+        }
+      ],
+      "verse_count": 37,
+      "word_count": 625
+    },
+    {
+      "book": "Isaias",
+      "chapter_number": 34,
+      "chapter_title": "Isaias 34",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Come near, ye Gentiles, and hear, and hearken, ye people: let the earth hear, and all that is therein, the world, and every thing that cometh forth of it."
+        },
+        {
+          "verse": 2,
+          "text": "For the indignation of the Lord is upon all nations, and his fury upon all their armies: he hath killed them, and delivered them to slaughter."
+        },
+        {
+          "verse": 3,
+          "text": "Their slain shall be cast forth, and out of their carcasses shall rise a stink: the mountains shall be melted with their blood."
+        },
+        {
+          "verse": 4,
+          "text": "And all the host of the heavens shall pine away, and the heavens shall be folded together as a book: and all their host shall fall down as the leaf falleth from the vine, and from the fig-tree."
+        },
+        {
+          "verse": 5,
+          "text": "For my sword is inebriated in heaven: behold, it shall come down upon Idumea, and upon the people of my slaughter unto judgment."
+        },
+        {
+          "verse": 6,
+          "text": "The sword of the Lord is filled with blood; it is made thick with the blood of lambs and buck-goats, with the blood of rams full of marrow: for there is a victim of the Lord in Bosra, and a great slaughter in the land of Edom."
+        },
+        {
+          "verse": 7,
+          "text": "And the unicorns shall go down with them, and the bulls with the mighty: their land shall be soaked with blood, and their ground with the fat of fat ones."
+        },
+        {
+          "verse": 8,
+          "text": "For it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Sion."
+        },
+        {
+          "verse": 9,
+          "text": "And the streams thereof shall be turned into pitch, and the ground thereof into brimstone: and the land thereof shall become burning pitch."
+        },
+        {
+          "verse": 10,
+          "text": "Night and day it shall not be quenched; the smoke thereof shall go up for ever: from generation to generation it shall lie waste, none shall pass through it for ever and ever."
+        },
+        {
+          "verse": 11,
+          "text": "The bittern and ericius shall possess it: and the ibis and the raven shall dwell in it: and a line shall be stretched out upon it, to bring it to nothing, and a plummet, unto desolation."
+        },
+        {
+          "verse": 12,
+          "text": "The nobles thereof shall not be there: they shall call rather upon the king, and all the princes thereof shall be nothing."
+        },
+        {
+          "verse": 13,
+          "text": "And thorns and nettles shall grow up in its houses, and the thistle in the fortresses thereof: and it shall be the habitation of dragons, and the pasture of ostriches."
+        },
+        {
+          "verse": 14,
+          "text": "And demons and monsters shall meet, and the hairy ones shall cry out one to another, there hath the lamia lain down, and found rest for herself."
+        },
+        {
+          "verse": 15,
+          "text": "There hath the ericius had its hole, and brought up its young ones, and hath dug round about, and cherished them in the shadow thereof: thither are the kites gathered together one to another."
+        },
+        {
+          "verse": 16,
+          "text": "Search ye diligently in the book of the Lord, and read: not one of them was wanting, one hath not sought for the other: for that which proceedeth out of my mouth, he hath commanded, and his spirit it hath gathered them."
+        },
+        {
+          "verse": 17,
+          "text": "And he hath cast the lot for them, and his hand hath divided it to them by line: they shall possess it for ever; from generation to generation they shall dwell therein."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 515
+    },
+    {
+      "book": "Mark",
+      "chapter_number": 6,
+      "chapter_title": "Mark 6",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And *going out from thence, he went into his own country; and his disciples followed him."
+        },
+        {
+          "verse": 2,
+          "text": "And when the sabbath was come, he began to teach in the synagogue: and many hearing him were in admiration at his doctrine: saying: How came this man by all these things? and what wisdom is this that is given to him, and such mighty works as are wrought by his hands?"
+        },
+        {
+          "verse": 3,
+          "text": "*Is not this the carpenter, the son of Mary, the brother of James and Joseph, and Jude and Simon? are not also his sisters here with us? and they were scandalized in regard of him."
+        },
+        {
+          "verse": 4,
+          "text": "And Jesus said to them: *A prophet is not without honour, but in his own country, and in his own house, and among his own kindred."
+        },
+        {
+          "verse": 5,
+          "text": "And he could not do any miracle there, only that he cured a few that were sick, laying his hands upon them."
+        },
+        {
+          "verse": 6,
+          "text": "And he wondered because of their unbelief, and he went through the villages round about teaching."
+        },
+        {
+          "verse": 7,
+          "text": "*And he called the twelve; and began to send them two and two, and gave them power over unclean spirits."
+        },
+        {
+          "verse": 8,
+          "text": "And he commanded them that they should take nothing for their journey, but a staff only: no scrip, no bread, nor money in their purse,"
+        },
+        {
+          "verse": 9,
+          "text": "*But to be shod with sandals, and that they should not put on two coats."
+        },
+        {
+          "verse": 10,
+          "text": "And he said to them: Wheresoever you shall enter into an house, there abide till you depart from that place."
+        },
+        {
+          "verse": 11,
+          "text": "And whosoever shall not receive you, nor hear you, *going forth from thence, shake off the dust from your feet for a testimony to them."
+        },
+        {
+          "verse": 12,
+          "text": "And going forth they preached that they should do penance:"
+        },
+        {
+          "verse": 13,
+          "text": "And they cast out many devils, *and anointed with oil many that were sick, and healed them:"
+        },
+        {
+          "verse": 14,
+          "text": "*And king Herod heard, (for his name was made manifest,) and he said: John the Baptist is risen again from the dead, and therefore mighty works shew forth themselves in him."
+        },
+        {
+          "verse": 15,
+          "text": "And others said: It is Elias. But others said: It is a prophet, as one of the prophets."
+        },
+        {
+          "verse": 16,
+          "text": "Which Herod hearing, said: John whom I beheaded, he is risen again from the dead."
+        },
+        {
+          "verse": 17,
+          "text": "*For Herod himself had sent and apprehended John, and bound him in prison for the sake of Herodias, the wife of Philip, his brother, because he had married her."
+        },
+        {
+          "verse": 18,
+          "text": "For John said to Herod: *It is not lawful for thee to have thy brother's wife."
+        },
+        {
+          "verse": 19,
+          "text": "Now Herodias laid snares for him: and was desirous to put him to death, and could not."
+        },
+        {
+          "verse": 20,
+          "text": "For Herod feared John, knowing him to be a just and holy man: and kept him, and when he heard him, did many things: and he heard him willingly."
+        },
+        {
+          "verse": 21,
+          "text": "And when a convenient day was come, Herod made a supper for his birthday, for the princes, and tribunes, and chief men of Galilee."
+        },
+        {
+          "verse": 22,
+          "text": "And when the daughter of the same Herodias had come in, and had danced, and pleased Herod, and them that were at table with him, the king said to the damsel: Ask of me what thou wilt, and I will give it thee."
+        },
+        {
+          "verse": 23,
+          "text": "And he swore to her: Whatsoever thou shalt ask I will give thee, though it be the half of my kingdom."
+        },
+        {
+          "verse": 24,
+          "text": "Who when she was gone out, said to her mother: What shall I ask? But she said: The head of John the Baptist."
+        },
+        {
+          "verse": 25,
+          "text": "And when she was come in immediately with haste to the king, she asked, saying: I will that forthwith thou give me in a dish the head of John the Baptist."
+        },
+        {
+          "verse": 26,
+          "text": "And the king was struck sad: yet because of his oath, and because of them that were with him at table, he would not displease her:"
+        },
+        {
+          "verse": 27,
+          "text": "But sending an executioner, he commanded that his head should be brought in a dish. And he beheaded him in the prison,"
+        },
+        {
+          "verse": 28,
+          "text": "And brought his head in a dish; and gave it to the damsel: and the damsel gave it to her mother."
+        },
+        {
+          "verse": 29,
+          "text": "*Which his disciples hearing, came, and took his body: and laid it in a tomb."
+        },
+        {
+          "verse": 30,
+          "text": "*And the apostles coming together unto Jesus, related to him all things that they had done and taught."
+        },
+        {
+          "verse": 31,
+          "text": "And he said to them: *Come apart into a desert place, and rest a little. For there were many coming and going: and they had not so much as time to eat."
+        },
+        {
+          "verse": 32,
+          "text": "And going up into a ship, they went into a desert place apart."
+        },
+        {
+          "verse": 33,
+          "text": "And they saw them going away, and many knew: and they ran flocking thither on foot from all the cities, and were there before them."
+        },
+        {
+          "verse": 34,
+          "text": "*And Jesus going out, saw a great multitude: and he had compassion on them, because they were as sheep not having a shepherd, and he began to teach them many things."
+        },
+        {
+          "verse": 35,
+          "text": "And when the day was now far spent, his disciples came to him, saying: This is a desert place, and the hour is now past:"
+        },
+        {
+          "verse": 36,
+          "text": "*Send them away, that going into the next villages and towns, they may buy themselves meat to eat."
+        },
+        {
+          "verse": 37,
+          "text": "But he answering said to them: Give you them to eat. And they said to him: Let us go and buy bread for two hundred pence, and we will give them to eat."
+        },
+        {
+          "verse": 38,
+          "text": "And he saith to them: How many loaves have you? go and see. And when they knew, they say: Five, and two fishes."
+        },
+        {
+          "verse": 39,
+          "text": "*And he commanded them to make them all sit down by companies upon the green grass."
+        },
+        {
+          "verse": 40,
+          "text": "And they sat down in ranks, by hundreds, and by fifties."
+        },
+        {
+          "verse": 41,
+          "text": "And when he had taken the five loaves, and the two fishes; looking up to heaven, he blessed, and broke the loaves, and gave to his disciples to set before them: and the two fishes he divided among them all."
+        },
+        {
+          "verse": 42,
+          "text": "And they all did eat, and had their fill."
+        },
+        {
+          "verse": 43,
+          "text": "And they took up the leavings, twelve full baskets of fragments, and of the fishes."
+        },
+        {
+          "verse": 44,
+          "text": "And they that did eat, were five thousand men."
+        },
+        {
+          "verse": 45,
+          "text": "And immediately he obliged his disciples to go up into the ship, that they might go before him over the water to Bethsaida: whilst he dismissed the people."
+        },
+        {
+          "verse": 46,
+          "text": "And when he had dismissed them, he went up to the mountain to pray."
+        },
+        {
+          "verse": 47,
+          "text": "And when it was late, the ship was in the midst of the sea, and he alone on the land."
+        },
+        {
+          "verse": 48,
+          "text": "*And seeing them labouring in rowing, (for the wind was against them) and about the fourth watch of the night he cometh to them, walking upon the sea; and he would have passed by them."
+        },
+        {
+          "verse": 49,
+          "text": "But they seeing him walking upon the sea, thought it was an apparition, and they cried out."
+        },
+        {
+          "verse": 50,
+          "text": "For they all saw him, and were troubled. And immediately he spoke with them, and said to them: Have a good heart, it is I; fear ye not."
+        },
+        {
+          "verse": 51,
+          "text": "And he went up to them into the ship, and the wind ceased. And they were far more astonished within themselves."
+        },
+        {
+          "verse": 52,
+          "text": "For they understood not concerning the loaves: for their heart was blinded."
+        },
+        {
+          "verse": 53,
+          "text": "*And when they had passed over, they came into the land of Genesareth, and set to the shore."
+        },
+        {
+          "verse": 54,
+          "text": "And when they were gone out of the ship, immediately they knew him:"
+        },
+        {
+          "verse": 55,
+          "text": "And running through that whole country, they began to carry about in beds those that were sick, where they heard he was."
+        },
+        {
+          "verse": 56,
+          "text": "And whithersoever he entered, into towns, or into villages, or cities, they laid the sick in the streets, and besought him that they might touch but the hem of his garment: and as many as touched him were made whole."
+        }
+      ],
+      "verse_count": 56,
+      "word_count": 1266
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Shadowfetch: Bible Edition",
+  "short_name": "Shadowfetch Bible",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "description": "A calm, protective daily Bible-reading companion with complete chapters, gentle progress, and a newspaper-inspired devotional layout built around Psalm 91.",
+  "icons": [
+    {
+      "src": "/assets/shadowfetch-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

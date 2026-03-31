@@ -1,0 +1,424 @@
+{
+  "day_number": 180,
+  "references": "1 Samuel 15 • Psalms 138 • Daniel 9 • Colossians 2",
+  "word_count": 2623,
+  "estimated_minutes": 13,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 138:5",
+    "text": "Yea, they shall sing in the ways of the LORD: for great is the glory of the LORD.",
+    "reflection": "If the day gets scattered, return here and let this verse gather you again."
+  },
+  "tomorrow_teaser": "1 Samuel 16 • Psalms 139 • Daniel 10 • Colossians 3",
+  "chapters": [
+    {
+      "book": "1 Samuel",
+      "chapter_number": 15,
+      "chapter_title": "1 Samuel 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Samuel also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD."
+        },
+        {
+          "verse": 2,
+          "text": "Thus saith the LORD of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt."
+        },
+        {
+          "verse": 3,
+          "text": "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass."
+        },
+        {
+          "verse": 4,
+          "text": "And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah."
+        },
+        {
+          "verse": 5,
+          "text": "And Saul came to a city of Amalek, and laid wait in the valley."
+        },
+        {
+          "verse": 6,
+          "text": "And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites."
+        },
+        {
+          "verse": 7,
+          "text": "And Saul smote the Amalekites from Havilah until thou comest to Shur, that is over against Egypt."
+        },
+        {
+          "verse": 8,
+          "text": "And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword."
+        },
+        {
+          "verse": 9,
+          "text": "But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly."
+        },
+        {
+          "verse": 10,
+          "text": "Then came the word of the LORD unto Samuel, saying,"
+        },
+        {
+          "verse": 11,
+          "text": "It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night."
+        },
+        {
+          "verse": 12,
+          "text": "And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal."
+        },
+        {
+          "verse": 13,
+          "text": "And Samuel came to Saul: and Saul said unto him, Blessed be thou of the LORD: I have performed the commandment of the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?"
+        },
+        {
+          "verse": 15,
+          "text": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD thy God; and the rest we have utterly destroyed."
+        },
+        {
+          "verse": 16,
+          "text": "Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on."
+        },
+        {
+          "verse": 17,
+          "text": "And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the LORD anointed thee king over Israel?"
+        },
+        {
+          "verse": 18,
+          "text": "And the LORD sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed."
+        },
+        {
+          "verse": 19,
+          "text": "Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD?"
+        },
+        {
+          "verse": 20,
+          "text": "And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites."
+        },
+        {
+          "verse": 21,
+          "text": "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal."
+        },
+        {
+          "verse": 22,
+          "text": "And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams."
+        },
+        {
+          "verse": 23,
+          "text": "For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king."
+        },
+        {
+          "verse": 24,
+          "text": "And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the LORD, and thy words: because I feared the people, and obeyed their voice."
+        },
+        {
+          "verse": 25,
+          "text": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the LORD."
+        },
+        {
+          "verse": 26,
+          "text": "And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the LORD, and the LORD hath rejected thee from being king over Israel."
+        },
+        {
+          "verse": 27,
+          "text": "And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent."
+        },
+        {
+          "verse": 28,
+          "text": "And Samuel said unto him, The LORD hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou."
+        },
+        {
+          "verse": 29,
+          "text": "And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent."
+        },
+        {
+          "verse": 30,
+          "text": "Then he said, I have sinned: yet honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the LORD thy God."
+        },
+        {
+          "verse": 31,
+          "text": "So Samuel turned again after Saul; and Saul worshipped the LORD."
+        },
+        {
+          "verse": 32,
+          "text": "Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past."
+        },
+        {
+          "verse": 33,
+          "text": "And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the LORD in Gilgal."
+        },
+        {
+          "verse": 34,
+          "text": "Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul."
+        },
+        {
+          "verse": 35,
+          "text": "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 981
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 138,
+      "chapter_title": "Psalms 138",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I will praise thee with my whole heart: before the gods will I sing praise unto thee."
+        },
+        {
+          "verse": 2,
+          "text": "I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name."
+        },
+        {
+          "verse": 3,
+          "text": "In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul."
+        },
+        {
+          "verse": 4,
+          "text": "All the kings of the earth shall praise thee, O LORD, when they hear the words of thy mouth."
+        },
+        {
+          "verse": 5,
+          "text": "Yea, they shall sing in the ways of the LORD: for great is the glory of the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "Though the LORD be high, yet hath he respect unto the lowly: but the proud he knoweth afar off."
+        },
+        {
+          "verse": 7,
+          "text": "Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me."
+        },
+        {
+          "verse": 8,
+          "text": "The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever: forsake not the works of thine own hands."
+        }
+      ],
+      "verse_count": 8,
+      "word_count": 172
+    },
+    {
+      "book": "Daniel",
+      "chapter_number": 9,
+      "chapter_title": "Daniel 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;"
+        },
+        {
+          "verse": 2,
+          "text": "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem."
+        },
+        {
+          "verse": 3,
+          "text": "And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:"
+        },
+        {
+          "verse": 4,
+          "text": "And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;"
+        },
+        {
+          "verse": 5,
+          "text": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:"
+        },
+        {
+          "verse": 6,
+          "text": "Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land."
+        },
+        {
+          "verse": 7,
+          "text": "O LORD, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee."
+        },
+        {
+          "verse": 8,
+          "text": "O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee."
+        },
+        {
+          "verse": 9,
+          "text": "To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;"
+        },
+        {
+          "verse": 10,
+          "text": "Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets."
+        },
+        {
+          "verse": 11,
+          "text": "Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him."
+        },
+        {
+          "verse": 12,
+          "text": "And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem."
+        },
+        {
+          "verse": 13,
+          "text": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth."
+        },
+        {
+          "verse": 14,
+          "text": "Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all his works which he doeth: for we obeyed not his voice."
+        },
+        {
+          "verse": 15,
+          "text": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly."
+        },
+        {
+          "verse": 16,
+          "text": "O LORD, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people are become a reproach to all that are about us."
+        },
+        {
+          "verse": 17,
+          "text": "Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord’s sake."
+        },
+        {
+          "verse": 18,
+          "text": "O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies."
+        },
+        {
+          "verse": 19,
+          "text": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name."
+        },
+        {
+          "verse": 20,
+          "text": "And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;"
+        },
+        {
+          "verse": 21,
+          "text": "Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation."
+        },
+        {
+          "verse": 22,
+          "text": "And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding."
+        },
+        {
+          "verse": 23,
+          "text": "At the beginning of thy supplications the commandment came forth, and I am come to shew thee; for thou art greatly beloved: therefore understand the matter, and consider the vision."
+        },
+        {
+          "verse": 24,
+          "text": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy."
+        },
+        {
+          "verse": 25,
+          "text": "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times."
+        },
+        {
+          "verse": 26,
+          "text": "And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined."
+        },
+        {
+          "verse": 27,
+          "text": "And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 967
+    },
+    {
+      "book": "Colossians",
+      "chapter_number": 2,
+      "chapter_title": "Colossians 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;"
+        },
+        {
+          "verse": 2,
+          "text": "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;"
+        },
+        {
+          "verse": 3,
+          "text": "In whom are hid all the treasures of wisdom and knowledge."
+        },
+        {
+          "verse": 4,
+          "text": "And this I say, lest any man should beguile you with enticing words."
+        },
+        {
+          "verse": 5,
+          "text": "For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ."
+        },
+        {
+          "verse": 6,
+          "text": "As ye have therefore received Christ Jesus the Lord, so walk ye in him:"
+        },
+        {
+          "verse": 7,
+          "text": "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving."
+        },
+        {
+          "verse": 8,
+          "text": "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ."
+        },
+        {
+          "verse": 9,
+          "text": "For in him dwelleth all the fulness of the Godhead bodily."
+        },
+        {
+          "verse": 10,
+          "text": "And ye are complete in him, which is the head of all principality and power:"
+        },
+        {
+          "verse": 11,
+          "text": "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:"
+        },
+        {
+          "verse": 12,
+          "text": "Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead."
+        },
+        {
+          "verse": 13,
+          "text": "And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;"
+        },
+        {
+          "verse": 14,
+          "text": "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;"
+        },
+        {
+          "verse": 15,
+          "text": "And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it."
+        },
+        {
+          "verse": 16,
+          "text": "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:"
+        },
+        {
+          "verse": 17,
+          "text": "Which are a shadow of things to come; but the body is of Christ."
+        },
+        {
+          "verse": 18,
+          "text": "Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,"
+        },
+        {
+          "verse": 19,
+          "text": "And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God."
+        },
+        {
+          "verse": 20,
+          "text": "Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,"
+        },
+        {
+          "verse": 21,
+          "text": "(Touch not; taste not; handle not;"
+        },
+        {
+          "verse": 22,
+          "text": "Which all are to perish with the using;) after the commandments and doctrines of men?"
+        },
+        {
+          "verse": 23,
+          "text": "Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 503
+    }
+  ]
+}

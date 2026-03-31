@@ -1,0 +1,485 @@
+{
+  "day_number": 46,
+  "references": "Leviticus 1-2 • Psalms 4 • Isaiah 46 • Luke 2",
+  "word_count": 2621,
+  "estimated_minutes": 13,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 4:5",
+    "text": "Offer the sacrifices of righteousness, and put your trust in the LORD.",
+    "reflection": "Come back to this sentence tonight and see what it held together for you."
+  },
+  "tomorrow_teaser": "Leviticus 3-4 • Psalms 5 • Isaiah 47 • Luke 3",
+  "chapters": [
+    {
+      "book": "Leviticus",
+      "chapter_number": 1,
+      "chapter_title": "Leviticus 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, even of the herd, and of the flock."
+        },
+        {
+          "verse": 3,
+          "text": "If his offering be a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD."
+        },
+        {
+          "verse": 4,
+          "text": "And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."
+        },
+        {
+          "verse": 5,
+          "text": "And he shall kill the bullock before the LORD: and the priests, Aaron’s sons, shall bring the blood, and sprinkle the blood round about upon the altar that is by the door of the tabernacle of the congregation."
+        },
+        {
+          "verse": 6,
+          "text": "And he shall flay the burnt offering, and cut it into his pieces."
+        },
+        {
+          "verse": 7,
+          "text": "And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire:"
+        },
+        {
+          "verse": 8,
+          "text": "And the priests, Aaron’s sons, shall lay the parts, the head, and the fat, in order upon the wood that is on the fire which is upon the altar:"
+        },
+        {
+          "verse": 9,
+          "text": "But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD."
+        },
+        {
+          "verse": 10,
+          "text": "And if his offering be of the flocks, namely, of the sheep, or of the goats, for a burnt sacrifice; he shall bring it a male without blemish."
+        },
+        {
+          "verse": 11,
+          "text": "And he shall kill it on the side of the altar northward before the LORD: and the priests, Aaron’s sons, shall sprinkle his blood round about upon the altar."
+        },
+        {
+          "verse": 12,
+          "text": "And he shall cut it into his pieces, with his head and his fat: and the priest shall lay them in order on the wood that is on the fire which is upon the altar:"
+        },
+        {
+          "verse": 13,
+          "text": "But he shall wash the inwards and the legs with water: and the priest shall bring it all, and burn it upon the altar: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "And if the burnt sacrifice for his offering to the LORD be of fowls, then he shall bring his offering of turtledoves, or of young pigeons."
+        },
+        {
+          "verse": 15,
+          "text": "And the priest shall bring it unto the altar, and wring off his head, and burn it on the altar; and the blood thereof shall be wrung out at the side of the altar:"
+        },
+        {
+          "verse": 16,
+          "text": "And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:"
+        },
+        {
+          "verse": 17,
+          "text": "And he shall cleave it with the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 528
+    },
+    {
+      "book": "Leviticus",
+      "chapter_number": 2,
+      "chapter_title": "Leviticus 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:"
+        },
+        {
+          "verse": 2,
+          "text": "And he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour unto the LORD:"
+        },
+        {
+          "verse": 3,
+          "text": "And the remnant of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire."
+        },
+        {
+          "verse": 4,
+          "text": "And if thou bring an oblation of a meat offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil."
+        },
+        {
+          "verse": 5,
+          "text": "And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil."
+        },
+        {
+          "verse": 6,
+          "text": "Thou shalt part it in pieces, and pour oil thereon: it is a meat offering."
+        },
+        {
+          "verse": 7,
+          "text": "And if thy oblation be a meat offering baken in the fryingpan, it shall be made of fine flour with oil."
+        },
+        {
+          "verse": 8,
+          "text": "And thou shalt bring the meat offering that is made of these things unto the LORD: and when it is presented unto the priest, he shall bring it unto the altar."
+        },
+        {
+          "verse": 9,
+          "text": "And the priest shall take from the meat offering a memorial thereof, and shall burn it upon the altar: it is an offering made by fire, of a sweet savour unto the LORD."
+        },
+        {
+          "verse": 10,
+          "text": "And that which is left of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire."
+        },
+        {
+          "verse": 11,
+          "text": "No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire."
+        },
+        {
+          "verse": 12,
+          "text": "As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour."
+        },
+        {
+          "verse": 13,
+          "text": "And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt."
+        },
+        {
+          "verse": 14,
+          "text": "And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears."
+        },
+        {
+          "verse": 15,
+          "text": "And thou shalt put oil upon it, and lay frankincense thereon: it is a meat offering."
+        },
+        {
+          "verse": 16,
+          "text": "And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD."
+        }
+      ],
+      "verse_count": 16,
+      "word_count": 489
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 4,
+      "chapter_title": "Psalms 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer."
+        },
+        {
+          "verse": 2,
+          "text": "O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah."
+        },
+        {
+          "verse": 3,
+          "text": "But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him."
+        },
+        {
+          "verse": 4,
+          "text": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah."
+        },
+        {
+          "verse": 5,
+          "text": "Offer the sacrifices of righteousness, and put your trust in the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "There be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us."
+        },
+        {
+          "verse": 7,
+          "text": "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased."
+        },
+        {
+          "verse": 8,
+          "text": "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety."
+        }
+      ],
+      "verse_count": 8,
+      "word_count": 165
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 46,
+      "chapter_title": "Isaiah 46",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast."
+        },
+        {
+          "verse": 2,
+          "text": "They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity."
+        },
+        {
+          "verse": 3,
+          "text": "Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne by me from the belly, which are carried from the womb:"
+        },
+        {
+          "verse": 4,
+          "text": "And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you."
+        },
+        {
+          "verse": 5,
+          "text": "To whom will ye liken me, and make me equal, and compare me, that we may be like?"
+        },
+        {
+          "verse": 6,
+          "text": "They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship."
+        },
+        {
+          "verse": 7,
+          "text": "They bear him upon the shoulder, they carry him, and set him in his place, and he standeth; from his place shall he not remove: yea, one shall cry unto him, yet can he not answer, nor save him out of his trouble."
+        },
+        {
+          "verse": 8,
+          "text": "Remember this, and shew yourselves men: bring it again to mind, O ye transgressors."
+        },
+        {
+          "verse": 9,
+          "text": "Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,"
+        },
+        {
+          "verse": 10,
+          "text": "Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:"
+        },
+        {
+          "verse": 11,
+          "text": "Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken it, I will also bring it to pass; I have purposed it, I will also do it."
+        },
+        {
+          "verse": 12,
+          "text": "Hearken unto me, ye stouthearted, that are far from righteousness:"
+        },
+        {
+          "verse": 13,
+          "text": "I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 342
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 2,
+      "chapter_title": "Luke 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed."
+        },
+        {
+          "verse": 2,
+          "text": "(And this taxing was first made when Cyrenius was governor of Syria.)"
+        },
+        {
+          "verse": 3,
+          "text": "And all went to be taxed, every one into his own city."
+        },
+        {
+          "verse": 4,
+          "text": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)"
+        },
+        {
+          "verse": 5,
+          "text": "To be taxed with Mary his espoused wife, being great with child."
+        },
+        {
+          "verse": 6,
+          "text": "And so it was, that, while they were there, the days were accomplished that she should be delivered."
+        },
+        {
+          "verse": 7,
+          "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn."
+        },
+        {
+          "verse": 8,
+          "text": "And there were in the same country shepherds abiding in the field, keeping watch over their flock by night."
+        },
+        {
+          "verse": 9,
+          "text": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid."
+        },
+        {
+          "verse": 10,
+          "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people."
+        },
+        {
+          "verse": 11,
+          "text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord."
+        },
+        {
+          "verse": 12,
+          "text": "And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger."
+        },
+        {
+          "verse": 13,
+          "text": "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,"
+        },
+        {
+          "verse": 14,
+          "text": "Glory to God in the highest, and on earth peace, good will toward men."
+        },
+        {
+          "verse": 15,
+          "text": "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us."
+        },
+        {
+          "verse": 16,
+          "text": "And they came with haste, and found Mary, and Joseph, and the babe lying in a manger."
+        },
+        {
+          "verse": 17,
+          "text": "And when they had seen it, they made known abroad the saying which was told them concerning this child."
+        },
+        {
+          "verse": 18,
+          "text": "And all they that heard it wondered at those things which were told them by the shepherds."
+        },
+        {
+          "verse": 19,
+          "text": "But Mary kept all these things, and pondered them in her heart."
+        },
+        {
+          "verse": 20,
+          "text": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them."
+        },
+        {
+          "verse": 21,
+          "text": "And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb."
+        },
+        {
+          "verse": 22,
+          "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;"
+        },
+        {
+          "verse": 23,
+          "text": "(As it is written in the law of the LORD, Every male that openeth the womb shall be called holy to the Lord;)"
+        },
+        {
+          "verse": 24,
+          "text": "And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons."
+        },
+        {
+          "verse": 25,
+          "text": "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him."
+        },
+        {
+          "verse": 26,
+          "text": "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ."
+        },
+        {
+          "verse": 27,
+          "text": "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,"
+        },
+        {
+          "verse": 28,
+          "text": "Then took he him up in his arms, and blessed God, and said,"
+        },
+        {
+          "verse": 29,
+          "text": "Lord, now lettest thou thy servant depart in peace, according to thy word:"
+        },
+        {
+          "verse": 30,
+          "text": "For mine eyes have seen thy salvation,"
+        },
+        {
+          "verse": 31,
+          "text": "Which thou hast prepared before the face of all people;"
+        },
+        {
+          "verse": 32,
+          "text": "A light to lighten the Gentiles, and the glory of thy people Israel."
+        },
+        {
+          "verse": 33,
+          "text": "And Joseph and his mother marvelled at those things which were spoken of him."
+        },
+        {
+          "verse": 34,
+          "text": "And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;"
+        },
+        {
+          "verse": 35,
+          "text": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed."
+        },
+        {
+          "verse": 36,
+          "text": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;"
+        },
+        {
+          "verse": 37,
+          "text": "And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day."
+        },
+        {
+          "verse": 38,
+          "text": "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem."
+        },
+        {
+          "verse": 39,
+          "text": "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth."
+        },
+        {
+          "verse": 40,
+          "text": "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him."
+        },
+        {
+          "verse": 41,
+          "text": "Now his parents went to Jerusalem every year at the feast of the passover."
+        },
+        {
+          "verse": 42,
+          "text": "And when he was twelve years old, they went up to Jerusalem after the custom of the feast."
+        },
+        {
+          "verse": 43,
+          "text": "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it."
+        },
+        {
+          "verse": 44,
+          "text": "But they, supposing him to have been in the company, went a day’s journey; and they sought him among their kinsfolk and acquaintance."
+        },
+        {
+          "verse": 45,
+          "text": "And when they found him not, they turned back again to Jerusalem, seeking him."
+        },
+        {
+          "verse": 46,
+          "text": "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions."
+        },
+        {
+          "verse": 47,
+          "text": "And all that heard him were astonished at his understanding and answers."
+        },
+        {
+          "verse": 48,
+          "text": "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing."
+        },
+        {
+          "verse": 49,
+          "text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?"
+        },
+        {
+          "verse": 50,
+          "text": "And they understood not the saying which he spake unto them."
+        },
+        {
+          "verse": 51,
+          "text": "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart."
+        },
+        {
+          "verse": 52,
+          "text": "And Jesus increased in wisdom and stature, and in favour with God and man."
+        }
+      ],
+      "verse_count": 52,
+      "word_count": 1097
+    }
+  ]
+}

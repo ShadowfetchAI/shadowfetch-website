@@ -1,0 +1,685 @@
+{
+  "day_number": 59,
+  "references": "Leviticus 27 • Numbers 1 • Psalms 17 • Isaiah 59 • Luke 15",
+  "word_count": 3925,
+  "estimated_minutes": 19,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 17:5",
+    "text": "Hold up my goings in thy paths, that my footsteps slip not.",
+    "reflection": "Let this be the sheltering word of the day: small enough to remember, strong enough to keep."
+  },
+  "tomorrow_teaser": "Numbers 2-3 • Psalms 18 • Isaiah 60 • Luke 16",
+  "chapters": [
+    {
+      "book": "Leviticus",
+      "chapter_number": 27,
+      "chapter_title": "Leviticus 27",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation."
+        },
+        {
+          "verse": 3,
+          "text": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary."
+        },
+        {
+          "verse": 4,
+          "text": "And if it be a female, then thy estimation shall be thirty shekels."
+        },
+        {
+          "verse": 5,
+          "text": "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels."
+        },
+        {
+          "verse": 6,
+          "text": "And if it be from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation shall be three shekels of silver."
+        },
+        {
+          "verse": 7,
+          "text": "And if it be from sixty years old and above; if it be a male, then thy estimation shall be fifteen shekels, and for the female ten shekels."
+        },
+        {
+          "verse": 8,
+          "text": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him."
+        },
+        {
+          "verse": 9,
+          "text": "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy."
+        },
+        {
+          "verse": 10,
+          "text": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy."
+        },
+        {
+          "verse": 11,
+          "text": "And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:"
+        },
+        {
+          "verse": 12,
+          "text": "And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be."
+        },
+        {
+          "verse": 13,
+          "text": "But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation."
+        },
+        {
+          "verse": 14,
+          "text": "And when a man shall sanctify his house to be holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand."
+        },
+        {
+          "verse": 15,
+          "text": "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his."
+        },
+        {
+          "verse": 16,
+          "text": "And if a man shall sanctify unto the LORD some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver."
+        },
+        {
+          "verse": 17,
+          "text": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand."
+        },
+        {
+          "verse": 18,
+          "text": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation."
+        },
+        {
+          "verse": 19,
+          "text": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him."
+        },
+        {
+          "verse": 20,
+          "text": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more."
+        },
+        {
+          "verse": 21,
+          "text": "But the field, when it goeth out in the jubile, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest’s."
+        },
+        {
+          "verse": 22,
+          "text": "And if a man sanctify unto the LORD a field which he hath bought, which is not of the fields of his possession;"
+        },
+        {
+          "verse": 23,
+          "text": "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the LORD."
+        },
+        {
+          "verse": 24,
+          "text": "In the year of the jubile the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong."
+        },
+        {
+          "verse": 25,
+          "text": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel."
+        },
+        {
+          "verse": 26,
+          "text": "Only the firstling of the beasts, which should be the LORD’s firstling, no man shall sanctify it; whether it be ox, or sheep: it is the LORD’s."
+        },
+        {
+          "verse": 27,
+          "text": "And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation."
+        },
+        {
+          "verse": 28,
+          "text": "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the LORD."
+        },
+        {
+          "verse": 29,
+          "text": "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death."
+        },
+        {
+          "verse": 30,
+          "text": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD’s: it is holy unto the LORD."
+        },
+        {
+          "verse": 31,
+          "text": "And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof."
+        },
+        {
+          "verse": 32,
+          "text": "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD."
+        },
+        {
+          "verse": 33,
+          "text": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed."
+        },
+        {
+          "verse": 34,
+          "text": "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai."
+        }
+      ],
+      "verse_count": 34,
+      "word_count": 960
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 1,
+      "chapter_title": "Numbers 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;"
+        },
+        {
+          "verse": 3,
+          "text": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies."
+        },
+        {
+          "verse": 4,
+          "text": "And with you there shall be a man of every tribe; every one head of the house of his fathers."
+        },
+        {
+          "verse": 5,
+          "text": "And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur."
+        },
+        {
+          "verse": 6,
+          "text": "Of Simeon; Shelumiel the son of Zurishaddai."
+        },
+        {
+          "verse": 7,
+          "text": "Of Judah; Nahshon the son of Amminadab."
+        },
+        {
+          "verse": 8,
+          "text": "Of Issachar; Nethaneel the son of Zuar."
+        },
+        {
+          "verse": 9,
+          "text": "Of Zebulun; Eliab the son of Helon."
+        },
+        {
+          "verse": 10,
+          "text": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur."
+        },
+        {
+          "verse": 11,
+          "text": "Of Benjamin; Abidan the son of Gideoni."
+        },
+        {
+          "verse": 12,
+          "text": "Of Dan; Ahiezer the son of Ammishaddai."
+        },
+        {
+          "verse": 13,
+          "text": "Of Asher; Pagiel the son of Ocran."
+        },
+        {
+          "verse": 14,
+          "text": "Of Gad; Eliasaph the son of Deuel."
+        },
+        {
+          "verse": 15,
+          "text": "Of Naphtali; Ahira the son of Enan."
+        },
+        {
+          "verse": 16,
+          "text": "These were the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel."
+        },
+        {
+          "verse": 17,
+          "text": "And Moses and Aaron took these men which are expressed by their names:"
+        },
+        {
+          "verse": 18,
+          "text": "And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls."
+        },
+        {
+          "verse": 19,
+          "text": "As the LORD commanded Moses, so he numbered them in the wilderness of Sinai."
+        },
+        {
+          "verse": 20,
+          "text": "And the children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 21,
+          "text": "Those that were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred."
+        },
+        {
+          "verse": 22,
+          "text": "Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 23,
+          "text": "Those that were numbered of them, even of the tribe of Simeon, were fifty and nine thousand and three hundred."
+        },
+        {
+          "verse": 24,
+          "text": "Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 25,
+          "text": "Those that were numbered of them, even of the tribe of Gad, were forty and five thousand six hundred and fifty."
+        },
+        {
+          "verse": 26,
+          "text": "Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 27,
+          "text": "Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred."
+        },
+        {
+          "verse": 28,
+          "text": "Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 29,
+          "text": "Those that were numbered of them, even of the tribe of Issachar, were fifty and four thousand and four hundred."
+        },
+        {
+          "verse": 30,
+          "text": "Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 31,
+          "text": "Those that were numbered of them, even of the tribe of Zebulun, were fifty and seven thousand and four hundred."
+        },
+        {
+          "verse": 32,
+          "text": "Of the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 33,
+          "text": "Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred."
+        },
+        {
+          "verse": 34,
+          "text": "Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 35,
+          "text": "Those that were numbered of them, even of the tribe of Manasseh, were thirty and two thousand and two hundred."
+        },
+        {
+          "verse": 36,
+          "text": "Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 37,
+          "text": "Those that were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred."
+        },
+        {
+          "verse": 38,
+          "text": "Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 39,
+          "text": "Those that were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred."
+        },
+        {
+          "verse": 40,
+          "text": "Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 41,
+          "text": "Those that were numbered of them, even of the tribe of Asher, were forty and one thousand and five hundred."
+        },
+        {
+          "verse": 42,
+          "text": "Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+          "verse": 43,
+          "text": "Those that were numbered of them, even of the tribe of Naphtali, were fifty and three thousand and four hundred."
+        },
+        {
+          "verse": 44,
+          "text": "These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers."
+        },
+        {
+          "verse": 45,
+          "text": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;"
+        },
+        {
+          "verse": 46,
+          "text": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty."
+        },
+        {
+          "verse": 47,
+          "text": "But the Levites after the tribe of their fathers were not numbered among them."
+        },
+        {
+          "verse": 48,
+          "text": "For the LORD had spoken unto Moses, saying,"
+        },
+        {
+          "verse": 49,
+          "text": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:"
+        },
+        {
+          "verse": 50,
+          "text": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle."
+        },
+        {
+          "verse": 51,
+          "text": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death."
+        },
+        {
+          "verse": 52,
+          "text": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts."
+        },
+        {
+          "verse": 53,
+          "text": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony."
+        },
+        {
+          "verse": 54,
+          "text": "And the children of Israel did according to all that the LORD commanded Moses, so did they."
+        }
+      ],
+      "verse_count": 54,
+      "word_count": 1334
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 17,
+      "chapter_title": "Psalms 17",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips."
+        },
+        {
+          "verse": 2,
+          "text": "Let my sentence come forth from thy presence; let thine eyes behold the things that are equal."
+        },
+        {
+          "verse": 3,
+          "text": "Thou hast proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress."
+        },
+        {
+          "verse": 4,
+          "text": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer."
+        },
+        {
+          "verse": 5,
+          "text": "Hold up my goings in thy paths, that my footsteps slip not."
+        },
+        {
+          "verse": 6,
+          "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech."
+        },
+        {
+          "verse": 7,
+          "text": "Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee from those that rise up against them."
+        },
+        {
+          "verse": 8,
+          "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings,"
+        },
+        {
+          "verse": 9,
+          "text": "From the wicked that oppress me, from my deadly enemies, who compass me about."
+        },
+        {
+          "verse": 10,
+          "text": "They are inclosed in their own fat: with their mouth they speak proudly."
+        },
+        {
+          "verse": 11,
+          "text": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;"
+        },
+        {
+          "verse": 12,
+          "text": "Like as a lion that is greedy of his prey, and as it were a young lion lurking in secret places."
+        },
+        {
+          "verse": 13,
+          "text": "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:"
+        },
+        {
+          "verse": 14,
+          "text": "From men which are thy hand, O LORD, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes."
+        },
+        {
+          "verse": 15,
+          "text": "As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness."
+        }
+      ],
+      "verse_count": 15,
+      "word_count": 311
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 59,
+      "chapter_title": "Isaiah 59",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Behold, the LORD’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:"
+        },
+        {
+          "verse": 2,
+          "text": "But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear."
+        },
+        {
+          "verse": 3,
+          "text": "For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness."
+        },
+        {
+          "verse": 4,
+          "text": "None calleth for justice, nor any pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity."
+        },
+        {
+          "verse": 5,
+          "text": "They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper."
+        },
+        {
+          "verse": 6,
+          "text": "Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands."
+        },
+        {
+          "verse": 7,
+          "text": "Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; wasting and destruction are in their paths."
+        },
+        {
+          "verse": 8,
+          "text": "The way of peace they know not; and there is no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace."
+        },
+        {
+          "verse": 9,
+          "text": "Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness."
+        },
+        {
+          "verse": 10,
+          "text": "We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noon day as in the night; we are in desolate places as dead men."
+        },
+        {
+          "verse": 11,
+          "text": "We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us."
+        },
+        {
+          "verse": 12,
+          "text": "For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;"
+        },
+        {
+          "verse": 13,
+          "text": "In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood."
+        },
+        {
+          "verse": 14,
+          "text": "And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter."
+        },
+        {
+          "verse": 15,
+          "text": "Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the LORD saw it, and it displeased him that there was no judgment."
+        },
+        {
+          "verse": 16,
+          "text": "And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him."
+        },
+        {
+          "verse": 17,
+          "text": "For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance for clothing, and was clad with zeal as a cloak."
+        },
+        {
+          "verse": 18,
+          "text": "According to their deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence."
+        },
+        {
+          "verse": 19,
+          "text": "So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him."
+        },
+        {
+          "verse": 20,
+          "text": "And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the LORD."
+        },
+        {
+          "verse": 21,
+          "text": "As for me, this is my covenant with them, saith the LORD; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 594
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 15,
+      "chapter_title": "Luke 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then drew near unto him all the publicans and sinners for to hear him."
+        },
+        {
+          "verse": 2,
+          "text": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them."
+        },
+        {
+          "verse": 3,
+          "text": "And he spake this parable unto them, saying,"
+        },
+        {
+          "verse": 4,
+          "text": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+        },
+        {
+          "verse": 5,
+          "text": "And when he hath found it, he layeth it on his shoulders, rejoicing."
+        },
+        {
+          "verse": 6,
+          "text": "And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost."
+        },
+        {
+          "verse": 7,
+          "text": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance."
+        },
+        {
+          "verse": 8,
+          "text": "Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?"
+        },
+        {
+          "verse": 9,
+          "text": "And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost."
+        },
+        {
+          "verse": 10,
+          "text": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth."
+        },
+        {
+          "verse": 11,
+          "text": "And he said, A certain man had two sons:"
+        },
+        {
+          "verse": 12,
+          "text": "And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living."
+        },
+        {
+          "verse": 13,
+          "text": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living."
+        },
+        {
+          "verse": 14,
+          "text": "And when he had spent all, there arose a mighty famine in that land; and he began to be in want."
+        },
+        {
+          "verse": 15,
+          "text": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
+        },
+        {
+          "verse": 16,
+          "text": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
+        },
+        {
+          "verse": 17,
+          "text": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!"
+        },
+        {
+          "verse": 18,
+          "text": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,"
+        },
+        {
+          "verse": 19,
+          "text": "And am no more worthy to be called thy son: make me as one of thy hired servants."
+        },
+        {
+          "verse": 20,
+          "text": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+        },
+        {
+          "verse": 21,
+          "text": "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son."
+        },
+        {
+          "verse": 22,
+          "text": "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:"
+        },
+        {
+          "verse": 23,
+          "text": "And bring hither the fatted calf, and kill it; and let us eat, and be merry:"
+        },
+        {
+          "verse": 24,
+          "text": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry."
+        },
+        {
+          "verse": 25,
+          "text": "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing."
+        },
+        {
+          "verse": 26,
+          "text": "And he called one of the servants, and asked what these things meant."
+        },
+        {
+          "verse": 27,
+          "text": "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound."
+        },
+        {
+          "verse": 28,
+          "text": "And he was angry, and would not go in: therefore came his father out, and intreated him."
+        },
+        {
+          "verse": 29,
+          "text": "And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:"
+        },
+        {
+          "verse": 30,
+          "text": "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf."
+        },
+        {
+          "verse": 31,
+          "text": "And he said unto him, Son, thou art ever with me, and all that I have is thine."
+        },
+        {
+          "verse": 32,
+          "text": "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 726
+    }
+  ]
+}

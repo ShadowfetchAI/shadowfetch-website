@@ -1,0 +1,616 @@
+{
+  "day_number": 75,
+  "references": "Numbers 29 • Psalms 33 • Jeremiah 9 • John 7",
+  "word_count": 3078,
+  "estimated_minutes": 15,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 33:3",
+    "text": "Sing unto him a new song; play skilfully with a loud noise.",
+    "reflection": "This is the kind of sentence to keep near when the day feels louder than your prayers."
+  },
+  "tomorrow_teaser": "Numbers 30 • Psalms 34 • Jeremiah 10 • John 8",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 29,
+      "chapter_title": "Numbers 29",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you."
+        },
+        {
+          "verse": 2,
+          "text": "And ye shall offer a burnt offering for a sweet savour unto the LORD; one young bullock, one ram, and seven lambs of the first year without blemish:"
+        },
+        {
+          "verse": 3,
+          "text": "And their meat offering shall be of flour mingled with oil, three tenth deals for a bullock, and two tenth deals for a ram,"
+        },
+        {
+          "verse": 4,
+          "text": "And one tenth deal for one lamb, throughout the seven lambs:"
+        },
+        {
+          "verse": 5,
+          "text": "And one kid of the goats for a sin offering, to make an atonement for you:"
+        },
+        {
+          "verse": 6,
+          "text": "Beside the burnt offering of the month, and his meat offering, and the daily burnt offering, and his meat offering, and their drink offerings, according unto their manner, for a sweet savour, a sacrifice made by fire unto the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "And ye shall have on the tenth day of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work therein:"
+        },
+        {
+          "verse": 8,
+          "text": "But ye shall offer a burnt offering unto the LORD for a sweet savour; one young bullock, one ram, and seven lambs of the first year; they shall be unto you without blemish:"
+        },
+        {
+          "verse": 9,
+          "text": "And their meat offering shall be of flour mingled with oil, three tenth deals to a bullock, and two tenth deals to one ram,"
+        },
+        {
+          "verse": 10,
+          "text": "A several tenth deal for one lamb, throughout the seven lambs:"
+        },
+        {
+          "verse": 11,
+          "text": "One kid of the goats for a sin offering; beside the sin offering of atonement, and the continual burnt offering, and the meat offering of it, and their drink offerings."
+        },
+        {
+          "verse": 12,
+          "text": "And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the LORD seven days:"
+        },
+        {
+          "verse": 13,
+          "text": "And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD; thirteen young bullocks, two rams, and fourteen lambs of the first year; they shall be without blemish:"
+        },
+        {
+          "verse": 14,
+          "text": "And their meat offering shall be of flour mingled with oil, three tenth deals unto every bullock of the thirteen bullocks, two tenth deals to each ram of the two rams,"
+        },
+        {
+          "verse": 15,
+          "text": "And a several tenth deal to each lamb of the fourteen lambs:"
+        },
+        {
+          "verse": 16,
+          "text": "And one kid of the goats for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering."
+        },
+        {
+          "verse": 17,
+          "text": "And on the second day ye shall offer twelve young bullocks, two rams, fourteen lambs of the first year without spot:"
+        },
+        {
+          "verse": 18,
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+        },
+        {
+          "verse": 19,
+          "text": "And one kid of the goats for a sin offering; beside the continual burnt offering, and the meat offering thereof, and their drink offerings."
+        },
+        {
+          "verse": 20,
+          "text": "And on the third day eleven bullocks, two rams, fourteen lambs of the first year without blemish;"
+        },
+        {
+          "verse": 21,
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+        },
+        {
+          "verse": 22,
+          "text": "And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering."
+        },
+        {
+          "verse": 23,
+          "text": "And on the fourth day ten bullocks, two rams, and fourteen lambs of the first year without blemish:"
+        },
+        {
+          "verse": 24,
+          "text": "Their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+        },
+        {
+          "verse": 25,
+          "text": "And one kid of the goats for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering."
+        },
+        {
+          "verse": 26,
+          "text": "And on the fifth day nine bullocks, two rams, and fourteen lambs of the first year without spot:"
+        },
+        {
+          "verse": 27,
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+        },
+        {
+          "verse": 28,
+          "text": "And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering."
+        },
+        {
+          "verse": 29,
+          "text": "And on the sixth day eight bullocks, two rams, and fourteen lambs of the first year without blemish:"
+        },
+        {
+          "verse": 30,
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+        },
+        {
+          "verse": 31,
+          "text": "And one goat for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering."
+        },
+        {
+          "verse": 32,
+          "text": "And on the seventh day seven bullocks, two rams, and fourteen lambs of the first year without blemish:"
+        },
+        {
+          "verse": 33,
+          "text": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+        },
+        {
+          "verse": 34,
+          "text": "And one goat for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering."
+        },
+        {
+          "verse": 35,
+          "text": "On the eighth day ye shall have a solemn assembly: ye shall do no servile work therein:"
+        },
+        {
+          "verse": 36,
+          "text": "But ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD: one bullock, one ram, seven lambs of the first year without blemish:"
+        },
+        {
+          "verse": 37,
+          "text": "Their meat offering and their drink offerings for the bullock, for the ram, and for the lambs, shall be according to their number, after the manner:"
+        },
+        {
+          "verse": 38,
+          "text": "And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering."
+        },
+        {
+          "verse": 39,
+          "text": "These things ye shall do unto the LORD in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your meat offerings, and for your drink offerings, and for your peace offerings."
+        },
+        {
+          "verse": 40,
+          "text": "And Moses told the children of Israel according to all that the LORD commanded Moses."
+        }
+      ],
+      "verse_count": 40,
+      "word_count": 954
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 33,
+      "chapter_title": "Psalms 33",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Rejoice in the LORD, O ye righteous: for praise is comely for the upright."
+        },
+        {
+          "verse": 2,
+          "text": "Praise the LORD with harp: sing unto him with the psaltery and an instrument of ten strings."
+        },
+        {
+          "verse": 3,
+          "text": "Sing unto him a new song; play skilfully with a loud noise."
+        },
+        {
+          "verse": 4,
+          "text": "For the word of the LORD is right; and all his works are done in truth."
+        },
+        {
+          "verse": 5,
+          "text": "He loveth righteousness and judgment: the earth is full of the goodness of the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth."
+        },
+        {
+          "verse": 7,
+          "text": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses."
+        },
+        {
+          "verse": 8,
+          "text": "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him."
+        },
+        {
+          "verse": 9,
+          "text": "For he spake, and it was done; he commanded, and it stood fast."
+        },
+        {
+          "verse": 10,
+          "text": "The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect."
+        },
+        {
+          "verse": 11,
+          "text": "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations."
+        },
+        {
+          "verse": 12,
+          "text": "Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance."
+        },
+        {
+          "verse": 13,
+          "text": "The LORD looketh from heaven; he beholdeth all the sons of men."
+        },
+        {
+          "verse": 14,
+          "text": "From the place of his habitation he looketh upon all the inhabitants of the earth."
+        },
+        {
+          "verse": 15,
+          "text": "He fashioneth their hearts alike; he considereth all their works."
+        },
+        {
+          "verse": 16,
+          "text": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength."
+        },
+        {
+          "verse": 17,
+          "text": "An horse is a vain thing for safety: neither shall he deliver any by his great strength."
+        },
+        {
+          "verse": 18,
+          "text": "Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;"
+        },
+        {
+          "verse": 19,
+          "text": "To deliver their soul from death, and to keep them alive in famine."
+        },
+        {
+          "verse": 20,
+          "text": "Our soul waiteth for the LORD: he is our help and our shield."
+        },
+        {
+          "verse": 21,
+          "text": "For our heart shall rejoice in him, because we have trusted in his holy name."
+        },
+        {
+          "verse": 22,
+          "text": "Let thy mercy, O LORD, be upon us, according as we hope in thee."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 350
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 9,
+      "chapter_title": "Jeremiah 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!"
+        },
+        {
+          "verse": 2,
+          "text": "Oh that I had in the wilderness a lodging place of wayfaring men; that I might leave my people, and go from them! for they be all adulterers, an assembly of treacherous men."
+        },
+        {
+          "verse": 3,
+          "text": "And they bend their tongues like their bow for lies: but they are not valiant for the truth upon the earth; for they proceed from evil to evil, and they know not me, saith the LORD."
+        },
+        {
+          "verse": 4,
+          "text": "Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders."
+        },
+        {
+          "verse": 5,
+          "text": "And they will deceive every one his neighbour, and will not speak the truth: they have taught their tongue to speak lies, and weary themselves to commit iniquity."
+        },
+        {
+          "verse": 6,
+          "text": "Thine habitation is in the midst of deceit; through deceit they refuse to know me, saith the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore thus saith the LORD of hosts, Behold, I will melt them, and try them; for how shall I do for the daughter of my people?"
+        },
+        {
+          "verse": 8,
+          "text": "Their tongue is as an arrow shot out; it speaketh deceit: one speaketh peaceably to his neighbour with his mouth, but in heart he layeth his wait."
+        },
+        {
+          "verse": 9,
+          "text": "Shall I not visit them for these things? saith the LORD: shall not my soul be avenged on such a nation as this?"
+        },
+        {
+          "verse": 10,
+          "text": "For the mountains will I take up a weeping and wailing, and for the habitations of the wilderness a lamentation, because they are burned up, so that none can pass through them; neither can men hear the voice of the cattle; both the fowl of the heavens and the beast are fled; they are gone."
+        },
+        {
+          "verse": 11,
+          "text": "And I will make Jerusalem heaps, and a den of dragons; and I will make the cities of Judah desolate, without an inhabitant."
+        },
+        {
+          "verse": 12,
+          "text": "Who is the wise man, that may understand this? and who is he to whom the mouth of the LORD hath spoken, that he may declare it, for what the land perisheth and is burned up like a wilderness, that none passeth through?"
+        },
+        {
+          "verse": 13,
+          "text": "And the LORD saith, Because they have forsaken my law which I set before them, and have not obeyed my voice, neither walked therein;"
+        },
+        {
+          "verse": 14,
+          "text": "But have walked after the imagination of their own heart, and after Baalim, which their fathers taught them:"
+        },
+        {
+          "verse": 15,
+          "text": "Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will feed them, even this people, with wormwood, and give them water of gall to drink."
+        },
+        {
+          "verse": 16,
+          "text": "I will scatter them also among the heathen, whom neither they nor their fathers have known: and I will send a sword after them, till I have consumed them."
+        },
+        {
+          "verse": 17,
+          "text": "Thus saith the LORD of hosts, Consider ye, and call for the mourning women, that they may come; and send for cunning women, that they may come:"
+        },
+        {
+          "verse": 18,
+          "text": "And let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids gush out with waters."
+        },
+        {
+          "verse": 19,
+          "text": "For a voice of wailing is heard out of Zion, How are we spoiled! we are greatly confounded, because we have forsaken the land, because our dwellings have cast us out."
+        },
+        {
+          "verse": 20,
+          "text": "Yet hear the word of the LORD, O ye women, and let your ear receive the word of his mouth, and teach your daughters wailing, and every one her neighbour lamentation."
+        },
+        {
+          "verse": 21,
+          "text": "For death is come up into our windows, and is entered into our palaces, to cut off the children from without, and the young men from the streets."
+        },
+        {
+          "verse": 22,
+          "text": "Speak, Thus saith the LORD, Even the carcases of men shall fall as dung upon the open field, and as the handful after the harvestman, and none shall gather them."
+        },
+        {
+          "verse": 23,
+          "text": "Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches:"
+        },
+        {
+          "verse": 24,
+          "text": "But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the LORD."
+        },
+        {
+          "verse": 25,
+          "text": "Behold, the days come, saith the LORD, that I will punish all them which are circumcised with the uncircumcised;"
+        },
+        {
+          "verse": 26,
+          "text": "Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all that are in the utmost corners, that dwell in the wilderness: for all these nations are uncircumcised, and all the house of Israel are uncircumcised in the heart."
+        }
+      ],
+      "verse_count": 26,
+      "word_count": 772
+    },
+    {
+      "book": "John",
+      "chapter_number": 7,
+      "chapter_title": "John 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him."
+        },
+        {
+          "verse": 2,
+          "text": "Now the Jews’ feast of tabernacles was at hand."
+        },
+        {
+          "verse": 3,
+          "text": "His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may see the works that thou doest."
+        },
+        {
+          "verse": 4,
+          "text": "For there is no man that doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world."
+        },
+        {
+          "verse": 5,
+          "text": "For neither did his brethren believe in him."
+        },
+        {
+          "verse": 6,
+          "text": "Then Jesus said unto them, My time is not yet come: but your time is alway ready."
+        },
+        {
+          "verse": 7,
+          "text": "The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil."
+        },
+        {
+          "verse": 8,
+          "text": "Go ye up unto this feast: I go not up yet unto this feast: for my time is not yet full come."
+        },
+        {
+          "verse": 9,
+          "text": "When he had said these words unto them, he abode still in Galilee."
+        },
+        {
+          "verse": 10,
+          "text": "But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret."
+        },
+        {
+          "verse": 11,
+          "text": "Then the Jews sought him at the feast, and said, Where is he?"
+        },
+        {
+          "verse": 12,
+          "text": "And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people."
+        },
+        {
+          "verse": 13,
+          "text": "Howbeit no man spake openly of him for fear of the Jews."
+        },
+        {
+          "verse": 14,
+          "text": "Now about the midst of the feast Jesus went up into the temple, and taught."
+        },
+        {
+          "verse": 15,
+          "text": "And the Jews marvelled, saying, How knoweth this man letters, having never learned?"
+        },
+        {
+          "verse": 16,
+          "text": "Jesus answered them, and said, My doctrine is not mine, but his that sent me."
+        },
+        {
+          "verse": 17,
+          "text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+        },
+        {
+          "verse": 18,
+          "text": "He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him."
+        },
+        {
+          "verse": 19,
+          "text": "Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?"
+        },
+        {
+          "verse": 20,
+          "text": "The people answered and said, Thou hast a devil: who goeth about to kill thee?"
+        },
+        {
+          "verse": 21,
+          "text": "Jesus answered and said unto them, I have done one work, and ye all marvel."
+        },
+        {
+          "verse": 22,
+          "text": "Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man."
+        },
+        {
+          "verse": 23,
+          "text": "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?"
+        },
+        {
+          "verse": 24,
+          "text": "Judge not according to the appearance, but judge righteous judgment."
+        },
+        {
+          "verse": 25,
+          "text": "Then said some of them of Jerusalem, Is not this he, whom they seek to kill?"
+        },
+        {
+          "verse": 26,
+          "text": "But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?"
+        },
+        {
+          "verse": 27,
+          "text": "Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is."
+        },
+        {
+          "verse": 28,
+          "text": "Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not."
+        },
+        {
+          "verse": 29,
+          "text": "But I know him: for I am from him, and he hath sent me."
+        },
+        {
+          "verse": 30,
+          "text": "Then they sought to take him: but no man laid hands on him, because his hour was not yet come."
+        },
+        {
+          "verse": 31,
+          "text": "And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?"
+        },
+        {
+          "verse": 32,
+          "text": "The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him."
+        },
+        {
+          "verse": 33,
+          "text": "Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me."
+        },
+        {
+          "verse": 34,
+          "text": "Ye shall seek me, and shall not find me: and where I am, thither ye cannot come."
+        },
+        {
+          "verse": 35,
+          "text": "Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?"
+        },
+        {
+          "verse": 36,
+          "text": "What manner of saying is this that he said, Ye shall seek me, and shall not find me: and where I am, thither ye cannot come?"
+        },
+        {
+          "verse": 37,
+          "text": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink."
+        },
+        {
+          "verse": 38,
+          "text": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water."
+        },
+        {
+          "verse": 39,
+          "text": "(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)"
+        },
+        {
+          "verse": 40,
+          "text": "Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet."
+        },
+        {
+          "verse": 41,
+          "text": "Others said, This is the Christ. But some said, Shall Christ come out of Galilee?"
+        },
+        {
+          "verse": 42,
+          "text": "Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?"
+        },
+        {
+          "verse": 43,
+          "text": "So there was a division among the people because of him."
+        },
+        {
+          "verse": 44,
+          "text": "And some of them would have taken him; but no man laid hands on him."
+        },
+        {
+          "verse": 45,
+          "text": "Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?"
+        },
+        {
+          "verse": 46,
+          "text": "The officers answered, Never man spake like this man."
+        },
+        {
+          "verse": 47,
+          "text": "Then answered them the Pharisees, Are ye also deceived?"
+        },
+        {
+          "verse": 48,
+          "text": "Have any of the rulers or of the Pharisees believed on him?"
+        },
+        {
+          "verse": 49,
+          "text": "But this people who knoweth not the law are cursed."
+        },
+        {
+          "verse": 50,
+          "text": "Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)"
+        },
+        {
+          "verse": 51,
+          "text": "Doth our law judge any man, before it hear him, and know what he doeth?"
+        },
+        {
+          "verse": 52,
+          "text": "They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet."
+        },
+        {
+          "verse": 53,
+          "text": "And every man went unto his own house."
+        }
+      ],
+      "verse_count": 53,
+      "word_count": 1002
+    }
+  ]
+}

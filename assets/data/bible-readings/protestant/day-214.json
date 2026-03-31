@@ -1,0 +1,500 @@
+{
+  "day_number": 214,
+  "references": "2 Samuel 18 • Proverbs 22 • Jonah 4 • Hebrews 10",
+  "word_count": 2714,
+  "estimated_minutes": 13,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Proverbs 22:25",
+    "text": "Lest thou learn his ways, and get a snare to thy soul.",
+    "reflection": "Come back to this sentence tonight and see what it held together for you."
+  },
+  "tomorrow_teaser": "2 Samuel 19 • Proverbs 23 • Micah 1 • Hebrews 11",
+  "chapters": [
+    {
+      "book": "2 Samuel",
+      "chapter_number": 18,
+      "chapter_title": "2 Samuel 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And David numbered the people that were with him, and set captains of thousands and captains of hundreds over them."
+        },
+        {
+          "verse": 2,
+          "text": "And David sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai the Gittite. And the king said unto the people, I will surely go forth with you myself also."
+        },
+        {
+          "verse": 3,
+          "text": "But the people answered, Thou shalt not go forth: for if we flee away, they will not care for us; neither if half of us die, will they care for us: but now thou art worth ten thousand of us: therefore now it is better that thou succour us out of the city."
+        },
+        {
+          "verse": 4,
+          "text": "And the king said unto them, What seemeth you best I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands."
+        },
+        {
+          "verse": 5,
+          "text": "And the king commanded Joab and Abishai and Ittai, saying, Deal gently for my sake with the young man, even with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom."
+        },
+        {
+          "verse": 6,
+          "text": "So the people went out into the field against Israel: and the battle was in the wood of Ephraim;"
+        },
+        {
+          "verse": 7,
+          "text": "Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand men."
+        },
+        {
+          "verse": 8,
+          "text": "For the battle was there scattered over the face of all the country: and the wood devoured more people that day than the sword devoured."
+        },
+        {
+          "verse": 9,
+          "text": "And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away."
+        },
+        {
+          "verse": 10,
+          "text": "And a certain man saw it, and told Joab, and said, Behold, I saw Absalom hanged in an oak."
+        },
+        {
+          "verse": 11,
+          "text": "And Joab said unto the man that told him, And, behold, thou sawest him, and why didst thou not smite him there to the ground? and I would have given thee ten shekels of silver, and a girdle."
+        },
+        {
+          "verse": 12,
+          "text": "And the man said unto Joab, Though I should receive a thousand shekels of silver in mine hand, yet would I not put forth mine hand against the king’s son: for in our hearing the king charged thee and Abishai and Ittai, saying, Beware that none touch the young man Absalom."
+        },
+        {
+          "verse": 13,
+          "text": "Otherwise I should have wrought falsehood against mine own life: for there is no matter hid from the king, and thou thyself wouldest have set thyself against me."
+        },
+        {
+          "verse": 14,
+          "text": "Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak."
+        },
+        {
+          "verse": 15,
+          "text": "And ten young men that bare Joab’s armour compassed about and smote Absalom, and slew him."
+        },
+        {
+          "verse": 16,
+          "text": "And Joab blew the trumpet, and the people returned from pursuing after Israel: for Joab held back the people."
+        },
+        {
+          "verse": 17,
+          "text": "And they took Absalom, and cast him into a great pit in the wood, and laid a very great heap of stones upon him: and all Israel fled every one to his tent."
+        },
+        {
+          "verse": 18,
+          "text": "Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king’s dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom’s place."
+        },
+        {
+          "verse": 19,
+          "text": "Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies."
+        },
+        {
+          "verse": 20,
+          "text": "And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bear tidings another day: but this day thou shalt bear no tidings, because the king’s son is dead."
+        },
+        {
+          "verse": 21,
+          "text": "Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran."
+        },
+        {
+          "verse": 22,
+          "text": "Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?"
+        },
+        {
+          "verse": 23,
+          "text": "But howsoever, said he, let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi."
+        },
+        {
+          "verse": 24,
+          "text": "And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone."
+        },
+        {
+          "verse": 25,
+          "text": "And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came apace, and drew near."
+        },
+        {
+          "verse": 26,
+          "text": "And the watchman saw another man running: and the watchman called unto the porter, and said, Behold another man running alone. And the king said, He also bringeth tidings."
+        },
+        {
+          "verse": 27,
+          "text": "And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings."
+        },
+        {
+          "verse": 28,
+          "text": "And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the LORD thy God, which hath delivered up the men that lifted up their hand against my lord the king."
+        },
+        {
+          "verse": 29,
+          "text": "And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king’s servant, and me thy servant, I saw a great tumult, but I knew not what it was."
+        },
+        {
+          "verse": 30,
+          "text": "And the king said unto him, Turn aside, and stand here. And he turned aside, and stood still."
+        },
+        {
+          "verse": 31,
+          "text": "And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the LORD hath avenged thee this day of all them that rose up against thee."
+        },
+        {
+          "verse": 32,
+          "text": "And the king said unto Cushi, Is the young man Absalom safe? And Cushi answered, The enemies of my lord the king, and all that rise against thee to do thee hurt, be as that young man is."
+        },
+        {
+          "verse": 33,
+          "text": "And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!"
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 1103
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 22,
+      "chapter_title": "Proverbs 22",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A GOOD name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+        },
+        {
+          "verse": 2,
+          "text": "The rich and poor meet together: the LORD is the maker of them all."
+        },
+        {
+          "verse": 3,
+          "text": "A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished."
+        },
+        {
+          "verse": 4,
+          "text": "By humility and the fear of the LORD are riches, and honour, and life."
+        },
+        {
+          "verse": 5,
+          "text": "Thorns and snares are in the way of the froward: he that doth keep his soul shall be far from them."
+        },
+        {
+          "verse": 6,
+          "text": "Train up a child in the way he should go: and when he is old, he will not depart from it."
+        },
+        {
+          "verse": 7,
+          "text": "The rich ruleth over the poor, and the borrower is servant to the lender."
+        },
+        {
+          "verse": 8,
+          "text": "He that soweth iniquity shall reap vanity: and the rod of his anger shall fail."
+        },
+        {
+          "verse": 9,
+          "text": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor."
+        },
+        {
+          "verse": 10,
+          "text": "Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease."
+        },
+        {
+          "verse": 11,
+          "text": "He that loveth pureness of heart, for the grace of his lips the king shall be his friend."
+        },
+        {
+          "verse": 12,
+          "text": "The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor."
+        },
+        {
+          "verse": 13,
+          "text": "The slothful man saith, There is a lion without, I shall be slain in the streets."
+        },
+        {
+          "verse": 14,
+          "text": "The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein."
+        },
+        {
+          "verse": 15,
+          "text": "Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him."
+        },
+        {
+          "verse": 16,
+          "text": "He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want."
+        },
+        {
+          "verse": 17,
+          "text": "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge."
+        },
+        {
+          "verse": 18,
+          "text": "For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips."
+        },
+        {
+          "verse": 19,
+          "text": "That thy trust may be in the LORD, I have made known to thee this day, even to thee."
+        },
+        {
+          "verse": 20,
+          "text": "Have not I written to thee excellent things in counsels and knowledge,"
+        },
+        {
+          "verse": 21,
+          "text": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?"
+        },
+        {
+          "verse": 22,
+          "text": "Rob not the poor, because he is poor: neither oppress the afflicted in the gate:"
+        },
+        {
+          "verse": 23,
+          "text": "For the LORD will plead their cause, and spoil the soul of those that spoiled them."
+        },
+        {
+          "verse": 24,
+          "text": "Make no friendship with an angry man; and with a furious man thou shalt not go:"
+        },
+        {
+          "verse": 25,
+          "text": "Lest thou learn his ways, and get a snare to thy soul."
+        },
+        {
+          "verse": 26,
+          "text": "Be not thou one of them that strike hands, or of them that are sureties for debts."
+        },
+        {
+          "verse": 27,
+          "text": "If thou hast nothing to pay, why should he take away thy bed from under thee?"
+        },
+        {
+          "verse": 28,
+          "text": "Remove not the ancient landmark, which thy fathers have set."
+        },
+        {
+          "verse": 29,
+          "text": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men."
+        }
+      ],
+      "verse_count": 29,
+      "word_count": 495
+    },
+    {
+      "book": "Jonah",
+      "chapter_number": 4,
+      "chapter_title": "Jonah 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "But it displeased Jonah exceedingly, and he was very angry."
+        },
+        {
+          "verse": 2,
+          "text": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil."
+        },
+        {
+          "verse": 3,
+          "text": "Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live."
+        },
+        {
+          "verse": 4,
+          "text": "Then said the LORD, Doest thou well to be angry?"
+        },
+        {
+          "verse": 5,
+          "text": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city."
+        },
+        {
+          "verse": 6,
+          "text": "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd."
+        },
+        {
+          "verse": 7,
+          "text": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered."
+        },
+        {
+          "verse": 8,
+          "text": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live."
+        },
+        {
+          "verse": 9,
+          "text": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death."
+        },
+        {
+          "verse": 10,
+          "text": "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:"
+        },
+        {
+          "verse": 11,
+          "text": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?"
+        }
+      ],
+      "verse_count": 11,
+      "word_count": 332
+    },
+    {
+      "book": "Hebrews",
+      "chapter_number": 10,
+      "chapter_title": "Hebrews 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect."
+        },
+        {
+          "verse": 2,
+          "text": "For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins."
+        },
+        {
+          "verse": 3,
+          "text": "But in those sacrifices there is a remembrance again made of sins every year."
+        },
+        {
+          "verse": 4,
+          "text": "For it is not possible that the blood of bulls and of goats should take away sins."
+        },
+        {
+          "verse": 5,
+          "text": "Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:"
+        },
+        {
+          "verse": 6,
+          "text": "In burnt offerings and sacrifices for sin thou hast had no pleasure."
+        },
+        {
+          "verse": 7,
+          "text": "Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God."
+        },
+        {
+          "verse": 8,
+          "text": "Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;"
+        },
+        {
+          "verse": 9,
+          "text": "Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second."
+        },
+        {
+          "verse": 10,
+          "text": "By the which will we are sanctified through the offering of the body of Jesus Christ once for all."
+        },
+        {
+          "verse": 11,
+          "text": "And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:"
+        },
+        {
+          "verse": 12,
+          "text": "But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;"
+        },
+        {
+          "verse": 13,
+          "text": "From henceforth expecting till his enemies be made his footstool."
+        },
+        {
+          "verse": 14,
+          "text": "For by one offering he hath perfected for ever them that are sanctified."
+        },
+        {
+          "verse": 15,
+          "text": "Whereof the Holy Ghost also is a witness to us: for after that he had said before,"
+        },
+        {
+          "verse": 16,
+          "text": "This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;"
+        },
+        {
+          "verse": 17,
+          "text": "And their sins and iniquities will I remember no more."
+        },
+        {
+          "verse": 18,
+          "text": "Now where remission of these is, there is no more offering for sin."
+        },
+        {
+          "verse": 19,
+          "text": "Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,"
+        },
+        {
+          "verse": 20,
+          "text": "By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;"
+        },
+        {
+          "verse": 21,
+          "text": "And having an high priest over the house of God;"
+        },
+        {
+          "verse": 22,
+          "text": "Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water."
+        },
+        {
+          "verse": 23,
+          "text": "Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)"
+        },
+        {
+          "verse": 24,
+          "text": "And let us consider one another to provoke unto love and to good works:"
+        },
+        {
+          "verse": 25,
+          "text": "Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching."
+        },
+        {
+          "verse": 26,
+          "text": "For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,"
+        },
+        {
+          "verse": 27,
+          "text": "But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries."
+        },
+        {
+          "verse": 28,
+          "text": "He that despised Moses’ law died without mercy under two or three witnesses:"
+        },
+        {
+          "verse": 29,
+          "text": "Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?"
+        },
+        {
+          "verse": 30,
+          "text": "For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people."
+        },
+        {
+          "verse": 31,
+          "text": "It is a fearful thing to fall into the hands of the living God."
+        },
+        {
+          "verse": 32,
+          "text": "But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;"
+        },
+        {
+          "verse": 33,
+          "text": "Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used."
+        },
+        {
+          "verse": 34,
+          "text": "For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance."
+        },
+        {
+          "verse": 35,
+          "text": "Cast not away therefore your confidence, which hath great recompence of reward."
+        },
+        {
+          "verse": 36,
+          "text": "For ye have need of patience, that, after ye have done the will of God, ye might receive the promise."
+        },
+        {
+          "verse": 37,
+          "text": "For yet a little while, and he that shall come will come, and will not tarry."
+        },
+        {
+          "verse": 38,
+          "text": "Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him."
+        },
+        {
+          "verse": 39,
+          "text": "But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul."
+        }
+      ],
+      "verse_count": 39,
+      "word_count": 784
+    }
+  ]
+}

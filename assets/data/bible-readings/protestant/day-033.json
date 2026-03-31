@@ -1,0 +1,713 @@
+{
+  "day_number": 33,
+  "references": "Exodus 15-16 • Job 33 • Isaiah 33 • Mark 5",
+  "word_count": 3841,
+  "estimated_minutes": 18,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Mark 5:17",
+    "text": "And they began to pray him to depart out of their coasts.",
+    "reflection": "This verse is a good place to begin when you need calm before clarity."
+  },
+  "tomorrow_teaser": "Exodus 17-18 • Job 34 • Isaiah 34 • Mark 6",
+  "chapters": [
+    {
+      "book": "Exodus",
+      "chapter_number": 15,
+      "chapter_title": "Exodus 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea."
+        },
+        {
+          "verse": 2,
+          "text": "The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him."
+        },
+        {
+          "verse": 3,
+          "text": "The LORD is a man of war: the LORD is his name."
+        },
+        {
+          "verse": 4,
+          "text": "Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea."
+        },
+        {
+          "verse": 5,
+          "text": "The depths have covered them: they sank into the bottom as a stone."
+        },
+        {
+          "verse": 6,
+          "text": "Thy right hand, O LORD, is become glorious in power: thy right hand, O LORD, hath dashed in pieces the enemy."
+        },
+        {
+          "verse": 7,
+          "text": "And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath, which consumed them as stubble."
+        },
+        {
+          "verse": 8,
+          "text": "And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, and the depths were congealed in the heart of the sea."
+        },
+        {
+          "verse": 9,
+          "text": "The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them."
+        },
+        {
+          "verse": 10,
+          "text": "Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters."
+        },
+        {
+          "verse": 11,
+          "text": "Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?"
+        },
+        {
+          "verse": 12,
+          "text": "Thou stretchedst out thy right hand, the earth swallowed them."
+        },
+        {
+          "verse": 13,
+          "text": "Thou in thy mercy hast led forth the people which thou hast redeemed: thou hast guided them in thy strength unto thy holy habitation."
+        },
+        {
+          "verse": 14,
+          "text": "The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Palestina."
+        },
+        {
+          "verse": 15,
+          "text": "Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away."
+        },
+        {
+          "verse": 16,
+          "text": "Fear and dread shall fall upon them; by the greatness of thine arm they shall be as still as a stone; till thy people pass over, O LORD, till the people pass over, which thou hast purchased."
+        },
+        {
+          "verse": 17,
+          "text": "Thou shalt bring them in, and plant them in the mountain of thine inheritance, in the place, O LORD, which thou hast made for thee to dwell in, in the Sanctuary, O LORD, which thy hands have established."
+        },
+        {
+          "verse": 18,
+          "text": "The LORD shall reign for ever and ever."
+        },
+        {
+          "verse": 19,
+          "text": "For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the LORD brought again the waters of the sea upon them; but the children of Israel went on dry land in the midst of the sea."
+        },
+        {
+          "verse": 20,
+          "text": "And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances."
+        },
+        {
+          "verse": 21,
+          "text": "And Miriam answered them, Sing ye to the LORD, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea."
+        },
+        {
+          "verse": 22,
+          "text": "So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water."
+        },
+        {
+          "verse": 23,
+          "text": "And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah."
+        },
+        {
+          "verse": 24,
+          "text": "And the people murmured against Moses, saying, What shall we drink?"
+        },
+        {
+          "verse": 25,
+          "text": "And he cried unto the LORD; and the LORD shewed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,"
+        },
+        {
+          "verse": 26,
+          "text": "And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the LORD that healeth thee."
+        },
+        {
+          "verse": 27,
+          "text": "And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 715
+    },
+    {
+      "book": "Exodus",
+      "chapter_number": 16,
+      "chapter_title": "Exodus 16",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
+        },
+        {
+          "verse": 2,
+          "text": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:"
+        },
+        {
+          "verse": 3,
+          "text": "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
+        },
+        {
+          "verse": 4,
+          "text": "Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
+        },
+        {
+          "verse": 5,
+          "text": "And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily."
+        },
+        {
+          "verse": 6,
+          "text": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:"
+        },
+        {
+          "verse": 7,
+          "text": "And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what are we, that ye murmur against us?"
+        },
+        {
+          "verse": 8,
+          "text": "And Moses said, This shall be, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the LORD."
+        },
+        {
+          "verse": 9,
+          "text": "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings."
+        },
+        {
+          "verse": 10,
+          "text": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud."
+        },
+        {
+          "verse": 11,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 12,
+          "text": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the LORD your God."
+        },
+        {
+          "verse": 13,
+          "text": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host."
+        },
+        {
+          "verse": 14,
+          "text": "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground."
+        },
+        {
+          "verse": 15,
+          "text": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the LORD hath given you to eat."
+        },
+        {
+          "verse": 16,
+          "text": "This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents."
+        },
+        {
+          "verse": 17,
+          "text": "And the children of Israel did so, and gathered, some more, some less."
+        },
+        {
+          "verse": 18,
+          "text": "And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating."
+        },
+        {
+          "verse": 19,
+          "text": "And Moses said, Let no man leave of it till the morning."
+        },
+        {
+          "verse": 20,
+          "text": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them."
+        },
+        {
+          "verse": 21,
+          "text": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted."
+        },
+        {
+          "verse": 22,
+          "text": "And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses."
+        },
+        {
+          "verse": 23,
+          "text": "And he said unto them, This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
+        },
+        {
+          "verse": 24,
+          "text": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein."
+        },
+        {
+          "verse": 25,
+          "text": "And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field."
+        },
+        {
+          "verse": 26,
+          "text": "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none."
+        },
+        {
+          "verse": 27,
+          "text": "And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none."
+        },
+        {
+          "verse": 28,
+          "text": "And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws?"
+        },
+        {
+          "verse": 29,
+          "text": "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
+        },
+        {
+          "verse": 30,
+          "text": "So the people rested on the seventh day."
+        },
+        {
+          "verse": 31,
+          "text": "And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey."
+        },
+        {
+          "verse": 32,
+          "text": "And Moses said, This is the thing which the LORD commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt."
+        },
+        {
+          "verse": 33,
+          "text": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations."
+        },
+        {
+          "verse": 34,
+          "text": "As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept."
+        },
+        {
+          "verse": 35,
+          "text": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan."
+        },
+        {
+          "verse": 36,
+          "text": "Now an omer is the tenth part of an ephah."
+        }
+      ],
+      "verse_count": 36,
+      "word_count": 1062
+    },
+    {
+      "book": "Job",
+      "chapter_number": 33,
+      "chapter_title": "Job 33",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words."
+        },
+        {
+          "verse": 2,
+          "text": "Behold, now I have opened my mouth, my tongue hath spoken in my mouth."
+        },
+        {
+          "verse": 3,
+          "text": "My words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly."
+        },
+        {
+          "verse": 4,
+          "text": "The spirit of God hath made me, and the breath of the Almighty hath given me life."
+        },
+        {
+          "verse": 5,
+          "text": "If thou canst answer me, set thy words in order before me, stand up."
+        },
+        {
+          "verse": 6,
+          "text": "Behold, I am according to thy wish in God’s stead: I also am formed out of the clay."
+        },
+        {
+          "verse": 7,
+          "text": "Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee."
+        },
+        {
+          "verse": 8,
+          "text": "Surely thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,"
+        },
+        {
+          "verse": 9,
+          "text": "I am clean without transgression, I am innocent; neither is there iniquity in me."
+        },
+        {
+          "verse": 10,
+          "text": "Behold, he findeth occasions against me, he counteth me for his enemy,"
+        },
+        {
+          "verse": 11,
+          "text": "He putteth my feet in the stocks, he marketh all my paths."
+        },
+        {
+          "verse": 12,
+          "text": "Behold, in this thou art not just: I will answer thee, that God is greater than man."
+        },
+        {
+          "verse": 13,
+          "text": "Why dost thou strive against him? for he giveth not account of any of his matters."
+        },
+        {
+          "verse": 14,
+          "text": "For God speaketh once, yea twice, yet man perceiveth it not."
+        },
+        {
+          "verse": 15,
+          "text": "In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;"
+        },
+        {
+          "verse": 16,
+          "text": "Then he openeth the ears of men, and sealeth their instruction,"
+        },
+        {
+          "verse": 17,
+          "text": "That he may withdraw man from his purpose, and hide pride from man."
+        },
+        {
+          "verse": 18,
+          "text": "He keepeth back his soul from the pit, and his life from perishing by the sword."
+        },
+        {
+          "verse": 19,
+          "text": "He is chastened also with pain upon his bed, and the multitude of his bones with strong pain:"
+        },
+        {
+          "verse": 20,
+          "text": "So that his life abhorreth bread, and his soul dainty meat."
+        },
+        {
+          "verse": 21,
+          "text": "His flesh is consumed away, that it cannot be seen; and his bones that were not seen stick out."
+        },
+        {
+          "verse": 22,
+          "text": "Yea, his soul draweth near unto the grave, and his life to the destroyers."
+        },
+        {
+          "verse": 23,
+          "text": "If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:"
+        },
+        {
+          "verse": 24,
+          "text": "Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom."
+        },
+        {
+          "verse": 25,
+          "text": "His flesh shall be fresher than a child’s: he shall return to the days of his youth:"
+        },
+        {
+          "verse": 26,
+          "text": "He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness."
+        },
+        {
+          "verse": 27,
+          "text": "He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not;"
+        },
+        {
+          "verse": 28,
+          "text": "He will deliver his soul from going into the pit, and his life shall see the light."
+        },
+        {
+          "verse": 29,
+          "text": "Lo, all these things worketh God oftentimes with man,"
+        },
+        {
+          "verse": 30,
+          "text": "To bring back his soul from the pit, to be enlightened with the light of the living."
+        },
+        {
+          "verse": 31,
+          "text": "Mark well, O Job, hearken unto me: hold thy peace, and I will speak."
+        },
+        {
+          "verse": 32,
+          "text": "If thou hast anything to say, answer me: speak, for I desire to justify thee."
+        },
+        {
+          "verse": 33,
+          "text": "If not, hearken unto me: hold thy peace, and I shall teach thee wisdom."
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 526
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 33,
+      "chapter_title": "Isaiah 33",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee."
+        },
+        {
+          "verse": 2,
+          "text": "O LORD, be gracious unto us; we have waited for thee: be thou their arm every morning, our salvation also in the time of trouble."
+        },
+        {
+          "verse": 3,
+          "text": "At the noise of the tumult the people fled; at the lifting up of thyself the nations were scattered."
+        },
+        {
+          "verse": 4,
+          "text": "And your spoil shall be gathered like the gathering of the caterpiller: as the running to and fro of locusts shall he run upon them."
+        },
+        {
+          "verse": 5,
+          "text": "The LORD is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness."
+        },
+        {
+          "verse": 6,
+          "text": "And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the LORD is his treasure."
+        },
+        {
+          "verse": 7,
+          "text": "Behold, their valiant ones shall cry without: the ambassadors of peace shall weep bitterly."
+        },
+        {
+          "verse": 8,
+          "text": "The highways lie waste, the wayfaring man ceaseth: he hath broken the covenant, he hath despised the cities, he regardeth no man."
+        },
+        {
+          "verse": 9,
+          "text": "The earth mourneth and languisheth: Lebanon is ashamed and hewn down: Sharon is like a wilderness; and Bashan and Carmel shake off their fruits."
+        },
+        {
+          "verse": 10,
+          "text": "Now will I rise, saith the LORD; now will I be exalted; now will I lift up myself."
+        },
+        {
+          "verse": 11,
+          "text": "Ye shall conceive chaff, ye shall bring forth stubble: your breath, as fire, shall devour you."
+        },
+        {
+          "verse": 12,
+          "text": "And the people shall be as the burnings of lime: as thorns cut up shall they be burned in the fire."
+        },
+        {
+          "verse": 13,
+          "text": "Hear, ye that are far off, what I have done; and, ye that are near, acknowledge my might."
+        },
+        {
+          "verse": 14,
+          "text": "The sinners in Zion are afraid; fearfulness hath surprised the hypocrites. Who among us shall dwell with the devouring fire? who among us shall dwell with everlasting burnings?"
+        },
+        {
+          "verse": 15,
+          "text": "He that walketh righteously, and speaketh uprightly; he that despiseth the gain of oppressions, that shaketh his hands from holding of bribes, that stoppeth his ears from hearing of blood, and shutteth his eyes from seeing evil;"
+        },
+        {
+          "verse": 16,
+          "text": "He shall dwell on high: his place of defence shall be the munitions of rocks: bread shall be given him; his waters shall be sure."
+        },
+        {
+          "verse": 17,
+          "text": "Thine eyes shall see the king in his beauty: they shall behold the land that is very far off."
+        },
+        {
+          "verse": 18,
+          "text": "Thine heart shall meditate terror. Where is the scribe? where is the receiver? where is he that counted the towers?"
+        },
+        {
+          "verse": 19,
+          "text": "Thou shalt not see a fierce people, a people of a deeper speech than thou canst perceive; of a stammering tongue, that thou canst not understand."
+        },
+        {
+          "verse": 20,
+          "text": "Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken."
+        },
+        {
+          "verse": 21,
+          "text": "But there the glorious LORD will be unto us a place of broad rivers and streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby."
+        },
+        {
+          "verse": 22,
+          "text": "For the LORD is our judge, the LORD is our lawgiver, the LORD is our king; he will save us."
+        },
+        {
+          "verse": 23,
+          "text": "Thy tacklings are loosed; they could not well strengthen their mast, they could not spread the sail: then is the prey of a great spoil divided; the lame take the prey."
+        },
+        {
+          "verse": 24,
+          "text": "And the inhabitant shall not say, I am sick: the people that dwell therein shall be forgiven their iniquity."
+        }
+      ],
+      "verse_count": 24,
+      "word_count": 585
+    },
+    {
+      "book": "Mark",
+      "chapter_number": 5,
+      "chapter_title": "Mark 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And they came over unto the other side of the sea, into the country of the Gadarenes."
+        },
+        {
+          "verse": 2,
+          "text": "And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,"
+        },
+        {
+          "verse": 3,
+          "text": "Who had his dwelling among the tombs; and no man could bind him, no, not with chains:"
+        },
+        {
+          "verse": 4,
+          "text": "Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him."
+        },
+        {
+          "verse": 5,
+          "text": "And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones."
+        },
+        {
+          "verse": 6,
+          "text": "But when he saw Jesus afar off, he ran and worshipped him,"
+        },
+        {
+          "verse": 7,
+          "text": "And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not."
+        },
+        {
+          "verse": 8,
+          "text": "For he said unto him, Come out of the man, thou unclean spirit."
+        },
+        {
+          "verse": 9,
+          "text": "And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many."
+        },
+        {
+          "verse": 10,
+          "text": "And he besought him much that he would not send them away out of the country."
+        },
+        {
+          "verse": 11,
+          "text": "Now there was there nigh unto the mountains a great herd of swine feeding."
+        },
+        {
+          "verse": 12,
+          "text": "And all the devils besought him, saying, Send us into the swine, that we may enter into them."
+        },
+        {
+          "verse": 13,
+          "text": "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea."
+        },
+        {
+          "verse": 14,
+          "text": "And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done."
+        },
+        {
+          "verse": 15,
+          "text": "And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid."
+        },
+        {
+          "verse": 16,
+          "text": "And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine."
+        },
+        {
+          "verse": 17,
+          "text": "And they began to pray him to depart out of their coasts."
+        },
+        {
+          "verse": 18,
+          "text": "And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him."
+        },
+        {
+          "verse": 19,
+          "text": "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee."
+        },
+        {
+          "verse": 20,
+          "text": "And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel."
+        },
+        {
+          "verse": 21,
+          "text": "And when Jesus was passed over again by ship unto the other side, much people gathered unto him: and he was nigh unto the sea."
+        },
+        {
+          "verse": 22,
+          "text": "And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,"
+        },
+        {
+          "verse": 23,
+          "text": "And besought him greatly, saying, My little daughter lieth at the point of death: I pray thee, come and lay thy hands on her, that she may be healed; and she shall live."
+        },
+        {
+          "verse": 24,
+          "text": "And Jesus went with him; and much people followed him, and thronged him."
+        },
+        {
+          "verse": 25,
+          "text": "And a certain woman, which had an issue of blood twelve years,"
+        },
+        {
+          "verse": 26,
+          "text": "And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,"
+        },
+        {
+          "verse": 27,
+          "text": "When she had heard of Jesus, came in the press behind, and touched his garment."
+        },
+        {
+          "verse": 28,
+          "text": "For she said, If I may touch but his clothes, I shall be whole."
+        },
+        {
+          "verse": 29,
+          "text": "And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague."
+        },
+        {
+          "verse": 30,
+          "text": "And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?"
+        },
+        {
+          "verse": 31,
+          "text": "And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?"
+        },
+        {
+          "verse": 32,
+          "text": "And he looked round about to see her that had done this thing."
+        },
+        {
+          "verse": 33,
+          "text": "But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth."
+        },
+        {
+          "verse": 34,
+          "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague."
+        },
+        {
+          "verse": 35,
+          "text": "While he yet spake, there came from the ruler of the synagogue’s house certain which said, Thy daughter is dead: why troublest thou the Master any further?"
+        },
+        {
+          "verse": 36,
+          "text": "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe."
+        },
+        {
+          "verse": 37,
+          "text": "And he suffered no man to follow him, save Peter, and James, and John the brother of James."
+        },
+        {
+          "verse": 38,
+          "text": "And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly."
+        },
+        {
+          "verse": 39,
+          "text": "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth."
+        },
+        {
+          "verse": 40,
+          "text": "And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying."
+        },
+        {
+          "verse": 41,
+          "text": "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise."
+        },
+        {
+          "verse": 42,
+          "text": "And straightway the damsel arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment."
+        },
+        {
+          "verse": 43,
+          "text": "And he charged them straitly that no man should know it; and commanded that something should be given her to eat."
+        }
+      ],
+      "verse_count": 43,
+      "word_count": 953
+    }
+  ]
+}

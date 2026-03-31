@@ -1,0 +1,632 @@
+{
+  "day_number": 149,
+  "references": "Judges 9 • Psalms 107 • Ezekiel 26 • 1 Corinthians 16",
+  "word_count": 3532,
+  "estimated_minutes": 17,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 107:5",
+    "text": "Hungry and thirsty, their soul fainted in them.",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "Judges 10 • Psalms 108 • Ezekiel 27 • 2 Corinthians 1",
+  "chapters": [
+    {
+      "book": "Judges",
+      "chapter_number": 9,
+      "chapter_title": "Judges 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and communed with them, and with all the family of the house of his mother’s father, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak, I pray you, in the ears of all the men of Shechem, Whether is better for you, either that all the sons of Jerubbaal, which are threescore and ten persons, reign over you, or that one reign over you? remember also that I am your bone and your flesh."
+        },
+        {
+          "verse": 3,
+          "text": "And his mother’s brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother."
+        },
+        {
+          "verse": 4,
+          "text": "And they gave him threescore and ten pieces of silver out of the house of Baalberith, wherewith Abimelech hired vain and light persons, which followed him."
+        },
+        {
+          "verse": 5,
+          "text": "And he went unto his father’s house at Ophrah, and slew his brethren the sons of Jerubbaal, being threescore and ten persons, upon one stone: notwithstanding yet Jotham the youngest son of Jerubbaal was left; for he hid himself."
+        },
+        {
+          "verse": 6,
+          "text": "And all the men of Shechem gathered together, and all the house of Millo, and went, and made Abimelech king, by the plain of the pillar that was in Shechem."
+        },
+        {
+          "verse": 7,
+          "text": "And when they told it to Jotham, he went and stood in the top of mount Gerizim, and lifted up his voice, and cried, and said unto them, Hearken unto me, ye men of Shechem, that God may hearken unto you."
+        },
+        {
+          "verse": 8,
+          "text": "The trees went forth on a time to anoint a king over them; and they said unto the olive tree, Reign thou over us."
+        },
+        {
+          "verse": 9,
+          "text": "But the olive tree said unto them, Should I leave my fatness, wherewith by me they honour God and man, and go to be promoted over the trees?"
+        },
+        {
+          "verse": 10,
+          "text": "And the trees said to the fig tree, Come thou, and reign over us."
+        },
+        {
+          "verse": 11,
+          "text": "But the fig tree said unto them, Should I forsake my sweetness, and my good fruit, and go to be promoted over the trees?"
+        },
+        {
+          "verse": 12,
+          "text": "Then said the trees unto the vine, Come thou, and reign over us."
+        },
+        {
+          "verse": 13,
+          "text": "And the vine said unto them, Should I leave my wine, which cheereth God and man, and go to be promoted over the trees?"
+        },
+        {
+          "verse": 14,
+          "text": "Then said all the trees unto the bramble, Come thou, and reign over us."
+        },
+        {
+          "verse": 15,
+          "text": "And the bramble said unto the trees, If in truth ye anoint me king over you, then come and put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon."
+        },
+        {
+          "verse": 16,
+          "text": "Now therefore, if ye have done truly and sincerely, in that ye have made Abimelech king, and if ye have dealt well with Jerubbaal and his house, and have done unto him according to the deserving of his hands;"
+        },
+        {
+          "verse": 17,
+          "text": "(For my father fought for you, and adventured his life far, and delivered you out of the hand of Midian:"
+        },
+        {
+          "verse": 18,
+          "text": "And ye are risen up against my father’s house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maidservant, king over the men of Shechem, because he is your brother;)"
+        },
+        {
+          "verse": 19,
+          "text": "If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, then rejoice ye in Abimelech, and let him also rejoice in you:"
+        },
+        {
+          "verse": 20,
+          "text": "But if not, let fire come out from Abimelech, and devour the men of Shechem, and the house of Millo; and let fire come out from the men of Shechem, and from the house of Millo, and devour Abimelech."
+        },
+        {
+          "verse": 21,
+          "text": "And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother."
+        },
+        {
+          "verse": 22,
+          "text": "When Abimelech had reigned three years over Israel,"
+        },
+        {
+          "verse": 23,
+          "text": "Then God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt treacherously with Abimelech:"
+        },
+        {
+          "verse": 24,
+          "text": "That the cruelty done to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brethren."
+        },
+        {
+          "verse": 25,
+          "text": "And the men of Shechem set liers in wait for him in the top of the mountains, and they robbed all that came along that way by them: and it was told Abimelech."
+        },
+        {
+          "verse": 26,
+          "text": "And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him."
+        },
+        {
+          "verse": 27,
+          "text": "And they went out into the fields, and gathered their vineyards, and trode the grapes, and made merry, and went into the house of their god, and did eat and drink, and cursed Abimelech."
+        },
+        {
+          "verse": 28,
+          "text": "And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?"
+        },
+        {
+          "verse": 29,
+          "text": "And would to God this people were under my hand! then would I remove Abimelech. And he said to Abimelech, Increase thine army, and come out."
+        },
+        {
+          "verse": 30,
+          "text": "And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled."
+        },
+        {
+          "verse": 31,
+          "text": "And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against thee."
+        },
+        {
+          "verse": 32,
+          "text": "Now therefore up by night, thou and the people that is with thee, and lie in wait in the field:"
+        },
+        {
+          "verse": 33,
+          "text": "And it shall be, that in the morning, as soon as the sun is up, thou shalt rise early, and set upon the city: and, behold, when he and the people that is with him come out against thee, then mayest thou do to them as thou shalt find occasion."
+        },
+        {
+          "verse": 34,
+          "text": "And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies."
+        },
+        {
+          "verse": 35,
+          "text": "And Gaal the son of Ebed went out, and stood in the entering of the gate of the city: and Abimelech rose up, and the people that were with him, from lying in wait."
+        },
+        {
+          "verse": 36,
+          "text": "And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said unto him, Thou seest the shadow of the mountains as if they were men."
+        },
+        {
+          "verse": 37,
+          "text": "And Gaal spake again and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim."
+        },
+        {
+          "verse": 38,
+          "text": "Then said Zebul unto him, Where is now thy mouth, wherewith thou saidst, Who is Abimelech, that we should serve him? is not this the people that thou hast despised? go out, I pray now, and fight with them."
+        },
+        {
+          "verse": 39,
+          "text": "And Gaal went out before the men of Shechem, and fought with Abimelech."
+        },
+        {
+          "verse": 40,
+          "text": "And Abimelech chased him, and he fled before him, and many were overthrown and wounded, even unto the entering of the gate."
+        },
+        {
+          "verse": 41,
+          "text": "And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brethren, that they should not dwell in Shechem."
+        },
+        {
+          "verse": 42,
+          "text": "And it came to pass on the morrow, that the people went out into the field; and they told Abimelech."
+        },
+        {
+          "verse": 43,
+          "text": "And he took the people, and divided them into three companies, and laid wait in the field, and looked, and, behold, the people were come forth out of the city; and he rose up against them, and smote them."
+        },
+        {
+          "verse": 44,
+          "text": "And Abimelech, and the company that was with him, rushed forward, and stood in the entering of the gate of the city: and the two other companies ran upon all the people that were in the fields, and slew them."
+        },
+        {
+          "verse": 45,
+          "text": "And Abimelech fought against the city all that day; and he took the city, and slew the people that was therein, and beat down the city, and sowed it with salt."
+        },
+        {
+          "verse": 46,
+          "text": "And when all the men of the tower of Shechem heard that, they entered into an hold of the house of the god Berith."
+        },
+        {
+          "verse": 47,
+          "text": "And it was told Abimelech, that all the men of the tower of Shechem were gathered together."
+        },
+        {
+          "verse": 48,
+          "text": "And Abimelech gat him up to mount Zalmon, he and all the people that were with him; and Abimelech took an axe in his hand, and cut down a bough from the trees, and took it, and laid it on his shoulder, and said unto the people that were with him, What ye have seen me do, make haste, and do as I have done."
+        },
+        {
+          "verse": 49,
+          "text": "And all the people likewise cut down every man his bough, and followed Abimelech, and put them to the hold, and set the hold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women."
+        },
+        {
+          "verse": 50,
+          "text": "Then went Abimelech to Thebez, and encamped against Thebez, and took it."
+        },
+        {
+          "verse": 51,
+          "text": "But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut it to them, and gat them up to the top of the tower."
+        },
+        {
+          "verse": 52,
+          "text": "And Abimelech came unto the tower, and fought against it, and went hard unto the door of the tower to burn it with fire."
+        },
+        {
+          "verse": 53,
+          "text": "And a certain woman cast a piece of a millstone upon Abimelech’s head, and all to brake his skull."
+        },
+        {
+          "verse": 54,
+          "text": "Then he called hastily unto the young man his armourbearer, and said unto him, Draw thy sword, and slay me, that men say not of me, A woman slew him. And his young man thrust him through, and he died."
+        },
+        {
+          "verse": 55,
+          "text": "And when the men of Israel saw that Abimelech was dead, they departed every man unto his place."
+        },
+        {
+          "verse": 56,
+          "text": "Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren:"
+        },
+        {
+          "verse": 57,
+          "text": "And all the evil of the men of Shechem did God render upon their heads: and upon them came the curse of Jotham the son of Jerubbaal."
+        }
+      ],
+      "verse_count": 57,
+      "word_count": 1673
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 107,
+      "chapter_title": "Psalms 107",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O give thanks unto the LORD, for he is good: for his mercy endureth for ever."
+        },
+        {
+          "verse": 2,
+          "text": "Let the redeemed of the LORD say so, whom he hath redeemed from the hand of the enemy;"
+        },
+        {
+          "verse": 3,
+          "text": "And gathered them out of the lands, from the east, and from the west, from the north, and from the south."
+        },
+        {
+          "verse": 4,
+          "text": "They wandered in the wilderness in a solitary way; they found no city to dwell in."
+        },
+        {
+          "verse": 5,
+          "text": "Hungry and thirsty, their soul fainted in them."
+        },
+        {
+          "verse": 6,
+          "text": "Then they cried unto the LORD in their trouble, and he delivered them out of their distresses."
+        },
+        {
+          "verse": 7,
+          "text": "And he led them forth by the right way, that they might go to a city of habitation."
+        },
+        {
+          "verse": 8,
+          "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!"
+        },
+        {
+          "verse": 9,
+          "text": "For he satisfieth the longing soul, and filleth the hungry soul with goodness."
+        },
+        {
+          "verse": 10,
+          "text": "Such as sit in darkness and in the shadow of death, being bound in affliction and iron;"
+        },
+        {
+          "verse": 11,
+          "text": "Because they rebelled against the words of God, and contemned the counsel of the most High:"
+        },
+        {
+          "verse": 12,
+          "text": "Therefore he brought down their heart with labour; they fell down, and there was none to help."
+        },
+        {
+          "verse": 13,
+          "text": "Then they cried unto the LORD in their trouble, and he saved them out of their distresses."
+        },
+        {
+          "verse": 14,
+          "text": "He brought them out of darkness and the shadow of death, and brake their bands in sunder."
+        },
+        {
+          "verse": 15,
+          "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!"
+        },
+        {
+          "verse": 16,
+          "text": "For he hath broken the gates of brass, and cut the bars of iron in sunder."
+        },
+        {
+          "verse": 17,
+          "text": "Fools because of their transgression, and because of their iniquities, are afflicted."
+        },
+        {
+          "verse": 18,
+          "text": "Their soul abhorreth all manner of meat; and they draw near unto the gates of death."
+        },
+        {
+          "verse": 19,
+          "text": "Then they cry unto the LORD in their trouble, and he saveth them out of their distresses."
+        },
+        {
+          "verse": 20,
+          "text": "He sent his word, and healed them, and delivered them from their destructions."
+        },
+        {
+          "verse": 21,
+          "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!"
+        },
+        {
+          "verse": 22,
+          "text": "And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing."
+        },
+        {
+          "verse": 23,
+          "text": "They that go down to the sea in ships, that do business in great waters;"
+        },
+        {
+          "verse": 24,
+          "text": "These see the works of the LORD, and his wonders in the deep."
+        },
+        {
+          "verse": 25,
+          "text": "For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof."
+        },
+        {
+          "verse": 26,
+          "text": "They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble."
+        },
+        {
+          "verse": 27,
+          "text": "They reel to and fro, and stagger like a drunken man, and are at their wit’s end."
+        },
+        {
+          "verse": 28,
+          "text": "Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses."
+        },
+        {
+          "verse": 29,
+          "text": "He maketh the storm a calm, so that the waves thereof are still."
+        },
+        {
+          "verse": 30,
+          "text": "Then are they glad because they be quiet; so he bringeth them unto their desired haven."
+        },
+        {
+          "verse": 31,
+          "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!"
+        },
+        {
+          "verse": 32,
+          "text": "Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders."
+        },
+        {
+          "verse": 33,
+          "text": "He turneth rivers into a wilderness, and the watersprings into dry ground;"
+        },
+        {
+          "verse": 34,
+          "text": "A fruitful land into barrenness, for the wickedness of them that dwell therein."
+        },
+        {
+          "verse": 35,
+          "text": "He turneth the wilderness into a standing water, and dry ground into watersprings."
+        },
+        {
+          "verse": 36,
+          "text": "And there he maketh the hungry to dwell, that they may prepare a city for habitation;"
+        },
+        {
+          "verse": 37,
+          "text": "And sow the fields, and plant vineyards, which may yield fruits of increase."
+        },
+        {
+          "verse": 38,
+          "text": "He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease."
+        },
+        {
+          "verse": 39,
+          "text": "Again, they are minished and brought low through oppression, affliction, and sorrow."
+        },
+        {
+          "verse": 40,
+          "text": "He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way."
+        },
+        {
+          "verse": 41,
+          "text": "Yet setteth he the poor on high from affliction, and maketh him families like a flock."
+        },
+        {
+          "verse": 42,
+          "text": "The righteous shall see it, and rejoice: and all iniquity shall stop her mouth."
+        },
+        {
+          "verse": 43,
+          "text": "Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the LORD."
+        }
+      ],
+      "verse_count": 43,
+      "word_count": 686
+    },
+    {
+      "book": "Ezekiel",
+      "chapter_number": 26,
+      "chapter_title": "Ezekiel 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Son of man, because that Tyrus hath said against Jerusalem, Aha, she is broken that was the gates of the people: she is turned unto me: I shall be replenished, now she is laid waste:"
+        },
+        {
+          "verse": 3,
+          "text": "Therefore thus saith the Lord GOD; Behold, I am against thee, O Tyrus, and will cause many nations to come up against thee, as the sea causeth his waves to come up."
+        },
+        {
+          "verse": 4,
+          "text": "And they shall destroy the walls of Tyrus, and break down her towers: I will also scrape her dust from her, and make her like the top of a rock."
+        },
+        {
+          "verse": 5,
+          "text": "It shall be a place for the spreading of nets in the midst of the sea: for I have spoken it, saith the Lord GOD: and it shall become a spoil to the nations."
+        },
+        {
+          "verse": 6,
+          "text": "And her daughters which are in the field shall be slain by the sword; and they shall know that I am the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "For thus saith the Lord GOD; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people."
+        },
+        {
+          "verse": 8,
+          "text": "He shall slay with the sword thy daughters in the field: and he shall make a fort against thee, and cast a mount against thee, and lift up the buckler against thee."
+        },
+        {
+          "verse": 9,
+          "text": "And he shall set engines of war against thy walls, and with his axes he shall break down thy towers."
+        },
+        {
+          "verse": 10,
+          "text": "By reason of the abundance of his horses their dust shall cover thee: thy walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots, when he shall enter into thy gates, as men enter into a city wherein is made a breach."
+        },
+        {
+          "verse": 11,
+          "text": "With the hoofs of his horses shall he tread down all thy streets: he shall slay thy people by the sword, and thy strong garrisons shall go down to the ground."
+        },
+        {
+          "verse": 12,
+          "text": "And they shall make a spoil of thy riches, and make a prey of thy merchandise: and they shall break down thy walls, and destroy thy pleasant houses: and they shall lay thy stones and thy timber and thy dust in the midst of the water."
+        },
+        {
+          "verse": 13,
+          "text": "And I will cause the noise of thy songs to cease; and the sound of thy harps shall be no more heard."
+        },
+        {
+          "verse": 14,
+          "text": "And I will make thee like the top of a rock: thou shalt be a place to spread nets upon; thou shalt be built no more: for I the LORD have spoken it, saith the Lord GOD."
+        },
+        {
+          "verse": 15,
+          "text": "Thus saith the Lord GOD to Tyrus; Shall not the isles shake at the sound of thy fall, when the wounded cry, when the slaughter is made in the midst of thee?"
+        },
+        {
+          "verse": 16,
+          "text": "Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble at every moment, and be astonished at thee."
+        },
+        {
+          "verse": 17,
+          "text": "And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, that wast inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!"
+        },
+        {
+          "verse": 18,
+          "text": "Now shall the isles tremble in the day of thy fall; yea, the isles that are in the sea shall be troubled at thy departure."
+        },
+        {
+          "verse": 19,
+          "text": "For thus saith the Lord GOD; When I shall make thee a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon thee, and great waters shall cover thee;"
+        },
+        {
+          "verse": 20,
+          "text": "When I shall bring thee down with them that descend into the pit, with the people of old time, and shall set thee in the low parts of the earth, in places desolate of old, with them that go down to the pit, that thou be not inhabited; and I shall set glory in the land of the living;"
+        },
+        {
+          "verse": 21,
+          "text": "I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 727
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter_number": 16,
+      "chapter_title": "1 Corinthians 16",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye."
+        },
+        {
+          "verse": 2,
+          "text": "Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come."
+        },
+        {
+          "verse": 3,
+          "text": "And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem."
+        },
+        {
+          "verse": 4,
+          "text": "And if it be meet that I go also, they shall go with me."
+        },
+        {
+          "verse": 5,
+          "text": "Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia."
+        },
+        {
+          "verse": 6,
+          "text": "And it may be that I will abide, yea, and winter with you, that ye may bring me on my journey whithersoever I go."
+        },
+        {
+          "verse": 7,
+          "text": "For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit."
+        },
+        {
+          "verse": 8,
+          "text": "But I will tarry at Ephesus until Pentecost."
+        },
+        {
+          "verse": 9,
+          "text": "For a great door and effectual is opened unto me, and there are many adversaries."
+        },
+        {
+          "verse": 10,
+          "text": "Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also do."
+        },
+        {
+          "verse": 11,
+          "text": "Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren."
+        },
+        {
+          "verse": 12,
+          "text": "As touching our brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time."
+        },
+        {
+          "verse": 13,
+          "text": "Watch ye, stand fast in the faith, quit you like men, be strong."
+        },
+        {
+          "verse": 14,
+          "text": "Let all your things be done with charity."
+        },
+        {
+          "verse": 15,
+          "text": "I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,)"
+        },
+        {
+          "verse": 16,
+          "text": "That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth."
+        },
+        {
+          "verse": 17,
+          "text": "I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied."
+        },
+        {
+          "verse": 18,
+          "text": "For they have refreshed my spirit and yours: therefore acknowledge ye them that are such."
+        },
+        {
+          "verse": 19,
+          "text": "The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house."
+        },
+        {
+          "verse": 20,
+          "text": "All the brethren greet you. Greet ye one another with an holy kiss."
+        },
+        {
+          "verse": 21,
+          "text": "The salutation of me Paul with mine own hand."
+        },
+        {
+          "verse": 22,
+          "text": "If any man love not the Lord Jesus Christ, let him be Anathema Maranatha."
+        },
+        {
+          "verse": 23,
+          "text": "The grace of our Lord Jesus Christ be with you."
+        },
+        {
+          "verse": 24,
+          "text": "My love be with you all in Christ Jesus. Amen."
+        }
+      ],
+      "verse_count": 24,
+      "word_count": 446
+    }
+  ]
+}

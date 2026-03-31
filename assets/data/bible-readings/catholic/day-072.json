@@ -1,0 +1,849 @@
+{
+  "day_number": 72,
+  "references": "Numbers 26-27 • Psalms 30 • Jeremias 6 • John 4",
+  "word_count": 4433,
+  "estimated_minutes": 21,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 30:1",
+    "text": "Unto the end, a psalm for David, in an ecstacy.",
+    "reflection": "If the day gets scattered, return here and let this verse gather you again."
+  },
+  "tomorrow_teaser": "Numbers 28-29 • Psalms 31 • Jeremias 7 • John 5",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 26,
+      "chapter_title": "Numbers 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "After *the blood of the guilty was shed, the Lord said to Moses, and to Eleazar, the son of Aaron the priest:"
+        },
+        {
+          "verse": 2,
+          "text": "*Number the whole sum of the children of Israel, from twenty years old and upward, by their houses and kindreds, all that are able to go forth to war."
+        },
+        {
+          "verse": 3,
+          "text": "Moses therefore and Eleazar the priest, being in the plains of Moab, upon the Jordan, over-against Jericho, spoke to them that were"
+        },
+        {
+          "verse": 4,
+          "text": "From twenty years old and upward, as the Lord had commanded: and this is the number of them:"
+        },
+        {
+          "verse": 5,
+          "text": "Ruben the first-born of Israel. *His sons were Henoch, of whom is the family of the Henochites: and Phallu, of whom is the family of the Phalluites:"
+        },
+        {
+          "verse": 6,
+          "text": "And Hesron, of whom is the family of the Hesronites: and Charmi, of whom is the family of the Charmites."
+        },
+        {
+          "verse": 7,
+          "text": "These are the families of the stock of Ruben: whose number was found to be forty-three thousand seven hundred and thirty."
+        },
+        {
+          "verse": 8,
+          "text": "The son of Phallu was Eliab."
+        },
+        {
+          "verse": 9,
+          "text": "His sons were Namuel, and Dathan, and Abiron. These are Dathan and Abiron the princes of the people, *that rose against Moses and Aaron in the sedition of Core, when they rebelled against the Lord:"
+        },
+        {
+          "verse": 10,
+          "text": "And the earth opening her mouth swallowed up Core, many others dying, when the fire burned two hundred and fifty men. And there was a great miracle wrought,"
+        },
+        {
+          "verse": 11,
+          "text": "That when Core perished, his sons did not perish."
+        },
+        {
+          "verse": 12,
+          "text": "The sons of Simeon by their kindreds: Namuel, of him is the family of the Namuelites: Jamin, of him is the family of the Jaminites: Jachin, of him is the family of the Jachinites:"
+        },
+        {
+          "verse": 13,
+          "text": "Zare, of him is the family of the Zareites: Saul, of him is the family of the Saulites."
+        },
+        {
+          "verse": 14,
+          "text": "These are the families of the stock of Simeon, of which the whole number was twenty-two thousand two hundred."
+        },
+        {
+          "verse": 15,
+          "text": "The sons of Gad by their kindreds: Sephon, of him is the family of the Sephonites: Aggi, of him is the family of the Aggites: Suni, of him is the family of the Sunites:"
+        },
+        {
+          "verse": 16,
+          "text": "Ozni, of him is the family of the Oznites: Her, of him is the family of the Herites:"
+        },
+        {
+          "verse": 17,
+          "text": "Arod, of him is the family of the Arodites: Ariel, of him is the family of the Arielites."
+        },
+        {
+          "verse": 18,
+          "text": "These are the families of Gad, of which the whole number was forty thousand five hundred."
+        },
+        {
+          "verse": 19,
+          "text": "*The sons of Juda, Her and Onan, who both died in the land of Chanaan."
+        },
+        {
+          "verse": 20,
+          "text": "And the sons of Juda, by their kindreds, were: Sela, of whom is the family of the Selaites: Phares, of whom is the family of the Pharesites: Zare, of whom is the family of the Zareites."
+        },
+        {
+          "verse": 21,
+          "text": "Moreover the sons of Phares, were: Hesron, of whom is the family of the Hesronites: and Hamul, of whom is the family of the Hamulites."
+        },
+        {
+          "verse": 22,
+          "text": "These are the families of Juda, of which the whole number was seventy-six thousand five hundred."
+        },
+        {
+          "verse": 23,
+          "text": "The sons of Issachar, by their kindreds: Thola, of whom is the family of the Tholaites: Phua, of whom is the family of the Phuaites:"
+        },
+        {
+          "verse": 24,
+          "text": "Jasub, of whom is the family of the Jasubites: Semran, of whom is the family of the Semranites."
+        },
+        {
+          "verse": 25,
+          "text": "These are the kindreds of Issachar, whose number was sixty-four thousand three hundred."
+        },
+        {
+          "verse": 26,
+          "text": "The sons of Zabulon, by their kindreds: Sared, of whom is the family of the Saredites: Elon, of whom is the family of the Elonites: Jalel, of whom is the family of the Jalelites."
+        },
+        {
+          "verse": 27,
+          "text": "These are the kindreds of Zabulon, whose number was sixty thousand five hundred."
+        },
+        {
+          "verse": 28,
+          "text": "The sons of Joseph, by their kindreds, Manasses and Ephraim."
+        },
+        {
+          "verse": 29,
+          "text": "Of Manasses was born Machir, of whom is the family of the Machirites. *Machir begot Galaad, of whom is the family of the Galaadites."
+        },
+        {
+          "verse": 30,
+          "text": "Galaad had sons: Jezer, of whom is the family of the Jezerites: and Helec, of whom is the family of the Helecites:"
+        },
+        {
+          "verse": 31,
+          "text": "And Asriel, of whom is the family of the Asrielites: and Sechem, of whom is the family of the Sechemites:"
+        },
+        {
+          "verse": 32,
+          "text": "And Semida, of whom is the family of the Semidaites: *and Hepher, of whom is the family of the Hepherites."
+        },
+        {
+          "verse": 33,
+          "text": "And Hepher was the father of Salphaad, who had no sons, but only daughters, whose names are these: *Maala, and Noa, and Hegla, and Melcha, and Thersa."
+        },
+        {
+          "verse": 34,
+          "text": "These are the families of Manasses, and the number of them fifty-two thousand seven hundred."
+        },
+        {
+          "verse": 35,
+          "text": "And the sons of Ephraim, by their kindreds, were these: Suthala, of whom is the family of the Suthalaites: Becher, of whom is the family of the Becherites: Thehen, of whom is the family of the Thehenites."
+        },
+        {
+          "verse": 36,
+          "text": "Now the son of Suthala was Heran, of whom is the family of the Heranites."
+        },
+        {
+          "verse": 37,
+          "text": "These are the kindreds of the sons of Ephraim: whose number was thirty-two thousand five hundred."
+        },
+        {
+          "verse": 38,
+          "text": "These are the sons of Joseph, by their families. The sons of Benjamin in their kindreds: Bela, of whom is the family of the Belaites: Asbel, of whom is the family of the Asbelites: Ahiram, of whom is the family of the Ahiramites:"
+        },
+        {
+          "verse": 39,
+          "text": "Supham, of whom is the family of the Suphamites: Hupham, of whom is the family of the Huphamites."
+        },
+        {
+          "verse": 40,
+          "text": "The sons of Bela: Hered, and Noeman. Of Hered, is the family of the Heredites: of Noeman, the family of the Noemanites."
+        },
+        {
+          "verse": 41,
+          "text": "These are the sons of Benjamin, by their kindreds, whose number was forty-five thousand six hundred."
+        },
+        {
+          "verse": 42,
+          "text": "The sons of Dan, by their kindreds: Suham, of whom is the family of the Suhamites: these are the kindreds of Dan, by their families."
+        },
+        {
+          "verse": 43,
+          "text": "All were Suhamites, whose number was sixty-four thousand four hundred."
+        },
+        {
+          "verse": 44,
+          "text": "The sons of Aser, by their kindreds: Jemna, of whom is the family of the Jemnaites: Jessui, of whom is the family of the Jessuites: Brie, of whom is the family of the Brieites."
+        },
+        {
+          "verse": 45,
+          "text": "The sons of Brie: Heber, of whom is the family of the Heberites: and Melchiel, of whom is the family of the Melchielites."
+        },
+        {
+          "verse": 46,
+          "text": "And the name of the daughter of Aser, was Sara."
+        },
+        {
+          "verse": 47,
+          "text": "These are the kindreds of the sons of Aser, and their number fifty-three thousand four hundred."
+        },
+        {
+          "verse": 48,
+          "text": "The sons of Nephthali by their kindreds: Jesiel, of whom is the family of the Jesielites: Guni, of whom is the family of the Gunites:"
+        },
+        {
+          "verse": 49,
+          "text": "Jeser, of whom is the family of the Jeserites: Sellem, of whom is the family of the Sellemites."
+        },
+        {
+          "verse": 50,
+          "text": "These are the kindreds of the sons of Nephthali by their families: whose number was forty-five thousand four hundred."
+        },
+        {
+          "verse": 51,
+          "text": "This is the sum of the children of Israel, that were reckoned up, six hundred and one thousand seven hundred and thirty."
+        },
+        {
+          "verse": 52,
+          "text": "And the Lord spoke to Moses, saying:"
+        },
+        {
+          "verse": 53,
+          "text": "To these shall the land be divided for their possessions according to the number of names."
+        },
+        {
+          "verse": 54,
+          "text": "To the greater number thou shalt give a greater portion, and to the fewer a less: to every one, as they have now been reckoned up, shall a possession be delivered:"
+        },
+        {
+          "verse": 55,
+          "text": "Yet so that by lot the land be divided to the tribe and families."
+        },
+        {
+          "verse": 56,
+          "text": "Whatsoever shall fall by lot, that shall be taken by the more, or the fewer."
+        },
+        {
+          "verse": 57,
+          "text": "*This also is the number of the sons of Levi, by their families: Gerson, of whom is the family of the Gersonites: Caath, of whom is the family of the Caathites: Merari, of whom is the family of the Merarites."
+        },
+        {
+          "verse": 58,
+          "text": "These are the families of Levi: The family of Lobni, the family of Hebroni, the family of Moholi, the family of Musi, the family of Core. Now Caath begot Amram,"
+        },
+        {
+          "verse": 59,
+          "text": "Who had to wife Jochabed the daughter of Levi, who was horn to him in Egypt. She bore to her husband Amram, sons, Aaron and Moses, and Mary their sister."
+        },
+        {
+          "verse": 60,
+          "text": "Of Aaron were born Nadab and Abiu, and Eleazar, and Ithamar:"
+        },
+        {
+          "verse": 61,
+          "text": "*Of whom Nadab and Abiu died, when they had offered the strange fire before the Lord."
+        },
+        {
+          "verse": 62,
+          "text": "And all that were numbered, were twenty-three thousand males, from one month old and upward: for they were not reckoned up among the children of Israel, neither was a possession given to them with the rest."
+        },
+        {
+          "verse": 63,
+          "text": "This is the number of the children of Israel, that were enrolled by Moses and Eleazar the priest, in the plains of Moab, upon the Jordan over-against Jericho."
+        },
+        {
+          "verse": 64,
+          "text": "*Among whom there was not one of them that were numbered before by Moses and Aaron in the desert of Sinai."
+        },
+        {
+          "verse": 65,
+          "text": "*For the Lord had foretold, that they should all die in the wilderness. And none remained of them, but Caleb the son of Jephone, and Josue the son of Nun."
+        }
+      ],
+      "verse_count": 65,
+      "word_count": 1421
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 27,
+      "chapter_title": "Numbers 27",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then *came the daughters of Salphaad, the son of Hepher,** the son of Galaad, the son of Machir, the son of Manasses, who was the son of Joseph: and their names are Maala, and Noa, and Hegla, and Melcha, and Thersa."
+        },
+        {
+          "verse": 2,
+          "text": "And they stood before Moses and Eleazar the priest, and all the princes of the people, at the door of the tabernacle of the covenant, and said:"
+        },
+        {
+          "verse": 3,
+          "text": "Our father died in the desert, and was not in the sedition *that was raised against the Lord, under Core, but he died in his own sin: and he had no male children. Why is his name taken away out of his family, because he had no son? Give us a possession among the kinsmen of our father."
+        },
+        {
+          "verse": 4,
+          "text": "And Moses referred their cause to the judgment of the Lord."
+        },
+        {
+          "verse": 5,
+          "text": "And the Lord said to him:"
+        },
+        {
+          "verse": 6,
+          "text": "The daughters of Salphaad demand a just thing: Give them a possession among their father's kindred, and let them succeed him in his inheritance."
+        },
+        {
+          "verse": 7,
+          "text": "And to the children of Israel thou shalt speak these things:"
+        },
+        {
+          "verse": 8,
+          "text": "When a man dieth without a son, his inheritance shall pass to his daughter."
+        },
+        {
+          "verse": 9,
+          "text": "If he have no daughter, his brethren shall succeed him."
+        },
+        {
+          "verse": 10,
+          "text": "And if he have no brethren, you shall give the inheritance to his father's brethren."
+        },
+        {
+          "verse": 11,
+          "text": "But if he have no uncles by the father, the inheritance shall be given to them that are the next a-kin. And this shall be to the children of Israel sacred by a perpetual law, as the Lord hath commanded Moses."
+        },
+        {
+          "verse": 12,
+          "text": "*The Lord also said to Moses: **Go up into this mountain, Abarim, and view from thence the land, which I will give to the children of Israel."
+        },
+        {
+          "verse": 13,
+          "text": "And when thou shalt have seen it, thou also shalt go to thy people, as thy brother Aaron is gone:"
+        },
+        {
+          "verse": 14,
+          "text": "*Because you offended me in the desert of Sin in the contradiction of the multitude, neither would you sanctify me before them at the waters. These are the waters of contradiction, in Cades, of the desert of Sin."
+        },
+        {
+          "verse": 15,
+          "text": "And Moses answered him:"
+        },
+        {
+          "verse": 16,
+          "text": "May the Lord the God of the spirits of all flesh provide a man that may be over this multitude:"
+        },
+        {
+          "verse": 17,
+          "text": "And may go out and in before them, and may lead them out, or bring them in: lest the people of the Lord be as sheep without a shepherd."
+        },
+        {
+          "verse": 18,
+          "text": "And the Lord said to him: *Take Josue, the son of Nun, a man in whom is the Spirit, and put thy hand upon him."
+        },
+        {
+          "verse": 19,
+          "text": "And he shall stand before Eleazar the priest, and all the multitude."
+        },
+        {
+          "verse": 20,
+          "text": "And thou shalt give him precepts in the sight of all, and part of thy glory, that all the congregation of the children of Israel may hear him."
+        },
+        {
+          "verse": 21,
+          "text": "If any thing be to be done, Eleazar the priest shall consult the Lord for him. He, and all the children of Israel with him, and the rest of the multitude, shall go out and go in at his word."
+        },
+        {
+          "verse": 22,
+          "text": "Moses did as the Lord had commanded. And when he had taken Josue, he set him before Eleazar the priest, and all the assembly of the people,"
+        },
+        {
+          "verse": 23,
+          "text": "And laying his hands on his head, he repeated all things that the Lord had commanded."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 544
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 30,
+      "chapter_title": "Psalms 30",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Unto the end, a psalm for David, in an ecstacy."
+        },
+        {
+          "verse": 2,
+          "text": "In thee, O Lord, have I hoped, let me never be confounded: deliver me in thy justice."
+        },
+        {
+          "verse": 3,
+          "text": "Bow down thy ear to me: make haste to deliver me. Be thou unto me a God, a protector, and a house of refuge, to save me."
+        },
+        {
+          "verse": 4,
+          "text": "For thou art my strength and my refuge; and for thy name's sake thou wilt lead me, and nourish me."
+        },
+        {
+          "verse": 5,
+          "text": "Thou wilt bring me out of this snare, which they have hidden for me: for thou art my protector."
+        },
+        {
+          "verse": 6,
+          "text": "*Into thy hands I commend my spirit: thou hast redeemed me, O Lord, the God of truth."
+        },
+        {
+          "verse": 7,
+          "text": "Thou hast hated them that regard vanities to no purpose. But I have hoped in the Lord:"
+        },
+        {
+          "verse": 8,
+          "text": "I will be glad and rejoice in thy mercy. For thou best regarded my humility; thou hast saved my soul out of distresses."
+        },
+        {
+          "verse": 9,
+          "text": "And thou hast not shut me up in the hands of the enemy: thou hast set my feet in a spacious place."
+        },
+        {
+          "verse": 10,
+          "text": "Have mercy on me, O Lord, for I am afflicted: my eye is troubled with wrath, my soul, and my belly:"
+        },
+        {
+          "verse": 11,
+          "text": "For my life is wasted with grief: and my years in sighs. My strength is weakened through poverty: and my bones are disturbed."
+        },
+        {
+          "verse": 12,
+          "text": "I am become a reproach among all my enemies, and very much to my neighbours, and a fear to my acquaintance.They that saw me without, fled from me."
+        },
+        {
+          "verse": 13,
+          "text": "I am forgotten as one dead from the heart. I am become as a vessel that is destroyed."
+        },
+        {
+          "verse": 14,
+          "text": "For I have heard the blame of many that dwell round about. While they assembled together against me, they consulted to take away my life."
+        },
+        {
+          "verse": 15,
+          "text": "But I have put my trust in thee, O Lord: I said: Thou art my God."
+        },
+        {
+          "verse": 16,
+          "text": "My lots are in thy hands. Deliver me out of the hands of my enemies; and from them that persecute me."
+        },
+        {
+          "verse": 17,
+          "text": "Make thy face to shine upon thy servant; save me in thy mercy."
+        },
+        {
+          "verse": 18,
+          "text": "Let me not be confounded, O Lord, for I have called upon thee. Let the wicked be ashamed, and be brought down to hell."
+        },
+        {
+          "verse": 19,
+          "text": "Let deceitful lips be made dumb; Which speak iniquity against the just, with pride and abuse."
+        },
+        {
+          "verse": 20,
+          "text": "O how great is the multitude of thy sweetness, O Lord, which thou hast hidden for them that fear thee! Which thou hast wrought for them that hope in thee, in the sight of the sons of men."
+        },
+        {
+          "verse": 21,
+          "text": "Thou shalt hide them in the secret of thy face, from the disturbance of men. Thou shalt protect them in thy tabernacle, from the contradiction of tongues."
+        },
+        {
+          "verse": 22,
+          "text": "Blessed be the Lord, for he hath shewn his wonderful mercy to me in a fortified city."
+        },
+        {
+          "verse": 23,
+          "text": "But I said in the excess of my mind: I am cast away from before thy eyes. Therefore thou hast heard the voice of my prayer, when I cried to thee."
+        },
+        {
+          "verse": 24,
+          "text": "O love the Lord, all ye his saints: for the Lord will require truth, and will repay them abundantly that act proudly."
+        },
+        {
+          "verse": 25,
+          "text": "Do ye manfully, and let your heart be strengthened, all ye that hope in the Lord."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 529
+    },
+    {
+      "book": "Jeremias",
+      "chapter_number": 6,
+      "chapter_title": "Jeremias 6",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Strengthen yourselves, ye sons of Benjamin, in the midst of Jerusalem, and sound the trumpet in Thecua, and set up the standard over Bethacarem: for evil is seen out of the north, and a great destruction."
+        },
+        {
+          "verse": 2,
+          "text": "I have likened the daughter of Sion to a beautiful and delicate woman."
+        },
+        {
+          "verse": 3,
+          "text": "The shepherds shall come to her with their flocks: they have pitched their tents against her round about: every one shall feed them that are under his hand."
+        },
+        {
+          "verse": 4,
+          "text": "Prepare ye war against her: arise, and let us go up at mid-day: woe unto us, for the day is declined, for the shadows of the evening are grown longer."
+        },
+        {
+          "verse": 5,
+          "text": "Arise, and let us go up in the night, and destroy her houses."
+        },
+        {
+          "verse": 6,
+          "text": "For thus saith the Lord of hosts: Hew down her trees, cast up a trench about Jerusalem: this is the city to be visited, all oppression is in the midst of her."
+        },
+        {
+          "verse": 7,
+          "text": "As a cistern maketh its water cold, so hath she made her wickedness cold: violence and spoil shall be heard in her, infirmity and stripes are continually before me."
+        },
+        {
+          "verse": 8,
+          "text": "Be thou instructed, O Jerusalem, lest my soul depart from thee, lest I make thee desolate, a land uninhabited."
+        },
+        {
+          "verse": 9,
+          "text": "Thus saith the Lord of hosts: They shall gather the remains of Israel, as in a vine, even to one cluster: turn back thy hand, as a grape-gatherer into the basket."
+        },
+        {
+          "verse": 10,
+          "text": "To whom shall I speak? and to whom shall I testify, that he may hear? behold, their ears are uncircumcised, and they cannot hear: behold, the word of the Lord is become unto them a reproach: and and they will not receive it."
+        },
+        {
+          "verse": 11,
+          "text": "Therefore am I full of the fury of the Lord, I am weary with holding in: pour it out upon the child abroad, and upon the council of the young men together: for man and woman shall be taken, the ancient, and he that is full of days."
+        },
+        {
+          "verse": 12,
+          "text": "And their houses shall be turned over to others, with their lands and their wives together: for I will stretch for my hand upon the inhabitants of the land, saith the Lord."
+        },
+        {
+          "verse": 13,
+          "text": "*For from the least of them even to the greatest, all are given to covetousness: and from the prophet even to the priest, all are guilty of deceit."
+        },
+        {
+          "verse": 14,
+          "text": "And they healed the breach of the daughter of my people disgracefully, saying: Peace, peace: and there was no peace."
+        },
+        {
+          "verse": 15,
+          "text": "They were confounded, because they commmitted abomination: yea, rather they were not confounded with confusion, and they knew not how to blush: wherefore they shall fall among them that fall: in the time of their visitation they shall fall down, saith the Lord."
+        },
+        {
+          "verse": 16,
+          "text": "Thus saith the Lord: Stand ye on the ways, and see, and ask for the old paths, which is the good way, and walk ye in it: *and you shall find refreshment for your souls. And they said: We will not walk."
+        },
+        {
+          "verse": 17,
+          "text": "And I appointed watchmen over you, saying: Hearken ye to the sound of the trumpet. And they said: We will not hearken."
+        },
+        {
+          "verse": 18,
+          "text": "Therefore, hear, ye nations, and know, O congregation, what great things I will do to them."
+        },
+        {
+          "verse": 19,
+          "text": "Hear, O earth: Behold, I will bring evils upon this people, the fruit of their own thoughts: because they have not heard my words, and they have cast away my law."
+        },
+        {
+          "verse": 20,
+          "text": "*To what purpose do you bring me frankincense from Saba, and the sweet smelling cane from a far country? your holocausts are not acceptable, nor are your sacrifices pleasing to me."
+        },
+        {
+          "verse": 21,
+          "text": "Therefore, thus saith the Lord: Behold, I will bring destruction upon this people, by which fathers and sons together shall fall, neighbor and kinsman shall perish."
+        },
+        {
+          "verse": 22,
+          "text": "Thus saith the Lord: Behold a people cometh from the north country, and a great nation shall rise up from the ends of the earth."
+        },
+        {
+          "verse": 23,
+          "text": "They shall lay hold on arrow and shield: they are cruel, and will have no mercy. Their voice shall roar like the sea: and they shall mount upon horses, prepared as men for war, against thee, O daughter of Sion."
+        },
+        {
+          "verse": 24,
+          "text": "We have heard the fame thereof, our hands grow feeble: anguish hath taken hold of us, as a woman in labor."
+        },
+        {
+          "verse": 25,
+          "text": "Go not out into the fields, nor walk in the highway: for the sword of the enemy, and fear is on every side."
+        },
+        {
+          "verse": 26,
+          "text": "Gird thee with sackcloth, O daughter of my people, and sprinkle thee with ashes: make thee mourning as for an only son, a bitter lamentation, because the destroyer shall suddenly come upon us."
+        },
+        {
+          "verse": 27,
+          "text": "I have set thee for a strong trier among my people: and thou shalt know, and prove their way."
+        },
+        {
+          "verse": 28,
+          "text": "All of these princes go out of the way, they walk deceitfully, they are brass and iron: they are all corrupted."
+        },
+        {
+          "verse": 29,
+          "text": "The bellows have failed, the lead is consumed in the fire, the founder hath melted in vain: for their wicked deeds are not consumed."
+        },
+        {
+          "verse": 30,
+          "text": "Call them reprobate silver, for the Lord hath rejected them."
+        }
+      ],
+      "verse_count": 30,
+      "word_count": 829
+    },
+    {
+      "book": "John",
+      "chapter_number": 4,
+      "chapter_title": "John 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "When, therefore, Jesus understood that the Pharisees had heard that Jesus maketh more disciples, and *baptizeth more than John,"
+        },
+        {
+          "verse": 2,
+          "text": "(Though Jesus himself did not baptize, but his disciples,)"
+        },
+        {
+          "verse": 3,
+          "text": "He left Judea, and departed again into Galilee."
+        },
+        {
+          "verse": 4,
+          "text": "And it was necessary he should pass through Samaria."
+        },
+        {
+          "verse": 5,
+          "text": "He cometh, therefore, to a city of Samaria which is called Sichar; near the piece of land *which Jacob gave to his son Joseph."
+        },
+        {
+          "verse": 6,
+          "text": "Now Jacob's well was there. Jesus, therefore, being wearied with his journey, sat thus on the well. It was about the sixth hour."
+        },
+        {
+          "verse": 7,
+          "text": "There cometh a woman of Samaria to draw water. Jesus saith to her: Give me to drink."
+        },
+        {
+          "verse": 8,
+          "text": "(For his disciples were gone into the city, to buy food.)"
+        },
+        {
+          "verse": 9,
+          "text": "Then that Samaritan woman saith to him: How dost thou, being a Jew, ask of me to drink, who am a Samaritan woman? For the Jews do not communicate with the Samaritans."
+        },
+        {
+          "verse": 10,
+          "text": "Jesus answered, and said to her: If thou didst know the gift of God, and who it is that saith to thee, Give me to drink: thou perhaps wouldst have asked of him, and he would have given thee living water."
+        },
+        {
+          "verse": 11,
+          "text": "The woman saith to him: Sir, thou hast nothing wherein to draw, and the well is deep: from whence then hast thou living water?"
+        },
+        {
+          "verse": 12,
+          "text": "Art thou greater than our father Jacob, who gave us the well, and drank thereof himself, and his children, and his cattle?"
+        },
+        {
+          "verse": 13,
+          "text": "Jesus answered, and said to her: Whosoever drinketh of this water shall thirst again: but he that shall drink of the water that I will give him, shall not thirst for ever."
+        },
+        {
+          "verse": 14,
+          "text": "But the water that I shall give him, shall become in him a fountain of water, springing up into life everlasting."
+        },
+        {
+          "verse": 15,
+          "text": "The woman saith to him: Sir, give me this water, that I may not thirst, nor come hither to draw."
+        },
+        {
+          "verse": 16,
+          "text": "Jesus saith to her: Go, call thy husband, and come hither."
+        },
+        {
+          "verse": 17,
+          "text": "The woman answered, and said: I have no husband. Jesus said to her: Thou hast said well, I have no husband:"
+        },
+        {
+          "verse": 18,
+          "text": "For thou hast had five husbands: and he whom thou now hast is not thy husband. This thou hast said truly."
+        },
+        {
+          "verse": 19,
+          "text": "The woman saith to him: Sir, I perceive that thou art a prophet."
+        },
+        {
+          "verse": 20,
+          "text": "Our fathers adored on this mountain, and you say *that at Jerusalem is the place where men must adore."
+        },
+        {
+          "verse": 21,
+          "text": "Jesus saith to her: Woman, believe me, that the hour cometh when you shall neither on this mountain, nor in Jerusalem, adore the Father."
+        },
+        {
+          "verse": 22,
+          "text": "*You adore that which you know not: we adore that which we know: for salvation is of the Jews."
+        },
+        {
+          "verse": 23,
+          "text": "But the hour cometh, and now is, when the true adorers shall adore the Father in spirit and in truth. For the Father also seeketh such to adore him."
+        },
+        {
+          "verse": 24,
+          "text": "*God is a spirit, and they that adore him, must adore him in spirit and in truth."
+        },
+        {
+          "verse": 25,
+          "text": "The woman saith to him: I know that the Messias cometh (who is called Christ); therefore when he is come, he will tell us all things."
+        },
+        {
+          "verse": 26,
+          "text": "Jesus saith to her: I am he, who am speaking with thee."
+        },
+        {
+          "verse": 27,
+          "text": "And immediately his disciples came: and they wondered that he talked with the woman. Yet no man said: What seekest thou, or why talkest thou with her?"
+        },
+        {
+          "verse": 28,
+          "text": "The woman, therefore, left her water-pot, and went away into the city, and saith to the men there:"
+        },
+        {
+          "verse": 29,
+          "text": "Come, and see a man who hath told me all things that I have done. Is not he the Christ?"
+        },
+        {
+          "verse": 30,
+          "text": "They went therefore out of the city, and came to him."
+        },
+        {
+          "verse": 31,
+          "text": "In the mean time the disciples prayed him, saying: Rabbi, eat."
+        },
+        {
+          "verse": 32,
+          "text": "But he said to them: I have meat to eat which you know not of."
+        },
+        {
+          "verse": 33,
+          "text": "The disciples, therefore, said one to another: Hath any man brought him any thing to eat?"
+        },
+        {
+          "verse": 34,
+          "text": "Jesus saith to them: My meat is to do the will of him that sent me, that I may perfect his work."
+        },
+        {
+          "verse": 35,
+          "text": "Do not you say, there are yet four months, and then the harvest cometh? Behold I say to you, lift up your eyes, and see the countries, *for they are white already to harvest."
+        },
+        {
+          "verse": 36,
+          "text": "And he that reapeth receiveth wages, and gathereth fruit unto life everlasting: that both he that soweth, and he that reapeth, may rejoice together."
+        },
+        {
+          "verse": 37,
+          "text": "For in this is the saying true: that it is one man that soweth, and it is another that reapeth."
+        },
+        {
+          "verse": 38,
+          "text": "I have sent you to reap that in which you did not labour: others have laboured, and you have entered into their labours."
+        },
+        {
+          "verse": 39,
+          "text": "Now of that city many of the Samaritans believed in him, for the word of the woman giving testimony: that he told me whatsoever I have done."
+        },
+        {
+          "verse": 40,
+          "text": "So when the Samaritans were come to him, they desired that he would stay there. And he staid there two days."
+        },
+        {
+          "verse": 41,
+          "text": "And many more believed in him, because of his own word."
+        },
+        {
+          "verse": 42,
+          "text": "And they said to the woman: We now believe, not for thy saying; for we ourselves have heard him, and know that this is indeed the Saviour of the world."
+        },
+        {
+          "verse": 43,
+          "text": "Now, after two days, he departed thence; and went into Galilee."
+        },
+        {
+          "verse": 44,
+          "text": "*For Jesus himself gave testimony that a prophet hath no honour in his own country."
+        },
+        {
+          "verse": 45,
+          "text": "*Then, when he was come into Galilee, the Galileans received him, having seen all the things he had done at Jerusalem on the festival day: for they also went to the festival day."
+        },
+        {
+          "verse": 46,
+          "text": "He came again, therefore, into Cana of Galilee, *where he made the water wine. And there was a certain ruler whose son was sick at Capharnaum."
+        },
+        {
+          "verse": 47,
+          "text": "He having heard that Jesus was come from Judea into Galilee, went to him, and prayed him to come down and heal his son; for he was at the point of death."
+        },
+        {
+          "verse": 48,
+          "text": "Jesus therefore said to him: Unless you see signs and wonders, you believe not."
+        },
+        {
+          "verse": 49,
+          "text": "The ruler saith to him: Lord, come down before that my son die."
+        },
+        {
+          "verse": 50,
+          "text": "Jesus saith to him: Go thy way; thy son liveth. The man believed the word which Jesus said to him, and went his way."
+        },
+        {
+          "verse": 51,
+          "text": "And as he was going down, his servants met him: and they brought word, saying: that his son lived."
+        },
+        {
+          "verse": 52,
+          "text": "He asked, therefore, of them the hour wherein he grew better. And they said to him: Yesterday, at the seventh hour, the fever left him."
+        },
+        {
+          "verse": 53,
+          "text": "The father, therefore, knew that it was at the same hour that Jesus said to him: Thy son liveth: and himself believed, and his whole house."
+        },
+        {
+          "verse": 54,
+          "text": "This is again the second miracle that Jesus did, when he was come out of Judea into Galilee."
+        }
+      ],
+      "verse_count": 54,
+      "word_count": 1110
+    }
+  ]
+}

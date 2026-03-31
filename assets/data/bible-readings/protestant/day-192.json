@@ -1,0 +1,252 @@
+{
+  "day_number": 192,
+  "references": "1 Samuel 27 • Psalms 150 • Hosea 9 • 1 Timothy 2",
+  "word_count": 1187,
+  "estimated_minutes": 6,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 150:6",
+    "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+    "reflection": "If the day gets scattered, return here and let this verse gather you again."
+  },
+  "tomorrow_teaser": "1 Samuel 28 • Proverbs 1 • Hosea 10 • 1 Timothy 3",
+  "chapters": [
+    {
+      "book": "1 Samuel",
+      "chapter_number": 27,
+      "chapter_title": "1 Samuel 27",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand."
+        },
+        {
+          "verse": 2,
+          "text": "And David arose, and he passed over with the six hundred men that were with him unto Achish, the son of Maoch, king of Gath."
+        },
+        {
+          "verse": 3,
+          "text": "And David dwelt with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal’s wife."
+        },
+        {
+          "verse": 4,
+          "text": "And it was told Saul that David was fled to Gath: and he sought no more again for him."
+        },
+        {
+          "verse": 5,
+          "text": "And David said unto Achish, If I have now found grace in thine eyes, let them give me a place in some town in the country, that I may dwell there: for why should thy servant dwell in the royal city with thee?"
+        },
+        {
+          "verse": 6,
+          "text": "Then Achish gave him Ziklag that day: wherefore Ziklag pertaineth unto the kings of Judah unto this day."
+        },
+        {
+          "verse": 7,
+          "text": "And the time that David dwelt in the country of the Philistines was a full year and four months."
+        },
+        {
+          "verse": 8,
+          "text": "And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those nations were of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt."
+        },
+        {
+          "verse": 9,
+          "text": "And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish."
+        },
+        {
+          "verse": 10,
+          "text": "And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites."
+        },
+        {
+          "verse": 11,
+          "text": "And David saved neither man nor woman alive, to bring tidings to Gath, saying, Lest they should tell on us, saying, So did David, and so will be his manner all the while he dwelleth in the country of the Philistines."
+        },
+        {
+          "verse": 12,
+          "text": "And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 386
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 150,
+      "chapter_title": "Psalms 150",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power."
+        },
+        {
+          "verse": 2,
+          "text": "Praise him for his mighty acts: praise him according to his excellent greatness."
+        },
+        {
+          "verse": 3,
+          "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp."
+        },
+        {
+          "verse": 4,
+          "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs."
+        },
+        {
+          "verse": 5,
+          "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."
+        },
+        {
+          "verse": 6,
+          "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD."
+        }
+      ],
+      "verse_count": 6,
+      "word_count": 85
+    },
+    {
+      "book": "Hosea",
+      "chapter_number": 9,
+      "chapter_title": "Hosea 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor."
+        },
+        {
+          "verse": 2,
+          "text": "The floor and the winepress shall not feed them, and the new wine shall fail in her."
+        },
+        {
+          "verse": 3,
+          "text": "They shall not dwell in the LORD’s land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria."
+        },
+        {
+          "verse": 4,
+          "text": "They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD."
+        },
+        {
+          "verse": 5,
+          "text": "What will ye do in the solemn day, and in the day of the feast of the LORD?"
+        },
+        {
+          "verse": 6,
+          "text": "For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles."
+        },
+        {
+          "verse": 7,
+          "text": "The days of visitation are come, the days of recompence are come; Israel shall know it: the prophet is a fool, the spiritual man is mad, for the multitude of thine iniquity, and the great hatred."
+        },
+        {
+          "verse": 8,
+          "text": "The watchman of Ephraim was with my God: but the prophet is a snare of a fowler in all his ways, and hatred in the house of his God."
+        },
+        {
+          "verse": 9,
+          "text": "They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins."
+        },
+        {
+          "verse": 10,
+          "text": "I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baalpeor, and separated themselves unto that shame; and their abominations were according as they loved."
+        },
+        {
+          "verse": 11,
+          "text": "As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception."
+        },
+        {
+          "verse": 12,
+          "text": "Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them!"
+        },
+        {
+          "verse": 13,
+          "text": "Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer."
+        },
+        {
+          "verse": 14,
+          "text": "Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts."
+        },
+        {
+          "verse": 15,
+          "text": "All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters."
+        },
+        {
+          "verse": 16,
+          "text": "Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb."
+        },
+        {
+          "verse": 17,
+          "text": "My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 469
+    },
+    {
+      "book": "1 Timothy",
+      "chapter_number": 2,
+      "chapter_title": "1 Timothy 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;"
+        },
+        {
+          "verse": 2,
+          "text": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty."
+        },
+        {
+          "verse": 3,
+          "text": "For this is good and acceptable in the sight of God our Saviour;"
+        },
+        {
+          "verse": 4,
+          "text": "Who will have all men to be saved, and to come unto the knowledge of the truth."
+        },
+        {
+          "verse": 5,
+          "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;"
+        },
+        {
+          "verse": 6,
+          "text": "Who gave himself a ransom for all, to be testified in due time."
+        },
+        {
+          "verse": 7,
+          "text": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity."
+        },
+        {
+          "verse": 8,
+          "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting."
+        },
+        {
+          "verse": 9,
+          "text": "In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;"
+        },
+        {
+          "verse": 10,
+          "text": "But (which becometh women professing godliness) with good works."
+        },
+        {
+          "verse": 11,
+          "text": "Let the woman learn in silence with all subjection."
+        },
+        {
+          "verse": 12,
+          "text": "But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence."
+        },
+        {
+          "verse": 13,
+          "text": "For Adam was first formed, then Eve."
+        },
+        {
+          "verse": 14,
+          "text": "And Adam was not deceived, but the woman being deceived was in the transgression."
+        },
+        {
+          "verse": 15,
+          "text": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety."
+        }
+      ],
+      "verse_count": 15,
+      "word_count": 247
+    }
+  ]
+}

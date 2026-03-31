@@ -1,0 +1,512 @@
+{
+  "day_number": 145,
+  "references": "Judges 5 • Psalms 103 • Ezekiel 22 • 1 Corinthians 12",
+  "word_count": 2535,
+  "estimated_minutes": 12,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 103:14",
+    "text": "For he knoweth our frame; he remembereth that we are dust.",
+    "reflection": "Let this verse be the quieter voice that sets the pace for the rest of the day."
+  },
+  "tomorrow_teaser": "Judges 6 • Psalms 104 • Ezekiel 23 • 1 Corinthians 13",
+  "chapters": [
+    {
+      "book": "Judges",
+      "chapter_number": 5,
+      "chapter_title": "Judges 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then sang Deborah and Barak the son of Abinoam on that day, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Praise ye the LORD for the avenging of Israel, when the people willingly offered themselves."
+        },
+        {
+          "verse": 3,
+          "text": "Hear, O ye kings; give ear, O ye princes; I, even I, will sing unto the LORD; I will sing praise to the LORD God of Israel."
+        },
+        {
+          "verse": 4,
+          "text": "LORD, when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water."
+        },
+        {
+          "verse": 5,
+          "text": "The mountains melted from before the LORD, even that Sinai from before the LORD God of Israel."
+        },
+        {
+          "verse": 6,
+          "text": "In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways."
+        },
+        {
+          "verse": 7,
+          "text": "The inhabitants of the villages ceased, they ceased in Israel, until that I Deborah arose, that I arose a mother in Israel."
+        },
+        {
+          "verse": 8,
+          "text": "They chose new gods; then was war in the gates: was there a shield or spear seen among forty thousand in Israel?"
+        },
+        {
+          "verse": 9,
+          "text": "My heart is toward the governors of Israel, that offered themselves willingly among the people. Bless ye the LORD."
+        },
+        {
+          "verse": 10,
+          "text": "Speak, ye that ride on white asses, ye that sit in judgment, and walk by the way."
+        },
+        {
+          "verse": 11,
+          "text": "They that are delivered from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the LORD, even the righteous acts toward the inhabitants of his villages in Israel: then shall the people of the LORD go down to the gates."
+        },
+        {
+          "verse": 12,
+          "text": "Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam."
+        },
+        {
+          "verse": 13,
+          "text": "Then he made him that remaineth have dominion over the nobles among the people: the LORD made me have dominion over the mighty."
+        },
+        {
+          "verse": 14,
+          "text": "Out of Ephraim was there a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer."
+        },
+        {
+          "verse": 15,
+          "text": "And the princes of Issachar were with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben there were great thoughts of heart."
+        },
+        {
+          "verse": 16,
+          "text": "Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great searchings of heart."
+        },
+        {
+          "verse": 17,
+          "text": "Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches."
+        },
+        {
+          "verse": 18,
+          "text": "Zebulun and Naphtali were a people that jeoparded their lives unto the death in the high places of the field."
+        },
+        {
+          "verse": 19,
+          "text": "The kings came and fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money."
+        },
+        {
+          "verse": 20,
+          "text": "They fought from heaven; the stars in their courses fought against Sisera."
+        },
+        {
+          "verse": 21,
+          "text": "The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength."
+        },
+        {
+          "verse": 22,
+          "text": "Then were the horsehoofs broken by the means of the pransings, the pransings of their mighty ones."
+        },
+        {
+          "verse": 23,
+          "text": "Curse ye Meroz, said the angel of the LORD, curse ye bitterly the inhabitants thereof; because they came not to the help of the LORD, to the help of the LORD against the mighty."
+        },
+        {
+          "verse": 24,
+          "text": "Blessed above women shall Jael the wife of Heber the Kenite be, blessed shall she be above women in the tent."
+        },
+        {
+          "verse": 25,
+          "text": "He asked water, and she gave him milk; she brought forth butter in a lordly dish."
+        },
+        {
+          "verse": 26,
+          "text": "She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples."
+        },
+        {
+          "verse": 27,
+          "text": "At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell: where he bowed, there he fell down dead."
+        },
+        {
+          "verse": 28,
+          "text": "The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot so long in coming? why tarry the wheels of his chariots?"
+        },
+        {
+          "verse": 29,
+          "text": "Her wise ladies answered her, yea, she returned answer to herself,"
+        },
+        {
+          "verse": 30,
+          "text": "Have they not sped? have they not divided the prey; to every man a damsel or two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, meet for the necks of them that take the spoil?"
+        },
+        {
+          "verse": 31,
+          "text": "So let all thine enemies perish, O LORD: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 756
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 103,
+      "chapter_title": "Psalms 103",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name."
+        },
+        {
+          "verse": 2,
+          "text": "Bless the LORD, O my soul, and forget not all his benefits:"
+        },
+        {
+          "verse": 3,
+          "text": "Who forgiveth all thine iniquities; who healeth all thy diseases;"
+        },
+        {
+          "verse": 4,
+          "text": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;"
+        },
+        {
+          "verse": 5,
+          "text": "Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s."
+        },
+        {
+          "verse": 6,
+          "text": "The LORD executeth righteousness and judgment for all that are oppressed."
+        },
+        {
+          "verse": 7,
+          "text": "He made known his ways unto Moses, his acts unto the children of Israel."
+        },
+        {
+          "verse": 8,
+          "text": "The LORD is merciful and gracious, slow to anger, and plenteous in mercy."
+        },
+        {
+          "verse": 9,
+          "text": "He will not always chide: neither will he keep his anger for ever."
+        },
+        {
+          "verse": 10,
+          "text": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities."
+        },
+        {
+          "verse": 11,
+          "text": "For as the heaven is high above the earth, so great is his mercy toward them that fear him."
+        },
+        {
+          "verse": 12,
+          "text": "As far as the east is from the west, so far hath he removed our transgressions from us."
+        },
+        {
+          "verse": 13,
+          "text": "Like as a father pitieth his children, so the LORD pitieth them that fear him."
+        },
+        {
+          "verse": 14,
+          "text": "For he knoweth our frame; he remembereth that we are dust."
+        },
+        {
+          "verse": 15,
+          "text": "As for man, his days are as grass: as a flower of the field, so he flourisheth."
+        },
+        {
+          "verse": 16,
+          "text": "For the wind passeth over it, and it is gone; and the place thereof shall know it no more."
+        },
+        {
+          "verse": 17,
+          "text": "But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;"
+        },
+        {
+          "verse": 18,
+          "text": "To such as keep his covenant, and to those that remember his commandments to do them."
+        },
+        {
+          "verse": 19,
+          "text": "The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all."
+        },
+        {
+          "verse": 20,
+          "text": "Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word."
+        },
+        {
+          "verse": 21,
+          "text": "Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure."
+        },
+        {
+          "verse": 22,
+          "text": "Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 344
+    },
+    {
+      "book": "Ezekiel",
+      "chapter_number": 22,
+      "chapter_title": "Ezekiel 22",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Moreover the word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Now, thou son of man, wilt thou judge, wilt thou judge the bloody city? yea, thou shalt shew her all her abominations."
+        },
+        {
+          "verse": 3,
+          "text": "Then say thou, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself."
+        },
+        {
+          "verse": 4,
+          "text": "Thou art become guilty in thy blood that thou hast shed; and hast defiled thyself in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come even unto thy years: therefore have I made thee a reproach unto the heathen, and a mocking to all countries."
+        },
+        {
+          "verse": 5,
+          "text": "Those that be near, and those that be far from thee, shall mock thee, which art infamous and much vexed."
+        },
+        {
+          "verse": 6,
+          "text": "Behold, the princes of Israel, every one were in thee to their power to shed blood."
+        },
+        {
+          "verse": 7,
+          "text": "In thee have they set light by father and mother: in the midst of thee have they dealt by oppression with the stranger: in thee have they vexed the fatherless and the widow."
+        },
+        {
+          "verse": 8,
+          "text": "Thou hast despised mine holy things, and hast profaned my sabbaths."
+        },
+        {
+          "verse": 9,
+          "text": "In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness."
+        },
+        {
+          "verse": 10,
+          "text": "In thee have they discovered their fathers’ nakedness: in thee have they humbled her that was set apart for pollution."
+        },
+        {
+          "verse": 11,
+          "text": "And one hath committed abomination with his neighbour’s wife; and another hath lewdly defiled his daughter in law; and another in thee hath humbled his sister, his father’s daughter."
+        },
+        {
+          "verse": 12,
+          "text": "In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord GOD."
+        },
+        {
+          "verse": 13,
+          "text": "Behold, therefore I have smitten mine hand at thy dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee."
+        },
+        {
+          "verse": 14,
+          "text": "Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the LORD have spoken it, and will do it."
+        },
+        {
+          "verse": 15,
+          "text": "And I will scatter thee among the heathen, and disperse thee in the countries, and will consume thy filthiness out of thee."
+        },
+        {
+          "verse": 16,
+          "text": "And thou shalt take thine inheritance in thyself in the sight of the heathen, and thou shalt know that I am the LORD."
+        },
+        {
+          "verse": 17,
+          "text": "And the word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 18,
+          "text": "Son of man, the house of Israel is to me become dross: all they are brass, and tin, and iron, and lead, in the midst of the furnace; they are even the dross of silver."
+        },
+        {
+          "verse": 19,
+          "text": "Therefore thus saith the Lord GOD; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem."
+        },
+        {
+          "verse": 20,
+          "text": "As they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt it; so will I gather you in mine anger and in my fury, and I will leave you there, and melt you."
+        },
+        {
+          "verse": 21,
+          "text": "Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof."
+        },
+        {
+          "verse": 22,
+          "text": "As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I the LORD have poured out my fury upon you."
+        },
+        {
+          "verse": 23,
+          "text": "And the word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 24,
+          "text": "Son of man, say unto her, Thou art the land that is not cleansed, nor rained upon in the day of indignation."
+        },
+        {
+          "verse": 25,
+          "text": "There is a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls; they have taken the treasure and precious things; they have made her many widows in the midst thereof."
+        },
+        {
+          "verse": 26,
+          "text": "Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them."
+        },
+        {
+          "verse": 27,
+          "text": "Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain."
+        },
+        {
+          "verse": 28,
+          "text": "And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord GOD, when the LORD hath not spoken."
+        },
+        {
+          "verse": 29,
+          "text": "The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully."
+        },
+        {
+          "verse": 30,
+          "text": "And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none."
+        },
+        {
+          "verse": 31,
+          "text": "Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord GOD."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 842
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter_number": 12,
+      "chapter_title": "1 Corinthians 12",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now concerning spiritual gifts, brethren, I would not have you ignorant."
+        },
+        {
+          "verse": 2,
+          "text": "Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led."
+        },
+        {
+          "verse": 3,
+          "text": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost."
+        },
+        {
+          "verse": 4,
+          "text": "Now there are diversities of gifts, but the same Spirit."
+        },
+        {
+          "verse": 5,
+          "text": "And there are differences of administrations, but the same Lord."
+        },
+        {
+          "verse": 6,
+          "text": "And there are diversities of operations, but it is the same God which worketh all in all."
+        },
+        {
+          "verse": 7,
+          "text": "But the manifestation of the Spirit is given to every man to profit withal."
+        },
+        {
+          "verse": 8,
+          "text": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;"
+        },
+        {
+          "verse": 9,
+          "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;"
+        },
+        {
+          "verse": 10,
+          "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:"
+        },
+        {
+          "verse": 11,
+          "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will."
+        },
+        {
+          "verse": 12,
+          "text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ."
+        },
+        {
+          "verse": 13,
+          "text": "For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit."
+        },
+        {
+          "verse": 14,
+          "text": "For the body is not one member, but many."
+        },
+        {
+          "verse": 15,
+          "text": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?"
+        },
+        {
+          "verse": 16,
+          "text": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?"
+        },
+        {
+          "verse": 17,
+          "text": "If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?"
+        },
+        {
+          "verse": 18,
+          "text": "But now hath God set the members every one of them in the body, as it hath pleased him."
+        },
+        {
+          "verse": 19,
+          "text": "And if they were all one member, where were the body?"
+        },
+        {
+          "verse": 20,
+          "text": "But now are they many members, yet but one body."
+        },
+        {
+          "verse": 21,
+          "text": "And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you."
+        },
+        {
+          "verse": 22,
+          "text": "Nay, much more those members of the body, which seem to be more feeble, are necessary:"
+        },
+        {
+          "verse": 23,
+          "text": "And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness."
+        },
+        {
+          "verse": 24,
+          "text": "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:"
+        },
+        {
+          "verse": 25,
+          "text": "That there should be no schism in the body; but that the members should have the same care one for another."
+        },
+        {
+          "verse": 26,
+          "text": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it."
+        },
+        {
+          "verse": 27,
+          "text": "Now ye are the body of Christ, and members in particular."
+        },
+        {
+          "verse": 28,
+          "text": "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues."
+        },
+        {
+          "verse": 29,
+          "text": "Are all apostles? are all prophets? are all teachers? are all workers of miracles?"
+        },
+        {
+          "verse": 30,
+          "text": "Have all the gifts of healing? do all speak with tongues? do all interpret?"
+        },
+        {
+          "verse": 31,
+          "text": "But covet earnestly the best gifts: and yet shew I unto you a more excellent way."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 593
+    }
+  ]
+}

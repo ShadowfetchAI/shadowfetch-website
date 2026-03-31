@@ -1,0 +1,573 @@
+{
+  "day_number": 57,
+  "references": "Leviticus 23-24 • Psalms 15 • Isaiah 57 • Luke 13",
+  "word_count": 3309,
+  "estimated_minutes": 16,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 15:1",
+    "text": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+    "reflection": "This verse is a good place to begin when you need calm before clarity."
+  },
+  "tomorrow_teaser": "Leviticus 25-26 • Psalms 16 • Isaiah 58 • Luke 14",
+  "chapters": [
+    {
+      "book": "Leviticus",
+      "chapter_number": 23,
+      "chapter_title": "Leviticus 23",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto the children of Israel, and say unto them, Concerning the feasts of the LORD, which ye shall proclaim to be holy convocations, even these are my feasts."
+        },
+        {
+          "verse": 3,
+          "text": "Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the LORD in all your dwellings."
+        },
+        {
+          "verse": 4,
+          "text": "These are the feasts of the LORD, even holy convocations, which ye shall proclaim in their seasons."
+        },
+        {
+          "verse": 5,
+          "text": "In the fourteenth day of the first month at even is the LORD’s passover."
+        },
+        {
+          "verse": 6,
+          "text": "And on the fifteenth day of the same month is the feast of unleavened bread unto the LORD: seven days ye must eat unleavened bread."
+        },
+        {
+          "verse": 7,
+          "text": "In the first day ye shall have an holy convocation: ye shall do no servile work therein."
+        },
+        {
+          "verse": 8,
+          "text": "But ye shall offer an offering made by fire unto the LORD seven days: in the seventh day is an holy convocation: ye shall do no servile work therein."
+        },
+        {
+          "verse": 9,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 10,
+          "text": "Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:"
+        },
+        {
+          "verse": 11,
+          "text": "And he shall wave the sheaf before the LORD, to be accepted for you: on the morrow after the sabbath the priest shall wave it."
+        },
+        {
+          "verse": 12,
+          "text": "And ye shall offer that day when ye wave the sheaf an he lamb without blemish of the first year for a burnt offering unto the LORD."
+        },
+        {
+          "verse": 13,
+          "text": "And the meat offering thereof shall be two tenth deals of fine flour mingled with oil, an offering made by fire unto the LORD for a sweet savour: and the drink offering thereof shall be of wine, the fourth part of an hin."
+        },
+        {
+          "verse": 14,
+          "text": "And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: it shall be a statute for ever throughout your generations in all your dwellings."
+        },
+        {
+          "verse": 15,
+          "text": "And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:"
+        },
+        {
+          "verse": 16,
+          "text": "Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD."
+        },
+        {
+          "verse": 17,
+          "text": "Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; they are the firstfruits unto the LORD."
+        },
+        {
+          "verse": 18,
+          "text": "And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be for a burnt offering unto the LORD, with their meat offering, and their drink offerings, even an offering made by fire, of sweet savour unto the LORD."
+        },
+        {
+          "verse": 19,
+          "text": "Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings."
+        },
+        {
+          "verse": 20,
+          "text": "And the priest shall wave them with the bread of the firstfruits for a wave offering before the LORD, with the two lambs: they shall be holy to the LORD for the priest."
+        },
+        {
+          "verse": 21,
+          "text": "And ye shall proclaim on the selfsame day, that it may be an holy convocation unto you: ye shall do no servile work therein: it shall be a statute for ever in all your dwellings throughout your generations."
+        },
+        {
+          "verse": 22,
+          "text": "And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I am the LORD your God."
+        },
+        {
+          "verse": 23,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 24,
+          "text": "Speak unto the children of Israel, saying, In the seventh month, in the first day of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation."
+        },
+        {
+          "verse": 25,
+          "text": "Ye shall do no servile work therein: but ye shall offer an offering made by fire unto the LORD."
+        },
+        {
+          "verse": 26,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 27,
+          "text": "Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD."
+        },
+        {
+          "verse": 28,
+          "text": "And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the LORD your God."
+        },
+        {
+          "verse": 29,
+          "text": "For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off from among his people."
+        },
+        {
+          "verse": 30,
+          "text": "And whatsoever soul it be that doeth any work in that same day, the same soul will I destroy from among his people."
+        },
+        {
+          "verse": 31,
+          "text": "Ye shall do no manner of work: it shall be a statute for ever throughout your generations in all your dwellings."
+        },
+        {
+          "verse": 32,
+          "text": "It shall be unto you a sabbath of rest, and ye shall afflict your souls: in the ninth day of the month at even, from even unto even, shall ye celebrate your sabbath."
+        },
+        {
+          "verse": 33,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 34,
+          "text": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month shall be the feast of tabernacles for seven days unto the LORD."
+        },
+        {
+          "verse": 35,
+          "text": "On the first day shall be an holy convocation: ye shall do no servile work therein."
+        },
+        {
+          "verse": 36,
+          "text": "Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it is a solemn assembly; and ye shall do no servile work therein."
+        },
+        {
+          "verse": 37,
+          "text": "These are the feasts of the LORD, which ye shall proclaim to be holy convocations, to offer an offering made by fire unto the LORD, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:"
+        },
+        {
+          "verse": 38,
+          "text": "Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the LORD."
+        },
+        {
+          "verse": 39,
+          "text": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the LORD seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath."
+        },
+        {
+          "verse": 40,
+          "text": "And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days."
+        },
+        {
+          "verse": 41,
+          "text": "And ye shall keep it a feast unto the LORD seven days in the year. It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month."
+        },
+        {
+          "verse": 42,
+          "text": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:"
+        },
+        {
+          "verse": 43,
+          "text": "That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I am the LORD your God."
+        },
+        {
+          "verse": 44,
+          "text": "And Moses declared unto the children of Israel the feasts of the LORD."
+        }
+      ],
+      "verse_count": 44,
+      "word_count": 1223
+    },
+    {
+      "book": "Leviticus",
+      "chapter_number": 24,
+      "chapter_title": "Leviticus 24",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually."
+        },
+        {
+          "verse": 3,
+          "text": "Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the LORD continually: it shall be a statute for ever in your generations."
+        },
+        {
+          "verse": 4,
+          "text": "He shall order the lamps upon the pure candlestick before the LORD continually."
+        },
+        {
+          "verse": 5,
+          "text": "And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake."
+        },
+        {
+          "verse": 6,
+          "text": "And thou shalt set them in two rows, six on a row, upon the pure table before the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "And thou shalt put pure frankincense upon each row, that it may be on the bread for a memorial, even an offering made by fire unto the LORD."
+        },
+        {
+          "verse": 8,
+          "text": "Every sabbath he shall set it in order before the LORD continually, being taken from the children of Israel by an everlasting covenant."
+        },
+        {
+          "verse": 9,
+          "text": "And it shall be Aaron’s and his sons’; and they shall eat it in the holy place: for it is most holy unto him of the offerings of the LORD made by fire by a perpetual statute."
+        },
+        {
+          "verse": 10,
+          "text": "And the son of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel: and this son of the Israelitish woman and a man of Israel strove together in the camp;"
+        },
+        {
+          "verse": 11,
+          "text": "And the Israelitish woman’s son blasphemed the name of the Lord, and cursed. And they brought him unto Moses: (and his mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan:)"
+        },
+        {
+          "verse": 12,
+          "text": "And they put him in ward, that the mind of the LORD might be shewed them."
+        },
+        {
+          "verse": 13,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 14,
+          "text": "Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him."
+        },
+        {
+          "verse": 15,
+          "text": "And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin."
+        },
+        {
+          "verse": 16,
+          "text": "And he that blasphemeth the name of the LORD, he shall surely be put to death, and all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name of the Lord, shall be put to death."
+        },
+        {
+          "verse": 17,
+          "text": "And he that killeth any man shall surely be put to death."
+        },
+        {
+          "verse": 18,
+          "text": "And he that killeth a beast shall make it good; beast for beast."
+        },
+        {
+          "verse": 19,
+          "text": "And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him;"
+        },
+        {
+          "verse": 20,
+          "text": "Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him again."
+        },
+        {
+          "verse": 21,
+          "text": "And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death."
+        },
+        {
+          "verse": 22,
+          "text": "Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I am the LORD your God."
+        },
+        {
+          "verse": 23,
+          "text": "And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the LORD commanded Moses."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 554
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 15,
+      "chapter_title": "Psalms 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
+        },
+        {
+          "verse": 2,
+          "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart."
+        },
+        {
+          "verse": 3,
+          "text": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour."
+        },
+        {
+          "verse": 4,
+          "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not."
+        },
+        {
+          "verse": 5,
+          "text": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved."
+        }
+      ],
+      "verse_count": 5,
+      "word_count": 99
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 57,
+      "chapter_title": "Isaiah 57",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come."
+        },
+        {
+          "verse": 2,
+          "text": "He shall enter into peace: they shall rest in their beds, each one walking in his uprightness."
+        },
+        {
+          "verse": 3,
+          "text": "But draw near hither, ye sons of the sorceress, the seed of the adulterer and the whore."
+        },
+        {
+          "verse": 4,
+          "text": "Against whom do ye sport yourselves? against whom make ye a wide mouth, and draw out the tongue? are ye not children of transgression, a seed of falsehood,"
+        },
+        {
+          "verse": 5,
+          "text": "Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?"
+        },
+        {
+          "verse": 6,
+          "text": "Among the smooth stones of the stream is thy portion; they, they are thy lot: even to them hast thou poured a drink offering, thou hast offered a meat offering. Should I receive comfort in these?"
+        },
+        {
+          "verse": 7,
+          "text": "Upon a lofty and high mountain hast thou set thy bed: even thither wentest thou up to offer sacrifice."
+        },
+        {
+          "verse": 8,
+          "text": "Behind the doors also and the posts hast thou set up thy remembrance: for thou hast discovered thyself to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them; thou lovedst their bed where thou sawest it."
+        },
+        {
+          "verse": 9,
+          "text": "And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase thyself even unto hell."
+        },
+        {
+          "verse": 10,
+          "text": "Thou art wearied in the greatness of thy way; yet saidst thou not, There is no hope: thou hast found the life of thine hand; therefore thou wast not grieved."
+        },
+        {
+          "verse": 11,
+          "text": "And of whom hast thou been afraid or feared, that thou hast lied, and hast not remembered me, nor laid it to thy heart? have not I held my peace even of old, and thou fearest me not?"
+        },
+        {
+          "verse": 12,
+          "text": "I will declare thy righteousness, and thy works; for they shall not profit thee."
+        },
+        {
+          "verse": 13,
+          "text": "When thou criest, let thy companies deliver thee; but the wind shall carry them all away; vanity shall take them: but he that putteth his trust in me shall possess the land, and shall inherit my holy mountain;"
+        },
+        {
+          "verse": 14,
+          "text": "And shall say, Cast ye up, cast ye up, prepare the way, take up the stumblingblock out of the way of my people."
+        },
+        {
+          "verse": 15,
+          "text": "For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones."
+        },
+        {
+          "verse": 16,
+          "text": "For I will not contend for ever, neither will I be always wroth: for the spirit should fail before me, and the souls which I have made."
+        },
+        {
+          "verse": 17,
+          "text": "For the iniquity of his covetousness was I wroth, and smote him: I hid me, and was wroth, and he went on frowardly in the way of his heart."
+        },
+        {
+          "verse": 18,
+          "text": "I have seen his ways, and will heal him: I will lead him also, and restore comforts unto him and to his mourners."
+        },
+        {
+          "verse": 19,
+          "text": "I create the fruit of the lips; Peace, peace to him that is far off, and to him that is near, saith the LORD; and I will heal him."
+        },
+        {
+          "verse": 20,
+          "text": "But the wicked are like the troubled sea, when it cannot rest, whose waters cast up mire and dirt."
+        },
+        {
+          "verse": 21,
+          "text": "There is no peace, saith my God, to the wicked."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 569
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 13,
+      "chapter_title": "Luke 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices."
+        },
+        {
+          "verse": 2,
+          "text": "And Jesus answering said unto them, Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things?"
+        },
+        {
+          "verse": 3,
+          "text": "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
+        },
+        {
+          "verse": 4,
+          "text": "Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem?"
+        },
+        {
+          "verse": 5,
+          "text": "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
+        },
+        {
+          "verse": 6,
+          "text": "He spake also this parable; A certain man had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none."
+        },
+        {
+          "verse": 7,
+          "text": "Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?"
+        },
+        {
+          "verse": 8,
+          "text": "And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung it:"
+        },
+        {
+          "verse": 9,
+          "text": "And if it bear fruit, well: and if not, then after that thou shalt cut it down."
+        },
+        {
+          "verse": 10,
+          "text": "And he was teaching in one of the synagogues on the sabbath."
+        },
+        {
+          "verse": 11,
+          "text": "And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up herself."
+        },
+        {
+          "verse": 12,
+          "text": "And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity."
+        },
+        {
+          "verse": 13,
+          "text": "And he laid his hands on her: and immediately she was made straight, and glorified God."
+        },
+        {
+          "verse": 14,
+          "text": "And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day."
+        },
+        {
+          "verse": 15,
+          "text": "The Lord then answered him, and said, Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?"
+        },
+        {
+          "verse": 16,
+          "text": "And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?"
+        },
+        {
+          "verse": 17,
+          "text": "And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him."
+        },
+        {
+          "verse": 18,
+          "text": "Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?"
+        },
+        {
+          "verse": 19,
+          "text": "It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it."
+        },
+        {
+          "verse": 20,
+          "text": "And again he said, Whereunto shall I liken the kingdom of God?"
+        },
+        {
+          "verse": 21,
+          "text": "It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened."
+        },
+        {
+          "verse": 22,
+          "text": "And he went through the cities and villages, teaching, and journeying toward Jerusalem."
+        },
+        {
+          "verse": 23,
+          "text": "Then said one unto him, Lord, are there few that be saved? And he said unto them,"
+        },
+        {
+          "verse": 24,
+          "text": "Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able."
+        },
+        {
+          "verse": 25,
+          "text": "When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:"
+        },
+        {
+          "verse": 26,
+          "text": "Then shall ye begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets."
+        },
+        {
+          "verse": 27,
+          "text": "But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity."
+        },
+        {
+          "verse": 28,
+          "text": "There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out."
+        },
+        {
+          "verse": 29,
+          "text": "And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the kingdom of God."
+        },
+        {
+          "verse": 30,
+          "text": "And, behold, there are last which shall be first, and there are first which shall be last."
+        },
+        {
+          "verse": 31,
+          "text": "The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee."
+        },
+        {
+          "verse": 32,
+          "text": "And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected."
+        },
+        {
+          "verse": 33,
+          "text": "Nevertheless I must walk to day, and to morrow, and the day following: for it cannot be that a prophet perish out of Jerusalem."
+        },
+        {
+          "verse": 34,
+          "text": "O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!"
+        },
+        {
+          "verse": 35,
+          "text": "Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 864
+    }
+  ]
+}

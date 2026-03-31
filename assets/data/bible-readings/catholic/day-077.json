@@ -1,0 +1,701 @@
+{
+  "day_number": 77,
+  "references": "Deuteronomy 1-2 • Psalms 35 • Jeremias 11 • John 9",
+  "word_count": 4041,
+  "estimated_minutes": 19,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 35:1",
+    "text": "Unto the end, for the servant of God, David himself.",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "Deuteronomy 3-4 • Psalms 36 • Jeremias 12 • John 10",
+  "chapters": [
+    {
+      "book": "Deuteronomy",
+      "chapter_number": 1,
+      "chapter_title": "Deuteronomy 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "These are the words, which Moses spoke to all Israel beyond the Jordan, in the plain wilderness, over-against the Red Sea, between Pharan and Thophel, and Laban and Haseroth, where there is very much gold:"
+        },
+        {
+          "verse": 2,
+          "text": "Eleven days' journey from Horeb, by the way of Mount Seir, to Cades-barne."
+        },
+        {
+          "verse": 3,
+          "text": "*In the fortieth year, the eleventh month, the first day of the month, Moses spoke to the children of Israel, all that the Lord had commanded him to say to them:"
+        },
+        {
+          "verse": 4,
+          "text": "*After that he had slain Sehon, king of the Amorrhites, who dwelt in Hesebon: and Og, king of Basan, who abode in Astaroth, and in Edrai,"
+        },
+        {
+          "verse": 5,
+          "text": "Beyond the Jordan in the land of Moab. And Moses began to expound the law, and to say:"
+        },
+        {
+          "verse": 6,
+          "text": "The Lord our God spoke to us in Horeb, saying: You have stayed long enough in this mountain:"
+        },
+        {
+          "verse": 7,
+          "text": "Turn you, and come to the mountain of the Amorrhites, and to the other places that are next to it, the plains, and the hills, and the vales, towards the south, and by the sea shore, the land of the Chanaanites, and of Libanus, as far as the great river Euphrates."
+        },
+        {
+          "verse": 8,
+          "text": "Behold, said he, I have delivered it to you: go in and possess it, concerning which the Lord swore to your fathers, Abraham, Isaac, and Jacob, that he would give it to them, and to their seed after them."
+        },
+        {
+          "verse": 9,
+          "text": "And I said to you at that time:"
+        },
+        {
+          "verse": 10,
+          "text": "*I alone am not able to bear you: for the Lord your God hath multiplied you, and you are this day as the stars of heaven, for multitude."
+        },
+        {
+          "verse": 11,
+          "text": "(The Lord God of your fathers add to this number many thousands, and bless you as he hath spoken.)"
+        },
+        {
+          "verse": 12,
+          "text": "I alone am not able to bear your business, and the charge of you and your differences."
+        },
+        {
+          "verse": 13,
+          "text": "Let me have from among you wise and understanding men, and such whose conversation is approved among your tribes, that I may appoint them your rulers."
+        },
+        {
+          "verse": 14,
+          "text": "Then you answered me: The thing is good which thou meanest to do."
+        },
+        {
+          "verse": 15,
+          "text": "And I took out of your tribes men wise and honourable, and appointed them rulers, tribunes, and centurions, and officers over fifties, and over tens, who might teach you all things."
+        },
+        {
+          "verse": 16,
+          "text": "And I commanded them, saying: Hear them, and judge that which is just: *whether he be one of your country, or a stranger."
+        },
+        {
+          "verse": 17,
+          "text": "*There shall be no difference of persons, you shall hear the little as well as the great: neither shall you respect any man's person, because it is the judgment of God. And if any thing seem hard to you, refer it to me, and I will hear it."
+        },
+        {
+          "verse": 18,
+          "text": "And I commanded you all things that you were to do."
+        },
+        {
+          "verse": 19,
+          "text": "And departing from Horeb, we passed through the terrible and vast wilderness, which you saw, by the way of the mountain of the Amorrhite, as the Lord our God had commanded us. And when we were come into Cades-barne,"
+        },
+        {
+          "verse": 20,
+          "text": "I said to you: You are come to the mountain of the Amorrhite, which the Lord our God will give to us."
+        },
+        {
+          "verse": 21,
+          "text": "See the land which the Lord thy God giveth thee: go up and possess it, as the Lord our God hath spoken to thy fathers: fear not, nor be any way discouraged."
+        },
+        {
+          "verse": 22,
+          "text": "*And you came all to me, and said: Let us send men who may view the land, and bring us word what way we shall go up, and to what cities we shall go."
+        },
+        {
+          "verse": 23,
+          "text": "And because the saying pleased me, I sent of you twelve men, one of every tribe:"
+        },
+        {
+          "verse": 24,
+          "text": "Who, when they had set forward, and had gone up to the mountains, came as far as the valley of the cluster: and having viewed the land,"
+        },
+        {
+          "verse": 25,
+          "text": "Taking of the fruits thereof, to shew its fertility, they brought them to us, and said: The land is good, which the Lord our God will give us."
+        },
+        {
+          "verse": 26,
+          "text": "And you would not go up, but being incredulous to the word of the Lord our God,"
+        },
+        {
+          "verse": 27,
+          "text": "You murmured in your tents, and said: The Lord hateth us, and therefore he hath brought us out of the land of Egypt, that he might deliver us into the hand of the Amorrhite, and destroy us."
+        },
+        {
+          "verse": 28,
+          "text": "Whither shall we go up? the messengers have terrified our hearts, saying: The multitude is very great, and taller than we: the cities are great, and walled up to the sky, we have seen the sons of the Enacims there."
+        },
+        {
+          "verse": 29,
+          "text": "And I said to you: Fear not, neither be ye afraid of them:"
+        },
+        {
+          "verse": 30,
+          "text": "The Lord God, who is your leader, himself will fight for you, as he did in Egypt in the sight of all."
+        },
+        {
+          "verse": 31,
+          "text": "And in the wilderness (as thou hast seen) the Lord thy God hath carried thee, as a man is wont to carry his little son, all the way that you have come, until you came to this place."
+        },
+        {
+          "verse": 32,
+          "text": "And yet for all this you did not believe the Lord your God,"
+        },
+        {
+          "verse": 33,
+          "text": "*Who went before you in the way, and marked out the place wherein you should pitch your tents, in the night shewing you the way by fire, and in the day by the pillar of a cloud."
+        },
+        {
+          "verse": 34,
+          "text": "And when the Lord had heard the voice of your words, he was angry and swore, and said:"
+        },
+        {
+          "verse": 35,
+          "text": "*Not one of the men of this wicked generation shall see the good land, which I promised with an oath to your fathers:"
+        },
+        {
+          "verse": 36,
+          "text": "Except Caleb, the son of Jephone: for he shall see it, and to him I will give the land, that he hath trodden upon, and to his children, because he hath followed the Lord."
+        },
+        {
+          "verse": 37,
+          "text": "Neither is his indignation against the people to be wondered at, since the Lord was angry with me also on your account, and said: Neither shalt thou go in thither."
+        },
+        {
+          "verse": 38,
+          "text": "But Josue, the son of Nun, thy minister, he shall go in for thee: exhort and encourage him, and he shall divide the land by lot to Israel."
+        },
+        {
+          "verse": 39,
+          "text": "Your children, of whom you said that they should be led away captives, and your sons, who know not this day the difference of good and evil, they shall go in: and to them I will give the land, and they shall possess it."
+        },
+        {
+          "verse": 40,
+          "text": "But return you and go into the wilderness by the way of the Red Sea."
+        },
+        {
+          "verse": 41,
+          "text": "*And you answered me: We have sinned against the Lord: we will go up and fight, as the Lord our God hath commanded. And when you went ready armed unto the mountain,"
+        },
+        {
+          "verse": 42,
+          "text": "The Lord said to me: Say to them: *Go not up, and fight not, for I am not with you: lest you fall before your enemies."
+        },
+        {
+          "verse": 43,
+          "text": "I spoke, and you hearkened not: but resisting the commandment of the Lord, and swelling with pride, you went up into the mountain."
+        },
+        {
+          "verse": 44,
+          "text": "And the Amorrhite that dwelt in the mountains, coming out, and meeting you, chased you, as bees do: and made slaughter of you from Seir as far as Horma."
+        },
+        {
+          "verse": 45,
+          "text": "And when you returned and wept before the Lord, he heard you not, neither would he yield to your voice."
+        },
+        {
+          "verse": 46,
+          "text": "So you abode in Cades-barne a long time."
+        }
+      ],
+      "verse_count": 46,
+      "word_count": 1200
+    },
+    {
+      "book": "Deuteronomy",
+      "chapter_number": 2,
+      "chapter_title": "Deuteronomy 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And departing from thence we, came into the wilderness, that leadeth to the Red Sea, as the Lord had spoken to me: and we compassed Mount Seir a long time."
+        },
+        {
+          "verse": 2,
+          "text": "And the Lord said to me:"
+        },
+        {
+          "verse": 3,
+          "text": "You have compassed this mountain long enough: go towards the north:"
+        },
+        {
+          "verse": 4,
+          "text": "And command thou the people, saying: You shall pass by the borders of your brethren the children of Esau, who dwell in Seir, and they will be afraid of you."
+        },
+        {
+          "verse": 5,
+          "text": "Take ye then good heed that you stir not against them: For I will not give you of their land so much as the step of one foot can tread upon, because I have given Mount Seir to Esau, for a possession."
+        },
+        {
+          "verse": 6,
+          "text": "You shall buy meats of them for money, and shall eat: you shall draw water for money, and shall drink."
+        },
+        {
+          "verse": 7,
+          "text": "The Lord thy God hath blessed thee in every work of thy hands: the Lord thy God dwelling with thee, knoweth thy journey, how thou hast passed through this great wilderness for forty years, and thou hast wanted nothing."
+        },
+        {
+          "verse": 8,
+          "text": "And when we had passed by our brethren, the children of Esau, that dwelt in Seir, by the way of the plain from Elath, and from Asiongaber, we came to the way that leadeth to the desert of Moab."
+        },
+        {
+          "verse": 9,
+          "text": "And the Lord said to me: *Fight not against the Moabites, neither go to battle against them: for I will not give thee any of their land, because I have given Ar to the children of Lot in possession."
+        },
+        {
+          "verse": 10,
+          "text": "The Emims first were the inhabitants thereof, a people great, and strong, and so tall, that like the race of the Enacims,"
+        },
+        {
+          "verse": 11,
+          "text": "They were esteemed as giants, and were like the sons of the Enacims. But the Moabites call them Emims."
+        },
+        {
+          "verse": 12,
+          "text": "The Horrhites also formerly dwelt in Seir: who being driven out and destroyed, the children of Esau dwelt there, as Israel did in the land of his possession, which the Lord gave him."
+        },
+        {
+          "verse": 13,
+          "text": "Then rising up to pass the torrent Zared, we came to it."
+        },
+        {
+          "verse": 14,
+          "text": "And the time that we journeyed from Cades-barne till we passed over the torrent Zared, was thirty-eight years: until all the generation of the men that were fit for war was consumed out of the camp, as the Lord had sworn:"
+        },
+        {
+          "verse": 15,
+          "text": "For his hand was against them, that they should perish from the midst of the camp."
+        },
+        {
+          "verse": 16,
+          "text": "And after all the fighting men were dead,"
+        },
+        {
+          "verse": 17,
+          "text": "The Lord spoke to me, saying:"
+        },
+        {
+          "verse": 18,
+          "text": "Thou shalt pass this day the borders of Moab,* the city named Ar:"
+        },
+        {
+          "verse": 19,
+          "text": "And when thou comest nigh the frontiers of the children of Ammon, take heed thou fight not against them, nor once move to battle: for I will not give thee of the land of the children of Ammon, because I have given it to the children of Lot for a possession."
+        },
+        {
+          "verse": 20,
+          "text": "It was accounted a land of giants: and giants formerly dwelt in it, whom the Ammonites call Zomzommims,"
+        },
+        {
+          "verse": 21,
+          "text": "A people great, and many, and of tall stature, like the Enacims, whom the Lord destroyed before their face: and he made them to dwell in their stead,"
+        },
+        {
+          "verse": 22,
+          "text": "As he had done in favour of the children of Esau, that dwell in Seir, destroying the Horrhites, and delivering their land to them, which they possess unto this day."
+        },
+        {
+          "verse": 23,
+          "text": "The Hevites also, that dwelt in Haserim as far as Gaza, were expelled by the Cappadocians: who came out of Cappadocia, and destroyed them, and dwelt in their stead."
+        },
+        {
+          "verse": 24,
+          "text": "Arise ye, and pass the torrent Arnon: *behold I have delivered into thy hand Sehon, king of Hesebon, the Amorrhite, and begin thou to possess his land, and make war against him."
+        },
+        {
+          "verse": 25,
+          "text": "This day will I begin to send the dread and fear of thee upon the nations, that dwell under the whole heaven: that when they hear thy name they may fear and tremble, and be in pain like women in travail."
+        },
+        {
+          "verse": 26,
+          "text": "*So I sent messengers from the wilderness of Cademoth to Sehon, the king of Hesebon, with peaceable words, saying:"
+        },
+        {
+          "verse": 27,
+          "text": "We will pass through thy land, we will go along by the highway: we will not turn aside neither to the right hand nor to the left."
+        },
+        {
+          "verse": 28,
+          "text": "Sell us meat for money, that we may eat: give us water for money, and so we will drink. We only ask that thou wilt let us pass through,"
+        },
+        {
+          "verse": 29,
+          "text": "As the children of Esau have done, that dwell in Seir, and the Moabites, that abide in Ar: until we come to the Jordan, and pass to the land, which the Lord our God will give us."
+        },
+        {
+          "verse": 30,
+          "text": "And Sehon, the king of Hesebon, would not let us pass: because the Lord thy God had hardened his spirit and fixed his heart, that he might be delivered into thy hands, as now thou seest."
+        },
+        {
+          "verse": 31,
+          "text": "And the Lord said to me: *Behold I have begun to deliver unto thee Sehon, and his land; begin to possess it."
+        },
+        {
+          "verse": 32,
+          "text": "And Sehon came out to meet us with all his people to fight at Jasa."
+        },
+        {
+          "verse": 33,
+          "text": "And the Lord our God delivered him to us: and we slew him, with his sons, and all his people."
+        },
+        {
+          "verse": 34,
+          "text": "And we took all his cities at that time, killing the inhabitants of them, men, and women, and children. We left nothing of them,"
+        },
+        {
+          "verse": 35,
+          "text": "Except the cattle, which came to the share of them that took them: and the spoils of the cities, which we took:"
+        },
+        {
+          "verse": 36,
+          "text": "From Aroer, which is upon the bank of the torrent Arnon, a town that is situate in a valley, as far as Galaad, there was not a village or city, that escaped our hands: the Lord our God delivered all unto us:"
+        },
+        {
+          "verse": 37,
+          "text": "Except the land of the children of Ammon, to which we approached not: and all that border upon the torrent Jeboc, and the cities in the mountains, and all the places, which the Lord our God forbade us."
+        }
+      ],
+      "verse_count": 37,
+      "word_count": 986
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 35,
+      "chapter_title": "Psalms 35",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Unto the end, for the servant of God, David himself."
+        },
+        {
+          "verse": 2,
+          "text": "The unjust hath said within himself, that he would sin: there is no fear of God before his eyes."
+        },
+        {
+          "verse": 3,
+          "text": "*For in his sight he hath done deceitfully, that his iniquity may be found unto hatred."
+        },
+        {
+          "verse": 4,
+          "text": "The words of his mouth are iniquity and guile: he would not understand that he might do well."
+        },
+        {
+          "verse": 5,
+          "text": "He hath devised iniquity on his bed, he hath set himself on every way that is not good: but evil he hath not hated."
+        },
+        {
+          "verse": 6,
+          "text": "O Lord, thy mercy is in heaven, and thy truth reacheth even to the clouds."
+        },
+        {
+          "verse": 7,
+          "text": "Thy justice is as the mountains of God, thy judgments are a great deep. Men and beasts thou wilt preserve, O Lord:"
+        },
+        {
+          "verse": 8,
+          "text": "O how hast thou multiplied thy mercy, O God! But the children of men shall put their trust under the covert of thy wings."
+        },
+        {
+          "verse": 9,
+          "text": "They shall be inebriated with the plenty of thy house; and thou shalt make them drink of the torrent of thy pleasure."
+        },
+        {
+          "verse": 10,
+          "text": "For with thee is the fountain of life; and in thy light we shall see light."
+        },
+        {
+          "verse": 11,
+          "text": "Extend thy mercy to them that know thee, and thy justice to them that are right in heart."
+        },
+        {
+          "verse": 12,
+          "text": "Let not the foot of pride come to me, and let not the hand of the sinner move me."
+        },
+        {
+          "verse": 13,
+          "text": "There the workers of iniquity are fallen, they are cast out, and could not stand."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 238
+    },
+    {
+      "book": "Jeremias",
+      "chapter_number": 11,
+      "chapter_title": "Jeremias 11",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The word that came from the Lord to Jeremias, saying:"
+        },
+        {
+          "verse": 2,
+          "text": "Hear ye the words of this covenant, and speak to the men of Juda, and to the inhabitants of Jerusalem."
+        },
+        {
+          "verse": 3,
+          "text": "And thou shalt say to them: Thus saith the Lord, the God of Israel: Cursed is the man that shall not hearken to the words of this covenant."
+        },
+        {
+          "verse": 4,
+          "text": "Which I commanded your fathers, in the day that I brought them out of the land of Egypt, from the iron furnace, saying: Hear ye my voice, and do all things that I command you: and you shall be my people, and I will be your God:"
+        },
+        {
+          "verse": 5,
+          "text": "That I may accomplish the oath which I swore to your fathers, to give them a land flowing with milk and honey, as it is this day. And I answered, and said: Amen, O Lord."
+        },
+        {
+          "verse": 6,
+          "text": "And the Lord said to me: Proclaim aloud all these words in the cities of Juda, and in the streets of Jerusalem, saying: Hear ye the words of the covenant, and do them:,"
+        },
+        {
+          "verse": 7,
+          "text": "For protesting I conjured your fathers in the day that I brought them out of the land of Egypt, even to this day: rising early, I conjured them, and said: Hearken ye to my voice:"
+        },
+        {
+          "verse": 8,
+          "text": "And they obeyed not, nor inclined their ear: but walked every one in the perverseness of his own wicked heart: and I brought upon them all the words of this covenant, which I commanded them to do, but they did them not."
+        },
+        {
+          "verse": 9,
+          "text": "And the Lord said to me: A conspiracy is found among the men of Juda, and among the inhabitants of Jerusalem."
+        },
+        {
+          "verse": 10,
+          "text": "They are returned to the former iniquities of their fathers, who refused to hear my words: so these likewise have gone after strange gods, to serve them: the house of Israel, and the house of Juda, have made void my covenant, which I made with their fathers."
+        },
+        {
+          "verse": 11,
+          "text": "Wherefore thus saith the Lord: Behold I will bring in evils upon them, which they shall not be able to escape: and they shall cry to me, and I will not hearken to them."
+        },
+        {
+          "verse": 12,
+          "text": "And the cities of Juda, and the inhabitants of Jerusalem shall go, and cry to the gods to whom they offer sacrifice, and they shall not save them in the time of their affliction."
+        },
+        {
+          "verse": 13,
+          "text": "*For according to the number of thy cities were thy gods, O Juda: and according to the number of the streets of Jerusalem, thou hast set up altars of confusion, altars to offer sacrifice to Baalim."
+        },
+        {
+          "verse": 14,
+          "text": "*Therefore do not thou pray for this people, and do not take up praise and prayer for them: for I will not hear them in the time of their cry to me, in the time of their affliction."
+        },
+        {
+          "verse": 15,
+          "text": "What is the meaning, that my beloved hath wrought muck wickedness in my house? shall the holy flesh take away from thee thy crimes, in which thou hast boasted?"
+        },
+        {
+          "verse": 16,
+          "text": "The Lord called thy name, a plentiful olive-tree, fair, fruitful, and beautiful: at the noise of a word, a great fire was kindled in it, and the branches thereof are burnt."
+        },
+        {
+          "verse": 17,
+          "text": "And the Lord of hosts, that planted thee, hath pronounced evil against thee: for the evils of the house of Israel, and the house of Juda, which they have done to themselves, to provoke me, offering sacrifice to Baalim."
+        },
+        {
+          "verse": 18,
+          "text": "But thou, O Lord, hast shewn me, and I have known: then thou shewedst me their doings."
+        },
+        {
+          "verse": 19,
+          "text": "And I was as a meek lamb, that is carried to be a victim: and I knew not that they had devised counsels against me, saying: Let us put wood on his bread, and cut him off from the land of the living, and let his name be remembered no more."
+        },
+        {
+          "verse": 20,
+          "text": "*But thou, O Lord of Sabaoth, who judgest justly, and triest the reins and hearts, let me see thy revenge on them: for to thee have I revealed my cause."
+        },
+        {
+          "verse": 21,
+          "text": "Therefore thus saith the Lord to the men of Anathoth, who seek thy life, and say: Thou shalt not prophesy in the name of the Lord, and thou shalt not die in our hands."
+        },
+        {
+          "verse": 22,
+          "text": "Therefore thus saith the Lord of hosts: Behold I will visit upon them: and their young men shall die by the sword, their sons and their daughters shall die by famine."
+        },
+        {
+          "verse": 23,
+          "text": "And there shall be no remains of them: for I will bring in evil upon the men of Anathoth, the year of their visitation."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 746
+    },
+    {
+      "book": "John",
+      "chapter_number": 9,
+      "chapter_title": "John 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And Jesus passing by, saw a man that was blind from his birth."
+        },
+        {
+          "verse": 2,
+          "text": "And his disciples asked him: Rabbi, who hath sinned, this man, or his parents, that he should be born blind?"
+        },
+        {
+          "verse": 3,
+          "text": "Jesus answered: Neither hath this man sinned, nor his parents, but that the works of God should be made manifest in him."
+        },
+        {
+          "verse": 4,
+          "text": "I must work the works of him that sent me, whilst it is day; the night cometh, when no man can work."
+        },
+        {
+          "verse": 5,
+          "text": "As long as I am in the world, I am the light of the world."
+        },
+        {
+          "verse": 6,
+          "text": "When he had said these things, he spat on the ground, and made clay of the spittle, and spread the clay upon his eyes;"
+        },
+        {
+          "verse": 7,
+          "text": "And said to him: Go, wash in the pool of Siloe, (which is interpreted, Sent). He went, therefore, and washed, and he came seeing."
+        },
+        {
+          "verse": 8,
+          "text": "The neighbours, therefore, and they who had seen him before that he was a beggar, said: Is not this he that sat, and begged? Some said: This is he."
+        },
+        {
+          "verse": 9,
+          "text": "But others, No: but he is like him. But he said: I am he."
+        },
+        {
+          "verse": 10,
+          "text": "They said, therefore, to him: How were thy eyes opened?"
+        },
+        {
+          "verse": 11,
+          "text": "He answered: That man who is called Jesus, made clay, and anointed my eyes, and said to me; Go to the pool of Siloe, and wash. And I went, I washed, and I see."
+        },
+        {
+          "verse": 12,
+          "text": "And they said to him: Where is he? He saith; I know not."
+        },
+        {
+          "verse": 13,
+          "text": "They bring him that had been blind, to the Pharisees."
+        },
+        {
+          "verse": 14,
+          "text": "Now it was the Sabbath, when Jesus made the clay, and opened his eyes."
+        },
+        {
+          "verse": 15,
+          "text": "Again, therefore, the Pharisees asked him how he had received his sight. But he said to them: He put clay upon my eyes, and I washed, and I see."
+        },
+        {
+          "verse": 16,
+          "text": "Some, therefore, of the Pharisees said; This man is not of God, who keepeth not the sabbath. But others said; How can a man that is a sinner do such miracles? And there was a division among them."
+        },
+        {
+          "verse": 17,
+          "text": "They say, therefore, to the blind man again; What sayest thou of him that hath opened they eyes? And he said; He is a prophet."
+        },
+        {
+          "verse": 18,
+          "text": "The Jews then did not believe concerning him, that he had been blind and had received his sight, until they called the parents of him that had received his sight:"
+        },
+        {
+          "verse": 19,
+          "text": "And asked them, saying; Is this your son, who you say was born blind? How then doth he now see?"
+        },
+        {
+          "verse": 20,
+          "text": "His parents answered them, and said: We know that this is our son, and that he was born blind:"
+        },
+        {
+          "verse": 21,
+          "text": "But how he now seeth, we know not: or who hath opened his eyes, we know not: ask himself; he is of age; let him speak for himself."
+        },
+        {
+          "verse": 22,
+          "text": "These things his parents said, because they feared the Jews: for the Jews had already agreed among themselves, that if any man should confess him to be Christ, he should be put out of the synagogue."
+        },
+        {
+          "verse": 23,
+          "text": "Therefore did his parents say; He is of age; ask himself."
+        },
+        {
+          "verse": 24,
+          "text": "They, therefore, called the man again that had been blind, and said to him: Give glory to God. We know that this man is a sinner."
+        },
+        {
+          "verse": 25,
+          "text": "He said then to them; If he be a sinner, I know not: one thing I know, that whereas I was blind, now I see."
+        },
+        {
+          "verse": 26,
+          "text": "Then they said to him; What did he to thee? how did he open thy eyes?"
+        },
+        {
+          "verse": 27,
+          "text": "He answered them: I have told you already, and you have heard: why would you hear it again? will you also become his disciples?"
+        },
+        {
+          "verse": 28,
+          "text": "They reviled him, therefore, and said; Be thou his disciple: but we are the disciples of Moses."
+        },
+        {
+          "verse": 29,
+          "text": "We know that God spoke to Moses: but as to this man, we know not from whence he is."
+        },
+        {
+          "verse": 30,
+          "text": "The man answered, and said to them; Why herein is a wonderful thing, that you know not from whence he is, and he hath opened my eyes:"
+        },
+        {
+          "verse": 31,
+          "text": "Now we know that God doth not hear sinners: but if a man be a worshipper of God, and doth his will, him he heareth."
+        },
+        {
+          "verse": 32,
+          "text": "From the beginning of the world it hath not been heard, that any man hath opened the eyes of one born blind."
+        },
+        {
+          "verse": 33,
+          "text": "Unless this man were of God, he could not do any thing."
+        },
+        {
+          "verse": 34,
+          "text": "They answered, and said to him: Thou wast wholly born in sins, and dost thou teach us? And they cast him out."
+        },
+        {
+          "verse": 35,
+          "text": "Jesus heard that they had cast him out: and when he had found him, he said to him; Dost thou believe in the Son of God?"
+        },
+        {
+          "verse": 36,
+          "text": "He answered, and said: Who is he, Lord, that I may believe in him?"
+        },
+        {
+          "verse": 37,
+          "text": "And Jesus said to him; Thou hast both seen him; and it is he that talketh with thee."
+        },
+        {
+          "verse": 38,
+          "text": "And he said; I believe, Lord. And falling down, he adored him."
+        },
+        {
+          "verse": 39,
+          "text": "And Jesus said; For judgment I am come into this world; that they who see not, may see, and they who see, may become blind."
+        },
+        {
+          "verse": 40,
+          "text": "And some of the Pharisees, that were with him, heard: and they said to him; Are we also blind?"
+        },
+        {
+          "verse": 41,
+          "text": "Jesus said to them; If you were blind, you should not have sin: but now you say, We see; Your sin remaineth."
+        }
+      ],
+      "verse_count": 41,
+      "word_count": 871
+    }
+  ]
+}

@@ -1,0 +1,813 @@
+{
+  "day_number": 60,
+  "references": "Numbers 2-3 • Psalms 18 • Isaiah 60 • Luke 16",
+  "word_count": 4463,
+  "estimated_minutes": 21,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 18:1",
+    "text": "I will love thee, O LORD, my strength.",
+    "reflection": "If the day gets scattered, return here and let this verse gather you again."
+  },
+  "tomorrow_teaser": "Numbers 4-5 • Psalms 19 • Isaiah 61 • Luke 17",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 2,
+      "chapter_title": "Numbers 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses and unto Aaron, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Every man of the children of Israel shall pitch by his own standard, with the ensign of their father’s house: far off about the tabernacle of the congregation shall they pitch."
+        },
+        {
+          "verse": 3,
+          "text": "And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab shall be captain of the children of Judah."
+        },
+        {
+          "verse": 4,
+          "text": "And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred."
+        },
+        {
+          "verse": 5,
+          "text": "And those that do pitch next unto him shall be the tribe of Issachar: and Nethaneel the son of Zuar shall be captain of the children of Issachar."
+        },
+        {
+          "verse": 6,
+          "text": "And his host, and those that were numbered thereof, were fifty and four thousand and four hundred."
+        },
+        {
+          "verse": 7,
+          "text": "Then the tribe of Zebulun: and Eliab the son of Helon shall be captain of the children of Zebulun."
+        },
+        {
+          "verse": 8,
+          "text": "And his host, and those that were numbered thereof, were fifty and seven thousand and four hundred."
+        },
+        {
+          "verse": 9,
+          "text": "All that were numbered in the camp of Judah were an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth."
+        },
+        {
+          "verse": 10,
+          "text": "On the south side shall be the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben shall be Elizur the son of Shedeur."
+        },
+        {
+          "verse": 11,
+          "text": "And his host, and those that were numbered thereof, were forty and six thousand and five hundred."
+        },
+        {
+          "verse": 12,
+          "text": "And those which pitch by him shall be the tribe of Simeon: and the captain of the children of Simeon shall be Shelumiel the son of Zurishaddai."
+        },
+        {
+          "verse": 13,
+          "text": "And his host, and those that were numbered of them, were fifty and nine thousand and three hundred."
+        },
+        {
+          "verse": 14,
+          "text": "Then the tribe of Gad: and the captain of the sons of Gad shall be Eliasaph the son of Reuel."
+        },
+        {
+          "verse": 15,
+          "text": "And his host, and those that were numbered of them, were forty and five thousand and six hundred and fifty."
+        },
+        {
+          "verse": 16,
+          "text": "All that were numbered in the camp of Reuben were an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies. And they shall set forth in the second rank."
+        },
+        {
+          "verse": 17,
+          "text": "Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp: as they encamp, so shall they set forward, every man in his place by their standards."
+        },
+        {
+          "verse": 18,
+          "text": "On the west side shall be the standard of the camp of Ephraim according to their armies: and the captain of the sons of Ephraim shall be Elishama the son of Ammihud."
+        },
+        {
+          "verse": 19,
+          "text": "And his host, and those that were numbered of them, were forty thousand and five hundred."
+        },
+        {
+          "verse": 20,
+          "text": "And by him shall be the tribe of Manasseh: and the captain of the children of Manasseh shall be Gamaliel the son of Pedahzur."
+        },
+        {
+          "verse": 21,
+          "text": "And his host, and those that were numbered of them, were thirty and two thousand and two hundred."
+        },
+        {
+          "verse": 22,
+          "text": "Then the tribe of Benjamin: and the captain of the sons of Benjamin shall be Abidan the son of Gideoni."
+        },
+        {
+          "verse": 23,
+          "text": "And his host, and those that were numbered of them, were thirty and five thousand and four hundred."
+        },
+        {
+          "verse": 24,
+          "text": "All that were numbered of the camp of Ephraim were an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank."
+        },
+        {
+          "verse": 25,
+          "text": "The standard of the camp of Dan shall be on the north side by their armies: and the captain of the children of Dan shall be Ahiezer the son of Ammishaddai."
+        },
+        {
+          "verse": 26,
+          "text": "And his host, and those that were numbered of them, were threescore and two thousand and seven hundred."
+        },
+        {
+          "verse": 27,
+          "text": "And those that encamp by him shall be the tribe of Asher: and the captain of the children of Asher shall be Pagiel the son of Ocran."
+        },
+        {
+          "verse": 28,
+          "text": "And his host, and those that were numbered of them, were forty and one thousand and five hundred."
+        },
+        {
+          "verse": 29,
+          "text": "Then the tribe of Naphtali: and the captain of the children of Naphtali shall be Ahira the son of Enan."
+        },
+        {
+          "verse": 30,
+          "text": "And his host, and those that were numbered of them, were fifty and three thousand and four hundred."
+        },
+        {
+          "verse": 31,
+          "text": "All they that were numbered in the camp of Dan were an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards."
+        },
+        {
+          "verse": 32,
+          "text": "These are those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts were six hundred thousand and three thousand and five hundred and fifty."
+        },
+        {
+          "verse": 33,
+          "text": "But the Levites were not numbered among the children of Israel; as the LORD commanded Moses."
+        },
+        {
+          "verse": 34,
+          "text": "And the children of Israel did according to all that the LORD commanded Moses: so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers."
+        }
+      ],
+      "verse_count": 34,
+      "word_count": 829
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 3,
+      "chapter_title": "Numbers 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai."
+        },
+        {
+          "verse": 2,
+          "text": "And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar."
+        },
+        {
+          "verse": 3,
+          "text": "These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office."
+        },
+        {
+          "verse": 4,
+          "text": "And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father."
+        },
+        {
+          "verse": 5,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 6,
+          "text": "Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him."
+        },
+        {
+          "verse": 7,
+          "text": "And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle."
+        },
+        {
+          "verse": 8,
+          "text": "And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle."
+        },
+        {
+          "verse": 9,
+          "text": "And thou shalt give the Levites unto Aaron and to his sons: they are wholly given unto him out of the children of Israel."
+        },
+        {
+          "verse": 10,
+          "text": "And thou shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death."
+        },
+        {
+          "verse": 11,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 12,
+          "text": "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;"
+        },
+        {
+          "verse": 13,
+          "text": "Because all the firstborn are mine; for on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I am the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "And the LORD spake unto Moses in the wilderness of Sinai, saying,"
+        },
+        {
+          "verse": 15,
+          "text": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them."
+        },
+        {
+          "verse": 16,
+          "text": "And Moses numbered them according to the word of the LORD, as he was commanded."
+        },
+        {
+          "verse": 17,
+          "text": "And these were the sons of Levi by their names; Gershon, and Kohath, and Merari."
+        },
+        {
+          "verse": 18,
+          "text": "And these are the names of the sons of Gershon by their families; Libni, and Shimei."
+        },
+        {
+          "verse": 19,
+          "text": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel."
+        },
+        {
+          "verse": 20,
+          "text": "And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers."
+        },
+        {
+          "verse": 21,
+          "text": "Of Gershon was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites."
+        },
+        {
+          "verse": 22,
+          "text": "Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred."
+        },
+        {
+          "verse": 23,
+          "text": "The families of the Gershonites shall pitch behind the tabernacle westward."
+        },
+        {
+          "verse": 24,
+          "text": "And the chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael."
+        },
+        {
+          "verse": 25,
+          "text": "And the charge of the sons of Gershon in the tabernacle of the congregation shall be the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,"
+        },
+        {
+          "verse": 26,
+          "text": "And the hangings of the court, and the curtain for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof."
+        },
+        {
+          "verse": 27,
+          "text": "And of Kohath was the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites."
+        },
+        {
+          "verse": 28,
+          "text": "In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary."
+        },
+        {
+          "verse": 29,
+          "text": "The families of the sons of Kohath shall pitch on the side of the tabernacle southward."
+        },
+        {
+          "verse": 30,
+          "text": "And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel."
+        },
+        {
+          "verse": 31,
+          "text": "And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof."
+        },
+        {
+          "verse": 32,
+          "text": "And Eleazar the son of Aaron the priest shall be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary."
+        },
+        {
+          "verse": 33,
+          "text": "Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari."
+        },
+        {
+          "verse": 34,
+          "text": "And those that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand and two hundred."
+        },
+        {
+          "verse": 35,
+          "text": "And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward."
+        },
+        {
+          "verse": 36,
+          "text": "And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,"
+        },
+        {
+          "verse": 37,
+          "text": "And the pillars of the court round about, and their sockets, and their pins, and their cords."
+        },
+        {
+          "verse": 38,
+          "text": "But those that encamp before the tabernacle toward the east, even before the tabernacle of the congregation eastward, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death."
+        },
+        {
+          "verse": 39,
+          "text": "All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand."
+        },
+        {
+          "verse": 40,
+          "text": "And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names."
+        },
+        {
+          "verse": 41,
+          "text": "And thou shalt take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel."
+        },
+        {
+          "verse": 42,
+          "text": "And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel."
+        },
+        {
+          "verse": 43,
+          "text": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen."
+        },
+        {
+          "verse": 44,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 45,
+          "text": "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the LORD."
+        },
+        {
+          "verse": 46,
+          "text": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;"
+        },
+        {
+          "verse": 47,
+          "text": "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take them: (the shekel is twenty gerahs:)"
+        },
+        {
+          "verse": 48,
+          "text": "And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons."
+        },
+        {
+          "verse": 49,
+          "text": "And Moses took the redemption money of them that were over and above them that were redeemed by the Levites:"
+        },
+        {
+          "verse": 50,
+          "text": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary:"
+        },
+        {
+          "verse": 51,
+          "text": "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses."
+        }
+      ],
+      "verse_count": 51,
+      "word_count": 1294
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 18,
+      "chapter_title": "Psalms 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I will love thee, O LORD, my strength."
+        },
+        {
+          "verse": 2,
+          "text": "The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower."
+        },
+        {
+          "verse": 3,
+          "text": "I will call upon the LORD, who is worthy to be praised: so shall I be saved from mine enemies."
+        },
+        {
+          "verse": 4,
+          "text": "The sorrows of death compassed me, and the floods of ungodly men made me afraid."
+        },
+        {
+          "verse": 5,
+          "text": "The sorrows of hell compassed me about: the snares of death prevented me."
+        },
+        {
+          "verse": 6,
+          "text": "In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears."
+        },
+        {
+          "verse": 7,
+          "text": "Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth."
+        },
+        {
+          "verse": 8,
+          "text": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it."
+        },
+        {
+          "verse": 9,
+          "text": "He bowed the heavens also, and came down: and darkness was under his feet."
+        },
+        {
+          "verse": 10,
+          "text": "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind."
+        },
+        {
+          "verse": 11,
+          "text": "He made darkness his secret place; his pavilion round about him were dark waters and thick clouds of the skies."
+        },
+        {
+          "verse": 12,
+          "text": "At the brightness that was before him his thick clouds passed, hail stones and coals of fire."
+        },
+        {
+          "verse": 13,
+          "text": "The LORD also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire."
+        },
+        {
+          "verse": 14,
+          "text": "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them."
+        },
+        {
+          "verse": 15,
+          "text": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O LORD, at the blast of the breath of thy nostrils."
+        },
+        {
+          "verse": 16,
+          "text": "He sent from above, he took me, he drew me out of many waters."
+        },
+        {
+          "verse": 17,
+          "text": "He delivered me from my strong enemy, and from them which hated me: for they were too strong for me."
+        },
+        {
+          "verse": 18,
+          "text": "They prevented me in the day of my calamity: but the LORD was my stay."
+        },
+        {
+          "verse": 19,
+          "text": "He brought me forth also into a large place; he delivered me, because he delighted in me."
+        },
+        {
+          "verse": 20,
+          "text": "The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me."
+        },
+        {
+          "verse": 21,
+          "text": "For I have kept the ways of the LORD, and have not wickedly departed from my God."
+        },
+        {
+          "verse": 22,
+          "text": "For all his judgments were before me, and I did not put away his statutes from me."
+        },
+        {
+          "verse": 23,
+          "text": "I was also upright before him, and I kept myself from mine iniquity."
+        },
+        {
+          "verse": 24,
+          "text": "Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight."
+        },
+        {
+          "verse": 25,
+          "text": "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;"
+        },
+        {
+          "verse": 26,
+          "text": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward."
+        },
+        {
+          "verse": 27,
+          "text": "For thou wilt save the afflicted people; but wilt bring down high looks."
+        },
+        {
+          "verse": 28,
+          "text": "For thou wilt light my candle: the LORD my God will enlighten my darkness."
+        },
+        {
+          "verse": 29,
+          "text": "For by thee I have run through a troop; and by my God have I leaped over a wall."
+        },
+        {
+          "verse": 30,
+          "text": "As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him."
+        },
+        {
+          "verse": 31,
+          "text": "For who is God save the LORD? or who is a rock save our God?"
+        },
+        {
+          "verse": 32,
+          "text": "It is God that girdeth me with strength, and maketh my way perfect."
+        },
+        {
+          "verse": 33,
+          "text": "He maketh my feet like hinds’ feet, and setteth me upon my high places."
+        },
+        {
+          "verse": 34,
+          "text": "He teacheth my hands to war, so that a bow of steel is broken by mine arms."
+        },
+        {
+          "verse": 35,
+          "text": "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great."
+        },
+        {
+          "verse": 36,
+          "text": "Thou hast enlarged my steps under me, that my feet did not slip."
+        },
+        {
+          "verse": 37,
+          "text": "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed."
+        },
+        {
+          "verse": 38,
+          "text": "I have wounded them that they were not able to rise: they are fallen under my feet."
+        },
+        {
+          "verse": 39,
+          "text": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me."
+        },
+        {
+          "verse": 40,
+          "text": "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me."
+        },
+        {
+          "verse": 41,
+          "text": "They cried, but there was none to save them: even unto the LORD, but he answered them not."
+        },
+        {
+          "verse": 42,
+          "text": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets."
+        },
+        {
+          "verse": 43,
+          "text": "Thou hast delivered me from the strivings of the people; and thou hast made me the head of the heathen: a people whom I have not known shall serve me."
+        },
+        {
+          "verse": 44,
+          "text": "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me."
+        },
+        {
+          "verse": 45,
+          "text": "The strangers shall fade away, and be afraid out of their close places."
+        },
+        {
+          "verse": 46,
+          "text": "The LORD liveth; and blessed be my rock; and let the God of my salvation be exalted."
+        },
+        {
+          "verse": 47,
+          "text": "It is God that avengeth me, and subdueth the people under me."
+        },
+        {
+          "verse": 48,
+          "text": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man."
+        },
+        {
+          "verse": 49,
+          "text": "Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name."
+        },
+        {
+          "verse": 50,
+          "text": "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore."
+        }
+      ],
+      "verse_count": 50,
+      "word_count": 918
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 60,
+      "chapter_title": "Isaiah 60",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee."
+        },
+        {
+          "verse": 2,
+          "text": "For, behold, the darkness shall cover the earth, and gross darkness the people: but the LORD shall arise upon thee, and his glory shall be seen upon thee."
+        },
+        {
+          "verse": 3,
+          "text": "And the Gentiles shall come to thy light, and kings to the brightness of thy rising."
+        },
+        {
+          "verse": 4,
+          "text": "Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be nursed at thy side."
+        },
+        {
+          "verse": 5,
+          "text": "Then thou shalt see, and flow together, and thine heart shall fear, and be enlarged; because the abundance of the sea shall be converted unto thee, the forces of the Gentiles shall come unto thee."
+        },
+        {
+          "verse": 6,
+          "text": "The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory."
+        },
+        {
+          "verse": 8,
+          "text": "Who are these that fly as a cloud, and as the doves to their windows?"
+        },
+        {
+          "verse": 9,
+          "text": "Surely the isles shall wait for me, and the ships of Tarshish first, to bring thy sons from far, their silver and their gold with them, unto the name of the LORD thy God, and to the Holy One of Israel, because he hath glorified thee."
+        },
+        {
+          "verse": 10,
+          "text": "And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee."
+        },
+        {
+          "verse": 11,
+          "text": "Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought."
+        },
+        {
+          "verse": 12,
+          "text": "For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted."
+        },
+        {
+          "verse": 13,
+          "text": "The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious."
+        },
+        {
+          "verse": 14,
+          "text": "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the LORD, The Zion of the Holy One of Israel."
+        },
+        {
+          "verse": 15,
+          "text": "Whereas thou hast been forsaken and hated, so that no man went through thee, I will make thee an eternal excellency, a joy of many generations."
+        },
+        {
+          "verse": 16,
+          "text": "Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob."
+        },
+        {
+          "verse": 17,
+          "text": "For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness."
+        },
+        {
+          "verse": 18,
+          "text": "Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise."
+        },
+        {
+          "verse": 19,
+          "text": "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an everlasting light, and thy God thy glory."
+        },
+        {
+          "verse": 20,
+          "text": "Thy sun shall no more go down; neither shall thy moon withdraw itself: for the LORD shall be thine everlasting light, and the days of thy mourning shall be ended."
+        },
+        {
+          "verse": 21,
+          "text": "Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified."
+        },
+        {
+          "verse": 22,
+          "text": "A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 665
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 16,
+      "chapter_title": "Luke 16",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods."
+        },
+        {
+          "verse": 2,
+          "text": "And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward."
+        },
+        {
+          "verse": 3,
+          "text": "Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed."
+        },
+        {
+          "verse": 4,
+          "text": "I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses."
+        },
+        {
+          "verse": 5,
+          "text": "So he called every one of his lord’s debtors unto him, and said unto the first, How much owest thou unto my lord?"
+        },
+        {
+          "verse": 6,
+          "text": "And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty."
+        },
+        {
+          "verse": 7,
+          "text": "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore."
+        },
+        {
+          "verse": 8,
+          "text": "And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light."
+        },
+        {
+          "verse": 9,
+          "text": "And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations."
+        },
+        {
+          "verse": 10,
+          "text": "He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much."
+        },
+        {
+          "verse": 11,
+          "text": "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?"
+        },
+        {
+          "verse": 12,
+          "text": "And if ye have not been faithful in that which is another man’s, who shall give you that which is your own?"
+        },
+        {
+          "verse": 13,
+          "text": "No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+        },
+        {
+          "verse": 14,
+          "text": "And the Pharisees also, who were covetous, heard all these things: and they derided him."
+        },
+        {
+          "verse": 15,
+          "text": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God."
+        },
+        {
+          "verse": 16,
+          "text": "The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it."
+        },
+        {
+          "verse": 17,
+          "text": "And it is easier for heaven and earth to pass, than one tittle of the law to fail."
+        },
+        {
+          "verse": 18,
+          "text": "Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from her husband committeth adultery."
+        },
+        {
+          "verse": 19,
+          "text": "There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:"
+        },
+        {
+          "verse": 20,
+          "text": "And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,"
+        },
+        {
+          "verse": 21,
+          "text": "And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores."
+        },
+        {
+          "verse": 22,
+          "text": "And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;"
+        },
+        {
+          "verse": 23,
+          "text": "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom."
+        },
+        {
+          "verse": 24,
+          "text": "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame."
+        },
+        {
+          "verse": 25,
+          "text": "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+        },
+        {
+          "verse": 26,
+          "text": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence."
+        },
+        {
+          "verse": 27,
+          "text": "Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house:"
+        },
+        {
+          "verse": 28,
+          "text": "For I have five brethren; that he may testify unto them, lest they also come into this place of torment."
+        },
+        {
+          "verse": 29,
+          "text": "Abraham saith unto him, They have Moses and the prophets; let them hear them."
+        },
+        {
+          "verse": 30,
+          "text": "And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent."
+        },
+        {
+          "verse": 31,
+          "text": "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 757
+    }
+  ]
+}

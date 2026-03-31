@@ -1,0 +1,380 @@
+{
+  "day_number": 101,
+  "references": "Deuteronomy 19 • Psalms 59 • Jeremiah 35 • Acts 12",
+  "word_count": 2271,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 59:2",
+    "text": "Deliver me from the workers of iniquity, and save me from bloody men.",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "Deuteronomy 20 • Psalms 60 • Jeremiah 36 • Acts 13",
+  "chapters": [
+    {
+      "book": "Deuteronomy",
+      "chapter_number": 19,
+      "chapter_title": "Deuteronomy 19",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;"
+        },
+        {
+          "verse": 2,
+          "text": "Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it."
+        },
+        {
+          "verse": 3,
+          "text": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the LORD thy God giveth thee to inherit, into three parts, that every slayer may flee thither."
+        },
+        {
+          "verse": 4,
+          "text": "And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;"
+        },
+        {
+          "verse": 5,
+          "text": "As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:"
+        },
+        {
+          "verse": 6,
+          "text": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past."
+        },
+        {
+          "verse": 7,
+          "text": "Wherefore I command thee, saying, Thou shalt separate three cities for thee."
+        },
+        {
+          "verse": 8,
+          "text": "And if the LORD thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;"
+        },
+        {
+          "verse": 9,
+          "text": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:"
+        },
+        {
+          "verse": 10,
+          "text": "That innocent blood be not shed in thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee."
+        },
+        {
+          "verse": 11,
+          "text": "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:"
+        },
+        {
+          "verse": 12,
+          "text": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die."
+        },
+        {
+          "verse": 13,
+          "text": "Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee."
+        },
+        {
+          "verse": 14,
+          "text": "Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it."
+        },
+        {
+          "verse": 15,
+          "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."
+        },
+        {
+          "verse": 16,
+          "text": "If a false witness rise up against any man to testify against him that which is wrong;"
+        },
+        {
+          "verse": 17,
+          "text": "Then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges, which shall be in those days;"
+        },
+        {
+          "verse": 18,
+          "text": "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;"
+        },
+        {
+          "verse": 19,
+          "text": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you."
+        },
+        {
+          "verse": 20,
+          "text": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you."
+        },
+        {
+          "verse": 21,
+          "text": "And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 609
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 59,
+      "chapter_title": "Psalms 59",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Deliver me from mine enemies, O my God: defend me from them that rise up against me."
+        },
+        {
+          "verse": 2,
+          "text": "Deliver me from the workers of iniquity, and save me from bloody men."
+        },
+        {
+          "verse": 3,
+          "text": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O LORD."
+        },
+        {
+          "verse": 4,
+          "text": "They run and prepare themselves without my fault: awake to help me, and behold."
+        },
+        {
+          "verse": 5,
+          "text": "Thou therefore, O LORD God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah."
+        },
+        {
+          "verse": 6,
+          "text": "They return at evening: they make a noise like a dog, and go round about the city."
+        },
+        {
+          "verse": 7,
+          "text": "Behold, they belch out with their mouth: swords are in their lips: for who, say they, doth hear?"
+        },
+        {
+          "verse": 8,
+          "text": "But thou, O LORD, shalt laugh at them; thou shalt have all the heathen in derision."
+        },
+        {
+          "verse": 9,
+          "text": "Because of his strength will I wait upon thee: for God is my defence."
+        },
+        {
+          "verse": 10,
+          "text": "The God of my mercy shall prevent me: God shall let me see my desire upon mine enemies."
+        },
+        {
+          "verse": 11,
+          "text": "Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield."
+        },
+        {
+          "verse": 12,
+          "text": "For the sin of their mouth and the words of their lips let them even be taken in their pride: and for cursing and lying which they speak."
+        },
+        {
+          "verse": 13,
+          "text": "Consume them in wrath, consume them, that they may not be: and let them know that God ruleth in Jacob unto the ends of the earth. Selah."
+        },
+        {
+          "verse": 14,
+          "text": "And at evening let them return; and let them make a noise like a dog, and go round about the city."
+        },
+        {
+          "verse": 15,
+          "text": "Let them wander up and down for meat, and grudge if they be not satisfied."
+        },
+        {
+          "verse": 16,
+          "text": "But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble."
+        },
+        {
+          "verse": 17,
+          "text": "Unto thee, O my strength, will I sing: for God is my defence, and the God of my mercy."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 339
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 35,
+      "chapter_title": "Jeremiah 35",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Go unto the house of the Rechabites, and speak unto them, and bring them into the house of the LORD, into one of the chambers, and give them wine to drink."
+        },
+        {
+          "verse": 3,
+          "text": "Then I took Jaazaniah the son of Jeremiah, the son of Habaziniah, and his brethren, and all his sons, and the whole house of the Rechabites;"
+        },
+        {
+          "verse": 4,
+          "text": "And I brought them into the house of the LORD, into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which was by the chamber of the princes, which was above the chamber of Maaseiah the son of Shallum, the keeper of the door:"
+        },
+        {
+          "verse": 5,
+          "text": "And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine."
+        },
+        {
+          "verse": 6,
+          "text": "But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever:"
+        },
+        {
+          "verse": 7,
+          "text": "Neither shall ye build house, nor sow seed, nor plant vineyard, nor have any: but all your days ye shall dwell in tents; that ye may live many days in the land where ye be strangers."
+        },
+        {
+          "verse": 8,
+          "text": "Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters;"
+        },
+        {
+          "verse": 9,
+          "text": "Nor to build houses for us to dwell in: neither have we vineyard, nor field, nor seed:"
+        },
+        {
+          "verse": 10,
+          "text": "But we have dwelt in tents, and have obeyed, and done according to all that Jonadab our father commanded us."
+        },
+        {
+          "verse": 11,
+          "text": "But it came to pass, when Nebuchadrezzar king of Babylon came up into the land, that we said, Come, and let us go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians: so we dwell at Jerusalem."
+        },
+        {
+          "verse": 12,
+          "text": "Then came the word of the LORD unto Jeremiah, saying,"
+        },
+        {
+          "verse": 13,
+          "text": "Thus saith the LORD of hosts, the God of Israel; Go and tell the men of Judah and the inhabitants of Jerusalem, Will ye not receive instruction to hearken to my words? saith the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "The words of Jonadab the son of Rechab, that he commanded his sons not to drink wine, are performed; for unto this day they drink none, but obey their father’s commandment: notwithstanding I have spoken unto you, rising early and speaking; but ye hearkened not unto me."
+        },
+        {
+          "verse": 15,
+          "text": "I have sent also unto you all my servants the prophets, rising up early and sending them, saying, Return ye now every man from his evil way, and amend your doings, and go not after other gods to serve them, and ye shall dwell in the land which I have given to you and to your fathers: but ye have not inclined your ear, nor hearkened unto me."
+        },
+        {
+          "verse": 16,
+          "text": "Because the sons of Jonadab the son of Rechab have performed the commandment of their father, which he commanded them; but this people hath not hearkened unto me:"
+        },
+        {
+          "verse": 17,
+          "text": "Therefore thus saith the LORD God of hosts, the God of Israel; Behold, I will bring upon Judah and upon all the inhabitants of Jerusalem all the evil that I have pronounced against them: because I have spoken unto them, but they have not heard; and I have called unto them, but they have not answered."
+        },
+        {
+          "verse": 18,
+          "text": "And Jeremiah said unto the house of the Rechabites, Thus saith the LORD of hosts, the God of Israel; Because ye have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according unto all that he hath commanded you:"
+        },
+        {
+          "verse": 19,
+          "text": "Therefore thus saith the LORD of hosts, the God of Israel; Jonadab the son of Rechab shall not want a man to stand before me for ever."
+        }
+      ],
+      "verse_count": 19,
+      "word_count": 658
+    },
+    {
+      "book": "Acts",
+      "chapter_number": 12,
+      "chapter_title": "Acts 12",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now about that time Herod the king stretched forth his hands to vex certain of the church."
+        },
+        {
+          "verse": 2,
+          "text": "And he killed James the brother of John with the sword."
+        },
+        {
+          "verse": 3,
+          "text": "And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)"
+        },
+        {
+          "verse": 4,
+          "text": "And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people."
+        },
+        {
+          "verse": 5,
+          "text": "Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him."
+        },
+        {
+          "verse": 6,
+          "text": "And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison."
+        },
+        {
+          "verse": 7,
+          "text": "And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands."
+        },
+        {
+          "verse": 8,
+          "text": "And the angel said unto him, Gird thyself, and bind on thy sandals. And so he did. And he saith unto him, Cast thy garment about thee, and follow me."
+        },
+        {
+          "verse": 9,
+          "text": "And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision."
+        },
+        {
+          "verse": 10,
+          "text": "When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him."
+        },
+        {
+          "verse": 11,
+          "text": "And when Peter was come to himself, he said, Now I know of a surety, that the LORD hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews."
+        },
+        {
+          "verse": 12,
+          "text": "And when he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying."
+        },
+        {
+          "verse": 13,
+          "text": "And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda."
+        },
+        {
+          "verse": 14,
+          "text": "And when she knew Peter’s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate."
+        },
+        {
+          "verse": 15,
+          "text": "And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel."
+        },
+        {
+          "verse": 16,
+          "text": "But Peter continued knocking: and when they had opened the door, and saw him, they were astonished."
+        },
+        {
+          "verse": 17,
+          "text": "But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place."
+        },
+        {
+          "verse": 18,
+          "text": "Now as soon as it was day, there was no small stir among the soldiers, what was become of Peter."
+        },
+        {
+          "verse": 19,
+          "text": "And when Herod had sought for him, and found him not, he examined the keepers, and commanded that they should be put to death. And he went down from Judaea to Caesarea, and there abode."
+        },
+        {
+          "verse": 20,
+          "text": "And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king’s chamberlain their friend, desired peace; because their country was nourished by the king’s country."
+        },
+        {
+          "verse": 21,
+          "text": "And upon a set day Herod, arrayed in royal apparel, sat upon his throne, and made an oration unto them."
+        },
+        {
+          "verse": 22,
+          "text": "And the people gave a shout, saying, It is the voice of a god, and not of a man."
+        },
+        {
+          "verse": 23,
+          "text": "And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost."
+        },
+        {
+          "verse": 24,
+          "text": "But the word of God grew and multiplied."
+        },
+        {
+          "verse": 25,
+          "text": "And Barnabas and Saul returned from Jerusalem, when they had fulfilled their ministry, and took with them John, whose surname was Mark."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 665
+    }
+  ]
+}

@@ -7,9 +7,9 @@
     "nodejs_compat"
   ],
   "vars": {
-    "SITE_NAME": "ShadowFetch News",
+    "SITE_NAME": "Shadowfetch: Bible Edition",
     "SITE_ORIGIN": "https://www.shadowfetch.com",
-    "COUNTER_NAMESPACE": "shadowfetch-news",
+    "COUNTER_NAMESPACE": "shadowfetch-bible",
     "COUNTER_KEY": "site_visits"
   },
   "d1_databases": [

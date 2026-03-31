@@ -1,0 +1,829 @@
+{
+  "day_number": 38,
+  "references": "Exodus 25-26 • Job 38 • Isaias 38 • Mark 10",
+  "word_count": 4132,
+  "estimated_minutes": 20,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Mark 10:50",
+    "text": "He casting off his garment, leaped up, and came to him.",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "Exodus 27-28 • Job 39 • Isaias 39 • Mark 11",
+  "chapters": [
+    {
+      "book": "Exodus",
+      "chapter_number": 25,
+      "chapter_title": "Exodus 25",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Lord spoke to Moses, saying:"
+        },
+        {
+          "verse": 2,
+          "text": "Speak to the children of Israel,* that they bring first-fruits to me: of every man that offereth of his own accord, you shall take them."
+        },
+        {
+          "verse": 3,
+          "text": "And these are the things you must take: Gold, and silver, and brass,"
+        },
+        {
+          "verse": 4,
+          "text": "Violet and purple, and scarlet twice dyed, and fine linen, and goats' hair,"
+        },
+        {
+          "verse": 5,
+          "text": "And rams' skins dyed red, and violet skins, and setim-wood:"
+        },
+        {
+          "verse": 6,
+          "text": "Oil to make lights: spices for ointment, and for sweet-smelling incense:"
+        },
+        {
+          "verse": 7,
+          "text": "Onyx stones, and precious stones to adorn the ephod, and the rational."
+        },
+        {
+          "verse": 8,
+          "text": "And they shall make me a sanctuary, and I will dwell in the midst of them:"
+        },
+        {
+          "verse": 9,
+          "text": "*According to all the likeness of the tabernacle which I will shew thee, and of all the vessels for the service thereof: and thus you shall make it:"
+        },
+        {
+          "verse": 10,
+          "text": "Frame an ark of setim-wood, the length whereof shall be of two cubits and a half; the breadth, a cubit and a half; the height, likewise, a cubit and a half."
+        },
+        {
+          "verse": 11,
+          "text": "And thou shalt overlay it with the purest gold within and without; and over it thou shalt make a golden crown round about:"
+        },
+        {
+          "verse": 12,
+          "text": "And four golden rings, which thou shall put at the four corners of the ark: let two rings be on the one side, and two on the other."
+        },
+        {
+          "verse": 13,
+          "text": "Thou shalt make bars also of setim-wood, and shalt overlay them with gold."
+        },
+        {
+          "verse": 14,
+          "text": "And thou shalt put them in through the rings that are in the sides of the ark, that it may be carried on them:"
+        },
+        {
+          "verse": 15,
+          "text": "And they shall be always in the rings, neither shall they at any time be drawn out of them."
+        },
+        {
+          "verse": 16,
+          "text": "And thou shalt put in the ark the testimony which I will give thee."
+        },
+        {
+          "verse": 17,
+          "text": "Thou shalt make also a propitiatory of the purest gold: the length thereof shall be two cubits and a half, and the breadth a cubit and a half."
+        },
+        {
+          "verse": 18,
+          "text": "Thou shalt make also two cherubims of beaten gold, on the two sides of the oracle."
+        },
+        {
+          "verse": 19,
+          "text": "Let one cherub be on the one side, and the other on the other."
+        },
+        {
+          "verse": 20,
+          "text": "Let them cover both sides of the propitiatory, spreading their wings, and covering the oracle, and let them look one towards the other, their faces being turned towards the propitiatory wherewith the ark is to be covered."
+        },
+        {
+          "verse": 21,
+          "text": "In which thou shalt put the testimony that I will give thee."
+        },
+        {
+          "verse": 22,
+          "text": "Thence will I give orders, and will speak to thee over the propitiatory, and from the midst of the two cherubims, which shall be upon the ark of the testimony, all things which I will command the children of Israel by thee."
+        },
+        {
+          "verse": 23,
+          "text": "Thou shalt make a table also of setim-wood, of two cubits in length, and a cubit in breadth, and a cubit and half in height."
+        },
+        {
+          "verse": 24,
+          "text": "And thou shalt overlay it with the purest gold: and thou shalt make to it a golden ledge round about."
+        },
+        {
+          "verse": 25,
+          "text": "And to the ledge itself a polished crown, four inches high; and over the same another little golden crown."
+        },
+        {
+          "verse": 26,
+          "text": "Thou shalt prepare also four golden rings, and shalt put them in the four corners of the same table, over each foot."
+        },
+        {
+          "verse": 27,
+          "text": "Under the crown shall the golden rings be, that the bars may be put through them, and the table may be carried."
+        },
+        {
+          "verse": 28,
+          "text": "The bars also themselves thou shalt make of setim-wood, and shalt overlay them with gold, to bear up the table."
+        },
+        {
+          "verse": 29,
+          "text": "Thou shalt prepare also dishes, and bowls, censers, and cups, wherein the libations are to be offered, of the purest gold."
+        },
+        {
+          "verse": 30,
+          "text": "And thou shalt set upon the table loaves of proposition in my sight always."
+        },
+        {
+          "verse": 31,
+          "text": "Thou shalt make also a candlestick of beaten work, of the finest gold, the shaft thereof, and the branches, the cups, and the bowls, and the lilies going forth from it."
+        },
+        {
+          "verse": 32,
+          "text": "Six branches shall come out of the sides, three out of the one side, and three out of the other."
+        },
+        {
+          "verse": 33,
+          "text": "Three cups as it were nuts to every branch, and a bowl withal, and a lily: and three cups likewise of the fashion of nuts in the other branch, and a bowl withal, and a lily. Such shall be the work of the six branches, that are to come out from the shaft:"
+        },
+        {
+          "verse": 34,
+          "text": "And in the candlestick itself shall be four cups in the manner of a nut, and at every one bowls and lilies."
+        },
+        {
+          "verse": 35,
+          "text": "Bowls under two branches in three places, which together make six, coming forth out of one shaft."
+        },
+        {
+          "verse": 36,
+          "text": "And both the bowls and the branches shall be of the same beaten work of the purest gold."
+        },
+        {
+          "verse": 37,
+          "text": "Thou shalt make also seven lamps, and shalt set them upon the candlestick, to give light over against."
+        },
+        {
+          "verse": 38,
+          "text": "The snuffers also, and where the snuffings shall be put out, shall be made of the purest gold."
+        },
+        {
+          "verse": 39,
+          "text": "The whole weight of the candlestick, with all the furniture thereof, shall be a talent of the purest gold."
+        },
+        {
+          "verse": 40,
+          "text": "*Look, and make it according to the pattern that was shewn thee in the mount."
+        }
+      ],
+      "verse_count": 40,
+      "word_count": 830
+    },
+    {
+      "book": "Exodus",
+      "chapter_number": 26,
+      "chapter_title": "Exodus 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And thou shalt make the tabernacle in this manner: Thou shalt make ten curtains of fine twisted linen, and violet and purple, and scarlet twice dyed, diversified with embroidery."
+        },
+        {
+          "verse": 2,
+          "text": "The length of one curtain shall be twenty-eight cubits; the breadth shall be four cubits. All the curtains shall be of one measure."
+        },
+        {
+          "verse": 3,
+          "text": "Five curtains shall be joined one to another, and the other five shall be coupled together in like manner."
+        },
+        {
+          "verse": 4,
+          "text": "Thou shalt make loops of violet in the sides and tops of the curtains, that they may be joined one to another."
+        },
+        {
+          "verse": 5,
+          "text": "Every curtain shall have fifty loops on both sides, so set on, that one loop may be against another loop, and one may be fitted to the other."
+        },
+        {
+          "verse": 6,
+          "text": "Thou shalt make also fifty rings of gold, wherewith the veils of the curtains are to be joined, that it may be made one tabernacle."
+        },
+        {
+          "verse": 7,
+          "text": "Thou shalt make also eleven curtains of goats' hair, to cover the top of the tabernacle."
+        },
+        {
+          "verse": 8,
+          "text": "The length of one hair-curtain shall be thirty cubits; and the breadth four: the measure of all the curtains shall be equal."
+        },
+        {
+          "verse": 9,
+          "text": "Five of which thou shalt couple by themselves, and the six others thou shalt couple one to another, so as to double the sixth curtain in the front of the roof."
+        },
+        {
+          "verse": 10,
+          "text": "Thou shalt make also fifty loops in the edge of one curtain, that it may be joined with the other: and fifty loops in the edge of the other curtain, that it may be coupled with its fellow."
+        },
+        {
+          "verse": 11,
+          "text": "Thou shalt make also fifty buckles of brass, wherewith the loops may be joined, that of all there may be made one covering."
+        },
+        {
+          "verse": 12,
+          "text": "And that which shall remain of the curtains, that are prepared for the roof, to wit, one curtain that is over and above, with the half thereof thou shalt cover the back parts of the tabernacle."
+        },
+        {
+          "verse": 13,
+          "text": "And there shall hang down a cubit on the one side, and another on the other side, which is over and above in the length of the curtains, fencing both sides of the tabernacle."
+        },
+        {
+          "verse": 14,
+          "text": "Thou shalt make also another cover to the roof, of rams' skins dyed red: and over that again another cover of violet-coloured skins."
+        },
+        {
+          "verse": 15,
+          "text": "Thou shalt make also the boards of the tabernacle standing upright of setim-wood."
+        },
+        {
+          "verse": 16,
+          "text": "Let every one of them be ten cubits in length, and in breadth one cubit and a half."
+        },
+        {
+          "verse": 17,
+          "text": "In the sides of the boards shall be made two mortises, whereby one board may be joined to another board: and after this manner shall all the boards be prepared."
+        },
+        {
+          "verse": 18,
+          "text": "Of which twenty shall be in the south side southward."
+        },
+        {
+          "verse": 19,
+          "text": "For which thou shalt cast forty sockets of silver, that under every board may be put two sockets at the two corners."
+        },
+        {
+          "verse": 20,
+          "text": "In the second side also the tabernacle that looketh to the north, there shall be twenty boards,"
+        },
+        {
+          "verse": 21,
+          "text": "Having forty sockets of silver, two sockets shall be put under each board."
+        },
+        {
+          "verse": 22,
+          "text": "But on the west side of the tabernacle thou shalt make six boards."
+        },
+        {
+          "verse": 23,
+          "text": "And again other two which shall be erected in the corners at the back of the tabernacle."
+        },
+        {
+          "verse": 24,
+          "text": "And they shall be joined together from beneath unto the top, and one joint shall hold them all. The like joining shall be observed for the two boards also that are to be put in the corners."
+        },
+        {
+          "verse": 25,
+          "text": "And they shall be in all eight boards, and their silver sockets sixteen, reckoning two sockets for each board."
+        },
+        {
+          "verse": 26,
+          "text": "Thou shalt make also five bars of setim-wood, to hold together the boards on one side of the tabernacle."
+        },
+        {
+          "verse": 27,
+          "text": "And five others on the other side, and as many at the west side:"
+        },
+        {
+          "verse": 28,
+          "text": "And they shall be put along by the midst of the boards, from one end to the other."
+        },
+        {
+          "verse": 29,
+          "text": "The boards also themselves thou shalt overlay with gold, and shalt cast rings of gold to be set upon them, for places for the bars to hold together the board-work: which bars thou shalt cover with plates of gold."
+        },
+        {
+          "verse": 30,
+          "text": "And thou shalt rear up the tabernacle according to the pattern that was* shewn thee in the mount."
+        },
+        {
+          "verse": 31,
+          "text": "Thou shalt make also a veil of violet, and purple, and scarlet twice dyed, and fine twisted linen, wrought with embroidered work and goodly variety:"
+        },
+        {
+          "verse": 32,
+          "text": "And thou shalt hang it up before four pillars of setim-wood, which themselves also shall be overlaid with gold, and shall have heads of gold, but sockets of silver."
+        },
+        {
+          "verse": 33,
+          "text": "And the veil shall be hanged on with rings, and within it thou shalt put the ark of the testimony, and the sanctuary and the holy of holies shall be divided with it."
+        },
+        {
+          "verse": 34,
+          "text": "And thou shalt set the propitiatory upon the ark of the testimony, in the holy of holies."
+        },
+        {
+          "verse": 35,
+          "text": "And the table without the veil: and over-against the table the candlestick in the south side of the tabernacle: for the table shall stand in the north side."
+        },
+        {
+          "verse": 36,
+          "text": "Thou shalt make also a hanging in the entrance of the tabernacle of violet, and purple, and scarlet twice dyed, and fine twisted linen with embroidered work."
+        },
+        {
+          "verse": 37,
+          "text": "And thou shalt overlay with gold five pillars of setim-wood, before which the hanging shall be drawn: their heads shall be of gold, and the sockets of brass."
+        }
+      ],
+      "verse_count": 37,
+      "word_count": 873
+    },
+    {
+      "book": "Job",
+      "chapter_number": 38,
+      "chapter_title": "Job 38",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then the Lord answered Job out of a whirlwind, and said:"
+        },
+        {
+          "verse": 2,
+          "text": "Who is this that wrappeth up sentences in unskilful words?"
+        },
+        {
+          "verse": 3,
+          "text": "Gird up thy loins like a man: I will ask thee, and answer thou me."
+        },
+        {
+          "verse": 4,
+          "text": "Where wast thou when I laid the foundations of the earth? tell me, if thou hast understanding."
+        },
+        {
+          "verse": 5,
+          "text": "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?"
+        },
+        {
+          "verse": 6,
+          "text": "Upon what are its bases grounded? or who laid the corner-stone thereof,"
+        },
+        {
+          "verse": 7,
+          "text": "When the morning stars praised me together, and all the sons of God made a joyful melody?"
+        },
+        {
+          "verse": 8,
+          "text": "Who shut up the sea with doors, when it broke forth as issuing out of the womb:"
+        },
+        {
+          "verse": 9,
+          "text": "When I made a cloud the garment thereof, and wrapped it in a mist, as in swaddling bands?"
+        },
+        {
+          "verse": 10,
+          "text": "I set my bounds around it, and made it bars and doors;"
+        },
+        {
+          "verse": 11,
+          "text": "And I said: Hitherto thou shalt come, and shalt go no further, and here thou shalt break thy swelling waves."
+        },
+        {
+          "verse": 12,
+          "text": "Didst thou since thy birth command the morning, and shew the dawning of the day its place?"
+        },
+        {
+          "verse": 13,
+          "text": "And didst thou hold the extremities of the earth, shaking them, and hast thou shaken the ungodly out of it?"
+        },
+        {
+          "verse": 14,
+          "text": "The seal shall be restored as clay, and shall stand as a garment:"
+        },
+        {
+          "verse": 15,
+          "text": "From the wicked their light shall be taken away, and the high arm shall be broken."
+        },
+        {
+          "verse": 16,
+          "text": "Hast thou entered into the depths of the sea, and walked in the lowest parts of the deep?"
+        },
+        {
+          "verse": 17,
+          "text": "Have the gates of death been opened to thee, and hast thou seen the darksome doors?"
+        },
+        {
+          "verse": 18,
+          "text": "Hast thou considered the breadth of the earth? tell me, if thou knowest all things?"
+        },
+        {
+          "verse": 19,
+          "text": "Where is the way where light dwelleth? and where is the place of darkness?"
+        },
+        {
+          "verse": 20,
+          "text": "That thou mayst bring every thing to its own bounds, and understand the paths of the house thereof."
+        },
+        {
+          "verse": 21,
+          "text": "Didst thou know then that thou shouldst be born? and didst thou know the number of thy days?"
+        },
+        {
+          "verse": 22,
+          "text": "Hast thou entered into the storehouses of the snow, or has thou beheld the treasures of the hail:"
+        },
+        {
+          "verse": 23,
+          "text": "Which I have prepared for the time of the enemy, against the day of battle and war?"
+        },
+        {
+          "verse": 24,
+          "text": "By what way is the light spread, and heat divided upon the earth?"
+        },
+        {
+          "verse": 25,
+          "text": "Who gave a course to violent showers, or a way for noisy thunder:"
+        },
+        {
+          "verse": 26,
+          "text": "That it should rain on the earth without man in the wilderness, where no mortal dwelleth:"
+        },
+        {
+          "verse": 27,
+          "text": "That it should fill the desert and desolate land, and should bring forth green grass?"
+        },
+        {
+          "verse": 28,
+          "text": "Who is the father of rain? or who begot the drops of dew?"
+        },
+        {
+          "verse": 29,
+          "text": "Out of whose womb came the ice? and the frost from heaven, who hath gendered it?"
+        },
+        {
+          "verse": 30,
+          "text": "The waters are hardened like a stone, and the surface of the deep is congealed."
+        },
+        {
+          "verse": 31,
+          "text": "Shalt thou be able to join together the shining stars, the Pleiades, or canst thou stop the turning about of Arcturus?"
+        },
+        {
+          "verse": 32,
+          "text": "Canst thou bring forth the day-star in its time, and make the evening-star to rise upon the children of the earth?"
+        },
+        {
+          "verse": 33,
+          "text": "Dost thou know the order of heaven, and canst thou set down the reason thereof on the earth?"
+        },
+        {
+          "verse": 34,
+          "text": "Canst thou lift up thy voice to the clouds, that an abundance of waters may cover thee?"
+        },
+        {
+          "verse": 35,
+          "text": "Canst thou send lightnings, and will they go, and will they return and say to thee: Here we are?"
+        },
+        {
+          "verse": 36,
+          "text": "Who hath put wisdom in the heart of man? or who gave the cock understanding?"
+        },
+        {
+          "verse": 37,
+          "text": "Who can declare the order of the heavens, or who can make the harmony of heaven to sleep?"
+        },
+        {
+          "verse": 38,
+          "text": "When was the dust poured on the earth, and the clods fastened together?"
+        },
+        {
+          "verse": 39,
+          "text": "Wilt thou take the prey for the lioness, and satisfy the appetite of her whelps,"
+        },
+        {
+          "verse": 40,
+          "text": "When they couch in the dens, and lie in wait in holes?"
+        },
+        {
+          "verse": 41,
+          "text": "*Who provideth food for the raven, when her young ones cry to God, wandering about, because they have no meat?"
+        }
+      ],
+      "verse_count": 41,
+      "word_count": 656
+    },
+    {
+      "book": "Isaias",
+      "chapter_number": 38,
+      "chapter_title": "Isaias 38",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In *those days Ezechias was sick, even to death, and Isaias, the son of Amos, the prophet, came unto him, and said to him: Thus saith the Lord: Take order with thy house, for thou shalt die, and not live."
+        },
+        {
+          "verse": 2,
+          "text": "And Ezechias turned his face toward the wall, and prayed to the Lord,"
+        },
+        {
+          "verse": 3,
+          "text": "And said: I beseech thee, O Lord, remember how I have walked before thee in truth, and with a perfect heart, and have done that which is good in thy sight. And Ezechias wept with great weeping."
+        },
+        {
+          "verse": 4,
+          "text": "And the word of the Lord came to Isaias, saying:"
+        },
+        {
+          "verse": 5,
+          "text": "Go and say to Ezechias: Thus saith the Lord, the God of David, thy father: I have heard thy prayer, and I have seen thy tears: behold, I will add to thy days fifteen years:"
+        },
+        {
+          "verse": 6,
+          "text": "And I will deliver thee and this city out of the hand of the king of the Assyrians, and I will protect it."
+        },
+        {
+          "verse": 7,
+          "text": "And this shall be a sign to thee from the Lord, that the Lord will do this word which he hath spoken:"
+        },
+        {
+          "verse": 8,
+          "text": "*Behold, I will bring again the shadow of the lines, by which it is now gone down in the sun-dial of Achaz, with the sun, ten lines backward. And the sun returned ten lines by the degrees by which it was gone down."
+        },
+        {
+          "verse": 9,
+          "text": "The writing of Ezechias, king of Juda, when he had been sick, and was recovered of his sickness."
+        },
+        {
+          "verse": 10,
+          "text": "I said: In the midst of my days I shall go to the gates of hell: I sought for the residue of my years."
+        },
+        {
+          "verse": 11,
+          "text": "I said: I shall not see the Lord God in the land of the living. I shall behold man no more, nor the inhabitant of rest."
+        },
+        {
+          "verse": 12,
+          "text": "My generation is at an end, and it is rolled away from me, as a shepherd's tent. My life is cut off, as by a weaver: whilst I was yet but beginning, he cut me off: from morning even to night thou wilt make an end of me."
+        },
+        {
+          "verse": 13,
+          "text": "I hoped till morning; as a lion so hath he broken all my bones: from morning even to night thou wilt make an end of me."
+        },
+        {
+          "verse": 14,
+          "text": "I will cry like a young swallow; I will meditate like a dove: my eyes are weakened looking upward: Lord, I suffer violence, answer thou for me."
+        },
+        {
+          "verse": 15,
+          "text": "What shall I say, or what shall he answer for me, whereas he himself hath done it? I will recount to thee all my years in the bitterness of my soul."
+        },
+        {
+          "verse": 16,
+          "text": "O Lord, if man's life be such, and the life of my spirit be in such things as these, thou shalt correct me, and make me to live."
+        },
+        {
+          "verse": 17,
+          "text": "Behold in peace is my bitterness most bitter: but thou best delivered my soul that it should not perish; thou hast cast all my sins behind thy back."
+        },
+        {
+          "verse": 18,
+          "text": "For hell shall not confess to thee, neither shall death praise thee: nor shall they that go down into the pit, look for thy truth."
+        },
+        {
+          "verse": 19,
+          "text": "The living, the living, he shall give praise to thee, as I do this day: the father shall make thy truth known to the children."
+        },
+        {
+          "verse": 20,
+          "text": "O Lord, save me, and we will sing our psalms all the days of our life in the house of the Lord."
+        },
+        {
+          "verse": 21,
+          "text": "Now Isaias had ordered that they should take a lump of figs, and lay it as it plaster upon the wound, and that he should be healed."
+        },
+        {
+          "verse": 22,
+          "text": "And Ezechias had said: What shall be the sign that I shall go up to the house of the Lord?"
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 598
+    },
+    {
+      "book": "Mark",
+      "chapter_number": 10,
+      "chapter_title": "Mark 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And *rising up from thence, he cometh into the borders of Judea, beyond the Jordan: and the multitudes flock to him again. And as he was accustomed, he taught them again."
+        },
+        {
+          "verse": 2,
+          "text": "And the Pharisees coming to him, asked him: Is it lawful for a man to put away his wife? tempting him."
+        },
+        {
+          "verse": 3,
+          "text": "But he answering, saith to them: What did Moses command you?"
+        },
+        {
+          "verse": 4,
+          "text": "They said: *Moses permitted to write a bill of divorce, and to put her away."
+        },
+        {
+          "verse": 5,
+          "text": "Jesus answering, said to them: Because of the hardness of your heart, he wrote you that precept."
+        },
+        {
+          "verse": 6,
+          "text": "But from the beginning of the creation, *God made them male and female."
+        },
+        {
+          "verse": 7,
+          "text": "For this cause *a man shall leave his father and mother, and shall cleave to his wife."
+        },
+        {
+          "verse": 8,
+          "text": "*And they two shall be in one flesh. Therefore now they are not two, but one flesh."
+        },
+        {
+          "verse": 9,
+          "text": "What therefore God hath joined together, let not man put asunder."
+        },
+        {
+          "verse": 10,
+          "text": "And in the house again his disciples asked him concerning the same thing."
+        },
+        {
+          "verse": 11,
+          "text": "And he saith to them: Whosoever shall put away his wife, and marry another, committeth adultery against her."
+        },
+        {
+          "verse": 12,
+          "text": "And if the wife shall put away her husband, and be married to another, she committeth adultery."
+        },
+        {
+          "verse": 13,
+          "text": "And they brought to him young children, that he might touch them. And the disciples rebuked them that brought them."
+        },
+        {
+          "verse": 14,
+          "text": "Whom when Jesus saw, he was much displeased, and said to them: Suffer the little children to come to me, and forbid them not: for of such is the kingdom of God."
+        },
+        {
+          "verse": 15,
+          "text": "Amen, I say to you, whosoever shall not receive the kingdom of God as a little child, shall not enter into it."
+        },
+        {
+          "verse": 16,
+          "text": "And embracing them, and laying his hands upon them, he blessed them."
+        },
+        {
+          "verse": 17,
+          "text": "And when he was gone forth into the way, a certain man running up and kneeling before him, *asked him: Good Master, what shall I do that I may receive life everlasting?"
+        },
+        {
+          "verse": 18,
+          "text": "And Jesus said to him: Why callest thou me good? None is good but one; that is God."
+        },
+        {
+          "verse": 19,
+          "text": "*Thou knowest the commandments: Do not commit adultery, do not kill, do not steal, bear not false witness, do not fraud, honour thy father and mother."
+        },
+        {
+          "verse": 20,
+          "text": "But he answering, said to him: Master, all these things I have observed from my youth."
+        },
+        {
+          "verse": 21,
+          "text": "And Jesus looking on him, loved him; and said to him: One thing is wanting unto thee: go, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me."
+        },
+        {
+          "verse": 22,
+          "text": "But he being struck sad at the saying, went away sorrowful: for he had great possessions."
+        },
+        {
+          "verse": 23,
+          "text": "And Jesus looking round about, saith to his disciples: How hardly shall they who have riches, enter into the kingdom of God!"
+        },
+        {
+          "verse": 24,
+          "text": "And the disciples were astonished at his words. But Jesus answering again, saith to them: Children, how hard is it for them that trust in riches, to enter into the kingdom of God!"
+        },
+        {
+          "verse": 25,
+          "text": "It is easier for a camel to pass through the eye of a needle, than for a rich man to enter into the kingdom of God."
+        },
+        {
+          "verse": 26,
+          "text": "They wondered the more, saying among themselves: Who then can be saved?"
+        },
+        {
+          "verse": 27,
+          "text": "And Jesus looking on them, saith: With men it is impossible; but not with God: for all things are possible with God."
+        },
+        {
+          "verse": 28,
+          "text": "*And Peter began to say to him: Behold, we have left all things, and have followed thee."
+        },
+        {
+          "verse": 29,
+          "text": "Jesus answering, said: Amen, I say to you, there is no man, who hath left house, or brethren, or sisters, or father, or mother, or children, or lands, for my sake and for the gospel,"
+        },
+        {
+          "verse": 30,
+          "text": "Who shall not receive a hundred times as much, now in this time; houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions: and in the world to come life everlasting."
+        },
+        {
+          "verse": 31,
+          "text": "*But many that are first, shall be last, and the last, first."
+        },
+        {
+          "verse": 32,
+          "text": "And they were in the way going up to Jerusalem: and Jesus went before them, and they were astonished: and following, were afraid. *And taking again the twelve, he began to tell them the things that should befall him."
+        },
+        {
+          "verse": 33,
+          "text": "Saying: Behold we go up to Jerusalem, and the Son of man shall be betrayed to the chief priests, and to the Scribes and ancients, and they shall condemn him to death, and shall deliver him to the Gentiles."
+        },
+        {
+          "verse": 34,
+          "text": "And they shall mock him, and spit on him, and scourge him, and kill him: and the third day he shall rise again."
+        },
+        {
+          "verse": 35,
+          "text": "*And James, and John, the sons of Zebedee, came to him, saying: Master, we desire that whatsoever we shall ask, thou wouldst do it for us."
+        },
+        {
+          "verse": 36,
+          "text": "But he said to them: What would you that I should do for you?"
+        },
+        {
+          "verse": 37,
+          "text": "And they said: Grant to us, that we may sit, one on thy right hand, and the other on thy left hand, in thy glory."
+        },
+        {
+          "verse": 38,
+          "text": "And Jesus said to them: You know not what you ask. Can you drink of the chalice that I drink of: or be baptized with the baptism wherewith I am baptized?"
+        },
+        {
+          "verse": 39,
+          "text": "But they said to him: We can. And Jesus saith to them: You shall indeed drink of the chalice that I drink of: and with the baptism wherewith I am baptized, you shall be baptized:"
+        },
+        {
+          "verse": 40,
+          "text": "But to sit on my right hand, or on my left, is not mine to give to you, but to them for whom it is prepared."
+        },
+        {
+          "verse": 41,
+          "text": "And the ten hearing it, began to be much displeased at James and John."
+        },
+        {
+          "verse": 42,
+          "text": "But Jesus calling them, saith to them: *You know that they who seem to rule over the Gentiles, lord it over them: and their princes have power over them."
+        },
+        {
+          "verse": 43,
+          "text": "But it is not so among you: but whosoever will be greater, shall be your minister."
+        },
+        {
+          "verse": 44,
+          "text": "And whosoever will be first among you, shall be the servant of all."
+        },
+        {
+          "verse": 45,
+          "text": "For the Son of man also is not come to be ministered unto, but to minister, and to give his life a redemption for many."
+        },
+        {
+          "verse": 46,
+          "text": "*And they came to Jericho: and as he went out of Jericho, with his disciples and a very great multitude, Bartimaeus, the blind man, the son of Timaeus, sat by the way side, begging."
+        },
+        {
+          "verse": 47,
+          "text": "And when he had heard that it was Jesus of Nazareth, he began to cry out, and to say: Jesus, Son of David, have mercy on me."
+        },
+        {
+          "verse": 48,
+          "text": "And many rebuked him, that he might hold his peace. But he cried a great deal the more: Son of David, have mercy on me."
+        },
+        {
+          "verse": 49,
+          "text": "And Jesus standing still, commanded him to be called. And they call the blind man, saying to him: Be of better comfort: arise, he calleth thee."
+        },
+        {
+          "verse": 50,
+          "text": "He casting off his garment, leaped up, and came to him."
+        },
+        {
+          "verse": 51,
+          "text": "And Jesus answering, said to him: What wilt thou that I should do to thee? And the blind man said to him: Rabboni, that I may see."
+        },
+        {
+          "verse": 52,
+          "text": "And Jesus saith to him: Go thy way, thy faith hath made thee whole. And immediately he saw, and followed him in the way."
+        }
+      ],
+      "verse_count": 52,
+      "word_count": 1175
+    }
+  ]
+}

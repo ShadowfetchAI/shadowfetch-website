@@ -1,0 +1,609 @@
+{
+  "day_number": 61,
+  "references": "Numbers 4-5 • Psalms 19 • Isaias 61 • Luke 17",
+  "word_count": 3331,
+  "estimated_minutes": 16,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 19:1",
+    "text": "Unto the end. A psalm for David.",
+    "reflection": "Let this verse be the quieter voice that sets the pace for the rest of the day."
+  },
+  "tomorrow_teaser": "Numbers 6-7 • Psalms 20 • Isaias 62 • Luke 18",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 4,
+      "chapter_title": "Numbers 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Lord spoke *to Moses, and Aaron, saying:"
+        },
+        {
+          "verse": 2,
+          "text": "Take the sum of the sons of Caath from the midst of the Levites, by their houses and families."
+        },
+        {
+          "verse": 3,
+          "text": "From thirty years old and upward, to fifty years old, of all that go in to stand and to minister in the tabernacle of the covenant."
+        },
+        {
+          "verse": 4,
+          "text": "This is the service of the sons of Caath:"
+        },
+        {
+          "verse": 5,
+          "text": "When the camp is to set forward, Aaron and his sons shall go into the tabernacle of the covenant, and the holy of holies, and shall take down the veil that hangeth before the door, and shall wrap up the ark of the testimony in it,"
+        },
+        {
+          "verse": 6,
+          "text": "And shall cover it again with a cover of violet skins, and shall spread over it a cloth all of violet, and shall put in the bars."
+        },
+        {
+          "verse": 7,
+          "text": "They shall wrap up also the table of proposition in a cloth of violet, and shall put with it the censers and little mortars, the cups and bowls to pour out the libations: the loaves shall be always on it:"
+        },
+        {
+          "verse": 8,
+          "text": "And they shall spread over it a cloth of scarlet, which again they shall cover with a covering of violet skins, and shall put in the bars."
+        },
+        {
+          "verse": 9,
+          "text": "They shall take also a cloth of violet, wherewith they shall cover the candlestick with the lamps and tongs thereof, and the snuffers, and all the oil vessels, which are necessary for the dressing of the lamps:"
+        },
+        {
+          "verse": 10,
+          "text": "And over all they shall put a cover of violet skins, and put in the bars."
+        },
+        {
+          "verse": 11,
+          "text": "And they shall wrap up the golden altar also in a cloth of violet, and shall spread over it a cover of violet skins, and put in the bars."
+        },
+        {
+          "verse": 12,
+          "text": "All the vessels wherewith they minister in the sanctuary, they shall wrap up in a cloth of violet, and shall spread over it a cover of violet skins, and put in the bars."
+        },
+        {
+          "verse": 13,
+          "text": "They shall cleanse the altar also from the ashes, and shall wrap it up in a purple cloth,"
+        },
+        {
+          "verse": 14,
+          "text": "And shall put it with all the vessels that they use in the ministry thereof, that is to say, fire-pans, flesh-hooks and forks, pot-hooks and shovels. They shall cover all the vessels of the altar together with a covering of violet skins, and shall put in the bars."
+        },
+        {
+          "verse": 15,
+          "text": "And when Aaron and his sons have wrapped up the sanctuary and the vessels thereof at the removing of the camp, then shall the *sons of Caath enter in to carry the things wrapped up: and they shall not touch the vessels of the sanctuary, lest they die. These are the burdens of the sons of Caath: in the tabernacle of the covenant:"
+        },
+        {
+          "verse": 16,
+          "text": "And over them shall be Eleazar, the son of Aaron the priest, to whose charge pertaineth the oil to dress the lamps, and the sweet incense, and the sacrifice, that is always offered, and the oil of unction, and whatsoever pertaineth to the service of the tabernacle, and of all the vessels that are in the sanctuary."
+        },
+        {
+          "verse": 17,
+          "text": "And the Lord spoke to Moses and Aaron, saying:"
+        },
+        {
+          "verse": 18,
+          "text": "Destroy not the people of Caath from the midst of the Levites:"
+        },
+        {
+          "verse": 19,
+          "text": "But do this to them, that they may live, and not die, by touching the holies of holies. Aaron and his sons shall go in, and they shall appoint every man his work, and shall divide the burdens that every man is to carry."
+        },
+        {
+          "verse": 20,
+          "text": "Let not others, by any curiosity, see the things that are in the sanctuary before they be wrapped up, otherwise they shall die."
+        },
+        {
+          "verse": 21,
+          "text": "And the Lord spoke to Moses, saying:"
+        },
+        {
+          "verse": 22,
+          "text": "Take the sum of the soils of Gerson also, by their houses, and families, and kindreds,"
+        },
+        {
+          "verse": 23,
+          "text": "From thirty years old and upward, unto fifty years old. Number them all that go in and minister in the tabernacle of the covenant."
+        },
+        {
+          "verse": 24,
+          "text": "This is the office of the family of the Gersonites:"
+        },
+        {
+          "verse": 25,
+          "text": "To carry the curtains of the tabernacle, and the roof of the covenant, the other covering, and the violet covering over all, and the hanging that hangeth in the entry of the tabernacle of the covenant,"
+        },
+        {
+          "verse": 26,
+          "text": "The curtains of the court, and the veil in the entry that is before the tabernacle. All things that pertain to the altar, the cords, and the vessels of the ministry,"
+        },
+        {
+          "verse": 27,
+          "text": "The sons of Gerson shall carry, by the commandment of Aaron and his sons: and each man shall know to what burden he must be assigned."
+        },
+        {
+          "verse": 28,
+          "text": "This is the service of the family of the Gersonites, in the tabernacle of the covenant, and they shall be under the hand of Ithamar, the son of Aaron the priest."
+        },
+        {
+          "verse": 29,
+          "text": "Thou shalt reckon up the sons of Merari also, by the families and houses of their fathers,"
+        },
+        {
+          "verse": 30,
+          "text": "From thirty years old and upward, unto fifty years old, all that go in to the office of their ministry, and to the service of the covenant of the testimony."
+        },
+        {
+          "verse": 31,
+          "text": "These are their burdens: They shall carry the boards of the tabernacle and the bars thereof, the pillars and their sockets,"
+        },
+        {
+          "verse": 32,
+          "text": "The pillars also of the court round about, with their sockets and pins and cords. They shall receive by account all the vessels and furniture, and so shall carry them."
+        },
+        {
+          "verse": 33,
+          "text": "This is the office of the family of the Merarites, and their ministry in the tabernacle of the covenant: and they shall be under the hand of Ithamar, the son of Aaron the priest."
+        },
+        {
+          "verse": 34,
+          "text": "So Moses and Aaron and the princes of the synagogue, reckoned up the sons of Caath, by their kindreds and the houses of their fathers,"
+        },
+        {
+          "verse": 35,
+          "text": "From thirty years old and upward, unto fifty years old, all that go in to the ministry of the tabernacle of the covenant:"
+        },
+        {
+          "verse": 36,
+          "text": "And they were found two thousand seven hundred and fifty."
+        },
+        {
+          "verse": 37,
+          "text": "This is the number of the people of Caath, that go in to the tabernacle of the covenant: these did Moses and Aaron number according to the word of the Lord by the hand of Moses."
+        },
+        {
+          "verse": 38,
+          "text": "The sons of Gerson also were numbered by the kindreds and houses of their fathers,"
+        },
+        {
+          "verse": 39,
+          "text": "From thirty years old and upward, unto fifty years old, all that go in to minister in the tabernacle of the covenant:"
+        },
+        {
+          "verse": 40,
+          "text": "And they were found two thousand six hundred and thirty."
+        },
+        {
+          "verse": 41,
+          "text": "This is the people of the Gersonites, whom Moses and Aaron numbered according to the word of the Lord."
+        },
+        {
+          "verse": 42,
+          "text": "The sons of Merari also were numbered by the kindreds and houses of their fathers,"
+        },
+        {
+          "verse": 43,
+          "text": "From thirty years old and upward, unto fifty years old, all that go in to fulfil the rites of the tabernacle of the covenant:"
+        },
+        {
+          "verse": 44,
+          "text": "And they were found three thousand two hundred."
+        },
+        {
+          "verse": 45,
+          "text": "This is the number of the sons of Merari, whom Moses and Aaron reckoned up, according to the commandment of the Lord by the hand of Moses."
+        },
+        {
+          "verse": 46,
+          "text": "All that were reckoned up of the Levites, and whom Moses and Aaron and the princes of Israel took by name, by the kindreds and houses of their fathers,"
+        },
+        {
+          "verse": 47,
+          "text": "From thirty years old and upward, until fifty years old, that go into the ministry of the tabernacle, and to carry the burdens,"
+        },
+        {
+          "verse": 48,
+          "text": "Were in all eight thousand five hundred and eighty."
+        },
+        {
+          "verse": 49,
+          "text": "Moses reckoned them up according to the word of the Lord, every one according to their office and burdens, as the Lord had commanded him."
+        }
+      ],
+      "verse_count": 49,
+      "word_count": 1225
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 5,
+      "chapter_title": "Numbers 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Lord spoke to Moses, *saying:"
+        },
+        {
+          "verse": 2,
+          "text": "Command the children of Israel, that they cast out of the camp every leper, and whosoever hath an issue of seed, or is defiled by the dead:"
+        },
+        {
+          "verse": 3,
+          "text": "Whether it be man or woman, cast ye them out of the camp, lest they defile it when I shall dwell with you."
+        },
+        {
+          "verse": 4,
+          "text": "And the children of Israel did so, and they cast them forth without the camp, as the Lord had spoken to Moses."
+        },
+        {
+          "verse": 5,
+          "text": "And the Lord spoke to Moses, saying:"
+        },
+        {
+          "verse": 6,
+          "text": "Say to the children of Israel: When a man or woman shall have committed any of all the sins that men are wont to commit, and by negligence shall have transgressed the commandment of the Lord, and offended,"
+        },
+        {
+          "verse": 7,
+          "text": "They shall confess their sin, and restore the principal itself, and the fifth part over and above, to him against whom they have sinned."
+        },
+        {
+          "verse": 8,
+          "text": "But if there be no one to receive it, they shall give it to the Lord, and it shall be the priest's, besides the ram that is offered for expiation, to be an atoning sacrifice."
+        },
+        {
+          "verse": 9,
+          "text": "All the first-fruits also, which the children of Israel offer, belong to the priest:"
+        },
+        {
+          "verse": 10,
+          "text": "And whatsoever is offered into the sanctuary by every one, and is delivered into the hands of the priest, it shall be his."
+        },
+        {
+          "verse": 11,
+          "text": "And the Lord spoke to Moses, saying:"
+        },
+        {
+          "verse": 12,
+          "text": "Speak to the children of Israel, and thou shalt say to them: The man whose wife shall have gone astray, and contemning her husband,"
+        },
+        {
+          "verse": 13,
+          "text": "Shall have slept with another man, and her husband cannot discover it, but the adultery is secret, and cannot be proved by witnesses, because she was not found in the adultery:"
+        },
+        {
+          "verse": 14,
+          "text": "If the spirit of jealousy stir up the husband against his wife, who either is defiled, or is charged with false suspicion,"
+        },
+        {
+          "verse": 15,
+          "text": "He shall bring her to the priest, and shall offer an oblation for her, the tenth part of a measure of barley meal: he shall not pour oil thereon, nor put frankincense upon it: because it is a sacrifice of jealousy, and an oblation searching out adultery."
+        },
+        {
+          "verse": 16,
+          "text": "The priest therefore shall offer it, and set it before the Lord."
+        },
+        {
+          "verse": 17,
+          "text": "And he shall take holy water in an earthen vessel, and he shall cast a little earth of the pavement of the tabernacle into it."
+        },
+        {
+          "verse": 18,
+          "text": "And when the woman shall stand before the Lord, he shall uncover her head, and shall put on her hands the sacrifice of remembrance, and the oblation of jealousy: and he himself shall hold the most bitter waters, whereon he hath heaped curses with execration."
+        },
+        {
+          "verse": 19,
+          "text": "And he shall adjure her, and shall say: If another man hath not slept with thee, and if thou be not defiled by forsaking thy husband's bed, these most bitter waters, on which I have heaped curses, shall not hurt thee."
+        },
+        {
+          "verse": 20,
+          "text": "But if thou hast gone aside from thy husband, and art defiled, and hast lain with another man:"
+        },
+        {
+          "verse": 21,
+          "text": "These curses shall light upon thee: The Lord make thee a curse, and an example for all among his people: may he make thy thigh to rot, and may thy belly swell and burst asunder."
+        },
+        {
+          "verse": 22,
+          "text": "Let the cursed waters enter into thy belly, and may thy womb swell and thy thigh rot. And the woman shall answer: Amen, amen."
+        },
+        {
+          "verse": 23,
+          "text": "And the priest shall write these curses in a book, and shall wash them out with the most bitter waters, upon which he hath heaped the curses,"
+        },
+        {
+          "verse": 24,
+          "text": "And he shall give them her to drink. And when she hath drunk them up,"
+        },
+        {
+          "verse": 25,
+          "text": "The priest shall take from her hand the sacrifice of jealousy, and shall elevate it before the Lord, and shall put it upon the altar: yet so as first,"
+        },
+        {
+          "verse": 26,
+          "text": "To take a handful of the sacrifice of that which is offered, and burn it upon the altar: and so give the most bitter waters to the woman to drink."
+        },
+        {
+          "verse": 27,
+          "text": "And when she hath drunk them, if she be defiled, and having despised her husband be guilty of adultery, the malediction shall go through her, and her belly swelling, her thigh shall rot: and the woman shall be a curse, and an example to all the people."
+        },
+        {
+          "verse": 28,
+          "text": "But if she be not defiled, she shall not be hurt, and shall bear children."
+        },
+        {
+          "verse": 29,
+          "text": "This is the law of jealousy. If a woman hath gone aside from her husband, and be defiled,"
+        },
+        {
+          "verse": 30,
+          "text": "And the husband, stirred up by the spirit of jealousy, bring her before the Lord, and the priest do to her according to all things that are here written:"
+        },
+        {
+          "verse": 31,
+          "text": "The husband shall be blameless, and she shall bear her iniquity."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 772
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 19,
+      "chapter_title": "Psalms 19",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Unto the end. A psalm for David."
+        },
+        {
+          "verse": 2,
+          "text": "May the Lord hear thee in the day of tribulation: may the name of the God of Jacob protect thee."
+        },
+        {
+          "verse": 3,
+          "text": "May he send thee help from the sanctuary: and defend thee out of Sion."
+        },
+        {
+          "verse": 4,
+          "text": "May he be mindful of all thy sacrifices: and may thy whole burnt-offering be made fat."
+        },
+        {
+          "verse": 5,
+          "text": "May he give thee according to thy own heart; and confirm all thy counsels."
+        },
+        {
+          "verse": 6,
+          "text": "We will rejoice in thy salvation; and in the name of our God we shall be exalted."
+        },
+        {
+          "verse": 7,
+          "text": "The Lord fulfil all thy petitions: now have I known that the Lord hath saved his anointed. He will hear him from his holy heaven: the salvation of his right hand is in powers."
+        },
+        {
+          "verse": 8,
+          "text": "Some trust in chariots, and some in horses: but we will call upon the name of the Lord, our God."
+        },
+        {
+          "verse": 9,
+          "text": "They are bound, and have fallen; but we are risen, and are set upright."
+        }
+      ],
+      "verse_count": 9,
+      "word_count": 156
+    },
+    {
+      "book": "Isaias",
+      "chapter_number": 61,
+      "chapter_title": "Isaias 61",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The *spirit of the Lord is upon me, because the Lord hath anointed me: he hath sent me to preach to the meek, to heal the contrite of heart, and to preach a release to the captives, and deliverance to them that are shut up."
+        },
+        {
+          "verse": 2,
+          "text": "To proclaim the acceptable year of the Lord, and the day of vengeance of our God: *to comfort all that mourn:"
+        },
+        {
+          "verse": 3,
+          "text": "To appoint to the mourners of Sion, and to give them a crown for ashes, the oil of joy for mourning, a garment of praise for the spirit of grief: and they shall be called in it the mighty ones of justice, the planting of the Lord to glorify him."
+        },
+        {
+          "verse": 4,
+          "text": "*And they shall build the places that have been waste from of old, and shall raise up ancient ruins, and shall repair the desolate cities, that were destroyed for generation and generation."
+        },
+        {
+          "verse": 5,
+          "text": "And strangers shall stand and shall feed your flocks: and the sons of strangers shall be your husbandmen, and the dressers of your vines."
+        },
+        {
+          "verse": 6,
+          "text": "But you shall be called the priests of the Lord: to you it shall be said: Ye ministers of our God: you shall eat the riches of the Gentiles, and you shall pride yourselves in their glory."
+        },
+        {
+          "verse": 7,
+          "text": "For your double confusion and shame, they shall praise their part: therefore shall they receive double in their land, everlasting joy shall be unto them."
+        },
+        {
+          "verse": 8,
+          "text": "For I am the Lord that love judgment, and hate robbery in a holocaust: and I will make their work in truth, and I will make a perpetual covenant with them."
+        },
+        {
+          "verse": 9,
+          "text": "And they shall know their seed among the Gentiles, and their offspring in the midst of peoples: all that shall see them, shall know them, that these are the seed which the Lord hath blessed."
+        },
+        {
+          "verse": 10,
+          "text": "I will greatly rejoice in the Lord, and my soul shall be joyful in my God: for he hath clothed me with the garments of salvation: and with the robe of justice he hath covered me, as a bridegroom decked with a crown, and as a bride adorned with her jewels."
+        },
+        {
+          "verse": 11,
+          "text": "For as the earth bringeth forth her bud, and as the garden causeth her seed to shoot forth: so shall the Lord God make justice to spring forth, and praise before all the nations."
+        }
+      ],
+      "verse_count": 11,
+      "word_count": 385
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 17,
+      "chapter_title": "Luke 17",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And *he said to his disciples: It is impossible that scandals should not come: but wo to him through whom they come."
+        },
+        {
+          "verse": 2,
+          "text": "It were better for him that a millstone were put about his neck, and he cast into the sea, than that he should scandalize one of these little ones."
+        },
+        {
+          "verse": 3,
+          "text": "Take heed to yourselves. *If thy brother sin against thee, reprove him: and if he do penance, forgive him."
+        },
+        {
+          "verse": 4,
+          "text": "And if he sin against thee seven times in a day, and seven times in a day turn again to thee, saying: I repent: forgive him."
+        },
+        {
+          "verse": 5,
+          "text": "And the apostles said to the Lord; Increase our faith."
+        },
+        {
+          "verse": 6,
+          "text": "*And the Lord said; If you had faith like to a grain of mustard-seed, you might say to this mulberry-tree; Be thou rooted up, and be transplanted into the sea, and it shall obey you."
+        },
+        {
+          "verse": 7,
+          "text": "But which of you having a servant ploughing or feeding cattle, will say to him when he is come from the field: Immediately go, sit down to table:"
+        },
+        {
+          "verse": 8,
+          "text": "And will not rather say to him: Make ready my supper, and gird thyself, and serve me whilst I eat and drink, and afterwards thou shalt eat and drink?"
+        },
+        {
+          "verse": 9,
+          "text": "Doth he thank that servant, because he did the things which he commanded him?"
+        },
+        {
+          "verse": 10,
+          "text": "I think not. So you also, when you shall have done all the things that are commanded you, say: We are unprofitable servants: we have done that which we ought to do."
+        },
+        {
+          "verse": 11,
+          "text": "And it came to pass, as he was going to Jerusalem, that he passed through the midst of Samaria and Galilee."
+        },
+        {
+          "verse": 12,
+          "text": "And as he entered into a certain town, there met him ten men, that were lepers, who stood afar off:"
+        },
+        {
+          "verse": 13,
+          "text": "And they lifted up their voice, saying: Jesus, master, have mercy on us."
+        },
+        {
+          "verse": 14,
+          "text": "And when he saw, he said: *Go, shew yourselves to the priests. And it came to pass, that as they went, they were cleansed."
+        },
+        {
+          "verse": 15,
+          "text": "And one of them, when he saw that he was cleansed, went back, with a loud voice, glorifying God."
+        },
+        {
+          "verse": 16,
+          "text": "And he fell on his face before his feet, giving thanks: and this man was a Samaritan."
+        },
+        {
+          "verse": 17,
+          "text": "And Jesus answering, said, Were there not ten made clean? and where are the nine?"
+        },
+        {
+          "verse": 18,
+          "text": "There is no one found to return and give glory to God, but this stranger."
+        },
+        {
+          "verse": 19,
+          "text": "And he said to him: Arise, go thy way: for thy faith hath made thee whole."
+        },
+        {
+          "verse": 20,
+          "text": "And being asked by the Pharisees, when the kingdom of God should come? he, answering them, said: The kingdom of God cometh not with observation:"
+        },
+        {
+          "verse": 21,
+          "text": "Neither shall they say: Behold here, or behold there: for lo, the kingdom of God is within you."
+        },
+        {
+          "verse": 22,
+          "text": "And he said to his disciples: The days will come, when you shall desire to see one day of the Son of man, and you shall not see it."
+        },
+        {
+          "verse": 23,
+          "text": "*And they will say to you: Lo here, and lo there. Go ye not after, nor follow them:"
+        },
+        {
+          "verse": 24,
+          "text": "For as the lightening that lighteneth from under heaven, shineth unto the parts that are under heaven, so shall the Son of man be in his day."
+        },
+        {
+          "verse": 25,
+          "text": "But first he must suffer many things, and be rejected by this generation."
+        },
+        {
+          "verse": 26,
+          "text": "*And as it was in the days of Noe, so shall it be also in the days of the Son of man."
+        },
+        {
+          "verse": 27,
+          "text": "They did eat and drink, they married wives, and were given in marriage, until the day that Noe entered into the ark: and the flood came, and destroyed them all."
+        },
+        {
+          "verse": 28,
+          "text": "*Likewise, as it was in the days of Lot: They did eat and drink, they bought and sold, they planted and built:"
+        },
+        {
+          "verse": 29,
+          "text": "And in the day that Lot went out of Sodom, it rained fire and brimstone from heaven, and destroyed them all:"
+        },
+        {
+          "verse": 30,
+          "text": "Even thus shall it be in the day when the Son of man shall be revealed."
+        },
+        {
+          "verse": 31,
+          "text": "In that hour he that shall be on the house top, and his goods in the house, let him not go down to take them away: and he that shall be in the field, in like manner, let him not return back."
+        },
+        {
+          "verse": 32,
+          "text": "Remember Lot's wife."
+        },
+        {
+          "verse": 33,
+          "text": "*Whosoever shall seek to save his life, shall lose it: and whosoever shall lose it, shall preserve it."
+        },
+        {
+          "verse": 34,
+          "text": "I say to you: *in that night there shall be two men in one bed: the one shall be taken, and the other shall be left."
+        },
+        {
+          "verse": 35,
+          "text": "Two women shall be grinding together; the one shall be taken, and the other shall be left: two men shall be in the field; the one shall be taken, and the other shall be left."
+        },
+        {
+          "verse": 36,
+          "text": "They answering, said to him: Where, Lord?"
+        },
+        {
+          "verse": 37,
+          "text": "He said to them: Wheresoever the body shall be, thither will the eagles also be gathered together."
+        }
+      ],
+      "verse_count": 37,
+      "word_count": 793
+    }
+  ]
+}

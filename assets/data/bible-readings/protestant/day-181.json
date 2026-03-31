@@ -1,0 +1,424 @@
+{
+  "day_number": 181,
+  "references": "1 Samuel 16 • Psalms 139 • Daniel 10 • Colossians 3",
+  "word_count": 2197,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 139:1",
+    "text": "O LORD, thou hast searched me, and known me.",
+    "reflection": "Let this verse be the quieter voice that sets the pace for the rest of the day."
+  },
+  "tomorrow_teaser": "1 Samuel 17 • Psalms 140 • Daniel 11 • Colossians 4",
+  "chapters": [
+    {
+      "book": "1 Samuel",
+      "chapter_number": 16,
+      "chapter_title": "1 Samuel 16",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons."
+        },
+        {
+          "verse": 2,
+          "text": "And Samuel said, How can I go? if Saul hear it, he will kill me. And the LORD said, Take an heifer with thee, and say, I am come to sacrifice to the LORD."
+        },
+        {
+          "verse": 3,
+          "text": "And call Jesse to the sacrifice, and I will shew thee what thou shalt do: and thou shalt anoint unto me him whom I name unto thee."
+        },
+        {
+          "verse": 4,
+          "text": "And Samuel did that which the LORD spake, and came to Bethlehem. And the elders of the town trembled at his coming, and said, Comest thou peaceably?"
+        },
+        {
+          "verse": 5,
+          "text": "And he said, Peaceably: I am come to sacrifice unto the LORD: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice."
+        },
+        {
+          "verse": 6,
+          "text": "And it came to pass, when they were come, that he looked on Eliab, and said, Surely the LORD’s anointed is before him."
+        },
+        {
+          "verse": 7,
+          "text": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart."
+        },
+        {
+          "verse": 8,
+          "text": "Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the LORD chosen this."
+        },
+        {
+          "verse": 9,
+          "text": "Then Jesse made Shammah to pass by. And he said, Neither hath the LORD chosen this."
+        },
+        {
+          "verse": 10,
+          "text": "Again, Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse, The LORD hath not chosen these."
+        },
+        {
+          "verse": 11,
+          "text": "And Samuel said unto Jesse, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither."
+        },
+        {
+          "verse": 12,
+          "text": "And he sent, and brought him in. Now he was ruddy, and withal of a beautiful countenance, and goodly to look to. And the LORD said, Arise, anoint him: for this is he."
+        },
+        {
+          "verse": 13,
+          "text": "Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah."
+        },
+        {
+          "verse": 14,
+          "text": "But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him."
+        },
+        {
+          "verse": 15,
+          "text": "And Saul’s servants said unto him, Behold now, an evil spirit from God troubleth thee."
+        },
+        {
+          "verse": 16,
+          "text": "Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well."
+        },
+        {
+          "verse": 17,
+          "text": "And Saul said unto his servants, Provide me now a man that can play well, and bring him to me."
+        },
+        {
+          "verse": 18,
+          "text": "Then answered one of the servants, and said, Behold, I have seen a son of Jesse the Bethlehemite, that is cunning in playing, and a mighty valiant man, and a man of war, and prudent in matters, and a comely person, and the LORD is with him."
+        },
+        {
+          "verse": 19,
+          "text": "Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son, which is with the sheep."
+        },
+        {
+          "verse": 20,
+          "text": "And Jesse took an ass laden with bread, and a bottle of wine, and a kid, and sent them by David his son unto Saul."
+        },
+        {
+          "verse": 21,
+          "text": "And David came to Saul, and stood before him: and he loved him greatly; and he became his armourbearer."
+        },
+        {
+          "verse": 22,
+          "text": "And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight."
+        },
+        {
+          "verse": 23,
+          "text": "And it came to pass, when the evil spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 682
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 139,
+      "chapter_title": "Psalms 139",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O LORD, thou hast searched me, and known me."
+        },
+        {
+          "verse": 2,
+          "text": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off."
+        },
+        {
+          "verse": 3,
+          "text": "Thou compassest my path and my lying down, and art acquainted with all my ways."
+        },
+        {
+          "verse": 4,
+          "text": "For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether."
+        },
+        {
+          "verse": 5,
+          "text": "Thou hast beset me behind and before, and laid thine hand upon me."
+        },
+        {
+          "verse": 6,
+          "text": "Such knowledge is too wonderful for me; it is high, I cannot attain unto it."
+        },
+        {
+          "verse": 7,
+          "text": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?"
+        },
+        {
+          "verse": 8,
+          "text": "If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there."
+        },
+        {
+          "verse": 9,
+          "text": "If I take the wings of the morning, and dwell in the uttermost parts of the sea;"
+        },
+        {
+          "verse": 10,
+          "text": "Even there shall thy hand lead me, and thy right hand shall hold me."
+        },
+        {
+          "verse": 11,
+          "text": "If I say, Surely the darkness shall cover me; even the night shall be light about me."
+        },
+        {
+          "verse": 12,
+          "text": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee."
+        },
+        {
+          "verse": 13,
+          "text": "For thou hast possessed my reins: thou hast covered me in my mother’s womb."
+        },
+        {
+          "verse": 14,
+          "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well."
+        },
+        {
+          "verse": 15,
+          "text": "My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth."
+        },
+        {
+          "verse": 16,
+          "text": "Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them."
+        },
+        {
+          "verse": 17,
+          "text": "How precious also are thy thoughts unto me, O God! how great is the sum of them!"
+        },
+        {
+          "verse": 18,
+          "text": "If I should count them, they are more in number than the sand: when I awake, I am still with thee."
+        },
+        {
+          "verse": 19,
+          "text": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men."
+        },
+        {
+          "verse": 20,
+          "text": "For they speak against thee wickedly, and thine enemies take thy name in vain."
+        },
+        {
+          "verse": 21,
+          "text": "Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?"
+        },
+        {
+          "verse": 22,
+          "text": "I hate them with perfect hatred: I count them mine enemies."
+        },
+        {
+          "verse": 23,
+          "text": "Search me, O God, and know my heart: try me, and know my thoughts:"
+        },
+        {
+          "verse": 24,
+          "text": "And see if there be any wicked way in me, and lead me in the way everlasting."
+        }
+      ],
+      "verse_count": 24,
+      "word_count": 411
+    },
+    {
+      "book": "Daniel",
+      "chapter_number": 10,
+      "chapter_title": "Daniel 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing was true, but the time appointed was long: and he understood the thing, and had understanding of the vision."
+        },
+        {
+          "verse": 2,
+          "text": "In those days I Daniel was mourning three full weeks."
+        },
+        {
+          "verse": 3,
+          "text": "I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled."
+        },
+        {
+          "verse": 4,
+          "text": "And in the four and twentieth day of the first month, as I was by the side of the great river, which is Hiddekel;"
+        },
+        {
+          "verse": 5,
+          "text": "Then I lifted up mine eyes, and looked, and behold a certain man clothed in linen, whose loins were girded with fine gold of Uphaz:"
+        },
+        {
+          "verse": 6,
+          "text": "His body also was like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude."
+        },
+        {
+          "verse": 7,
+          "text": "And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great quaking fell upon them, so that they fled to hide themselves."
+        },
+        {
+          "verse": 8,
+          "text": "Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength."
+        },
+        {
+          "verse": 9,
+          "text": "Yet heard I the voice of his words: and when I heard the voice of his words, then was I in a deep sleep on my face, and my face toward the ground."
+        },
+        {
+          "verse": 10,
+          "text": "And, behold, an hand touched me, which set me upon my knees and upon the palms of my hands."
+        },
+        {
+          "verse": 11,
+          "text": "And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent. And when he had spoken this word unto me, I stood trembling."
+        },
+        {
+          "verse": 12,
+          "text": "Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words."
+        },
+        {
+          "verse": 13,
+          "text": "But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia."
+        },
+        {
+          "verse": 14,
+          "text": "Now I am come to make thee understand what shall befall thy people in the latter days: for yet the vision is for many days."
+        },
+        {
+          "verse": 15,
+          "text": "And when he had spoken such words unto me, I set my face toward the ground, and I became dumb."
+        },
+        {
+          "verse": 16,
+          "text": "And, behold, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength."
+        },
+        {
+          "verse": 17,
+          "text": "For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me."
+        },
+        {
+          "verse": 18,
+          "text": "Then there came again and touched me one like the appearance of a man, and he strengthened me,"
+        },
+        {
+          "verse": 19,
+          "text": "And said, O man greatly beloved, fear not: peace be unto thee, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me."
+        },
+        {
+          "verse": 20,
+          "text": "Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come."
+        },
+        {
+          "verse": 21,
+          "text": "But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 647
+    },
+    {
+      "book": "Colossians",
+      "chapter_number": 3,
+      "chapter_title": "Colossians 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God."
+        },
+        {
+          "verse": 2,
+          "text": "Set your affection on things above, not on things on the earth."
+        },
+        {
+          "verse": 3,
+          "text": "For ye are dead, and your life is hid with Christ in God."
+        },
+        {
+          "verse": 4,
+          "text": "When Christ, who is our life, shall appear, then shall ye also appear with him in glory."
+        },
+        {
+          "verse": 5,
+          "text": "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:"
+        },
+        {
+          "verse": 6,
+          "text": "For which things’ sake the wrath of God cometh on the children of disobedience:"
+        },
+        {
+          "verse": 7,
+          "text": "In the which ye also walked some time, when ye lived in them."
+        },
+        {
+          "verse": 8,
+          "text": "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth."
+        },
+        {
+          "verse": 9,
+          "text": "Lie not one to another, seeing that ye have put off the old man with his deeds;"
+        },
+        {
+          "verse": 10,
+          "text": "And have put on the new man, which is renewed in knowledge after the image of him that created him:"
+        },
+        {
+          "verse": 11,
+          "text": "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all."
+        },
+        {
+          "verse": 12,
+          "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;"
+        },
+        {
+          "verse": 13,
+          "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye."
+        },
+        {
+          "verse": 14,
+          "text": "And above all these things put on charity, which is the bond of perfectness."
+        },
+        {
+          "verse": 15,
+          "text": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful."
+        },
+        {
+          "verse": 16,
+          "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord."
+        },
+        {
+          "verse": 17,
+          "text": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him."
+        },
+        {
+          "verse": 18,
+          "text": "Wives, submit yourselves unto your own husbands, as it is fit in the Lord."
+        },
+        {
+          "verse": 19,
+          "text": "Husbands, love your wives, and be not bitter against them."
+        },
+        {
+          "verse": 20,
+          "text": "Children, obey your parents in all things: for this is well pleasing unto the Lord."
+        },
+        {
+          "verse": 21,
+          "text": "Fathers, provoke not your children to anger, lest they be discouraged."
+        },
+        {
+          "verse": 22,
+          "text": "Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:"
+        },
+        {
+          "verse": 23,
+          "text": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men;"
+        },
+        {
+          "verse": 24,
+          "text": "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ."
+        },
+        {
+          "verse": 25,
+          "text": "But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 457
+    }
+  ]
+}

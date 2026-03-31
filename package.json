@@ -1,11 +1,12 @@
 {
-  "name": "shadowfetch-news",
+  "name": "shadowfetch-bible-edition",
   "private": true,
   "scripts": {
+    "build:bible": "python3 scripts/build_bible_pages.py",
     "build:feed": "python3 scripts/build_feed.py",
     "build:pages": "python3 scripts/build_pages.py",
     "build:dist": "python3 scripts/build_dist.py",
-    "build": "npm run build:feed && npm run build:pages && npm run build:dist",
+    "build": "npm run build:bible && npm run build:dist",
     "dev": "wrangler pages dev dist",
     "deploy": "wrangler pages deploy dist"
   },

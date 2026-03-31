@@ -1,0 +1,496 @@
+{
+  "day_number": 240,
+  "references": "1 Kings 20 • Song of Solomon 5 • Zechariah 8 • Revelation 2",
+  "word_count": 3384,
+  "estimated_minutes": 16,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Song of Solomon 5:10",
+    "text": "My beloved is white and ruddy, the chiefest among ten thousand.",
+    "reflection": "If the day gets scattered, return here and let this verse gather you again."
+  },
+  "tomorrow_teaser": "1 Kings 21 • Song of Solomon 6 • Zechariah 9 • Revelation 3",
+  "chapters": [
+    {
+      "book": "1 Kings",
+      "chapter_number": 20,
+      "chapter_title": "1 Kings 20",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And Benhadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots; and he went up and besieged Samaria, and warred against it."
+        },
+        {
+          "verse": 2,
+          "text": "And he sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Benhadad,"
+        },
+        {
+          "verse": 3,
+          "text": "Thy silver and thy gold is mine; thy wives also and thy children, even the goodliest, are mine."
+        },
+        {
+          "verse": 4,
+          "text": "And the king of Israel answered and said, My lord, O king, according to thy saying, I am thine, and all that I have."
+        },
+        {
+          "verse": 5,
+          "text": "And the messengers came again, and said, Thus speaketh Benhadad, saying, Although I have sent unto thee, saying, Thou shalt deliver me thy silver, and thy gold, and thy wives, and thy children;"
+        },
+        {
+          "verse": 6,
+          "text": "Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, that whatsoever is pleasant in thine eyes, they shall put it in their hand, and take it away."
+        },
+        {
+          "verse": 7,
+          "text": "Then the king of Israel called all the elders of the land, and said, Mark, I pray you, and see how this man seeketh mischief: for he sent unto me for my wives, and for my children, and for my silver, and for my gold; and I denied him not."
+        },
+        {
+          "verse": 8,
+          "text": "And all the elders and all the people said unto him, Hearken not unto him, nor consent."
+        },
+        {
+          "verse": 9,
+          "text": "Wherefore he said unto the messengers of Benhadad, Tell my lord the king, All that thou didst send for to thy servant at the first I will do: but this thing I may not do. And the messengers departed, and brought him word again."
+        },
+        {
+          "verse": 10,
+          "text": "And Benhadad sent unto him, and said, The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me."
+        },
+        {
+          "verse": 11,
+          "text": "And the king of Israel answered and said, Tell him, Let not him that girdeth on his harness boast himself as he that putteth it off."
+        },
+        {
+          "verse": 12,
+          "text": "And it came to pass, when Ben-hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said unto his servants, Set yourselves in array. And they set themselves in array against the city."
+        },
+        {
+          "verse": 13,
+          "text": "And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I am the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "And Ahab said, By whom? And he said, Thus saith the LORD, Even by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou."
+        },
+        {
+          "verse": 15,
+          "text": "Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, even all the children of Israel, being seven thousand."
+        },
+        {
+          "verse": 16,
+          "text": "And they went out at noon. But Benhadad was drinking himself drunk in the pavilions, he and the kings, the thirty and two kings that helped him."
+        },
+        {
+          "verse": 17,
+          "text": "And the young men of the princes of the provinces went out first; and Benhadad sent out, and they told him, saying, There are men come out of Samaria."
+        },
+        {
+          "verse": 18,
+          "text": "And he said, Whether they be come out for peace, take them alive; or whether they be come out for war, take them alive."
+        },
+        {
+          "verse": 19,
+          "text": "So these young men of the princes of the provinces came out of the city, and the army which followed them."
+        },
+        {
+          "verse": 20,
+          "text": "And they slew every one his man: and the Syrians fled; and Israel pursued them: and Benhadad the king of Syria escaped on an horse with the horsemen."
+        },
+        {
+          "verse": 21,
+          "text": "And the king of Israel went out, and smote the horses and chariots, and slew the Syrians with a great slaughter."
+        },
+        {
+          "verse": 22,
+          "text": "And the prophet came to the king of Israel, and said unto him, Go, strengthen thyself, and mark, and see what thou doest: for at the return of the year the king of Syria will come up against thee."
+        },
+        {
+          "verse": 23,
+          "text": "And the servants of the king of Syria said unto him, Their gods are gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we shall be stronger than they."
+        },
+        {
+          "verse": 24,
+          "text": "And do this thing, Take the kings away, every man out of his place, and put captains in their rooms:"
+        },
+        {
+          "verse": 25,
+          "text": "And number thee an army, like the army that thou hast lost, horse for horse, and chariot for chariot: and we will fight against them in the plain, and surely we shall be stronger than they. And he hearkened unto their voice, and did so."
+        },
+        {
+          "verse": 26,
+          "text": "And it came to pass at the return of the year, that Benhadad numbered the Syrians, and went up to Aphek, to fight against Israel."
+        },
+        {
+          "verse": 27,
+          "text": "And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them like two little flocks of kids; but the Syrians filled the country."
+        },
+        {
+          "verse": 28,
+          "text": "And there came a man of God, and spake unto the king of Israel, and said, Thus saith the LORD, Because the Syrians have said, The LORD is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am the LORD."
+        },
+        {
+          "verse": 29,
+          "text": "And they pitched one over against the other seven days. And so it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day."
+        },
+        {
+          "verse": 30,
+          "text": "But the rest fled to Aphek, into the city; and there a wall fell upon twenty and seven thousand of the men that were left. And Benhadad fled, and came into the city, into an inner chamber."
+        },
+        {
+          "verse": 31,
+          "text": "And his servants said unto him, Behold now, we have heard that the kings of the house of Israel are merciful kings: let us, I pray thee, put sackcloth on our loins, and ropes upon our heads, and go out to the king of Israel: peradventure he will save thy life."
+        },
+        {
+          "verse": 32,
+          "text": "So they girded sackcloth on their loins, and put ropes on their heads, and came to the king of Israel, and said, Thy servant Benhadad saith, I pray thee, let me live. And he said, Is he yet alive? he is my brother."
+        },
+        {
+          "verse": 33,
+          "text": "Now the men did diligently observe whether any thing would come from him, and did hastily catch it: and they said, Thy brother Benhadad. Then he said, Go ye, bring him. Then Benhadad came forth to him; and he caused him to come up into the chariot."
+        },
+        {
+          "verse": 34,
+          "text": "And Ben-hadad said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then said Ahab, I will send thee away with this covenant. So he made a covenant with him, and sent him away."
+        },
+        {
+          "verse": 35,
+          "text": "And a certain man of the sons of the prophets said unto his neighbour in the word of the LORD, Smite me, I pray thee. And the man refused to smite him."
+        },
+        {
+          "verse": 36,
+          "text": "Then said he unto him, Because thou hast not obeyed the voice of the LORD, behold, as soon as thou art departed from me, a lion shall slay thee. And as soon as he was departed from him, a lion found him, and slew him."
+        },
+        {
+          "verse": 37,
+          "text": "Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded him."
+        },
+        {
+          "verse": 38,
+          "text": "So the prophet departed, and waited for the king by the way, and disguised himself with ashes upon his face."
+        },
+        {
+          "verse": 39,
+          "text": "And as the king passed by, he cried unto the king: and he said, Thy servant went out into the midst of the battle; and, behold, a man turned aside, and brought a man unto me, and said, Keep this man: if by any means he be missing, then shall thy life be for his life, or else thou shalt pay a talent of silver."
+        },
+        {
+          "verse": 40,
+          "text": "And as thy servant was busy here and there, he was gone. And the king of Israel said unto him, So shall thy judgment be; thyself hast decided it."
+        },
+        {
+          "verse": 41,
+          "text": "And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he was of the prophets."
+        },
+        {
+          "verse": 42,
+          "text": "And he said unto him, Thus saith the LORD, Because thou hast let go out of thy hand a man whom I appointed to utter destruction, therefore thy life shall go for his life, and thy people for his people."
+        },
+        {
+          "verse": 43,
+          "text": "And the king of Israel went to his house heavy and displeased, and came to Samaria."
+        }
+      ],
+      "verse_count": 43,
+      "word_count": 1480
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter_number": 5,
+      "chapter_title": "Song of Solomon 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved."
+        },
+        {
+          "verse": 2,
+          "text": "I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night."
+        },
+        {
+          "verse": 3,
+          "text": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?"
+        },
+        {
+          "verse": 4,
+          "text": "My beloved put in his hand by the hole of the door, and my bowels were moved for him."
+        },
+        {
+          "verse": 5,
+          "text": "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock."
+        },
+        {
+          "verse": 6,
+          "text": "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer."
+        },
+        {
+          "verse": 7,
+          "text": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me."
+        },
+        {
+          "verse": 8,
+          "text": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I am sick of love."
+        },
+        {
+          "verse": 9,
+          "text": "What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?"
+        },
+        {
+          "verse": 10,
+          "text": "My beloved is white and ruddy, the chiefest among ten thousand."
+        },
+        {
+          "verse": 11,
+          "text": "His head is as the most fine gold, his locks are bushy, and black as a raven."
+        },
+        {
+          "verse": 12,
+          "text": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set."
+        },
+        {
+          "verse": 13,
+          "text": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh."
+        },
+        {
+          "verse": 14,
+          "text": "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires."
+        },
+        {
+          "verse": 15,
+          "text": "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars."
+        },
+        {
+          "verse": 16,
+          "text": "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem."
+        }
+      ],
+      "verse_count": 16,
+      "word_count": 397
+    },
+    {
+      "book": "Zechariah",
+      "chapter_number": 8,
+      "chapter_title": "Zechariah 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Again the word of the LORD of hosts came to me, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Thus saith the LORD of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury."
+        },
+        {
+          "verse": 3,
+          "text": "Thus saith the LORD; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the LORD of hosts the holy mountain."
+        },
+        {
+          "verse": 4,
+          "text": "Thus saith the LORD of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age."
+        },
+        {
+          "verse": 5,
+          "text": "And the streets of the city shall be full of boys and girls playing in the streets thereof."
+        },
+        {
+          "verse": 6,
+          "text": "Thus saith the LORD of hosts; If it be marvellous in the eyes of the remnant of this people in these days, should it also be marvellous in mine eyes? saith the LORD of hosts."
+        },
+        {
+          "verse": 7,
+          "text": "Thus saith the LORD of hosts; Behold, I will save my people from the east country, and from the west country;"
+        },
+        {
+          "verse": 8,
+          "text": "And I will bring them, and they shall dwell in the midst of Jerusalem: and they shall be my people, and I will be their God, in truth and in righteousness."
+        },
+        {
+          "verse": 9,
+          "text": "Thus saith the LORD of hosts; Let your hands be strong, ye that hear in these days these words by the mouth of the prophets, which were in the day that the foundation of the house of the LORD of hosts was laid, that the temple might be built."
+        },
+        {
+          "verse": 10,
+          "text": "For before these days there was no hire for man, nor any hire for beast; neither was there any peace to him that went out or came in because of the affliction: for I set all men every one against his neighbour."
+        },
+        {
+          "verse": 11,
+          "text": "But now I will not be unto the residue of this people as in the former days, saith the LORD of hosts."
+        },
+        {
+          "verse": 12,
+          "text": "For the seed shall be prosperous; the vine shall give her fruit, and the ground shall give her increase, and the heavens shall give their dew; and I will cause the remnant of this people to possess all these things."
+        },
+        {
+          "verse": 13,
+          "text": "And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong."
+        },
+        {
+          "verse": 14,
+          "text": "For thus saith the LORD of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the LORD of hosts, and I repented not:"
+        },
+        {
+          "verse": 15,
+          "text": "So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not."
+        },
+        {
+          "verse": 16,
+          "text": "These are the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:"
+        },
+        {
+          "verse": 17,
+          "text": "And let none of you imagine evil in your hearts against his neighbour; and love no false oath: for all these are things that I hate, saith the LORD."
+        },
+        {
+          "verse": 18,
+          "text": "And the word of the LORD of hosts came unto me, saying,"
+        },
+        {
+          "verse": 19,
+          "text": "Thus saith the LORD of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace."
+        },
+        {
+          "verse": 20,
+          "text": "Thus saith the LORD of hosts; It shall yet come to pass, that there shall come people, and the inhabitants of many cities:"
+        },
+        {
+          "verse": 21,
+          "text": "And the inhabitants of one city shall go to another, saying, Let us go speedily to pray before the LORD, and to seek the LORD of hosts: I will go also."
+        },
+        {
+          "verse": 22,
+          "text": "Yea, many people and strong nations shall come to seek the LORD of hosts in Jerusalem, and to pray before the LORD."
+        },
+        {
+          "verse": 23,
+          "text": "Thus saith the LORD of hosts; In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 703
+    },
+    {
+      "book": "Revelation",
+      "chapter_number": 2,
+      "chapter_title": "Revelation 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;"
+        },
+        {
+          "verse": 2,
+          "text": "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:"
+        },
+        {
+          "verse": 3,
+          "text": "And hast borne, and hast patience, and for my name’s sake hast laboured, and hast not fainted."
+        },
+        {
+          "verse": 4,
+          "text": "Nevertheless I have somewhat against thee, because thou hast left thy first love."
+        },
+        {
+          "verse": 5,
+          "text": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent."
+        },
+        {
+          "verse": 6,
+          "text": "But this thou hast, that thou hatest the deeds of the Nicolaitanes, which I also hate."
+        },
+        {
+          "verse": 7,
+          "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God."
+        },
+        {
+          "verse": 8,
+          "text": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;"
+        },
+        {
+          "verse": 9,
+          "text": "I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan."
+        },
+        {
+          "verse": 10,
+          "text": "Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life."
+        },
+        {
+          "verse": 11,
+          "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death."
+        },
+        {
+          "verse": 12,
+          "text": "And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;"
+        },
+        {
+          "verse": 13,
+          "text": "I know thy works, and where thou dwellest, even where Satan’s seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth."
+        },
+        {
+          "verse": 14,
+          "text": "But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication."
+        },
+        {
+          "verse": 15,
+          "text": "So hast thou also them that hold the doctrine of the Nicolaitanes, which thing I hate."
+        },
+        {
+          "verse": 16,
+          "text": "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth."
+        },
+        {
+          "verse": 17,
+          "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it."
+        },
+        {
+          "verse": 18,
+          "text": "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;"
+        },
+        {
+          "verse": 19,
+          "text": "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first."
+        },
+        {
+          "verse": 20,
+          "text": "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols."
+        },
+        {
+          "verse": 21,
+          "text": "And I gave her space to repent of her fornication; and she repented not."
+        },
+        {
+          "verse": 22,
+          "text": "Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds."
+        },
+        {
+          "verse": 23,
+          "text": "And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works."
+        },
+        {
+          "verse": 24,
+          "text": "But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden."
+        },
+        {
+          "verse": 25,
+          "text": "But that which ye have already hold fast till I come."
+        },
+        {
+          "verse": 26,
+          "text": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:"
+        },
+        {
+          "verse": 27,
+          "text": "And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father."
+        },
+        {
+          "verse": 28,
+          "text": "And I will give him the morning star."
+        },
+        {
+          "verse": 29,
+          "text": "He that hath an ear, let him hear what the Spirit saith unto the churches."
+        }
+      ],
+      "verse_count": 29,
+      "word_count": 804
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "day_number": 75,
+  "references": "Numbers 32-33 • Psalms 33 • Jeremias 9 • John 7",
+  "word_count": 3541,
+  "estimated_minutes": 17,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 33:14",
+    "text": "Keep thy tongue from evil, and thy lips from speaking guile.",
+    "reflection": "This is the kind of sentence to keep near when the day feels louder than your prayers."
+  },
+  "tomorrow_teaser": "Numbers 34-35 • Psalms 34 • Jeremias 10 • John 8",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 32,
+      "chapter_title": "Numbers 32",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "These are the mansions of the children of Israel, who went out of Egypt by their troops, under the conduct of Moses and Aaron,"
+        },
+        {
+          "verse": 2,
+          "text": "Which Moses wrote down according to the places of their encamping, which they changed by the commandment of the Lord."
+        },
+        {
+          "verse": 3,
+          "text": "Now the children of Israel departed from Ramesses the first month, on the fifteenth day of the first month, the day after the Phase, with a mighty hand, in the sight of all the Egyptians,"
+        },
+        {
+          "verse": 4,
+          "text": "Who were burying their first-born, whom the Lord had slain *(for even upon their gods also he had executed vengeance),"
+        },
+        {
+          "verse": 5,
+          "text": "And they camped in Soccoth."
+        },
+        {
+          "verse": 6,
+          "text": "And from Soccoth they came into Etham, which is in the uttermost borders of the wilderness."
+        },
+        {
+          "verse": 7,
+          "text": "*Departing from thence, they came over-against Phihahiroth, which looketh towards Beelsephon, and they camped before Magdalum."
+        },
+        {
+          "verse": 8,
+          "text": "And departing from Phihahiroth, they passed through the midst of the sea, into the wilderness: *and having marched three days through the desert of Etham, they camped in Mara."
+        },
+        {
+          "verse": 9,
+          "text": "*And departing from Mara, they came into Elim, where there were twelve fountains of waters, and seventy palm trees: and there they camped."
+        },
+        {
+          "verse": 10,
+          "text": "But departing from thence also, they pitched their tents by the Red Sea. And departing from the Red Sea,"
+        },
+        {
+          "verse": 11,
+          "text": "They camped in the desert of Sin."
+        },
+        {
+          "verse": 12,
+          "text": "And they removed from thence, and came to Daphca."
+        },
+        {
+          "verse": 13,
+          "text": "And departing from Daphca, they camped in Alus."
+        },
+        {
+          "verse": 14,
+          "text": "And departing from Alus, they pitched their tents in Raphidim, *where the people wanted water to drink."
+        },
+        {
+          "verse": 15,
+          "text": "And departing from Raphidim, they camped in the desert of Sinai."
+        },
+        {
+          "verse": 16,
+          "text": "But departing also from the desert *of Sinai, they came to the graves of lust."
+        },
+        {
+          "verse": 17,
+          "text": "And departing from the graves of lust, they camped in Haseroth."
+        },
+        {
+          "verse": 18,
+          "text": "*And from Haseroth they came to Rethma."
+        },
+        {
+          "verse": 19,
+          "text": "And departing from Rethma, they camped in Remmonphares."
+        },
+        {
+          "verse": 20,
+          "text": "And they departed from thence, and came to Lebna."
+        },
+        {
+          "verse": 21,
+          "text": "Removing from Lebna, they camped in Ressa."
+        },
+        {
+          "verse": 22,
+          "text": "And departing from Ressa, they came to Ceelatha."
+        },
+        {
+          "verse": 23,
+          "text": "And they removed from thence, and camped in the mountain Sepher."
+        },
+        {
+          "verse": 24,
+          "text": "Departing from the mountain Sepher, they came to Arada."
+        },
+        {
+          "verse": 25,
+          "text": "From thence they went and camped in Maceloth."
+        },
+        {
+          "verse": 26,
+          "text": "And departing from Maceloth, they came to Thahath."
+        },
+        {
+          "verse": 27,
+          "text": "Removing from Thahath, they camped in Thare."
+        },
+        {
+          "verse": 28,
+          "text": "And they departed from thence, and pitched their tents in Methca."
+        },
+        {
+          "verse": 29,
+          "text": "And removing from Methca, they camped in Hesmona."
+        },
+        {
+          "verse": 30,
+          "text": "And departing from Hesmona, they came to Moseroth."
+        },
+        {
+          "verse": 31,
+          "text": "And removing from Moseroth, they camped in Benejaacan."
+        },
+        {
+          "verse": 32,
+          "text": "*And departing from Benejaacan, they came to Mount Gadgad."
+        },
+        {
+          "verse": 33,
+          "text": "From thence they went and camped in Jetebatha."
+        },
+        {
+          "verse": 34,
+          "text": "And from Jetebatha, they came to Hebrona."
+        },
+        {
+          "verse": 35,
+          "text": "And departing from Hebrona, they camped in Asiongaber."
+        },
+        {
+          "verse": 36,
+          "text": "*They removed from thence, and came into the desert of Sin, which is Cades."
+        },
+        {
+          "verse": 37,
+          "text": "And departing from Cades, they camped in Mount Hor, in the uttermost borders of the land of Edom."
+        },
+        {
+          "verse": 38,
+          "text": "*And Aaron the priest, went up into Mount Hor, at the commandment of the Lord: and there he died, in the fortieth year of the coming forth of the children of Israel out of Egypt, **the fifth month, the first day of the month,"
+        },
+        {
+          "verse": 39,
+          "text": "When he was a hundred and twenty-three years old."
+        },
+        {
+          "verse": 40,
+          "text": "And king Arad, the Chanaanite, who dwelt towards the south, heard that the children of Israel were come to the land of Chanaan."
+        },
+        {
+          "verse": 41,
+          "text": "And they departed from Mount Hor, and camped in Salmona."
+        },
+        {
+          "verse": 42,
+          "text": "From whence they removed and came to Phunon."
+        },
+        {
+          "verse": 43,
+          "text": "And departing from Phunon, they camped in Oboth."
+        },
+        {
+          "verse": 44,
+          "text": "And from Oboth they came to Ijeabarim, which is in the borders of the Moabites."
+        },
+        {
+          "verse": 45,
+          "text": "And departing from Ijeabarim, they pitched their tents in Dibongab."
+        },
+        {
+          "verse": 46,
+          "text": "From thence they went and camped in Helmondeblathaim."
+        },
+        {
+          "verse": 47,
+          "text": "And departing from Helmondeblathaim, they came to the mountains of Abarim over-against Nabo."
+        },
+        {
+          "verse": 48,
+          "text": "And departing from the mountains of Abarim, they passed to the plains of Moab, by the Jordan, over-against Jericho."
+        },
+        {
+          "verse": 49,
+          "text": "And there they camped from Bethsimoth, even to Ablesatim in the plains of the Moabites,"
+        },
+        {
+          "verse": 50,
+          "text": "Where the Lord said to Moses:*"
+        },
+        {
+          "verse": 51,
+          "text": "Command the children of Israel, and say to them: When you shall have passed over the Jordan, entering into the land of Chanaan,"
+        },
+        {
+          "verse": 52,
+          "text": "Destroy all the inhabitants of that land: *beat down their pillars, and break in pieces their statues, and waste all their high places,"
+        },
+        {
+          "verse": 53,
+          "text": "Cleansing the land, and dwelling in it. For I have given it you for a possession."
+        },
+        {
+          "verse": 54,
+          "text": "And you shall divide it among you by lot. To the more you shall give a larger part, and to the fewer a lesser. To every one as the lot shall fall, so shall the inheritance be given. The possession shall be divided by the tribes and the families:"
+        },
+        {
+          "verse": 55,
+          "text": "But if you will not kill the inhabitants of the land: they that remain, shall be unto you as nails in your eyes, and spears in your sides, and they shall be your adversaries in the land of your habitation."
+        },
+        {
+          "verse": 56,
+          "text": "And whatsoever I had thought to do to them, I will do to you."
+        }
+      ],
+      "verse_count": 56,
+      "word_count": 819
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 33,
+      "chapter_title": "Numbers 33",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Lord spoke to Moses, *saying:"
+        },
+        {
+          "verse": 2,
+          "text": "Command the children of Israel, and thou shalt say to them: When you are entered into the land of Chanaan, and it shall be fallen unto your possession by lot, it shall be bounded by these limits:"
+        },
+        {
+          "verse": 3,
+          "text": "*The south side shall begin from the wilderness of Sin, which is by Edom: and shall have the most salt sea for its furthest limits eastward:"
+        },
+        {
+          "verse": 4,
+          "text": "Which limits shall go round on the south side by the ascent of the Scorpion, and so into Senna, and reach toward the south as far as Cades-barne, from whence the frontiers shall go out to the town called Adar, and shall reach as far as Asemona."
+        },
+        {
+          "verse": 5,
+          "text": "And the limits shall fetch a compass from Asemona to the torrent of Egypt, and shall end in the shore of the great sea."
+        },
+        {
+          "verse": 6,
+          "text": "And the west side shall begin from the great sea, and the same shall be the end thereof."
+        },
+        {
+          "verse": 7,
+          "text": "But toward the north side, the borders shall begin from the great sea, reaching to the most high mountain,"
+        },
+        {
+          "verse": 8,
+          "text": "From which they shall come to Emath, as far as the borders of Sedada:"
+        },
+        {
+          "verse": 9,
+          "text": "And the limits shall go as far as Zephrona, and the village of Enan. These shall be the borders on the north side."
+        },
+        {
+          "verse": 10,
+          "text": "From thence they shall mark out the bounds towards the east side, from the village of Enan unto Sephama,"
+        },
+        {
+          "verse": 11,
+          "text": "And from Sephama the bounds shall go down to Rebla, over-against the fountain of Daphnis: from thence they shall come eastward to the sea of Cenereth,"
+        },
+        {
+          "verse": 12,
+          "text": "And shall reach as far as the Jordan, and at the last shall be closed in by the most salt sea. This shall be your land with its borders round about."
+        },
+        {
+          "verse": 13,
+          "text": "And Moses commanded the children of Israel, saying: This shall be the land which you shall possess by lot, and which the Lord hath commanded to be given to the nine tribes, and to the half tribe."
+        },
+        {
+          "verse": 14,
+          "text": "For the tribe of the children of Ruben by their families, and the tribe of the children of Gad according to the number of their kindreds, and half of the tribe of Manasses,"
+        },
+        {
+          "verse": 15,
+          "text": "That is, two tribes and a half, have received their portion beyond the Jordan, over-against Jericho, at the east side."
+        },
+        {
+          "verse": 16,
+          "text": "And the Lord said to Moses:"
+        },
+        {
+          "verse": 17,
+          "text": "*These are the names of the men, that shall divide the land unto you: Eleazar the priest, and Josue, the son of Nun,"
+        },
+        {
+          "verse": 18,
+          "text": "And one prince of every tribe,"
+        },
+        {
+          "verse": 19,
+          "text": "Whose names are these: Of the tribe of Juda, Caleb, the son of Jephone."
+        },
+        {
+          "verse": 20,
+          "text": "Of the tribe of Simeon, Samuel, the son of Ammiud."
+        },
+        {
+          "verse": 21,
+          "text": "Of the tribe of Benjamin, Elidad, the son of Chaselon."
+        },
+        {
+          "verse": 22,
+          "text": "Of the tribe of the children of Dan, Bocci, the son of Jogli."
+        },
+        {
+          "verse": 23,
+          "text": "Of the children of Joseph of the tribe of Manasses, Hanniel, the son of Ephod."
+        },
+        {
+          "verse": 24,
+          "text": "Of the tribe of Ephraim, Camuel, the son of Sephthan."
+        },
+        {
+          "verse": 25,
+          "text": "Of the tribe of Zabulon, Elisaphan, the son of Phamach."
+        },
+        {
+          "verse": 26,
+          "text": "Of the tribe of Issachar, Phaltiel, the prince, the son of Ozan."
+        },
+        {
+          "verse": 27,
+          "text": "Of the tribe of Aser, Ahiud, the son of Salomi."
+        },
+        {
+          "verse": 28,
+          "text": "Of the tribe of Nephthali: Phedael, the son of Ammiud."
+        },
+        {
+          "verse": 29,
+          "text": "These are they whom the Lord hath commanded to divide the land of Chanaan to the children of Israel."
+        }
+      ],
+      "verse_count": 29,
+      "word_count": 549
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 33,
+      "chapter_title": "Psalms 33",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For David, when he changed his countenance before Achimelech, who dismissed him, and he went his way. [ Kings xxi.]"
+        },
+        {
+          "verse": 2,
+          "text": "I will bless the Lord at all times, his praise shall be always in my mouth."
+        },
+        {
+          "verse": 3,
+          "text": "In the Lord shall my soul be praised; let the meek hear and rejoice."
+        },
+        {
+          "verse": 4,
+          "text": "O magnify the Lord with me: and let us extol his name together."
+        },
+        {
+          "verse": 5,
+          "text": "I sought the Lord, and he heard me: and he delivered me from all my troubles."
+        },
+        {
+          "verse": 6,
+          "text": "Come ye to him and be enlightened: and your faces shall not be confounded."
+        },
+        {
+          "verse": 7,
+          "text": "This poor man cried, and the Lord heard him: and saved him out of all his troubles."
+        },
+        {
+          "verse": 8,
+          "text": "The angel of the Lord shall encamp round about them that fear him: and shall deliver them."
+        },
+        {
+          "verse": 9,
+          "text": "O taste, and see that the Lord is sweet: blessed is the man that hopeth in him."
+        },
+        {
+          "verse": 10,
+          "text": "Fear the Lord, all ye his saints: for there is no want to them that fear him."
+        },
+        {
+          "verse": 11,
+          "text": "*The rich have wanted, and have suffered hunger: but they that seek the Lord shall not be deprived of any good."
+        },
+        {
+          "verse": 12,
+          "text": "Come, children, hearken to me: I will teach you the fear of the Lord."
+        },
+        {
+          "verse": 13,
+          "text": "*Who is the man that desireth life: who loveth to see good days?"
+        },
+        {
+          "verse": 14,
+          "text": "Keep thy tongue from evil, and thy lips from speaking guile."
+        },
+        {
+          "verse": 15,
+          "text": "Turn away from evil, and do good: seek after peace, and pursue it."
+        },
+        {
+          "verse": 16,
+          "text": "The eyes of the Lord are *upon the just: and his ears unto their prayers."
+        },
+        {
+          "verse": 17,
+          "text": "But the countenance of the Lord is against them that do evil things: to cut off the remembrance of them from the earth."
+        },
+        {
+          "verse": 18,
+          "text": "The just cried, and the Lord heard them: and delivered them out of all their troubles."
+        },
+        {
+          "verse": 19,
+          "text": "The Lord is nigh unto them that are of a contrite heart: and he will save the humble of spirit."
+        },
+        {
+          "verse": 20,
+          "text": "Many are the afflictions of the just: but out of them all will the Lord deliver them."
+        },
+        {
+          "verse": 21,
+          "text": "The Lord keepeth all their bones, not one of them shall be broken."
+        },
+        {
+          "verse": 22,
+          "text": "The death of the wicked is very evil: and they that hate the just shall be guilty."
+        },
+        {
+          "verse": 23,
+          "text": "The Lord will redeem the souls of his servants: and none of them that trust in him shall offend."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 372
+    },
+    {
+      "book": "Jeremias",
+      "chapter_number": 9,
+      "chapter_title": "Jeremias 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Who will give water to my head, and a fountain of tears to my eyes? and I will weep day and night for the slain of the daughter of my people."
+        },
+        {
+          "verse": 2,
+          "text": "Who will give me in the wilderness a lodging-place of wayfaring men, and I will leave my people, and depart from them? because they are all adulterers, an assembly of transgressors."
+        },
+        {
+          "verse": 3,
+          "text": "And they have bent their tongue, as a bow, for lies, and not for truth: they have strengthened themselves upon the earth, for they have proceeded from evil to evil, and me they have not known, saith the Lord."
+        },
+        {
+          "verse": 4,
+          "text": "Let every man take heed of his neighbor, and let his not trust in any brother of his: for every brother will utterly supplant, and every friend will walk deceitfully."
+        },
+        {
+          "verse": 5,
+          "text": "And a man shall mock his brother, and they will not speak the truth: for they have taught their tongue to speak lies: they have laboured to commit iniquity."
+        },
+        {
+          "verse": 6,
+          "text": "Thy habitation is in the midst of deceit: through deceit they have refused to know me, saith the Lord."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore, thus saith the Lord of hosts: Behold I will melt, and try them: for what else shall I do before the daughter of my people?"
+        },
+        {
+          "verse": 8,
+          "text": "*Their tongue is a piercing arrow, it hath spoken deceit: with his mouth one speaketh peace with his friend, and secretly he lieth in wait for him."
+        },
+        {
+          "verse": 9,
+          "text": "Shall I not visit them for these things, saith the Lord? or shall not my soul be revenged on such a nation?"
+        },
+        {
+          "verse": 10,
+          "text": "For the mountains I will take up weeping and lamentation, and for the beautiful places of the desert, mourning: because they are burnt up, for that there is not a man that passeth through them: and they have not heard the voice of the owner: from the fowl of the air to the beasts, they are gone away and departed."
+        },
+        {
+          "verse": 11,
+          "text": "And I will make Jerusalem to be heaps of sand, and dens of dragons: and I will make the cities of Juda desolate, for want of an inhabitant."
+        },
+        {
+          "verse": 12,
+          "text": "Who is the wise man, that may understand this, and to whom the word of the mouth of the Lord may come, that he may declare this, why the land hath perished, and is burnt up like a wilderness, which none passeth through?"
+        },
+        {
+          "verse": 13,
+          "text": "And the Lord said: Because they have forsaken my law, which I gave them, and have not heard my voice, and have not walked in it."
+        },
+        {
+          "verse": 14,
+          "text": "But they have gone after the perverseness of their own heart, and after Baalim, which their fathers taught them."
+        },
+        {
+          "verse": 15,
+          "text": "Therefore, thus saith the Lord of hosts, the God of Israel: *Behold I will feed this people with wormwood, and give them water of gall to drink."
+        },
+        {
+          "verse": 16,
+          "text": "And I will scatter them among the nations, which they and their fathers have not known: and I will send the sword after them, till they be consumed."
+        },
+        {
+          "verse": 17,
+          "text": "Thus saith the Lord of hosts, the God of Israel: Consider ye, and call for the mourning women, and let them come: and send to them that are wise women, and let them make haste:"
+        },
+        {
+          "verse": 18,
+          "text": "Let them hasten, and take up a lamentation for us: let our eyes shed tears, and our eyelids run down with waters."
+        },
+        {
+          "verse": 19,
+          "text": "For a voice of wailing is heard out of Sion: How are we wasted and greatly confounded? because we have left the land, because our dwellings are cast down."
+        },
+        {
+          "verse": 20,
+          "text": "Hear therefore, ye women, the word of the Lord: and let your ears receive the word of his mouth: and teach your daughters wailing: and every one her neighbor mourning."
+        },
+        {
+          "verse": 21,
+          "text": "For death is come up through our windows, it is entered into our houses, to destroy the children from without, the young men from the streets."
+        },
+        {
+          "verse": 22,
+          "text": "Speak: Thus saith the Lord: Even the carcass of man shall fall as dung upon the face of the country, and as grass behind the back of the mower, and there is none to gather it."
+        },
+        {
+          "verse": 23,
+          "text": "Thus saith the Lord: *Let not the wise man glory in his wisdom, and let not the strong man glory in his strength, and let not the rich man glory in his riches:"
+        },
+        {
+          "verse": 24,
+          "text": "But let him that glorieth glory in this, that he understandeth and knoweth me, for I am the Lord that exercise mercy, and judgment, and justice in the earth: for these things please me, saith the Lord."
+        },
+        {
+          "verse": 25,
+          "text": "Behold, the days come, saith the Lord, and I will visit upon every one that hath the foreskin circumcised."
+        },
+        {
+          "verse": 26,
+          "text": "Upon Egypt, and upon Juda, and upon Edom, and upon the children of Ammon, and upon Moab, and upon all that have their hair polled round, that dwell in the desert: for all the nations are uncircumcised in the flesh, but all the house of Israel are uncircumcised in the heart."
+        }
+      ],
+      "verse_count": 26,
+      "word_count": 803
+    },
+    {
+      "book": "John",
+      "chapter_number": 7,
+      "chapter_title": "John 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "After these things Jesus walked in Galilee; for he would not walk in Judea: because the Jews sought to kill him."
+        },
+        {
+          "verse": 2,
+          "text": "Now the Jewish feast of *tabernacles was at hand."
+        },
+        {
+          "verse": 3,
+          "text": "And his brethren said to him: Pass from hence, and go into Judea, that thy disciples also may see thy works which thou dost."
+        },
+        {
+          "verse": 4,
+          "text": "For there is no man that doth any thing in secret, and he himself seeketh to be known openly: If thou do these things, manifest thyself to the world."
+        },
+        {
+          "verse": 5,
+          "text": "For neither did his brethren believe in him."
+        },
+        {
+          "verse": 6,
+          "text": "Then Jesus said to them: My time is not yet come: but your time is always ready."
+        },
+        {
+          "verse": 7,
+          "text": "The world cannot hate you: but me it hateth: because I give testimony of it, that the works thereof are evil."
+        },
+        {
+          "verse": 8,
+          "text": "Go you up to this festival day, but I go not up to this festival day: because my time is not yet fulfilled."
+        },
+        {
+          "verse": 9,
+          "text": "When he had said these things, he himself staid in Galilee."
+        },
+        {
+          "verse": 10,
+          "text": "But after his brethren were gone up, then he also went up to the feast, not openly, but as it were in secret."
+        },
+        {
+          "verse": 11,
+          "text": "The Jews, therefore, sought him on the festival day, and said: Where is he?"
+        },
+        {
+          "verse": 12,
+          "text": "And there was much murmuring among the multitude concerning him. For some said: He is a good man. And others said: No, but he seduceth the people."
+        },
+        {
+          "verse": 13,
+          "text": "Yet no man spoke openly of him, for fear of the Jews."
+        },
+        {
+          "verse": 14,
+          "text": "Now about the midst of the feast, Jesus went up into the temple, and taught."
+        },
+        {
+          "verse": 15,
+          "text": "And the Jews wondered, saying: How doth this man know letters, having never learned?"
+        },
+        {
+          "verse": 16,
+          "text": "Jesus answered them, and said: My doctrine is not mine, but his that sent me."
+        },
+        {
+          "verse": 17,
+          "text": "If any man do the will of him: he shall know of the doctrine, whether it be from God, or whether I speak from myself."
+        },
+        {
+          "verse": 18,
+          "text": "He that speaketh from himself, seeketh his own glory: but he that seeketh the glory of him that sent him, he is true, and there is no injustice in him:"
+        },
+        {
+          "verse": 19,
+          "text": "*Did Moses not give you the law: and none of you keepeth the law?"
+        },
+        {
+          "verse": 20,
+          "text": "*Why seek you to kill me? The multitude answered, and said: Thou hast a devil; who seeketh to kill thee?"
+        },
+        {
+          "verse": 21,
+          "text": "Jesus answered, and said to them: One work I have done: and you all wonder:"
+        },
+        {
+          "verse": 22,
+          "text": "Therefore *Moses gave you circumcision: (not because it is of Moses, **but of the fathers,) and on the sabbath-day you circumcise a man."
+        },
+        {
+          "verse": 23,
+          "text": "If a man receive circumcision on the sabbath-day, that the law of Moses may not be broken: are you angry at me because I have healed the whole man on the sabbath-day?"
+        },
+        {
+          "verse": 24,
+          "text": "*Judge not according to the appearance, but judge just judgment."
+        },
+        {
+          "verse": 25,
+          "text": "Some therefore of Jerusalem said: Is not this he whom they seek to kill?"
+        },
+        {
+          "verse": 26,
+          "text": "And behold he speaketh openly, and they say nothing to him. Have the rulers known for a truth, that this is the Christ?"
+        },
+        {
+          "verse": 27,
+          "text": "But we know this man whence he is: but when the Christ cometh, no man knoweth whence he is."
+        },
+        {
+          "verse": 28,
+          "text": "Jesus, therefore, cried out in the temple, teaching and saying: You both know me, and you know whence I am: and I am not come of myself: but he that sent me, is true, whom you know not."
+        },
+        {
+          "verse": 29,
+          "text": "I know him: because I am from him, and he hath sent me."
+        },
+        {
+          "verse": 30,
+          "text": "They sought, therefore, to apprehend him: and no man laid hands on him, because his hour was not yet come."
+        },
+        {
+          "verse": 31,
+          "text": "But of the people many believed in him, and said: When the Christ cometh, shall he do more miracles than these which this man doth?"
+        },
+        {
+          "verse": 32,
+          "text": "The Pharisees heard the people murmuring these things concerning him: and the rulers and Pharisees sent ministers to apprehend him."
+        },
+        {
+          "verse": 33,
+          "text": "Jesus, therefore, said to them: Yet a little while I am with you: and I go to him that sent me."
+        },
+        {
+          "verse": 34,
+          "text": "*You shall seek me, and shall not find me: and where I am, you cannot come."
+        },
+        {
+          "verse": 35,
+          "text": "The Jews, therefore, said among themselves: Whither will he go, that we shall not find him? will he go to the dispersed among the Gentiles, and teach the Gentiles?"
+        },
+        {
+          "verse": 36,
+          "text": "What is this saying that he hath said: You shall seek me, and shall not find me: and where I am, you cannot come?"
+        },
+        {
+          "verse": 37,
+          "text": "Now on the last *great day of the festivity, Jesus stood and cried, saying: If any man thirst, let him come to me, and drink."
+        },
+        {
+          "verse": 38,
+          "text": "*He that believeth in me, as the Scripture saith, out of his belly shall flow rivers of living water."
+        },
+        {
+          "verse": 39,
+          "text": "Now this he said of the spirit which they should receive who believed in him: for as yet the spirit was not given, because Jesus was not yet glorified."
+        },
+        {
+          "verse": 40,
+          "text": "Of that multitude therefore, when they had heard these words of his, some said: This is the prophet indeed."
+        },
+        {
+          "verse": 41,
+          "text": "Others said: This is the Christ. But some said: Doth the Christ come out of Galilee?"
+        },
+        {
+          "verse": 42,
+          "text": "*Doth not the Scripture say: That Christ cometh of the seed of David, and out of Bethlehem, the town where David was?"
+        },
+        {
+          "verse": 43,
+          "text": "So there arose a dissension among the people because of him."
+        },
+        {
+          "verse": 44,
+          "text": "And some of them would have apprehended him: but no man laid hands upon him."
+        },
+        {
+          "verse": 45,
+          "text": "The ministers therefore came to the chief priests and the Pharisees. And they said to them: Why have you not brought him?"
+        },
+        {
+          "verse": 46,
+          "text": "The ministers answered: Never did man speak like this man."
+        },
+        {
+          "verse": 47,
+          "text": "Then the Pharisees answered them: Are you also seduced?"
+        },
+        {
+          "verse": 48,
+          "text": "Hath any one of the rulers believed in him, or of the Pharisees?"
+        },
+        {
+          "verse": 49,
+          "text": "But this multitude, that knoweth not the law, are accursed."
+        },
+        {
+          "verse": 50,
+          "text": "Nicodemus said to them, *he that came to him by night, who was one of them:"
+        },
+        {
+          "verse": 51,
+          "text": "Doth our law judge any man, unless it first hear him, *and know what he doth?"
+        },
+        {
+          "verse": 52,
+          "text": "They answered, and said to him: Art thou also a Galilean? Search the Scriptures, and see that out of Galilee a prophet riseth not."
+        },
+        {
+          "verse": 53,
+          "text": "And every man returned to his own house."
+        }
+      ],
+      "verse_count": 53,
+      "word_count": 998
+    }
+  ]
+}

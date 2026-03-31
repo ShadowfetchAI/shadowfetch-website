@@ -1,0 +1,549 @@
+{
+  "day_number": 65,
+  "references": "Numbers 12-13 • Psalms 23 • Isaias 65 • Luke 21",
+  "word_count": 2817,
+  "estimated_minutes": 14,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 23:10",
+    "text": "Who is this King of Glory? the Lord of hosts, he is the King of Glory.",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "Numbers 14-15 • Psalms 24 • Isaias 66 • Luke 22",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 12,
+      "chapter_title": "Numbers 12",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And Mary and Aaron spoke against Moses, *because of his wife the Ethiopian,"
+        },
+        {
+          "verse": 2,
+          "text": "And they said: Hath the Lord spoken by Moses only? hath he not also spoken to us in like manner? And when the Lord heard this,"
+        },
+        {
+          "verse": 3,
+          "text": "(For Moses was a man exceeding meek above all men that dwelt upon earth)"
+        },
+        {
+          "verse": 4,
+          "text": "Immediately he spoke to him, and to Aaron and Mary: Come out you three only to the tabernacle of the covenant. And when they were come out,"
+        },
+        {
+          "verse": 5,
+          "text": "The Lord came down in a pillar of the cloud, and stood in the entry of the tabernacle calling to Aaron and Mary. And when they were come,"
+        },
+        {
+          "verse": 6,
+          "text": "He said to them: Hear my words: If there be among you a prophet of the Lord, I will appear to him in a vision, or I will speak to him in a dream."
+        },
+        {
+          "verse": 7,
+          "text": "But it is not so with my servant Moses, *who is most faithful in all my house:"
+        },
+        {
+          "verse": 8,
+          "text": "*For I speak to him mouth to mouth: and plainly, and not by riddles and figures, doth he see the Lord. Why then were you not afraid to speak ill of my servant Moses?"
+        },
+        {
+          "verse": 9,
+          "text": "And being angry with them, he went away:"
+        },
+        {
+          "verse": 10,
+          "text": "The cloud also that was over the tabernacle departed: *and behold Mary appeared white as snow with a leprosy. And when Aaron had looked on her, and saw her all covered with leprosy,"
+        },
+        {
+          "verse": 11,
+          "text": "He said to Moses: I beseech thee, my lord, lay not upon us this sin, which we have foolishly committed:"
+        },
+        {
+          "verse": 12,
+          "text": "Let her not be as one dead, and as an abortive that is cast forth from the mother's womb. Lo, now one half of her flesh is consumed with the leprosy."
+        },
+        {
+          "verse": 13,
+          "text": "And Moses cried to the Lord, saying: O God, I beseech thee heal her."
+        },
+        {
+          "verse": 14,
+          "text": "And the Lord answered him: If her father had spitten upon her face, ought she not to have been ashamed for seven days at least? Let her be separated seven days without the camp, and afterwards she shall be called again."
+        },
+        {
+          "verse": 15,
+          "text": "Mary, therefore, was put out of the camp seven days: and the people moved not from that place, until Mary was called again."
+        }
+      ],
+      "verse_count": 15,
+      "word_count": 363
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 13,
+      "chapter_title": "Numbers 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the people marched from Haseroth, *and pitched their tents in the desert of Pharan."
+        },
+        {
+          "verse": 2,
+          "text": "And there the Lord spoke to Moses, saying:"
+        },
+        {
+          "verse": 3,
+          "text": "Send men to view the land of Chanaan: which I will give to the children of Israel, one of every tribe, of the rulers."
+        },
+        {
+          "verse": 4,
+          "text": "Moses did what the Lord had commanded, sending from the desert of Pharan, principal men, whose names are these:"
+        },
+        {
+          "verse": 5,
+          "text": "Of the tribe of Ruben, Sammua, the son of Zechur."
+        },
+        {
+          "verse": 6,
+          "text": "Of the tribe of Simeon, Saphat, the son of Huri."
+        },
+        {
+          "verse": 7,
+          "text": "Of the tribe of Juda, Caleb, the son of Jephone."
+        },
+        {
+          "verse": 8,
+          "text": "Of the tribe of Issachar, Igal, the son of Joseph."
+        },
+        {
+          "verse": 9,
+          "text": "Of the tribe of Ephraim, Osee, the son of Nun."
+        },
+        {
+          "verse": 10,
+          "text": "Of the tribe of Benjamin, Phalti, the son of Raphu."
+        },
+        {
+          "verse": 11,
+          "text": "Of the tribe of Zabulon, Geddiel, the son of Sodi."
+        },
+        {
+          "verse": 12,
+          "text": "Of the tribe of Joseph, of the sceptre of Manasses, Gaddi, the son of Susi."
+        },
+        {
+          "verse": 13,
+          "text": "Of the tribe of Dan, Ammiel, the son of Gemalli."
+        },
+        {
+          "verse": 14,
+          "text": "Of the tribe of Aser, Sthur, the son of Michael."
+        },
+        {
+          "verse": 15,
+          "text": "Of the tribe of Nephthali, Nahabi, the son of Vapsi."
+        },
+        {
+          "verse": 16,
+          "text": "Of the tribe of Gad, Guel, the son of Machi."
+        },
+        {
+          "verse": 17,
+          "text": "These are the names of the men, whom Moses sent to view the land: and he called Osee, the son of Nun, Josue.*"
+        },
+        {
+          "verse": 18,
+          "text": "And Moses sent them to view the land of Chanaan, and said to them: Go you up by the south side. And when you shall come to the mountains,"
+        },
+        {
+          "verse": 19,
+          "text": "View the land, of what sort it is: and the people that are the inhabitants thereof, whether they be strong or weak: few in number or many:"
+        },
+        {
+          "verse": 20,
+          "text": "The land itself, whether it be good or bad: what manner of cities, walled or without walls:"
+        },
+        {
+          "verse": 21,
+          "text": "The ground, fat or barren, woody or without trees. Be of good courage, and bring us of the fruits of the land. Now it was the time when the first ripe grapes are fit to be eaten."
+        },
+        {
+          "verse": 22,
+          "text": "And when they were gone up, they viewed the land from the desert of Sin, unto Rohob as you enter into Emath."
+        },
+        {
+          "verse": 23,
+          "text": "And they went up at the south side, and came to Hebron, where were *Achiman and Sisai, and Tholmai, the sons of Enac. For Hebron was built seven years before Tanis the city of Egypt."
+        },
+        {
+          "verse": 24,
+          "text": "*And going forward as far as the torrent of the cluster of grapes, they cut off a branch with its cluster of grapes, which two men carried upon a lever. They took also of the pomegranates and of the figs of that place:"
+        },
+        {
+          "verse": 25,
+          "text": "Which was called Nehelescol, that is to say, the torrent of the cluster of grapes, because from thence the children of Israel had carried a cluster of grapes."
+        },
+        {
+          "verse": 26,
+          "text": "And they that went to spy out the land returned after forty days, having gone round all the country,"
+        },
+        {
+          "verse": 27,
+          "text": "And came to Moses and Aaron, and to all the assembly of the children of Israel, to the desert of Pharan, which is in Cades. And speaking to them and to all the multitude, they shewed them the fruits of the land:"
+        },
+        {
+          "verse": 28,
+          "text": "And they related and said: We came into the land to which thou sentest us, which in very deed floweth with milk and honey, as may be known by these fruits:"
+        },
+        {
+          "verse": 29,
+          "text": "But it hath very strong inhabitants, and the cities are great and walled. We saw there the race of Enac."
+        },
+        {
+          "verse": 30,
+          "text": "Amalec dwelleth in the south; the Hethite, and the Jebusite, and the Amorrhite in the mountains: but the Chanaanite abideth by the sea and near the streams of the Jordan."
+        },
+        {
+          "verse": 31,
+          "text": "In the mean time Caleb, to still the murmuring of the people that rose against Moses, said: Let us go up and possess the land, for we shall be able to conquer it."
+        },
+        {
+          "verse": 32,
+          "text": "But the others, that had been with him, said: No, we are not able to go up to this people, because they are stronger than we."
+        },
+        {
+          "verse": 33,
+          "text": "And they spoke ill of the land, which they had viewed, before the children of Israel, saying: The land, which we have viewed, devoureth its inhabitants: the people, that we beheld, are of a tall stature."
+        },
+        {
+          "verse": 34,
+          "text": "There we saw certain monsters of the sons of Enac, of the giant-kind: in comparison of whom, we seemed like locusts."
+        }
+      ],
+      "verse_count": 34,
+      "word_count": 710
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 23,
+      "chapter_title": "Psalms 23",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "On the first day of the week, a psalm for David. The *earth is the Lord's and the fulness thereof; the world, and all they that dwell therein."
+        },
+        {
+          "verse": 2,
+          "text": "For he hath founded it upon the seas; and hath prepared it upon the rivers."
+        },
+        {
+          "verse": 3,
+          "text": "Who shall ascend into the mountain of the Lord: or who shall stand in his holy place?"
+        },
+        {
+          "verse": 4,
+          "text": "The innocent in hands, and clean of heart, who hath not taken his soul in vain, nor sworn deceitfully to his neighbour."
+        },
+        {
+          "verse": 5,
+          "text": "He shall receive a blessing from the Lord, and mercy from God, his Saviour."
+        },
+        {
+          "verse": 6,
+          "text": "This is the generation of them that seek him, of them that seek the face of the God of Jacob."
+        },
+        {
+          "verse": 7,
+          "text": "Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in."
+        },
+        {
+          "verse": 8,
+          "text": "Who is this King of Glory? the Lord, who is strong and mighty: the Lord mighty in battle."
+        },
+        {
+          "verse": 9,
+          "text": "Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in."
+        },
+        {
+          "verse": 10,
+          "text": "Who is this King of Glory? the Lord of hosts, he is the King of Glory."
+        }
+      ],
+      "verse_count": 10,
+      "word_count": 196
+    },
+    {
+      "book": "Isaias",
+      "chapter_number": 65,
+      "chapter_title": "Isaias 65",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "They *have sought me that before asked not for me, they have found me that sought me not. I said: Behold me, behold me, to a nation that did not call upon my name."
+        },
+        {
+          "verse": 2,
+          "text": "I have spread forth my hands all the day to an unbelieving people, who walk in a way that is not good, after their own thoughts."
+        },
+        {
+          "verse": 3,
+          "text": "A people that continually provoke me to anger before my face: that immolate in gardens, and sacrifice upon bricks."
+        },
+        {
+          "verse": 4,
+          "text": "That dwell in sepulchres, and sleep in the temple of idols: that eat swine's flesh, and profane broth is in their vessels."
+        },
+        {
+          "verse": 5,
+          "text": "That say: Depart from me, come not near me, because thou art unclean: these shall be smoke in my anger, a fire burning all the day."
+        },
+        {
+          "verse": 6,
+          "text": "Behold it is written before me: I will not be silent, but I will render and repay into their bosom,"
+        },
+        {
+          "verse": 7,
+          "text": "Your iniquities, and the iniquities of your fathers together, saith the Lord, who have sacrificed upon the mountains, and have reproached me upon the hills; and I will measure back their first work in their bosom."
+        },
+        {
+          "verse": 8,
+          "text": "Thus saith the Lord: As if a grain be found in a cluster, and it be said: Destroy it not, because it is a blessing: so will I do for the sake of my servants, that I may not destroy the whole."
+        },
+        {
+          "verse": 9,
+          "text": "And I will bring forth a seed out of Jacob, and out of Juda a possessor of my mountains: and my elect shall inherit it, and my servants shall dwell there."
+        },
+        {
+          "verse": 10,
+          "text": "And the plains shall be turned to folds of flocks, and the valley of Achor into a place for the herds to lie down in, for my people that have sought me."
+        },
+        {
+          "verse": 11,
+          "text": "And you, that have forsaken the Lord, that have forgotten my holy mount, that set a table for fortune, and offer libations upon it."
+        },
+        {
+          "verse": 12,
+          "text": "I will number you in the sword, and you shall all fall by slaughter: *because I called, and you did not answer: I spoke, and you did not hear: and you did evil in my eyes, and you have chosen the things that displease me."
+        },
+        {
+          "verse": 13,
+          "text": "Therefore, thus saith the Lord God: Behold my servants shall eat, and you shall be hungry: behold my servants shall drink, and you shall be thirsty."
+        },
+        {
+          "verse": 14,
+          "text": "Behold my servants shall rejoice, and you shall be confounded: behold my servants shall praise for joyfulness of heart, and you shall cry for sorrow of heart, and shall howl for grief of spirit."
+        },
+        {
+          "verse": 15,
+          "text": "And you shall leave your name for an execration to my elect: and the Lord God shall slay thee, and call his servants by another name."
+        },
+        {
+          "verse": 16,
+          "text": "In which he that is blessed upon the earth, shall be blessed in God, amen: and he that sweareth in the earth, shall swear by God, amen: because the former distresses are forgotten, and because they are hid from my eyes."
+        },
+        {
+          "verse": 17,
+          "text": "*For behold I create new heavens, and a new earth: and the former things shall not be in remembrance, and they shall not come upon the heart."
+        },
+        {
+          "verse": 18,
+          "text": "But you shall be glad, and rejoice for ever in these things, which I create: for behold I create Jerusalem a rejoicing, and the people thereof joy."
+        },
+        {
+          "verse": 19,
+          "text": "And I will rejoice in Jerusalem, and joy in my people, and the voice of weeping shall no more be heard in her, nor the voice of crying."
+        },
+        {
+          "verse": 20,
+          "text": "There shall no more be an infant of days there, nor an old man that shall not fill up his days: for the child shall die a hundred years old, and the sinner being a hundred years old, shall be accursed."
+        },
+        {
+          "verse": 21,
+          "text": "And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruits of them."
+        },
+        {
+          "verse": 22,
+          "text": "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree, so shall be the days of my people, and the works of their hands shall be of long continuance."
+        },
+        {
+          "verse": 23,
+          "text": "My elect shall not labour in vain, nor bring forth in trouble: for they are the seed of the blessed of the Lord, and their posterity with them."
+        },
+        {
+          "verse": 24,
+          "text": "*And it shall come to pass, that before they call, I will hear: as they are yet speaking, I will hear."
+        },
+        {
+          "verse": 25,
+          "text": "*The wolf and the lamb shall feed together; the lion and the ox shall eat straw: and dust shall be the serpent's food: they shall not hurt, nor kill in all my holy mountain, saith the Lord."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 752
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 21,
+      "chapter_title": "Luke 21",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And *looking on, he saw the rich men cast their gifts into the treasury."
+        },
+        {
+          "verse": 2,
+          "text": "And he saw also a certain poor widow casting in two brass mites."
+        },
+        {
+          "verse": 3,
+          "text": "And he said: Verily I say to you, that this poor widow hast cast in more than they all."
+        },
+        {
+          "verse": 4,
+          "text": "For all these have, of their abundance, cast into the offerings of God: but she, of her want, hast cast in all her living that she had."
+        },
+        {
+          "verse": 5,
+          "text": "And as some were saying of the temple, that it was adorned with goodly stones and gifts, he said:"
+        },
+        {
+          "verse": 6,
+          "text": "These things which you see, *the days will come, in which there shall not be left a stone upon a stone, that shall not be thrown down."
+        },
+        {
+          "verse": 7,
+          "text": "And they asked him, saying: Master, when shall these things be: and what shall be the sign when they shall begin to come to pass?"
+        },
+        {
+          "verse": 8,
+          "text": "He said: Take heed that you be not seduced; for many will come in my name, saying, I am he: and the time is at hand: go ye not, therefore, after them."
+        },
+        {
+          "verse": 9,
+          "text": "And when you shall hear of wars and seditions, be not terrified: these things must first come to pass, but the end is not yet immediately."
+        },
+        {
+          "verse": 10,
+          "text": "Then he said to them: Nation shall rise against nation, and kingdom against kingdom."
+        },
+        {
+          "verse": 11,
+          "text": "And there shall be great earthquakes in divers places, and pestilences and famines, and terrors from heaven, and there shall be great signs."
+        },
+        {
+          "verse": 12,
+          "text": "But before all these things they will lay their hands on you, and persecute you, delivering you up to synagogues and into prisons, dragging you before kings and governors, for my name`s sake:"
+        },
+        {
+          "verse": 13,
+          "text": "And it shall happen to you for a testimony."
+        },
+        {
+          "verse": 14,
+          "text": "Lay it up, therefore, in your hearts, not to meditate before how you shall answer."
+        },
+        {
+          "verse": 15,
+          "text": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to resist and gainsay."
+        },
+        {
+          "verse": 16,
+          "text": "And you shall be betrayed by your parents and brethren, and kinsmen and friends: and some of you they will put to death."
+        },
+        {
+          "verse": 17,
+          "text": "And you shall be hated by all men, for my name's sake."
+        },
+        {
+          "verse": 18,
+          "text": "But a hair of your head shall not perish."
+        },
+        {
+          "verse": 19,
+          "text": "In your patience you shall possess your souls."
+        },
+        {
+          "verse": 20,
+          "text": "*And when you shall see Jerusalem compassed about with an army: then know that the desolation thereof is at hand."
+        },
+        {
+          "verse": 21,
+          "text": "Then let them that are in Judea, flee to the mountains: and let them that are in the midst thereof, depart out: and let not them in the countries, enter into it."
+        },
+        {
+          "verse": 22,
+          "text": "For these are days of vengeance, that all things may be fulfilled that are written."
+        },
+        {
+          "verse": 23,
+          "text": "But wo to them that are with child, and give suck in those days; for there shall be great distress in the land, and wrath upon this people."
+        },
+        {
+          "verse": 24,
+          "text": "And they shall fall by the edge of the sword: and shall be led away captives into all nations, and Jerusalem shall be trodden down by the Gentiles: till the times of the nations be fulfilled."
+        },
+        {
+          "verse": 25,
+          "text": "*And there shall be signs in the sun, and in the moon, and in the stars: and upon the earth distress of nations, by reason of the confusion of the roaring of the sea and of the waves:"
+        },
+        {
+          "verse": 26,
+          "text": "Men withering away for fear, and expectation of what shall come upon the whole world. For the powers of heaven shall be moved."
+        },
+        {
+          "verse": 27,
+          "text": "And then they shall see the Son of Man coming in a cloud with great power and majesty."
+        },
+        {
+          "verse": 28,
+          "text": "*But when these things begin to come to pass, look up, and lift up your heads: because your redemption is at hand."
+        },
+        {
+          "verse": 29,
+          "text": "And he spoke to them a similitude: See the fig-tree, and all the trees:"
+        },
+        {
+          "verse": 30,
+          "text": "When they now shoot forth their fruit, you know that summer is nigh."
+        },
+        {
+          "verse": 31,
+          "text": "So you also, when you shall see these things come to pass, know that the reign of God is at hand."
+        },
+        {
+          "verse": 32,
+          "text": "Amen, I say to you, this generation shall not pass away, till all things be fulfilled."
+        },
+        {
+          "verse": 33,
+          "text": "Heaven and earth shall pass away: but my words shall not pass away."
+        },
+        {
+          "verse": 34,
+          "text": "And take heed to yourselves, lest perhaps your hearts be overcharged with surfeiting, and drunkenness, and the cares of this life: and that day come upon you suddenly."
+        },
+        {
+          "verse": 35,
+          "text": "For as a snare it shall come upon all that sit upon the face of the whole earth."
+        },
+        {
+          "verse": 36,
+          "text": "Watch ye, therefore, praying at all times, that you may be accounted worthy to escape all these things that are to come, and to stand before the Son of Man."
+        },
+        {
+          "verse": 37,
+          "text": "And in the day-time he was teaching in the temple: but at night going out, he abode in the mount that is called Olivet."
+        },
+        {
+          "verse": 38,
+          "text": "And all the people came early in the morning to him in the temple, to hear him."
+        }
+      ],
+      "verse_count": 38,
+      "word_count": 796
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "day_number": 49,
+  "references": "Leviticus 7-8 • Psalms 7 • Isaiah 49 • Luke 5",
+  "word_count": 4198,
+  "estimated_minutes": 20,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 7:10",
+    "text": "My defence is of God, which saveth the upright in heart.",
+    "reflection": "Let this verse be the quieter voice that sets the pace for the rest of the day."
+  },
+  "tomorrow_teaser": "Leviticus 9-10 • Psalms 8 • Isaiah 50 • Luke 6",
+  "chapters": [
+    {
+      "book": "Leviticus",
+      "chapter_number": 7,
+      "chapter_title": "Leviticus 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Likewise this is the law of the trespass offering: it is most holy."
+        },
+        {
+          "verse": 2,
+          "text": "In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar."
+        },
+        {
+          "verse": 3,
+          "text": "And he shall offer of it all the fat thereof; the rump, and the fat that covereth the inwards,"
+        },
+        {
+          "verse": 4,
+          "text": "And the two kidneys, and the fat that is on them, which is by the flanks, and the caul that is above the liver, with the kidneys, it shall he take away:"
+        },
+        {
+          "verse": 5,
+          "text": "And the priest shall burn them upon the altar for an offering made by fire unto the LORD: it is a trespass offering."
+        },
+        {
+          "verse": 6,
+          "text": "Every male among the priests shall eat thereof: it shall be eaten in the holy place: it is most holy."
+        },
+        {
+          "verse": 7,
+          "text": "As the sin offering is, so is the trespass offering: there is one law for them: the priest that maketh atonement therewith shall have it."
+        },
+        {
+          "verse": 8,
+          "text": "And the priest that offereth any man’s burnt offering, even the priest shall have to himself the skin of the burnt offering which he hath offered."
+        },
+        {
+          "verse": 9,
+          "text": "And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it."
+        },
+        {
+          "verse": 10,
+          "text": "And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one as much as another."
+        },
+        {
+          "verse": 11,
+          "text": "And this is the law of the sacrifice of peace offerings, which he shall offer unto the LORD."
+        },
+        {
+          "verse": 12,
+          "text": "If he offer it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, and unleavened wafers anointed with oil, and cakes mingled with oil, of fine flour, fried."
+        },
+        {
+          "verse": 13,
+          "text": "Besides the cakes, he shall offer for his offering leavened bread with the sacrifice of thanksgiving of his peace offerings."
+        },
+        {
+          "verse": 14,
+          "text": "And of it he shall offer one out of the whole oblation for an heave offering unto the LORD, and it shall be the priest’s that sprinkleth the blood of the peace offerings."
+        },
+        {
+          "verse": 15,
+          "text": "And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning."
+        },
+        {
+          "verse": 16,
+          "text": "But if the sacrifice of his offering be a vow, or a voluntary offering, it shall be eaten the same day that he offereth his sacrifice: and on the morrow also the remainder of it shall be eaten:"
+        },
+        {
+          "verse": 17,
+          "text": "But the remainder of the flesh of the sacrifice on the third day shall be burnt with fire."
+        },
+        {
+          "verse": 18,
+          "text": "And if any of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it shall not be accepted, neither shall it be imputed unto him that offereth it: it shall be an abomination, and the soul that eateth of it shall bear his iniquity."
+        },
+        {
+          "verse": 19,
+          "text": "And the flesh that toucheth any unclean thing shall not be eaten; it shall be burnt with fire: and as for the flesh, all that be clean shall eat thereof."
+        },
+        {
+          "verse": 20,
+          "text": "But the soul that eateth of the flesh of the sacrifice of peace offerings, that pertain unto the LORD, having his uncleanness upon him, even that soul shall be cut off from his people."
+        },
+        {
+          "verse": 21,
+          "text": "Moreover the soul that shall touch any unclean thing, as the uncleanness of man, or any unclean beast, or any abominable unclean thing, and eat of the flesh of the sacrifice of peace offerings, which pertain unto the LORD, even that soul shall be cut off from his people."
+        },
+        {
+          "verse": 22,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 23,
+          "text": "Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat."
+        },
+        {
+          "verse": 24,
+          "text": "And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but ye shall in no wise eat of it."
+        },
+        {
+          "verse": 25,
+          "text": "For whosoever eateth the fat of the beast, of which men offer an offering made by fire unto the LORD, even the soul that eateth it shall be cut off from his people."
+        },
+        {
+          "verse": 26,
+          "text": "Moreover ye shall eat no manner of blood, whether it be of fowl or of beast, in any of your dwellings."
+        },
+        {
+          "verse": 27,
+          "text": "Whatsoever soul it be that eateth any manner of blood, even that soul shall be cut off from his people."
+        },
+        {
+          "verse": 28,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 29,
+          "text": "Speak unto the children of Israel, saying, He that offereth the sacrifice of his peace offerings unto the LORD shall bring his oblation unto the LORD of the sacrifice of his peace offerings."
+        },
+        {
+          "verse": 30,
+          "text": "His own hands shall bring the offerings of the LORD made by fire, the fat with the breast, it shall he bring, that the breast may be waved for a wave offering before the LORD."
+        },
+        {
+          "verse": 31,
+          "text": "And the priest shall burn the fat upon the altar: but the breast shall be Aaron’s and his sons’."
+        },
+        {
+          "verse": 32,
+          "text": "And the right shoulder shall ye give unto the priest for an heave offering of the sacrifices of your peace offerings."
+        },
+        {
+          "verse": 33,
+          "text": "He among the sons of Aaron, that offereth the blood of the peace offerings, and the fat, shall have the right shoulder for his part."
+        },
+        {
+          "verse": 34,
+          "text": "For the wave breast and the heave shoulder have I taken of the children of Israel from off the sacrifices of their peace offerings, and have given them unto Aaron the priest and unto his sons by a statute for ever from among the children of Israel."
+        },
+        {
+          "verse": 35,
+          "text": "This is the portion of the anointing of Aaron, and of the anointing of his sons, out of the offerings of the LORD made by fire, in the day when he presented them to minister unto the LORD in the priest’s office;"
+        },
+        {
+          "verse": 36,
+          "text": "Which the LORD commanded to be given them of the children of Israel, in the day that he anointed them, by a statute for ever throughout their generations."
+        },
+        {
+          "verse": 37,
+          "text": "This is the law of the burnt offering, of the meat offering, and of the sin offering, and of the trespass offering, and of the consecrations, and of the sacrifice of the peace offerings;"
+        },
+        {
+          "verse": 38,
+          "text": "Which the LORD commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations unto the LORD, in the wilderness of Sinai."
+        }
+      ],
+      "verse_count": 38,
+      "word_count": 1061
+    },
+    {
+      "book": "Leviticus",
+      "chapter_number": 8,
+      "chapter_title": "Leviticus 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread;"
+        },
+        {
+          "verse": 3,
+          "text": "And gather thou all the congregation together unto the door of the tabernacle of the congregation."
+        },
+        {
+          "verse": 4,
+          "text": "And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation."
+        },
+        {
+          "verse": 5,
+          "text": "And Moses said unto the congregation, This is the thing which the LORD commanded to be done."
+        },
+        {
+          "verse": 6,
+          "text": "And Moses brought Aaron and his sons, and washed them with water."
+        },
+        {
+          "verse": 7,
+          "text": "And he put upon him the coat, and girded him with the girdle, and clothed him with the robe, and put the ephod upon him, and he girded him with the curious girdle of the ephod, and bound it unto him therewith."
+        },
+        {
+          "verse": 8,
+          "text": "And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim."
+        },
+        {
+          "verse": 9,
+          "text": "And he put the mitre upon his head; also upon the mitre, even upon his forefront, did he put the golden plate, the holy crown; as the LORD commanded Moses."
+        },
+        {
+          "verse": 10,
+          "text": "And Moses took the anointing oil, and anointed the tabernacle and all that was therein, and sanctified them."
+        },
+        {
+          "verse": 11,
+          "text": "And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them."
+        },
+        {
+          "verse": 12,
+          "text": "And he poured of the anointing oil upon Aaron’s head, and anointed him, to sanctify him."
+        },
+        {
+          "verse": 13,
+          "text": "And Moses brought Aaron’s sons, and put coats upon them, and girded them with girdles, and put bonnets upon them; as the LORD commanded Moses."
+        },
+        {
+          "verse": 14,
+          "text": "And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering."
+        },
+        {
+          "verse": 15,
+          "text": "And he slew it; and Moses took the blood, and put it upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it."
+        },
+        {
+          "verse": 16,
+          "text": "And he took all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and Moses burned it upon the altar."
+        },
+        {
+          "verse": 17,
+          "text": "But the bullock, and his hide, his flesh, and his dung, he burnt with fire without the camp; as the LORD commanded Moses."
+        },
+        {
+          "verse": 18,
+          "text": "And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram."
+        },
+        {
+          "verse": 19,
+          "text": "And he killed it; and Moses sprinkled the blood upon the altar round about."
+        },
+        {
+          "verse": 20,
+          "text": "And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat."
+        },
+        {
+          "verse": 21,
+          "text": "And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire unto the LORD; as the LORD commanded Moses."
+        },
+        {
+          "verse": 22,
+          "text": "And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram."
+        },
+        {
+          "verse": 23,
+          "text": "And he slew it; and Moses took of the blood of it, and put it upon the tip of Aaron’s right ear, and upon the thumb of his right hand, and upon the great toe of his right foot."
+        },
+        {
+          "verse": 24,
+          "text": "And he brought Aaron’s sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about."
+        },
+        {
+          "verse": 25,
+          "text": "And he took the fat, and the rump, and all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and the right shoulder:"
+        },
+        {
+          "verse": 26,
+          "text": "And out of the basket of unleavened bread, that was before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put them on the fat, and upon the right shoulder:"
+        },
+        {
+          "verse": 27,
+          "text": "And he put all upon Aaron’s hands, and upon his sons’ hands, and waved them for a wave offering before the LORD."
+        },
+        {
+          "verse": 28,
+          "text": "And Moses took them from off their hands, and burnt them on the altar upon the burnt offering: they were consecrations for a sweet savour: it is an offering made by fire unto the LORD."
+        },
+        {
+          "verse": 29,
+          "text": "And Moses took the breast, and waved it for a wave offering before the LORD: for of the ram of consecration it was Moses’ part; as the LORD commanded Moses."
+        },
+        {
+          "verse": 30,
+          "text": "And Moses took of the anointing oil, and of the blood which was upon the altar, and sprinkled it upon Aaron, and upon his garments, and upon his sons, and upon his sons’ garments with him; and sanctified Aaron, and his garments, and his sons, and his sons’ garments with him."
+        },
+        {
+          "verse": 31,
+          "text": "And Moses said unto Aaron and to his sons, Boil the flesh at the door of the tabernacle of the congregation: and there eat it with the bread that is in the basket of consecrations, as I commanded, saying, Aaron and his sons shall eat it."
+        },
+        {
+          "verse": 32,
+          "text": "And that which remaineth of the flesh and of the bread shall ye burn with fire."
+        },
+        {
+          "verse": 33,
+          "text": "And ye shall not go out of the door of the tabernacle of the congregation in seven days, until the days of your consecration be at an end: for seven days shall he consecrate you."
+        },
+        {
+          "verse": 34,
+          "text": "As he hath done this day, so the LORD hath commanded to do, to make an atonement for you."
+        },
+        {
+          "verse": 35,
+          "text": "Therefore shall ye abide at the door of the tabernacle of the congregation day and night seven days, and keep the charge of the LORD, that ye die not: for so I am commanded."
+        },
+        {
+          "verse": 36,
+          "text": "So Aaron and his sons did all things which the LORD commanded by the hand of Moses."
+        }
+      ],
+      "verse_count": 36,
+      "word_count": 993
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 7,
+      "chapter_title": "Psalms 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:"
+        },
+        {
+          "verse": 2,
+          "text": "Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver."
+        },
+        {
+          "verse": 3,
+          "text": "O LORD my God, if I have done this; if there be iniquity in my hands;"
+        },
+        {
+          "verse": 4,
+          "text": "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)"
+        },
+        {
+          "verse": 5,
+          "text": "Let the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah."
+        },
+        {
+          "verse": 6,
+          "text": "Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded."
+        },
+        {
+          "verse": 7,
+          "text": "So shall the congregation of the people compass thee about: for their sakes therefore return thou on high."
+        },
+        {
+          "verse": 8,
+          "text": "The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me."
+        },
+        {
+          "verse": 9,
+          "text": "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins."
+        },
+        {
+          "verse": 10,
+          "text": "My defence is of God, which saveth the upright in heart."
+        },
+        {
+          "verse": 11,
+          "text": "God judgeth the righteous, and God is angry with the wicked every day."
+        },
+        {
+          "verse": 12,
+          "text": "If he turn not, he will whet his sword; he hath bent his bow, and made it ready."
+        },
+        {
+          "verse": 13,
+          "text": "He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors."
+        },
+        {
+          "verse": 14,
+          "text": "Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood."
+        },
+        {
+          "verse": 15,
+          "text": "He made a pit, and digged it, and is fallen into the ditch which he made."
+        },
+        {
+          "verse": 16,
+          "text": "His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate."
+        },
+        {
+          "verse": 17,
+          "text": "I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 327
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 49,
+      "chapter_title": "Isaiah 49",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name."
+        },
+        {
+          "verse": 2,
+          "text": "And he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me;"
+        },
+        {
+          "verse": 3,
+          "text": "And said unto me, Thou art my servant, O Israel, in whom I will be glorified."
+        },
+        {
+          "verse": 4,
+          "text": "Then I said, I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the LORD, and my work with my God."
+        },
+        {
+          "verse": 5,
+          "text": "And now, saith the LORD that formed me from the womb to be his servant, to bring Jacob again to him, Though Israel be not gathered, yet shall I be glorious in the eyes of the LORD, and my God shall be my strength."
+        },
+        {
+          "verse": 6,
+          "text": "And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth."
+        },
+        {
+          "verse": 7,
+          "text": "Thus saith the LORD, the Redeemer of Israel, and his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the LORD that is faithful, and the Holy One of Israel, and he shall choose thee."
+        },
+        {
+          "verse": 8,
+          "text": "Thus saith the LORD, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;"
+        },
+        {
+          "verse": 9,
+          "text": "That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places."
+        },
+        {
+          "verse": 10,
+          "text": "They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them."
+        },
+        {
+          "verse": 11,
+          "text": "And I will make all my mountains a way, and my highways shall be exalted."
+        },
+        {
+          "verse": 12,
+          "text": "Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim."
+        },
+        {
+          "verse": 13,
+          "text": "Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted."
+        },
+        {
+          "verse": 14,
+          "text": "But Zion said, The LORD hath forsaken me, and my Lord hath forgotten me."
+        },
+        {
+          "verse": 15,
+          "text": "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee."
+        },
+        {
+          "verse": 16,
+          "text": "Behold, I have graven thee upon the palms of my hands; thy walls are continually before me."
+        },
+        {
+          "verse": 17,
+          "text": "Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee."
+        },
+        {
+          "verse": 18,
+          "text": "Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth."
+        },
+        {
+          "verse": 19,
+          "text": "For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away."
+        },
+        {
+          "verse": 20,
+          "text": "The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell."
+        },
+        {
+          "verse": 21,
+          "text": "Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where had they been?"
+        },
+        {
+          "verse": 22,
+          "text": "Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders."
+        },
+        {
+          "verse": 23,
+          "text": "And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the LORD: for they shall not be ashamed that wait for me."
+        },
+        {
+          "verse": 24,
+          "text": "Shall the prey be taken from the mighty, or the lawful captive delivered?"
+        },
+        {
+          "verse": 25,
+          "text": "But thus saith the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children."
+        },
+        {
+          "verse": 26,
+          "text": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob."
+        }
+      ],
+      "verse_count": 26,
+      "word_count": 867
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 5,
+      "chapter_title": "Luke 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,"
+        },
+        {
+          "verse": 2,
+          "text": "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets."
+        },
+        {
+          "verse": 3,
+          "text": "And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship."
+        },
+        {
+          "verse": 4,
+          "text": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught."
+        },
+        {
+          "verse": 5,
+          "text": "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net."
+        },
+        {
+          "verse": 6,
+          "text": "And when they had this done, they inclosed a great multitude of fishes: and their net brake."
+        },
+        {
+          "verse": 7,
+          "text": "And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink."
+        },
+        {
+          "verse": 8,
+          "text": "When Simon Peter saw it, he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord."
+        },
+        {
+          "verse": 9,
+          "text": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:"
+        },
+        {
+          "verse": 10,
+          "text": "And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men."
+        },
+        {
+          "verse": 11,
+          "text": "And when they had brought their ships to land, they forsook all, and followed him."
+        },
+        {
+          "verse": 12,
+          "text": "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean."
+        },
+        {
+          "verse": 13,
+          "text": "And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him."
+        },
+        {
+          "verse": 14,
+          "text": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
+        },
+        {
+          "verse": 15,
+          "text": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities."
+        },
+        {
+          "verse": 16,
+          "text": "And he withdrew himself into the wilderness, and prayed."
+        },
+        {
+          "verse": 17,
+          "text": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them."
+        },
+        {
+          "verse": 18,
+          "text": "And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him."
+        },
+        {
+          "verse": 19,
+          "text": "And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus."
+        },
+        {
+          "verse": 20,
+          "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee."
+        },
+        {
+          "verse": 21,
+          "text": "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?"
+        },
+        {
+          "verse": 22,
+          "text": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?"
+        },
+        {
+          "verse": 23,
+          "text": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?"
+        },
+        {
+          "verse": 24,
+          "text": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house."
+        },
+        {
+          "verse": 25,
+          "text": "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God."
+        },
+        {
+          "verse": 26,
+          "text": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day."
+        },
+        {
+          "verse": 27,
+          "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
+        },
+        {
+          "verse": 28,
+          "text": "And he left all, rose up, and followed him."
+        },
+        {
+          "verse": 29,
+          "text": "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them."
+        },
+        {
+          "verse": 30,
+          "text": "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?"
+        },
+        {
+          "verse": 31,
+          "text": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick."
+        },
+        {
+          "verse": 32,
+          "text": "I came not to call the righteous, but sinners to repentance."
+        },
+        {
+          "verse": 33,
+          "text": "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?"
+        },
+        {
+          "verse": 34,
+          "text": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?"
+        },
+        {
+          "verse": 35,
+          "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+        },
+        {
+          "verse": 36,
+          "text": "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old."
+        },
+        {
+          "verse": 37,
+          "text": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish."
+        },
+        {
+          "verse": 38,
+          "text": "But new wine must be put into new bottles; and both are preserved."
+        },
+        {
+          "verse": 39,
+          "text": "No man also having drunk old wine straightway desireth new: for he saith, The old is better."
+        }
+      ],
+      "verse_count": 39,
+      "word_count": 950
+    }
+  ]
+}

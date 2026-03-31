@@ -1,0 +1,653 @@
+{
+  "day_number": 51,
+  "references": "Leviticus 11-12 • Psalms 9 • Isaiah 51 • Luke 7",
+  "word_count": 3727,
+  "estimated_minutes": 18,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 9:17",
+    "text": "The wicked shall be turned into hell, and all the nations that forget God.",
+    "reflection": "This is the kind of sentence to keep near when the day feels louder than your prayers."
+  },
+  "tomorrow_teaser": "Leviticus 13-14 • Psalms 10 • Isaiah 52 • Luke 8",
+  "chapters": [
+    {
+      "book": "Leviticus",
+      "chapter_number": 11,
+      "chapter_title": "Leviticus 11",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses and to Aaron, saying unto them,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth."
+        },
+        {
+          "verse": 3,
+          "text": "Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat."
+        },
+        {
+          "verse": 4,
+          "text": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+        },
+        {
+          "verse": 5,
+          "text": "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+        },
+        {
+          "verse": 6,
+          "text": "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+        },
+        {
+          "verse": 7,
+          "text": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you."
+        },
+        {
+          "verse": 8,
+          "text": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you."
+        },
+        {
+          "verse": 9,
+          "text": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat."
+        },
+        {
+          "verse": 10,
+          "text": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:"
+        },
+        {
+          "verse": 11,
+          "text": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination."
+        },
+        {
+          "verse": 12,
+          "text": "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you."
+        },
+        {
+          "verse": 13,
+          "text": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
+        },
+        {
+          "verse": 14,
+          "text": "And the vulture, and the kite after his kind;"
+        },
+        {
+          "verse": 15,
+          "text": "Every raven after his kind;"
+        },
+        {
+          "verse": 16,
+          "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+        },
+        {
+          "verse": 17,
+          "text": "And the little owl, and the cormorant, and the great owl,"
+        },
+        {
+          "verse": 18,
+          "text": "And the swan, and the pelican, and the gier eagle,"
+        },
+        {
+          "verse": 19,
+          "text": "And the stork, the heron after her kind, and the lapwing, and the bat."
+        },
+        {
+          "verse": 20,
+          "text": "All fowls that creep, going upon all four, shall be an abomination unto you."
+        },
+        {
+          "verse": 21,
+          "text": "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;"
+        },
+        {
+          "verse": 22,
+          "text": "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind."
+        },
+        {
+          "verse": 23,
+          "text": "But all other flying creeping things, which have four feet, shall be an abomination unto you."
+        },
+        {
+          "verse": 24,
+          "text": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even."
+        },
+        {
+          "verse": 25,
+          "text": "And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even."
+        },
+        {
+          "verse": 26,
+          "text": "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean."
+        },
+        {
+          "verse": 27,
+          "text": "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even."
+        },
+        {
+          "verse": 28,
+          "text": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you."
+        },
+        {
+          "verse": 29,
+          "text": "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,"
+        },
+        {
+          "verse": 30,
+          "text": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole."
+        },
+        {
+          "verse": 31,
+          "text": "These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even."
+        },
+        {
+          "verse": 32,
+          "text": "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed."
+        },
+        {
+          "verse": 33,
+          "text": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it."
+        },
+        {
+          "verse": 34,
+          "text": "Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean."
+        },
+        {
+          "verse": 35,
+          "text": "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you."
+        },
+        {
+          "verse": 36,
+          "text": "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean."
+        },
+        {
+          "verse": 37,
+          "text": "And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean."
+        },
+        {
+          "verse": 38,
+          "text": "But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you."
+        },
+        {
+          "verse": 39,
+          "text": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even."
+        },
+        {
+          "verse": 40,
+          "text": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even."
+        },
+        {
+          "verse": 41,
+          "text": "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten."
+        },
+        {
+          "verse": 42,
+          "text": "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination."
+        },
+        {
+          "verse": 43,
+          "text": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby."
+        },
+        {
+          "verse": 44,
+          "text": "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth."
+        },
+        {
+          "verse": 45,
+          "text": "For I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy."
+        },
+        {
+          "verse": 46,
+          "text": "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:"
+        },
+        {
+          "verse": 47,
+          "text": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten."
+        }
+      ],
+      "verse_count": 47,
+      "word_count": 1115
+    },
+    {
+      "book": "Leviticus",
+      "chapter_number": 12,
+      "chapter_title": "Leviticus 12",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."
+        },
+        {
+          "verse": 3,
+          "text": "And in the eighth day the flesh of his foreskin shall be circumcised."
+        },
+        {
+          "verse": 4,
+          "text": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."
+        },
+        {
+          "verse": 5,
+          "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days."
+        },
+        {
+          "verse": 6,
+          "text": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:"
+        },
+        {
+          "verse": 7,
+          "text": "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female."
+        },
+        {
+          "verse": 8,
+          "text": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean."
+        }
+      ],
+      "verse_count": 8,
+      "word_count": 262
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 9,
+      "chapter_title": "Psalms 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works."
+        },
+        {
+          "verse": 2,
+          "text": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High."
+        },
+        {
+          "verse": 3,
+          "text": "When mine enemies are turned back, they shall fall and perish at thy presence."
+        },
+        {
+          "verse": 4,
+          "text": "For thou hast maintained my right and my cause; thou satest in the throne judging right."
+        },
+        {
+          "verse": 5,
+          "text": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever."
+        },
+        {
+          "verse": 6,
+          "text": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them."
+        },
+        {
+          "verse": 7,
+          "text": "But the LORD shall endure for ever: he hath prepared his throne for judgment."
+        },
+        {
+          "verse": 8,
+          "text": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness."
+        },
+        {
+          "verse": 9,
+          "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble."
+        },
+        {
+          "verse": 10,
+          "text": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee."
+        },
+        {
+          "verse": 11,
+          "text": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings."
+        },
+        {
+          "verse": 12,
+          "text": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble."
+        },
+        {
+          "verse": 13,
+          "text": "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:"
+        },
+        {
+          "verse": 14,
+          "text": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation."
+        },
+        {
+          "verse": 15,
+          "text": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken."
+        },
+        {
+          "verse": 16,
+          "text": "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah."
+        },
+        {
+          "verse": 17,
+          "text": "The wicked shall be turned into hell, and all the nations that forget God."
+        },
+        {
+          "verse": 18,
+          "text": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."
+        },
+        {
+          "verse": 19,
+          "text": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight."
+        },
+        {
+          "verse": 20,
+          "text": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah."
+        }
+      ],
+      "verse_count": 20,
+      "word_count": 367
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 51,
+      "chapter_title": "Isaiah 51",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock whence ye are hewn, and to the hole of the pit whence ye are digged."
+        },
+        {
+          "verse": 2,
+          "text": "Look unto Abraham your father, and unto Sarah that bare you: for I called him alone, and blessed him, and increased him."
+        },
+        {
+          "verse": 3,
+          "text": "For the LORD shall comfort Zion: he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the LORD; joy and gladness shall be found therein, thanksgiving, and the voice of melody."
+        },
+        {
+          "verse": 4,
+          "text": "Hearken unto me, my people; and give ear unto me, O my nation: for a law shall proceed from me, and I will make my judgment to rest for a light of the people."
+        },
+        {
+          "verse": 5,
+          "text": "My righteousness is near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust."
+        },
+        {
+          "verse": 6,
+          "text": "Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished."
+        },
+        {
+          "verse": 7,
+          "text": "Hearken unto me, ye that know righteousness, the people in whose heart is my law; fear ye not the reproach of men, neither be ye afraid of their revilings."
+        },
+        {
+          "verse": 8,
+          "text": "For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation."
+        },
+        {
+          "verse": 9,
+          "text": "Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. Art thou not it that hath cut Rahab, and wounded the dragon?"
+        },
+        {
+          "verse": 10,
+          "text": "Art thou not it which hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?"
+        },
+        {
+          "verse": 11,
+          "text": "Therefore the redeemed of the LORD shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain gladness and joy; and sorrow and mourning shall flee away."
+        },
+        {
+          "verse": 12,
+          "text": "I, even I, am he that comforteth you: who art thou, that thou shouldest be afraid of a man that shall die, and of the son of man which shall be made as grass;"
+        },
+        {
+          "verse": 13,
+          "text": "And forgettest the LORD thy maker, that hath stretched forth the heavens, and laid the foundations of the earth; and hast feared continually every day because of the fury of the oppressor, as if he were ready to destroy? and where is the fury of the oppressor?"
+        },
+        {
+          "verse": 14,
+          "text": "The captive exile hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail."
+        },
+        {
+          "verse": 15,
+          "text": "But I am the LORD thy God, that divided the sea, whose waves roared: The LORD of hosts is his name."
+        },
+        {
+          "verse": 16,
+          "text": "And I have put my words in thy mouth, and I have covered thee in the shadow of mine hand, that I may plant the heavens, and lay the foundations of the earth, and say unto Zion, Thou art my people."
+        },
+        {
+          "verse": 17,
+          "text": "Awake, awake, stand up, O Jerusalem, which hast drunk at the hand of the LORD the cup of his fury; thou hast drunken the dregs of the cup of trembling, and wrung them out."
+        },
+        {
+          "verse": 18,
+          "text": "There is none to guide her among all the sons whom she hath brought forth; neither is there any that taketh her by the hand of all the sons that she hath brought up."
+        },
+        {
+          "verse": 19,
+          "text": "These two things are come unto thee; who shall be sorry for thee? desolation, and destruction, and the famine, and the sword: by whom shall I comfort thee?"
+        },
+        {
+          "verse": 20,
+          "text": "Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the LORD, the rebuke of thy God."
+        },
+        {
+          "verse": 21,
+          "text": "Therefore hear now this, thou afflicted, and drunken, but not with wine:"
+        },
+        {
+          "verse": 22,
+          "text": "Thus saith thy Lord the LORD, and thy God that pleadeth the cause of his people, Behold, I have taken out of thine hand the cup of trembling, even the dregs of the cup of my fury; thou shalt no more drink it again:"
+        },
+        {
+          "verse": 23,
+          "text": "But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 771
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 7,
+      "chapter_title": "Luke 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum."
+        },
+        {
+          "verse": 2,
+          "text": "And a certain centurion’s servant, who was dear unto him, was sick, and ready to die."
+        },
+        {
+          "verse": 3,
+          "text": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant."
+        },
+        {
+          "verse": 4,
+          "text": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:"
+        },
+        {
+          "verse": 5,
+          "text": "For he loveth our nation, and he hath built us a synagogue."
+        },
+        {
+          "verse": 6,
+          "text": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:"
+        },
+        {
+          "verse": 7,
+          "text": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed."
+        },
+        {
+          "verse": 8,
+          "text": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it."
+        },
+        {
+          "verse": 9,
+          "text": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel."
+        },
+        {
+          "verse": 10,
+          "text": "And they that were sent, returning to the house, found the servant whole that had been sick."
+        },
+        {
+          "verse": 11,
+          "text": "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people."
+        },
+        {
+          "verse": 12,
+          "text": "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her."
+        },
+        {
+          "verse": 13,
+          "text": "And when the Lord saw her, he had compassion on her, and said unto her, Weep not."
+        },
+        {
+          "verse": 14,
+          "text": "And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise."
+        },
+        {
+          "verse": 15,
+          "text": "And he that was dead sat up, and began to speak. And he delivered him to his mother."
+        },
+        {
+          "verse": 16,
+          "text": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people."
+        },
+        {
+          "verse": 17,
+          "text": "And this rumour of him went forth throughout all Judaea, and throughout all the region round about."
+        },
+        {
+          "verse": 18,
+          "text": "And the disciples of John shewed him of all these things."
+        },
+        {
+          "verse": 19,
+          "text": "And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?"
+        },
+        {
+          "verse": 20,
+          "text": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?"
+        },
+        {
+          "verse": 21,
+          "text": "And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight."
+        },
+        {
+          "verse": 22,
+          "text": "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached."
+        },
+        {
+          "verse": 23,
+          "text": "And blessed is he, whosoever shall not be offended in me."
+        },
+        {
+          "verse": 24,
+          "text": "And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?"
+        },
+        {
+          "verse": 25,
+          "text": "But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts."
+        },
+        {
+          "verse": 26,
+          "text": "But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet."
+        },
+        {
+          "verse": 27,
+          "text": "This is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+        },
+        {
+          "verse": 28,
+          "text": "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he."
+        },
+        {
+          "verse": 29,
+          "text": "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John."
+        },
+        {
+          "verse": 30,
+          "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him."
+        },
+        {
+          "verse": 31,
+          "text": "And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?"
+        },
+        {
+          "verse": 32,
+          "text": "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept."
+        },
+        {
+          "verse": 33,
+          "text": "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil."
+        },
+        {
+          "verse": 34,
+          "text": "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!"
+        },
+        {
+          "verse": 35,
+          "text": "But wisdom is justified of all her children."
+        },
+        {
+          "verse": 36,
+          "text": "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee’s house, and sat down to meat."
+        },
+        {
+          "verse": 37,
+          "text": "And, behold, a woman in the city, which was a sinner, when she knew that Jesus sat at meat in the Pharisee’s house, brought an alabaster box of ointment,"
+        },
+        {
+          "verse": 38,
+          "text": "And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment."
+        },
+        {
+          "verse": 39,
+          "text": "Now when the Pharisee which had bidden him saw it, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that toucheth him: for she is a sinner."
+        },
+        {
+          "verse": 40,
+          "text": "And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on."
+        },
+        {
+          "verse": 41,
+          "text": "There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty."
+        },
+        {
+          "verse": 42,
+          "text": "And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?"
+        },
+        {
+          "verse": 43,
+          "text": "Simon answered and said, I suppose that he, to whom he forgave most. And he said unto him, Thou hast rightly judged."
+        },
+        {
+          "verse": 44,
+          "text": "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head."
+        },
+        {
+          "verse": 45,
+          "text": "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet."
+        },
+        {
+          "verse": 46,
+          "text": "My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment."
+        },
+        {
+          "verse": 47,
+          "text": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little."
+        },
+        {
+          "verse": 48,
+          "text": "And he said unto her, Thy sins are forgiven."
+        },
+        {
+          "verse": 49,
+          "text": "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?"
+        },
+        {
+          "verse": 50,
+          "text": "And he said to the woman, Thy faith hath saved thee; go in peace."
+        }
+      ],
+      "verse_count": 50,
+      "word_count": 1212
+    }
+  ]
+}

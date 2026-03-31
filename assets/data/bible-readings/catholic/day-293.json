@@ -1,0 +1,438 @@
+{
+  "day_number": 293,
+  "references": "2 Esdras 7 • Ecclesiasticus 34",
+  "word_count": 1589,
+  "estimated_minutes": 8,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Ecclesiasticus 34:7",
+    "text": "Glorify thy hand, and thy right arm.",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "2 Esdras 8 • Ecclesiasticus 35",
+  "chapters": [
+    {
+      "book": "2 Esdras",
+      "chapter_number": 7,
+      "chapter_title": "2 Esdras 7",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now *after the wall was built, and I had set up the doors, and numbered the porters and singing men, and Levites:"
+        },
+        {
+          "verse": 2,
+          "text": "I commanded Hanani, my brother, and Hananias, ruler of the house of Jerusalem, (for he seemed as a sincere man, and one that feared God above the rest),"
+        },
+        {
+          "verse": 3,
+          "text": "And I said to them: Let not the gates of Jerusalem be opened till the sun be hot. And while they were yet standing by, the gates were shut, and barred: and I set watchmen of the inhabitants of Jerusalem, every one by their courses, and every man over-against his house."
+        },
+        {
+          "verse": 4,
+          "text": "And the city was very wide and great, and the people few in the midst thereof, and the houses were not built."
+        },
+        {
+          "verse": 5,
+          "text": "But God had put in my heart, and I assembled the princes and magistrates, and common people, to number them: and I found a book of the number of them who came up at first, and therein it was found written:"
+        },
+        {
+          "verse": 6,
+          "text": "*These are the children of the province, who came up from the captivity of them that had been carried away, whom Nabuchodonosor, the king of Babylon had carried away, and who returned into Judea, every one into his own city."
+        },
+        {
+          "verse": 7,
+          "text": "Who came with Zorobabel, Josue, Nehemias, Azarias, Raamias, Nahamani, Mardochai, Belsam, Mespharath, Begoai, Nahum, Baana. The number of the men of the people of Israel:"
+        },
+        {
+          "verse": 8,
+          "text": "The children of Pharos, two thousand one hundred seventy-two."
+        },
+        {
+          "verse": 9,
+          "text": "The children of Sephatia, three hundred seventy-two."
+        },
+        {
+          "verse": 10,
+          "text": "The children of Area, six hundred fifty-two."
+        },
+        {
+          "verse": 11,
+          "text": "The children of Phahath Moab, of the children of Josue and Joab, two thousand eight hundred eighteen."
+        },
+        {
+          "verse": 12,
+          "text": "The children of Elam, one thousand two hundred fifty-four."
+        },
+        {
+          "verse": 13,
+          "text": "The children of Zethua, eight hundred forty-five."
+        },
+        {
+          "verse": 14,
+          "text": "The children of Zachai, seven hundred sixty."
+        },
+        {
+          "verse": 15,
+          "text": "The children of Bannui, six hundred forty-eight."
+        },
+        {
+          "verse": 16,
+          "text": "The children of Bebai, six hundred twenty-eight."
+        },
+        {
+          "verse": 17,
+          "text": "The children of Azgad, two thousand three hundred twenty-two."
+        },
+        {
+          "verse": 18,
+          "text": "The children of Adonicam, six hundred sixty-seven."
+        },
+        {
+          "verse": 19,
+          "text": "The children of Beguai, two thousand sixty-seven."
+        },
+        {
+          "verse": 20,
+          "text": "The children of Adin, six hundred fifty-five."
+        },
+        {
+          "verse": 21,
+          "text": "The children of Ater, children of Hezechias, ninety-eight."
+        },
+        {
+          "verse": 22,
+          "text": "The children of Hasem, three hundred twenty-eight."
+        },
+        {
+          "verse": 23,
+          "text": "The children of Besai, three hundred twenty-four."
+        },
+        {
+          "verse": 24,
+          "text": "The children of Hareph, a hundred and twelve."
+        },
+        {
+          "verse": 25,
+          "text": "The children of Gabaon, ninety-five."
+        },
+        {
+          "verse": 26,
+          "text": "The children of Bethlehem, and Netupha, a hundred eighty-eight."
+        },
+        {
+          "verse": 27,
+          "text": "The men of Anathoth, a hundred twenty-eight."
+        },
+        {
+          "verse": 28,
+          "text": "The men of Bethazmoth, forty-two."
+        },
+        {
+          "verse": 29,
+          "text": "The men of Cariathiarim, Cephira, and Beroth, seven hundred forty-three."
+        },
+        {
+          "verse": 30,
+          "text": "The men of Rama and Geba, six hundred twenty-one."
+        },
+        {
+          "verse": 31,
+          "text": "The men of Machmas, a hundred twenty-two."
+        },
+        {
+          "verse": 32,
+          "text": "The men of Bethel and Hai, a hundred twenty-three."
+        },
+        {
+          "verse": 33,
+          "text": "The men of the other Nebo, fifty-two."
+        },
+        {
+          "verse": 34,
+          "text": "The men of the other Elam, one thousand two hundred fifty-four."
+        },
+        {
+          "verse": 35,
+          "text": "The children of Harem, three hundred and twenty."
+        },
+        {
+          "verse": 36,
+          "text": "The children of Jericho, three hundred forty-five."
+        },
+        {
+          "verse": 37,
+          "text": "The children of Lod, of Hadid and Ono, seven hundred twenty-one."
+        },
+        {
+          "verse": 38,
+          "text": "The children of Senaa, three thousand nine hundred thirty."
+        },
+        {
+          "verse": 39,
+          "text": "The priests: The children of Idaia, in the house of Josue, nine hundred and seventy-three."
+        },
+        {
+          "verse": 40,
+          "text": "The children of Emmer, one thousand fifty-two."
+        },
+        {
+          "verse": 41,
+          "text": "The children of Phashur, one thousand two hundred forty-seven."
+        },
+        {
+          "verse": 42,
+          "text": "The children of Arem, one thousand and seventeen. The Levites:"
+        },
+        {
+          "verse": 43,
+          "text": "The children of Josue and Cedmihel, the sons"
+        },
+        {
+          "verse": 44,
+          "text": "Of Oduia, seventy-four: The singing men:"
+        },
+        {
+          "verse": 45,
+          "text": "The children of Asaph, a hundred forty-eight."
+        },
+        {
+          "verse": 46,
+          "text": "The porters: The children of Sellum, the children of Ater, the children of Telmon, the children of Accub, the children of Hatita, the children of Sobai: a hundred thirty-eight."
+        },
+        {
+          "verse": 47,
+          "text": "The Nathinites: The children of Soha, the children of Hasupha, the children of Tebbaoth,"
+        },
+        {
+          "verse": 48,
+          "text": "The children of Ceros, the children of Siaa, the children of Phadon, the children of Lebana, the children of Hagaba, the children of Selmai,"
+        },
+        {
+          "verse": 49,
+          "text": "The children of Hanan, the children of Geddel, the children of Gaher,"
+        },
+        {
+          "verse": 50,
+          "text": "The children of Raaia, the children of Rasin, the children of Necoda,"
+        },
+        {
+          "verse": 51,
+          "text": "The children of Gezem, the children of Asa, the children of Phasea,"
+        },
+        {
+          "verse": 52,
+          "text": "The children of Besai, the children of Munim, the children of Nephussim,"
+        },
+        {
+          "verse": 53,
+          "text": "The children of Bacbuc, the children of Hacupha, the children of Harhur."
+        },
+        {
+          "verse": 54,
+          "text": "The children of Besloth, the children of Mahida, the children of Harsa,"
+        },
+        {
+          "verse": 55,
+          "text": "The children of Bercos, the children of Sisara, the children of Thema,"
+        },
+        {
+          "verse": 56,
+          "text": "The children of Nasia, the children of Hatipha,"
+        },
+        {
+          "verse": 57,
+          "text": "The children of the servants of Solomon, the children of Sothai, the children of Sophereth, the children of Pharida,"
+        },
+        {
+          "verse": 58,
+          "text": "The children of Jahala, the children of Darcon, the children of Jeddel,"
+        },
+        {
+          "verse": 59,
+          "text": "The children of Saphatia, the children of Hatil, the children of Phochereth, who was born of Sabaim, the son of Amon."
+        },
+        {
+          "verse": 60,
+          "text": "All the Nathinites, and the children of the servants of Solomon, three hundred ninety-two."
+        },
+        {
+          "verse": 61,
+          "text": "And these are they that came up from Thelmela, Thelharsa, Cherub, Addon, and Emmer: and could not shew the house of their fathers, nor their seed, whether they were of Israel."
+        },
+        {
+          "verse": 62,
+          "text": "The children of Dalaia, the children of Tobia, the children of Necoda, six hundred forty-two."
+        },
+        {
+          "verse": 63,
+          "text": "And of the priests, the children of Habia, the children of Accos, the children of Berzellai, who took a wife of the daughters of Berzellai, the Galaadite, and he was called by their name."
+        },
+        {
+          "verse": 64,
+          "text": "These sought their writing in the record, and found it not: and they were cast out of the priesthood."
+        },
+        {
+          "verse": 65,
+          "text": "And Athersatha said to them: That they should not eat of the Holies of Holies, until there stood up a priest, learned and skilful."
+        },
+        {
+          "verse": 66,
+          "text": "All the multitude, as it were one man, forty-two thousand three hundred sixty,"
+        },
+        {
+          "verse": 67,
+          "text": "Beside their men-servants and women-servants, who were seven thousand three hundred thirty-seven: and among them, singing men and singing women, two hundred forty-five."
+        },
+        {
+          "verse": 68,
+          "text": "Their horses, seven hundred thirty-six: their mules, two hundred forty-five:"
+        },
+        {
+          "verse": 69,
+          "text": "Their camels, four hundred thirty-five, their asses, six thousand seven hundred and twenty. [Hitherto is related what was written in the record. From this place forward goeth on the history of Nehemias.]"
+        },
+        {
+          "verse": 70,
+          "text": "And some of the heads of the families gave unto the work. Athersatha gave into the treasure a thousand drams of gold, fifty bowls, and five hundred and thirty garments for priests."
+        },
+        {
+          "verse": 71,
+          "text": "And some of the heads of families gave to the treasure of the work, twenty thousand drams of gold, and two thousand two hundred pounds of silver."
+        },
+        {
+          "verse": 72,
+          "text": "And that which the rest of the people gave, was twenty thousand drams of gold, and two thousand pounds of silver, and sixty-seven garments for priests."
+        },
+        {
+          "verse": 73,
+          "text": "And the priests, and the Levites, and the porters, and the singing men, and the rest of the common people, and the Nathinites, and all Israel, dwelt in their cities."
+        }
+      ],
+      "verse_count": 73,
+      "word_count": 1083
+    },
+    {
+      "book": "Ecclesiasticus",
+      "chapter_number": 34,
+      "chapter_title": "Ecclesiasticus 34",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Have mercy upon us, O God of all, and behold us, and shew us the light of thy mercies:"
+        },
+        {
+          "verse": 2,
+          "text": "And send thy fear upon the nations, that have not sought after thee: that they may know that there is no God beside thee, and that they may shew forth thy wonders."
+        },
+        {
+          "verse": 3,
+          "text": "Lift up thy hand over the strange nations, that they may see thy power."
+        },
+        {
+          "verse": 4,
+          "text": "For as thou hast been sanctified in us in their sight, so thou shalt be magnified among them in our presence,"
+        },
+        {
+          "verse": 5,
+          "text": "That they may know thee, as we also have known thee, that there is no God beside thee, O Lord."
+        },
+        {
+          "verse": 6,
+          "text": "Renew thy signs, and work new miracles."
+        },
+        {
+          "verse": 7,
+          "text": "Glorify thy hand, and thy right arm."
+        },
+        {
+          "verse": 8,
+          "text": "Raise up indignation, and pour out wrath."
+        },
+        {
+          "verse": 9,
+          "text": "Take away the adversary, and crush the enemy."
+        },
+        {
+          "verse": 10,
+          "text": "Hasten the time, and remember the end, that they may declare thy wonderful works."
+        },
+        {
+          "verse": 11,
+          "text": "Let him that escapeth be consumed by the rage of the fire: and let them perish that oppress thy people."
+        },
+        {
+          "verse": 12,
+          "text": "Crush the head of the princes of the enemies, that say: There is no other beside us."
+        },
+        {
+          "verse": 13,
+          "text": "Gather together all the tribes of Jacob: that they may know that there is no God besides thee, and may declare thy great works: and thou shalt inherit them as from the beginning."
+        },
+        {
+          "verse": 14,
+          "text": "Have mercy on thy people, upon whom thy name is invoked: and upon Israel, *whom thou hast raised up to be thy first-born."
+        },
+        {
+          "verse": 15,
+          "text": "Have mercy on Jerusalem, the city which thou hast sanctified, the city of thy rest."
+        },
+        {
+          "verse": 16,
+          "text": "Fill Sion with thy unspeakable words, and thy people with thy glory."
+        },
+        {
+          "verse": 17,
+          "text": "Give testimony to them that are thy creatures from the beginning, and raise up the prophecies which the former prophets spoke in thy name."
+        },
+        {
+          "verse": 18,
+          "text": "Reward them that patiently wait for thee, that thy prophets may be found faithful: and hear the prayers of thy servants,"
+        },
+        {
+          "verse": 19,
+          "text": "*According to the blessing of Aaron over thy people, and direct us into the way of justice, and let all know that dwell upon the earth, that thou art God, the beholder of all ages."
+        },
+        {
+          "verse": 20,
+          "text": "The belly will devour all meat, yet one is better than another."
+        },
+        {
+          "verse": 21,
+          "text": "The palate tasteth venison, and the wise heart false speeches."
+        },
+        {
+          "verse": 22,
+          "text": "A perverse heart will cause grief, and a man of experience will resist it."
+        },
+        {
+          "verse": 23,
+          "text": "A woman will receive every man: yet one daughter is better than another."
+        },
+        {
+          "verse": 24,
+          "text": "The beauty of a woman cheereth the countenance of her husband, and a man desireth nothing more."
+        },
+        {
+          "verse": 25,
+          "text": "If she have a tongue that can cure, and likewise mitigate and shew mercy: her husband is not like other men."
+        },
+        {
+          "verse": 26,
+          "text": "He that possesseth a good wife, beginneth a possession: she is a help like to himself, and a pillar of rest."
+        },
+        {
+          "verse": 27,
+          "text": "Where there is no hedge, the possession shall be spoiled: and where there is no wife, he mourneth that is in want."
+        },
+        {
+          "verse": 28,
+          "text": "Who will trust him that hath no rest, and that lodgeth wheresoever the night taketh him, as a robber well appointed, that skippeth from city to city."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 506
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+{
+  "day_number": 219,
+  "references": "1 Paralipomenon 6 • Proverbs 27 • Nahum 1 • James 3",
+  "word_count": 2718,
+  "estimated_minutes": 13,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Proverbs 27:15",
+    "text": "The horse-leech hath two daughters that say: Bring, bring.",
+    "reflection": "This is the kind of sentence to keep near when the day feels louder than your prayers."
+  },
+  "tomorrow_teaser": "1 Paralipomenon 7 • Proverbs 28 • Nahum 2 • James 4",
+  "chapters": [
+    {
+      "book": "1 Paralipomenon",
+      "chapter_number": 6,
+      "chapter_title": "1 Paralipomenon 6",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The *sons of Levi were Gerson, Caath, and Merari."
+        },
+        {
+          "verse": 2,
+          "text": "The sons of Caath: Amram, Isaar, Hebron, and Oziel."
+        },
+        {
+          "verse": 3,
+          "text": "The children of Amram: Aaron, Moses, and Maria. The sons of Aaron: Nadab and Abiu, Eleazar and Ithamar."
+        },
+        {
+          "verse": 4,
+          "text": "Eleazar begot Phinees, and Phinees begot Abisue;"
+        },
+        {
+          "verse": 5,
+          "text": "And Abisue begot Bocci, and Bocci begot Ozi;"
+        },
+        {
+          "verse": 6,
+          "text": "Ozi begot Zaraias, and Zaraias begot Merajoth;"
+        },
+        {
+          "verse": 7,
+          "text": "And Merajoth begot Amarias, and Amarias begot Achitob;"
+        },
+        {
+          "verse": 8,
+          "text": "Achitob begot Sadoc, and Sadoc begot Achimaas;"
+        },
+        {
+          "verse": 9,
+          "text": "Achimaas begot Azarias, Azarias begot Johanan;"
+        },
+        {
+          "verse": 10,
+          "text": "Johanan begot Azarias. This is he that executed the priestly office in the house which Solomon built in Jerusalem."
+        },
+        {
+          "verse": 11,
+          "text": "And Azarias begot Amarias, and Amarias begot Achitob;"
+        },
+        {
+          "verse": 12,
+          "text": "And Achitob begot Sadoc, and Sadoc begot Sellum;"
+        },
+        {
+          "verse": 13,
+          "text": "Sellum begot Helcias, and Helcias begot Azarias;"
+        },
+        {
+          "verse": 14,
+          "text": "Azarias begot Saraias, and Saraias begot Josedec."
+        },
+        {
+          "verse": 15,
+          "text": "Now Josedec went out, when the Lord carried away Juda, and Jerusalem by the hands of Nabuchodonosor."
+        },
+        {
+          "verse": 16,
+          "text": "So the sons *of Levi were Gerson, Caath, and Merari."
+        },
+        {
+          "verse": 17,
+          "text": "And these are the names of the sons of Gerson: Lobni and Semei."
+        },
+        {
+          "verse": 18,
+          "text": "The sons of Caath: Amram, and Isaar, and Hebron, and Oziel."
+        },
+        {
+          "verse": 19,
+          "text": "The sons of Merari: Moholi and Musi. And these are the kindred of Levi according to their families;"
+        },
+        {
+          "verse": 20,
+          "text": "Of Gerson; Lobni, his son, Jahath, his son, Zamma, his son,"
+        },
+        {
+          "verse": 21,
+          "text": "Joah, his son, Addo, his son, Zara, his son, Jethrai. his son."
+        },
+        {
+          "verse": 22,
+          "text": "The sons of Caath, Aminadab, his son, Core, his son, Asir, his son,"
+        },
+        {
+          "verse": 23,
+          "text": "Elcana, his son, Abiasaph, his son, Asir, his son,"
+        },
+        {
+          "verse": 24,
+          "text": "Thahath, his son, Uriel, his son, Ozias, his son, Saul, his son."
+        },
+        {
+          "verse": 25,
+          "text": "The sons of Elcana: Amasai, and Achimoth,"
+        },
+        {
+          "verse": 26,
+          "text": "And Elcana. The sons of Elcana: Sophai, his son, Nahath, his son,"
+        },
+        {
+          "verse": 27,
+          "text": "Eliab, his son, Jeroham, his son, Elcana, his son;"
+        },
+        {
+          "verse": 28,
+          "text": "The sons of Samuel: the first-born, Vasseni, and Abia."
+        },
+        {
+          "verse": 29,
+          "text": "And the sons of Merari: Moholi, Lobni, his son. Semei, his son, Oza, his son,"
+        },
+        {
+          "verse": 30,
+          "text": "Samaa, his son, Haggia, his son, Asaia, his son."
+        },
+        {
+          "verse": 31,
+          "text": "These are they, whom David set over the singing men of the house of the Lord, after that the *ark was placed:"
+        },
+        {
+          "verse": 32,
+          "text": "And they ministered before the tabernacle of the testimony with singing, until Solomon built the house of the Lord in Jerusalem; and they stood according to their order in the ministry."
+        },
+        {
+          "verse": 33,
+          "text": "And these are they that stood with their sons, of the sons of Caath, Heman, a singer, the son of Joel, the son of Samuel,"
+        },
+        {
+          "verse": 34,
+          "text": "The son of Elcana, the son of Jeroham, the son of Eliel, the son of Thohu,"
+        },
+        {
+          "verse": 35,
+          "text": "The son of Suph, the son of Elcana, the son of Mahath, the son of Amasai,"
+        },
+        {
+          "verse": 36,
+          "text": "The son of Elcana, the son of Johel, the son of Azarias, the son of Sophonias,"
+        },
+        {
+          "verse": 37,
+          "text": "The son of Thahath, the son of Asir, the son or Abiasaph, the son of Core,"
+        },
+        {
+          "verse": 38,
+          "text": "The son of Isaar, the son of Caath, the son of Levi, the son of Israel."
+        },
+        {
+          "verse": 39,
+          "text": "And his brother Asaph, who stood on his right hand, Asaph, the son of Barachias, the son of Samaa,"
+        },
+        {
+          "verse": 40,
+          "text": "The son of Michael, the son of Basaia, the son of Melchia,"
+        },
+        {
+          "verse": 41,
+          "text": "The son of Athanai, the son of Zara, the son of Adaia,"
+        },
+        {
+          "verse": 42,
+          "text": "The son of Ethan, the son of Zamma, the son of Semei,"
+        },
+        {
+          "verse": 43,
+          "text": "The son of Jeth, the son of Gerson, the son of Levi."
+        },
+        {
+          "verse": 44,
+          "text": "And the sons of Merari, their brethren, stood on the left hand, Ethan, the son of Cusi, the son of Abdi, the son of Maloch,"
+        },
+        {
+          "verse": 45,
+          "text": "The son of Hasabia, the son of Amasia, the son of Helcias,"
+        },
+        {
+          "verse": 46,
+          "text": "The son of Amasai, the son of Boni, the son of Somer,"
+        },
+        {
+          "verse": 47,
+          "text": "The son of Moholi, the son of Musi, the son of Merari, the son of Levi."
+        },
+        {
+          "verse": 48,
+          "text": "Their brethren also, the Levites, who were appointed for all the ministry of the tabernacle of the house of the Lord."
+        },
+        {
+          "verse": 49,
+          "text": "But Aaron and his sons offered burnt-offerings upon the altar of holocaust, and upon the altar of incense, and were for every work of the holy of holies: and to pray for Israel, according to all that Moses, the servant of God, had commanded."
+        },
+        {
+          "verse": 50,
+          "text": "And these are the sons of Aaron: Eleazar, his son, Phinees, his son, Abisue, his son,"
+        },
+        {
+          "verse": 51,
+          "text": "Bocci, his son, Ozi, his son, Zarahia, his son,"
+        },
+        {
+          "verse": 52,
+          "text": "Meraioth, his son, Amarias, his son, Achitob, his son,"
+        },
+        {
+          "verse": 53,
+          "text": "Sadoc, his son, Achimaas, his son."
+        },
+        {
+          "verse": 54,
+          "text": "And these are their dwelling places by the towns and confines; to wit, of the sons of Aaron, of the families of the Caathites: for they fell to them by lot."
+        },
+        {
+          "verse": 55,
+          "text": "And they gave them Hebron, in the land of Juda, and the suburbs thereof round about:"
+        },
+        {
+          "verse": 56,
+          "text": "But the fields of the city, and the villages, to Caleb, son of Jephone."
+        },
+        {
+          "verse": 57,
+          "text": "And to the sons of Aaron they gave of the cities for refuge, Hebron, and Lobna, and the suburbs thereof;"
+        },
+        {
+          "verse": 58,
+          "text": "And Jether and Esthemo, with their suburbs, and Helon, and Dabir, with their suburbs:"
+        },
+        {
+          "verse": 59,
+          "text": "Asan also, and Bethsemes, with their suburbs."
+        },
+        {
+          "verse": 60,
+          "text": "And out of the tribe of Benjamin: Gabee, and its suburbs, Almath, with its suburbs, Anathoth also with its suburbs: all their cities throughout their families, were thirteen."
+        },
+        {
+          "verse": 61,
+          "text": "And to the sons of Caath, that remained of their kindred, they gave out of the half tribe of Manasses, ten cities in possession."
+        },
+        {
+          "verse": 62,
+          "text": "And to the sons of Gerson, by their families, out of the tribe of Issachar, and out of the tribe of Aser, and out of the tribe of Nephthali, and out of the tribe of Manasses, in Basan, thirteen cities."
+        },
+        {
+          "verse": 63,
+          "text": "And to the sons of Merari, by their families, out of the tribe of Ruben, and out of the tribe of Gad, and out of the tribe of Zabulon, they gave by lot twelve cities."
+        },
+        {
+          "verse": 64,
+          "text": "And the children of Israel gave to the Levites the cities, and their suburbs:"
+        },
+        {
+          "verse": 65,
+          "text": "And they gave them by lot, out of the tribe of the sons of Juda, and out of the tribe of the sons of Simeon, and out of the tribe of the sons of Benjamin, these cities, which they called by their names,"
+        },
+        {
+          "verse": 66,
+          "text": "And to them, that were of the kindred of the sons of Caath, *and the cities in their borders were of the tribe of Ephraim."
+        },
+        {
+          "verse": 67,
+          "text": "And they gave of the cities of refuge, Sichem with its suburbs, in Mount Ephraim, and Gazer, with its suburbs,"
+        },
+        {
+          "verse": 68,
+          "text": "Jecmaan also, with its suburbs, and Bethhoron, in like manner;"
+        },
+        {
+          "verse": 69,
+          "text": "Helon also, with its suburbs, and Gethremmon, in like manner:"
+        },
+        {
+          "verse": 70,
+          "text": "And out of the half tribe of Manasses, Aner, and its suburbs, Baalam, and its suburbs: to wit, to them that were left of the family of the sons of Caath."
+        },
+        {
+          "verse": 71,
+          "text": "And to the sons of Gersom, out of the kindred of the half tribe of Manasses, Gaulon, in Basan, and its suburbs, and Astharoth, with its suburbs."
+        },
+        {
+          "verse": 72,
+          "text": "Out of the tribe of Issachar, Cedes, and its suburbs, and Dabereth, with its suburbs,"
+        },
+        {
+          "verse": 73,
+          "text": "Ramoth also, and its suburbs, and Anem with its suburbs."
+        },
+        {
+          "verse": 74,
+          "text": "And out of the tribe of Aser, Masal, with its suburbs, and Abdon, in like manner,"
+        },
+        {
+          "verse": 75,
+          "text": "Hucac also, and its suburbs, and Rohob, with its suburbs."
+        },
+        {
+          "verse": 76,
+          "text": "And out of the tribe of Nephthali, Cedes, in Galilee, and its suburbs, Hamon, with its suburbs, and Cariathaim, and its suburbs."
+        },
+        {
+          "verse": 77,
+          "text": "And to the sons of Merari that remained, out of the tribe of Zabulon, Remmono, and its suburbs, and Thabor, with its suburbs:"
+        },
+        {
+          "verse": 78,
+          "text": "Beyond the Jordan also, over-against Jericho, on the east side of the Jordan, out of the tribe of Ruben, Bosor, in the wilderness, with its suburbs, and Jassa, with its suburbs."
+        },
+        {
+          "verse": 79,
+          "text": "Cademoth also, and its suburbs, and Mephaath, with its suburbs."
+        },
+        {
+          "verse": 80,
+          "text": "Moreover also out of the tribe of Gad, Ramoth, in Galaad, and its suburbs, and Manaim, with its suburbs,"
+        },
+        {
+          "verse": 81,
+          "text": "Hesebon also, with its suburbs, and Jezer, with its suburbs."
+        }
+      ],
+      "verse_count": 81,
+      "word_count": 1285
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 27,
+      "chapter_title": "Proverbs 27",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The words of Gatherer, the son of Vomiter. The vision which the man spoke, with whom God is, and who being strengthened by God, abiding with him, said:"
+        },
+        {
+          "verse": 2,
+          "text": "I am the most foolish of men, and the wisdom of men is not with me."
+        },
+        {
+          "verse": 3,
+          "text": "I have not learned wisdom, and have not known the science of saints."
+        },
+        {
+          "verse": 4,
+          "text": "Who hath ascended up into heaven, and descended? who hath held the wind in his hands? who hath bound up the waters together as in a garment? who hath raised up all the borders of the earth? what is his name, and what is the name of his son, if thou knowest?"
+        },
+        {
+          "verse": 5,
+          "text": "*Every word of God is fire-tried: he is a buckler to them that hope in him."
+        },
+        {
+          "verse": 6,
+          "text": "*Add not any thing to his words, lest thou be reproved, and found a liar:"
+        },
+        {
+          "verse": 7,
+          "text": "Two things I have asked of thee, deny them not to me before I die."
+        },
+        {
+          "verse": 8,
+          "text": "Remove far from me vanity, and lying words. Give me neither beggary, nor riches: give me only the necessaries of life:"
+        },
+        {
+          "verse": 9,
+          "text": "Lest perhaps being filled, I should be tempted to deny, and say: Who is the Lord? or being compelled by poverty, I should steal, and forswear the name of my God."
+        },
+        {
+          "verse": 10,
+          "text": "Accuse not a servant to his master, lest he curse thee, and thou fall."
+        },
+        {
+          "verse": 11,
+          "text": "There is a generation that curseth their father, and doth not bless their mother."
+        },
+        {
+          "verse": 12,
+          "text": "A generation, that are pure in their own eyes, and yet are not washed from their filthiness."
+        },
+        {
+          "verse": 13,
+          "text": "A generation, whose eyes are lofty, and their eye-lids lifted up on high."
+        },
+        {
+          "verse": 14,
+          "text": "A generation that for teeth hath swords, and grindeth with their jaw-teeth, to devour the needy from off the earth, and the poor from among men."
+        },
+        {
+          "verse": 15,
+          "text": "The horse-leech hath two daughters that say: Bring, bring."
+        },
+        {
+          "verse": 16,
+          "text": "Hell and the mouth of the womb, and the earth which is not satisfied with water: and the fire never saith: It is enough."
+        },
+        {
+          "verse": 17,
+          "text": "The eye that mocketh at his father, and that despiseth the labour of his mother in bearing him, let the ravens of the brooks pick it out, and the young eagles eat it."
+        },
+        {
+          "verse": 18,
+          "text": "Three things are hard to me, and the fourth I am utterly ignorant of."
+        },
+        {
+          "verse": 19,
+          "text": "The way of an eagle in the air, the way of a serpent upon a rock, the way of a ship in the midst of the sea, and the way of a man in youth."
+        },
+        {
+          "verse": 20,
+          "text": "Such also is the way of an adulterous woman, who eateth and wipeth her mouth, and saith: I have done no evil."
+        },
+        {
+          "verse": 21,
+          "text": "By three things the earth is disturbed, and the fourth it cannot bear:"
+        },
+        {
+          "verse": 22,
+          "text": "By a slave when he reigneth: by a fool when he is filled with meat:"
+        },
+        {
+          "verse": 23,
+          "text": "By an odious woman when she is married: and by a bond-woman when she is heir to her mistress."
+        },
+        {
+          "verse": 24,
+          "text": "There are four very little things of the earth, and they are wiser than the wise:"
+        },
+        {
+          "verse": 25,
+          "text": "The ants, a feeble people, which provide themselves food in the harvest:"
+        },
+        {
+          "verse": 26,
+          "text": "The rabbit, a weak people, which maketh its bed in the rock:"
+        },
+        {
+          "verse": 27,
+          "text": "The locust hath no king, yet they all go out by their bands:"
+        },
+        {
+          "verse": 28,
+          "text": "The stellio supporteth itself on hands, and dwelleth in kings' houses."
+        },
+        {
+          "verse": 29,
+          "text": "There are three things, which go well, and the fourth that walketh happily:"
+        },
+        {
+          "verse": 30,
+          "text": "A lion, the strongest of beasts, who hath no fear of any thing he meeteth:"
+        },
+        {
+          "verse": 31,
+          "text": "A cock girded about the loins: and a ram: and a king, whom none can resist."
+        },
+        {
+          "verse": 32,
+          "text": "There is that hath appeared a fool after he was lifted up on high: for if he had understood, he would have laid his hand upon his mouth."
+        },
+        {
+          "verse": 33,
+          "text": "And he that strongly squeezeth the paps to bring out milk, straineth out butter: and he that violently bloweth his nose, bringeth out blood: and he that provoketh wrath, bringeth forth strife."
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 643
+    },
+    {
+      "book": "Nahum",
+      "chapter_number": 1,
+      "chapter_title": "Nahum 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The *burden of Ninive. The book of the vision of Nahum, the Elcesite."
+        },
+        {
+          "verse": 2,
+          "text": "The Lord is a jealous God, and a revenger: the Lord is a revenger, and hath wrath: the Lord taketh vengeance on his adversaries, and he is angry with his enemies."
+        },
+        {
+          "verse": 3,
+          "text": "The Lord is patient, and great in power, and will not cleanse and acquit the guilty. The Lord's ways are in a tempest, and a whirlwind, and clouds are the dust of his feet."
+        },
+        {
+          "verse": 4,
+          "text": "He rebuketh the sea, and drieth it up: and bringeth all the rivers to be a desert. Basan languisheth and Carmel: and the flower of Libanus fadeth away."
+        },
+        {
+          "verse": 5,
+          "text": "The mountains tremble at him, and the hills are made desolate: and the earth hath quaked at his presence, and the world, and all that dwell therein."
+        },
+        {
+          "verse": 6,
+          "text": "Who can stand before the face of his indignation? and who shall resist in the fierceness of his anger? his indignation is poured out like fire: and the rocks are melted by him."
+        },
+        {
+          "verse": 7,
+          "text": "The Lord is good, and giveth strength in the day of trouble: and knoweth them that hope in him.*"
+        },
+        {
+          "verse": 8,
+          "text": "But with a flood that passeth by, he will make an utter end of the place thereof: and darkness shall pursue his enemies."
+        },
+        {
+          "verse": 9,
+          "text": "What do ye devise against the Lord? he will make an utter end: there shall not rise a double affliction."
+        },
+        {
+          "verse": 10,
+          "text": "For as thorns embrace one another: so while they are feasting and drinking together, they shall be consumed as stubble that is fully dry."
+        },
+        {
+          "verse": 11,
+          "text": "Out of thee shall come forth one that imagineth evil against the Lord, contriving treachery in his mind."
+        },
+        {
+          "verse": 12,
+          "text": "Thus saith the Lord: Though they were perfect: and many of them so, yet thus shall they be cut off, and he shall pass: I have afflicted thee, and I will afflict thee no more."
+        },
+        {
+          "verse": 13,
+          "text": "And now I will break in pieces his rod with which he struck thy back, and I will burst thy bonds asunder."
+        },
+        {
+          "verse": 14,
+          "text": "And the Lord will give a commandment concerning thee, that no more of thy name shall be sown: I will destroy the graven and molten thing out of the house of thy God, I will make it thy grave, for thou art disgraced."
+        },
+        {
+          "verse": 15,
+          "text": "*Behold upon the mountains the feet of him that bringeth good tidings, and that preacheth peace: O Juda, keep thy festivals, and pay thy vows: for Belial shall no more pass through thee again, he is utterly cut off."
+        }
+      ],
+      "verse_count": 15,
+      "word_count": 409
+    },
+    {
+      "book": "James",
+      "chapter_number": 3,
+      "chapter_title": "James 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Be *not many masters, my brethren, knowing that you receive the greater judgment."
+        },
+        {
+          "verse": 2,
+          "text": "For in many things we all offend. If any man offend not in word; the same is a perfect man. He is able also with a bridle to lead about the whole body."
+        },
+        {
+          "verse": 3,
+          "text": "For if we put bits into the mouths of horses that they may obey us, and we turn about their whole body."
+        },
+        {
+          "verse": 4,
+          "text": "Behold also ships, whereas they are great, and are driven by strong winds, yet are they turned about with a small helm, whithersoever the force of the governor willeth."
+        },
+        {
+          "verse": 5,
+          "text": "Even so the tongue is indeed a little member, and boasteth great things. Behold how small a fire kindleth a great wood."
+        },
+        {
+          "verse": 6,
+          "text": "And the tongue is a fire, a world of iniquity. The tongue is placed among our members, which defileth the whole body, and inflameth the wheel of our nature, being set on fire by hell."
+        },
+        {
+          "verse": 7,
+          "text": "For every nature of beasts and of birds, and of serpents, and of the rest, is tamed, and hath been tamed by mankind:"
+        },
+        {
+          "verse": 8,
+          "text": "But the tongue no man can tame: a restless evil, full of deadly poison."
+        },
+        {
+          "verse": 9,
+          "text": "By it we bless God and the Father; and by it we curse men, who are made after the likeness of God."
+        },
+        {
+          "verse": 10,
+          "text": "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be."
+        },
+        {
+          "verse": 11,
+          "text": "Doth a fountain send forth through the same passage sweet and bitter water?"
+        },
+        {
+          "verse": 12,
+          "text": "Can the fig-tree, my brethren, bear grapes, or the vine, figs? So neither can the salt water yield sweet."
+        },
+        {
+          "verse": 13,
+          "text": "Who is a wise man, and endued with knowledge among you? Let him shew, by a good conversation, his work in the meekness of wisdom."
+        },
+        {
+          "verse": 14,
+          "text": "But if you have bitter zeal, and there be contentions in your hearts: glory not, and be not liars against the truth."
+        },
+        {
+          "verse": 15,
+          "text": "For this is not wisdom, descending from above: but earthly, sensual, diabolical."
+        },
+        {
+          "verse": 16,
+          "text": "For where envying and contention is, there is inconstancy, and every evil work."
+        },
+        {
+          "verse": 17,
+          "text": "But the wisdom which is from above, first indeed is chaste, then peaceable, modest, easy to be persuaded, consenting to the good, full of mercy, and good fruits, without judging, without dissimulation."
+        },
+        {
+          "verse": 18,
+          "text": "And the fruit of justice is sown in peace, to them that make peace."
+        }
+      ],
+      "verse_count": 18,
+      "word_count": 381
+    }
+  ]
+}

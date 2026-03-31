@@ -1,0 +1,504 @@
+{
+  "day_number": 78,
+  "references": "Numbers 32 • Psalms 36 • Jeremiah 12 • John 10",
+  "word_count": 2601,
+  "estimated_minutes": 13,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 36:9",
+    "text": "For with thee is the fountain of life: in thy light shall we see light.",
+    "reflection": "Let this passage feel like lamp light: warm enough to guide, gentle enough to rest in."
+  },
+  "tomorrow_teaser": "Numbers 33 • Psalms 37 • Jeremiah 13 • John 11",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 32,
+      "chapter_title": "Numbers 32",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;"
+        },
+        {
+          "verse": 2,
+          "text": "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,"
+        },
+        {
+          "verse": 3,
+          "text": "Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,"
+        },
+        {
+          "verse": 4,
+          "text": "Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and thy servants have cattle:"
+        },
+        {
+          "verse": 5,
+          "text": "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan."
+        },
+        {
+          "verse": 6,
+          "text": "And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?"
+        },
+        {
+          "verse": 7,
+          "text": "And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?"
+        },
+        {
+          "verse": 8,
+          "text": "Thus did your fathers, when I sent them from Kadeshbarnea to see the land."
+        },
+        {
+          "verse": 9,
+          "text": "For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them."
+        },
+        {
+          "verse": 10,
+          "text": "And the LORD’s anger was kindled the same time, and he sware, saying,"
+        },
+        {
+          "verse": 11,
+          "text": "Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:"
+        },
+        {
+          "verse": 12,
+          "text": "Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD."
+        },
+        {
+          "verse": 13,
+          "text": "And the LORD’s anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed."
+        },
+        {
+          "verse": 14,
+          "text": "And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel."
+        },
+        {
+          "verse": 15,
+          "text": "For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people."
+        },
+        {
+          "verse": 16,
+          "text": "And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:"
+        },
+        {
+          "verse": 17,
+          "text": "But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land."
+        },
+        {
+          "verse": 18,
+          "text": "We will not return unto our houses, until the children of Israel have inherited every man his inheritance."
+        },
+        {
+          "verse": 19,
+          "text": "For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward."
+        },
+        {
+          "verse": 20,
+          "text": "And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war,"
+        },
+        {
+          "verse": 21,
+          "text": "And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him,"
+        },
+        {
+          "verse": 22,
+          "text": "And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD."
+        },
+        {
+          "verse": 23,
+          "text": "But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out."
+        },
+        {
+          "verse": 24,
+          "text": "Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth."
+        },
+        {
+          "verse": 25,
+          "text": "And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth."
+        },
+        {
+          "verse": 26,
+          "text": "Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:"
+        },
+        {
+          "verse": 27,
+          "text": "But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith."
+        },
+        {
+          "verse": 28,
+          "text": "So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:"
+        },
+        {
+          "verse": 29,
+          "text": "And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:"
+        },
+        {
+          "verse": 30,
+          "text": "But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan."
+        },
+        {
+          "verse": 31,
+          "text": "And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do."
+        },
+        {
+          "verse": 32,
+          "text": "We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours."
+        },
+        {
+          "verse": 33,
+          "text": "And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, even the cities of the country round about."
+        },
+        {
+          "verse": 34,
+          "text": "And the children of Gad built Dibon, and Ataroth, and Aroer,"
+        },
+        {
+          "verse": 35,
+          "text": "And Atroth, Shophan, and Jaazer, and Jogbehah,"
+        },
+        {
+          "verse": 36,
+          "text": "And Bethnimrah, and Bethharan, fenced cities: and folds for sheep."
+        },
+        {
+          "verse": 37,
+          "text": "And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,"
+        },
+        {
+          "verse": 38,
+          "text": "And Nebo, and Baalmeon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded."
+        },
+        {
+          "verse": 39,
+          "text": "And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which was in it."
+        },
+        {
+          "verse": 40,
+          "text": "And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein."
+        },
+        {
+          "verse": 41,
+          "text": "And Jair the son of Manasseh went and took the small towns thereof, and called them Havothjair."
+        },
+        {
+          "verse": 42,
+          "text": "And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name."
+        }
+      ],
+      "verse_count": 42,
+      "word_count": 1011
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 36,
+      "chapter_title": "Psalms 36",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The transgression of the wicked saith within my heart, that there is no fear of God before his eyes."
+        },
+        {
+          "verse": 2,
+          "text": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful."
+        },
+        {
+          "verse": 3,
+          "text": "The words of his mouth are iniquity and deceit: he hath left off to be wise, and to do good."
+        },
+        {
+          "verse": 4,
+          "text": "He deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil."
+        },
+        {
+          "verse": 5,
+          "text": "Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds."
+        },
+        {
+          "verse": 6,
+          "text": "Thy righteousness is like the great mountains; thy judgments are a great deep: O LORD, thou preservest man and beast."
+        },
+        {
+          "verse": 7,
+          "text": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings."
+        },
+        {
+          "verse": 8,
+          "text": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures."
+        },
+        {
+          "verse": 9,
+          "text": "For with thee is the fountain of life: in thy light shall we see light."
+        },
+        {
+          "verse": 10,
+          "text": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart."
+        },
+        {
+          "verse": 11,
+          "text": "Let not the foot of pride come against me, and let not the hand of the wicked remove me."
+        },
+        {
+          "verse": 12,
+          "text": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 223
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 12,
+      "chapter_title": "Jeremiah 12",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Righteous art thou, O LORD, when I plead with thee: yet let me talk with thee of thy judgments: Wherefore doth the way of the wicked prosper? wherefore are all they happy that deal very treacherously?"
+        },
+        {
+          "verse": 2,
+          "text": "Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou art near in their mouth, and far from their reins."
+        },
+        {
+          "verse": 3,
+          "text": "But thou, O LORD, knowest me: thou hast seen me, and tried mine heart toward thee: pull them out like sheep for the slaughter, and prepare them for the day of slaughter."
+        },
+        {
+          "verse": 4,
+          "text": "How long shall the land mourn, and the herbs of every field wither, for the wickedness of them that dwell therein? the beasts are consumed, and the birds; because they said, He shall not see our last end."
+        },
+        {
+          "verse": 5,
+          "text": "If thou hast run with the footmen, and they have wearied thee, then how canst thou contend with horses? and if in the land of peace, wherein thou trustedst, they wearied thee, then how wilt thou do in the swelling of Jordan?"
+        },
+        {
+          "verse": 6,
+          "text": "For even thy brethren, and the house of thy father, even they have dealt treacherously with thee; yea, they have called a multitude after thee: believe them not, though they speak fair words unto thee."
+        },
+        {
+          "verse": 7,
+          "text": "I have forsaken mine house, I have left mine heritage; I have given the dearly beloved of my soul into the hand of her enemies."
+        },
+        {
+          "verse": 8,
+          "text": "Mine heritage is unto me as a lion in the forest; it crieth out against me: therefore have I hated it."
+        },
+        {
+          "verse": 9,
+          "text": "Mine heritage is unto me as a speckled bird, the birds round about are against her; come ye, assemble all the beasts of the field, come to devour."
+        },
+        {
+          "verse": 10,
+          "text": "Many pastors have destroyed my vineyard, they have trodden my portion under foot, they have made my pleasant portion a desolate wilderness."
+        },
+        {
+          "verse": 11,
+          "text": "They have made it desolate, and being desolate it mourneth unto me; the whole land is made desolate, because no man layeth it to heart."
+        },
+        {
+          "verse": 12,
+          "text": "The spoilers are come upon all high places through the wilderness: for the sword of the LORD shall devour from the one end of the land even to the other end of the land: no flesh shall have peace."
+        },
+        {
+          "verse": 13,
+          "text": "They have sown wheat, but shall reap thorns: they have put themselves to pain, but shall not profit: and they shall be ashamed of your revenues because of the fierce anger of the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "Thus saith the LORD against all mine evil neighbours, that touch the inheritance which I have caused my people Israel to inherit; Behold, I will pluck them out of their land, and pluck out the house of Judah from among them."
+        },
+        {
+          "verse": 15,
+          "text": "And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land."
+        },
+        {
+          "verse": 16,
+          "text": "And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, The LORD liveth; as they taught my people to swear by Baal; then shall they be built in the midst of my people."
+        },
+        {
+          "verse": 17,
+          "text": "But if they will not obey, I will utterly pluck up and destroy that nation, saith the LORD."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 544
+    },
+    {
+      "book": "John",
+      "chapter_number": 10,
+      "chapter_title": "John 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
+        },
+        {
+          "verse": 2,
+          "text": "But he that entereth in by the door is the shepherd of the sheep."
+        },
+        {
+          "verse": 3,
+          "text": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out."
+        },
+        {
+          "verse": 4,
+          "text": "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice."
+        },
+        {
+          "verse": 5,
+          "text": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers."
+        },
+        {
+          "verse": 6,
+          "text": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them."
+        },
+        {
+          "verse": 7,
+          "text": "Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep."
+        },
+        {
+          "verse": 8,
+          "text": "All that ever came before me are thieves and robbers: but the sheep did not hear them."
+        },
+        {
+          "verse": 9,
+          "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture."
+        },
+        {
+          "verse": 10,
+          "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+        },
+        {
+          "verse": 11,
+          "text": "I am the good shepherd: the good shepherd giveth his life for the sheep."
+        },
+        {
+          "verse": 12,
+          "text": "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep."
+        },
+        {
+          "verse": 13,
+          "text": "The hireling fleeth, because he is an hireling, and careth not for the sheep."
+        },
+        {
+          "verse": 14,
+          "text": "I am the good shepherd, and know my sheep, and am known of mine."
+        },
+        {
+          "verse": 15,
+          "text": "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep."
+        },
+        {
+          "verse": 16,
+          "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
+        },
+        {
+          "verse": 17,
+          "text": "Therefore doth my Father love me, because I lay down my life, that I might take it again."
+        },
+        {
+          "verse": 18,
+          "text": "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father."
+        },
+        {
+          "verse": 19,
+          "text": "There was a division therefore again among the Jews for these sayings."
+        },
+        {
+          "verse": 20,
+          "text": "And many of them said, He hath a devil, and is mad; why hear ye him?"
+        },
+        {
+          "verse": 21,
+          "text": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?"
+        },
+        {
+          "verse": 22,
+          "text": "And it was at Jerusalem the feast of the dedication, and it was winter."
+        },
+        {
+          "verse": 23,
+          "text": "And Jesus walked in the temple in Solomon’s porch."
+        },
+        {
+          "verse": 24,
+          "text": "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly."
+        },
+        {
+          "verse": 25,
+          "text": "Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me."
+        },
+        {
+          "verse": 26,
+          "text": "But ye believe not, because ye are not of my sheep, as I said unto you."
+        },
+        {
+          "verse": 27,
+          "text": "My sheep hear my voice, and I know them, and they follow me:"
+        },
+        {
+          "verse": 28,
+          "text": "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."
+        },
+        {
+          "verse": 29,
+          "text": "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand."
+        },
+        {
+          "verse": 30,
+          "text": "I and my Father are one."
+        },
+        {
+          "verse": 31,
+          "text": "Then the Jews took up stones again to stone him."
+        },
+        {
+          "verse": 32,
+          "text": "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?"
+        },
+        {
+          "verse": 33,
+          "text": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God."
+        },
+        {
+          "verse": 34,
+          "text": "Jesus answered them, Is it not written in your law, I said, Ye are gods?"
+        },
+        {
+          "verse": 35,
+          "text": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;"
+        },
+        {
+          "verse": 36,
+          "text": "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?"
+        },
+        {
+          "verse": 37,
+          "text": "If I do not the works of my Father, believe me not."
+        },
+        {
+          "verse": 38,
+          "text": "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him."
+        },
+        {
+          "verse": 39,
+          "text": "Therefore they sought again to take him: but he escaped out of their hand,"
+        },
+        {
+          "verse": 40,
+          "text": "And went away again beyond Jordan into the place where John at first baptized; and there he abode."
+        },
+        {
+          "verse": 41,
+          "text": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true."
+        },
+        {
+          "verse": 42,
+          "text": "And many believed on him there."
+        }
+      ],
+      "verse_count": 42,
+      "word_count": 823
+    }
+  ]
+}

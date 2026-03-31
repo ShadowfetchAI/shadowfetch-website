@@ -1,0 +1,693 @@
+{
+  "day_number": 14,
+  "references": "Genesis 27-28 • Job 14 • Isaiah 14 • Matthew 14",
+  "word_count": 3890,
+  "estimated_minutes": 19,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Matthew 14:18",
+    "text": "He said, Bring them hither to me.",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "Genesis 29-30 • Job 15 • Isaiah 15 • Matthew 15",
+  "chapters": [
+    {
+      "book": "Genesis",
+      "chapter_number": 27,
+      "chapter_title": "Genesis 27",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I."
+        },
+        {
+          "verse": 2,
+          "text": "And he said, Behold now, I am old, I know not the day of my death:"
+        },
+        {
+          "verse": 3,
+          "text": "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison;"
+        },
+        {
+          "verse": 4,
+          "text": "And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die."
+        },
+        {
+          "verse": 5,
+          "text": "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it."
+        },
+        {
+          "verse": 6,
+          "text": "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,"
+        },
+        {
+          "verse": 7,
+          "text": "Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death."
+        },
+        {
+          "verse": 8,
+          "text": "Now therefore, my son, obey my voice according to that which I command thee."
+        },
+        {
+          "verse": 9,
+          "text": "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:"
+        },
+        {
+          "verse": 10,
+          "text": "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death."
+        },
+        {
+          "verse": 11,
+          "text": "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man:"
+        },
+        {
+          "verse": 12,
+          "text": "My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing."
+        },
+        {
+          "verse": 13,
+          "text": "And his mother said unto him, Upon me be thy curse, my son: only obey my voice, and go fetch me them."
+        },
+        {
+          "verse": 14,
+          "text": "And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved."
+        },
+        {
+          "verse": 15,
+          "text": "And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son:"
+        },
+        {
+          "verse": 16,
+          "text": "And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:"
+        },
+        {
+          "verse": 17,
+          "text": "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob."
+        },
+        {
+          "verse": 18,
+          "text": "And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?"
+        },
+        {
+          "verse": 19,
+          "text": "And Jacob said unto his father, I am Esau thy first born; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me."
+        },
+        {
+          "verse": 20,
+          "text": "And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the LORD thy God brought it to me."
+        },
+        {
+          "verse": 21,
+          "text": "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not."
+        },
+        {
+          "verse": 22,
+          "text": "And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob’s voice, but the hands are the hands of Esau."
+        },
+        {
+          "verse": 23,
+          "text": "And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him."
+        },
+        {
+          "verse": 24,
+          "text": "And he said, Art thou my very son Esau? And he said, I am."
+        },
+        {
+          "verse": 25,
+          "text": "And he said, Bring it near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank."
+        },
+        {
+          "verse": 26,
+          "text": "And his father Isaac said unto him, Come near now, and kiss me, my son."
+        },
+        {
+          "verse": 27,
+          "text": "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the LORD hath blessed:"
+        },
+        {
+          "verse": 28,
+          "text": "Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:"
+        },
+        {
+          "verse": 29,
+          "text": "Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother’s sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee."
+        },
+        {
+          "verse": 30,
+          "text": "And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting."
+        },
+        {
+          "verse": 31,
+          "text": "And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son’s venison, that thy soul may bless me."
+        },
+        {
+          "verse": 32,
+          "text": "And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau."
+        },
+        {
+          "verse": 33,
+          "text": "And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed."
+        },
+        {
+          "verse": 34,
+          "text": "And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father."
+        },
+        {
+          "verse": 35,
+          "text": "And he said, Thy brother came with subtilty, and hath taken away thy blessing."
+        },
+        {
+          "verse": 36,
+          "text": "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?"
+        },
+        {
+          "verse": 37,
+          "text": "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?"
+        },
+        {
+          "verse": 38,
+          "text": "And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept."
+        },
+        {
+          "verse": 39,
+          "text": "And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;"
+        },
+        {
+          "verse": 40,
+          "text": "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck."
+        },
+        {
+          "verse": 41,
+          "text": "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob."
+        },
+        {
+          "verse": 42,
+          "text": "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee."
+        },
+        {
+          "verse": 43,
+          "text": "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;"
+        },
+        {
+          "verse": 44,
+          "text": "And tarry with him a few days, until thy brother’s fury turn away;"
+        },
+        {
+          "verse": 45,
+          "text": "Until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?"
+        },
+        {
+          "verse": 46,
+          "text": "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?"
+        }
+      ],
+      "verse_count": 46,
+      "word_count": 1270
+    },
+    {
+      "book": "Genesis",
+      "chapter_number": 28,
+      "chapter_title": "Genesis 28",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan."
+        },
+        {
+          "verse": 2,
+          "text": "Arise, go to Padanaram, to the house of Bethuel thy mother’s father; and take thee a wife from thence of the daughters of Laban thy mother’s brother."
+        },
+        {
+          "verse": 3,
+          "text": "And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;"
+        },
+        {
+          "verse": 4,
+          "text": "And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham."
+        },
+        {
+          "verse": 5,
+          "text": "And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob’s and Esau’s mother."
+        },
+        {
+          "verse": 6,
+          "text": "When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;"
+        },
+        {
+          "verse": 7,
+          "text": "And that Jacob obeyed his father and his mother, and was gone to Padanaram;"
+        },
+        {
+          "verse": 8,
+          "text": "And Esau seeing that the daughters of Canaan pleased not Isaac his father;"
+        },
+        {
+          "verse": 9,
+          "text": "Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham’s son, the sister of Nebajoth, to be his wife."
+        },
+        {
+          "verse": 10,
+          "text": "And Jacob went out from Beersheba, and went toward Haran."
+        },
+        {
+          "verse": 11,
+          "text": "And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep."
+        },
+        {
+          "verse": 12,
+          "text": "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it."
+        },
+        {
+          "verse": 13,
+          "text": "And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;"
+        },
+        {
+          "verse": 14,
+          "text": "And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed."
+        },
+        {
+          "verse": 15,
+          "text": "And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of."
+        },
+        {
+          "verse": 16,
+          "text": "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not."
+        },
+        {
+          "verse": 17,
+          "text": "And he was afraid, and said, How dreadful is this place! this is none other but the house of God, and this is the gate of heaven."
+        },
+        {
+          "verse": 18,
+          "text": "And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it."
+        },
+        {
+          "verse": 19,
+          "text": "And he called the name of that place Bethel: but the name of that city was called Luz at the first."
+        },
+        {
+          "verse": 20,
+          "text": "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,"
+        },
+        {
+          "verse": 21,
+          "text": "So that I come again to my father’s house in peace; then shall the LORD be my God:"
+        },
+        {
+          "verse": 22,
+          "text": "And this stone, which I have set for a pillar, shall be God’s house: and of all that thou shalt give me I will surely give the tenth unto thee."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 628
+    },
+    {
+      "book": "Job",
+      "chapter_number": 14,
+      "chapter_title": "Job 14",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Man that is born of a woman is of few days, and full of trouble."
+        },
+        {
+          "verse": 2,
+          "text": "He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not."
+        },
+        {
+          "verse": 3,
+          "text": "And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?"
+        },
+        {
+          "verse": 4,
+          "text": "Who can bring a clean thing out of an unclean? not one."
+        },
+        {
+          "verse": 5,
+          "text": "Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;"
+        },
+        {
+          "verse": 6,
+          "text": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day."
+        },
+        {
+          "verse": 7,
+          "text": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease."
+        },
+        {
+          "verse": 8,
+          "text": "Though the root thereof wax old in the earth, and the stock thereof die in the ground;"
+        },
+        {
+          "verse": 9,
+          "text": "Yet through the scent of water it will bud, and bring forth boughs like a plant."
+        },
+        {
+          "verse": 10,
+          "text": "But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?"
+        },
+        {
+          "verse": 11,
+          "text": "As the waters fail from the sea, and the flood decayeth and drieth up:"
+        },
+        {
+          "verse": 12,
+          "text": "So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep."
+        },
+        {
+          "verse": 13,
+          "text": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!"
+        },
+        {
+          "verse": 14,
+          "text": "If a man die, shall he live again? all the days of my appointed time will I wait, till my change come."
+        },
+        {
+          "verse": 15,
+          "text": "Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands."
+        },
+        {
+          "verse": 16,
+          "text": "For now thou numberest my steps: dost thou not watch over my sin?"
+        },
+        {
+          "verse": 17,
+          "text": "My transgression is sealed up in a bag, and thou sewest up mine iniquity."
+        },
+        {
+          "verse": 18,
+          "text": "And surely the mountain falling cometh to nought, and the rock is removed out of his place."
+        },
+        {
+          "verse": 19,
+          "text": "The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man."
+        },
+        {
+          "verse": 20,
+          "text": "Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away."
+        },
+        {
+          "verse": 21,
+          "text": "His sons come to honour, and he knoweth it not; and they are brought low, but he perceiveth it not of them."
+        },
+        {
+          "verse": 22,
+          "text": "But his flesh upon him shall have pain, and his soul within him shall mourn."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 410
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 14,
+      "chapter_title": "Isaiah 14",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob."
+        },
+        {
+          "verse": 2,
+          "text": "And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the LORD for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors."
+        },
+        {
+          "verse": 3,
+          "text": "And it shall come to pass in the day that the LORD shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,"
+        },
+        {
+          "verse": 4,
+          "text": "That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!"
+        },
+        {
+          "verse": 5,
+          "text": "The LORD hath broken the staff of the wicked, and the sceptre of the rulers."
+        },
+        {
+          "verse": 6,
+          "text": "He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth."
+        },
+        {
+          "verse": 7,
+          "text": "The whole earth is at rest, and is quiet: they break forth into singing."
+        },
+        {
+          "verse": 8,
+          "text": "Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us."
+        },
+        {
+          "verse": 9,
+          "text": "Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations."
+        },
+        {
+          "verse": 10,
+          "text": "All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?"
+        },
+        {
+          "verse": 11,
+          "text": "Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee."
+        },
+        {
+          "verse": 12,
+          "text": "How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!"
+        },
+        {
+          "verse": 13,
+          "text": "For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:"
+        },
+        {
+          "verse": 14,
+          "text": "I will ascend above the heights of the clouds; I will be like the most High."
+        },
+        {
+          "verse": 15,
+          "text": "Yet thou shalt be brought down to hell, to the sides of the pit."
+        },
+        {
+          "verse": 16,
+          "text": "They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;"
+        },
+        {
+          "verse": 17,
+          "text": "That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?"
+        },
+        {
+          "verse": 18,
+          "text": "All the kings of the nations, even all of them, lie in glory, every one in his own house."
+        },
+        {
+          "verse": 19,
+          "text": "But thou art cast out of thy grave like an abominable branch, and as the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet."
+        },
+        {
+          "verse": 20,
+          "text": "Thou shalt not be joined with them in burial, because thou hast destroyed thy land, and slain thy people: the seed of evildoers shall never be renowned."
+        },
+        {
+          "verse": 21,
+          "text": "Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities."
+        },
+        {
+          "verse": 22,
+          "text": "For I will rise up against them, saith the LORD of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the LORD."
+        },
+        {
+          "verse": 23,
+          "text": "I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the LORD of hosts."
+        },
+        {
+          "verse": 24,
+          "text": "The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand:"
+        },
+        {
+          "verse": 25,
+          "text": "That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders."
+        },
+        {
+          "verse": 26,
+          "text": "This is the purpose that is purposed upon the whole earth: and this is the hand that is stretched out upon all the nations."
+        },
+        {
+          "verse": 27,
+          "text": "For the LORD of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back?"
+        },
+        {
+          "verse": 28,
+          "text": "In the year that king Ahaz died was this burden."
+        },
+        {
+          "verse": 29,
+          "text": "Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent."
+        },
+        {
+          "verse": 30,
+          "text": "And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill thy root with famine, and he shall slay thy remnant."
+        },
+        {
+          "verse": 31,
+          "text": "Howl, O gate; cry, O city; thou, whole Palestina, art dissolved: for there shall come from the north a smoke, and none shall be alone in his appointed times."
+        },
+        {
+          "verse": 32,
+          "text": "What shall one then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 857
+    },
+    {
+      "book": "Matthew",
+      "chapter_number": 14,
+      "chapter_title": "Matthew 14",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "At that time Herod the tetrarch heard of the fame of Jesus,"
+        },
+        {
+          "verse": 2,
+          "text": "And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him."
+        },
+        {
+          "verse": 3,
+          "text": "For Herod had laid hold on John, and bound him, and put him in prison for Herodias’ sake, his brother Philip’s wife."
+        },
+        {
+          "verse": 4,
+          "text": "For John said unto him, It is not lawful for thee to have her."
+        },
+        {
+          "verse": 5,
+          "text": "And when he would have put him to death, he feared the multitude, because they counted him as a prophet."
+        },
+        {
+          "verse": 6,
+          "text": "But when Herod’s birthday was kept, the daughter of Herodias danced before them, and pleased Herod."
+        },
+        {
+          "verse": 7,
+          "text": "Whereupon he promised with an oath to give her whatsoever she would ask."
+        },
+        {
+          "verse": 8,
+          "text": "And she, being before instructed of her mother, said, Give me here John Baptist’s head in a charger."
+        },
+        {
+          "verse": 9,
+          "text": "And the king was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded it to be given her."
+        },
+        {
+          "verse": 10,
+          "text": "And he sent, and beheaded John in the prison."
+        },
+        {
+          "verse": 11,
+          "text": "And his head was brought in a charger, and given to the damsel: and she brought it to her mother."
+        },
+        {
+          "verse": 12,
+          "text": "And his disciples came, and took up the body, and buried it, and went and told Jesus."
+        },
+        {
+          "verse": 13,
+          "text": "When Jesus heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities."
+        },
+        {
+          "verse": 14,
+          "text": "And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick."
+        },
+        {
+          "verse": 15,
+          "text": "And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals."
+        },
+        {
+          "verse": 16,
+          "text": "But Jesus said unto them, They need not depart; give ye them to eat."
+        },
+        {
+          "verse": 17,
+          "text": "And they say unto him, We have here but five loaves, and two fishes."
+        },
+        {
+          "verse": 18,
+          "text": "He said, Bring them hither to me."
+        },
+        {
+          "verse": 19,
+          "text": "And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude."
+        },
+        {
+          "verse": 20,
+          "text": "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full."
+        },
+        {
+          "verse": 21,
+          "text": "And they that had eaten were about five thousand men, beside women and children."
+        },
+        {
+          "verse": 22,
+          "text": "And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away."
+        },
+        {
+          "verse": 23,
+          "text": "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone."
+        },
+        {
+          "verse": 24,
+          "text": "But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary."
+        },
+        {
+          "verse": 25,
+          "text": "And in the fourth watch of the night Jesus went unto them, walking on the sea."
+        },
+        {
+          "verse": 26,
+          "text": "And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear."
+        },
+        {
+          "verse": 27,
+          "text": "But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid."
+        },
+        {
+          "verse": 28,
+          "text": "And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water."
+        },
+        {
+          "verse": 29,
+          "text": "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."
+        },
+        {
+          "verse": 30,
+          "text": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."
+        },
+        {
+          "verse": 31,
+          "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
+        },
+        {
+          "verse": 32,
+          "text": "And when they were come into the ship, the wind ceased."
+        },
+        {
+          "verse": 33,
+          "text": "Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God."
+        },
+        {
+          "verse": 34,
+          "text": "And when they were gone over, they came into the land of Gennesaret."
+        },
+        {
+          "verse": 35,
+          "text": "And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;"
+        },
+        {
+          "verse": 36,
+          "text": "And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole."
+        }
+      ],
+      "verse_count": 36,
+      "word_count": 725
+    }
+  ]
+}

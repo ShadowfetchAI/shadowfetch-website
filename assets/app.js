@@ -22,6 +22,11 @@ const LOCAL_LATEST_ENDPOINT = "/api/latest";
 const LOCAL_WEATHER_ENDPOINT = "/api/weather";
 const LOCAL_SPORTS_ENDPOINT = "/api/sports";
 const LOCAL_MARKETS_ENDPOINT = "/api/markets";
+const BIBLE_SUMMARY_ENDPOINT = "/assets/data/bible-edition.json";
+const BIBLE_DAY_ENDPOINT = "/api/day";
+const BIBLE_PROGRESS_ENDPOINT = "/api/progress";
+const BIBLE_PROFILE_KEY = "shadowfetch_bible_profile";
+const BIBLE_PROGRESS_KEY = "shadowfetch_bible_progress";
 
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", bootSite);
@@ -30,6 +35,10 @@ if (document.readyState === "loading") {
 }
 
 function bootSite() {
+  if (document.body?.dataset.edition === "bible") {
+    bootBibleEdition();
+    return;
+  }
   applySocialLinks();
   initializeVisitorCounter().catch(() => {
     setVisitCount("Unavailable");
@@ -48,6 +57,440 @@ function bootSite() {
       empty.textContent = "Search is temporarily unavailable.";
     }
   });
+}
+
+function bootBibleEdition() {
+  applyBibleTheme();
+  wireBibleThemeToggle();
+  wireBibleSignupForms();
+  wireBibleMarkRead();
+  registerBiblePwa();
+  hydrateBibleEdition().catch(() => {
+    // Keep the build readable if personalization fails.
+  });
+}
+
+function applyBibleTheme() {
+  const saved = localStorage.getItem("shadowfetch_bible_theme") || "dark";
+  document.body.dataset.theme = saved;
+}
+
+function wireBibleThemeToggle() {
+  document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
+    const updateLabel = () => {
+      const current = document.body.dataset.theme || "dark";
+      button.textContent = current === "dark" ? "Light Mode" : "Dark Mode";
+    };
+    updateLabel();
+    button.addEventListener("click", () => {
+      const next = (document.body.dataset.theme || "dark") === "dark" ? "light" : "dark";
+      document.body.dataset.theme = next;
+      localStorage.setItem("shadowfetch_bible_theme", next);
+      updateLabel();
+    });
+  });
+}
+
+function wireBibleSignupForms() {
+  document.querySelectorAll("[data-signup-form]").forEach((form) => {
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const status = form.querySelector("[data-signup-status]");
+      const formData = new FormData(form);
+      const body = Object.fromEntries(formData.entries());
+      body.subscribed = formData.get("subscribed") === "1";
+      if (status) {
+        status.textContent = "Saving your reading setup...";
+      }
+      try {
+        const response = await fetch("/api/signup", {
+          method: "POST",
+          headers: {
+            "content-type": "application/json"
+          },
+          body: JSON.stringify(body)
+        });
+        const payload = await response.json();
+        if (!response.ok || !payload?.ok) {
+          throw new Error(payload?.error || "Could not save your signup.");
+        }
+        saveBibleProfile({
+          email: payload.email,
+          canon: payload.canon,
+          start_date: payload.startDate,
+          subscribed: payload.subscribed,
+        });
+        if (status) {
+          status.textContent = payload.message || "You are set.";
+        }
+        if (payload.redirect) {
+          window.location.href = payload.redirect;
+        }
+      } catch (error) {
+        if (status) {
+          status.textContent = error.message || "Could not save your reading setup yet.";
+        }
+      }
+    });
+  });
+}
+
+function wireBibleMarkRead() {
+  document.body.addEventListener("click", async (event) => {
+    const button = event.target.closest("[data-mark-read]");
+    if (!button) {
+      return;
+    }
+
+    const profile = readBibleProfile();
+    const readingDay = Number.parseInt(button.dataset.readingDay || "1", 10) || 1;
+    const readingDate = new Date().toISOString().slice(0, 10);
+    button.disabled = true;
+    button.textContent = "Saving...";
+
+    const progressSet = readLocalProgress(profile);
+    progressSet.add(readingDay);
+    writeLocalProgress(profile, progressSet);
+
+    try {
+      const response = await fetch(BIBLE_PROGRESS_ENDPOINT, {
+        method: "POST",
+        headers: {
+          "content-type": "application/json"
+        },
+        body: JSON.stringify({
+          email: profile.email || "",
+          reading_day: readingDay,
+          reading_date: readingDate
+        })
+      });
+      const payload = await response.json();
+      if (!response.ok || !payload?.ok) {
+        throw new Error(payload?.error || "Could not mark this reading yet.");
+      }
+      button.textContent = "Marked as Read";
+      hydrateBibleEdition().catch(() => {});
+    } catch (error) {
+      button.disabled = false;
+      button.textContent = "Try again";
+    }
+  });
+}
+
+function registerBiblePwa() {
+  if (!("serviceWorker" in navigator)) {
+    return;
+  }
+  navigator.serviceWorker.register("/service-worker.js").catch(() => {
+    // Keep the site readable even if the PWA layer is unavailable.
+  });
+}
+
+async function hydrateBibleEdition() {
+  const page = document.body?.dataset.page || "home";
+  const summary = await fetchBibleSummary();
+  const profile = readBibleProfile(summary);
+  syncBibleForms(profile);
+
+  if (page === "home" || page === "bible") {
+    const reading = await fetchBibleReading(profile);
+    renderBibleReadingPage(page, reading);
+    updateBibleProgressUi(summary, profile);
+  }
+
+  if (page === "calendar") {
+    renderBibleCalendar(summary, profile);
+  }
+
+  if (page === "archive") {
+    renderBibleArchive(summary, profile);
+  }
+}
+
+async function fetchBibleSummary() {
+  const response = await fetch(BIBLE_SUMMARY_ENDPOINT, { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error("Could not load bible summary.");
+  }
+  return response.json();
+}
+
+function readBibleProfile(summary = null) {
+  const fromStorage = safeJsonParse(localStorage.getItem(BIBLE_PROFILE_KEY)) || {};
+  const params = new URLSearchParams(window.location.search);
+  const fallback = summary?.default_profile || {};
+  const profile = {
+    canon: params.get("canon") || fromStorage.canon || fallback.canon || "protestant",
+    start_date: params.get("start_date") || fromStorage.start_date || fallback.start_date || new Date().toISOString().slice(0, 10),
+    email: params.get("email") || fromStorage.email || "",
+    subscribed: typeof fromStorage.subscribed === "boolean" ? fromStorage.subscribed : true
+  };
+  saveBibleProfile(profile);
+  return profile;
+}
+
+function saveBibleProfile(profile) {
+  const safeProfile = {
+    canon: profile?.canon === "catholic" ? "catholic" : "protestant",
+    start_date: String(profile?.start_date || new Date().toISOString().slice(0, 10)),
+    email: String(profile?.email || ""),
+    subscribed: profile?.subscribed !== false
+  };
+  localStorage.setItem(BIBLE_PROFILE_KEY, JSON.stringify(safeProfile));
+}
+
+async function fetchBibleReading(profile) {
+  const query = new URLSearchParams({
+    canon: profile.canon,
+    start_date: profile.start_date
+  });
+  const dayParam = new URLSearchParams(window.location.search).get("day");
+  if (dayParam) {
+    query.set("day", dayParam);
+  }
+  const response = await fetch(`${BIBLE_DAY_ENDPOINT}?${query.toString()}`, { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error("Could not load bible reading.");
+  }
+  const payload = await response.json();
+  if (!payload?.ok) {
+    throw new Error(payload?.error || "Could not load bible reading.");
+  }
+  return payload.reading;
+}
+
+function renderBibleReadingPage(page, reading) {
+  const rootId = page === "home" ? "home-reading-root" : "bible-reading-root";
+  const root = document.getElementById(rootId);
+  if (root) {
+    root.innerHTML = renderBibleReadingHtml(reading, { showQuote: page === "bible" });
+  }
+  const quoteRoot = document.getElementById("home-quote-root");
+  if (page === "home" && quoteRoot && reading?.quote) {
+    quoteRoot.innerHTML = renderBibleQuoteHtml(reading.quote);
+  }
+  const ribbonDay = document.getElementById("home-ribbon-day");
+  if (page === "home" && ribbonDay) {
+    ribbonDay.textContent = `Day ${reading.day_number} of 365`;
+  }
+}
+
+function renderBibleReadingHtml(reading, options = {}) {
+  const chapters = Array.isArray(reading?.chapters) ? reading.chapters : [];
+  const chapterMarkup = chapters.map((chapter) => renderBibleChapterHtml(chapter)).join("");
+  const quoteMarkup = options.showQuote && reading?.quote ? renderBibleQuoteHtml(reading.quote) : "";
+  return `
+    <div class="reading-lead-body">
+      <p class="paper-kicker">Today's Reading</p>
+      <h1 class="paper-headline bible-headline">Day ${reading.day_number}</h1>
+      <p class="paper-summary">${escapeHtml(reading.references)}</p>
+      <div class="reading-meta reading-meta-strong">
+        <span>${reading.estimated_minutes} minute read</span>
+        <span>${reading.word_count} words</span>
+        <span>${escapeHtml(reading.translation)}</span>
+      </div>
+      <div class="support-banner">
+        <p>These daily chapters are free thanks to people like you. Donate what you want to help keep the emails going for everyone.</p>
+        <a class="button button-secondary" href="https://www.buymeacoffee.com/shadowfetch" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
+      </div>
+      <div class="reading-stack">${chapterMarkup}</div>
+      <div class="hero-actions devotional-actions">
+        <button class="button button-primary" type="button" data-mark-read data-reading-day="${reading.day_number}">Mark as Read</button>
+        <a class="button button-secondary" href="/calendar/">Open calendar</a>
+      </div>
+      <p class="tomorrow-teaser">Tomorrow's teaser: <a href="/calendar/">${escapeHtml(reading.tomorrow_teaser)}</a></p>
+      ${quoteMarkup}
+    </div>
+  `;
+}
+
+function renderBibleChapterHtml(chapter) {
+  const verses = Array.isArray(chapter?.verses) ? chapter.verses : [];
+  const verseMarkup = verses
+    .map(
+      (verse) => `
+        <p class="verse-row"><span class="verse-number">${verse.verse}</span><span>${escapeHtml(verse.text)}</span></p>
+      `
+    )
+    .join("");
+  return `
+    <article class="panel chapter-reading">
+      <p class="panel-label">Chapter</p>
+      <h3>${escapeHtml(chapter.chapter_title)}</h3>
+      <div class="reading-meta">
+        <span>${chapter.verse_count} verses</span>
+        <span>${chapter.word_count} words</span>
+      </div>
+      <div class="verse-stack">${verseMarkup}</div>
+    </article>
+  `;
+}
+
+function renderBibleQuoteHtml(quote) {
+  return `
+    <article class="panel quote-panel">
+      <p class="panel-label">Verse of the day</p>
+      <blockquote class="quote-block">
+        <p>${escapeHtml(quote.text)}</p>
+        <footer>${escapeHtml(quote.verse)}</footer>
+      </blockquote>
+      <p>${escapeHtml(quote.reflection)}</p>
+    </article>
+  `;
+}
+
+function renderBibleCalendar(summary, profile) {
+  const root = document.getElementById("calendar-root");
+  if (!root) {
+    return;
+  }
+  const plan = summary?.plans?.[profile.canon] || summary?.plans?.protestant;
+  const days = Array.isArray(plan?.days) ? plan.days : [];
+  const progress = readLocalProgress(profile);
+  const months = buildCalendarMonths(profile.start_date, days, progress);
+  root.innerHTML = months
+    .map(
+      (month) => `
+        <article class="panel calendar-month-card">
+          <p class="panel-label">${escapeHtml(month.label)}</p>
+          <div class="calendar-month-grid">
+            ${month.days
+              .map(
+                (day) => `
+                  <a class="calendar-month-day calendar-month-day-${day.status}" href="/bible/?canon=${encodeURIComponent(profile.canon)}&start_date=${encodeURIComponent(profile.start_date)}&day=${day.dayNumber}">
+                    <strong>${day.dateLabel}</strong>
+                    <span>Day ${day.dayNumber}</span>
+                  </a>
+                `
+              )
+              .join("")}
+          </div>
+        </article>
+      `
+    )
+    .join("");
+}
+
+function buildCalendarMonths(startDate, planDays, progressSet) {
+  const start = new Date(startDate);
+  const months = [];
+  let cursor = new Date(start.getFullYear(), start.getMonth(), start.getDate());
+  for (let monthIndex = 0; monthIndex < 12; monthIndex += 1) {
+    const label = cursor.toLocaleDateString(undefined, { month: "long", year: "numeric" });
+    const daysInMonth = new Date(cursor.getFullYear(), cursor.getMonth() + 1, 0).getDate();
+    const monthDays = [];
+    for (let day = 1; day <= daysInMonth; day += 1) {
+      const currentDate = new Date(cursor.getFullYear(), cursor.getMonth(), day);
+      const dayNumber = Math.floor((currentDate.getTime() - start.getTime()) / (24 * 60 * 60 * 1000)) + 1;
+      if (dayNumber < 1 || dayNumber > planDays.length) {
+        continue;
+      }
+      let status = "upcoming";
+      if (progressSet.has(dayNumber)) {
+        status = "read";
+      } else if (currentDate.toDateString() === new Date().toDateString()) {
+        status = "today";
+      } else if (currentDate < new Date()) {
+        status = "missed";
+      }
+      monthDays.push({
+        dayNumber,
+        status,
+        dateLabel: day
+      });
+    }
+    if (monthDays.length) {
+      months.push({ label, days: monthDays });
+    }
+    cursor = new Date(cursor.getFullYear(), cursor.getMonth() + 1, 1);
+  }
+  return months;
+}
+
+function renderBibleArchive(summary, profile) {
+  const root = document.getElementById("archive-root");
+  if (!root) {
+    return;
+  }
+  const plan = summary?.plans?.[profile.canon] || summary?.plans?.protestant;
+  const days = Array.isArray(plan?.days) ? plan.days : [];
+  const render = (query = "") => {
+    const needle = query.trim().toLowerCase();
+    const filtered = needle
+      ? days.filter((day) => `${day.day_number} ${day.references} ${day.quote?.text || ""}`.toLowerCase().includes(needle))
+      : days;
+    root.innerHTML = filtered
+      .map(
+        (day) => `
+          <article class="panel archive-card">
+            <p class="panel-label">Day ${day.day_number}</p>
+            <h3>${escapeHtml(day.references)}</h3>
+            <p>${escapeHtml(day.quote?.text || "")}</p>
+            <a class="story-link" href="/bible/?canon=${encodeURIComponent(profile.canon)}&start_date=${encodeURIComponent(profile.start_date)}&day=${day.day_number}">Open reading</a>
+          </article>
+        `
+      )
+      .join("");
+  };
+
+  render();
+  const search = document.getElementById("archive-search");
+  if (search) {
+    search.addEventListener("input", () => render(search.value));
+  }
+}
+
+function updateBibleProgressUi(summary, profile) {
+  const plan = summary?.plans?.[profile.canon] || summary?.plans?.protestant;
+  const totalDays = Number(plan?.total_days || 365);
+  const progressSet = readLocalProgress(profile);
+  const percentage = Math.round((progressSet.size / totalDays) * 1000) / 10;
+  document.querySelectorAll(".progress-ring strong").forEach((node) => {
+    node.textContent = `${percentage}%`;
+  });
+  document.querySelectorAll(".progress-ring span").forEach((node) => {
+    node.textContent = `${progressSet.size} of ${totalDays} days`;
+  });
+}
+
+function syncBibleForms(profile) {
+  document.querySelectorAll("[data-signup-form]").forEach((form) => {
+    const email = form.querySelector('input[name="email"]');
+    const startDate = form.querySelector('input[name="start_date"]');
+    const subscribed = form.querySelector('input[name="subscribed"]');
+    if (email && !email.value && profile.email) {
+      email.value = profile.email;
+    }
+    if (startDate) {
+      startDate.value = profile.start_date;
+    }
+    form.querySelectorAll('input[name="canon"]').forEach((input) => {
+      input.checked = input.value === profile.canon;
+    });
+    if (subscribed) {
+      subscribed.checked = profile.subscribed !== false;
+    }
+  });
+}
+
+function readLocalProgress(profile) {
+  const scope = `${profile.canon}:${profile.start_date}:${profile.email || "guest"}`;
+  const raw = safeJsonParse(localStorage.getItem(`${BIBLE_PROGRESS_KEY}:${scope}`));
+  return new Set(Array.isArray(raw) ? raw.map((value) => Number.parseInt(String(value), 10)).filter(Boolean) : []);
+}
+
+function writeLocalProgress(profile, progressSet) {
+  const scope = `${profile.canon}:${profile.start_date}:${profile.email || "guest"}`;
+  const values = Array.from(progressSet).sort((a, b) => a - b);
+  localStorage.setItem(`${BIBLE_PROGRESS_KEY}:${scope}`, JSON.stringify(values));
+}
+
+function safeJsonParse(value) {
+  try {
+    return value ? JSON.parse(value) : null;
+  } catch {
+    return null;
+  }
 }
 
 function applySocialLinks() {

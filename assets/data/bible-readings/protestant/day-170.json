@@ -1,0 +1,304 @@
+{
+  "day_number": 170,
+  "references": "1 Samuel 5 • Psalms 128 • Ezekiel 47 • Ephesians 2",
+  "word_count": 1775,
+  "estimated_minutes": 9,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 128:4",
+    "text": "Behold, that thus shall the man be blessed that feareth the LORD.",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "1 Samuel 6 • Psalms 129 • Ezekiel 48 • Ephesians 3",
+  "chapters": [
+    {
+      "book": "1 Samuel",
+      "chapter_number": 5,
+      "chapter_title": "1 Samuel 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Philistines took the ark of God, and brought it from Ebenezer unto Ashdod."
+        },
+        {
+          "verse": 2,
+          "text": "When the Philistines took the ark of God, they brought it into the house of Dagon, and set it by Dagon."
+        },
+        {
+          "verse": 3,
+          "text": "And when they of Ashdod arose early on the morrow, behold, Dagon was fallen upon his face to the earth before the ark of the LORD. And they took Dagon, and set him in his place again."
+        },
+        {
+          "verse": 4,
+          "text": "And when they arose early on the morrow morning, behold, Dagon was fallen upon his face to the ground before the ark of the LORD; and the head of Dagon and both the palms of his hands were cut off upon the threshold; only the stump of Dagon was left to him."
+        },
+        {
+          "verse": 5,
+          "text": "Therefore neither the priests of Dagon, nor any that come into Dagon’s house, tread on the threshold of Dagon in Ashdod unto this day."
+        },
+        {
+          "verse": 6,
+          "text": "But the hand of the LORD was heavy upon them of Ashdod, and he destroyed them, and smote them with emerods, even Ashdod and the coasts thereof."
+        },
+        {
+          "verse": 7,
+          "text": "And when the men of Ashdod saw that it was so, they said, The ark of the God of Israel shall not abide with us: for his hand is sore upon us, and upon Dagon our god."
+        },
+        {
+          "verse": 8,
+          "text": "They sent therefore and gathered all the lords of the Philistines unto them, and said, What shall we do with the ark of the God of Israel? And they answered, Let the ark of the God of Israel be carried about unto Gath. And they carried the ark of the God of Israel about thither."
+        },
+        {
+          "verse": 9,
+          "text": "And it was so, that, after they had carried it about, the hand of the LORD was against the city with a very great destruction: and he smote the men of the city, both small and great, and they had emerods in their secret parts."
+        },
+        {
+          "verse": 10,
+          "text": "Therefore they sent the ark of God to Ekron. And it came to pass, as the ark of God came to Ekron, that the Ekronites cried out, saying, They have brought about the ark of the God of Israel to us, to slay us and our people."
+        },
+        {
+          "verse": 11,
+          "text": "So they sent and gathered together all the lords of the Philistines, and said, Send away the ark of the God of Israel, and let it go again to his own place, that it slay us not, and our people: for there was a deadly destruction throughout all the city; the hand of God was very heavy there."
+        },
+        {
+          "verse": 12,
+          "text": "And the men that died not were smitten with the emerods: and the cry of the city went up to heaven."
+        }
+      ],
+      "verse_count": 12,
+      "word_count": 440
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 128,
+      "chapter_title": "Psalms 128",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Blessed is every one that feareth the LORD; that walketh in his ways."
+        },
+        {
+          "verse": 2,
+          "text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee."
+        },
+        {
+          "verse": 3,
+          "text": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
+        },
+        {
+          "verse": 4,
+          "text": "Behold, that thus shall the man be blessed that feareth the LORD."
+        },
+        {
+          "verse": 5,
+          "text": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
+        },
+        {
+          "verse": 6,
+          "text": "Yea, thou shalt see thy children’s children, and peace upon Israel."
+        }
+      ],
+      "verse_count": 6,
+      "word_count": 102
+    },
+    {
+      "book": "Ezekiel",
+      "chapter_number": 47,
+      "chapter_title": "Ezekiel 47",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar."
+        },
+        {
+          "verse": 2,
+          "text": "Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side."
+        },
+        {
+          "verse": 3,
+          "text": "And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ankles."
+        },
+        {
+          "verse": 4,
+          "text": "Again he measured a thousand, and brought me through the waters; the waters were to the knees. Again he measured a thousand, and brought me through; the waters were to the loins."
+        },
+        {
+          "verse": 5,
+          "text": "Afterward he measured a thousand; and it was a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over."
+        },
+        {
+          "verse": 6,
+          "text": "And he said unto me, Son of man, hast thou seen this? Then he brought me, and caused me to return to the brink of the river."
+        },
+        {
+          "verse": 7,
+          "text": "Now when I had returned, behold, at the bank of the river were very many trees on the one side and on the other."
+        },
+        {
+          "verse": 8,
+          "text": "Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters shall be healed."
+        },
+        {
+          "verse": 9,
+          "text": "And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh."
+        },
+        {
+          "verse": 10,
+          "text": "And it shall come to pass, that the fishers shall stand upon it from Engedi even unto Eneglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many."
+        },
+        {
+          "verse": 11,
+          "text": "But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt."
+        },
+        {
+          "verse": 12,
+          "text": "And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine."
+        },
+        {
+          "verse": 13,
+          "text": "Thus saith the Lord GOD; This shall be the border, whereby ye shall inherit the land according to the twelve tribes of Israel: Joseph shall have two portions."
+        },
+        {
+          "verse": 14,
+          "text": "And ye shall inherit it, one as well as another: concerning the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance."
+        },
+        {
+          "verse": 15,
+          "text": "And this shall be the border of the land toward the north side, from the great sea, the way of Hethlon, as men go to Zedad;"
+        },
+        {
+          "verse": 16,
+          "text": "Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; Hazarhatticon, which is by the coast of Hauran."
+        },
+        {
+          "verse": 17,
+          "text": "And the border from the sea shall be Hazarenan, the border of Damascus, and the north northward, and the border of Hamath. And this is the north side."
+        },
+        {
+          "verse": 18,
+          "text": "And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel by Jordan, from the border unto the east sea. And this is the east side."
+        },
+        {
+          "verse": 19,
+          "text": "And the south side southward, from Tamar even to the waters of strife in Kadesh, the river to the great sea. And this is the south side southward."
+        },
+        {
+          "verse": 20,
+          "text": "The west side also shall be the great sea from the border, till a man come over against Hamath. This is the west side."
+        },
+        {
+          "verse": 21,
+          "text": "So shall ye divide this land unto you according to the tribes of Israel."
+        },
+        {
+          "verse": 22,
+          "text": "And it shall come to pass, that ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel."
+        },
+        {
+          "verse": 23,
+          "text": "And it shall come to pass, that in what tribe the stranger sojourneth, there shall ye give him his inheritance, saith the Lord GOD."
+        }
+      ],
+      "verse_count": 23,
+      "word_count": 780
+    },
+    {
+      "book": "Ephesians",
+      "chapter_number": 2,
+      "chapter_title": "Ephesians 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And you hath he quickened, who were dead in trespasses and sins;"
+        },
+        {
+          "verse": 2,
+          "text": "Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:"
+        },
+        {
+          "verse": 3,
+          "text": "Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others."
+        },
+        {
+          "verse": 4,
+          "text": "But God, who is rich in mercy, for his great love wherewith he loved us,"
+        },
+        {
+          "verse": 5,
+          "text": "Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)"
+        },
+        {
+          "verse": 6,
+          "text": "And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:"
+        },
+        {
+          "verse": 7,
+          "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus."
+        },
+        {
+          "verse": 8,
+          "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:"
+        },
+        {
+          "verse": 9,
+          "text": "Not of works, lest any man should boast."
+        },
+        {
+          "verse": 10,
+          "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."
+        },
+        {
+          "verse": 11,
+          "text": "Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;"
+        },
+        {
+          "verse": 12,
+          "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:"
+        },
+        {
+          "verse": 13,
+          "text": "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ."
+        },
+        {
+          "verse": 14,
+          "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;"
+        },
+        {
+          "verse": 15,
+          "text": "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;"
+        },
+        {
+          "verse": 16,
+          "text": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:"
+        },
+        {
+          "verse": 17,
+          "text": "And came and preached peace to you which were afar off, and to them that were nigh."
+        },
+        {
+          "verse": 18,
+          "text": "For through him we both have access by one Spirit unto the Father."
+        },
+        {
+          "verse": 19,
+          "text": "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;"
+        },
+        {
+          "verse": 20,
+          "text": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;"
+        },
+        {
+          "verse": 21,
+          "text": "In whom all the building fitly framed together groweth unto an holy temple in the Lord:"
+        },
+        {
+          "verse": 22,
+          "text": "In whom ye also are builded together for an habitation of God through the Spirit."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 453
+    }
+  ]
+}

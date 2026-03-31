@@ -1,0 +1,588 @@
+{
+  "day_number": 215,
+  "references": "2 Samuel 19 • Proverbs 23 • Micah 1 • Hebrews 11",
+  "word_count": 3420,
+  "estimated_minutes": 16,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Proverbs 23:4",
+    "text": "Labour not to be rich: cease from thine own wisdom.",
+    "reflection": "Let this be the sheltering word of the day: small enough to remember, strong enough to keep."
+  },
+  "tomorrow_teaser": "2 Samuel 20 • Proverbs 24 • Micah 2 • Hebrews 12",
+  "chapters": [
+    {
+      "book": "2 Samuel",
+      "chapter_number": 19,
+      "chapter_title": "2 Samuel 19",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it was told Joab, Behold, the king weepeth and mourneth for Absalom."
+        },
+        {
+          "verse": 2,
+          "text": "And the victory that day was turned into mourning unto all the people: for the people heard say that day how the king was grieved for his son."
+        },
+        {
+          "verse": 3,
+          "text": "And the people gat them by stealth that day into the city, as people being ashamed steal away when they flee in battle."
+        },
+        {
+          "verse": 4,
+          "text": "But the king covered his face, and the king cried with a loud voice, O my son Absalom, O Absalom, my son, my son!"
+        },
+        {
+          "verse": 5,
+          "text": "And Joab came into the house to the king, and said, Thou hast shamed this day the faces of all thy servants, which this day have saved thy life, and the lives of thy sons and of thy daughters, and the lives of thy wives, and the lives of thy concubines;"
+        },
+        {
+          "verse": 6,
+          "text": "In that thou lovest thine enemies, and hatest thy friends. For thou hast declared this day, that thou regardest neither princes nor servants: for this day I perceive, that if Absalom had lived, and all we had died this day, then it had pleased thee well."
+        },
+        {
+          "verse": 7,
+          "text": "Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the LORD, if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now."
+        },
+        {
+          "verse": 8,
+          "text": "Then the king arose, and sat in the gate. And they told unto all the people, saying, Behold, the king doth sit in the gate. And all the people came before the king: for Israel had fled every man to his tent."
+        },
+        {
+          "verse": 9,
+          "text": "And all the people were at strife throughout all the tribes of Israel, saying, The king saved us out of the hand of our enemies, and he delivered us out of the hand of the Philistines; and now he is fled out of the land for Absalom."
+        },
+        {
+          "verse": 10,
+          "text": "And Absalom, whom we anointed over us, is dead in battle. Now therefore why speak ye not a word of bringing the king back?"
+        },
+        {
+          "verse": 11,
+          "text": "And king David sent to Zadok and to Abiathar the priests, saying, Speak unto the elders of Judah, saying, Why are ye the last to bring the king back to his house? seeing the speech of all Israel is come to the king, even to his house."
+        },
+        {
+          "verse": 12,
+          "text": "Ye are my brethren, ye are my bones and my flesh: wherefore then are ye the last to bring back the king?"
+        },
+        {
+          "verse": 13,
+          "text": "And say ye to Amasa, Art thou not of my bone, and of my flesh? God do so to me, and more also, if thou be not captain of the host before me continually in the room of Joab."
+        },
+        {
+          "verse": 14,
+          "text": "And he bowed the heart of all the men of Judah, even as the heart of one man; so that they sent this word unto the king, Return thou, and all thy servants."
+        },
+        {
+          "verse": 15,
+          "text": "So the king returned, and came to Jordan. And Judah came to Gilgal, to go to meet the king, to conduct the king over Jordan."
+        },
+        {
+          "verse": 16,
+          "text": "And Shimei the son of Gera, a Benjamite, which was of Bahurim, hasted and came down with the men of Judah to meet king David."
+        },
+        {
+          "verse": 17,
+          "text": "And there were a thousand men of Benjamin with him, and Ziba the servant of the house of Saul, and his fifteen sons and his twenty servants with him; and they went over Jordan before the king."
+        },
+        {
+          "verse": 18,
+          "text": "And there went over a ferry boat to carry over the king’s household, and to do what he thought good. And Shimei the son of Gera fell down before the king, as he was come over Jordan;"
+        },
+        {
+          "verse": 19,
+          "text": "And said unto the king, Let not my lord impute iniquity unto me, neither do thou remember that which thy servant did perversely the day that my lord the king went out of Jerusalem, that the king should take it to his heart."
+        },
+        {
+          "verse": 20,
+          "text": "For thy servant doth know that I have sinned: therefore, behold, I am come the first this day of all the house of Joseph to go down to meet my lord the king."
+        },
+        {
+          "verse": 21,
+          "text": "But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed the LORD’s anointed?"
+        },
+        {
+          "verse": 22,
+          "text": "And David said, What have I to do with you, ye sons of Zeruiah, that ye should this day be adversaries unto me? shall there any man be put to death this day in Israel? for do not I know that I am this day king over Israel?"
+        },
+        {
+          "verse": 23,
+          "text": "Therefore the king said unto Shimei, Thou shalt not die. And the king sware unto him."
+        },
+        {
+          "verse": 24,
+          "text": "And Mephibosheth the son of Saul came down to meet the king, and had neither dressed his feet, nor trimmed his beard, nor washed his clothes, from the day the king departed until the day he came again in peace."
+        },
+        {
+          "verse": 25,
+          "text": "And it came to pass, when he was come to Jerusalem to meet the king, that the king said unto him, Wherefore wentest not thou with me, Mephibosheth?"
+        },
+        {
+          "verse": 26,
+          "text": "And he answered, My lord, O king, my servant deceived me: for thy servant said, I will saddle me an ass, that I may ride thereon, and go to the king; because thy servant is lame."
+        },
+        {
+          "verse": 27,
+          "text": "And he hath slandered thy servant unto my lord the king; but my lord the king is as an angel of God: do therefore what is good in thine eyes."
+        },
+        {
+          "verse": 28,
+          "text": "For all of my father’s house were but dead men before my lord the king: yet didst thou set thy servant among them that did eat at thine own table. What right therefore have I yet to cry any more unto the king?"
+        },
+        {
+          "verse": 29,
+          "text": "And the king said unto him, Why speakest thou any more of thy matters? I have said, Thou and Ziba divide the land."
+        },
+        {
+          "verse": 30,
+          "text": "And Mephibosheth said unto the king, Yea, let him take all, forasmuch as my lord the king is come again in peace unto his own house."
+        },
+        {
+          "verse": 31,
+          "text": "And Barzillai the Gileadite came down from Rogelim, and went over Jordan with the king, to conduct him over Jordan."
+        },
+        {
+          "verse": 32,
+          "text": "Now Barzillai was a very aged man, even fourscore years old: and he had provided the king of sustenance while he lay at Mahanaim; for he was a very great man."
+        },
+        {
+          "verse": 33,
+          "text": "And the king said unto Barzillai, Come thou over with me, and I will feed thee with me in Jerusalem."
+        },
+        {
+          "verse": 34,
+          "text": "And Barzillai said unto the king, How long have I to live, that I should go up with the king unto Jerusalem?"
+        },
+        {
+          "verse": 35,
+          "text": "I am this day fourscore years old: and can I discern between good and evil? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king?"
+        },
+        {
+          "verse": 36,
+          "text": "Thy servant will go a little way over Jordan with the king: and why should the king recompense it me with such a reward?"
+        },
+        {
+          "verse": 37,
+          "text": "Let thy servant, I pray thee, turn back again, that I may die in mine own city, and be buried by the grave of my father and of my mother. But behold thy servant Chimham; let him go over with my lord the king; and do to him what shall seem good unto thee."
+        },
+        {
+          "verse": 38,
+          "text": "And the king answered, Chimham shall go over with me, and I will do to him that which shall seem good unto thee: and whatsoever thou shalt require of me, that will I do for thee."
+        },
+        {
+          "verse": 39,
+          "text": "And all the people went over Jordan. And when the king was come over, the king kissed Barzillai, and blessed him; and he returned unto his own place."
+        },
+        {
+          "verse": 40,
+          "text": "Then the king went on to Gilgal, and Chimham went on with him: and all the people of Judah conducted the king, and also half the people of Israel."
+        },
+        {
+          "verse": 41,
+          "text": "And, behold, all the men of Israel came to the king, and said unto the king, Why have our brethren the men of Judah stolen thee away, and have brought the king, and his household, and all David’s men with him, over Jordan?"
+        },
+        {
+          "verse": 42,
+          "text": "And all the men of Judah answered the men of Israel, Because the king is near of kin to us: wherefore then be ye angry for this matter? have we eaten at all of the king’s cost? or hath he given us any gift?"
+        },
+        {
+          "verse": 43,
+          "text": "And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel."
+        }
+      ],
+      "verse_count": 43,
+      "word_count": 1478
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 23,
+      "chapter_title": "Proverbs 23",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "When thou sittest to eat with a ruler, consider diligently what is before thee:"
+        },
+        {
+          "verse": 2,
+          "text": "And put a knife to thy throat, if thou be a man given to appetite."
+        },
+        {
+          "verse": 3,
+          "text": "Be not desirous of his dainties: for they are deceitful meat."
+        },
+        {
+          "verse": 4,
+          "text": "Labour not to be rich: cease from thine own wisdom."
+        },
+        {
+          "verse": 5,
+          "text": "Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven."
+        },
+        {
+          "verse": 6,
+          "text": "Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:"
+        },
+        {
+          "verse": 7,
+          "text": "For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee."
+        },
+        {
+          "verse": 8,
+          "text": "The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words."
+        },
+        {
+          "verse": 9,
+          "text": "Speak not in the ears of a fool: for he will despise the wisdom of thy words."
+        },
+        {
+          "verse": 10,
+          "text": "Remove not the old landmark; and enter not into the fields of the fatherless:"
+        },
+        {
+          "verse": 11,
+          "text": "For their redeemer is mighty; he shall plead their cause with thee."
+        },
+        {
+          "verse": 12,
+          "text": "Apply thine heart unto instruction, and thine ears to the words of knowledge."
+        },
+        {
+          "verse": 13,
+          "text": "Withhold not correction from the child: for if thou beatest him with the rod, he shall not die."
+        },
+        {
+          "verse": 14,
+          "text": "Thou shalt beat him with the rod, and shalt deliver his soul from hell."
+        },
+        {
+          "verse": 15,
+          "text": "My son, if thine heart be wise, my heart shall rejoice, even mine."
+        },
+        {
+          "verse": 16,
+          "text": "Yea, my reins shall rejoice, when thy lips speak right things."
+        },
+        {
+          "verse": 17,
+          "text": "Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long."
+        },
+        {
+          "verse": 18,
+          "text": "For surely there is an end; and thine expectation shall not be cut off."
+        },
+        {
+          "verse": 19,
+          "text": "Hear thou, my son, and be wise, and guide thine heart in the way."
+        },
+        {
+          "verse": 20,
+          "text": "Be not among winebibbers; among riotous eaters of flesh:"
+        },
+        {
+          "verse": 21,
+          "text": "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags."
+        },
+        {
+          "verse": 22,
+          "text": "Hearken unto thy father that begat thee, and despise not thy mother when she is old."
+        },
+        {
+          "verse": 23,
+          "text": "Buy the truth, and sell it not; also wisdom, and instruction, and understanding."
+        },
+        {
+          "verse": 24,
+          "text": "The father of the righteous shall greatly rejoice: and he that begetteth a wise child shall have joy of him."
+        },
+        {
+          "verse": 25,
+          "text": "Thy father and thy mother shall be glad, and she that bare thee shall rejoice."
+        },
+        {
+          "verse": 26,
+          "text": "My son, give me thine heart, and let thine eyes observe my ways."
+        },
+        {
+          "verse": 27,
+          "text": "For a whore is a deep ditch; and a strange woman is a narrow pit."
+        },
+        {
+          "verse": 28,
+          "text": "She also lieth in wait as for a prey, and increaseth the transgressors among men."
+        },
+        {
+          "verse": 29,
+          "text": "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?"
+        },
+        {
+          "verse": 30,
+          "text": "They that tarry long at the wine; they that go to seek mixed wine."
+        },
+        {
+          "verse": 31,
+          "text": "Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright."
+        },
+        {
+          "verse": 32,
+          "text": "At the last it biteth like a serpent, and stingeth like an adder."
+        },
+        {
+          "verse": 33,
+          "text": "Thine eyes shall behold strange women, and thine heart shall utter perverse things."
+        },
+        {
+          "verse": 34,
+          "text": "Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast."
+        },
+        {
+          "verse": 35,
+          "text": "They have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 566
+    },
+    {
+      "book": "Micah",
+      "chapter_number": 1,
+      "chapter_title": "Micah 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem."
+        },
+        {
+          "verse": 2,
+          "text": "Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the LORD from his holy temple."
+        },
+        {
+          "verse": 3,
+          "text": "For, behold, the LORD cometh forth out of his place, and will come down, and tread upon the high places of the earth."
+        },
+        {
+          "verse": 4,
+          "text": "And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire, and as the waters that are poured down a steep place."
+        },
+        {
+          "verse": 5,
+          "text": "For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?"
+        },
+        {
+          "verse": 6,
+          "text": "Therefore I will make Samaria as an heap of the field, and as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof."
+        },
+        {
+          "verse": 7,
+          "text": "And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered it of the hire of an harlot, and they shall return to the hire of an harlot."
+        },
+        {
+          "verse": 8,
+          "text": "Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls."
+        },
+        {
+          "verse": 9,
+          "text": "For her wound is incurable; for it is come unto Judah; he is come unto the gate of my people, even to Jerusalem."
+        },
+        {
+          "verse": 10,
+          "text": "Declare ye it not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust."
+        },
+        {
+          "verse": 11,
+          "text": "Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Bethezel; he shall receive of you his standing."
+        },
+        {
+          "verse": 12,
+          "text": "For the inhabitant of Maroth waited carefully for good: but evil came down from the LORD unto the gate of Jerusalem."
+        },
+        {
+          "verse": 13,
+          "text": "O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee."
+        },
+        {
+          "verse": 14,
+          "text": "Therefore shalt thou give presents to Moreshethgath: the houses of Achzib shall be a lie to the kings of Israel."
+        },
+        {
+          "verse": 15,
+          "text": "Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel."
+        },
+        {
+          "verse": 16,
+          "text": "Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee."
+        }
+      ],
+      "verse_count": 16,
+      "word_count": 452
+    },
+    {
+      "book": "Hebrews",
+      "chapter_number": 11,
+      "chapter_title": "Hebrews 11",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now faith is the substance of things hoped for, the evidence of things not seen."
+        },
+        {
+          "verse": 2,
+          "text": "For by it the elders obtained a good report."
+        },
+        {
+          "verse": 3,
+          "text": "Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear."
+        },
+        {
+          "verse": 4,
+          "text": "By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh."
+        },
+        {
+          "verse": 5,
+          "text": "By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God."
+        },
+        {
+          "verse": 6,
+          "text": "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him."
+        },
+        {
+          "verse": 7,
+          "text": "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith."
+        },
+        {
+          "verse": 8,
+          "text": "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went."
+        },
+        {
+          "verse": 9,
+          "text": "By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:"
+        },
+        {
+          "verse": 10,
+          "text": "For he looked for a city which hath foundations, whose builder and maker is God."
+        },
+        {
+          "verse": 11,
+          "text": "Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised."
+        },
+        {
+          "verse": 12,
+          "text": "Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable."
+        },
+        {
+          "verse": 13,
+          "text": "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth."
+        },
+        {
+          "verse": 14,
+          "text": "For they that say such things declare plainly that they seek a country."
+        },
+        {
+          "verse": 15,
+          "text": "And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned."
+        },
+        {
+          "verse": 16,
+          "text": "But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city."
+        },
+        {
+          "verse": 17,
+          "text": "By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,"
+        },
+        {
+          "verse": 18,
+          "text": "Of whom it was said, That in Isaac shall thy seed be called:"
+        },
+        {
+          "verse": 19,
+          "text": "Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure."
+        },
+        {
+          "verse": 20,
+          "text": "By faith Isaac blessed Jacob and Esau concerning things to come."
+        },
+        {
+          "verse": 21,
+          "text": "By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff."
+        },
+        {
+          "verse": 22,
+          "text": "By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones."
+        },
+        {
+          "verse": 23,
+          "text": "By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king’s commandment."
+        },
+        {
+          "verse": 24,
+          "text": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;"
+        },
+        {
+          "verse": 25,
+          "text": "Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;"
+        },
+        {
+          "verse": 26,
+          "text": "Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward."
+        },
+        {
+          "verse": 27,
+          "text": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible."
+        },
+        {
+          "verse": 28,
+          "text": "Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them."
+        },
+        {
+          "verse": 29,
+          "text": "By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned."
+        },
+        {
+          "verse": 30,
+          "text": "By faith the walls of Jericho fell down, after they were compassed about seven days."
+        },
+        {
+          "verse": 31,
+          "text": "By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace."
+        },
+        {
+          "verse": 32,
+          "text": "And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:"
+        },
+        {
+          "verse": 33,
+          "text": "Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,"
+        },
+        {
+          "verse": 34,
+          "text": "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens."
+        },
+        {
+          "verse": 35,
+          "text": "Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:"
+        },
+        {
+          "verse": 36,
+          "text": "And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:"
+        },
+        {
+          "verse": 37,
+          "text": "They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;"
+        },
+        {
+          "verse": 38,
+          "text": "(Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth."
+        },
+        {
+          "verse": 39,
+          "text": "And these all, having obtained a good report through faith, received not the promise:"
+        },
+        {
+          "verse": 40,
+          "text": "God having provided some better thing for us, that they without us should not be made perfect."
+        }
+      ],
+      "verse_count": 40,
+      "word_count": 924
+    }
+  ]
+}

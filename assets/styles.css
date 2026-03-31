@@ -16,6 +16,56 @@
   --radius-md: 3px;
 }
 
+body[data-edition="bible"] {
+  --bg: #141311;
+  --bg-soft: #1b1816;
+  --panel: rgba(31, 26, 22, 0.96);
+  --panel-strong: rgba(38, 30, 25, 0.98);
+  --border: rgba(205, 182, 135, 0.18);
+  --border-strong: rgba(171, 130, 74, 0.44);
+  --text: #f5f0e8;
+  --muted: #c5b8a4;
+  --accent: #b88d4a;
+  --accent-2: #6e2c2c;
+  --danger: #d29b74;
+  --shadow: 0 1px 0 rgba(0, 0, 0, 0.22), 0 14px 30px rgba(0, 0, 0, 0.18);
+  background:
+    radial-gradient(circle at top left, rgba(184, 141, 74, 0.1), transparent 28%),
+    radial-gradient(circle at top right, rgba(110, 44, 44, 0.12), transparent 24%),
+    repeating-linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.02) 0,
+      rgba(255, 255, 255, 0.02) 1px,
+      transparent 1px,
+      transparent 30px
+    ),
+    linear-gradient(180deg, #15120f 0%, #1b1612 45%, #120f0d 100%);
+}
+
+body[data-edition="bible"][data-theme="light"] {
+  --bg: #f7f2ea;
+  --bg-soft: #efe7dc;
+  --panel: rgba(252, 248, 243, 0.97);
+  --panel-strong: rgba(248, 243, 236, 0.99);
+  --border: rgba(96, 68, 48, 0.18);
+  --border-strong: rgba(96, 68, 48, 0.4);
+  --text: #241b16;
+  --muted: #6d5d52;
+  --accent: #8a5d24;
+  --accent-2: #6e2c2c;
+  background:
+    radial-gradient(circle at top left, rgba(138, 93, 36, 0.08), transparent 28%),
+    radial-gradient(circle at top right, rgba(110, 44, 44, 0.08), transparent 24%),
+    repeating-linear-gradient(
+      180deg,
+      rgba(36, 27, 22, 0.03) 0,
+      rgba(36, 27, 22, 0.03) 1px,
+      transparent 1px,
+      transparent 30px
+    ),
+    linear-gradient(180deg, #faf6f0 0%, #f2ebe2 42%, #fbf8f3 100%);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -83,6 +133,307 @@ button {
   filter: blur(24px);
   opacity: 0.55;
   pointer-events: none;
+}
+
+body[data-edition="bible"] .site-chrome {
+  background: rgba(23, 19, 16, 0.96);
+  border-bottom-color: rgba(184, 141, 74, 0.28);
+}
+
+body[data-edition="bible"] .utility-bar {
+  background: rgba(14, 11, 9, 0.98);
+}
+
+body[data-edition="bible"][data-theme="light"] .site-chrome {
+  background: rgba(250, 245, 238, 0.96);
+}
+
+body[data-edition="bible"] .affiliate-strip {
+  background: rgba(42, 30, 22, 0.9);
+  border-bottom-color: rgba(184, 141, 74, 0.2);
+}
+
+body[data-edition="bible"] .affiliate-kicker,
+body[data-edition="bible"] .affiliate-note,
+body[data-edition="bible"] .affiliate-link {
+  color: var(--text);
+}
+
+body[data-edition="bible"] .nav-link {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+body[data-edition="bible"] .nav-link:hover {
+  color: var(--text);
+}
+
+body[data-edition="bible"] .utility-link-button {
+  cursor: pointer;
+}
+
+body[data-edition="bible"] .bible-front-grid,
+body[data-edition="bible"] .devotional-grid {
+  display: grid;
+  gap: 1.25rem;
+}
+
+body[data-edition="bible"] .bible-front-grid,
+body[data-edition="bible"] .devotional-grid-two {
+  grid-template-columns: minmax(0, 1.7fr) minmax(300px, 0.9fr);
+}
+
+body[data-edition="bible"] .devotional-grid-progress {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+body[data-edition="bible"] .bible-frontpage,
+body[data-edition="bible"] .reading-column,
+body[data-edition="bible"] .progress-panel,
+body[data-edition="bible"] .calendar-panel,
+body[data-edition="bible"] .catchup-panel,
+body[data-edition="bible"] .form-card,
+body[data-edition="bible"] .archive-card,
+body[data-edition="bible"] .chapter-reading,
+body[data-edition="bible"] .mini-panel,
+body[data-edition="bible"] .quote-panel,
+body[data-edition="bible"] .signup-card {
+  background: linear-gradient(180deg, var(--panel) 0%, var(--panel-strong) 100%);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+body[data-edition="bible"] .reading-lead,
+body[data-edition="bible"] .reading-column {
+  min-width: 0;
+}
+
+body[data-edition="bible"] .bible-headline {
+  font-size: clamp(2.8rem, 5vw, 5rem);
+}
+
+body[data-edition="bible"] .support-banner {
+  margin: 1.4rem 0 1.8rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid rgba(184, 141, 74, 0.18);
+  background: rgba(184, 141, 74, 0.08);
+}
+
+body[data-edition="bible"] .reading-stack {
+  display: grid;
+  gap: 1rem;
+}
+
+body[data-edition="bible"] .reading-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  font-family: "IBM Plex Sans", sans-serif;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+body[data-edition="bible"] .reading-meta-strong {
+  margin-bottom: 0.8rem;
+}
+
+body[data-edition="bible"] .chapter-reading {
+  padding: 1.2rem 1.15rem;
+}
+
+body[data-edition="bible"] .chapter-reading h3,
+body[data-edition="bible"] .quote-panel h3,
+body[data-edition="bible"] .archive-card h3,
+body[data-edition="bible"] .signup-card h3 {
+  margin-top: 0.1rem;
+  margin-bottom: 0.8rem;
+}
+
+body[data-edition="bible"] .verse-stack {
+  display: grid;
+  gap: 0.55rem;
+}
+
+body[data-edition="bible"] .verse-row {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 2.2rem minmax(0, 1fr);
+  gap: 0.75rem;
+  align-items: start;
+  line-height: 1.7;
+}
+
+body[data-edition="bible"] .verse-number {
+  font-family: "IBM Plex Mono", monospace;
+  color: var(--accent);
+  font-size: 0.84rem;
+  padding-top: 0.15rem;
+}
+
+body[data-edition="bible"] .quote-block {
+  margin: 0 0 1rem;
+  padding-left: 1rem;
+  border-left: 2px solid rgba(184, 141, 74, 0.4);
+}
+
+body[data-edition="bible"] .quote-block p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+body[data-edition="bible"] .quote-block footer {
+  margin-top: 0.7rem;
+  font-family: "IBM Plex Sans", sans-serif;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+body[data-edition="bible"] .signup-card {
+  padding: 1.15rem;
+}
+
+body[data-edition="bible"] .signup-card-compact {
+  padding: 1rem;
+}
+
+body[data-edition="bible"] .field-label {
+  display: grid;
+  gap: 0.35rem;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+body[data-edition="bible"] .text-input {
+  width: 100%;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text);
+  padding: 0.8rem 0.85rem;
+}
+
+body[data-edition="bible"] .canon-choice-group {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.6rem;
+}
+
+body[data-edition="bible"] .canon-choice {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  padding: 0.85rem 0.9rem;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+body[data-edition="bible"] .canon-choice span {
+  display: grid;
+  gap: 0.2rem;
+}
+
+body[data-edition="bible"] .canon-choice small {
+  color: var(--muted);
+}
+
+body[data-edition="bible"] .form-actions,
+body[data-edition="bible"] .button-row,
+body[data-edition="bible"] .devotional-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+body[data-edition="bible"] .form-note,
+body[data-edition="bible"] .tomorrow-teaser {
+  color: var(--muted);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.92rem;
+}
+
+body[data-edition="bible"] .progress-ring {
+  min-height: 14rem;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid rgba(184, 141, 74, 0.24);
+  background: radial-gradient(circle at center, rgba(184, 141, 74, 0.14), transparent 62%);
+}
+
+body[data-edition="bible"] .progress-ring strong {
+  display: block;
+  font-size: 2.6rem;
+  color: var(--accent);
+}
+
+body[data-edition="bible"] .calendar-heatmap {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 0.45rem;
+}
+
+body[data-edition="bible"] .heat-day {
+  min-height: 2.4rem;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text);
+}
+
+body[data-edition="bible"] .heat-day-read {
+  background: rgba(90, 134, 95, 0.34);
+}
+
+body[data-edition="bible"] .heat-day-missed {
+  background: rgba(110, 44, 44, 0.28);
+}
+
+body[data-edition="bible"] .heat-day-today {
+  background: rgba(184, 141, 74, 0.28);
+  border-color: rgba(184, 141, 74, 0.5);
+}
+
+body[data-edition="bible"] .heat-day-future {
+  opacity: 0.65;
+}
+
+body[data-edition="bible"] .catch-up-list {
+  margin: 0;
+  padding-left: 1.15rem;
+  display: grid;
+  gap: 0.55rem;
+}
+
+body[data-edition="bible"] .archive-list,
+body[data-edition="bible"] .sidebar-stack {
+  display: grid;
+  gap: 1rem;
+}
+
+body[data-edition="bible"] .calendar-panel-wide {
+  grid-column: span 2;
+}
+
+body[data-edition="bible"] .bible-footer {
+  background: rgba(15, 12, 10, 0.92);
+}
+
+@media (max-width: 960px) {
+  body[data-edition="bible"] .bible-front-grid,
+  body[data-edition="bible"] .devotional-grid-two,
+  body[data-edition="bible"] .devotional-grid-progress {
+    grid-template-columns: 1fr;
+  }
+
+  body[data-edition="bible"] .calendar-panel-wide {
+    grid-column: span 1;
+  }
 }
 
 .orb-left {
@@ -1886,6 +2237,67 @@ button {
 
 .section-heading-compact {
   margin-bottom: 0.85rem;
+}
+
+body[data-edition="bible"] .checkbox-field {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin: 0.75rem 0 0.5rem;
+  font-family: "IBM Plex Sans", sans-serif;
+  color: var(--muted);
+}
+
+body[data-edition="bible"] .archive-searchbar {
+  margin-bottom: 1.1rem;
+}
+
+body[data-edition="bible"] .archive-list-dynamic {
+  margin-top: 1rem;
+}
+
+body[data-edition="bible"] .calendar-year-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+
+body[data-edition="bible"] .calendar-month-card {
+  padding: 1rem;
+}
+
+body[data-edition="bible"] .calendar-month-grid {
+  display: grid;
+  gap: 0.55rem;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+body[data-edition="bible"] .calendar-month-day {
+  display: grid;
+  gap: 0.2rem;
+  padding: 0.7rem 0.55rem;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.03);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.78rem;
+  text-align: left;
+}
+
+body[data-edition="bible"] .calendar-month-day strong {
+  font-size: 0.95rem;
+}
+
+body[data-edition="bible"] .calendar-month-day-read {
+  background: rgba(69, 111, 74, 0.18);
+}
+
+body[data-edition="bible"] .calendar-month-day-today {
+  background: rgba(184, 141, 74, 0.18);
+  border-color: rgba(184, 141, 74, 0.45);
+}
+
+body[data-edition="bible"] .calendar-month-day-missed {
+  background: rgba(110, 44, 44, 0.12);
 }
 
 @media (max-width: 1100px) {

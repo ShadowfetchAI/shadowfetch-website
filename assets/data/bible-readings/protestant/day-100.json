@@ -1,0 +1,392 @@
+{
+  "day_number": 100,
+  "references": "Deuteronomy 18 • Psalms 58 • Jeremiah 34 • Acts 11",
+  "word_count": 2324,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 58:5",
+    "text": "Which will not hearken to the voice of charmers, charming never so wisely.",
+    "reflection": "Hold this verse close and let its steadiness shape the next few hours."
+  },
+  "tomorrow_teaser": "Deuteronomy 19 • Psalms 59 • Jeremiah 35 • Acts 12",
+  "chapters": [
+    {
+      "book": "Deuteronomy",
+      "chapter_number": 18,
+      "chapter_title": "Deuteronomy 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The priests the Levites, and all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance."
+        },
+        {
+          "verse": 2,
+          "text": "Therefore shall they have no inheritance among their brethren: the LORD is their inheritance, as he hath said unto them."
+        },
+        {
+          "verse": 3,
+          "text": "And this shall be the priest’s due from the people, from them that offer a sacrifice, whether it be ox or sheep; and they shall give unto the priest the shoulder, and the two cheeks, and the maw."
+        },
+        {
+          "verse": 4,
+          "text": "The firstfruit also of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him."
+        },
+        {
+          "verse": 5,
+          "text": "For the LORD thy God hath chosen him out of all thy tribes, to stand to minister in the name of the LORD, him and his sons for ever."
+        },
+        {
+          "verse": 6,
+          "text": "And if a Levite come from any of thy gates out of all Israel, where he sojourned, and come with all the desire of his mind unto the place which the LORD shall choose;"
+        },
+        {
+          "verse": 7,
+          "text": "Then he shall minister in the name of the LORD his God, as all his brethren the Levites do, which stand there before the LORD."
+        },
+        {
+          "verse": 8,
+          "text": "They shall have like portions to eat, beside that which cometh of the sale of his patrimony."
+        },
+        {
+          "verse": 9,
+          "text": "When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations."
+        },
+        {
+          "verse": 10,
+          "text": "There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch."
+        },
+        {
+          "verse": 11,
+          "text": "Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer."
+        },
+        {
+          "verse": 12,
+          "text": "For all that do these things are an abomination unto the LORD: and because of these abominations the LORD thy God doth drive them out from before thee."
+        },
+        {
+          "verse": 13,
+          "text": "Thou shalt be perfect with the LORD thy God."
+        },
+        {
+          "verse": 14,
+          "text": "For these nations, which thou shalt possess, hearkened unto observers of times, and unto diviners: but as for thee, the LORD thy God hath not suffered thee so to do."
+        },
+        {
+          "verse": 15,
+          "text": "The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;"
+        },
+        {
+          "verse": 16,
+          "text": "According to all that thou desiredst of the LORD thy God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the LORD my God, neither let me see this great fire any more, that I die not."
+        },
+        {
+          "verse": 17,
+          "text": "And the LORD said unto me, They have well spoken that which they have spoken."
+        },
+        {
+          "verse": 18,
+          "text": "I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him."
+        },
+        {
+          "verse": 19,
+          "text": "And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him."
+        },
+        {
+          "verse": 20,
+          "text": "But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die."
+        },
+        {
+          "verse": 21,
+          "text": "And if thou say in thine heart, How shall we know the word which the LORD hath not spoken?"
+        },
+        {
+          "verse": 22,
+          "text": "When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 612
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 58,
+      "chapter_title": "Psalms 58",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?"
+        },
+        {
+          "verse": 2,
+          "text": "Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth."
+        },
+        {
+          "verse": 3,
+          "text": "The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies."
+        },
+        {
+          "verse": 4,
+          "text": "Their poison is like the poison of a serpent: they are like the deaf adder that stoppeth her ear;"
+        },
+        {
+          "verse": 5,
+          "text": "Which will not hearken to the voice of charmers, charming never so wisely."
+        },
+        {
+          "verse": 6,
+          "text": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD."
+        },
+        {
+          "verse": 7,
+          "text": "Let them melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces."
+        },
+        {
+          "verse": 8,
+          "text": "As a snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun."
+        },
+        {
+          "verse": 9,
+          "text": "Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in his wrath."
+        },
+        {
+          "verse": 10,
+          "text": "The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked."
+        },
+        {
+          "verse": 11,
+          "text": "So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth."
+        }
+      ],
+      "verse_count": 11,
+      "word_count": 218
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 34,
+      "chapter_title": "Jeremiah 34",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The word which came unto Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Thus saith the LORD, the God of Israel; Go and speak to Zedekiah king of Judah, and tell him, Thus saith the LORD; Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire:"
+        },
+        {
+          "verse": 3,
+          "text": "And thou shalt not escape out of his hand, but shalt surely be taken, and delivered into his hand; and thine eyes shall behold the eyes of the king of Babylon, and he shall speak with thee mouth to mouth, and thou shalt go to Babylon."
+        },
+        {
+          "verse": 4,
+          "text": "Yet hear the word of the LORD, O Zedekiah king of Judah; Thus saith the LORD of thee, Thou shalt not die by the sword:"
+        },
+        {
+          "verse": 5,
+          "text": "But thou shalt die in peace: and with the burnings of thy fathers, the former kings which were before thee, so shall they burn odours for thee; and they will lament thee, saying, Ah lord! for I have pronounced the word, saith the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah in Jerusalem,"
+        },
+        {
+          "verse": 7,
+          "text": "When the king of Babylon’s army fought against Jerusalem, and against all the cities of Judah that were left, against Lachish, and against Azekah: for these defenced cities remained of the cities of Judah."
+        },
+        {
+          "verse": 8,
+          "text": "This is the word that came unto Jeremiah from the LORD, after that the king Zedekiah had made a covenant with all the people which were at Jerusalem, to proclaim liberty unto them;"
+        },
+        {
+          "verse": 9,
+          "text": "That every man should let his manservant, and every man his maidservant, being an Hebrew or an Hebrewess, go free; that none should serve himself of them, to wit, of a Jew his brother."
+        },
+        {
+          "verse": 10,
+          "text": "Now when all the princes, and all the people, which had entered into the covenant, heard that every one should let his manservant, and every one his maidservant, go free, that none should serve themselves of them any more, then they obeyed, and let them go."
+        },
+        {
+          "verse": 11,
+          "text": "But afterward they turned, and caused the servants and the handmaids, whom they had let go free, to return, and brought them into subjection for servants and for handmaids."
+        },
+        {
+          "verse": 12,
+          "text": "Therefore the word of the LORD came to Jeremiah from the LORD, saying,"
+        },
+        {
+          "verse": 13,
+          "text": "Thus saith the LORD, the God of Israel; I made a covenant with your fathers in the day that I brought them forth out of the land of Egypt, out of the house of bondmen, saying,"
+        },
+        {
+          "verse": 14,
+          "text": "At the end of seven years let ye go every man his brother an Hebrew, which hath been sold unto thee; and when he hath served thee six years, thou shalt let him go free from thee: but your fathers hearkened not unto me, neither inclined their ear."
+        },
+        {
+          "verse": 15,
+          "text": "And ye were now turned, and had done right in my sight, in proclaiming liberty every man to his neighbour; and ye had made a covenant before me in the house which is called by my name:"
+        },
+        {
+          "verse": 16,
+          "text": "But ye turned and polluted my name, and caused every man his servant, and every man his handmaid, whom he had set at liberty at their pleasure, to return, and brought them into subjection, to be unto you for servants and for handmaids."
+        },
+        {
+          "verse": 17,
+          "text": "Therefore thus saith the LORD; Ye have not hearkened unto me, in proclaiming liberty, every one to his brother, and every man to his neighbour: behold, I proclaim a liberty for you, saith the LORD, to the sword, to the pestilence, and to the famine; and I will make you to be removed into all the kingdoms of the earth."
+        },
+        {
+          "verse": 18,
+          "text": "And I will give the men that have transgressed my covenant, which have not performed the words of the covenant which they had made before me, when they cut the calf in twain, and passed between the parts thereof,"
+        },
+        {
+          "verse": 19,
+          "text": "The princes of Judah, and the princes of Jerusalem, the eunuchs, and the priests, and all the people of the land, which passed between the parts of the calf;"
+        },
+        {
+          "verse": 20,
+          "text": "I will even give them into the hand of their enemies, and into the hand of them that seek their life: and their dead bodies shall be for meat unto the fowls of the heaven, and to the beasts of the earth."
+        },
+        {
+          "verse": 21,
+          "text": "And Zedekiah king of Judah and his princes will I give into the hand of their enemies, and into the hand of them that seek their life, and into the hand of the king of Babylon’s army, which are gone up from you."
+        },
+        {
+          "verse": 22,
+          "text": "Behold, I will command, saith the LORD, and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 826
+    },
+    {
+      "book": "Acts",
+      "chapter_number": 11,
+      "chapter_title": "Acts 11",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God."
+        },
+        {
+          "verse": 2,
+          "text": "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,"
+        },
+        {
+          "verse": 3,
+          "text": "Saying, Thou wentest in to men uncircumcised, and didst eat with them."
+        },
+        {
+          "verse": 4,
+          "text": "But Peter rehearsed the matter from the beginning, and expounded it by order unto them, saying,"
+        },
+        {
+          "verse": 5,
+          "text": "I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:"
+        },
+        {
+          "verse": 6,
+          "text": "Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air."
+        },
+        {
+          "verse": 7,
+          "text": "And I heard a voice saying unto me, Arise, Peter; slay and eat."
+        },
+        {
+          "verse": 8,
+          "text": "But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth."
+        },
+        {
+          "verse": 9,
+          "text": "But the voice answered me again from heaven, What God hath cleansed, that call not thou common."
+        },
+        {
+          "verse": 10,
+          "text": "And this was done three times: and all were drawn up again into heaven."
+        },
+        {
+          "verse": 11,
+          "text": "And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me."
+        },
+        {
+          "verse": 12,
+          "text": "And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man’s house:"
+        },
+        {
+          "verse": 13,
+          "text": "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;"
+        },
+        {
+          "verse": 14,
+          "text": "Who shall tell thee words, whereby thou and all thy house shall be saved."
+        },
+        {
+          "verse": 15,
+          "text": "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning."
+        },
+        {
+          "verse": 16,
+          "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost."
+        },
+        {
+          "verse": 17,
+          "text": "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?"
+        },
+        {
+          "verse": 18,
+          "text": "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life."
+        },
+        {
+          "verse": 19,
+          "text": "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only."
+        },
+        {
+          "verse": 20,
+          "text": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the LORD Jesus."
+        },
+        {
+          "verse": 21,
+          "text": "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord."
+        },
+        {
+          "verse": 22,
+          "text": "Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch."
+        },
+        {
+          "verse": 23,
+          "text": "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord."
+        },
+        {
+          "verse": 24,
+          "text": "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord."
+        },
+        {
+          "verse": 25,
+          "text": "Then departed Barnabas to Tarsus, for to seek Saul:"
+        },
+        {
+          "verse": 26,
+          "text": "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch."
+        },
+        {
+          "verse": 27,
+          "text": "And in these days came prophets from Jerusalem unto Antioch."
+        },
+        {
+          "verse": 28,
+          "text": "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar."
+        },
+        {
+          "verse": 29,
+          "text": "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:"
+        },
+        {
+          "verse": 30,
+          "text": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul."
+        }
+      ],
+      "verse_count": 30,
+      "word_count": 668
+    }
+  ]
+}

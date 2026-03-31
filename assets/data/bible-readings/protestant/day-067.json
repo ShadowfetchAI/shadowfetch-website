@@ -1,0 +1,701 @@
+{
+  "day_number": 67,
+  "references": "Numbers 16-17 • Psalms 25 • Jeremiah 1 • Luke 23",
+  "word_count": 3669,
+  "estimated_minutes": 18,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 25:1",
+    "text": "Unto thee, O LORD, do I lift up my soul.",
+    "reflection": "Read it without rushing. The comfort is in the staying, not the sprinting."
+  },
+  "tomorrow_teaser": "Numbers 18-19 • Psalms 26 • Jeremiah 2 • Luke 24",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 16,
+      "chapter_title": "Numbers 16",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:"
+        },
+        {
+          "verse": 2,
+          "text": "And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:"
+        },
+        {
+          "verse": 3,
+          "text": "And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift ye up yourselves above the congregation of the LORD?"
+        },
+        {
+          "verse": 4,
+          "text": "And when Moses heard it, he fell upon his face:"
+        },
+        {
+          "verse": 5,
+          "text": "And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who are his, and who is holy; and will cause him to come near unto him: even him whom he hath chosen will he cause to come near unto him."
+        },
+        {
+          "verse": 6,
+          "text": "This do; Take you censers, Korah, and all his company;"
+        },
+        {
+          "verse": 7,
+          "text": "And put fire therein, and put incense in them before the LORD to morrow: and it shall be that the man whom the LORD doth choose, he shall be holy: ye take too much upon you, ye sons of Levi."
+        },
+        {
+          "verse": 8,
+          "text": "And Moses said unto Korah, Hear, I pray you, ye sons of Levi:"
+        },
+        {
+          "verse": 9,
+          "text": "Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the LORD, and to stand before the congregation to minister unto them?"
+        },
+        {
+          "verse": 10,
+          "text": "And he hath brought thee near to him, and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?"
+        },
+        {
+          "verse": 11,
+          "text": "For which cause both thou and all thy company are gathered together against the LORD: and what is Aaron, that ye murmur against him?"
+        },
+        {
+          "verse": 12,
+          "text": "And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:"
+        },
+        {
+          "verse": 13,
+          "text": "Is it a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us?"
+        },
+        {
+          "verse": 14,
+          "text": "Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up."
+        },
+        {
+          "verse": 15,
+          "text": "And Moses was very wroth, and said unto the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them."
+        },
+        {
+          "verse": 16,
+          "text": "And Moses said unto Korah, Be thou and all thy company before the LORD, thou, and they, and Aaron, to morrow:"
+        },
+        {
+          "verse": 17,
+          "text": "And take every man his censer, and put incense in them, and bring ye before the LORD every man his censer, two hundred and fifty censers; thou also, and Aaron, each of you his censer."
+        },
+        {
+          "verse": 18,
+          "text": "And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron."
+        },
+        {
+          "verse": 19,
+          "text": "And Korah gathered all the congregation against them unto the door of the tabernacle of the congregation: and the glory of the LORD appeared unto all the congregation."
+        },
+        {
+          "verse": 20,
+          "text": "And the LORD spake unto Moses and unto Aaron, saying,"
+        },
+        {
+          "verse": 21,
+          "text": "Separate yourselves from among this congregation, that I may consume them in a moment."
+        },
+        {
+          "verse": 22,
+          "text": "And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?"
+        },
+        {
+          "verse": 23,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 24,
+          "text": "Speak unto the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram."
+        },
+        {
+          "verse": 25,
+          "text": "And Moses rose up and went unto Dathan and Abiram; and the elders of Israel followed him."
+        },
+        {
+          "verse": 26,
+          "text": "And he spake unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins."
+        },
+        {
+          "verse": 27,
+          "text": "So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children."
+        },
+        {
+          "verse": 28,
+          "text": "And Moses said, Hereby ye shall know that the LORD hath sent me to do all these works; for I have not done them of mine own mind."
+        },
+        {
+          "verse": 29,
+          "text": "If these men die the common death of all men, or if they be visited after the visitation of all men; then the LORD hath not sent me."
+        },
+        {
+          "verse": 30,
+          "text": "But if the LORD make a new thing, and the earth open her mouth, and swallow them up, with all that appertain unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the LORD."
+        },
+        {
+          "verse": 31,
+          "text": "And it came to pass, as he had made an end of speaking all these words, that the ground clave asunder that was under them:"
+        },
+        {
+          "verse": 32,
+          "text": "And the earth opened her mouth, and swallowed them up, and their houses, and all the men that appertained unto Korah, and all their goods."
+        },
+        {
+          "verse": 33,
+          "text": "They, and all that appertained to them, went down alive into the pit, and the earth closed upon them: and they perished from among the congregation."
+        },
+        {
+          "verse": 34,
+          "text": "And all Israel that were round about them fled at the cry of them: for they said, Lest the earth swallow us up also."
+        },
+        {
+          "verse": 35,
+          "text": "And there came out a fire from the LORD, and consumed the two hundred and fifty men that offered incense."
+        },
+        {
+          "verse": 36,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 37,
+          "text": "Speak unto Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter thou the fire yonder; for they are hallowed."
+        },
+        {
+          "verse": 38,
+          "text": "The censers of these sinners against their own souls, let them make them broad plates for a covering of the altar: for they offered them before the LORD, therefore they are hallowed: and they shall be a sign unto the children of Israel."
+        },
+        {
+          "verse": 39,
+          "text": "And Eleazar the priest took the brasen censers, wherewith they that were burnt had offered; and they were made broad plates for a covering of the altar:"
+        },
+        {
+          "verse": 40,
+          "text": "To be a memorial unto the children of Israel, that no stranger, which is not of the seed of Aaron, come near to offer incense before the LORD; that he be not as Korah, and as his company: as the LORD said to him by the hand of Moses."
+        },
+        {
+          "verse": 41,
+          "text": "But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of the LORD."
+        },
+        {
+          "verse": 42,
+          "text": "And it came to pass, when the congregation was gathered against Moses and against Aaron, that they looked toward the tabernacle of the congregation: and, behold, the cloud covered it, and the glory of the LORD appeared."
+        },
+        {
+          "verse": 43,
+          "text": "And Moses and Aaron came before the tabernacle of the congregation."
+        },
+        {
+          "verse": 44,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 45,
+          "text": "Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces."
+        },
+        {
+          "verse": 46,
+          "text": "And Moses said unto Aaron, Take a censer, and put fire therein from off the altar, and put on incense, and go quickly unto the congregation, and make an atonement for them: for there is wrath gone out from the LORD; the plague is begun."
+        },
+        {
+          "verse": 47,
+          "text": "And Aaron took as Moses commanded, and ran into the midst of the congregation; and, behold, the plague was begun among the people: and he put on incense, and made an atonement for the people."
+        },
+        {
+          "verse": 48,
+          "text": "And he stood between the dead and the living; and the plague was stayed."
+        },
+        {
+          "verse": 49,
+          "text": "Now they that died in the plague were fourteen thousand and seven hundred, beside them that died about the matter of Korah."
+        },
+        {
+          "verse": 50,
+          "text": "And Aaron returned unto Moses unto the door of the tabernacle of the congregation: and the plague was stayed."
+        }
+      ],
+      "verse_count": 50,
+      "word_count": 1341
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 17,
+      "chapter_title": "Numbers 17",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Speak unto the children of Israel, and take of every one of them a rod according to the house of their fathers, of all their princes according to the house of their fathers twelve rods: write thou every man’s name upon his rod."
+        },
+        {
+          "verse": 3,
+          "text": "And thou shalt write Aaron’s name upon the rod of Levi: for one rod shall be for the head of the house of their fathers."
+        },
+        {
+          "verse": 4,
+          "text": "And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you."
+        },
+        {
+          "verse": 5,
+          "text": "And it shall come to pass, that the man’s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you."
+        },
+        {
+          "verse": 6,
+          "text": "And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, even twelve rods: and the rod of Aaron was among their rods."
+        },
+        {
+          "verse": 7,
+          "text": "And Moses laid up the rods before the LORD in the tabernacle of witness."
+        },
+        {
+          "verse": 8,
+          "text": "And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds."
+        },
+        {
+          "verse": 9,
+          "text": "And Moses brought out all the rods from before the LORD unto all the children of Israel: and they looked, and took every man his rod."
+        },
+        {
+          "verse": 10,
+          "text": "And the LORD said unto Moses, Bring Aaron’s rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not."
+        },
+        {
+          "verse": 11,
+          "text": "And Moses did so: as the LORD commanded him, so did he."
+        },
+        {
+          "verse": 12,
+          "text": "And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish."
+        },
+        {
+          "verse": 13,
+          "text": "Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?"
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 339
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 25,
+      "chapter_title": "Psalms 25",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Unto thee, O LORD, do I lift up my soul."
+        },
+        {
+          "verse": 2,
+          "text": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me."
+        },
+        {
+          "verse": 3,
+          "text": "Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause."
+        },
+        {
+          "verse": 4,
+          "text": "Shew me thy ways, O LORD; teach me thy paths."
+        },
+        {
+          "verse": 5,
+          "text": "Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day."
+        },
+        {
+          "verse": 6,
+          "text": "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old."
+        },
+        {
+          "verse": 7,
+          "text": "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness’ sake, O LORD."
+        },
+        {
+          "verse": 8,
+          "text": "Good and upright is the LORD: therefore will he teach sinners in the way."
+        },
+        {
+          "verse": 9,
+          "text": "The meek will he guide in judgment: and the meek will he teach his way."
+        },
+        {
+          "verse": 10,
+          "text": "All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies."
+        },
+        {
+          "verse": 11,
+          "text": "For thy name’s sake, O LORD, pardon mine iniquity; for it is great."
+        },
+        {
+          "verse": 12,
+          "text": "What man is he that feareth the LORD? him shall he teach in the way that he shall choose."
+        },
+        {
+          "verse": 13,
+          "text": "His soul shall dwell at ease; and his seed shall inherit the earth."
+        },
+        {
+          "verse": 14,
+          "text": "The secret of the LORD is with them that fear him; and he will shew them his covenant."
+        },
+        {
+          "verse": 15,
+          "text": "Mine eyes are ever toward the LORD; for he shall pluck my feet out of the net."
+        },
+        {
+          "verse": 16,
+          "text": "Turn thee unto me, and have mercy upon me; for I am desolate and afflicted."
+        },
+        {
+          "verse": 17,
+          "text": "The troubles of my heart are enlarged: O bring thou me out of my distresses."
+        },
+        {
+          "verse": 18,
+          "text": "Look upon mine affliction and my pain; and forgive all my sins."
+        },
+        {
+          "verse": 19,
+          "text": "Consider mine enemies; for they are many; and they hate me with cruel hatred."
+        },
+        {
+          "verse": 20,
+          "text": "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee."
+        },
+        {
+          "verse": 21,
+          "text": "Let integrity and uprightness preserve me; for I wait on thee."
+        },
+        {
+          "verse": 22,
+          "text": "Redeem Israel, O God, out of all his troubles."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 343
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 1,
+      "chapter_title": "Jeremiah 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:"
+        },
+        {
+          "verse": 2,
+          "text": "To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign."
+        },
+        {
+          "verse": 3,
+          "text": "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month."
+        },
+        {
+          "verse": 4,
+          "text": "Then the word of the LORD came unto me, saying,"
+        },
+        {
+          "verse": 5,
+          "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
+        },
+        {
+          "verse": 6,
+          "text": "Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child."
+        },
+        {
+          "verse": 7,
+          "text": "But the LORD said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak."
+        },
+        {
+          "verse": 8,
+          "text": "Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD."
+        },
+        {
+          "verse": 9,
+          "text": "Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth."
+        },
+        {
+          "verse": 10,
+          "text": "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant."
+        },
+        {
+          "verse": 11,
+          "text": "Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree."
+        },
+        {
+          "verse": 12,
+          "text": "Then said the LORD unto me, Thou hast well seen: for I will hasten my word to perform it."
+        },
+        {
+          "verse": 13,
+          "text": "And the word of the LORD came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north."
+        },
+        {
+          "verse": 14,
+          "text": "Then the LORD said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land."
+        },
+        {
+          "verse": 15,
+          "text": "For, lo, I will call all the families of the kingdoms of the north, saith the LORD; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah."
+        },
+        {
+          "verse": 16,
+          "text": "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands."
+        },
+        {
+          "verse": 17,
+          "text": "Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them."
+        },
+        {
+          "verse": 18,
+          "text": "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land."
+        },
+        {
+          "verse": 19,
+          "text": "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee."
+        }
+      ],
+      "verse_count": 19,
+      "word_count": 528
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 23,
+      "chapter_title": "Luke 23",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the whole multitude of them arose, and led him unto Pilate."
+        },
+        {
+          "verse": 2,
+          "text": "And they began to accuse him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King."
+        },
+        {
+          "verse": 3,
+          "text": "And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest it."
+        },
+        {
+          "verse": 4,
+          "text": "Then said Pilate to the chief priests and to the people, I find no fault in this man."
+        },
+        {
+          "verse": 5,
+          "text": "And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place."
+        },
+        {
+          "verse": 6,
+          "text": "When Pilate heard of Galilee, he asked whether the man were a Galilaean."
+        },
+        {
+          "verse": 7,
+          "text": "And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time."
+        },
+        {
+          "verse": 8,
+          "text": "And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him."
+        },
+        {
+          "verse": 9,
+          "text": "Then he questioned with him in many words; but he answered him nothing."
+        },
+        {
+          "verse": 10,
+          "text": "And the chief priests and scribes stood and vehemently accused him."
+        },
+        {
+          "verse": 11,
+          "text": "And Herod with his men of war set him at nought, and mocked him, and arrayed him in a gorgeous robe, and sent him again to Pilate."
+        },
+        {
+          "verse": 12,
+          "text": "And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves."
+        },
+        {
+          "verse": 13,
+          "text": "And Pilate, when he had called together the chief priests and the rulers and the people,"
+        },
+        {
+          "verse": 14,
+          "text": "Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined him before you, have found no fault in this man touching those things whereof ye accuse him:"
+        },
+        {
+          "verse": 15,
+          "text": "No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him."
+        },
+        {
+          "verse": 16,
+          "text": "I will therefore chastise him, and release him."
+        },
+        {
+          "verse": 17,
+          "text": "(For of necessity he must release one unto them at the feast.)"
+        },
+        {
+          "verse": 18,
+          "text": "And they cried out all at once, saying, Away with this man, and release unto us Barabbas:"
+        },
+        {
+          "verse": 19,
+          "text": "(Who for a certain sedition made in the city, and for murder, was cast into prison.)"
+        },
+        {
+          "verse": 20,
+          "text": "Pilate therefore, willing to release Jesus, spake again to them."
+        },
+        {
+          "verse": 21,
+          "text": "But they cried, saying, Crucify him, crucify him."
+        },
+        {
+          "verse": 22,
+          "text": "And he said unto them the third time, Why, what evil hath he done? I have found no cause of death in him: I will therefore chastise him, and let him go."
+        },
+        {
+          "verse": 23,
+          "text": "And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed."
+        },
+        {
+          "verse": 24,
+          "text": "And Pilate gave sentence that it should be as they required."
+        },
+        {
+          "verse": 25,
+          "text": "And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will."
+        },
+        {
+          "verse": 26,
+          "text": "And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus."
+        },
+        {
+          "verse": 27,
+          "text": "And there followed him a great company of people, and of women, which also bewailed and lamented him."
+        },
+        {
+          "verse": 28,
+          "text": "But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children."
+        },
+        {
+          "verse": 29,
+          "text": "For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the wombs that never bare, and the paps which never gave suck."
+        },
+        {
+          "verse": 30,
+          "text": "Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us."
+        },
+        {
+          "verse": 31,
+          "text": "For if they do these things in a green tree, what shall be done in the dry?"
+        },
+        {
+          "verse": 32,
+          "text": "And there were also two other, malefactors, led with him to be put to death."
+        },
+        {
+          "verse": 33,
+          "text": "And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left."
+        },
+        {
+          "verse": 34,
+          "text": "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots."
+        },
+        {
+          "verse": 35,
+          "text": "And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God."
+        },
+        {
+          "verse": 36,
+          "text": "And the soldiers also mocked him, coming to him, and offering him vinegar,"
+        },
+        {
+          "verse": 37,
+          "text": "And saying, If thou be the king of the Jews, save thyself."
+        },
+        {
+          "verse": 38,
+          "text": "And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS."
+        },
+        {
+          "verse": 39,
+          "text": "And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us."
+        },
+        {
+          "verse": 40,
+          "text": "But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?"
+        },
+        {
+          "verse": 41,
+          "text": "And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss."
+        },
+        {
+          "verse": 42,
+          "text": "And he said unto Jesus, Lord, remember me when thou comest into thy kingdom."
+        },
+        {
+          "verse": 43,
+          "text": "And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise."
+        },
+        {
+          "verse": 44,
+          "text": "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour."
+        },
+        {
+          "verse": 45,
+          "text": "And the sun was darkened, and the veil of the temple was rent in the midst."
+        },
+        {
+          "verse": 46,
+          "text": "And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost."
+        },
+        {
+          "verse": 47,
+          "text": "Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man."
+        },
+        {
+          "verse": 48,
+          "text": "And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned."
+        },
+        {
+          "verse": 49,
+          "text": "And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things."
+        },
+        {
+          "verse": 50,
+          "text": "And, behold, there was a man named Joseph, a counsellor; and he was a good man, and a just:"
+        },
+        {
+          "verse": 51,
+          "text": "(The same had not consented to the counsel and deed of them;) he was of Arimathaea, a city of the Jews: who also himself waited for the kingdom of God."
+        },
+        {
+          "verse": 52,
+          "text": "This man went unto Pilate, and begged the body of Jesus."
+        },
+        {
+          "verse": 53,
+          "text": "And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, wherein never man before was laid."
+        },
+        {
+          "verse": 54,
+          "text": "And that day was the preparation, and the sabbath drew on."
+        },
+        {
+          "verse": 55,
+          "text": "And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid."
+        },
+        {
+          "verse": 56,
+          "text": "And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment."
+        }
+      ],
+      "verse_count": 56,
+      "word_count": 1118
+    }
+  ]
+}

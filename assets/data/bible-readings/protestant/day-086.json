@@ -1,0 +1,584 @@
+{
+  "day_number": 86,
+  "references": "Deuteronomy 4 • Psalms 44 • Jeremiah 20 • John 18",
+  "word_count": 3500,
+  "estimated_minutes": 17,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 44:4",
+    "text": "Thou art my King, O God: command deliverances for Jacob.",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "Deuteronomy 5 • Psalms 45 • Jeremiah 21 • John 19",
+  "chapters": [
+    {
+      "book": "Deuteronomy",
+      "chapter_number": 4,
+      "chapter_title": "Deuteronomy 4",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the LORD God of your fathers giveth you."
+        },
+        {
+          "verse": 2,
+          "text": "Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the LORD your God which I command you."
+        },
+        {
+          "verse": 3,
+          "text": "Your eyes have seen what the LORD did because of Baalpeor: for all the men that followed Baalpeor, the LORD thy God hath destroyed them from among you."
+        },
+        {
+          "verse": 4,
+          "text": "But ye that did cleave unto the LORD your God are alive every one of you this day."
+        },
+        {
+          "verse": 5,
+          "text": "Behold, I have taught you statutes and judgments, even as the LORD my God commanded me, that ye should do so in the land whither ye go to possess it."
+        },
+        {
+          "verse": 6,
+          "text": "Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation is a wise and understanding people."
+        },
+        {
+          "verse": 7,
+          "text": "For what nation is there so great, who hath God so nigh unto them, as the LORD our God is in all things that we call upon him for?"
+        },
+        {
+          "verse": 8,
+          "text": "And what nation is there so great, that hath statutes and judgments so righteous as all this law, which I set before you this day?"
+        },
+        {
+          "verse": 9,
+          "text": "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons’ sons;"
+        },
+        {
+          "verse": 10,
+          "text": "Specially the day that thou stoodest before the LORD thy God in Horeb, when the LORD said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and that they may teach their children."
+        },
+        {
+          "verse": 11,
+          "text": "And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness."
+        },
+        {
+          "verse": 12,
+          "text": "And the LORD spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only ye heard a voice."
+        },
+        {
+          "verse": 13,
+          "text": "And he declared unto you his covenant, which he commanded you to perform, even ten commandments; and he wrote them upon two tables of stone."
+        },
+        {
+          "verse": 14,
+          "text": "And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it."
+        },
+        {
+          "verse": 15,
+          "text": "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the LORD spake unto you in Horeb out of the midst of the fire:"
+        },
+        {
+          "verse": 16,
+          "text": "Lest ye corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,"
+        },
+        {
+          "verse": 17,
+          "text": "The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,"
+        },
+        {
+          "verse": 18,
+          "text": "The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:"
+        },
+        {
+          "verse": 19,
+          "text": "And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven."
+        },
+        {
+          "verse": 20,
+          "text": "But the LORD hath taken you, and brought you forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day."
+        },
+        {
+          "verse": 21,
+          "text": "Furthermore the LORD was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the LORD thy God giveth thee for an inheritance:"
+        },
+        {
+          "verse": 22,
+          "text": "But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land."
+        },
+        {
+          "verse": 23,
+          "text": "Take heed unto yourselves, lest ye forget the covenant of the LORD your God, which he made with you, and make you a graven image, or the likeness of any thing, which the LORD thy God hath forbidden thee."
+        },
+        {
+          "verse": 24,
+          "text": "For the LORD thy God is a consuming fire, even a jealous God."
+        },
+        {
+          "verse": 25,
+          "text": "When thou shalt beget children, and children’s children, and ye shall have remained long in the land, and shall corrupt yourselves, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the LORD thy God, to provoke him to anger:"
+        },
+        {
+          "verse": 26,
+          "text": "I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong your days upon it, but shall utterly be destroyed."
+        },
+        {
+          "verse": 27,
+          "text": "And the LORD shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the LORD shall lead you."
+        },
+        {
+          "verse": 28,
+          "text": "And there ye shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell."
+        },
+        {
+          "verse": 29,
+          "text": "But if from thence thou shalt seek the LORD thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul."
+        },
+        {
+          "verse": 30,
+          "text": "When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;"
+        },
+        {
+          "verse": 31,
+          "text": "(For the LORD thy God is a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them."
+        },
+        {
+          "verse": 32,
+          "text": "For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and ask from the one side of heaven unto the other, whether there hath been any such thing as this great thing is, or hath been heard like it?"
+        },
+        {
+          "verse": 33,
+          "text": "Did ever people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?"
+        },
+        {
+          "verse": 34,
+          "text": "Or hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?"
+        },
+        {
+          "verse": 35,
+          "text": "Unto thee it was shewed, that thou mightest know that the LORD he is God; there is none else beside him."
+        },
+        {
+          "verse": 36,
+          "text": "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire."
+        },
+        {
+          "verse": 37,
+          "text": "And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;"
+        },
+        {
+          "verse": 38,
+          "text": "To drive out nations from before thee greater and mightier than thou art, to bring thee in, to give thee their land for an inheritance, as it is this day."
+        },
+        {
+          "verse": 39,
+          "text": "Know therefore this day, and consider it in thine heart, that the LORD he is God in heaven above, and upon the earth beneath: there is none else."
+        },
+        {
+          "verse": 40,
+          "text": "Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong thy days upon the earth, which the LORD thy God giveth thee, for ever."
+        },
+        {
+          "verse": 41,
+          "text": "Then Moses severed three cities on this side Jordan toward the sunrising;"
+        },
+        {
+          "verse": 42,
+          "text": "That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:"
+        },
+        {
+          "verse": 43,
+          "text": "Namely, Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites."
+        },
+        {
+          "verse": 44,
+          "text": "And this is the law which Moses set before the children of Israel:"
+        },
+        {
+          "verse": 45,
+          "text": "These are the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,"
+        },
+        {
+          "verse": 46,
+          "text": "On this side Jordan, in the valley over against Bethpeor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:"
+        },
+        {
+          "verse": 47,
+          "text": "And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which were on this side Jordan toward the sunrising;"
+        },
+        {
+          "verse": 48,
+          "text": "From Aroer, which is by the bank of the river Arnon, even unto mount Sion, which is Hermon,"
+        },
+        {
+          "verse": 49,
+          "text": "And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah."
+        }
+      ],
+      "verse_count": 49,
+      "word_count": 1505
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 44,
+      "chapter_title": "Psalms 44",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old."
+        },
+        {
+          "verse": 2,
+          "text": "How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out."
+        },
+        {
+          "verse": 3,
+          "text": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them."
+        },
+        {
+          "verse": 4,
+          "text": "Thou art my King, O God: command deliverances for Jacob."
+        },
+        {
+          "verse": 5,
+          "text": "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us."
+        },
+        {
+          "verse": 6,
+          "text": "For I will not trust in my bow, neither shall my sword save me."
+        },
+        {
+          "verse": 7,
+          "text": "But thou hast saved us from our enemies, and hast put them to shame that hated us."
+        },
+        {
+          "verse": 8,
+          "text": "In God we boast all the day long, and praise thy name for ever. Selah."
+        },
+        {
+          "verse": 9,
+          "text": "But thou hast cast off, and put us to shame; and goest not forth with our armies."
+        },
+        {
+          "verse": 10,
+          "text": "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves."
+        },
+        {
+          "verse": 11,
+          "text": "Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen."
+        },
+        {
+          "verse": 12,
+          "text": "Thou sellest thy people for nought, and dost not increase thy wealth by their price."
+        },
+        {
+          "verse": 13,
+          "text": "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us."
+        },
+        {
+          "verse": 14,
+          "text": "Thou makest us a byword among the heathen, a shaking of the head among the people."
+        },
+        {
+          "verse": 15,
+          "text": "My confusion is continually before me, and the shame of my face hath covered me,"
+        },
+        {
+          "verse": 16,
+          "text": "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger."
+        },
+        {
+          "verse": 17,
+          "text": "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant."
+        },
+        {
+          "verse": 18,
+          "text": "Our heart is not turned back, neither have our steps declined from thy way;"
+        },
+        {
+          "verse": 19,
+          "text": "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death."
+        },
+        {
+          "verse": 20,
+          "text": "If we have forgotten the name of our God, or stretched out our hands to a strange god;"
+        },
+        {
+          "verse": 21,
+          "text": "Shall not God search this out? for he knoweth the secrets of the heart."
+        },
+        {
+          "verse": 22,
+          "text": "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter."
+        },
+        {
+          "verse": 23,
+          "text": "Awake, why sleepest thou, O Lord? arise, cast us not off for ever."
+        },
+        {
+          "verse": 24,
+          "text": "Wherefore hidest thou thy face, and forgettest our affliction and our oppression?"
+        },
+        {
+          "verse": 25,
+          "text": "For our soul is bowed down to the dust: our belly cleaveth unto the earth."
+        },
+        {
+          "verse": 26,
+          "text": "Arise for our help, and redeem us for thy mercies’ sake."
+        }
+      ],
+      "verse_count": 26,
+      "word_count": 451
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 20,
+      "chapter_title": "Jeremiah 20",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now Pashur the son of Immer the priest, who was also chief governor in the house of the LORD, heard that Jeremiah prophesied these things."
+        },
+        {
+          "verse": 2,
+          "text": "Then Pashur smote Jeremiah the prophet, and put him in the stocks that were in the high gate of Benjamin, which was by the house of the LORD."
+        },
+        {
+          "verse": 3,
+          "text": "And it came to pass on the morrow, that Pashur brought forth Jeremiah out of the stocks. Then said Jeremiah unto him, The LORD hath not called thy name Pashur, but Magormissabib."
+        },
+        {
+          "verse": 4,
+          "text": "For thus saith the LORD, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold it: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword."
+        },
+        {
+          "verse": 5,
+          "text": "Moreover I will deliver all the strength of this city, and all the labours thereof, and all the precious things thereof, and all the treasures of the kings of Judah will I give into the hand of their enemies, which shall spoil them, and take them, and carry them to Babylon."
+        },
+        {
+          "verse": 6,
+          "text": "And thou, Pashur, and all that dwell in thine house shall go into captivity: and thou shalt come to Babylon, and there thou shalt die, and shalt be buried there, thou, and all thy friends, to whom thou hast prophesied lies."
+        },
+        {
+          "verse": 7,
+          "text": "O LORD, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me."
+        },
+        {
+          "verse": 8,
+          "text": "For since I spake, I cried out, I cried violence and spoil; because the word of the LORD was made a reproach unto me, and a derision, daily."
+        },
+        {
+          "verse": 9,
+          "text": "Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay."
+        },
+        {
+          "verse": 10,
+          "text": "For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him."
+        },
+        {
+          "verse": 11,
+          "text": "But the LORD is with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: their everlasting confusion shall never be forgotten."
+        },
+        {
+          "verse": 12,
+          "text": "But, O LORD of hosts, that triest the righteous, and seest the reins and the heart, let me see thy vengeance on them: for unto thee have I opened my cause."
+        },
+        {
+          "verse": 13,
+          "text": "Sing unto the LORD, praise ye the LORD: for he hath delivered the soul of the poor from the hand of evildoers."
+        },
+        {
+          "verse": 14,
+          "text": "Cursed be the day wherein I was born: let not the day wherein my mother bare me be blessed."
+        },
+        {
+          "verse": 15,
+          "text": "Cursed be the man who brought tidings to my father, saying, A man child is born unto thee; making him very glad."
+        },
+        {
+          "verse": 16,
+          "text": "And let that man be as the cities which the LORD overthrew, and repented not: and let him hear the cry in the morning, and the shouting at noontide;"
+        },
+        {
+          "verse": 17,
+          "text": "Because he slew me not from the womb; or that my mother might have been my grave, and her womb to be always great with me."
+        },
+        {
+          "verse": 18,
+          "text": "Wherefore came I forth out of the womb to see labour and sorrow, that my days should be consumed with shame?"
+        }
+      ],
+      "verse_count": 18,
+      "word_count": 594
+    },
+    {
+      "book": "John",
+      "chapter_number": 18,
+      "chapter_title": "John 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples."
+        },
+        {
+          "verse": 2,
+          "text": "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples."
+        },
+        {
+          "verse": 3,
+          "text": "Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons."
+        },
+        {
+          "verse": 4,
+          "text": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?"
+        },
+        {
+          "verse": 5,
+          "text": "They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them."
+        },
+        {
+          "verse": 6,
+          "text": "As soon then as he had said unto them, I am he, they went backward, and fell to the ground."
+        },
+        {
+          "verse": 7,
+          "text": "Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth."
+        },
+        {
+          "verse": 8,
+          "text": "Jesus answered, I have told you that I am he: if therefore ye seek me, let these go their way:"
+        },
+        {
+          "verse": 9,
+          "text": "That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none."
+        },
+        {
+          "verse": 10,
+          "text": "Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus."
+        },
+        {
+          "verse": 11,
+          "text": "Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?"
+        },
+        {
+          "verse": 12,
+          "text": "Then the band and the captain and officers of the Jews took Jesus, and bound him,"
+        },
+        {
+          "verse": 13,
+          "text": "And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year."
+        },
+        {
+          "verse": 14,
+          "text": "Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people."
+        },
+        {
+          "verse": 15,
+          "text": "And Simon Peter followed Jesus, and so did another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest."
+        },
+        {
+          "verse": 16,
+          "text": "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter."
+        },
+        {
+          "verse": 17,
+          "text": "Then saith the damsel that kept the door unto Peter, Art not thou also one of this man’s disciples? He saith, I am not."
+        },
+        {
+          "verse": 18,
+          "text": "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself."
+        },
+        {
+          "verse": 19,
+          "text": "The high priest then asked Jesus of his disciples, and of his doctrine."
+        },
+        {
+          "verse": 20,
+          "text": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing."
+        },
+        {
+          "verse": 21,
+          "text": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said."
+        },
+        {
+          "verse": 22,
+          "text": "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?"
+        },
+        {
+          "verse": 23,
+          "text": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?"
+        },
+        {
+          "verse": 24,
+          "text": "Now Annas had sent him bound unto Caiaphas the high priest."
+        },
+        {
+          "verse": 25,
+          "text": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not."
+        },
+        {
+          "verse": 26,
+          "text": "One of the servants of the high priest, being his kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?"
+        },
+        {
+          "verse": 27,
+          "text": "Peter then denied again: and immediately the cock crew."
+        },
+        {
+          "verse": 28,
+          "text": "Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover."
+        },
+        {
+          "verse": 29,
+          "text": "Pilate then went out unto them, and said, What accusation bring ye against this man?"
+        },
+        {
+          "verse": 30,
+          "text": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee."
+        },
+        {
+          "verse": 31,
+          "text": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:"
+        },
+        {
+          "verse": 32,
+          "text": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die."
+        },
+        {
+          "verse": 33,
+          "text": "Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?"
+        },
+        {
+          "verse": 34,
+          "text": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?"
+        },
+        {
+          "verse": 35,
+          "text": "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?"
+        },
+        {
+          "verse": 36,
+          "text": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence."
+        },
+        {
+          "verse": 37,
+          "text": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice."
+        },
+        {
+          "verse": 38,
+          "text": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all."
+        },
+        {
+          "verse": 39,
+          "text": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?"
+        },
+        {
+          "verse": 40,
+          "text": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber."
+        }
+      ],
+      "verse_count": 40,
+      "word_count": 950
+    }
+  ]
+}

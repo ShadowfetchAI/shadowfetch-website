@@ -1,0 +1,689 @@
+{
+  "day_number": 26,
+  "references": "Exodus 1-2 • Job 26 • Isaiah 26 • Matthew 26",
+  "word_count": 3506,
+  "estimated_minutes": 17,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Matthew 26:16",
+    "text": "And from that time he sought opportunity to betray him.",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "Exodus 3-4 • Job 27 • Isaiah 27 • Matthew 27",
+  "chapters": [
+    {
+      "book": "Exodus",
+      "chapter_number": 1,
+      "chapter_title": "Exodus 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob."
+        },
+        {
+          "verse": 2,
+          "text": "Reuben, Simeon, Levi, and Judah,"
+        },
+        {
+          "verse": 3,
+          "text": "Issachar, Zebulun, and Benjamin,"
+        },
+        {
+          "verse": 4,
+          "text": "Dan, and Naphtali, Gad, and Asher."
+        },
+        {
+          "verse": 5,
+          "text": "And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already."
+        },
+        {
+          "verse": 6,
+          "text": "And Joseph died, and all his brethren, and all that generation."
+        },
+        {
+          "verse": 7,
+          "text": "And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them."
+        },
+        {
+          "verse": 8,
+          "text": "Now there arose up a new king over Egypt, which knew not Joseph."
+        },
+        {
+          "verse": 9,
+          "text": "And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:"
+        },
+        {
+          "verse": 10,
+          "text": "Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land."
+        },
+        {
+          "verse": 11,
+          "text": "Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses."
+        },
+        {
+          "verse": 12,
+          "text": "But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel."
+        },
+        {
+          "verse": 13,
+          "text": "And the Egyptians made the children of Israel to serve with rigour:"
+        },
+        {
+          "verse": 14,
+          "text": "And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour."
+        },
+        {
+          "verse": 15,
+          "text": "And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:"
+        },
+        {
+          "verse": 16,
+          "text": "And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live."
+        },
+        {
+          "verse": 17,
+          "text": "But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive."
+        },
+        {
+          "verse": 18,
+          "text": "And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive?"
+        },
+        {
+          "verse": 19,
+          "text": "And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them."
+        },
+        {
+          "verse": 20,
+          "text": "Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty."
+        },
+        {
+          "verse": 21,
+          "text": "And it came to pass, because the midwives feared God, that he made them houses."
+        },
+        {
+          "verse": 22,
+          "text": "And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 457
+    },
+    {
+      "book": "Exodus",
+      "chapter_number": 2,
+      "chapter_title": "Exodus 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And there went a man of the house of Levi, and took to wife a daughter of Levi."
+        },
+        {
+          "verse": 2,
+          "text": "And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months."
+        },
+        {
+          "verse": 3,
+          "text": "And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river’s brink."
+        },
+        {
+          "verse": 4,
+          "text": "And his sister stood afar off, to wit what would be done to him."
+        },
+        {
+          "verse": 5,
+          "text": "And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it."
+        },
+        {
+          "verse": 6,
+          "text": "And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews’ children."
+        },
+        {
+          "verse": 7,
+          "text": "Then said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?"
+        },
+        {
+          "verse": 8,
+          "text": "And Pharaoh’s daughter said to her, Go. And the maid went and called the child’s mother."
+        },
+        {
+          "verse": 9,
+          "text": "And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it."
+        },
+        {
+          "verse": 10,
+          "text": "And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water."
+        },
+        {
+          "verse": 11,
+          "text": "And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren."
+        },
+        {
+          "verse": 12,
+          "text": "And he looked this way and that way, and when he saw that there was no man, he slew the Egyptian, and hid him in the sand."
+        },
+        {
+          "verse": 13,
+          "text": "And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?"
+        },
+        {
+          "verse": 14,
+          "text": "And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known."
+        },
+        {
+          "verse": 15,
+          "text": "Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well."
+        },
+        {
+          "verse": 16,
+          "text": "Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father’s flock."
+        },
+        {
+          "verse": 17,
+          "text": "And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock."
+        },
+        {
+          "verse": 18,
+          "text": "And when they came to Reuel their father, he said, How is it that ye are come so soon to day?"
+        },
+        {
+          "verse": 19,
+          "text": "And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew water enough for us, and watered the flock."
+        },
+        {
+          "verse": 20,
+          "text": "And he said unto his daughters, And where is he? why is it that ye have left the man? call him, that he may eat bread."
+        },
+        {
+          "verse": 21,
+          "text": "And Moses was content to dwell with the man: and he gave Moses Zipporah his daughter."
+        },
+        {
+          "verse": 22,
+          "text": "And she bare him a son, and he called his name Gershom: for he said, I have been a stranger in a strange land."
+        },
+        {
+          "verse": 23,
+          "text": "And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage."
+        },
+        {
+          "verse": 24,
+          "text": "And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob."
+        },
+        {
+          "verse": 25,
+          "text": "And God looked upon the children of Israel, and God had respect unto them."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 665
+    },
+    {
+      "book": "Job",
+      "chapter_number": 26,
+      "chapter_title": "Job 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "But Job answered and said,"
+        },
+        {
+          "verse": 2,
+          "text": "How hast thou helped him that is without power? how savest thou the arm that hath no strength?"
+        },
+        {
+          "verse": 3,
+          "text": "How hast thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is?"
+        },
+        {
+          "verse": 4,
+          "text": "To whom hast thou uttered words? and whose spirit came from thee?"
+        },
+        {
+          "verse": 5,
+          "text": "Dead things are formed from under the waters, and the inhabitants thereof."
+        },
+        {
+          "verse": 6,
+          "text": "Hell is naked before him, and destruction hath no covering."
+        },
+        {
+          "verse": 7,
+          "text": "He stretcheth out the north over the empty place, and hangeth the earth upon nothing."
+        },
+        {
+          "verse": 8,
+          "text": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them."
+        },
+        {
+          "verse": 9,
+          "text": "He holdeth back the face of his throne, and spreadeth his cloud upon it."
+        },
+        {
+          "verse": 10,
+          "text": "He hath compassed the waters with bounds, until the day and night come to an end."
+        },
+        {
+          "verse": 11,
+          "text": "The pillars of heaven tremble and are astonished at his reproof."
+        },
+        {
+          "verse": 12,
+          "text": "He divideth the sea with his power, and by his understanding he smiteth through the proud."
+        },
+        {
+          "verse": 13,
+          "text": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent."
+        },
+        {
+          "verse": 14,
+          "text": "Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?"
+        }
+      ],
+      "verse_count": 14,
+      "word_count": 206
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 26,
+      "chapter_title": "Isaiah 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks."
+        },
+        {
+          "verse": 2,
+          "text": "Open ye the gates, that the righteous nation which keepeth the truth may enter in."
+        },
+        {
+          "verse": 3,
+          "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee."
+        },
+        {
+          "verse": 4,
+          "text": "Trust ye in the LORD for ever: for in the LORD JEHOVAH is everlasting strength:"
+        },
+        {
+          "verse": 5,
+          "text": "For he bringeth down them that dwell on high; the lofty city, he layeth it low; he layeth it low, even to the ground; he bringeth it even to the dust."
+        },
+        {
+          "verse": 6,
+          "text": "The foot shall tread it down, even the feet of the poor, and the steps of the needy."
+        },
+        {
+          "verse": 7,
+          "text": "The way of the just is uprightness: thou, most upright, dost weigh the path of the just."
+        },
+        {
+          "verse": 8,
+          "text": "Yea, in the way of thy judgments, O LORD, have we waited for thee; the desire of our soul is to thy name, and to the remembrance of thee."
+        },
+        {
+          "verse": 9,
+          "text": "With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments are in the earth, the inhabitants of the world will learn righteousness."
+        },
+        {
+          "verse": 10,
+          "text": "Let favour be shewed to the wicked, yet will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not behold the majesty of the LORD."
+        },
+        {
+          "verse": 11,
+          "text": "LORD, when thy hand is lifted up, they will not see: but they shall see, and be ashamed for their envy at the people; yea, the fire of thine enemies shall devour them."
+        },
+        {
+          "verse": 12,
+          "text": "LORD, thou wilt ordain peace for us: for thou also hast wrought all our works in us."
+        },
+        {
+          "verse": 13,
+          "text": "O LORD our God, other lords beside thee have had dominion over us: but by thee only will we make mention of thy name."
+        },
+        {
+          "verse": 14,
+          "text": "They are dead, they shall not live; they are deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all their memory to perish."
+        },
+        {
+          "verse": 15,
+          "text": "Thou hast increased the nation, O LORD, thou hast increased the nation: thou art glorified: thou hadst removed it far unto all the ends of the earth."
+        },
+        {
+          "verse": 16,
+          "text": "LORD, in trouble have they visited thee, they poured out a prayer when thy chastening was upon them."
+        },
+        {
+          "verse": 17,
+          "text": "Like as a woman with child, that draweth near the time of her delivery, is in pain, and crieth out in her pangs; so have we been in thy sight, O LORD."
+        },
+        {
+          "verse": 18,
+          "text": "We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen."
+        },
+        {
+          "verse": 19,
+          "text": "Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth shall cast out the dead."
+        },
+        {
+          "verse": 20,
+          "text": "Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast."
+        },
+        {
+          "verse": 21,
+          "text": "For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 550
+    },
+    {
+      "book": "Matthew",
+      "chapter_number": 26,
+      "chapter_title": "Matthew 26",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,"
+        },
+        {
+          "verse": 2,
+          "text": "Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified."
+        },
+        {
+          "verse": 3,
+          "text": "Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,"
+        },
+        {
+          "verse": 4,
+          "text": "And consulted that they might take Jesus by subtilty, and kill him."
+        },
+        {
+          "verse": 5,
+          "text": "But they said, Not on the feast day, lest there be an uproar among the people."
+        },
+        {
+          "verse": 6,
+          "text": "Now when Jesus was in Bethany, in the house of Simon the leper,"
+        },
+        {
+          "verse": 7,
+          "text": "There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat at meat."
+        },
+        {
+          "verse": 8,
+          "text": "But when his disciples saw it, they had indignation, saying, To what purpose is this waste?"
+        },
+        {
+          "verse": 9,
+          "text": "For this ointment might have been sold for much, and given to the poor."
+        },
+        {
+          "verse": 10,
+          "text": "When Jesus understood it, he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me."
+        },
+        {
+          "verse": 11,
+          "text": "For ye have the poor always with you; but me ye have not always."
+        },
+        {
+          "verse": 12,
+          "text": "For in that she hath poured this ointment on my body, she did it for my burial."
+        },
+        {
+          "verse": 13,
+          "text": "Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her."
+        },
+        {
+          "verse": 14,
+          "text": "Then one of the twelve, called Judas Iscariot, went unto the chief priests,"
+        },
+        {
+          "verse": 15,
+          "text": "And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver."
+        },
+        {
+          "verse": 16,
+          "text": "And from that time he sought opportunity to betray him."
+        },
+        {
+          "verse": 17,
+          "text": "Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?"
+        },
+        {
+          "verse": 18,
+          "text": "And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples."
+        },
+        {
+          "verse": 19,
+          "text": "And the disciples did as Jesus had appointed them; and they made ready the passover."
+        },
+        {
+          "verse": 20,
+          "text": "Now when the even was come, he sat down with the twelve."
+        },
+        {
+          "verse": 21,
+          "text": "And as they did eat, he said, Verily I say unto you, that one of you shall betray me."
+        },
+        {
+          "verse": 22,
+          "text": "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?"
+        },
+        {
+          "verse": 23,
+          "text": "And he answered and said, He that dippeth his hand with me in the dish, the same shall betray me."
+        },
+        {
+          "verse": 24,
+          "text": "The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born."
+        },
+        {
+          "verse": 25,
+          "text": "Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said."
+        },
+        {
+          "verse": 26,
+          "text": "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body."
+        },
+        {
+          "verse": 27,
+          "text": "And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;"
+        },
+        {
+          "verse": 28,
+          "text": "For this is my blood of the new testament, which is shed for many for the remission of sins."
+        },
+        {
+          "verse": 29,
+          "text": "But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father’s kingdom."
+        },
+        {
+          "verse": 30,
+          "text": "And when they had sung an hymn, they went out into the mount of Olives."
+        },
+        {
+          "verse": 31,
+          "text": "Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad."
+        },
+        {
+          "verse": 32,
+          "text": "But after I am risen again, I will go before you into Galilee."
+        },
+        {
+          "verse": 33,
+          "text": "Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended."
+        },
+        {
+          "verse": 34,
+          "text": "Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice."
+        },
+        {
+          "verse": 35,
+          "text": "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples."
+        },
+        {
+          "verse": 36,
+          "text": "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder."
+        },
+        {
+          "verse": 37,
+          "text": "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy."
+        },
+        {
+          "verse": 38,
+          "text": "Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me."
+        },
+        {
+          "verse": 39,
+          "text": "And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt."
+        },
+        {
+          "verse": 40,
+          "text": "And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?"
+        },
+        {
+          "verse": 41,
+          "text": "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak."
+        },
+        {
+          "verse": 42,
+          "text": "He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done."
+        },
+        {
+          "verse": 43,
+          "text": "And he came and found them asleep again: for their eyes were heavy."
+        },
+        {
+          "verse": 44,
+          "text": "And he left them, and went away again, and prayed the third time, saying the same words."
+        },
+        {
+          "verse": 45,
+          "text": "Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners."
+        },
+        {
+          "verse": 46,
+          "text": "Rise, let us be going: behold, he is at hand that doth betray me."
+        },
+        {
+          "verse": 47,
+          "text": "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people."
+        },
+        {
+          "verse": 48,
+          "text": "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast."
+        },
+        {
+          "verse": 49,
+          "text": "And forthwith he came to Jesus, and said, Hail, master; and kissed him."
+        },
+        {
+          "verse": 50,
+          "text": "And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him."
+        },
+        {
+          "verse": 51,
+          "text": "And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear."
+        },
+        {
+          "verse": 52,
+          "text": "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword."
+        },
+        {
+          "verse": 53,
+          "text": "Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?"
+        },
+        {
+          "verse": 54,
+          "text": "But how then shall the scriptures be fulfilled, that thus it must be?"
+        },
+        {
+          "verse": 55,
+          "text": "In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me."
+        },
+        {
+          "verse": 56,
+          "text": "But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled."
+        },
+        {
+          "verse": 57,
+          "text": "And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled."
+        },
+        {
+          "verse": 58,
+          "text": "But Peter followed him afar off unto the high priest’s palace, and went in, and sat with the servants, to see the end."
+        },
+        {
+          "verse": 59,
+          "text": "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;"
+        },
+        {
+          "verse": 60,
+          "text": "But found none: yea, though many false witnesses came, yet found they none. At the last came two false witnesses,"
+        },
+        {
+          "verse": 61,
+          "text": "And said, This fellow said, I am able to destroy the temple of God, and to build it in three days."
+        },
+        {
+          "verse": 62,
+          "text": "And the high priest arose, and said unto him, Answerest thou nothing? what is it which these witness against thee?"
+        },
+        {
+          "verse": 63,
+          "text": "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God."
+        },
+        {
+          "verse": 64,
+          "text": "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
+        },
+        {
+          "verse": 65,
+          "text": "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy."
+        },
+        {
+          "verse": 66,
+          "text": "What think ye? They answered and said, He is guilty of death."
+        },
+        {
+          "verse": 67,
+          "text": "Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands,"
+        },
+        {
+          "verse": 68,
+          "text": "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?"
+        },
+        {
+          "verse": 69,
+          "text": "Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee."
+        },
+        {
+          "verse": 70,
+          "text": "But he denied before them all, saying, I know not what thou sayest."
+        },
+        {
+          "verse": 71,
+          "text": "And when he was gone out into the porch, another maid saw him, and said unto them that were there, This fellow was also with Jesus of Nazareth."
+        },
+        {
+          "verse": 72,
+          "text": "And again he denied with an oath, I do not know the man."
+        },
+        {
+          "verse": 73,
+          "text": "And after a while came unto him they that stood by, and said to Peter, Surely thou also art one of them; for thy speech bewrayeth thee."
+        },
+        {
+          "verse": 74,
+          "text": "Then began he to curse and to swear, saying, I know not the man. And immediately the cock crew."
+        },
+        {
+          "verse": 75,
+          "text": "And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly."
+        }
+      ],
+      "verse_count": 75,
+      "word_count": 1628
+    }
+  ]
+}

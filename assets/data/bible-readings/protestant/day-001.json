@@ -1,0 +1,597 @@
+{
+  "day_number": 1,
+  "references": "Genesis 1-2 • Job 1 • Isaiah 1 • Matthew 1",
+  "word_count": 3305,
+  "estimated_minutes": 16,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Matthew 1:14",
+    "text": "And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;",
+    "reflection": "Let this verse be the quieter voice that sets the pace for the rest of the day."
+  },
+  "tomorrow_teaser": "Genesis 3-4 • Job 2 • Isaiah 2 • Matthew 2",
+  "chapters": [
+    {
+      "book": "Genesis",
+      "chapter_number": 1,
+      "chapter_title": "Genesis 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "In the beginning God created the heaven and the earth."
+        },
+        {
+          "verse": 2,
+          "text": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters."
+        },
+        {
+          "verse": 3,
+          "text": "And God said, Let there be light: and there was light."
+        },
+        {
+          "verse": 4,
+          "text": "And God saw the light, that it was good: and God divided the light from the darkness."
+        },
+        {
+          "verse": 5,
+          "text": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."
+        },
+        {
+          "verse": 6,
+          "text": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters."
+        },
+        {
+          "verse": 7,
+          "text": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so."
+        },
+        {
+          "verse": 8,
+          "text": "And God called the firmament Heaven. And the evening and the morning were the second day."
+        },
+        {
+          "verse": 9,
+          "text": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so."
+        },
+        {
+          "verse": 10,
+          "text": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
+        },
+        {
+          "verse": 11,
+          "text": "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so."
+        },
+        {
+          "verse": 12,
+          "text": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good."
+        },
+        {
+          "verse": 13,
+          "text": "And the evening and the morning were the third day."
+        },
+        {
+          "verse": 14,
+          "text": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:"
+        },
+        {
+          "verse": 15,
+          "text": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so."
+        },
+        {
+          "verse": 16,
+          "text": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also."
+        },
+        {
+          "verse": 17,
+          "text": "And God set them in the firmament of the heaven to give light upon the earth,"
+        },
+        {
+          "verse": 18,
+          "text": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good."
+        },
+        {
+          "verse": 19,
+          "text": "And the evening and the morning were the fourth day."
+        },
+        {
+          "verse": 20,
+          "text": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven."
+        },
+        {
+          "verse": 21,
+          "text": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good."
+        },
+        {
+          "verse": 22,
+          "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth."
+        },
+        {
+          "verse": 23,
+          "text": "And the evening and the morning were the fifth day."
+        },
+        {
+          "verse": 24,
+          "text": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so."
+        },
+        {
+          "verse": 25,
+          "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good."
+        },
+        {
+          "verse": 26,
+          "text": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
+        },
+        {
+          "verse": 27,
+          "text": "So God created man in his own image, in the image of God created he him; male and female created he them."
+        },
+        {
+          "verse": 28,
+          "text": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth."
+        },
+        {
+          "verse": 29,
+          "text": "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat."
+        },
+        {
+          "verse": 30,
+          "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so."
+        },
+        {
+          "verse": 31,
+          "text": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 797
+    },
+    {
+      "book": "Genesis",
+      "chapter_number": 2,
+      "chapter_title": "Genesis 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Thus the heavens and the earth were finished, and all the host of them."
+        },
+        {
+          "verse": 2,
+          "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made."
+        },
+        {
+          "verse": 3,
+          "text": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made."
+        },
+        {
+          "verse": 4,
+          "text": "These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,"
+        },
+        {
+          "verse": 5,
+          "text": "And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground."
+        },
+        {
+          "verse": 6,
+          "text": "But there went up a mist from the earth, and watered the whole face of the ground."
+        },
+        {
+          "verse": 7,
+          "text": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
+        },
+        {
+          "verse": 8,
+          "text": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."
+        },
+        {
+          "verse": 9,
+          "text": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil."
+        },
+        {
+          "verse": 10,
+          "text": "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads."
+        },
+        {
+          "verse": 11,
+          "text": "The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold;"
+        },
+        {
+          "verse": 12,
+          "text": "And the gold of that land is good: there is bdellium and the onyx stone."
+        },
+        {
+          "verse": 13,
+          "text": "And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia."
+        },
+        {
+          "verse": 14,
+          "text": "And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates."
+        },
+        {
+          "verse": 15,
+          "text": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it."
+        },
+        {
+          "verse": 16,
+          "text": "And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:"
+        },
+        {
+          "verse": 17,
+          "text": "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
+        },
+        {
+          "verse": 18,
+          "text": "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him."
+        },
+        {
+          "verse": 19,
+          "text": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof."
+        },
+        {
+          "verse": 20,
+          "text": "And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him."
+        },
+        {
+          "verse": 21,
+          "text": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;"
+        },
+        {
+          "verse": 22,
+          "text": "And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man."
+        },
+        {
+          "verse": 23,
+          "text": "And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man."
+        },
+        {
+          "verse": 24,
+          "text": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."
+        },
+        {
+          "verse": 25,
+          "text": "And they were both naked, the man and his wife, and were not ashamed."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 632
+    },
+    {
+      "book": "Job",
+      "chapter_number": 1,
+      "chapter_title": "Job 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil."
+        },
+        {
+          "verse": 2,
+          "text": "And there were born unto him seven sons and three daughters."
+        },
+        {
+          "verse": 3,
+          "text": "His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east."
+        },
+        {
+          "verse": 4,
+          "text": "And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them."
+        },
+        {
+          "verse": 5,
+          "text": "And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually."
+        },
+        {
+          "verse": 6,
+          "text": "Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them."
+        },
+        {
+          "verse": 7,
+          "text": "And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it."
+        },
+        {
+          "verse": 8,
+          "text": "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?"
+        },
+        {
+          "verse": 9,
+          "text": "Then Satan answered the LORD, and said, Doth Job fear God for nought?"
+        },
+        {
+          "verse": 10,
+          "text": "Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land."
+        },
+        {
+          "verse": 11,
+          "text": "But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face."
+        },
+        {
+          "verse": 12,
+          "text": "And the LORD said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the LORD."
+        },
+        {
+          "verse": 13,
+          "text": "And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother’s house:"
+        },
+        {
+          "verse": 14,
+          "text": "And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:"
+        },
+        {
+          "verse": 15,
+          "text": "And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee."
+        },
+        {
+          "verse": 16,
+          "text": "While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee."
+        },
+        {
+          "verse": 17,
+          "text": "While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee."
+        },
+        {
+          "verse": 18,
+          "text": "While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother’s house:"
+        },
+        {
+          "verse": 19,
+          "text": "And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee."
+        },
+        {
+          "verse": 20,
+          "text": "Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,"
+        },
+        {
+          "verse": 21,
+          "text": "And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD."
+        },
+        {
+          "verse": 22,
+          "text": "In all this Job sinned not, nor charged God foolishly."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 644
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 1,
+      "chapter_title": "Isaiah 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah."
+        },
+        {
+          "verse": 2,
+          "text": "Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me."
+        },
+        {
+          "verse": 3,
+          "text": "The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider."
+        },
+        {
+          "verse": 4,
+          "text": "Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward."
+        },
+        {
+          "verse": 5,
+          "text": "Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint."
+        },
+        {
+          "verse": 6,
+          "text": "From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment."
+        },
+        {
+          "verse": 7,
+          "text": "Your country is desolate, your cities are burned with fire: your land, strangers devour it in your presence, and it is desolate, as overthrown by strangers."
+        },
+        {
+          "verse": 8,
+          "text": "And the daughter of Zion is left as a cottage in a vineyard, as a lodge in a garden of cucumbers, as a besieged city."
+        },
+        {
+          "verse": 9,
+          "text": "Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, and we should have been like unto Gomorrah."
+        },
+        {
+          "verse": 10,
+          "text": "Hear the word of the LORD, ye rulers of Sodom; give ear unto the law of our God, ye people of Gomorrah."
+        },
+        {
+          "verse": 11,
+          "text": "To what purpose is the multitude of your sacrifices unto me? saith the LORD: I am full of the burnt offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats."
+        },
+        {
+          "verse": 12,
+          "text": "When ye come to appear before me, who hath required this at your hand, to tread my courts?"
+        },
+        {
+          "verse": 13,
+          "text": "Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting."
+        },
+        {
+          "verse": 14,
+          "text": "Your new moons and your appointed feasts my soul hateth: they are a trouble unto me; I am weary to bear them."
+        },
+        {
+          "verse": 15,
+          "text": "And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood."
+        },
+        {
+          "verse": 16,
+          "text": "Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;"
+        },
+        {
+          "verse": 17,
+          "text": "Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow."
+        },
+        {
+          "verse": 18,
+          "text": "Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool."
+        },
+        {
+          "verse": 19,
+          "text": "If ye be willing and obedient, ye shall eat the good of the land:"
+        },
+        {
+          "verse": 20,
+          "text": "But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the LORD hath spoken it."
+        },
+        {
+          "verse": 21,
+          "text": "How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers."
+        },
+        {
+          "verse": 22,
+          "text": "Thy silver is become dross, thy wine mixed with water:"
+        },
+        {
+          "verse": 23,
+          "text": "Thy princes are rebellious, and companions of thieves: every one loveth gifts, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them."
+        },
+        {
+          "verse": 24,
+          "text": "Therefore saith the LORD, the LORD of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:"
+        },
+        {
+          "verse": 25,
+          "text": "And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:"
+        },
+        {
+          "verse": 26,
+          "text": "And I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called, The city of righteousness, the faithful city."
+        },
+        {
+          "verse": 27,
+          "text": "Zion shall be redeemed with judgment, and her converts with righteousness."
+        },
+        {
+          "verse": 28,
+          "text": "And the destruction of the transgressors and of the sinners shall be together, and they that forsake the LORD shall be consumed."
+        },
+        {
+          "verse": 29,
+          "text": "For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen."
+        },
+        {
+          "verse": 30,
+          "text": "For ye shall be as an oak whose leaf fadeth, and as a garden that hath no water."
+        },
+        {
+          "verse": 31,
+          "text": "And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench them."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 759
+    },
+    {
+      "book": "Matthew",
+      "chapter_number": 1,
+      "chapter_title": "Matthew 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham."
+        },
+        {
+          "verse": 2,
+          "text": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;"
+        },
+        {
+          "verse": 3,
+          "text": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;"
+        },
+        {
+          "verse": 4,
+          "text": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;"
+        },
+        {
+          "verse": 5,
+          "text": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
+        },
+        {
+          "verse": 6,
+          "text": "And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;"
+        },
+        {
+          "verse": 7,
+          "text": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;"
+        },
+        {
+          "verse": 8,
+          "text": "And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;"
+        },
+        {
+          "verse": 9,
+          "text": "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;"
+        },
+        {
+          "verse": 10,
+          "text": "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;"
+        },
+        {
+          "verse": 11,
+          "text": "And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:"
+        },
+        {
+          "verse": 12,
+          "text": "And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;"
+        },
+        {
+          "verse": 13,
+          "text": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;"
+        },
+        {
+          "verse": 14,
+          "text": "And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;"
+        },
+        {
+          "verse": 15,
+          "text": "And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;"
+        },
+        {
+          "verse": 16,
+          "text": "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ."
+        },
+        {
+          "verse": 17,
+          "text": "So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations."
+        },
+        {
+          "verse": 18,
+          "text": "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost."
+        },
+        {
+          "verse": 19,
+          "text": "Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily."
+        },
+        {
+          "verse": 20,
+          "text": "But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost."
+        },
+        {
+          "verse": 21,
+          "text": "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins."
+        },
+        {
+          "verse": 22,
+          "text": "Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,"
+        },
+        {
+          "verse": 23,
+          "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us."
+        },
+        {
+          "verse": 24,
+          "text": "Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:"
+        },
+        {
+          "verse": 25,
+          "text": "And knew her not till she had brought forth her firstborn son: and he called his name JESUS."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 473
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "day_number": 119,
+  "references": "Joshua 3 • Psalms 77 • Lamentations 1 • Romans 2",
+  "word_count": 2258,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 77:12",
+    "text": "I will meditate also of all thy work, and talk of thy doings.",
+    "reflection": "Let this be the sheltering word of the day: small enough to remember, strong enough to keep."
+  },
+  "tomorrow_teaser": "Joshua 4 • Psalms 78 • Lamentations 2 • Romans 3",
+  "chapters": [
+    {
+      "book": "Joshua",
+      "chapter_number": 3,
+      "chapter_title": "Joshua 3",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over."
+        },
+        {
+          "verse": 2,
+          "text": "And it came to pass after three days, that the officers went through the host;"
+        },
+        {
+          "verse": 3,
+          "text": "And they commanded the people, saying, When ye see the ark of the covenant of the LORD your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it."
+        },
+        {
+          "verse": 4,
+          "text": "Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed this way heretofore."
+        },
+        {
+          "verse": 5,
+          "text": "And Joshua said unto the people, Sanctify yourselves: for to morrow the LORD will do wonders among you."
+        },
+        {
+          "verse": 6,
+          "text": "And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people."
+        },
+        {
+          "verse": 7,
+          "text": "And the LORD said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, so I will be with thee."
+        },
+        {
+          "verse": 8,
+          "text": "And thou shalt command the priests that bear the ark of the covenant, saying, When ye are come to the brink of the water of Jordan, ye shall stand still in Jordan."
+        },
+        {
+          "verse": 9,
+          "text": "And Joshua said unto the children of Israel, Come hither, and hear the words of the LORD your God."
+        },
+        {
+          "verse": 10,
+          "text": "And Joshua said, Hereby ye shall know that the living God is among you, and that he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites."
+        },
+        {
+          "verse": 11,
+          "text": "Behold, the ark of the covenant of the LORD of all the earth passeth over before you into Jordan."
+        },
+        {
+          "verse": 12,
+          "text": "Now therefore take you twelve men out of the tribes of Israel, out of every tribe a man."
+        },
+        {
+          "verse": 13,
+          "text": "And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the LORD, the LORD of all the earth, shall rest in the waters of Jordan, that the waters of Jordan shall be cut off from the waters that come down from above; and they shall stand upon an heap."
+        },
+        {
+          "verse": 14,
+          "text": "And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;"
+        },
+        {
+          "verse": 15,
+          "text": "And as they that bare the ark were come unto Jordan, and the feet of the priests that bare the ark were dipped in the brim of the water, (for Jordan overfloweth all his banks all the time of harvest,)"
+        },
+        {
+          "verse": 16,
+          "text": "That the waters which came down from above stood and rose up upon an heap very far from the city Adam, that is beside Zaretan: and those that came down toward the sea of the plain, even the salt sea, failed, and were cut off: and the people passed over right against Jericho."
+        },
+        {
+          "verse": 17,
+          "text": "And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 566
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 77,
+      "chapter_title": "Psalms 77",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me."
+        },
+        {
+          "verse": 2,
+          "text": "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted."
+        },
+        {
+          "verse": 3,
+          "text": "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah."
+        },
+        {
+          "verse": 4,
+          "text": "Thou holdest mine eyes waking: I am so troubled that I cannot speak."
+        },
+        {
+          "verse": 5,
+          "text": "I have considered the days of old, the years of ancient times."
+        },
+        {
+          "verse": 6,
+          "text": "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search."
+        },
+        {
+          "verse": 7,
+          "text": "Will the Lord cast off for ever? and will he be favourable no more?"
+        },
+        {
+          "verse": 8,
+          "text": "Is his mercy clean gone for ever? doth his promise fail for evermore?"
+        },
+        {
+          "verse": 9,
+          "text": "Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah."
+        },
+        {
+          "verse": 10,
+          "text": "And I said, This is my infirmity: but I will remember the years of the right hand of the most High."
+        },
+        {
+          "verse": 11,
+          "text": "I will remember the works of the LORD: surely I will remember thy wonders of old."
+        },
+        {
+          "verse": 12,
+          "text": "I will meditate also of all thy work, and talk of thy doings."
+        },
+        {
+          "verse": 13,
+          "text": "Thy way, O God, is in the sanctuary: who is so great a God as our God?"
+        },
+        {
+          "verse": 14,
+          "text": "Thou art the God that doest wonders: thou hast declared thy strength among the people."
+        },
+        {
+          "verse": 15,
+          "text": "Thou hast with thine arm redeemed thy people, the sons of Jacob and Joseph. Selah."
+        },
+        {
+          "verse": 16,
+          "text": "The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled."
+        },
+        {
+          "verse": 17,
+          "text": "The clouds poured out water: the skies sent out a sound: thine arrows also went abroad."
+        },
+        {
+          "verse": 18,
+          "text": "The voice of thy thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook."
+        },
+        {
+          "verse": 19,
+          "text": "Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known."
+        },
+        {
+          "verse": 20,
+          "text": "Thou leddest thy people like a flock by the hand of Moses and Aaron."
+        }
+      ],
+      "verse_count": 20,
+      "word_count": 330
+    },
+    {
+      "book": "Lamentations",
+      "chapter_number": 1,
+      "chapter_title": "Lamentations 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!"
+        },
+        {
+          "verse": 2,
+          "text": "She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies."
+        },
+        {
+          "verse": 3,
+          "text": "Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits."
+        },
+        {
+          "verse": 4,
+          "text": "The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness."
+        },
+        {
+          "verse": 5,
+          "text": "Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy."
+        },
+        {
+          "verse": 6,
+          "text": "And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer."
+        },
+        {
+          "verse": 7,
+          "text": "Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths."
+        },
+        {
+          "verse": 8,
+          "text": "Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward."
+        },
+        {
+          "verse": 9,
+          "text": "Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself."
+        },
+        {
+          "verse": 10,
+          "text": "The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation."
+        },
+        {
+          "verse": 11,
+          "text": "All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O LORD, and consider; for I am become vile."
+        },
+        {
+          "verse": 12,
+          "text": "Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted me in the day of his fierce anger."
+        },
+        {
+          "verse": 13,
+          "text": "From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day."
+        },
+        {
+          "verse": 14,
+          "text": "The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he hath made my strength to fall, the LORD hath delivered me into their hands, from whom I am not able to rise up."
+        },
+        {
+          "verse": 15,
+          "text": "The LORD hath trodden under foot all my mighty men in the midst of me: he hath called an assembly against me to crush my young men: the LORD hath trodden the virgin, the daughter of Judah, as in a winepress."
+        },
+        {
+          "verse": 16,
+          "text": "For these things I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed."
+        },
+        {
+          "verse": 17,
+          "text": "Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them."
+        },
+        {
+          "verse": 18,
+          "text": "The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity."
+        },
+        {
+          "verse": 19,
+          "text": "I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls."
+        },
+        {
+          "verse": 20,
+          "text": "Behold, O LORD; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death."
+        },
+        {
+          "verse": 21,
+          "text": "They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like unto me."
+        },
+        {
+          "verse": 22,
+          "text": "Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs are many, and my heart is faint."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 758
+    },
+    {
+      "book": "Romans",
+      "chapter_number": 2,
+      "chapter_title": "Romans 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things."
+        },
+        {
+          "verse": 2,
+          "text": "But we are sure that the judgment of God is according to truth against them which commit such things."
+        },
+        {
+          "verse": 3,
+          "text": "And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?"
+        },
+        {
+          "verse": 4,
+          "text": "Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?"
+        },
+        {
+          "verse": 5,
+          "text": "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;"
+        },
+        {
+          "verse": 6,
+          "text": "Who will render to every man according to his deeds:"
+        },
+        {
+          "verse": 7,
+          "text": "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:"
+        },
+        {
+          "verse": 8,
+          "text": "But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,"
+        },
+        {
+          "verse": 9,
+          "text": "Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;"
+        },
+        {
+          "verse": 10,
+          "text": "But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:"
+        },
+        {
+          "verse": 11,
+          "text": "For there is no respect of persons with God."
+        },
+        {
+          "verse": 12,
+          "text": "For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;"
+        },
+        {
+          "verse": 13,
+          "text": "(For not the hearers of the law are just before God, but the doers of the law shall be justified."
+        },
+        {
+          "verse": 14,
+          "text": "For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:"
+        },
+        {
+          "verse": 15,
+          "text": "Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)"
+        },
+        {
+          "verse": 16,
+          "text": "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel."
+        },
+        {
+          "verse": 17,
+          "text": "Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,"
+        },
+        {
+          "verse": 18,
+          "text": "And knowest his will, and approvest the things that are more excellent, being instructed out of the law;"
+        },
+        {
+          "verse": 19,
+          "text": "And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,"
+        },
+        {
+          "verse": 20,
+          "text": "An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law."
+        },
+        {
+          "verse": 21,
+          "text": "Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?"
+        },
+        {
+          "verse": 22,
+          "text": "Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?"
+        },
+        {
+          "verse": 23,
+          "text": "Thou that makest thy boast of the law, through breaking the law dishonourest thou God?"
+        },
+        {
+          "verse": 24,
+          "text": "For the name of God is blasphemed among the Gentiles through you, as it is written."
+        },
+        {
+          "verse": 25,
+          "text": "For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision."
+        },
+        {
+          "verse": 26,
+          "text": "Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?"
+        },
+        {
+          "verse": 27,
+          "text": "And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?"
+        },
+        {
+          "verse": 28,
+          "text": "For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:"
+        },
+        {
+          "verse": 29,
+          "text": "But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God."
+        }
+      ],
+      "verse_count": 29,
+      "word_count": 604
+    }
+  ]
+}

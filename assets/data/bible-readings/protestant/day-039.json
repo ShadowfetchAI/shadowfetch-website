@@ -1,0 +1,601 @@
+{
+  "day_number": 39,
+  "references": "Exodus 27-28 • Job 39 • Isaiah 39 • Mark 11",
+  "word_count": 3325,
+  "estimated_minutes": 16,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Mark 11:19",
+    "text": "And when even was come, he went out of the city.",
+    "reflection": "This is the kind of sentence to keep near when the day feels louder than your prayers."
+  },
+  "tomorrow_teaser": "Exodus 29-30 • Job 40 • Isaiah 40 • Mark 12",
+  "chapters": [
+    {
+      "book": "Exodus",
+      "chapter_number": 27,
+      "chapter_title": "Exodus 27",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits."
+        },
+        {
+          "verse": 2,
+          "text": "And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same: and thou shalt overlay it with brass."
+        },
+        {
+          "verse": 3,
+          "text": "And thou shalt make his pans to receive his ashes, and his shovels, and his basons, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make of brass."
+        },
+        {
+          "verse": 4,
+          "text": "And thou shalt make for it a grate of network of brass; and upon the net shalt thou make four brasen rings in the four corners thereof."
+        },
+        {
+          "verse": 5,
+          "text": "And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar."
+        },
+        {
+          "verse": 6,
+          "text": "And thou shalt make staves for the altar, staves of shittim wood, and overlay them with brass."
+        },
+        {
+          "verse": 7,
+          "text": "And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it."
+        },
+        {
+          "verse": 8,
+          "text": "Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make it."
+        },
+        {
+          "verse": 9,
+          "text": "And thou shalt make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen of an hundred cubits long for one side:"
+        },
+        {
+          "verse": 10,
+          "text": "And the twenty pillars thereof and their twenty sockets shall be of brass; the hooks of the pillars and their fillets shall be of silver."
+        },
+        {
+          "verse": 11,
+          "text": "And likewise for the north side in length there shall be hangings of an hundred cubits long, and his twenty pillars and their twenty sockets of brass; the hooks of the pillars and their fillets of silver."
+        },
+        {
+          "verse": 12,
+          "text": "And for the breadth of the court on the west side shall be hangings of fifty cubits: their pillars ten, and their sockets ten."
+        },
+        {
+          "verse": 13,
+          "text": "And the breadth of the court on the east side eastward shall be fifty cubits."
+        },
+        {
+          "verse": 14,
+          "text": "The hangings of one side of the gate shall be fifteen cubits: their pillars three, and their sockets three."
+        },
+        {
+          "verse": 15,
+          "text": "And on the other side shall be hangings fifteen cubits: their pillars three, and their sockets three."
+        },
+        {
+          "verse": 16,
+          "text": "And for the gate of the court shall be an hanging of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, wrought with needlework: and their pillars shall be four, and their sockets four."
+        },
+        {
+          "verse": 17,
+          "text": "All the pillars round about the court shall be filleted with silver; their hooks shall be of silver, and their sockets of brass."
+        },
+        {
+          "verse": 18,
+          "text": "The length of the court shall be an hundred cubits, and the breadth fifty every where, and the height five cubits of fine twined linen, and their sockets of brass."
+        },
+        {
+          "verse": 19,
+          "text": "All the vessels of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, shall be of brass."
+        },
+        {
+          "verse": 20,
+          "text": "And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always."
+        },
+        {
+          "verse": 21,
+          "text": "In the tabernacle of the congregation without the vail, which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: it shall be a statute for ever unto their generations on the behalf of the children of Israel."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 558
+    },
+    {
+      "book": "Exodus",
+      "chapter_number": 28,
+      "chapter_title": "Exodus 28",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons."
+        },
+        {
+          "verse": 2,
+          "text": "And thou shalt make holy garments for Aaron thy brother for glory and for beauty."
+        },
+        {
+          "verse": 3,
+          "text": "And thou shalt speak unto all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron’s garments to consecrate him, that he may minister unto me in the priest’s office."
+        },
+        {
+          "verse": 4,
+          "text": "And these are the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest’s office."
+        },
+        {
+          "verse": 5,
+          "text": "And they shall take gold, and blue, and purple, and scarlet, and fine linen."
+        },
+        {
+          "verse": 6,
+          "text": "And they shall make the ephod of gold, of blue, and of purple, of scarlet, and fine twined linen, with cunning work."
+        },
+        {
+          "verse": 7,
+          "text": "It shall have the two shoulderpieces thereof joined at the two edges thereof; and so it shall be joined together."
+        },
+        {
+          "verse": 8,
+          "text": "And the curious girdle of the ephod, which is upon it, shall be of the same, according to the work thereof; even of gold, of blue, and purple, and scarlet, and fine twined linen."
+        },
+        {
+          "verse": 9,
+          "text": "And thou shalt take two onyx stones, and grave on them the names of the children of Israel:"
+        },
+        {
+          "verse": 10,
+          "text": "Six of their names on one stone, and the other six names of the rest on the other stone, according to their birth."
+        },
+        {
+          "verse": 11,
+          "text": "With the work of an engraver in stone, like the engravings of a signet, shalt thou engrave the two stones with the names of the children of Israel: thou shalt make them to be set in ouches of gold."
+        },
+        {
+          "verse": 12,
+          "text": "And thou shalt put the two stones upon the shoulders of the ephod for stones of memorial unto the children of Israel: and Aaron shall bear their names before the LORD upon his two shoulders for a memorial."
+        },
+        {
+          "verse": 13,
+          "text": "And thou shalt make ouches of gold;"
+        },
+        {
+          "verse": 14,
+          "text": "And two chains of pure gold at the ends; of wreathen work shalt thou make them, and fasten the wreathen chains to the ouches."
+        },
+        {
+          "verse": 15,
+          "text": "And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; of gold, of blue, and of purple, and of scarlet, and of fine twined linen, shalt thou make it."
+        },
+        {
+          "verse": 16,
+          "text": "Foursquare it shall be being doubled; a span shall be the length thereof, and a span shall be the breadth thereof."
+        },
+        {
+          "verse": 17,
+          "text": "And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row."
+        },
+        {
+          "verse": 18,
+          "text": "And the second row shall be an emerald, a sapphire, and a diamond."
+        },
+        {
+          "verse": 19,
+          "text": "And the third row a ligure, an agate, and an amethyst."
+        },
+        {
+          "verse": 20,
+          "text": "And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings."
+        },
+        {
+          "verse": 21,
+          "text": "And the stones shall be with the names of the children of Israel, twelve, according to their names, like the engravings of a signet; every one with his name shall they be according to the twelve tribes."
+        },
+        {
+          "verse": 22,
+          "text": "And thou shalt make upon the breastplate chains at the ends of wreathen work of pure gold."
+        },
+        {
+          "verse": 23,
+          "text": "And thou shalt make upon the breastplate two rings of gold, and shalt put the two rings on the two ends of the breastplate."
+        },
+        {
+          "verse": 24,
+          "text": "And thou shalt put the two wreathen chains of gold in the two rings which are on the ends of the breastplate."
+        },
+        {
+          "verse": 25,
+          "text": "And the other two ends of the two wreathen chains thou shalt fasten in the two ouches, and put them on the shoulderpieces of the ephod before it."
+        },
+        {
+          "verse": 26,
+          "text": "And thou shalt make two rings of gold, and thou shalt put them upon the two ends of the breastplate in the border thereof, which is in the side of the ephod inward."
+        },
+        {
+          "verse": 27,
+          "text": "And two other rings of gold thou shalt make, and shalt put them on the two sides of the ephod underneath, toward the forepart thereof, over against the other coupling thereof, above the curious girdle of the ephod."
+        },
+        {
+          "verse": 28,
+          "text": "And they shall bind the breastplate by the rings thereof unto the rings of the ephod with a lace of blue, that it may be above the curious girdle of the ephod, and that the breastplate be not loosed from the ephod."
+        },
+        {
+          "verse": 29,
+          "text": "And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy place, for a memorial before the LORD continually."
+        },
+        {
+          "verse": 30,
+          "text": "And thou shalt put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron’s heart, when he goeth in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually."
+        },
+        {
+          "verse": 31,
+          "text": "And thou shalt make the robe of the ephod all of blue."
+        },
+        {
+          "verse": 32,
+          "text": "And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent."
+        },
+        {
+          "verse": 33,
+          "text": "And beneath upon the hem of it thou shalt make pomegranates of blue, and of purple, and of scarlet, round about the hem thereof; and bells of gold between them round about:"
+        },
+        {
+          "verse": 34,
+          "text": "A golden bell and a pomegranate, a golden bell and a pomegranate, upon the hem of the robe round about."
+        },
+        {
+          "verse": 35,
+          "text": "And it shall be upon Aaron to minister: and his sound shall be heard when he goeth in unto the holy place before the LORD, and when he cometh out, that he die not."
+        },
+        {
+          "verse": 36,
+          "text": "And thou shalt make a plate of pure gold, and grave upon it, like the engravings of a signet, HOLINESS TO THE LORD."
+        },
+        {
+          "verse": 37,
+          "text": "And thou shalt put it on a blue lace, that it may be upon the mitre; upon the forefront of the mitre it shall be."
+        },
+        {
+          "verse": 38,
+          "text": "And it shall be upon Aaron’s forehead, that Aaron may bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts; and it shall be always upon his forehead, that they may be accepted before the LORD."
+        },
+        {
+          "verse": 39,
+          "text": "And thou shalt embroider the coat of fine linen, and thou shalt make the mitre of fine linen, and thou shalt make the girdle of needlework."
+        },
+        {
+          "verse": 40,
+          "text": "And for Aaron’s sons thou shalt make coats, and thou shalt make for them girdles, and bonnets shalt thou make for them, for glory and for beauty."
+        },
+        {
+          "verse": 41,
+          "text": "And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office."
+        },
+        {
+          "verse": 42,
+          "text": "And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:"
+        },
+        {
+          "verse": 43,
+          "text": "And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy place; that they bear not iniquity, and die: it shall be a statute for ever unto him and his seed after him."
+        }
+      ],
+      "verse_count": 43,
+      "word_count": 1244
+    },
+    {
+      "book": "Job",
+      "chapter_number": 39,
+      "chapter_title": "Job 39",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?"
+        },
+        {
+          "verse": 2,
+          "text": "Canst thou number the months that they fulfil? or knowest thou the time when they bring forth?"
+        },
+        {
+          "verse": 3,
+          "text": "They bow themselves, they bring forth their young ones, they cast out their sorrows."
+        },
+        {
+          "verse": 4,
+          "text": "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them."
+        },
+        {
+          "verse": 5,
+          "text": "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?"
+        },
+        {
+          "verse": 6,
+          "text": "Whose house I have made the wilderness, and the barren land his dwellings."
+        },
+        {
+          "verse": 7,
+          "text": "He scorneth the multitude of the city, neither regardeth he the crying of the driver."
+        },
+        {
+          "verse": 8,
+          "text": "The range of the mountains is his pasture, and he searcheth after every green thing."
+        },
+        {
+          "verse": 9,
+          "text": "Will the unicorn be willing to serve thee, or abide by thy crib?"
+        },
+        {
+          "verse": 10,
+          "text": "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?"
+        },
+        {
+          "verse": 11,
+          "text": "Wilt thou trust him, because his strength is great? or wilt thou leave thy labour to him?"
+        },
+        {
+          "verse": 12,
+          "text": "Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?"
+        },
+        {
+          "verse": 13,
+          "text": "Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?"
+        },
+        {
+          "verse": 14,
+          "text": "Which leaveth her eggs in the earth, and warmeth them in dust,"
+        },
+        {
+          "verse": 15,
+          "text": "And forgetteth that the foot may crush them, or that the wild beast may break them."
+        },
+        {
+          "verse": 16,
+          "text": "She is hardened against her young ones, as though they were not hers: her labour is in vain without fear;"
+        },
+        {
+          "verse": 17,
+          "text": "Because God hath deprived her of wisdom, neither hath he imparted to her understanding."
+        },
+        {
+          "verse": 18,
+          "text": "What time she lifteth up herself on high, she scorneth the horse and his rider."
+        },
+        {
+          "verse": 19,
+          "text": "Hast thou given the horse strength? hast thou clothed his neck with thunder?"
+        },
+        {
+          "verse": 20,
+          "text": "Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible."
+        },
+        {
+          "verse": 21,
+          "text": "He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men."
+        },
+        {
+          "verse": 22,
+          "text": "He mocketh at fear, and is not affrighted; neither turneth he back from the sword."
+        },
+        {
+          "verse": 23,
+          "text": "The quiver rattleth against him, the glittering spear and the shield."
+        },
+        {
+          "verse": 24,
+          "text": "He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet."
+        },
+        {
+          "verse": 25,
+          "text": "He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting."
+        },
+        {
+          "verse": 26,
+          "text": "Doth the hawk fly by thy wisdom, and stretch her wings toward the south?"
+        },
+        {
+          "verse": 27,
+          "text": "Doth the eagle mount up at thy command, and make her nest on high?"
+        },
+        {
+          "verse": 28,
+          "text": "She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place."
+        },
+        {
+          "verse": 29,
+          "text": "From thence she seeketh the prey, and her eyes behold afar off."
+        },
+        {
+          "verse": 30,
+          "text": "Her young ones also suck up blood: and where the slain are, there is she."
+        }
+      ],
+      "verse_count": 30,
+      "word_count": 477
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 39,
+      "chapter_title": "Isaiah 39",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered."
+        },
+        {
+          "verse": 2,
+          "text": "And Hezekiah was glad of them, and shewed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not."
+        },
+        {
+          "verse": 3,
+          "text": "Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country unto me, even from Babylon."
+        },
+        {
+          "verse": 4,
+          "text": "Then said he, What have they seen in thine house? And Hezekiah answered, All that is in mine house have they seen: there is nothing among my treasures that I have not shewed them."
+        },
+        {
+          "verse": 5,
+          "text": "Then said Isaiah to Hezekiah, Hear the word of the LORD of hosts:"
+        },
+        {
+          "verse": 6,
+          "text": "Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store until this day, shall be carried to Babylon: nothing shall be left, saith the LORD."
+        },
+        {
+          "verse": 7,
+          "text": "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon."
+        },
+        {
+          "verse": 8,
+          "text": "Then said Hezekiah to Isaiah, Good is the word of the LORD which thou hast spoken. He said moreover, For there shall be peace and truth in my days."
+        }
+      ],
+      "verse_count": 8,
+      "word_count": 268
+    },
+    {
+      "book": "Mark",
+      "chapter_number": 11,
+      "chapter_title": "Mark 11",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,"
+        },
+        {
+          "verse": 2,
+          "text": "And saith unto them, Go your way into the village over against you: and as soon as ye be entered into it, ye shall find a colt tied, whereon never man sat; loose him, and bring him."
+        },
+        {
+          "verse": 3,
+          "text": "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither."
+        },
+        {
+          "verse": 4,
+          "text": "And they went their way, and found the colt tied by the door without in a place where two ways met; and they loose him."
+        },
+        {
+          "verse": 5,
+          "text": "And certain of them that stood there said unto them, What do ye, loosing the colt?"
+        },
+        {
+          "verse": 6,
+          "text": "And they said unto them even as Jesus had commanded: and they let them go."
+        },
+        {
+          "verse": 7,
+          "text": "And they brought the colt to Jesus, and cast their garments on him; and he sat upon him."
+        },
+        {
+          "verse": 8,
+          "text": "And many spread their garments in the way: and others cut down branches off the trees, and strawed them in the way."
+        },
+        {
+          "verse": 9,
+          "text": "And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that cometh in the name of the Lord:"
+        },
+        {
+          "verse": 10,
+          "text": "Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest."
+        },
+        {
+          "verse": 11,
+          "text": "And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve."
+        },
+        {
+          "verse": 12,
+          "text": "And on the morrow, when they were come from Bethany, he was hungry:"
+        },
+        {
+          "verse": 13,
+          "text": "And seeing a fig tree afar off having leaves, he came, if haply he might find any thing thereon: and when he came to it, he found nothing but leaves; for the time of figs was not yet."
+        },
+        {
+          "verse": 14,
+          "text": "And Jesus answered and said unto it, No man eat fruit of thee hereafter for ever. And his disciples heard it."
+        },
+        {
+          "verse": 15,
+          "text": "And they come to Jerusalem: and Jesus went into the temple, and began to cast out them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves;"
+        },
+        {
+          "verse": 16,
+          "text": "And would not suffer that any man should carry any vessel through the temple."
+        },
+        {
+          "verse": 17,
+          "text": "And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves."
+        },
+        {
+          "verse": 18,
+          "text": "And the scribes and chief priests heard it, and sought how they might destroy him: for they feared him, because all the people was astonished at his doctrine."
+        },
+        {
+          "verse": 19,
+          "text": "And when even was come, he went out of the city."
+        },
+        {
+          "verse": 20,
+          "text": "And in the morning, as they passed by, they saw the fig tree dried up from the roots."
+        },
+        {
+          "verse": 21,
+          "text": "And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away."
+        },
+        {
+          "verse": 22,
+          "text": "And Jesus answering saith unto them, Have faith in God."
+        },
+        {
+          "verse": 23,
+          "text": "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith."
+        },
+        {
+          "verse": 24,
+          "text": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them."
+        },
+        {
+          "verse": 25,
+          "text": "And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses."
+        },
+        {
+          "verse": 26,
+          "text": "But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses."
+        },
+        {
+          "verse": 27,
+          "text": "And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,"
+        },
+        {
+          "verse": 28,
+          "text": "And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?"
+        },
+        {
+          "verse": 29,
+          "text": "And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things."
+        },
+        {
+          "verse": 30,
+          "text": "The baptism of John, was it from heaven, or of men? answer me."
+        },
+        {
+          "verse": 31,
+          "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him?"
+        },
+        {
+          "verse": 32,
+          "text": "But if we shall say, Of men; they feared the people: for all men counted John, that he was a prophet indeed."
+        },
+        {
+          "verse": 33,
+          "text": "And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things."
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 778
+    }
+  ]
+}

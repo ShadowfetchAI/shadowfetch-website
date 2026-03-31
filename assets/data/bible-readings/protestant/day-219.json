@@ -1,0 +1,480 @@
+{
+  "day_number": 219,
+  "references": "2 Samuel 23 • Proverbs 27 • Micah 5 • James 2",
+  "word_count": 2318,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Proverbs 27:5",
+    "text": "Open rebuke is better than secret love.",
+    "reflection": "This is the kind of sentence to keep near when the day feels louder than your prayers."
+  },
+  "tomorrow_teaser": "2 Samuel 24 • Proverbs 28 • Micah 6 • James 3",
+  "chapters": [
+    {
+      "book": "2 Samuel",
+      "chapter_number": 23,
+      "chapter_title": "2 Samuel 23",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,"
+        },
+        {
+          "verse": 2,
+          "text": "The Spirit of the LORD spake by me, and his word was in my tongue."
+        },
+        {
+          "verse": 3,
+          "text": "The God of Israel said, the Rock of Israel spake to me, He that ruleth over men must be just, ruling in the fear of God."
+        },
+        {
+          "verse": 4,
+          "text": "And he shall be as the light of the morning, when the sun riseth, even a morning without clouds; as the tender grass springing out of the earth by clear shining after rain."
+        },
+        {
+          "verse": 5,
+          "text": "Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he make it not to grow."
+        },
+        {
+          "verse": 6,
+          "text": "But the sons of Belial shall be all of them as thorns thrust away, because they cannot be taken with hands:"
+        },
+        {
+          "verse": 7,
+          "text": "But the man that shall touch them must be fenced with iron and the staff of a spear; and they shall be utterly burned with fire in the same place."
+        },
+        {
+          "verse": 8,
+          "text": "These be the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite: he lift up his spear against eight hundred, whom he slew at one time."
+        },
+        {
+          "verse": 9,
+          "text": "And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away:"
+        },
+        {
+          "verse": 10,
+          "text": "He arose, and smote the Philistines until his hand was weary, and his hand clave unto the sword: and the LORD wrought a great victory that day; and the people returned after him only to spoil."
+        },
+        {
+          "verse": 11,
+          "text": "And after him was Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines."
+        },
+        {
+          "verse": 12,
+          "text": "But he stood in the midst of the ground, and defended it, and slew the Philistines: and the LORD wrought a great victory."
+        },
+        {
+          "verse": 13,
+          "text": "And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim."
+        },
+        {
+          "verse": 14,
+          "text": "And David was then in an hold, and the garrison of the Philistines was then in Bethlehem."
+        },
+        {
+          "verse": 15,
+          "text": "And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, which is by the gate!"
+        },
+        {
+          "verse": 16,
+          "text": "And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the LORD."
+        },
+        {
+          "verse": 17,
+          "text": "And he said, Be it far from me, O LORD, that I should do this: is not this the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men."
+        },
+        {
+          "verse": 18,
+          "text": "And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, and slew them, and had the name among three."
+        },
+        {
+          "verse": 19,
+          "text": "Was he not most honourable of three? therefore he was their captain: howbeit he attained not unto the first three."
+        },
+        {
+          "verse": 20,
+          "text": "And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lionlike men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:"
+        },
+        {
+          "verse": 21,
+          "text": "And he slew an Egyptian, a goodly man: and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear."
+        },
+        {
+          "verse": 22,
+          "text": "These things did Benaiah the son of Jehoiada, and had the name among three mighty men."
+        },
+        {
+          "verse": 23,
+          "text": "He was more honourable than the thirty, but he attained not to the first three. And David set him over his guard."
+        },
+        {
+          "verse": 24,
+          "text": "Asahel the brother of Joab was one of the thirty; Elhanan the son of Dodo of Bethlehem,"
+        },
+        {
+          "verse": 25,
+          "text": "Shammah the Harodite, Elika the Harodite,"
+        },
+        {
+          "verse": 26,
+          "text": "Helez the Paltite, Ira the son of Ikkesh the Tekoite,"
+        },
+        {
+          "verse": 27,
+          "text": "Abiezer the Anethothite, Mebunnai the Hushathite,"
+        },
+        {
+          "verse": 28,
+          "text": "Zalmon the Ahohite, Maharai the Netophathite,"
+        },
+        {
+          "verse": 29,
+          "text": "Heleb the son of Baanah, a Netophathite, Ittai the son of Ribai out of Gibeah of the children of Benjamin,"
+        },
+        {
+          "verse": 30,
+          "text": "Benaiah the Pirathonite, Hiddai of the brooks of Gaash,"
+        },
+        {
+          "verse": 31,
+          "text": "Abialbon the Arbathite, Azmaveth the Barhumite,"
+        },
+        {
+          "verse": 32,
+          "text": "Eliahba the Shaalbonite, of the sons of Jashen, Jonathan,"
+        },
+        {
+          "verse": 33,
+          "text": "Shammah the Hararite, Ahiam the son of Sharar the Hararite,"
+        },
+        {
+          "verse": 34,
+          "text": "Eliphelet the son of Ahasbai, the son of the Maachathite, Eliam the son of Ahithophel the Gilonite,"
+        },
+        {
+          "verse": 35,
+          "text": "Hezrai the Carmelite, Paarai the Arbite,"
+        },
+        {
+          "verse": 36,
+          "text": "Igal the son of Nathan of Zobah, Bani the Gadite,"
+        },
+        {
+          "verse": 37,
+          "text": "Zelek the Ammonite, Nahari the Beerothite, armourbearer to Joab the son of Zeruiah,"
+        },
+        {
+          "verse": 38,
+          "text": "Ira an Ithrite, Gareb an Ithrite,"
+        },
+        {
+          "verse": 39,
+          "text": "Uriah the Hittite: thirty and seven in all."
+        }
+      ],
+      "verse_count": 39,
+      "word_count": 879
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 27,
+      "chapter_title": "Proverbs 27",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth."
+        },
+        {
+          "verse": 2,
+          "text": "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips."
+        },
+        {
+          "verse": 3,
+          "text": "A stone is heavy, and the sand weighty; but a fool’s wrath is heavier than them both."
+        },
+        {
+          "verse": 4,
+          "text": "Wrath is cruel, and anger is outrageous; but who is able to stand before envy?"
+        },
+        {
+          "verse": 5,
+          "text": "Open rebuke is better than secret love."
+        },
+        {
+          "verse": 6,
+          "text": "Faithful are the wounds of a friend; but the kisses of an enemy are deceitful."
+        },
+        {
+          "verse": 7,
+          "text": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet."
+        },
+        {
+          "verse": 8,
+          "text": "As a bird that wandereth from her nest, so is a man that wandereth from his place."
+        },
+        {
+          "verse": 9,
+          "text": "Ointment and perfume rejoice the heart: so doth the sweetness of a man’s friend by hearty counsel."
+        },
+        {
+          "verse": 10,
+          "text": "Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: for better is a neighbour that is near than a brother far off."
+        },
+        {
+          "verse": 11,
+          "text": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me."
+        },
+        {
+          "verse": 12,
+          "text": "A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished."
+        },
+        {
+          "verse": 13,
+          "text": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman."
+        },
+        {
+          "verse": 14,
+          "text": "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him."
+        },
+        {
+          "verse": 15,
+          "text": "A continual dropping in a very rainy day and a contentious woman are alike."
+        },
+        {
+          "verse": 16,
+          "text": "Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself."
+        },
+        {
+          "verse": 17,
+          "text": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
+        },
+        {
+          "verse": 18,
+          "text": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured."
+        },
+        {
+          "verse": 19,
+          "text": "As in water face answereth to face, so the heart of man to man."
+        },
+        {
+          "verse": 20,
+          "text": "Hell and destruction are never full; so the eyes of man are never satisfied."
+        },
+        {
+          "verse": 21,
+          "text": "As the fining pot for silver, and the furnace for gold; so is a man to his praise."
+        },
+        {
+          "verse": 22,
+          "text": "Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him."
+        },
+        {
+          "verse": 23,
+          "text": "Be thou diligent to know the state of thy flocks, and look well to thy herds."
+        },
+        {
+          "verse": 24,
+          "text": "For riches are not for ever: and doth the crown endure to every generation?"
+        },
+        {
+          "verse": 25,
+          "text": "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered."
+        },
+        {
+          "verse": 26,
+          "text": "The lambs are for thy clothing, and the goats are the price of the field."
+        },
+        {
+          "verse": 27,
+          "text": "And thou shalt have goats’ milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 464
+    },
+    {
+      "book": "Micah",
+      "chapter_number": 5,
+      "chapter_title": "Micah 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek."
+        },
+        {
+          "verse": 2,
+          "text": "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting."
+        },
+        {
+          "verse": 3,
+          "text": "Therefore will he give them up, until the time that she which travaileth hath brought forth: then the remnant of his brethren shall return unto the children of Israel."
+        },
+        {
+          "verse": 4,
+          "text": "And he shall stand and feed in the strength of the LORD, in the majesty of the name of the LORD his God; and they shall abide: for now shall he be great unto the ends of the earth."
+        },
+        {
+          "verse": 5,
+          "text": "And this man shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men."
+        },
+        {
+          "verse": 6,
+          "text": "And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our borders."
+        },
+        {
+          "verse": 7,
+          "text": "And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men."
+        },
+        {
+          "verse": 8,
+          "text": "And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver."
+        },
+        {
+          "verse": 9,
+          "text": "Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off."
+        },
+        {
+          "verse": 10,
+          "text": "And it shall come to pass in that day, saith the LORD, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots:"
+        },
+        {
+          "verse": 11,
+          "text": "And I will cut off the cities of thy land, and throw down all thy strong holds:"
+        },
+        {
+          "verse": 12,
+          "text": "And I will cut off witchcrafts out of thine hand; and thou shalt have no more soothsayers:"
+        },
+        {
+          "verse": 13,
+          "text": "Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands."
+        },
+        {
+          "verse": 14,
+          "text": "And I will pluck up thy groves out of the midst of thee: so will I destroy thy cities."
+        },
+        {
+          "verse": 15,
+          "text": "And I will execute vengeance in anger and fury upon the heathen, such as they have not heard."
+        }
+      ],
+      "verse_count": 15,
+      "word_count": 447
+    },
+    {
+      "book": "James",
+      "chapter_number": 2,
+      "chapter_title": "James 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
+        },
+        {
+          "verse": 2,
+          "text": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"
+        },
+        {
+          "verse": 3,
+          "text": "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:"
+        },
+        {
+          "verse": 4,
+          "text": "Are ye not then partial in yourselves, and are become judges of evil thoughts?"
+        },
+        {
+          "verse": 5,
+          "text": "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?"
+        },
+        {
+          "verse": 6,
+          "text": "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
+        },
+        {
+          "verse": 7,
+          "text": "Do not they blaspheme that worthy name by the which ye are called?"
+        },
+        {
+          "verse": 8,
+          "text": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+        },
+        {
+          "verse": 9,
+          "text": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
+        },
+        {
+          "verse": 10,
+          "text": "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all."
+        },
+        {
+          "verse": 11,
+          "text": "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law."
+        },
+        {
+          "verse": 12,
+          "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+        },
+        {
+          "verse": 13,
+          "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
+        },
+        {
+          "verse": 14,
+          "text": "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?"
+        },
+        {
+          "verse": 15,
+          "text": "If a brother or sister be naked, and destitute of daily food,"
+        },
+        {
+          "verse": 16,
+          "text": "And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?"
+        },
+        {
+          "verse": 17,
+          "text": "Even so faith, if it hath not works, is dead, being alone."
+        },
+        {
+          "verse": 18,
+          "text": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
+        },
+        {
+          "verse": 19,
+          "text": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."
+        },
+        {
+          "verse": 20,
+          "text": "But wilt thou know, O vain man, that faith without works is dead?"
+        },
+        {
+          "verse": 21,
+          "text": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
+        },
+        {
+          "verse": 22,
+          "text": "Seest thou how faith wrought with his works, and by works was faith made perfect?"
+        },
+        {
+          "verse": 23,
+          "text": "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
+        },
+        {
+          "verse": 24,
+          "text": "Ye see then how that by works a man is justified, and not by faith only."
+        },
+        {
+          "verse": 25,
+          "text": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?"
+        },
+        {
+          "verse": 26,
+          "text": "For as the body without the spirit is dead, so faith without works is dead also."
+        }
+      ],
+      "verse_count": 26,
+      "word_count": 528
+    }
+  ]
+}

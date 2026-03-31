@@ -1,0 +1,396 @@
+{
+  "day_number": 206,
+  "references": "2 Samuel 10 • Proverbs 14 • Amos 6 • Hebrews 2",
+  "word_count": 2056,
+  "estimated_minutes": 10,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Proverbs 14:9",
+    "text": "Fools make a mock at sin: but among the righteous there is favour.",
+    "reflection": "Read this line twice and let it slow the room down before anything else speaks."
+  },
+  "tomorrow_teaser": "2 Samuel 11 • Proverbs 15 • Amos 7 • Hebrews 3",
+  "chapters": [
+    {
+      "book": "2 Samuel",
+      "chapter_number": 10,
+      "chapter_title": "2 Samuel 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead."
+        },
+        {
+          "verse": 2,
+          "text": "Then said David, I will shew kindness unto Hanun the son of Nahash, as his father shewed kindness unto me. And David sent to comfort him by the hand of his servants for his father. And David’s servants came into the land of the children of Ammon."
+        },
+        {
+          "verse": 3,
+          "text": "And the princes of the children of Ammon said unto Hanun their lord, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? hath not David rather sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?"
+        },
+        {
+          "verse": 4,
+          "text": "Wherefore Hanun took David’s servants, and shaved off the one half of their beards, and cut off their garments in the middle, even to their buttocks, and sent them away."
+        },
+        {
+          "verse": 5,
+          "text": "When they told it unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Tarry at Jericho until your beards be grown, and then return."
+        },
+        {
+          "verse": 6,
+          "text": "And when the children of Ammon saw that they stank before David, the children of Ammon sent and hired the Syrians of Bethrehob, and the Syrians of Zoba, twenty thousand footmen, and of king Maacah a thousand men, and of Ishtob twelve thousand men."
+        },
+        {
+          "verse": 7,
+          "text": "And when David heard of it, he sent Joab, and all the host of the mighty men."
+        },
+        {
+          "verse": 8,
+          "text": "And the children of Ammon came out, and put the battle in array at the entering in of the gate: and the Syrians of Zoba, and of Rehob, and Ishtob, and Maacah, were by themselves in the field."
+        },
+        {
+          "verse": 9,
+          "text": "When Joab saw that the front of the battle was against him before and behind, he chose of all the choice men of Israel, and put them in array against the Syrians:"
+        },
+        {
+          "verse": 10,
+          "text": "And the rest of the people he delivered into the hand of Abishai his brother, that he might put them in array against the children of Ammon."
+        },
+        {
+          "verse": 11,
+          "text": "And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will come and help thee."
+        },
+        {
+          "verse": 12,
+          "text": "Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good."
+        },
+        {
+          "verse": 13,
+          "text": "And Joab drew nigh, and the people that were with him, unto the battle against the Syrians: and they fled before him."
+        },
+        {
+          "verse": 14,
+          "text": "And when the children of Ammon saw that the Syrians were fled, then fled they also before Abishai, and entered into the city. So Joab returned from the children of Ammon, and came to Jerusalem."
+        },
+        {
+          "verse": 15,
+          "text": "And when the Syrians saw that they were smitten before Israel, they gathered themselves together."
+        },
+        {
+          "verse": 16,
+          "text": "And Hadarezer sent, and brought out the Syrians that were beyond the river: and they came to Helam; and Shobach the captain of the host of Hadarezer went before them."
+        },
+        {
+          "verse": 17,
+          "text": "And when it was told David, he gathered all Israel together, and passed over Jordan, and came to Helam. And the Syrians set themselves in array against David, and fought with him."
+        },
+        {
+          "verse": 18,
+          "text": "And the Syrians fled before Israel; and David slew the men of seven hundred chariots of the Syrians, and forty thousand horsemen, and smote Shobach the captain of their host, who died there."
+        },
+        {
+          "verse": 19,
+          "text": "And when all the kings that were servants to Hadarezer saw that they were smitten before Israel, they made peace with Israel, and served them. So the Syrians feared to help the children of Ammon any more."
+        }
+      ],
+      "verse_count": 19,
+      "word_count": 610
+    },
+    {
+      "book": "Proverbs",
+      "chapter_number": 14,
+      "chapter_title": "Proverbs 14",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands."
+        },
+        {
+          "verse": 2,
+          "text": "He that walketh in his uprightness feareth the LORD: but he that is perverse in his ways despiseth him."
+        },
+        {
+          "verse": 3,
+          "text": "In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them."
+        },
+        {
+          "verse": 4,
+          "text": "Where no oxen are, the crib is clean: but much increase is by the strength of the ox."
+        },
+        {
+          "verse": 5,
+          "text": "A faithful witness will not lie: but a false witness will utter lies."
+        },
+        {
+          "verse": 6,
+          "text": "A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth."
+        },
+        {
+          "verse": 7,
+          "text": "Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge."
+        },
+        {
+          "verse": 8,
+          "text": "The wisdom of the prudent is to understand his way: but the folly of fools is deceit."
+        },
+        {
+          "verse": 9,
+          "text": "Fools make a mock at sin: but among the righteous there is favour."
+        },
+        {
+          "verse": 10,
+          "text": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy."
+        },
+        {
+          "verse": 11,
+          "text": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish."
+        },
+        {
+          "verse": 12,
+          "text": "There is a way which seemeth right unto a man, but the end thereof are the ways of death."
+        },
+        {
+          "verse": 13,
+          "text": "Even in laughter the heart is sorrowful; and the end of that mirth is heaviness."
+        },
+        {
+          "verse": 14,
+          "text": "The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself."
+        },
+        {
+          "verse": 15,
+          "text": "The simple believeth every word: but the prudent man looketh well to his going."
+        },
+        {
+          "verse": 16,
+          "text": "A wise man feareth, and departeth from evil: but the fool rageth, and is confident."
+        },
+        {
+          "verse": 17,
+          "text": "He that is soon angry dealeth foolishly: and a man of wicked devices is hated."
+        },
+        {
+          "verse": 18,
+          "text": "The simple inherit folly: but the prudent are crowned with knowledge."
+        },
+        {
+          "verse": 19,
+          "text": "The evil bow before the good; and the wicked at the gates of the righteous."
+        },
+        {
+          "verse": 20,
+          "text": "The poor is hated even of his own neighbour: but the rich hath many friends."
+        },
+        {
+          "verse": 21,
+          "text": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he."
+        },
+        {
+          "verse": 22,
+          "text": "Do they not err that devise evil? but mercy and truth shall be to them that devise good."
+        },
+        {
+          "verse": 23,
+          "text": "In all labour there is profit: but the talk of the lips tendeth only to penury."
+        },
+        {
+          "verse": 24,
+          "text": "The crown of the wise is their riches: but the foolishness of fools is folly."
+        },
+        {
+          "verse": 25,
+          "text": "A true witness delivereth souls: but a deceitful witness speaketh lies."
+        },
+        {
+          "verse": 26,
+          "text": "In the fear of the LORD is strong confidence: and his children shall have a place of refuge."
+        },
+        {
+          "verse": 27,
+          "text": "The fear of the LORD is a fountain of life, to depart from the snares of death."
+        },
+        {
+          "verse": 28,
+          "text": "In the multitude of people is the king’s honour: but in the want of people is the destruction of the prince."
+        },
+        {
+          "verse": 29,
+          "text": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly."
+        },
+        {
+          "verse": 30,
+          "text": "A sound heart is the life of the flesh: but envy the rottenness of the bones."
+        },
+        {
+          "verse": 31,
+          "text": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor."
+        },
+        {
+          "verse": 32,
+          "text": "The wicked is driven away in his wickedness: but the righteous hath hope in his death."
+        },
+        {
+          "verse": 33,
+          "text": "Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known."
+        },
+        {
+          "verse": 34,
+          "text": "Righteousness exalteth a nation: but sin is a reproach to any people."
+        },
+        {
+          "verse": 35,
+          "text": "The king’s favour is toward a wise servant: but his wrath is against him that causeth shame."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 574
+    },
+    {
+      "book": "Amos",
+      "chapter_number": 6,
+      "chapter_title": "Amos 6",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!"
+        },
+        {
+          "verse": 2,
+          "text": "Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?"
+        },
+        {
+          "verse": 3,
+          "text": "Ye that put far away the evil day, and cause the seat of violence to come near;"
+        },
+        {
+          "verse": 4,
+          "text": "That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;"
+        },
+        {
+          "verse": 5,
+          "text": "That chant to the sound of the viol, and invent to themselves instruments of musick, like David;"
+        },
+        {
+          "verse": 6,
+          "text": "That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore now shall they go captive with the first that go captive, and the banquet of them that stretched themselves shall be removed."
+        },
+        {
+          "verse": 8,
+          "text": "The Lord GOD hath sworn by himself, saith the LORD the God of hosts, I abhor the excellency of Jacob, and hate his palaces: therefore will I deliver up the city with all that is therein."
+        },
+        {
+          "verse": 9,
+          "text": "And it shall come to pass, if there remain ten men in one house, that they shall die."
+        },
+        {
+          "verse": 10,
+          "text": "And a man’s uncle shall take him up, and he that burneth him, to bring out the bones out of the house, and shall say unto him that is by the sides of the house, Is there yet any with thee? and he shall say, No. Then shall he say, Hold thy tongue: for we may not make mention of the name of the LORD."
+        },
+        {
+          "verse": 11,
+          "text": "For, behold, the LORD commandeth, and he will smite the great house with breaches, and the little house with clefts."
+        },
+        {
+          "verse": 12,
+          "text": "Shall horses run upon the rock? will one plow there with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:"
+        },
+        {
+          "verse": 13,
+          "text": "Ye which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?"
+        },
+        {
+          "verse": 14,
+          "text": "But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness."
+        }
+      ],
+      "verse_count": 14,
+      "word_count": 400
+    },
+    {
+      "book": "Hebrews",
+      "chapter_number": 2,
+      "chapter_title": "Hebrews 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip."
+        },
+        {
+          "verse": 2,
+          "text": "For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;"
+        },
+        {
+          "verse": 3,
+          "text": "How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;"
+        },
+        {
+          "verse": 4,
+          "text": "God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?"
+        },
+        {
+          "verse": 5,
+          "text": "For unto the angels hath he not put in subjection the world to come, whereof we speak."
+        },
+        {
+          "verse": 6,
+          "text": "But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?"
+        },
+        {
+          "verse": 7,
+          "text": "Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:"
+        },
+        {
+          "verse": 8,
+          "text": "Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him."
+        },
+        {
+          "verse": 9,
+          "text": "But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man."
+        },
+        {
+          "verse": 10,
+          "text": "For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings."
+        },
+        {
+          "verse": 11,
+          "text": "For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,"
+        },
+        {
+          "verse": 12,
+          "text": "Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee."
+        },
+        {
+          "verse": 13,
+          "text": "And again, I will put my trust in him. And again, Behold I and the children which God hath given me."
+        },
+        {
+          "verse": 14,
+          "text": "Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;"
+        },
+        {
+          "verse": 15,
+          "text": "And deliver them who through fear of death were all their lifetime subject to bondage."
+        },
+        {
+          "verse": 16,
+          "text": "For verily he took not on him the nature of angels; but he took on him the seed of Abraham."
+        },
+        {
+          "verse": 17,
+          "text": "Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people."
+        },
+        {
+          "verse": 18,
+          "text": "For in that he himself hath suffered being tempted, he is able to succour them that are tempted."
+        }
+      ],
+      "verse_count": 18,
+      "word_count": 472
+    }
+  ]
+}

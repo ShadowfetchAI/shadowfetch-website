@@ -1,0 +1,721 @@
+{
+  "day_number": 5,
+  "references": "Genesis 9-10 • Job 5 • Isaias 5 • Matthew 5",
+  "word_count": 3481,
+  "estimated_minutes": 17,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Matthew 5:2",
+    "text": "And opening his mouth he taught them, saying:",
+    "reflection": "Sometimes the holiest thing is staying with one clear line until your heart catches up to it."
+  },
+  "tomorrow_teaser": "Genesis 11-12 • Job 6 • Isaias 6 • Matthew 6",
+  "chapters": [
+    {
+      "book": "Genesis",
+      "chapter_number": 9,
+      "chapter_title": "Genesis 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And God blessed Noe and his sons. And he said to them: *Increase, and multiply, and fill the earth."
+        },
+        {
+          "verse": 2,
+          "text": "And let the fear and dread of you be upon all the beasts of the earth, and upon all the fowls of the air, and all that move upon the earth: all the fishes of the sea are delivered into your hand."
+        },
+        {
+          "verse": 3,
+          "text": "And every thing that moveth, and liveth shall be meat for you: even as the green herbs have I delivered them all to you:*"
+        },
+        {
+          "verse": 4,
+          "text": "Saving that flesh with blood you shall not eat.*"
+        },
+        {
+          "verse": 5,
+          "text": "For I will require the blood of your lives at the hand of every beast, and at the hand of man, at the hand of every man, and of his brother, will I require the life of man."
+        },
+        {
+          "verse": 6,
+          "text": "*Whosoever shall shed man's blood, his blood shall be shed: for man was made to the image of God.**"
+        },
+        {
+          "verse": 7,
+          "text": "*But increase you and multiply, and go upon the earth and fill it."
+        },
+        {
+          "verse": 8,
+          "text": "This also said God to Noe, and to his sons with him:"
+        },
+        {
+          "verse": 9,
+          "text": "Behold I will establish my covenant with you, and with your seed after you:"
+        },
+        {
+          "verse": 10,
+          "text": "And with every living soul that is with you, as well in all birds, as in cattle and beasts of the earth, that are come forth out of the ark, and in all the beasts of the earth."
+        },
+        {
+          "verse": 11,
+          "text": "*I will establish my covenant with you, and all flesh shall be no more destroyed with the waters of a flood, neither shall there be from henceforth a flood to waste the earth."
+        },
+        {
+          "verse": 12,
+          "text": "And God said: This is the sign of the covenant which I will give between me and you, and to every living soul that is with you, for perpetual generations."
+        },
+        {
+          "verse": 13,
+          "text": "I will set my bow in the clouds, and it shall be the sign of a covenant between me and between the earth."
+        },
+        {
+          "verse": 14,
+          "text": "*And when I shall cover the sky with clouds, my bow shall appear in the clouds:"
+        },
+        {
+          "verse": 15,
+          "text": "And I will remember my covenant with you, and with every living soul that beareth flesh: and there shall no more be waters of a flood to destroy all flesh."
+        },
+        {
+          "verse": 16,
+          "text": "And the bow shall be in the clouds, and I shall see it, and shall remember the everlasting covenant, that was made between God and every living soul of all flesh which is upon the earth."
+        },
+        {
+          "verse": 17,
+          "text": "And God said to Noe: This shall be the sign of the covenant, which I have established, between me and all flesh upon the earth."
+        },
+        {
+          "verse": 18,
+          "text": "And the sons of Noe, who came out of the ark, were Sem, Cham, and Japheth: and Cham is the father of Chanaan."
+        },
+        {
+          "verse": 19,
+          "text": "These three are the sons of Noe: and from these was all mankind spread over the whole earth."
+        },
+        {
+          "verse": 20,
+          "text": "And Noe a husbandman began to till the ground, and planted a vineyard."
+        },
+        {
+          "verse": 21,
+          "text": "And drinking of the wine was made drunk, and was uncovered in his tent."
+        },
+        {
+          "verse": 22,
+          "text": "Which when Cham the father of Chanaan had seen, to wit, that his father's nakedness was uncovered, he told it to his two brethren without."
+        },
+        {
+          "verse": 23,
+          "text": "But Sem and Japheth put a cloak upon their shoulders, and going backward, covered the nakedness of their father: and their faces were turned away, and they saw not their father's nakedness."
+        },
+        {
+          "verse": 24,
+          "text": "And Noe awaking from the wine, when he had learned what his younger son had done to him,"
+        },
+        {
+          "verse": 25,
+          "text": "He said: Cursed be Chanaan, a servant of servants shall he be unto his brethren."
+        },
+        {
+          "verse": 26,
+          "text": "And he said: Blessed be the Lord God of Sem, be Chanaan his servant."
+        },
+        {
+          "verse": 27,
+          "text": "May God enlarge Japheth, and may he dwell in the tents of Sem, and Chanaan be his servant."
+        },
+        {
+          "verse": 28,
+          "text": "And Noe lived after the flood three hundred and fifty years:"
+        },
+        {
+          "verse": 29,
+          "text": "And all his days were in the whole nine hundred and fifty years: and he died."
+        }
+      ],
+      "verse_count": 29,
+      "word_count": 638
+    },
+    {
+      "book": "Genesis",
+      "chapter_number": 10,
+      "chapter_title": "Genesis 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "These are the generations of the sons of Noe: Sem, Cham, and Japheth: and unto them sons were born after the flood.*"
+        },
+        {
+          "verse": 2,
+          "text": "The sons of Japheth: Gomer, and Magog, and Madai, and Javan, and Thubal, and Mosoch, and Thiras."
+        },
+        {
+          "verse": 3,
+          "text": "And the sons of Gomer: Ascenez and Riphath and Thogorma."
+        },
+        {
+          "verse": 4,
+          "text": "And the sons of Javan: Elisa and Tharsis, Cetthim, and Dodanim."
+        },
+        {
+          "verse": 5,
+          "text": "By these were divided the islands of the Gentiles in their lands, every one according to his tongue and their families in their nations."
+        },
+        {
+          "verse": 6,
+          "text": "And the sons of Cham: Chus, and Mesraim, and Phuth, and Chanaan."
+        },
+        {
+          "verse": 7,
+          "text": "And the sons of Chus: Saba and Hevila, and Sabatha, and Regma, and Sabatacha. The sons of Regma: Saba, and Dadan."
+        },
+        {
+          "verse": 8,
+          "text": "Now Chus begot Nemrod: he began to be mighty on the earth."
+        },
+        {
+          "verse": 9,
+          "text": "And he was a stout hunter before the Lord. Hence came a proverb: Even as Nemrod the stout hunter before the Lord."
+        },
+        {
+          "verse": 10,
+          "text": "And the beginning of his kingdom was Babylon, and Arach, and Achad, and Chalanne in the land of Sennaar."
+        },
+        {
+          "verse": 11,
+          "text": "Out of that land came forth Assur, and built Ninive, and the streets of the city, and Chale."
+        },
+        {
+          "verse": 12,
+          "text": "Resen also between Ninive and Chale: this is the great city."
+        },
+        {
+          "verse": 13,
+          "text": "And Mesraim begot Ludim, and Anamim, and Laabim, Nephthuim."
+        },
+        {
+          "verse": 14,
+          "text": "And Phetrusim, and Chasluim; of whom came forth the Philistines, and the Caphtorim."
+        },
+        {
+          "verse": 15,
+          "text": "And Chanaan begot Sidon, his first-born, the Hethite,"
+        },
+        {
+          "verse": 16,
+          "text": "And the Jebusite, and the Amorrhite, and the Gergesite."
+        },
+        {
+          "verse": 17,
+          "text": "The Hevite and the Aracite: the Sinite"
+        },
+        {
+          "verse": 18,
+          "text": "And the Aradian, the Samarite, and the Hamathite: and afterwards the families of the Chanaanites were spread abroad."
+        },
+        {
+          "verse": 19,
+          "text": "And the limits of Chanaan were from Sidon as one comes to Gerara even to Gaza, until thou enter Sodom and Gomorrha, and Adama, and Seboim even to Lesa."
+        },
+        {
+          "verse": 20,
+          "text": "These are the children of Cham in their kindreds and tongues, and generations, and lands, and nations."
+        },
+        {
+          "verse": 21,
+          "text": "Of Sem also the father of all children of Heber, the elder brother of Japheth, sons were born."
+        },
+        {
+          "verse": 22,
+          "text": "The sons of Sem: *Elam and Assur, and Arphaxad, and Lud, and Aram."
+        },
+        {
+          "verse": 23,
+          "text": "The sons of Aram: Us, and Hull, and Gether; and Mes."
+        },
+        {
+          "verse": 24,
+          "text": "But Arphaxad begot Sale, of whom was born Heber."
+        },
+        {
+          "verse": 25,
+          "text": "And to Heber were born two sons: the name of the one was Phaleg, because in his days was the earth divided: and his brother's name Jectan."
+        },
+        {
+          "verse": 26,
+          "text": "Which Jectan begot Elmodad, and Saleph, and Asarmoth, Jare,"
+        },
+        {
+          "verse": 27,
+          "text": "And Aduram, and Uzal, and Decla,"
+        },
+        {
+          "verse": 28,
+          "text": "And Ebal, and Abimael, Saba,"
+        },
+        {
+          "verse": 29,
+          "text": "And Ophir, and Hevila, and Jobab. All these were the sons of Jectan."
+        },
+        {
+          "verse": 30,
+          "text": "And their dwelling was from Messa as we go on as far as Sephar, a mountain in the east."
+        },
+        {
+          "verse": 31,
+          "text": "These are the children of Sem according to their kindreds and tongues, and countries in their nations."
+        },
+        {
+          "verse": 32,
+          "text": "These are the families of Noe, according to their peoples and nations. By these were the nations divided on the earth after the flood."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 480
+    },
+    {
+      "book": "Job",
+      "chapter_number": 5,
+      "chapter_title": "Job 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Call now, if there be any that will answer thee, and turn to some of the saints."
+        },
+        {
+          "verse": 2,
+          "text": "Anger indeed killeth the foolish, and envy slayeth the little one."
+        },
+        {
+          "verse": 3,
+          "text": "I have seen a fool with a strong root, and I cursed his beauty immediately."
+        },
+        {
+          "verse": 4,
+          "text": "His children shall be far from safety, and shall be destroyed in the gate, and there shall be none to deliver them."
+        },
+        {
+          "verse": 5,
+          "text": "Whose harvest the hungry shall eat, and the armed man shall take him by violence, and the thirsty shall drink up his riches."
+        },
+        {
+          "verse": 6,
+          "text": "Nothing upon earth is done without a cause, and sorrow doth not spring out of the ground."
+        },
+        {
+          "verse": 7,
+          "text": "Man is born to labour, and the bird to fly."
+        },
+        {
+          "verse": 8,
+          "text": "Wherefore I will pray to the Lord, and address my speech to God:"
+        },
+        {
+          "verse": 9,
+          "text": "Who doth great things, and unsearchable and wonderful things without number:"
+        },
+        {
+          "verse": 10,
+          "text": "Who giveth rain upon the face of the earth, and watereth all things with waters:"
+        },
+        {
+          "verse": 11,
+          "text": "Who setteth up the humble on high, and comforteth with health those that mourn."
+        },
+        {
+          "verse": 12,
+          "text": "Who bringeth to nought the designs of the malignant, so that their hands cannot accomplish what they had begun:"
+        },
+        {
+          "verse": 13,
+          "text": "*Who catcheth the wise in their craftiness, and disappointeth the counsel of the wicked:"
+        },
+        {
+          "verse": 14,
+          "text": "They shall meet with darkness in the day, and grope at noon-day as in the night."
+        },
+        {
+          "verse": 15,
+          "text": "But he shall save the needy from the sword of their mouth, and the poor from the hand of the violent."
+        },
+        {
+          "verse": 16,
+          "text": "And to the needy there shall he hope, but iniquity shall draw in her mouth."
+        },
+        {
+          "verse": 17,
+          "text": "Blessed is the man whom God correcteth: refuse not, therefore, the chastising of the Lord:"
+        },
+        {
+          "verse": 18,
+          "text": "For he woundeth, and cureth: he striketh, and his hands shall heal."
+        },
+        {
+          "verse": 19,
+          "text": "In six troubles he shall deliver thee, and in the seventh, evil shall not touch thee."
+        },
+        {
+          "verse": 20,
+          "text": "In famine he shall deliver thee from death; and in battle, from the hand of the sword."
+        },
+        {
+          "verse": 21,
+          "text": "Thou shalt be hidden from the scourge of the tongue: and thou shalt not fear calamity when it cometh."
+        },
+        {
+          "verse": 22,
+          "text": "In destruction and famine then shalt laugh: and thou shalt not be afraid of the beasts of the earth."
+        },
+        {
+          "verse": 23,
+          "text": "But thou shalt have a covenant with the stones of the lands, and the beasts of the earth shall be at pence with thee."
+        },
+        {
+          "verse": 24,
+          "text": "And thou shalt know that thy tabernacle is in peace, and visiting thy beauty, thou shalt not sin."
+        },
+        {
+          "verse": 25,
+          "text": "Thou shalt know also that thy seed shall be multiplied, and thy offspring like the grass of the earth."
+        },
+        {
+          "verse": 26,
+          "text": "Thou shalt enter into the grave in abundance, as a heap of wheat is brought in in its season."
+        },
+        {
+          "verse": 27,
+          "text": "Behold, this is even so, as we have searched out: which thou having heard, consider it thoroughly in thy mind."
+        }
+      ],
+      "verse_count": 27,
+      "word_count": 451
+    },
+    {
+      "book": "Isaias",
+      "chapter_number": 5,
+      "chapter_title": "Isaias 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I will *sing to my beloved the canticle of my cousin concerning his vineyard. My beloved had a vineyard on a hill in a fruitful place."
+        },
+        {
+          "verse": 2,
+          "text": "And he fenced it in, and picked the stones out of it, and planted it with the choicest vines, and built a tower in the midst thereof, and set up a wine-press therein: and he looked that it should bring forth grapes, and it brought forth wild grapes."
+        },
+        {
+          "verse": 3,
+          "text": "And now, O ye inhabitants of Jerusalem, and ye men of Juda, judge between me and my vineyard."
+        },
+        {
+          "verse": 4,
+          "text": "What is there that I ought to do more to my vineyard, that I have not done to it? was it that I looked that it should bring forth grapes, and it hath brought forth wild grapes?"
+        },
+        {
+          "verse": 5,
+          "text": "And now I will shew you what I will do to my vineyard. I will take away the hedge thereof, and it shall be wasted: I will break down the wall thereof, and it shall be trodden down."
+        },
+        {
+          "verse": 6,
+          "text": "And I will make it desolate: it shall not be pruned, and it shall not be digged: but briers and thorns shall come up: and I will command the clouds to rain no rain upon it."
+        },
+        {
+          "verse": 7,
+          "text": "Woe to you that join house to house, and lay field to field, even to the end of the place: shall you alone dwell in the midst of the earth?"
+        },
+        {
+          "verse": 8,
+          "text": "These things are in my ears, saith the Lord of hosts: unless many great and fair houses shall become desolate, without an inhabitant."
+        },
+        {
+          "verse": 9,
+          "text": "For ten acres of vineyard shall yield one little measure, and thirty bushels of seed shall yield three bushels."
+        },
+        {
+          "verse": 10,
+          "text": "Woe to you that rise up early in the morning to follow drunkenness, and to drink till the evening, to be inflamed with wine."
+        },
+        {
+          "verse": 11,
+          "text": "The harp, and the lyre, and the timbrel, and the pipe, and wine, are in your feasts: and the work of the Lord you regard not, nor do you consider the works of his hands.*"
+        },
+        {
+          "verse": 12,
+          "text": "Therefore is my people led away captive, because they had not knowledge, and their nobles have perished with famine, and their multitude were dried up with thirst."
+        },
+        {
+          "verse": 13,
+          "text": "Therefore hath hell enlarged her soul, and opened her mouth without any bounds, and their strong ones, and their people, and their high and glorious ones shall go down into it."
+        },
+        {
+          "verse": 14,
+          "text": "And man shall be brought down, and man shall be humbled, and the eyes of the lofty shall be brought low."
+        },
+        {
+          "verse": 15,
+          "text": "And the Lord of hosts shall be exalted in judgment, and the holy God shall be sanctified in justice."
+        },
+        {
+          "verse": 16,
+          "text": "And the lambs shall feed according to their order, and strangers shall eat the deserts turned into fruitfulness."
+        },
+        {
+          "verse": 17,
+          "text": "Woe to you that draw iniquity with cords of vanity, and sin as the rope of a cart."
+        },
+        {
+          "verse": 18,
+          "text": "That say: Let him make haste, and let his work come quickly, that we may see it: and let the counsel of the holy one of Israel come, that we may know it."
+        },
+        {
+          "verse": 19,
+          "text": "Woe to you that call evil good, and good evil: that put darkness for light, and light for darkness: that put bitter for sweet, and sweet for bitter."
+        },
+        {
+          "verse": 20,
+          "text": "*Woe to you that are wise in your own eyes, and prudent in your own conceits."
+        },
+        {
+          "verse": 21,
+          "text": "Woe to you that are mighty to drink wine, and stout men at drunkenness."
+        },
+        {
+          "verse": 22,
+          "text": "That justify the wicked for gifts, and take away the justice of the just from him."
+        },
+        {
+          "verse": 23,
+          "text": "Therefore, as the tongue of the fire devoureth the stubble, and the heat of the flame consumeth it; so shall their root be as ashes, and their bud shall go up as dust: for they have cast away the law of the Lord of hosts, and have blasphemed the word of the holy one of Israel."
+        },
+        {
+          "verse": 24,
+          "text": "Therefore is the wrath of the Lord kindled against his people, and he hath stretched out his hand upon them, and struck them: and the mountains were troubled, and their carcasses became as dung in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still."
+        },
+        {
+          "verse": 25,
+          "text": "And he will lift up a sign to the nations afar off, and will whistle to them from the ends of the earth: and behold they shall come with speed swiftly."
+        },
+        {
+          "verse": 26,
+          "text": "There is none that shall faint, nor labour among them: they shall not slumber, nor sleep, neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken."
+        },
+        {
+          "verse": 27,
+          "text": "Their arrows are sharp, and all their bows are bent. The hoofs of their horses shall be like the flint, and their wheels like the violence of a tempest."
+        },
+        {
+          "verse": 28,
+          "text": "Their roaring like that of a lion, they shall roar like young lions: yea, they shall roar, and take hold of the prey, and they shall keep fast hold of it, and there shall be none to deliver it."
+        },
+        {
+          "verse": 29,
+          "text": "And they shall make a noise against them that day, like the roaring of the sea: we shall look towards the land, and behold darkness of tribulation, and the light is darkened with the mist thereof."
+        }
+      ],
+      "verse_count": 29,
+      "word_count": 855
+    },
+    {
+      "book": "Matthew",
+      "chapter_number": 5,
+      "chapter_title": "Matthew 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now *Jesus seeing the multitudes, went up into a mountain, and when he had sat down, his disciples came to him."
+        },
+        {
+          "verse": 2,
+          "text": "And opening his mouth he taught them, saying:"
+        },
+        {
+          "verse": 3,
+          "text": "*Blessed are the poor in spirit: for theirs is the kingdom of heaven."
+        },
+        {
+          "verse": 4,
+          "text": "*Blessed are the meek: for they shall possess the land."
+        },
+        {
+          "verse": 5,
+          "text": "*Blessed are they that mourn: for they shall be comforted."
+        },
+        {
+          "verse": 6,
+          "text": "Blessed are they that hunger and thirst after justice: for they shall be filled."
+        },
+        {
+          "verse": 7,
+          "text": "Blessed are the merciful: for they shall obtain mercy."
+        },
+        {
+          "verse": 8,
+          "text": "*Blessed are the clean of heart: for they shall see God."
+        },
+        {
+          "verse": 9,
+          "text": "Blesses are the peace-makers: for they shall be called the children of God."
+        },
+        {
+          "verse": 10,
+          "text": "*Blessed are they that suffer persecution for justice sake: for theirs is the kingdom of heaven."
+        },
+        {
+          "verse": 11,
+          "text": "Blessed are ye when they shall revile you, and persecute you, and speak all that is evil against you untruly, for my sake;"
+        },
+        {
+          "verse": 12,
+          "text": "Rejoice and be exceedingly glad, for your reward is very great in heaven: for so they persecuted the prophets, that were before you."
+        },
+        {
+          "verse": 13,
+          "text": "You are the salt of the earth. *But if the salt lose its savour, wherewith shall it be salted? It is good for nothing any more, but to be cast out, and to be trodden on by men."
+        },
+        {
+          "verse": 14,
+          "text": "You are the light of the world. A city that is set on a mountain cannot be hid."
+        },
+        {
+          "verse": 15,
+          "text": "*Neither do men light a candle, and put it under a bushel, but upon a candlestick, that it may give light to all that are in the house."
+        },
+        {
+          "verse": 16,
+          "text": "Let your light so shine before men, *that they may see your good works, and glorify your Father who is in heaven."
+        },
+        {
+          "verse": 17,
+          "text": "Think not that I am come to destroy the law or the prophets: I am not come to destroy, but to fulfil."
+        },
+        {
+          "verse": 18,
+          "text": "*For amen, I say unto you, till heaven and earth pass, one jot or one tittle shall not pass from the law, till all be fulfilled."
+        },
+        {
+          "verse": 19,
+          "text": "*Whosoever, therefore, shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach, he shall be called great in the kingdom of heaven."
+        },
+        {
+          "verse": 20,
+          "text": "For I say to you, that unless your justice abound *more than that of the Scribes and of the Pharisees, you shall not enter into the kingdom of heaven."
+        },
+        {
+          "verse": 21,
+          "text": "You have heard that it was said to them of old: *Thou shalt not kill. And whosoever shall kill, shall be liable to the judgment."
+        },
+        {
+          "verse": 22,
+          "text": "But I say to you, that whosoever is angry with his brother, shall be liable to the judgment. And whosoever shall say to his brother, Raca, shall be liable to the council. And whosoever shall say, Thou fool, shall be in danger of hell fire."
+        },
+        {
+          "verse": 23,
+          "text": "Therefore, if thou offer thy gift at the altar, and there shalt remember that thy brother hath any thing against thee;"
+        },
+        {
+          "verse": 24,
+          "text": "Leave there thy gift before the altar, and go first to be reconciled to thy brother: and then come and offer thy gift."
+        },
+        {
+          "verse": 25,
+          "text": "*Agree with thy adversary quickly, whilst thou art in the way with him: lest perhaps the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison."
+        },
+        {
+          "verse": 26,
+          "text": "Amen, I say to thee, thou shalt not go out from thence, till thou pay the last farthing."
+        },
+        {
+          "verse": 27,
+          "text": "You have heard that it was said to them of old: *Thou shalt not commit adultery."
+        },
+        {
+          "verse": 28,
+          "text": "But I say unto you, that whosoever looketh on a woman to lust after her, hath already committed adultery with her in his heart."
+        },
+        {
+          "verse": 29,
+          "text": "*And if thy right eye cause thee to offend, pluck it out, and cast it from thee: for it is better for thee that one of thy members should perish, than that thy whole body should be cast into hell."
+        },
+        {
+          "verse": 30,
+          "text": "And if thy right hand cause thee to offend, cut it off, and cast it from thee: for it is better for thee that one of thy members should perish, than that thy whole body should go into hell."
+        },
+        {
+          "verse": 31,
+          "text": "It hath also been said: *Whosoever shall put away his wife, let him give her a bill of divorce."
+        },
+        {
+          "verse": 32,
+          "text": "But I say to you: *that whosoever shall put away his wife, excepting the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is put away, committeth adultery."
+        },
+        {
+          "verse": 33,
+          "text": "Again you have heard that it was said to them of old: *Thou shalt not forswear thyself: but thou shalt perform thy oaths to the Lord."
+        },
+        {
+          "verse": 34,
+          "text": "But I say to you, not to swear at all, neither by heaven, for it is the throne of God:"
+        },
+        {
+          "verse": 35,
+          "text": "Nor by the earth, for it is his footstool: nor by Jerusalem, for it is the city of the great king:"
+        },
+        {
+          "verse": 36,
+          "text": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black."
+        },
+        {
+          "verse": 37,
+          "text": "*But let your speech be yea, yea: no, no: and that which is over and above these, is of evil."
+        },
+        {
+          "verse": 38,
+          "text": "You have heard that it hath been said: *An eye for an eye, and a tooth for a tooth."
+        },
+        {
+          "verse": 39,
+          "text": "But I say to you, not to resist evil: *but if any one strike thee on thy right cheek, turn to him the other also."
+        },
+        {
+          "verse": 40,
+          "text": "*And if any man will go to law with thee, and take away thy coat, let him have thy cloak also."
+        },
+        {
+          "verse": 41,
+          "text": "And whosoever shall force thee to go one mile, go with him other two."
+        },
+        {
+          "verse": 42,
+          "text": "*Give to him that asketh of thee, and from him that would borrow of thee, turn not away."
+        },
+        {
+          "verse": 43,
+          "text": "You have heard that it hath been said: *Thou shalt love thy neighbor, and hate thy enemy."
+        },
+        {
+          "verse": 44,
+          "text": "But I say to you: *Love your enemies: **do good to them that hate you: ***and pray for them that persecute and calumniate you,"
+        },
+        {
+          "verse": 45,
+          "text": "That you may be the children of your Father, who is in heaven: who maketh his sun to rise upon the good and bad, and raineth upon the just and the unjust."
+        },
+        {
+          "verse": 46,
+          "text": "For if you love those that love you, what reward shall you have? do not even the publicans the same?"
+        },
+        {
+          "verse": 47,
+          "text": "And if you salute your brethren only, what do you more? do not also the heathens the same?"
+        },
+        {
+          "verse": 48,
+          "text": "Be you therefore perfect, as also your heavenly Father is perfect"
+        }
+      ],
+      "verse_count": 48,
+      "word_count": 1057
+    }
+  ]
+}

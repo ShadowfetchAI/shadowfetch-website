@@ -1,0 +1,653 @@
+{
+  "day_number": 100,
+  "references": "Josue 13-14 • Psalms 58 • Jeremias 34 • Acts 11",
+  "word_count": 3327,
+  "estimated_minutes": 16,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 58:11",
+    "text": "my God, his mercy shall prevent me.",
+    "reflection": "Hold this verse close and let its steadiness shape the next few hours."
+  },
+  "tomorrow_teaser": "Josue 15-16 • Psalms 59 • Jeremias 35 • Acts 12",
+  "chapters": [
+    {
+      "book": "Josue",
+      "chapter_number": 13,
+      "chapter_title": "Josue 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "This is what the children of Israel possessed in the land of Chanaan, which Eleazar the priest, and Josue, the son of Nun, and the princes of the families by the tribes of Israel gave to them:"
+        },
+        {
+          "verse": 2,
+          "text": "Dividing all by lot, *as the Lord had commanded by the hand of Moses, to the nine tribes, and the half tribe."
+        },
+        {
+          "verse": 3,
+          "text": "For to two tribes and a half, Moses had given possession beyond the Jordan: besides the Levites, who received no land among their brethren:"
+        },
+        {
+          "verse": 4,
+          "text": "But in their place succeeded the children of Joseph, divided into two tribes, of Manasses and Ephraim: neither did the Levites receive other portion of land, but cities to dwell in, and their suburbs to feed their beasts and flocks."
+        },
+        {
+          "verse": 5,
+          "text": "As the Lord had commanded Moses, so did the children of Israel, and they divided the land."
+        },
+        {
+          "verse": 6,
+          "text": "Then the children of Juda came to Josue, in Galgal; and Caleb, the son of Jephone, the Cenezite, spoke to him: *Thou knowest what the Lord spoke to Moses, the man of God, concerning me and thee in Cades-barne."
+        },
+        {
+          "verse": 7,
+          "text": "I was forty years old when Moses, the servant of the Lord, sent me *from Cades-barne, to view the land, and I brought him word again as to me seemed true."
+        },
+        {
+          "verse": 8,
+          "text": "But my brethren, that had gone up with me, discouraged the heart of the people: and I nevertheless followed the Lord my God."
+        },
+        {
+          "verse": 9,
+          "text": "And Moses swore in that day, saying: The land which thy foot hath trodden upon, shall be thy possession, and thy children's for ever, because thou hast followed the Lord my God."
+        },
+        {
+          "verse": 10,
+          "text": "The Lord therefore hath granted me life, as he promised, until this present day. It is forty and five years since the Lord spoke this word to Moses, when Israel journeyed through the wilderness: this day I am eighty-five years old."
+        },
+        {
+          "verse": 11,
+          "text": "As strong as I was at that time when I was sent to view the land: *the strength of that time continueth in me until this day, as well to fight, as to march."
+        },
+        {
+          "verse": 12,
+          "text": "Give me therefore this mountain, which the Lord promised, in thy hearing also, wherein are the Enacims, and cities great and strong: if so be the Lord will be with me, and I shall be able to destroy them, as he promised me."
+        },
+        {
+          "verse": 13,
+          "text": "And Josue blessed him, and gave him Hebron in possession."
+        },
+        {
+          "verse": 14,
+          "text": "And from that time Hebron belonged to Caleb, the son of Jephone, the Cenezite, until this present day: because he followed the Lord the God of Israel."
+        },
+        {
+          "verse": 15,
+          "text": "The name of Hebron before was called Cariath Arbe: Adam, the greatest among the Enacims, was laid there: *and the land rested from wars."
+        }
+      ],
+      "verse_count": 15,
+      "word_count": 444
+    },
+    {
+      "book": "Josue",
+      "chapter_number": 14,
+      "chapter_title": "Josue 14",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now *the lot of the children of Juda, by their kindreds, was this: *From the frontier of Edom, to the desert of Sin, southward, and to the uttermost part of the south coast."
+        },
+        {
+          "verse": 2,
+          "text": "Its beginning was from the top of the most salt sea, and from the bay thereof, that looketh to the south:"
+        },
+        {
+          "verse": 3,
+          "text": "And it goeth out towards the ascent of the Scorpion, and passeth on to Sinai: and ascendeth into Cades-barne, and reacheth into Esron, going up to Addar, and compassing Carcaa,"
+        },
+        {
+          "verse": 4,
+          "text": "And from thence passing along into Asemona, and reaching the torrent of Egypt: and the bounds thereof shall be the great sea: this shall be the limit of the south coast."
+        },
+        {
+          "verse": 5,
+          "text": "But on the east side, the beginning shall be the most salt sea, even to the end of the Jordan: and towards the north, from the bay of the sea unto the same river Jordan."
+        },
+        {
+          "verse": 6,
+          "text": "And the border goeth up into Beth-Hagla, and passeth by the north into Beth-Araba: going up to the stone of Boen, the son of Ruben:"
+        },
+        {
+          "verse": 7,
+          "text": "And reaching as far as the borders of Debara, from the valley of Achor, and so northward, looking towards Galgal, which is opposite to the ascent of Adommim, on the south side of the torrent: and the border passeth the waters that are called the fountain of the sun: and the goings out thereof shall be at the fountain Rogel."
+        },
+        {
+          "verse": 8,
+          "text": "And it goeth up by the valley of the son of Ennom, on the side of the Jebusite towards the south, the same is Jerusalem: and thence ascending to the top of the mountain, which is over-against Geennom to the west, in the end of the valley of Raphaim, northward."
+        },
+        {
+          "verse": 9,
+          "text": "And it passeth on from the top of the mountain, to the fountain of the water of Nephtoa: and reacheth to the towns of Mount Ephron: and it bendeth towards Baala, which is Cariathiarim, that is to say, the city of the woods."
+        },
+        {
+          "verse": 10,
+          "text": "And it compasseth from Baala westward, unto Mount Seir: and passeth by the side of Mount Jarim to the north into Cheslon: and goeth down into Bethsames, and passeth into Thamna."
+        },
+        {
+          "verse": 11,
+          "text": "And it reacheth northward to a part of Accaron, at the side: and bendeth to Sechrona, and passeth Mount Baala: and cometh into Jebneel, and is bounded westward with the great sea."
+        },
+        {
+          "verse": 12,
+          "text": "These are the borders round about of the children of Juda, in their kindreds."
+        },
+        {
+          "verse": 13,
+          "text": "But to Caleb, the son of Jephone, he gave a portion in the midst of the children of Juda, as the Lord had commanded him; Cariath Arbe, the father of Enac, which is Hebron."
+        },
+        {
+          "verse": 14,
+          "text": "*And Caleb destroyed out of it the three sons of Enac, Sesai, and Ahiman, and Tholmai, of the race of Enac."
+        },
+        {
+          "verse": 15,
+          "text": "And going up from thence, he came to the inhabitants of Dabir, which before was called Cariath Sepher, that is to say, the city of letters."
+        },
+        {
+          "verse": 16,
+          "text": "And Caleb said: He that shall smite Cariath Sepher, and take it, I will give him Axa, my daughter, to wife."
+        },
+        {
+          "verse": 17,
+          "text": "And Othoniel, the son of Cenez, the younger brother of Caleb, took it: and he gave him Axa, his daughter, to wife."
+        },
+        {
+          "verse": 18,
+          "text": "And as they were going together, she was moved by her husband to ask a field of her father, and she sighed as she sat on her ass. And Caleb said to her: What aileth thee?"
+        },
+        {
+          "verse": 19,
+          "text": "But she answered: Give me a blessing: thou hast given me a southern and dry land, give me also a land that is watered. And Caleb gave her the upper and the nether watery ground."
+        },
+        {
+          "verse": 20,
+          "text": "This is the possession of the tribe of the children of Juda, by their kindreds."
+        },
+        {
+          "verse": 21,
+          "text": "And the cities from the uttermost parts of the children of Juda, by the borders of Edom, to the south: were Gabseel, and Eder, and Jagur,"
+        },
+        {
+          "verse": 22,
+          "text": "And Cina, and Dimona, and Adada,"
+        },
+        {
+          "verse": 23,
+          "text": "And Cades, and Asor, and Jethnam,"
+        },
+        {
+          "verse": 24,
+          "text": "Ziph, and Telem, and Baloth,"
+        },
+        {
+          "verse": 25,
+          "text": "New Asor and Carioth, Hesron, which is Asor,"
+        },
+        {
+          "verse": 26,
+          "text": "Amam, Sama, and Molada,"
+        },
+        {
+          "verse": 27,
+          "text": "And Asergadda, and Hassemon, and Bethphelet,"
+        },
+        {
+          "verse": 28,
+          "text": "And Hasersual, and Bersabee, and Baziothia,"
+        },
+        {
+          "verse": 29,
+          "text": "And Baala, and Jim, and Esem,"
+        },
+        {
+          "verse": 30,
+          "text": "And Eltholad, and Cesil, and Harma,"
+        },
+        {
+          "verse": 31,
+          "text": "And Siceleg, and Medemena, and Sensenna,"
+        },
+        {
+          "verse": 32,
+          "text": "Lebaoth, and Selim, and Aen, and Remmon: all the cities, twenty-nine, and their villages."
+        },
+        {
+          "verse": 33,
+          "text": "But in the plains: Estaol, and Sarea, and Asena,"
+        },
+        {
+          "verse": 34,
+          "text": "And Zanoe, and Engannim, and Taphua, and Enaim,"
+        },
+        {
+          "verse": 35,
+          "text": "And Jerimoth, and Adullam, Socho, and Azeca,"
+        },
+        {
+          "verse": 36,
+          "text": "And Saraim, and Adithaim, and Gedera, and Gederothaim: fourteen cities, and their villages."
+        },
+        {
+          "verse": 37,
+          "text": "Sanan, and Hadassa, and Magdalgad,"
+        },
+        {
+          "verse": 38,
+          "text": "Delean, and Masepha, and Jecthel,"
+        },
+        {
+          "verse": 39,
+          "text": "Lachis, and Bascath, and Eglon,"
+        },
+        {
+          "verse": 40,
+          "text": "Chebbon, and Leheman, and Cethlis,"
+        },
+        {
+          "verse": 41,
+          "text": "And Gideroth, and Bethdagon, and Naama, and Maceda: sixteen cities, and their villages."
+        },
+        {
+          "verse": 42,
+          "text": "Labana, and Ether, and Asan,"
+        },
+        {
+          "verse": 43,
+          "text": "Jephtha, and Esna, and Nesib,"
+        },
+        {
+          "verse": 44,
+          "text": "And Ceila, and Achzib, and Maresa: nine cities, and their villages."
+        },
+        {
+          "verse": 45,
+          "text": "Accaron, with the towns and villages thereof."
+        },
+        {
+          "verse": 46,
+          "text": "From Accaron, even to the sea: all places that lie towards Azotus, and the villages thereof."
+        },
+        {
+          "verse": 47,
+          "text": "Azotus, with its towns and villages. Gaza, with its towns and villages, even to the torrent of Egypt, and the great sea, that is the border thereof."
+        },
+        {
+          "verse": 48,
+          "text": "And in the mountain: Samir, and Jether, and Socoth,"
+        },
+        {
+          "verse": 49,
+          "text": "And Danna, and Cariath-senna, this is Dabir:"
+        },
+        {
+          "verse": 50,
+          "text": "Anab, and Istemo, and Anim,"
+        },
+        {
+          "verse": 51,
+          "text": "Gosen, and Olon, and Gilo: eleven cities, and their villages."
+        },
+        {
+          "verse": 52,
+          "text": "Arab, and Ruma, and Esaan,"
+        },
+        {
+          "verse": 53,
+          "text": "And Janum, and Bethaphua, and Apheca,"
+        },
+        {
+          "verse": 54,
+          "text": "Athmatha, and Cariath Arbe, this is Hebron, and Sior: nine cities, and their villages."
+        },
+        {
+          "verse": 55,
+          "text": "Maon, and Carmel, and Ziph and Jota,"
+        },
+        {
+          "verse": 56,
+          "text": "Jezrael, and Jucadam, and Zanoe,"
+        },
+        {
+          "verse": 57,
+          "text": "Accain, Gabaa, and Thamna: ten cities, and their villages."
+        },
+        {
+          "verse": 58,
+          "text": "Halhul, and Bessur, and Gedor,"
+        },
+        {
+          "verse": 59,
+          "text": "Mareth, and Bethanoth, and Eltecon: six cities, and their villages."
+        },
+        {
+          "verse": 60,
+          "text": "Cariathbaal, the same is Cariathiarim, the city of woods, and Arebba: two cities, and their villages."
+        },
+        {
+          "verse": 61,
+          "text": "In the desert Betharaba, Meddin and Sachacha,"
+        },
+        {
+          "verse": 62,
+          "text": "And Nebsan, and the city of salt, and Engaddi: six cities, and their villages."
+        },
+        {
+          "verse": 63,
+          "text": "But the children of Juda could not destroy the Jebusite, that dwelt in Jerusalem: and the Jebusite dwelt with the children of Juda, in Jerusalem, until this present day."
+        }
+      ],
+      "verse_count": 63,
+      "word_count": 1013
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 58,
+      "chapter_title": "Psalms 58",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Unto the end, destroy not, for David, for an inscription of a title, when Saul sent and watched his house, to kill him. [ Kings xix.]"
+        },
+        {
+          "verse": 2,
+          "text": "Deliver me from my enemies, O my God; and defend me from them that rise up against me."
+        },
+        {
+          "verse": 3,
+          "text": "Deliver me from them that work iniquity, and save me from bloody men."
+        },
+        {
+          "verse": 4,
+          "text": "For behold they have caught my soul: the mighty have rushed in upon me:"
+        },
+        {
+          "verse": 5,
+          "text": "Neither is it my iniquity, nor my sin, O Lord; without iniquity have I run, and directed my steps."
+        },
+        {
+          "verse": 6,
+          "text": "Rise up thou to meet me, and behold: even thou, O Lord, the God of hosts, the God of Israel. Attend to visit all the nations: have no mercy on all them that work iniquity."
+        },
+        {
+          "verse": 7,
+          "text": "They shall return at evening, and shall suffer hunger like dogs: and shall go round about the city."
+        },
+        {
+          "verse": 8,
+          "text": "Behold they shall speak with their mouth, and a sword is in their lips: for who, say they, hath heard us?"
+        },
+        {
+          "verse": 9,
+          "text": "But thou, O Lord, shalt laugh at them: thou shalt bring all the nations to nothing."
+        },
+        {
+          "verse": 10,
+          "text": "I will keep my strength to thee: for thou art my protector:"
+        },
+        {
+          "verse": 11,
+          "text": "my God, his mercy shall prevent me."
+        },
+        {
+          "verse": 12,
+          "text": "God shall let me see over my enemies: slay them not, lest at any time my people forget. Scatter them by thy power; and bring them down, O Lord, my protector:"
+        },
+        {
+          "verse": 13,
+          "text": "For the sin of their mouth, and the word of their lips: and let them be taken in their pride. And for their cursing and lying, they shall be talked of,"
+        },
+        {
+          "verse": 14,
+          "text": "when they are consumed: when they are consumed by thy wrath, and they shall be no more. And they shall know that God will rule Jacob, and all the ends of the earth."
+        },
+        {
+          "verse": 15,
+          "text": "They shall return at evening, and shall suffer hunger like dogs: and shall go round about the city."
+        },
+        {
+          "verse": 16,
+          "text": "They shall be scattered abroad to eat, and shall murmur, if they be not filled."
+        },
+        {
+          "verse": 17,
+          "text": "But I will sing thy strength; and will extol thy mercy in the morning. For thou art become my support, and my refuge, in the day of my trouble."
+        },
+        {
+          "verse": 18,
+          "text": "Unto thee, O my helper, will I sing; for thou art God, my defence: my God, my mercy."
+        }
+      ],
+      "verse_count": 18,
+      "word_count": 373
+    },
+    {
+      "book": "Jeremias",
+      "chapter_number": 34,
+      "chapter_title": "Jeremias 34",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The *word that came to Jeremias from the Lord, (when Nabuchodonosor, king of Babylon, and all his army, and all the kingdoms of the earth, that were under the power of his hand, and all the people fought against Jerusalem, and against all the cities thereof) saying:"
+        },
+        {
+          "verse": 2,
+          "text": "Thus saith the Lord, the God of Israel: Go, and speak to Sedecias, king of Juda, and say to him: Thus saith the Lord: Behold, I will deliver this city into the hands of the king of Babylon, and he shall burn it with fire."
+        },
+        {
+          "verse": 3,
+          "text": "And thou shalt not escape out of his hand; but thou shalt surely be taken, and thou shalt be delivered into his hand: and thy eyes shall see the eyes of the king of Babylon, and his mouth shall speak with thy mouth, and thou shalt go to Babylon."
+        },
+        {
+          "verse": 4,
+          "text": "Yet hear the word of the Lord, O Sedecias, king of Juda: Thus saith the Lord to thee: Thou shalt not die by the sword."
+        },
+        {
+          "verse": 5,
+          "text": "But thou shalt die in peace, and according to the burnings of thy fathers, the former kings that were before thee, so shall they burn thee: and they shall mourn for thee, saying: Alas, Lord: for I have spoken the word, saith the Lord."
+        },
+        {
+          "verse": 6,
+          "text": "And Jeremias, the prophet, spoke all these words to Sedecias, the king of Juda, in Jerusalem."
+        },
+        {
+          "verse": 7,
+          "text": "And the army of the king of Babylon fought against Jerusalem, and against all the cities of Juda that were left, against Lachis, and against Azecha: for these remained of the cities of Juda, fenced cities."
+        },
+        {
+          "verse": 8,
+          "text": "The word that came to Jeremias from the Lord, after that king Sedecias had made a covenant with all the people in Jerusalem making a proclamation:"
+        },
+        {
+          "verse": 9,
+          "text": "That every man should let his man-servant, and every man his maid-servant, being a Hebrew man or a Hebrew woman, go free: and that they should not lord it over them; to wit, over the Jews, their brethren."
+        },
+        {
+          "verse": 10,
+          "text": "And all the princes, and all the people, who entered into the covenant, heard that every man should let his man-servant, and every man his maid-servant go free, and should no more have dominion over them: and they obeyed, and let them go free."
+        },
+        {
+          "verse": 11,
+          "text": "But afterwards they turned: and brought back again their servants and their handmaids, whom they had let go free, and brought them into subjection as men-servants and maid-servants."
+        },
+        {
+          "verse": 12,
+          "text": "And the word of the Lord came to Jeremias from the Lord, saying:"
+        },
+        {
+          "verse": 13,
+          "text": "Thus saith the Lord, the God of Israel: I made a covenant with your fathers in the day that I brought them out of the land of Egypt, out of the house of bondage, saying:"
+        },
+        {
+          "verse": 14,
+          "text": "*At the end of seven years, let ye go every man, his brother being a Hebrew, who hath been sold to thee, so he shall serve thee six years: and thou shalt let him go free from thee: and your fathers did not hearken to me, nor did they incline their ear."
+        },
+        {
+          "verse": 15,
+          "text": "And you turned to-day, and did that which was right in my eyes, in proclaiming liberty every one to his brother: and you made a covenant in my sight, in the house upon which my name is invocated."
+        },
+        {
+          "verse": 16,
+          "text": "And you are fallen back, and have defiled my name: and you have brought back again every man his man-servant, and every man his maid-servant, whom you had let go free, and set at liberty: and you have brought them into subjection to be your servants and handmaids."
+        },
+        {
+          "verse": 17,
+          "text": "Therefore thus saith the Lord: You have not hearkened to me, in proclaiming liberty every man to his brother, and every man to his friend: behold, I proclaim a liberty for you, saith the Lord, to the sword, to the pestilence, and to the famine: and I will cause you to be removed to all the kingdoms of the earth."
+        },
+        {
+          "verse": 18,
+          "text": "And I will give the men that have transgressed my covenant, and have not performed the words of the covenant, which they agreed to in my presence, when they cut the calf in two *and passed between the parts thereof:"
+        },
+        {
+          "verse": 19,
+          "text": "The princes of Juda, and the princes of Jerusalem, the eunuchs and the priests, and all the people of the land, that passed between the parts of the calf:"
+        },
+        {
+          "verse": 20,
+          "text": "And I will give them into the hands of their enemies, and into the hands of them that seek their life: and their dead bodies shall be for meat to the fowls of the air, and to the beasts of the earth."
+        },
+        {
+          "verse": 21,
+          "text": "And Sedecias, the king of Juda, and his princes, I will give into the hands of their enemies, and into the hands of them that seek their lives, and into the hands of the armies of the king of Babylon, which are gone from you."
+        },
+        {
+          "verse": 22,
+          "text": "Behold I will command, saith the Lord, and I will bring them again to this city, and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Juda a desolation, without an inhabitant."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 843
+    },
+    {
+      "book": "Acts",
+      "chapter_number": 11,
+      "chapter_title": "Acts 11",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the apostles and brethren who were in Judea, heard that the Gentiles also had received the word of God."
+        },
+        {
+          "verse": 2,
+          "text": "And when Peter was come up to Jerusalem, they who were of the circumcision, disputed against him,"
+        },
+        {
+          "verse": 3,
+          "text": "Saying: Why didst thou go in to men uncircumcised, and didst eat with them?"
+        },
+        {
+          "verse": 4,
+          "text": "But Peter began and declared to them the matter in order, saying:"
+        },
+        {
+          "verse": 5,
+          "text": "I was in the city of Joppe praying, and I saw in an ecstasy of mind a vision, a certain vessel descending, as it were a great sheet let down from heaven by four corners, and it came even to me."
+        },
+        {
+          "verse": 6,
+          "text": "Into which looking I considered, and saw four-footed creatures of the earth, and beasts, and creeping things, and fowls of the air:"
+        },
+        {
+          "verse": 7,
+          "text": "And I heard also a voice, saying to me: Arise, Peter, kill and eat."
+        },
+        {
+          "verse": 8,
+          "text": "And I said: Not so, Lord: for nothing common or unclean hath ever entered into my mouth."
+        },
+        {
+          "verse": 9,
+          "text": "And the voice answered the second time from heaven: What God hath made clean, call not thou common."
+        },
+        {
+          "verse": 10,
+          "text": "And this was done three times: and all were taken up again into heaven."
+        },
+        {
+          "verse": 11,
+          "text": "And behold immediately there were three men come to the house wherein I was, sent to me from Caesarea."
+        },
+        {
+          "verse": 12,
+          "text": "And the spirit said to me, that I should go with them, nothing doubting. And these six brethren went with me also, and we entered into the man's house."
+        },
+        {
+          "verse": 13,
+          "text": "And he told us, how he had seen an Angel in his house, standing and saying to him: Send to Joppe, and call hither Simon, who is surnamed Peter,"
+        },
+        {
+          "verse": 14,
+          "text": "Who shall speak to thee words, whereby thou and all thy house shall be saved."
+        },
+        {
+          "verse": 15,
+          "text": "And when I had begun to speak, the Holy Ghost fell upon them, as upon us also in the beginning."
+        },
+        {
+          "verse": 16,
+          "text": "And I remembered the word of the Lord, how he said: *John indeed baptized with water, but you shall be baptized with the Holy Ghost."
+        },
+        {
+          "verse": 17,
+          "text": "If then God gave them the same grace, as to us also who have believed in the Lord Jesus Christ, who was I, that I could withstand God?"
+        },
+        {
+          "verse": 18,
+          "text": "When they had heard these things, they held their peace, and glorified God, saying: God then hath also to the Gentiles given repentance unto life."
+        },
+        {
+          "verse": 19,
+          "text": "And they indeed, who had been dispersed, by the persecution that arose on occasion of Stephen, went about as far as Phoenice, and Cyprus, and Antioch, speaking the word to none, but to the Jews only."
+        },
+        {
+          "verse": 20,
+          "text": "But some of them were men of Cyprus and Cyrene, who, when they had entered into Antioch, spoke also to the Grecians, preaching the Lord Jesus."
+        },
+        {
+          "verse": 21,
+          "text": "And the hand of the Lord was with them: and a great number believing, was converted to the Lord.*"
+        },
+        {
+          "verse": 22,
+          "text": "And the report of these things came to the ears of the church that was at Jerusalem, and they sent Barnabas as far as Antioch."
+        },
+        {
+          "verse": 23,
+          "text": "Who when he was come, and had seen the grace of God, rejoiced: and exhorted them all with purpose of heart to continue in the Lord."
+        },
+        {
+          "verse": 24,
+          "text": "For he was a good man, and full of the Holy Ghost, and of faith. And a great multitude was added to the Lord."
+        },
+        {
+          "verse": 25,
+          "text": "And Barnabas went to Tarsus, to seek Saul: whom, when he had found, he brought to Antioch.*"
+        },
+        {
+          "verse": 26,
+          "text": "And they conversed there in the church a whole year: and they taught a great multitude, so that at Antioch the disciples were first named Christians."
+        },
+        {
+          "verse": 27,
+          "text": "And in these days there came prophets from Jerusalem to Antioch."
+        },
+        {
+          "verse": 28,
+          "text": "And one of them, named Agabus, rising up, signified by the spirit, that there should be a great famine over the whole world, which came to pass under Claudius."
+        },
+        {
+          "verse": 29,
+          "text": "And the disciples, every man according to his ability, resolved to send relief to the brethren who dwelt in Judea:"
+        },
+        {
+          "verse": 30,
+          "text": "Which also they did, sending it to the ancients by the hands of Barnabas and Saul.*"
+        }
+      ],
+      "verse_count": 30,
+      "word_count": 654
+    }
+  ]
+}

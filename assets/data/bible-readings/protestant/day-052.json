@@ -1,0 +1,881 @@
+{
+  "day_number": 52,
+  "references": "Leviticus 13-14 • Psalms 10 • Isaiah 52 • Luke 8",
+  "word_count": 5762,
+  "estimated_minutes": 27,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 10:12",
+    "text": "Arise, O LORD; O God, lift up thine hand: forget not the humble.",
+    "reflection": "Hold this verse close and let its steadiness shape the next few hours."
+  },
+  "tomorrow_teaser": "Leviticus 15-16 • Psalms 11 • Isaiah 53 • Luke 9",
+  "chapters": [
+    {
+      "book": "Leviticus",
+      "chapter_number": 13,
+      "chapter_title": "Leviticus 13",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses and Aaron, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:"
+        },
+        {
+          "verse": 3,
+          "text": "And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean."
+        },
+        {
+          "verse": 4,
+          "text": "If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up him that hath the plague seven days:"
+        },
+        {
+          "verse": 5,
+          "text": "And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more:"
+        },
+        {
+          "verse": 6,
+          "text": "And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean."
+        },
+        {
+          "verse": 7,
+          "text": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:"
+        },
+        {
+          "verse": 8,
+          "text": "And if the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it is a leprosy."
+        },
+        {
+          "verse": 9,
+          "text": "When the plague of leprosy is in a man, then he shall be brought unto the priest;"
+        },
+        {
+          "verse": 10,
+          "text": "And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;"
+        },
+        {
+          "verse": 11,
+          "text": "It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean."
+        },
+        {
+          "verse": 12,
+          "text": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that hath the plague from his head even to his foot, wheresoever the priest looketh;"
+        },
+        {
+          "verse": 13,
+          "text": "Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean."
+        },
+        {
+          "verse": 14,
+          "text": "But when raw flesh appeareth in him, he shall be unclean."
+        },
+        {
+          "verse": 15,
+          "text": "And the priest shall see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy."
+        },
+        {
+          "verse": 16,
+          "text": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;"
+        },
+        {
+          "verse": 17,
+          "text": "And the priest shall see him: and, behold, if the plague be turned into white; then the priest shall pronounce him clean that hath the plague: he is clean."
+        },
+        {
+          "verse": 18,
+          "text": "The flesh also, in which, even in the skin thereof, was a boil, and is healed,"
+        },
+        {
+          "verse": 19,
+          "text": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;"
+        },
+        {
+          "verse": 20,
+          "text": "And if, when the priest seeth it, behold, it be in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it is a plague of leprosy broken out of the boil."
+        },
+        {
+          "verse": 21,
+          "text": "But if the priest look on it, and, behold, there be no white hairs therein, and if it be not lower than the skin, but be somewhat dark; then the priest shall shut him up seven days:"
+        },
+        {
+          "verse": 22,
+          "text": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague."
+        },
+        {
+          "verse": 23,
+          "text": "But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest shall pronounce him clean."
+        },
+        {
+          "verse": 24,
+          "text": "Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;"
+        },
+        {
+          "verse": 25,
+          "text": "Then the priest shall look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it is the plague of leprosy."
+        },
+        {
+          "verse": 26,
+          "text": "But if the priest look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest shall shut him up seven days:"
+        },
+        {
+          "verse": 27,
+          "text": "And the priest shall look upon him the seventh day: and if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it is the plague of leprosy."
+        },
+        {
+          "verse": 28,
+          "text": "And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a rising of the burning, and the priest shall pronounce him clean: for it is an inflammation of the burning."
+        },
+        {
+          "verse": 29,
+          "text": "If a man or woman have a plague upon the head or the beard;"
+        },
+        {
+          "verse": 30,
+          "text": "Then the priest shall see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard."
+        },
+        {
+          "verse": 31,
+          "text": "And if the priest look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest shall shut up him that hath the plague of the scall seven days:"
+        },
+        {
+          "verse": 32,
+          "text": "And in the seventh day the priest shall look on the plague: and, behold, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;"
+        },
+        {
+          "verse": 33,
+          "text": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up him that hath the scall seven days more:"
+        },
+        {
+          "verse": 34,
+          "text": "And in the seventh day the priest shall look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean."
+        },
+        {
+          "verse": 35,
+          "text": "But if the scall spread much in the skin after his cleansing;"
+        },
+        {
+          "verse": 36,
+          "text": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he is unclean."
+        },
+        {
+          "verse": 37,
+          "text": "But if the scall be in his sight at a stay, and that there is black hair grown up therein; the scall is healed, he is clean: and the priest shall pronounce him clean."
+        },
+        {
+          "verse": 38,
+          "text": "If a man also or a woman have in the skin of their flesh bright spots, even white bright spots;"
+        },
+        {
+          "verse": 39,
+          "text": "Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean."
+        },
+        {
+          "verse": 40,
+          "text": "And the man whose hair is fallen off his head, he is bald; yet is he clean."
+        },
+        {
+          "verse": 41,
+          "text": "And he that hath his hair fallen off from the part of his head toward his face, he is forehead bald: yet is he clean."
+        },
+        {
+          "verse": 42,
+          "text": "And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead."
+        },
+        {
+          "verse": 43,
+          "text": "Then the priest shall look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;"
+        },
+        {
+          "verse": 44,
+          "text": "He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head."
+        },
+        {
+          "verse": 45,
+          "text": "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean."
+        },
+        {
+          "verse": 46,
+          "text": "All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be."
+        },
+        {
+          "verse": 47,
+          "text": "The garment also that the plague of leprosy is in, whether it be a woollen garment, or a linen garment;"
+        },
+        {
+          "verse": 48,
+          "text": "Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;"
+        },
+        {
+          "verse": 49,
+          "text": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:"
+        },
+        {
+          "verse": 50,
+          "text": "And the priest shall look upon the plague, and shut up it that hath the plague seven days:"
+        },
+        {
+          "verse": 51,
+          "text": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean."
+        },
+        {
+          "verse": 52,
+          "text": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it is a fretting leprosy; it shall be burnt in the fire."
+        },
+        {
+          "verse": 53,
+          "text": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;"
+        },
+        {
+          "verse": 54,
+          "text": "Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:"
+        },
+        {
+          "verse": 55,
+          "text": "And the priest shall look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; thou shalt burn it in the fire; it is fret inward, whether it be bare within or without."
+        },
+        {
+          "verse": 56,
+          "text": "And if the priest look, and, behold, the plague be somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:"
+        },
+        {
+          "verse": 57,
+          "text": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it is a spreading plague: thou shalt burn that wherein the plague is with fire."
+        },
+        {
+          "verse": 58,
+          "text": "And the garment, either warp, or woof, or whatsoever thing of skin it be, which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean."
+        },
+        {
+          "verse": 59,
+          "text": "This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean."
+        }
+      ],
+      "verse_count": 59,
+      "word_count": 1857
+    },
+    {
+      "book": "Leviticus",
+      "chapter_number": 14,
+      "chapter_title": "Leviticus 14",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the LORD spake unto Moses, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest:"
+        },
+        {
+          "verse": 3,
+          "text": "And the priest shall go forth out of the camp; and the priest shall look, and, behold, if the plague of leprosy be healed in the leper;"
+        },
+        {
+          "verse": 4,
+          "text": "Then shall the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:"
+        },
+        {
+          "verse": 5,
+          "text": "And the priest shall command that one of the birds be killed in an earthen vessel over running water:"
+        },
+        {
+          "verse": 6,
+          "text": "As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water:"
+        },
+        {
+          "verse": 7,
+          "text": "And he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird loose into the open field."
+        },
+        {
+          "verse": 8,
+          "text": "And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days."
+        },
+        {
+          "verse": 9,
+          "text": "But it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean."
+        },
+        {
+          "verse": 10,
+          "text": "And on the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour for a meat offering, mingled with oil, and one log of oil."
+        },
+        {
+          "verse": 11,
+          "text": "And the priest that maketh him clean shall present the man that is to be made clean, and those things, before the LORD, at the door of the tabernacle of the congregation:"
+        },
+        {
+          "verse": 12,
+          "text": "And the priest shall take one he lamb, and offer him for a trespass offering, and the log of oil, and wave them for a wave offering before the LORD:"
+        },
+        {
+          "verse": 13,
+          "text": "And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering is the priest’s, so is the trespass offering: it is most holy:"
+        },
+        {
+          "verse": 14,
+          "text": "And the priest shall take some of the blood of the trespass offering, and the priest shall put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:"
+        },
+        {
+          "verse": 15,
+          "text": "And the priest shall take some of the log of oil, and pour it into the palm of his own left hand:"
+        },
+        {
+          "verse": 16,
+          "text": "And the priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:"
+        },
+        {
+          "verse": 17,
+          "text": "And of the rest of the oil that is in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:"
+        },
+        {
+          "verse": 18,
+          "text": "And the remnant of the oil that is in the priest’s hand he shall pour upon the head of him that is to be cleansed: and the priest shall make an atonement for him before the LORD."
+        },
+        {
+          "verse": 19,
+          "text": "And the priest shall offer the sin offering, and make an atonement for him that is to be cleansed from his uncleanness; and afterward he shall kill the burnt offering:"
+        },
+        {
+          "verse": 20,
+          "text": "And the priest shall offer the burnt offering and the meat offering upon the altar: and the priest shall make an atonement for him, and he shall be clean."
+        },
+        {
+          "verse": 21,
+          "text": "And if he be poor, and cannot get so much; then he shall take one lamb for a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;"
+        },
+        {
+          "verse": 22,
+          "text": "And two turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering."
+        },
+        {
+          "verse": 23,
+          "text": "And he shall bring them on the eighth day for his cleansing unto the priest, unto the door of the tabernacle of the congregation, before the LORD."
+        },
+        {
+          "verse": 24,
+          "text": "And the priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them for a wave offering before the LORD:"
+        },
+        {
+          "verse": 25,
+          "text": "And he shall kill the lamb of the trespass offering, and the priest shall take some of the blood of the trespass offering, and put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:"
+        },
+        {
+          "verse": 26,
+          "text": "And the priest shall pour of the oil into the palm of his own left hand:"
+        },
+        {
+          "verse": 27,
+          "text": "And the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before the LORD:"
+        },
+        {
+          "verse": 28,
+          "text": "And the priest shall put of the oil that is in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass offering:"
+        },
+        {
+          "verse": 29,
+          "text": "And the rest of the oil that is in the priest’s hand he shall put upon the head of him that is to be cleansed, to make an atonement for him before the LORD."
+        },
+        {
+          "verse": 30,
+          "text": "And he shall offer the one of the turtledoves, or of the young pigeons, such as he can get;"
+        },
+        {
+          "verse": 31,
+          "text": "Even such as he is able to get, the one for a sin offering, and the other for a burnt offering, with the meat offering: and the priest shall make an atonement for him that is to be cleansed before the LORD."
+        },
+        {
+          "verse": 32,
+          "text": "This is the law of him in whom is the plague of leprosy, whose hand is not able to get that which pertaineth to his cleansing."
+        },
+        {
+          "verse": 33,
+          "text": "And the LORD spake unto Moses and unto Aaron, saying,"
+        },
+        {
+          "verse": 34,
+          "text": "When ye be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;"
+        },
+        {
+          "verse": 35,
+          "text": "And he that owneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:"
+        },
+        {
+          "verse": 36,
+          "text": "Then the priest shall command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house:"
+        },
+        {
+          "verse": 37,
+          "text": "And he shall look on the plague, and, behold, if the plague be in the walls of the house with hollow strakes, greenish or reddish, which in sight are lower than the wall;"
+        },
+        {
+          "verse": 38,
+          "text": "Then the priest shall go out of the house to the door of the house, and shut up the house seven days:"
+        },
+        {
+          "verse": 39,
+          "text": "And the priest shall come again the seventh day, and shall look: and, behold, if the plague be spread in the walls of the house;"
+        },
+        {
+          "verse": 40,
+          "text": "Then the priest shall command that they take away the stones in which the plague is, and they shall cast them into an unclean place without the city:"
+        },
+        {
+          "verse": 41,
+          "text": "And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:"
+        },
+        {
+          "verse": 42,
+          "text": "And they shall take other stones, and put them in the place of those stones; and he shall take other morter, and shall plaister the house."
+        },
+        {
+          "verse": 43,
+          "text": "And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plaistered;"
+        },
+        {
+          "verse": 44,
+          "text": "Then the priest shall come and look, and, behold, if the plague be spread in the house, it is a fretting leprosy in the house: it is unclean."
+        },
+        {
+          "verse": 45,
+          "text": "And he shall break down the house, the stones of it, and the timber thereof, and all the morter of the house; and he shall carry them forth out of the city into an unclean place."
+        },
+        {
+          "verse": 46,
+          "text": "Moreover he that goeth into the house all the while that it is shut up shall be unclean until the even."
+        },
+        {
+          "verse": 47,
+          "text": "And he that lieth in the house shall wash his clothes; and he that eateth in the house shall wash his clothes."
+        },
+        {
+          "verse": 48,
+          "text": "And if the priest shall come in, and look upon it, and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed."
+        },
+        {
+          "verse": 49,
+          "text": "And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:"
+        },
+        {
+          "verse": 50,
+          "text": "And he shall kill the one of the birds in an earthen vessel over running water:"
+        },
+        {
+          "verse": 51,
+          "text": "And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:"
+        },
+        {
+          "verse": 52,
+          "text": "And he shall cleanse the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the scarlet:"
+        },
+        {
+          "verse": 53,
+          "text": "But he shall let go the living bird out of the city into the open fields, and make an atonement for the house: and it shall be clean."
+        },
+        {
+          "verse": 54,
+          "text": "This is the law for all manner of plague of leprosy, and scall,"
+        },
+        {
+          "verse": 55,
+          "text": "And for the leprosy of a garment, and of a house,"
+        },
+        {
+          "verse": 56,
+          "text": "And for a rising, and for a scab, and for a bright spot:"
+        },
+        {
+          "verse": 57,
+          "text": "To teach when it is unclean, and when it is clean: this is the law of leprosy."
+        }
+      ],
+      "verse_count": 57,
+      "word_count": 1716
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 10,
+      "chapter_title": "Psalms 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?"
+        },
+        {
+          "verse": 2,
+          "text": "The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined."
+        },
+        {
+          "verse": 3,
+          "text": "For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom the LORD abhorreth."
+        },
+        {
+          "verse": 4,
+          "text": "The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts."
+        },
+        {
+          "verse": 5,
+          "text": "His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them."
+        },
+        {
+          "verse": 6,
+          "text": "He hath said in his heart, I shall not be moved: for I shall never be in adversity."
+        },
+        {
+          "verse": 7,
+          "text": "His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity."
+        },
+        {
+          "verse": 8,
+          "text": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor."
+        },
+        {
+          "verse": 9,
+          "text": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net."
+        },
+        {
+          "verse": 10,
+          "text": "He croucheth, and humbleth himself, that the poor may fall by his strong ones."
+        },
+        {
+          "verse": 11,
+          "text": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see it."
+        },
+        {
+          "verse": 12,
+          "text": "Arise, O LORD; O God, lift up thine hand: forget not the humble."
+        },
+        {
+          "verse": 13,
+          "text": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it."
+        },
+        {
+          "verse": 14,
+          "text": "Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless."
+        },
+        {
+          "verse": 15,
+          "text": "Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none."
+        },
+        {
+          "verse": 16,
+          "text": "The LORD is King for ever and ever: the heathen are perished out of his land."
+        },
+        {
+          "verse": 17,
+          "text": "LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:"
+        },
+        {
+          "verse": 18,
+          "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress."
+        }
+      ],
+      "verse_count": 18,
+      "word_count": 351
+    },
+    {
+      "book": "Isaiah",
+      "chapter_number": 52,
+      "chapter_title": "Isaiah 52",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean."
+        },
+        {
+          "verse": 2,
+          "text": "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion."
+        },
+        {
+          "verse": 3,
+          "text": "For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money."
+        },
+        {
+          "verse": 4,
+          "text": "For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause."
+        },
+        {
+          "verse": 5,
+          "text": "Now therefore, what have I here, saith the LORD, that my people is taken away for nought? they that rule over them make them to howl, saith the LORD; and my name continually every day is blasphemed."
+        },
+        {
+          "verse": 6,
+          "text": "Therefore my people shall know my name: therefore they shall know in that day that I am he that doth speak: behold, it is I."
+        },
+        {
+          "verse": 7,
+          "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!"
+        },
+        {
+          "verse": 8,
+          "text": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion."
+        },
+        {
+          "verse": 9,
+          "text": "Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem."
+        },
+        {
+          "verse": 10,
+          "text": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God."
+        },
+        {
+          "verse": 11,
+          "text": "Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD."
+        },
+        {
+          "verse": 12,
+          "text": "For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward."
+        },
+        {
+          "verse": 13,
+          "text": "Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high."
+        },
+        {
+          "verse": 14,
+          "text": "As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:"
+        },
+        {
+          "verse": 15,
+          "text": "So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider."
+        }
+      ],
+      "verse_count": 15,
+      "word_count": 405
+    },
+    {
+      "book": "Luke",
+      "chapter_number": 8,
+      "chapter_title": "Luke 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,"
+        },
+        {
+          "verse": 2,
+          "text": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,"
+        },
+        {
+          "verse": 3,
+          "text": "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance."
+        },
+        {
+          "verse": 4,
+          "text": "And when much people were gathered together, and were come to him out of every city, he spake by a parable:"
+        },
+        {
+          "verse": 5,
+          "text": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it."
+        },
+        {
+          "verse": 6,
+          "text": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture."
+        },
+        {
+          "verse": 7,
+          "text": "And some fell among thorns; and the thorns sprang up with it, and choked it."
+        },
+        {
+          "verse": 8,
+          "text": "And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear."
+        },
+        {
+          "verse": 9,
+          "text": "And his disciples asked him, saying, What might this parable be?"
+        },
+        {
+          "verse": 10,
+          "text": "And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand."
+        },
+        {
+          "verse": 11,
+          "text": "Now the parable is this: The seed is the word of God."
+        },
+        {
+          "verse": 12,
+          "text": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved."
+        },
+        {
+          "verse": 13,
+          "text": "They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away."
+        },
+        {
+          "verse": 14,
+          "text": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection."
+        },
+        {
+          "verse": 15,
+          "text": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience."
+        },
+        {
+          "verse": 16,
+          "text": "No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light."
+        },
+        {
+          "verse": 17,
+          "text": "For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad."
+        },
+        {
+          "verse": 18,
+          "text": "Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have."
+        },
+        {
+          "verse": 19,
+          "text": "Then came to him his mother and his brethren, and could not come at him for the press."
+        },
+        {
+          "verse": 20,
+          "text": "And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee."
+        },
+        {
+          "verse": 21,
+          "text": "And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it."
+        },
+        {
+          "verse": 22,
+          "text": "Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth."
+        },
+        {
+          "verse": 23,
+          "text": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy."
+        },
+        {
+          "verse": 24,
+          "text": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm."
+        },
+        {
+          "verse": 25,
+          "text": "And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him."
+        },
+        {
+          "verse": 26,
+          "text": "And they arrived at the country of the Gadarenes, which is over against Galilee."
+        },
+        {
+          "verse": 27,
+          "text": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs."
+        },
+        {
+          "verse": 28,
+          "text": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not."
+        },
+        {
+          "verse": 29,
+          "text": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)"
+        },
+        {
+          "verse": 30,
+          "text": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him."
+        },
+        {
+          "verse": 31,
+          "text": "And they besought him that he would not command them to go out into the deep."
+        },
+        {
+          "verse": 32,
+          "text": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them."
+        },
+        {
+          "verse": 33,
+          "text": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked."
+        },
+        {
+          "verse": 34,
+          "text": "When they that fed them saw what was done, they fled, and went and told it in the city and in the country."
+        },
+        {
+          "verse": 35,
+          "text": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid."
+        },
+        {
+          "verse": 36,
+          "text": "They also which saw it told them by what means he that was possessed of the devils was healed."
+        },
+        {
+          "verse": 37,
+          "text": "Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again."
+        },
+        {
+          "verse": 38,
+          "text": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,"
+        },
+        {
+          "verse": 39,
+          "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him."
+        },
+        {
+          "verse": 40,
+          "text": "And it came to pass, that, when Jesus was returned, the people gladly received him: for they were all waiting for him."
+        },
+        {
+          "verse": 41,
+          "text": "And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:"
+        },
+        {
+          "verse": 42,
+          "text": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him."
+        },
+        {
+          "verse": 43,
+          "text": "And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,"
+        },
+        {
+          "verse": 44,
+          "text": "Came behind him, and touched the border of his garment: and immediately her issue of blood stanched."
+        },
+        {
+          "verse": 45,
+          "text": "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?"
+        },
+        {
+          "verse": 46,
+          "text": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me."
+        },
+        {
+          "verse": 47,
+          "text": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately."
+        },
+        {
+          "verse": 48,
+          "text": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace."
+        },
+        {
+          "verse": 49,
+          "text": "While he yet spake, there cometh one from the ruler of the synagogue’s house, saying to him, Thy daughter is dead; trouble not the Master."
+        },
+        {
+          "verse": 50,
+          "text": "But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole."
+        },
+        {
+          "verse": 51,
+          "text": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden."
+        },
+        {
+          "verse": 52,
+          "text": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth."
+        },
+        {
+          "verse": 53,
+          "text": "And they laughed him to scorn, knowing that she was dead."
+        },
+        {
+          "verse": 54,
+          "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise."
+        },
+        {
+          "verse": 55,
+          "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat."
+        },
+        {
+          "verse": 56,
+          "text": "And her parents were astonished: but he charged them that they should tell no man what was done."
+        }
+      ],
+      "verse_count": 56,
+      "word_count": 1433
+    }
+  ]
+}

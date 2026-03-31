@@ -1,0 +1,428 @@
+{
+  "day_number": 128,
+  "references": "Joshua 12 • Psalms 86 • Ezekiel 5 • Romans 11",
+  "word_count": 2246,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 86:3",
+    "text": "Be merciful unto me, O Lord: for I cry unto thee daily.",
+    "reflection": "Carry this line with you and let it soften the edges of whatever waits today."
+  },
+  "tomorrow_teaser": "Joshua 13 • Psalms 87 • Ezekiel 6 • Romans 12",
+  "chapters": [
+    {
+      "book": "Joshua",
+      "chapter_number": 12,
+      "chapter_title": "Joshua 12",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:"
+        },
+        {
+          "verse": 2,
+          "text": "Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;"
+        },
+        {
+          "verse": 3,
+          "text": "And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:"
+        },
+        {
+          "verse": 4,
+          "text": "And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,"
+        },
+        {
+          "verse": 5,
+          "text": "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon."
+        },
+        {
+          "verse": 6,
+          "text": "Them did Moses the servant of the LORD and the children of Israel smite: and Moses the servant of the LORD gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh."
+        },
+        {
+          "verse": 7,
+          "text": "And these are the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel for a possession according to their divisions;"
+        },
+        {
+          "verse": 8,
+          "text": "In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:"
+        },
+        {
+          "verse": 9,
+          "text": "The king of Jericho, one; the king of Ai, which is beside Bethel, one;"
+        },
+        {
+          "verse": 10,
+          "text": "The king of Jerusalem, one; the king of Hebron, one;"
+        },
+        {
+          "verse": 11,
+          "text": "The king of Jarmuth, one; the king of Lachish, one;"
+        },
+        {
+          "verse": 12,
+          "text": "The king of Eglon, one; the king of Gezer, one;"
+        },
+        {
+          "verse": 13,
+          "text": "The king of Debir, one; the king of Geder, one;"
+        },
+        {
+          "verse": 14,
+          "text": "The king of Hormah, one; the king of Arad, one;"
+        },
+        {
+          "verse": 15,
+          "text": "The king of Libnah, one; the king of Adullam, one;"
+        },
+        {
+          "verse": 16,
+          "text": "The king of Makkedah, one; the king of Bethel, one;"
+        },
+        {
+          "verse": 17,
+          "text": "The king of Tappuah, one; the king of Hepher, one;"
+        },
+        {
+          "verse": 18,
+          "text": "The king of Aphek, one; the king of Lasharon, one;"
+        },
+        {
+          "verse": 19,
+          "text": "The king of Madon, one; the king of Hazor, one;"
+        },
+        {
+          "verse": 20,
+          "text": "The king of Shimronmeron, one; the king of Achshaph, one;"
+        },
+        {
+          "verse": 21,
+          "text": "The king of Taanach, one; the king of Megiddo, one;"
+        },
+        {
+          "verse": 22,
+          "text": "The king of Kedesh, one; the king of Jokneam of Carmel, one;"
+        },
+        {
+          "verse": 23,
+          "text": "The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;"
+        },
+        {
+          "verse": 24,
+          "text": "The king of Tirzah, one: all the kings thirty and one."
+        }
+      ],
+      "verse_count": 24,
+      "word_count": 486
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 86,
+      "chapter_title": "Psalms 86",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Bow down thine ear, O LORD, hear me: for I am poor and needy."
+        },
+        {
+          "verse": 2,
+          "text": "Preserve my soul; for I am holy: O thou my God, save thy servant that trusteth in thee."
+        },
+        {
+          "verse": 3,
+          "text": "Be merciful unto me, O Lord: for I cry unto thee daily."
+        },
+        {
+          "verse": 4,
+          "text": "Rejoice the soul of thy servant: for unto thee, O Lord, do I lift up my soul."
+        },
+        {
+          "verse": 5,
+          "text": "For thou, Lord, art good, and ready to forgive; and plenteous in mercy unto all them that call upon thee."
+        },
+        {
+          "verse": 6,
+          "text": "Give ear, O LORD, unto my prayer; and attend to the voice of my supplications."
+        },
+        {
+          "verse": 7,
+          "text": "In the day of my trouble I will call upon thee: for thou wilt answer me."
+        },
+        {
+          "verse": 8,
+          "text": "Among the gods there is none like unto thee, O Lord; neither are there any works like unto thy works."
+        },
+        {
+          "verse": 9,
+          "text": "All nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name."
+        },
+        {
+          "verse": 10,
+          "text": "For thou art great, and doest wondrous things: thou art God alone."
+        },
+        {
+          "verse": 11,
+          "text": "Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name."
+        },
+        {
+          "verse": 12,
+          "text": "I will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore."
+        },
+        {
+          "verse": 13,
+          "text": "For great is thy mercy toward me: and thou hast delivered my soul from the lowest hell."
+        },
+        {
+          "verse": 14,
+          "text": "O God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set thee before them."
+        },
+        {
+          "verse": 15,
+          "text": "But thou, O Lord, art a God full of compassion, and gracious, long suffering, and plenteous in mercy and truth."
+        },
+        {
+          "verse": 16,
+          "text": "O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid."
+        },
+        {
+          "verse": 17,
+          "text": "Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, LORD, hast holpen me, and comforted me."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 313
+    },
+    {
+      "book": "Ezekiel",
+      "chapter_number": 5,
+      "chapter_title": "Ezekiel 5",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And thou, son of man, take thee a sharp knife, take thee a barber’s razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the hair."
+        },
+        {
+          "verse": 2,
+          "text": "Thou shalt burn with fire a third part in the midst of the city, when the days of the siege are fulfilled: and thou shalt take a third part, and smite about it with a knife: and a third part thou shalt scatter in the wind; and I will draw out a sword after them."
+        },
+        {
+          "verse": 3,
+          "text": "Thou shalt also take thereof a few in number, and bind them in thy skirts."
+        },
+        {
+          "verse": 4,
+          "text": "Then take of them again, and cast them into the midst of the fire, and burn them in the fire; for thereof shall a fire come forth into all the house of Israel."
+        },
+        {
+          "verse": 5,
+          "text": "Thus saith the Lord GOD; This is Jerusalem: I have set it in the midst of the nations and countries that are round about her."
+        },
+        {
+          "verse": 6,
+          "text": "And she hath changed my judgments into wickedness more than the nations, and my statutes more than the countries that are round about her: for they have refused my judgments and my statutes, they have not walked in them."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore thus saith the Lord GOD; Because ye multiplied more than the nations that are round about you, and have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that are round about you;"
+        },
+        {
+          "verse": 8,
+          "text": "Therefore thus saith the Lord GOD; Behold, I, even I, am against thee, and will execute judgments in the midst of thee in the sight of the nations."
+        },
+        {
+          "verse": 9,
+          "text": "And I will do in thee that which I have not done, and whereunto I will not do any more the like, because of all thine abominations."
+        },
+        {
+          "verse": 10,
+          "text": "Therefore the fathers shall eat the sons in the midst of thee, and the sons shall eat their fathers; and I will execute judgments in thee, and the whole remnant of thee will I scatter into all the winds."
+        },
+        {
+          "verse": 11,
+          "text": "Wherefore, as I live, saith the Lord GOD; Surely, because thou hast defiled my sanctuary with all thy detestable things, and with all thine abominations, therefore will I also diminish thee; neither shall mine eye spare, neither will I have any pity."
+        },
+        {
+          "verse": 12,
+          "text": "A third part of thee shall die with the pestilence, and with famine shall they be consumed in the midst of thee: and a third part shall fall by the sword round about thee; and I will scatter a third part into all the winds, and I will draw out a sword after them."
+        },
+        {
+          "verse": 13,
+          "text": "Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the LORD have spoken it in my zeal, when I have accomplished my fury in them."
+        },
+        {
+          "verse": 14,
+          "text": "Moreover I will make thee waste, and a reproach among the nations that are round about thee, in the sight of all that pass by."
+        },
+        {
+          "verse": 15,
+          "text": "So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that are round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes. I the LORD have spoken it."
+        },
+        {
+          "verse": 16,
+          "text": "When I shall send upon them the evil arrows of famine, which shall be for their destruction, and which I will send to destroy you: and I will increase the famine upon you, and will break your staff of bread:"
+        },
+        {
+          "verse": 17,
+          "text": "So will I send upon you famine and evil beasts, and they shall bereave thee; and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the LORD have spoken it."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 629
+    },
+    {
+      "book": "Romans",
+      "chapter_number": 11,
+      "chapter_title": "Romans 11",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin."
+        },
+        {
+          "verse": 2,
+          "text": "God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,"
+        },
+        {
+          "verse": 3,
+          "text": "Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life."
+        },
+        {
+          "verse": 4,
+          "text": "But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."
+        },
+        {
+          "verse": 5,
+          "text": "Even so then at this present time also there is a remnant according to the election of grace."
+        },
+        {
+          "verse": 6,
+          "text": "And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work."
+        },
+        {
+          "verse": 7,
+          "text": "What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded."
+        },
+        {
+          "verse": 8,
+          "text": "(According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day."
+        },
+        {
+          "verse": 9,
+          "text": "And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:"
+        },
+        {
+          "verse": 10,
+          "text": "Let their eyes be darkened, that they may not see, and bow down their back alway."
+        },
+        {
+          "verse": 11,
+          "text": "I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy."
+        },
+        {
+          "verse": 12,
+          "text": "Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?"
+        },
+        {
+          "verse": 13,
+          "text": "For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:"
+        },
+        {
+          "verse": 14,
+          "text": "If by any means I may provoke to emulation them which are my flesh, and might save some of them."
+        },
+        {
+          "verse": 15,
+          "text": "For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?"
+        },
+        {
+          "verse": 16,
+          "text": "For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches."
+        },
+        {
+          "verse": 17,
+          "text": "And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;"
+        },
+        {
+          "verse": 18,
+          "text": "Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee."
+        },
+        {
+          "verse": 19,
+          "text": "Thou wilt say then, The branches were broken off, that I might be graffed in."
+        },
+        {
+          "verse": 20,
+          "text": "Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:"
+        },
+        {
+          "verse": 21,
+          "text": "For if God spared not the natural branches, take heed lest he also spare not thee."
+        },
+        {
+          "verse": 22,
+          "text": "Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off."
+        },
+        {
+          "verse": 23,
+          "text": "And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again."
+        },
+        {
+          "verse": 24,
+          "text": "For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be graffed into their own olive tree?"
+        },
+        {
+          "verse": 25,
+          "text": "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in."
+        },
+        {
+          "verse": 26,
+          "text": "And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:"
+        },
+        {
+          "verse": 27,
+          "text": "For this is my covenant unto them, when I shall take away their sins."
+        },
+        {
+          "verse": 28,
+          "text": "As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers’ sakes."
+        },
+        {
+          "verse": 29,
+          "text": "For the gifts and calling of God are without repentance."
+        },
+        {
+          "verse": 30,
+          "text": "For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:"
+        },
+        {
+          "verse": 31,
+          "text": "Even so have these also now not believed, that through your mercy they also may obtain mercy."
+        },
+        {
+          "verse": 32,
+          "text": "For God hath concluded them all in unbelief, that he might have mercy upon all."
+        },
+        {
+          "verse": 33,
+          "text": "O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!"
+        },
+        {
+          "verse": 34,
+          "text": "For who hath known the mind of the Lord? or who hath been his counsellor?"
+        },
+        {
+          "verse": 35,
+          "text": "Or who hath first given to him, and it shall be recompensed unto him again?"
+        },
+        {
+          "verse": 36,
+          "text": "For of him, and through him, and to him, are all things: to whom be glory for ever. Amen."
+        }
+      ],
+      "verse_count": 36,
+      "word_count": 818
+    }
+  ]
+}

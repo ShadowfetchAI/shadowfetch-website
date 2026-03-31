@@ -1,0 +1,697 @@
+{
+  "day_number": 76,
+  "references": "Numbers 34-35 • Psalms 34 • Jeremias 10 • John 8",
+  "word_count": 3624,
+  "estimated_minutes": 17,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Psalms 34:2",
+    "text": "Take hold of arms and shield: and rise up to help me.",
+    "reflection": "Hold this verse close and let its steadiness shape the next few hours."
+  },
+  "tomorrow_teaser": "Deuteronomy 1-2 • Psalms 35 • Jeremias 11 • John 9",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 34,
+      "chapter_title": "Numbers 34",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Lord spoke *these things also to Moses, in the plains of Moab, by the Jordan, over-against Jericho:"
+        },
+        {
+          "verse": 2,
+          "text": "*Command the children of Israel, that they give to the Levites out of their possessions,"
+        },
+        {
+          "verse": 3,
+          "text": "Cities to dwell in, and their suburbs round about: that they may abide in the towns, and the suburbs may be for their cattle and beasts:"
+        },
+        {
+          "verse": 4,
+          "text": "Which suburbs shall reach from the walls of the cities outward, a thousand paces on every side:"
+        },
+        {
+          "verse": 5,
+          "text": "Toward the east shall be two thousand cubits: and toward the south in like manner shall be two thousand cubits: toward the sea also, which looketh to the west, shall be the same extent: and the north side shall be bounded with the like limits. And the cities shall be in the midst, and the suburbs without."
+        },
+        {
+          "verse": 6,
+          "text": "*And among the cities, which you shall give to the Levites, six shall be separated for refuge to fugitives, that he who hath shed blood may flee to them: and besides these there shall be other forty-two cities,"
+        },
+        {
+          "verse": 7,
+          "text": "That is, in all forty-eight, with their suburbs."
+        },
+        {
+          "verse": 8,
+          "text": "And of these cities which shall be given out of the possessions of the children of Israel, from them that have more, more shall be taken: and from them that have less, fewer. Each shall give towns to the Levites according to the extent of their inheritance."
+        },
+        {
+          "verse": 9,
+          "text": "The Lord said to Moses:"
+        },
+        {
+          "verse": 10,
+          "text": "Speak to the children of Israel, and thou shalt say to them: When you shall have passed over the Jordan into the land of Chanaan,"
+        },
+        {
+          "verse": 11,
+          "text": "Determine what cities shall be for the refuge of fugitives, who have shed blood against their will."
+        },
+        {
+          "verse": 12,
+          "text": "And when the fugitive shall be in them, the kinsman of him that is slain may not have power to kill him, until he stand before the multitude, and his cause be judged."
+        },
+        {
+          "verse": 13,
+          "text": "*And of those cities, that are separated for the refuge of fugitives,"
+        },
+        {
+          "verse": 14,
+          "text": "Three shall be beyond the Jordan, and three in the land of Chanaan,"
+        },
+        {
+          "verse": 15,
+          "text": "As well for the children of Israel as for strangers and sojourners, that he may flee to them, who hath shed blood against his will."
+        },
+        {
+          "verse": 16,
+          "text": "If any man strike with iron, and he die that was struck: he shall be guilty of murder, and he himself shall die."
+        },
+        {
+          "verse": 17,
+          "text": "If he throw a stone, and he that is struck die: he shall be punished in the same manner."
+        },
+        {
+          "verse": 18,
+          "text": "If he that is struck with wood, die: he shall be revenged by the blood of him that struck him."
+        },
+        {
+          "verse": 19,
+          "text": "The kinsman of him that was slain, shall kill the murderer: as soon as he apprehendeth him, he shall kill him."
+        },
+        {
+          "verse": 20,
+          "text": "*If through hatred any one push a man, or fling any thing at him with ill design:"
+        },
+        {
+          "verse": 21,
+          "text": "Or being his enemy, strike him with his hand, and he die: the striker shall be guilty of murder: the kinsman of him that was slain, as soon as he findeth him, shall kill him."
+        },
+        {
+          "verse": 22,
+          "text": "But if by chance-medley, and without hatred,"
+        },
+        {
+          "verse": 23,
+          "text": "And enmity, he do any of these things,"
+        },
+        {
+          "verse": 24,
+          "text": "And this be proved in the hearing of the people, and the cause be debated between him that struck, and the next of kin:"
+        },
+        {
+          "verse": 25,
+          "text": "The innocent shall be delivered from the hand of the revenger, and shall be brought back by sentence into the city, to which he had fled, and he shall abide there until the death of the high priest, that is anointed with the holy oil."
+        },
+        {
+          "verse": 26,
+          "text": "If the murderer be found without the limits of the cities that are appointed for the banished,"
+        },
+        {
+          "verse": 27,
+          "text": "And be struck by him that is the avenger of blood: he shall not be guilty that killed him."
+        },
+        {
+          "verse": 28,
+          "text": "For the fugitive ought to have stayed in the city until the death of the high priest: and after he is dead, then shall the manslayer return to his own country."
+        },
+        {
+          "verse": 29,
+          "text": "These things shall be perpetual, and for an ordinance in all your dwellings."
+        },
+        {
+          "verse": 30,
+          "text": "The murderer shall be punished by witnesses: none shall be condemned upon the evidence of one man."
+        },
+        {
+          "verse": 31,
+          "text": "You shall not take money of him that is guilty of blood, but he shall die forthwith."
+        },
+        {
+          "verse": 32,
+          "text": "The banished and fugitives before the death of the high priest may by no means return into their own cities."
+        },
+        {
+          "verse": 33,
+          "text": "Defile not the land of your habitation, which is stained with the blood of the innocent: neither can it otherwise be expiated, but by his blood that hath shed the blood of another."
+        },
+        {
+          "verse": 34,
+          "text": "And thus shall your possession be cleansed, myself abiding with you. For I am the Lord that dwell among the children of Israel."
+        }
+      ],
+      "verse_count": 34,
+      "word_count": 766
+    },
+    {
+      "book": "Numbers",
+      "chapter_number": 35,
+      "chapter_title": "Numbers 35",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the princes of the families of Galaad,* the son of Machir, the son of Manasses, of the stock of the children of Joseph, came: and spoke to Moses before the princes of Israel, and said:"
+        },
+        {
+          "verse": 2,
+          "text": "The Lord hath commanded thee, my lord, that thou shouldst divide the land by lot to the children of Israel, and that thou shouldst give to the daughters of Salphaad, our brother, the possession due to their father:"
+        },
+        {
+          "verse": 3,
+          "text": "Now if men of another tribe take them to wives, their possession will follow them, and being transferred to another tribe, will be a diminishing of our inheritance."
+        },
+        {
+          "verse": 4,
+          "text": "And so it shall come to pass, that when the jubilee, that is the fiftieth year of remission is come, the distribution made by the lots shall be confounded, and the possession of the one shall pass to the others."
+        },
+        {
+          "verse": 5,
+          "text": "Moses answered the children of Israel, and said by the command of the Lord: The tribe of the children of Joseph hath spoken rightly."
+        },
+        {
+          "verse": 6,
+          "text": "And this is the law, promulgated by the Lord, touching the daughters of Salphaad: *Let them marry to whom they will, only so that it be to men of their own tribe:"
+        },
+        {
+          "verse": 7,
+          "text": "Lest the possession of the children of Israel be mingled from tribe to tribe. For all men shall marry wives of their own tribe and kindred:"
+        },
+        {
+          "verse": 8,
+          "text": "And all women shall take husbands of the same tribe: that the inheritance may remain in the families,"
+        },
+        {
+          "verse": 9,
+          "text": "And that the tribes be not mingled one with another, but remain so"
+        },
+        {
+          "verse": 10,
+          "text": "As they were separated by the Lord. And the daughters of Salphaad did as was commanded:"
+        },
+        {
+          "verse": 11,
+          "text": "And Maala, and Thersa, and Hegla, and Melcha, and Noa, were married to the sons of their uncle, by their father"
+        },
+        {
+          "verse": 12,
+          "text": "Of the family of Manasses, who was the son of Joseph: and the possession that had been allotted to them, remained in the tribe and family of their father."
+        },
+        {
+          "verse": 13,
+          "text": "These are the commandments and judgments, which the Lord commanded by the hand of Moses to the children of Israel, in the plains of Moab, upon the Jordan, over-against Jericho."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 351
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 34,
+      "chapter_title": "Psalms 34",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "For David himself. Judge thou, O Lord, them that wrong me: overthrow them that fight against me."
+        },
+        {
+          "verse": 2,
+          "text": "Take hold of arms and shield: and rise up to help me."
+        },
+        {
+          "verse": 3,
+          "text": "Bring out the sword, and shut up the way against them that persecute me: say to my soul: I am thy salvation."
+        },
+        {
+          "verse": 4,
+          "text": "*Let them be confounded and ashamed, that seek after my soul. Let them be turned back and be confounded, that devise evil against me."
+        },
+        {
+          "verse": 5,
+          "text": "Let them become as dust before the wind: and let the angel of the Lord straiten them."
+        },
+        {
+          "verse": 6,
+          "text": "Let their way become dark and slippery; and let the angel of the Lord pursue them."
+        },
+        {
+          "verse": 7,
+          "text": "For without cause they have hidden their net for me unto destruction: without cause they have upbraided my soul."
+        },
+        {
+          "verse": 8,
+          "text": "Let the snare which he knoweth not come upon him: and let the net which he hath hidden catch him: and into that very snare let them fall."
+        },
+        {
+          "verse": 9,
+          "text": "But my soul shall rejoice in the Lord; and shall be delighted in his salvation."
+        },
+        {
+          "verse": 10,
+          "text": "All my bones shall say: Lord, who is like to thee? Who deliverest the poor from the hand of them that are stronger than he; the needy and the poor from them that strip him."
+        },
+        {
+          "verse": 11,
+          "text": "Unjust witnesses, rising up, have asked me things I knew not."
+        },
+        {
+          "verse": 12,
+          "text": "They repaid me evil for good: to the depriving me of my soul."
+        },
+        {
+          "verse": 13,
+          "text": "But as for me, when they were troublesome to me, I was clothed with hair-cloth. I humbled my soul with fasting; and my prayer shall be turned into my bosom."
+        },
+        {
+          "verse": 14,
+          "text": "As a neighbour and as an own brother, so did I please; as one mourning and sorrowful, so was I humbled."
+        },
+        {
+          "verse": 15,
+          "text": "But they rejoiced against me, and came together: scourges were gathered together upon me, and I knew not."
+        },
+        {
+          "verse": 16,
+          "text": "They were separated, and repented not: they tempted me, they scoffed at me with scorn: they gnashed upon me with their teeth."
+        },
+        {
+          "verse": 17,
+          "text": "Lord, when wilt thou look upon me? rescue thou soul from their malice: my only one from the lions."
+        },
+        {
+          "verse": 18,
+          "text": "I will give thanks to thee in a great church: I will praise thee in a strong people."
+        },
+        {
+          "verse": 19,
+          "text": "Let not them that are my enemies wrongfully rejoice over me: *who have hated me without cause, and wink with the eyes."
+        },
+        {
+          "verse": 20,
+          "text": "For they spoke indeed peaceably to me: and speaking in the anger of the earth they devised guile."
+        },
+        {
+          "verse": 21,
+          "text": "And they opened their mouth wide against me; they said: Well done, well done, our eyes have seen it."
+        },
+        {
+          "verse": 22,
+          "text": "Thou hast seen, O Lord, be not thou silent: O Lord, depart not from me."
+        },
+        {
+          "verse": 23,
+          "text": "Arise, and be attentive to my judgment: to my cause, my God and my Lord."
+        },
+        {
+          "verse": 24,
+          "text": "Judge me, O Lord, my God, according to thy justice, and let them not rejoice over me."
+        },
+        {
+          "verse": 25,
+          "text": "Let them not say in their hearts: It is well, it is well, to our mind: neither let them say: We have swallowed him up."
+        },
+        {
+          "verse": 26,
+          "text": "Let them blush, and be ashamed together, who rejoice at my evils. Let them be clothed with confusion and shame, who speak great things against me."
+        },
+        {
+          "verse": 27,
+          "text": "Let them rejoice and be glad, who are well pleased with my justice, and let them say always; The Lord be magnified, who delight in the peace of his servant."
+        },
+        {
+          "verse": 28,
+          "text": "Any my tongue shall meditate thy justice, thy praise all the day long."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 557
+    },
+    {
+      "book": "Jeremias",
+      "chapter_number": 10,
+      "chapter_title": "Jeremias 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Hear ye the word which the Lord hath spoken concerning you, O house of Israel."
+        },
+        {
+          "verse": 2,
+          "text": "Thus saith the Lord: Learn not according to the ways of the Gentiles: and be not afraid of the signs of heaven, which the heathens fear:"
+        },
+        {
+          "verse": 3,
+          "text": "For the laws of the people are vain: *for the works of the hand of the workman hath cut a tree out of the forest with an axe."
+        },
+        {
+          "verse": 4,
+          "text": "He hath decked it with silver and gold: he hath put it together with nails and hammers, that it may not fall asunder."
+        },
+        {
+          "verse": 5,
+          "text": "They are framed after the likeness of a palm-tree, and shall not speak: they must be carried to be removed, because they cannot go. Therefore, fear them not, for they can neither do evil nor good."
+        },
+        {
+          "verse": 6,
+          "text": "*There is none like to thee, O Lord; thou art great, and great is thy name in might."
+        },
+        {
+          "verse": 7,
+          "text": "*Who shall fear thee, O king of nations? for thine is the glory: among all the wise men of the nations, and in all their kingdoms, there is none like unto thee."
+        },
+        {
+          "verse": 8,
+          "text": "They shall be all proved together, to be senseless and foolish: the doctrine of their vanity is wood."
+        },
+        {
+          "verse": 9,
+          "text": "Silver spread into plates is brought from Tharsis, and gold from Ophaz: the work of the artificer, and of the hand of the coppersmith: violet and purple is their clothing: all these things are the work of artificers."
+        },
+        {
+          "verse": 10,
+          "text": "But the Lord is the true God: he is the living God, and the everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his threatening."
+        },
+        {
+          "verse": 11,
+          "text": "Thus then shall you say to them: The gods that have not made heaven and earth, let them perish from the earth, and from among those places that are under heaven."
+        },
+        {
+          "verse": 12,
+          "text": "*He that maketh the earth by his power, that prepareth the world by his wisdom, and stretcheth out the heavens by his knowledge."
+        },
+        {
+          "verse": 13,
+          "text": "At his voice he giveth a multitude of waters in the heaven, and lifteth up the clouds from the ends of the earth: *he maketh lightnings for rain, and bringeth forth the wind out of his treasures."
+        },
+        {
+          "verse": 14,
+          "text": "Every man is become a fool for knowledge, every artist is confounded in his graven idol: for what he hath cast is false, and there is no spirit in them."
+        },
+        {
+          "verse": 15,
+          "text": "They are vain things, and a ridiculous work: in the time of their visitation they shall perish."
+        },
+        {
+          "verse": 16,
+          "text": "The portion of Jacob is not like these: for it is he who formed all things: and Israel is the rod of his inheritance: the Lord of hosts is his name."
+        },
+        {
+          "verse": 17,
+          "text": "Gather up thy shame out of the land, thou that dwellest in a siege."
+        },
+        {
+          "verse": 18,
+          "text": "For thus saith the Lord: Behold I will cast away far off the inhabitants of the land at this time: and I will afflict them, so that they may be found."
+        },
+        {
+          "verse": 19,
+          "text": "Woe is me for my destruction, my wound is very grievous. But I said: Truly this is my own evil, and I will bear it."
+        },
+        {
+          "verse": 20,
+          "text": "My tabernacle is laid waste, all my cords are broken: my children are gone out from me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains."
+        },
+        {
+          "verse": 21,
+          "text": "Because the pastors have done foolishly, and have not sought the Lord: therefore have they not understood, and all their flock is scattered."
+        },
+        {
+          "verse": 22,
+          "text": "Behold the sound of a noise cometh, a great commotion out of the north country: to make the cities of Juda a desert, and a dwelling for dragons."
+        },
+        {
+          "verse": 23,
+          "text": "I know, O Lord, that the way of a man is not his: neither is it in a man to walk, and to direct his steps."
+        },
+        {
+          "verse": 24,
+          "text": "Correct me, O Lord, but yet with judgement: and not in thy fury, lest thou bring me to nothing."
+        },
+        {
+          "verse": 25,
+          "text": "Pour out thy indignation upon the nations that have not known thee, and upon the provinces that have not called upon thy name: because they have eaten up Jacob, and devoured him, and consumed him, and have destroyed his glory."
+        }
+      ],
+      "verse_count": 25,
+      "word_count": 680
+    },
+    {
+      "book": "John",
+      "chapter_number": 8,
+      "chapter_title": "John 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And Jesus went to Mount Olivet."
+        },
+        {
+          "verse": 2,
+          "text": "And early in the morning he came again into the temple, and all the people came to him, and sitting down he taught them."
+        },
+        {
+          "verse": 3,
+          "text": "And the Scribes and Pharisees bring to him a woman taken in adultery: and they set her in the midst,"
+        },
+        {
+          "verse": 4,
+          "text": "And said to him: Master, this woman was even now taken in adultery."
+        },
+        {
+          "verse": 5,
+          "text": "*Now Moses in the law commanded us to stone such a one. But what sayest thou?"
+        },
+        {
+          "verse": 6,
+          "text": "And this they said, tempting him, that they might accuse him. But Jesus, stooping down, wrote with his finger on the ground."
+        },
+        {
+          "verse": 7,
+          "text": "When therefore they continued asking him, he lifted up himself, and said to them: *He that is without sin among you, let him first cast a stone at her."
+        },
+        {
+          "verse": 8,
+          "text": "And again stooping down, he wrote on the ground."
+        },
+        {
+          "verse": 9,
+          "text": "But they hearing this, went out one by one, beginning from the eldest: and Jesus alone remained, and the woman standing in the midst."
+        },
+        {
+          "verse": 10,
+          "text": "Then Jesus lifting up himself, said to her: Woman, where are they that accused thee? Hath no man condemned thee?"
+        },
+        {
+          "verse": 11,
+          "text": "She said: No man, Lord. And Jesus said: Neither will I condemn thee. Go, and now sin no more."
+        },
+        {
+          "verse": 12,
+          "text": "Again therefore Jesus spoke to them, saying: *I am the light of the world: he that followeth me, walketh not in darkness, but shall have the light of life."
+        },
+        {
+          "verse": 13,
+          "text": "The Pharisees, therefore, said to him: Thou givest testimony of thyself: thy testimony is not true."
+        },
+        {
+          "verse": 14,
+          "text": "Jesus answered, and said to them: Although I give testimony of myself, my testimony is true: for I know whence I came, and whither I go: but you know not whence I come, or whither I go."
+        },
+        {
+          "verse": 15,
+          "text": "You judge according to the flesh: I judge not any man:"
+        },
+        {
+          "verse": 16,
+          "text": "And if I do judge, my judgment is true, because I am not alone: but I and the Father that sent me."
+        },
+        {
+          "verse": 17,
+          "text": "And in your law it is written, *that the testimony of two men is true."
+        },
+        {
+          "verse": 18,
+          "text": "I am one that give testimony of myself: and the Father that sent me, giveth testimony of me."
+        },
+        {
+          "verse": 19,
+          "text": "They said, therefore, to him: Where is thy Father? Jesus answered: Neither me do you know, nor my Father: if you did know me, you would know my Father also."
+        },
+        {
+          "verse": 20,
+          "text": "These words Jesus spoke in the treasury, teaching in the temple: and no man laid hands on him, because his hour was not yet come."
+        },
+        {
+          "verse": 21,
+          "text": "Then Jesus said to them again: I go, and you shall seek me, and you shall die in your sin. Whither I go, you cannot come."
+        },
+        {
+          "verse": 22,
+          "text": "The Jews, therefore, said: Will he kill himself, because he said: Whither I go, you cannot come?"
+        },
+        {
+          "verse": 23,
+          "text": "And he said to them: You are from beneath, I am from above. You are of this world, I am not of this world."
+        },
+        {
+          "verse": 24,
+          "text": "Therefore, I said to you, that you shall die in your sins: for if you believe not that I am he, you shall die in your sin."
+        },
+        {
+          "verse": 25,
+          "text": "They said therefore, to him: Who art thou? Jesus said to them: The beginning, who also speak to you."
+        },
+        {
+          "verse": 26,
+          "text": "I have many things to speak, and to judge of you. But he that sent me is *true: and the things I have heard from him, the same I speak in the world."
+        },
+        {
+          "verse": 27,
+          "text": "Now they did not understand that he called God his father."
+        },
+        {
+          "verse": 28,
+          "text": "Jesus, therefore, said to them: When you shall have lifted up the Son of man, then shall you know that I am he, and that I do nothing of myself; but as the Father hath taught me, these things I speak:"
+        },
+        {
+          "verse": 29,
+          "text": "And he that sent me is with me, and he hath not left me alone: for I do always the things that please him."
+        },
+        {
+          "verse": 30,
+          "text": "When he spoke these things, many believed in him."
+        },
+        {
+          "verse": 31,
+          "text": "Then Jesus said to those Jews that believed him: If you continue in my word, you shall be my disciples indeed:"
+        },
+        {
+          "verse": 32,
+          "text": "And you shall know the truth, and the truth shall make you free."
+        },
+        {
+          "verse": 33,
+          "text": "They answered him: We are the seed of Abraham, and we have never been slaves to any man: how sayest thou, You shall be free?"
+        },
+        {
+          "verse": 34,
+          "text": "Jesus answered them: Amen, amen I say unto you: *that whosoever committeth sin, is the servant of sin."
+        },
+        {
+          "verse": 35,
+          "text": "Now the servant abideth not in the house for ever: but the son abideth for ever."
+        },
+        {
+          "verse": 36,
+          "text": "If, therefore, the son shall make you free, you shall be free indeed."
+        },
+        {
+          "verse": 37,
+          "text": "I know that you are the children of Abraham: but you seek to kill me, because my word hath no place in you."
+        },
+        {
+          "verse": 38,
+          "text": "I speak that which I have seen with my Father: and you do the things that you have seen with your father."
+        },
+        {
+          "verse": 39,
+          "text": "They answered, and said to him: Abraham is our Father. Jesus saith to them: If you be the children of Abraham, do the works of Abraham."
+        },
+        {
+          "verse": 40,
+          "text": "But now you seek to kill me, a man who have spoken the truth to you, which I have heard of God: this Abraham did not."
+        },
+        {
+          "verse": 41,
+          "text": "You do the works of your father. They said then to him: We are not born of fornication: we have one Father, God."
+        },
+        {
+          "verse": 42,
+          "text": "Jesus therefore said to them: If God were your father, verily you would love me. For I proceeded and came from God: for I came not of myself, but he sent me."
+        },
+        {
+          "verse": 43,
+          "text": "Why do you not know my speech? Because you cannot hear my word."
+        },
+        {
+          "verse": 44,
+          "text": "*You are of your father, the devil, and the desires of your father you will do. He was a murderer from the beginning, and he abode not in the truth: because truth is not in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father thereof."
+        },
+        {
+          "verse": 45,
+          "text": "But if I say the truth, you believe me not."
+        },
+        {
+          "verse": 46,
+          "text": "Which of you shall convince me of sin? If I say the truth to you, why do you not believe me?"
+        },
+        {
+          "verse": 47,
+          "text": "*He that is of God, heareth the words of God. Therefore, you hear them not, because you are not of God."
+        },
+        {
+          "verse": 48,
+          "text": "The Jews, therefore, answered, and said to him: Do not we say well that thou art a Samaritan, and hast a devil?"
+        },
+        {
+          "verse": 49,
+          "text": "Jesus answered: I have not a devil: but I honour my Father, and you have dishonoured me."
+        },
+        {
+          "verse": 50,
+          "text": "But I seek not my own glory: there is one that seeketh and judgeth."
+        },
+        {
+          "verse": 51,
+          "text": "Amen, amen I say to you, if any man keep my word, he shall not see death for ever."
+        },
+        {
+          "verse": 52,
+          "text": "The Jews, therefore, said, Now we know that thou hast a devil. Abraham is dead, and the prophets: and thou sayest, If any man keep my word, he shall not taste death for ever."
+        },
+        {
+          "verse": 53,
+          "text": "Art thou greater than our father, Abraham, who is dead? and the prophets are dead. Whom dost thou make thyself?"
+        },
+        {
+          "verse": 54,
+          "text": "Jesus answered: If I glorify myself, my glory is nothing: it is my Father that glorifieth me, whom you say that he is your God."
+        },
+        {
+          "verse": 55,
+          "text": "And you have not known him, but I know him: And if I should say that I know him not, I should be like to you, a liar. But I know him, and keep his word."
+        },
+        {
+          "verse": 56,
+          "text": "Abraham, your father, rejoiced that he might see my day: he saw it, and was glad."
+        },
+        {
+          "verse": 57,
+          "text": "The Jews then said to him, Thou art not yet fifty years old, and hast thou seen Abraham?"
+        },
+        {
+          "verse": 58,
+          "text": "Jesus said to them, Amen, amen I say to you, before Abraham was made, I am."
+        },
+        {
+          "verse": 59,
+          "text": "Then they took up stones to cast at him: but Jesus hid himself, and went out of the temple."
+        }
+      ],
+      "verse_count": 59,
+      "word_count": 1270
+    }
+  ]
+}

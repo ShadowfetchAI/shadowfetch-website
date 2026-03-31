@@ -1,0 +1,380 @@
+{
+  "day_number": 82,
+  "references": "Numbers 36 • Psalms 40 • Jeremiah 16 • John 14",
+  "word_count": 2278,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 40:13",
+    "text": "Be pleased, O LORD, to deliver me: O LORD, make haste to help me.",
+    "reflection": "Come back to this sentence tonight and see what it held together for you."
+  },
+  "tomorrow_teaser": "Deuteronomy 1 • Psalms 41 • Jeremiah 17 • John 15",
+  "chapters": [
+    {
+      "book": "Numbers",
+      "chapter_number": 36,
+      "chapter_title": "Numbers 36",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:"
+        },
+        {
+          "verse": 2,
+          "text": "And they said, The LORD commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the LORD to give the inheritance of Zelophehad our brother unto his daughters."
+        },
+        {
+          "verse": 3,
+          "text": "And if they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance."
+        },
+        {
+          "verse": 4,
+          "text": "And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers."
+        },
+        {
+          "verse": 5,
+          "text": "And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well."
+        },
+        {
+          "verse": 6,
+          "text": "This is the thing which the LORD doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry."
+        },
+        {
+          "verse": 7,
+          "text": "So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers."
+        },
+        {
+          "verse": 8,
+          "text": "And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers."
+        },
+        {
+          "verse": 9,
+          "text": "Neither shall the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance."
+        },
+        {
+          "verse": 10,
+          "text": "Even as the LORD commanded Moses, so did the daughters of Zelophehad:"
+        },
+        {
+          "verse": 11,
+          "text": "For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons:"
+        },
+        {
+          "verse": 12,
+          "text": "And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father."
+        },
+        {
+          "verse": 13,
+          "text": "These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 446
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 40,
+      "chapter_title": "Psalms 40",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I waited patiently for the LORD; and he inclined unto me, and heard my cry."
+        },
+        {
+          "verse": 2,
+          "text": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings."
+        },
+        {
+          "verse": 3,
+          "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD."
+        },
+        {
+          "verse": 4,
+          "text": "Blessed is that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies."
+        },
+        {
+          "verse": 5,
+          "text": "Many, O LORD my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered."
+        },
+        {
+          "verse": 6,
+          "text": "Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required."
+        },
+        {
+          "verse": 7,
+          "text": "Then said I, Lo, I come: in the volume of the book it is written of me,"
+        },
+        {
+          "verse": 8,
+          "text": "I delight to do thy will, O my God: yea, thy law is within my heart."
+        },
+        {
+          "verse": 9,
+          "text": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, thou knowest."
+        },
+        {
+          "verse": 10,
+          "text": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation."
+        },
+        {
+          "verse": 11,
+          "text": "Withhold not thou thy tender mercies from me, O LORD: let thy lovingkindness and thy truth continually preserve me."
+        },
+        {
+          "verse": 12,
+          "text": "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me."
+        },
+        {
+          "verse": 13,
+          "text": "Be pleased, O LORD, to deliver me: O LORD, make haste to help me."
+        },
+        {
+          "verse": 14,
+          "text": "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil."
+        },
+        {
+          "verse": 15,
+          "text": "Let them be desolate for a reward of their shame that say unto me, Aha, aha."
+        },
+        {
+          "verse": 16,
+          "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified."
+        },
+        {
+          "verse": 17,
+          "text": "But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God."
+        }
+      ],
+      "verse_count": 17,
+      "word_count": 400
+    },
+    {
+      "book": "Jeremiah",
+      "chapter_number": 16,
+      "chapter_title": "Jeremiah 16",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The word of the LORD came also unto me, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "Thou shalt not take thee a wife, neither shalt thou have sons or daughters in this place."
+        },
+        {
+          "verse": 3,
+          "text": "For thus saith the LORD concerning the sons and concerning the daughters that are born in this place, and concerning their mothers that bare them, and concerning their fathers that begat them in this land;"
+        },
+        {
+          "verse": 4,
+          "text": "They shall die of grievous deaths; they shall not be lamented; neither shall they be buried; but they shall be as dung upon the face of the earth: and they shall be consumed by the sword, and by famine; and their carcases shall be meat for the fowls of heaven, and for the beasts of the earth."
+        },
+        {
+          "verse": 5,
+          "text": "For thus saith the LORD, Enter not into the house of mourning, neither go to lament nor bemoan them: for I have taken away my peace from this people, saith the LORD, even lovingkindness and mercies."
+        },
+        {
+          "verse": 6,
+          "text": "Both the great and the small shall die in this land: they shall not be buried, neither shall men lament for them, nor cut themselves, nor make themselves bald for them:"
+        },
+        {
+          "verse": 7,
+          "text": "Neither shall men tear themselves for them in mourning, to comfort them for the dead; neither shall men give them the cup of consolation to drink for their father or for their mother."
+        },
+        {
+          "verse": 8,
+          "text": "Thou shalt not also go into the house of feasting, to sit with them to eat and to drink."
+        },
+        {
+          "verse": 9,
+          "text": "For thus saith the LORD of hosts, the God of Israel; Behold, I will cause to cease out of this place in your eyes, and in your days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride."
+        },
+        {
+          "verse": 10,
+          "text": "And it shall come to pass, when thou shalt shew this people all these words, and they shall say unto thee, Wherefore hath the LORD pronounced all this great evil against us? or what is our iniquity? or what is our sin that we have committed against the LORD our God?"
+        },
+        {
+          "verse": 11,
+          "text": "Then shalt thou say unto them, Because your fathers have forsaken me, saith the LORD, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;"
+        },
+        {
+          "verse": 12,
+          "text": "And ye have done worse than your fathers; for, behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me:"
+        },
+        {
+          "verse": 13,
+          "text": "Therefore will I cast you out of this land into a land that ye know not, neither ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour."
+        },
+        {
+          "verse": 14,
+          "text": "Therefore, behold, the days come, saith the LORD, that it shall no more be said, The LORD liveth, that brought up the children of Israel out of the land of Egypt;"
+        },
+        {
+          "verse": 15,
+          "text": "But, The LORD liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers."
+        },
+        {
+          "verse": 16,
+          "text": "Behold, I will send for many fishers, saith the LORD, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks."
+        },
+        {
+          "verse": 17,
+          "text": "For mine eyes are upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes."
+        },
+        {
+          "verse": 18,
+          "text": "And first I will recompense their iniquity and their sin double; because they have defiled my land, they have filled mine inheritance with the carcases of their detestable and abominable things."
+        },
+        {
+          "verse": 19,
+          "text": "O LORD, my strength, and my fortress, and my refuge in the day of affliction, the Gentiles shall come unto thee from the ends of the earth, and shall say, Surely our fathers have inherited lies, vanity, and things wherein there is no profit."
+        },
+        {
+          "verse": 20,
+          "text": "Shall a man make gods unto himself, and they are no gods?"
+        },
+        {
+          "verse": 21,
+          "text": "Therefore, behold, I will this once cause them to know, I will cause them to know mine hand and my might; and they shall know that my name is The LORD."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 699
+    },
+    {
+      "book": "John",
+      "chapter_number": 14,
+      "chapter_title": "John 14",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Let not your heart be troubled: ye believe in God, believe also in me."
+        },
+        {
+          "verse": 2,
+          "text": "In my Father’s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you."
+        },
+        {
+          "verse": 3,
+          "text": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also."
+        },
+        {
+          "verse": 4,
+          "text": "And whither I go ye know, and the way ye know."
+        },
+        {
+          "verse": 5,
+          "text": "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?"
+        },
+        {
+          "verse": 6,
+          "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me."
+        },
+        {
+          "verse": 7,
+          "text": "If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him."
+        },
+        {
+          "verse": 8,
+          "text": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us."
+        },
+        {
+          "verse": 9,
+          "text": "Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?"
+        },
+        {
+          "verse": 10,
+          "text": "Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works."
+        },
+        {
+          "verse": 11,
+          "text": "Believe me that I am in the Father, and the Father in me: or else believe me for the very works’ sake."
+        },
+        {
+          "verse": 12,
+          "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
+        },
+        {
+          "verse": 13,
+          "text": "And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son."
+        },
+        {
+          "verse": 14,
+          "text": "If ye shall ask any thing in my name, I will do it."
+        },
+        {
+          "verse": 15,
+          "text": "If ye love me, keep my commandments."
+        },
+        {
+          "verse": 16,
+          "text": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;"
+        },
+        {
+          "verse": 17,
+          "text": "Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you."
+        },
+        {
+          "verse": 18,
+          "text": "I will not leave you comfortless: I will come to you."
+        },
+        {
+          "verse": 19,
+          "text": "Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also."
+        },
+        {
+          "verse": 20,
+          "text": "At that day ye shall know that I am in my Father, and ye in me, and I in you."
+        },
+        {
+          "verse": 21,
+          "text": "He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him."
+        },
+        {
+          "verse": 22,
+          "text": "Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?"
+        },
+        {
+          "verse": 23,
+          "text": "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him."
+        },
+        {
+          "verse": 24,
+          "text": "He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me."
+        },
+        {
+          "verse": 25,
+          "text": "These things have I spoken unto you, being yet present with you."
+        },
+        {
+          "verse": 26,
+          "text": "But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you."
+        },
+        {
+          "verse": 27,
+          "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid."
+        },
+        {
+          "verse": 28,
+          "text": "Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I."
+        },
+        {
+          "verse": 29,
+          "text": "And now I have told you before it come to pass, that, when it is come to pass, ye might believe."
+        },
+        {
+          "verse": 30,
+          "text": "Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me."
+        },
+        {
+          "verse": 31,
+          "text": "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 733
+    }
+  ]
+}

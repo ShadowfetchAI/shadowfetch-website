@@ -1,0 +1,412 @@
+{
+  "day_number": 141,
+  "references": "Judges 1 • Psalms 99 • Ezekiel 18 • 1 Corinthians 8",
+  "word_count": 2355,
+  "estimated_minutes": 11,
+  "translation": "King James Version",
+  "canon": "Protestant",
+  "quote": {
+    "verse": "Psalms 99:3",
+    "text": "Let them praise thy great and terrible name; for it is holy.",
+    "reflection": "This verse is a good place to begin when you need calm before clarity."
+  },
+  "tomorrow_teaser": "Judges 2 • Psalms 100 • Ezekiel 19 • 1 Corinthians 9",
+  "chapters": [
+    {
+      "book": "Judges",
+      "chapter_number": 1,
+      "chapter_title": "Judges 1",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?"
+        },
+        {
+          "verse": 2,
+          "text": "And the LORD said, Judah shall go up: behold, I have delivered the land into his hand."
+        },
+        {
+          "verse": 3,
+          "text": "And Judah said unto Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with thee into thy lot. So Simeon went with him."
+        },
+        {
+          "verse": 4,
+          "text": "And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men."
+        },
+        {
+          "verse": 5,
+          "text": "And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites."
+        },
+        {
+          "verse": 6,
+          "text": "But Adonibezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes."
+        },
+        {
+          "verse": 7,
+          "text": "And Adonibezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died."
+        },
+        {
+          "verse": 8,
+          "text": "Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire."
+        },
+        {
+          "verse": 9,
+          "text": "And afterward the children of Judah went down to fight against the Canaanites, that dwelt in the mountain, and in the south, and in the valley."
+        },
+        {
+          "verse": 10,
+          "text": "And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before was Kirjatharba:) and they slew Sheshai, and Ahiman, and Talmai."
+        },
+        {
+          "verse": 11,
+          "text": "And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:"
+        },
+        {
+          "verse": 12,
+          "text": "And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife."
+        },
+        {
+          "verse": 13,
+          "text": "And Othniel the son of Kenaz, Caleb’s younger brother, took it: and he gave him Achsah his daughter to wife."
+        },
+        {
+          "verse": 14,
+          "text": "And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What wilt thou?"
+        },
+        {
+          "verse": 15,
+          "text": "And she said unto him, Give me a blessing: for thou hast given me a south land; give me also springs of water. And Caleb gave her the upper springs and the nether springs."
+        },
+        {
+          "verse": 16,
+          "text": "And the children of the Kenite, Moses’ father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which lieth in the south of Arad; and they went and dwelt among the people."
+        },
+        {
+          "verse": 17,
+          "text": "And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah."
+        },
+        {
+          "verse": 18,
+          "text": "Also Judah took Gaza with the coast thereof, and Askelon with the coast thereof, and Ekron with the coast thereof."
+        },
+        {
+          "verse": 19,
+          "text": "And the LORD was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron."
+        },
+        {
+          "verse": 20,
+          "text": "And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak."
+        },
+        {
+          "verse": 21,
+          "text": "And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day."
+        },
+        {
+          "verse": 22,
+          "text": "And the house of Joseph, they also went up against Bethel: and the LORD was with them."
+        },
+        {
+          "verse": 23,
+          "text": "And the house of Joseph sent to descry Bethel. (Now the name of the city before was Luz.)"
+        },
+        {
+          "verse": 24,
+          "text": "And the spies saw a man come forth out of the city, and they said unto him, Shew us, we pray thee, the entrance into the city, and we will shew thee mercy."
+        },
+        {
+          "verse": 25,
+          "text": "And when he shewed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family."
+        },
+        {
+          "verse": 26,
+          "text": "And the man went into the land of the Hittites, and built a city, and called the name thereof Luz: which is the name thereof unto this day."
+        },
+        {
+          "verse": 27,
+          "text": "Neither did Manasseh drive out the inhabitants of Bethshean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land."
+        },
+        {
+          "verse": 28,
+          "text": "And it came to pass, when Israel was strong, that they put the Canaanites to tribute, and did not utterly drive them out."
+        },
+        {
+          "verse": 29,
+          "text": "Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them."
+        },
+        {
+          "verse": 30,
+          "text": "Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries."
+        },
+        {
+          "verse": 31,
+          "text": "Neither did Asher drive out the inhabitants of Accho, nor the inhabitants of Zidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob:"
+        },
+        {
+          "verse": 32,
+          "text": "But the Asherites dwelt among the Canaanites, the inhabitants of the land: for they did not drive them out."
+        },
+        {
+          "verse": 33,
+          "text": "Neither did Naphtali drive out the inhabitants of Bethshemesh, nor the inhabitants of Bethanath; but he dwelt among the Canaanites, the inhabitants of the land: nevertheless the inhabitants of Bethshemesh and of Bethanath became tributaries unto them."
+        },
+        {
+          "verse": 34,
+          "text": "And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley:"
+        },
+        {
+          "verse": 35,
+          "text": "But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries."
+        },
+        {
+          "verse": 36,
+          "text": "And the coast of the Amorites was from the going up to Akrabbim, from the rock, and upward."
+        }
+      ],
+      "verse_count": 36,
+      "word_count": 963
+    },
+    {
+      "book": "Psalms",
+      "chapter_number": 99,
+      "chapter_title": "Psalms 99",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved."
+        },
+        {
+          "verse": 2,
+          "text": "The LORD is great in Zion; and he is high above all the people."
+        },
+        {
+          "verse": 3,
+          "text": "Let them praise thy great and terrible name; for it is holy."
+        },
+        {
+          "verse": 4,
+          "text": "The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob."
+        },
+        {
+          "verse": 5,
+          "text": "Exalt ye the LORD our God, and worship at his footstool; for he is holy."
+        },
+        {
+          "verse": 6,
+          "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them."
+        },
+        {
+          "verse": 7,
+          "text": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them."
+        },
+        {
+          "verse": 8,
+          "text": "Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions."
+        },
+        {
+          "verse": 9,
+          "text": "Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy."
+        }
+      ],
+      "verse_count": 9,
+      "word_count": 158
+    },
+    {
+      "book": "Ezekiel",
+      "chapter_number": 18,
+      "chapter_title": "Ezekiel 18",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The word of the LORD came unto me again, saying,"
+        },
+        {
+          "verse": 2,
+          "text": "What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children’s teeth are set on edge?"
+        },
+        {
+          "verse": 3,
+          "text": "As I live, saith the Lord GOD, ye shall not have occasion any more to use this proverb in Israel."
+        },
+        {
+          "verse": 4,
+          "text": "Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die."
+        },
+        {
+          "verse": 5,
+          "text": "But if a man be just, and do that which is lawful and right,"
+        },
+        {
+          "verse": 6,
+          "text": "And hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, neither hath come near to a menstruous woman,"
+        },
+        {
+          "verse": 7,
+          "text": "And hath not oppressed any, but hath restored to the debtor his pledge, hath spoiled none by violence, hath given his bread to the hungry, and hath covered the naked with a garment;"
+        },
+        {
+          "verse": 8,
+          "text": "He that hath not given forth upon usury, neither hath taken any increase, that hath withdrawn his hand from iniquity, hath executed true judgment between man and man,"
+        },
+        {
+          "verse": 9,
+          "text": "Hath walked in my statutes, and hath kept my judgments, to deal truly; he is just, he shall surely live, saith the Lord GOD."
+        },
+        {
+          "verse": 10,
+          "text": "If he beget a son that is a robber, a shedder of blood, and that doeth the like to any one of these things,"
+        },
+        {
+          "verse": 11,
+          "text": "And that doeth not any of those duties, but even hath eaten upon the mountains, and defiled his neighbour’s wife,"
+        },
+        {
+          "verse": 12,
+          "text": "Hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination,"
+        },
+        {
+          "verse": 13,
+          "text": "Hath given forth upon usury, and hath taken increase: shall he then live? he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him."
+        },
+        {
+          "verse": 14,
+          "text": "Now, lo, if he beget a son, that seeth all his father’s sins which he hath done, and considereth, and doeth not such like,"
+        },
+        {
+          "verse": 15,
+          "text": "That hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, hath not defiled his neighbour’s wife,"
+        },
+        {
+          "verse": 16,
+          "text": "Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, but hath given his bread to the hungry, and hath covered the naked with a garment,"
+        },
+        {
+          "verse": 17,
+          "text": "That hath taken off his hand from the poor, that hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live."
+        },
+        {
+          "verse": 18,
+          "text": "As for his father, because he cruelly oppressed, spoiled his brother by violence, and did that which is not good among his people, lo, even he shall die in his iniquity."
+        },
+        {
+          "verse": 19,
+          "text": "Yet say ye, Why? doth not the son bear the iniquity of the father? When the son hath done that which is lawful and right, and hath kept all my statutes, and hath done them, he shall surely live."
+        },
+        {
+          "verse": 20,
+          "text": "The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him."
+        },
+        {
+          "verse": 21,
+          "text": "But if the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die."
+        },
+        {
+          "verse": 22,
+          "text": "All his transgressions that he hath committed, they shall not be mentioned unto him: in his righteousness that he hath done he shall live."
+        },
+        {
+          "verse": 23,
+          "text": "Have I any pleasure at all that the wicked should die? saith the Lord GOD: and not that he should return from his ways, and live?"
+        },
+        {
+          "verse": 24,
+          "text": "But when the righteous turneth away from his righteousness, and committeth iniquity, and doeth according to all the abominations that the wicked man doeth, shall he live? All his righteousness that he hath done shall not be mentioned: in his trespass that he hath trespassed, and in his sin that he hath sinned, in them shall he die."
+        },
+        {
+          "verse": 25,
+          "text": "Yet ye say, The way of the LORD is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?"
+        },
+        {
+          "verse": 26,
+          "text": "When a righteous man turneth away from his righteousness, and committeth iniquity, and dieth in them; for his iniquity that he hath done shall he die."
+        },
+        {
+          "verse": 27,
+          "text": "Again, when the wicked man turneth away from his wickedness that he hath committed, and doeth that which is lawful and right, he shall save his soul alive."
+        },
+        {
+          "verse": 28,
+          "text": "Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die."
+        },
+        {
+          "verse": 29,
+          "text": "Yet saith the house of Israel, The way of the LORD is not equal. O house of Israel, are not my ways equal? are not your ways unequal?"
+        },
+        {
+          "verse": 30,
+          "text": "Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord GOD. Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin."
+        },
+        {
+          "verse": 31,
+          "text": "Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?"
+        },
+        {
+          "verse": 32,
+          "text": "For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn yourselves, and live ye."
+        }
+      ],
+      "verse_count": 32,
+      "word_count": 924
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter_number": 8,
+      "chapter_title": "1 Corinthians 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth."
+        },
+        {
+          "verse": 2,
+          "text": "And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know."
+        },
+        {
+          "verse": 3,
+          "text": "But if any man love God, the same is known of him."
+        },
+        {
+          "verse": 4,
+          "text": "As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world, and that there is none other God but one."
+        },
+        {
+          "verse": 5,
+          "text": "For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)"
+        },
+        {
+          "verse": 6,
+          "text": "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him."
+        },
+        {
+          "verse": 7,
+          "text": "Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled."
+        },
+        {
+          "verse": 8,
+          "text": "But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse."
+        },
+        {
+          "verse": 9,
+          "text": "But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak."
+        },
+        {
+          "verse": 10,
+          "text": "For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;"
+        },
+        {
+          "verse": 11,
+          "text": "And through thy knowledge shall the weak brother perish, for whom Christ died?"
+        },
+        {
+          "verse": 12,
+          "text": "But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ."
+        },
+        {
+          "verse": 13,
+          "text": "Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend."
+        }
+      ],
+      "verse_count": 13,
+      "word_count": 310
+    }
+  ]
+}

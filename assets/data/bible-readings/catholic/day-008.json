@@ -1,0 +1,521 @@
+{
+  "day_number": 8,
+  "references": "Genesis 15-16 • Job 8 • Isaias 8 • Matthew 8",
+  "word_count": 2555,
+  "estimated_minutes": 12,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Matthew 8:7",
+    "text": "And Jesus saith to him: I will come, and heal him.",
+    "reflection": "Carry this line with you and let it soften the edges of whatever waits today."
+  },
+  "tomorrow_teaser": "Genesis 17-18 • Job 9 • Isaias 9 • Matthew 9",
+  "chapters": [
+    {
+      "book": "Genesis",
+      "chapter_number": 15,
+      "chapter_title": "Genesis 15",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now when these things were done, *the word of the Lord came to Abram by a vision, saying: Fear not, Abram, I am thy protector, and thy reward exceeding great."
+        },
+        {
+          "verse": 2,
+          "text": "And Abram said: Lord God, what wilt thou give me? I shall go without children: and the son of the steward of my house is this Damascus Eliezer."
+        },
+        {
+          "verse": 3,
+          "text": "And Abram added: But to me thou hast not given seed: and lo my servant born in my house, shall be my heir."
+        },
+        {
+          "verse": 4,
+          "text": "And immediately the word of the Lord came to him, saying: He shall not be thy heir: but he that shall come out of thy bowels, him shalt thou have for thy heir."
+        },
+        {
+          "verse": 5,
+          "text": "And he brought him forth abroad, and said to him: *Look up to heaven and number the stars if thou canst. And he said to him: So shall thy seed be."
+        },
+        {
+          "verse": 6,
+          "text": "*Abram believed God, and it was reputed to him unto justice."
+        },
+        {
+          "verse": 7,
+          "text": "And he said to him: I am the Lord who brought thee out from Ur of the Chaldees, to give thee this land, and that thou mightest possess it."
+        },
+        {
+          "verse": 8,
+          "text": "But he said: Lord God, whereby may I know that I shall possess it?"
+        },
+        {
+          "verse": 9,
+          "text": "And the Lord answered, and said: Take me a cow of three years old, and a she-goat of three years, and a ram of three years, a turtle also, and a pigeon."
+        },
+        {
+          "verse": 10,
+          "text": "*And he took all these, and divided them in the midst, and laid the two pieces of each one against the other: but the birds he divided not."
+        },
+        {
+          "verse": 11,
+          "text": "And the fowls came down upon carcasses, and Abram drove them away."
+        },
+        {
+          "verse": 12,
+          "text": "And when the sun was setting, a deep sleep fell upon Abram, and a great and darksome horror seized upon him."
+        },
+        {
+          "verse": 13,
+          "text": "And it was said unto him: *Know thou beforehand that thy seed shall be a stranger in a land not their own, and they shall bring them under bondage, and afflict them four hundred years."
+        },
+        {
+          "verse": 14,
+          "text": "But I will judge the nation which they shall serve, and after this they shall come out with great substance."
+        },
+        {
+          "verse": 15,
+          "text": "And thou shalt go to thy fathers in peace, and be buried in a good old age."
+        },
+        {
+          "verse": 16,
+          "text": "But in the fourth generation they shall return hither: for as yet the iniquities of the Amorrhites are not at the full until this present time."
+        },
+        {
+          "verse": 17,
+          "text": "And when the sun was set, there arose a dark mist, and there appeared a smoking furnace, and a lamp of fire passing between those divisions."
+        },
+        {
+          "verse": 18,
+          "text": "*That day God made a covenant with Abram, saying: To thy seed will I give this land, from the river of Egypt even to the great river Euphrates."
+        },
+        {
+          "verse": 19,
+          "text": "The Cineans, and Cenezites, the Cedmonites,"
+        },
+        {
+          "verse": 20,
+          "text": "And the Hethites, and the Pherezites, the Raphaim also,"
+        },
+        {
+          "verse": 21,
+          "text": "And the Amorrhites, and the Chanaanites, and the Gergesites, and the Jebusites."
+        }
+      ],
+      "verse_count": 21,
+      "word_count": 471
+    },
+    {
+      "book": "Genesis",
+      "chapter_number": 16,
+      "chapter_title": "Genesis 16",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now Sarai, the wife of Abram, had brought forth no children: having a handmaid, an Egyptian, named Agar,"
+        },
+        {
+          "verse": 2,
+          "text": "She said to her husband: Behold, the Lord hath restrained me from bearing: go in unto my handmaid, it may be I may have children of her at least. And when he agreed to her request,"
+        },
+        {
+          "verse": 3,
+          "text": "She took Agar the Egyptian her handmaid, *ten years after they first dwelt in the land of Chanaan, and gave her to her husband to wife."
+        },
+        {
+          "verse": 4,
+          "text": "And he went in to her. But she perceiving that she was with child, despised her mistress."
+        },
+        {
+          "verse": 5,
+          "text": "And Sarai said to Abram: Thou dost unjustly with me: I gave my handmaid into thy bosom, and she perceiving herself to be with child, despiseth me. The Lord judge between me and thee."
+        },
+        {
+          "verse": 6,
+          "text": "And Abram made answer, and said to her: Behold thy handmaid is in thy own hand, use her as it pleaseth thee. And when Sarai afflicted her, she ran away."
+        },
+        {
+          "verse": 7,
+          "text": "And the angel of the Lord having found her, by a fountain of water in the wilderness, which is in the way to Sur in the desert,"
+        },
+        {
+          "verse": 8,
+          "text": "He said to her: Agar, handmaid of Sarai, whence comest thou? and whither goest thou? And she answered: I flee from the face of Sarai, my mistress."
+        },
+        {
+          "verse": 9,
+          "text": "And the angel of the Lord said to her: Return to thy mistress, and humble thyself under her hand."
+        },
+        {
+          "verse": 10,
+          "text": "And again he said: I will multiply thy seed exceedingly, and it shall not be numbered for multitude."
+        },
+        {
+          "verse": 11,
+          "text": "And again: Behold, said he, thou art with child, and thou shalt bring forth a son: and thou shalt call his name Ismael, because the Lord hath heard thy affliction."
+        },
+        {
+          "verse": 12,
+          "text": "He shall be a wild man: his hand will be against all men, and all men's hands against him: and he shall pitch his tents over against all his brethren."
+        },
+        {
+          "verse": 13,
+          "text": "And she called the name of the Lord that spoke unto her: Thou the God who hast seen me. For she said: Verily, here have I seen the hinder parts of him that seeth me.*"
+        },
+        {
+          "verse": 14,
+          "text": "Therefore she called that well, the well of him that liveth and seeth me. The same is between Cades and Barad."
+        },
+        {
+          "verse": 15,
+          "text": "And Agar brought forth a son to Abram: who called his name Ismael."
+        },
+        {
+          "verse": 16,
+          "text": "Abram was four score and six years old when Agar brought him forth Ismael."
+        }
+      ],
+      "verse_count": 16,
+      "word_count": 395
+    },
+    {
+      "book": "Job",
+      "chapter_number": 8,
+      "chapter_title": "Job 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Then Baldad, the Suhite, answered, and said:"
+        },
+        {
+          "verse": 2,
+          "text": "How long wilt thou speak these things, and how long shall the words of thy mouth be like a strong wind?"
+        },
+        {
+          "verse": 3,
+          "text": "Doth God pervert judgment, or doth the Almighty overthrow that which is just?"
+        },
+        {
+          "verse": 4,
+          "text": "Although thy children have sinned against him, and he hath left them in the hand of their iniquity:"
+        },
+        {
+          "verse": 5,
+          "text": "Yet if thou wilt arise early to God, and wilt beseech the Almighty:"
+        },
+        {
+          "verse": 6,
+          "text": "If thou wilt walk clean and upright, he will presently awake unto thee, and will make the dwelling of thy justice peaceable:"
+        },
+        {
+          "verse": 7,
+          "text": "In so much, that if thy former things were small, thy latter things would be multiplied exceedingly."
+        },
+        {
+          "verse": 8,
+          "text": "For inquire of the former generation, and search diligently into the memory of the fathers:"
+        },
+        {
+          "verse": 9,
+          "text": "(For we are but of yesterday, and are ignorant* that our days upon earth are but a shadow:)"
+        },
+        {
+          "verse": 10,
+          "text": "And they shall teach thee: they shall speak to thee, and utter words out of their hearts."
+        },
+        {
+          "verse": 11,
+          "text": "Can the rush be green without moisture? or a sedge-bush grow without water?"
+        },
+        {
+          "verse": 12,
+          "text": "When it is yet in flower, and is not plucked up with the hand, it withereth before all herbs."
+        },
+        {
+          "verse": 13,
+          "text": "Even so are the ways of all that forget God, and the hope of the hypocrite shall perish:"
+        },
+        {
+          "verse": 14,
+          "text": "His folly shall not please him, and his trust shall be like the spider's web."
+        },
+        {
+          "verse": 15,
+          "text": "He shall lean upon his house, and it shall not stand: he shall prop it up, and it shall not rise:"
+        },
+        {
+          "verse": 16,
+          "text": "He seemeth to have moisture before the sun cometh; and at his rising, his blossom shall shoot forth."
+        },
+        {
+          "verse": 17,
+          "text": "His roots shall be thick upon a heap of stones, and among the stones he shall abide."
+        },
+        {
+          "verse": 18,
+          "text": "If one swallow him up out of his place, he shall deny him, and shall say: I know thee not."
+        },
+        {
+          "verse": 19,
+          "text": "For this is the joy of his way, that others may spring again out of the earth."
+        },
+        {
+          "verse": 20,
+          "text": "God will not cast away the simple, nor reach out his hand to the evil doer:"
+        },
+        {
+          "verse": 21,
+          "text": "Until thy mouth be filled with laughter, and thy lips with rejoicing."
+        },
+        {
+          "verse": 22,
+          "text": "They that hate thee, shall be clothed with confusion: and the dwelling of the wicked shall not stand."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 365
+    },
+    {
+      "book": "Isaias",
+      "chapter_number": 8,
+      "chapter_title": "Isaias 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Lord said to me: Take thee a great book, and write in it with a man's pen. Take away the spoils with speed, quickly take the prey."
+        },
+        {
+          "verse": 2,
+          "text": "And I took unto me faithful witnesses, Urias, the priest, and Zacharias, the son of Barachias."
+        },
+        {
+          "verse": 3,
+          "text": "And I went to the prophetess, and she conceived, and bore a son. And the Lord said to me: Call his name, Hasten to take away the spoils: Make haste to take away the prey."
+        },
+        {
+          "verse": 4,
+          "text": "For before the child know to call his father and his mother, the strength of Damascus, and the spoils of Samaria shall be taken away before the king of the Assyrians."
+        },
+        {
+          "verse": 5,
+          "text": "And the Lord spoke to me again, saying:"
+        },
+        {
+          "verse": 6,
+          "text": "Forasmuch as this people hath cast away the waters of Siloe, that go with silence, and hath rather taken Rasin, and the son of Romelia:"
+        },
+        {
+          "verse": 7,
+          "text": "Therefore, behold the Lord will bring upon them the waters of the river, strong and many, the king of the Assyrians, and all his glory: and he shall come up over all his channels, and shall overflow all his banks,"
+        },
+        {
+          "verse": 8,
+          "text": "And shall pass through Juda, overflowing, and going over, shall reach even to the neck. And the stretching out of his wings shall fill the breadth of thy land, O Emmanuel."
+        },
+        {
+          "verse": 9,
+          "text": "Gather yourselves together, O ye people, and be overcome, and give ear, all ye lands afar off: strengthen yourselves, and be overcome, gird yourselves, and be overcome."
+        },
+        {
+          "verse": 10,
+          "text": "Take counsel together, and it shall be defeated: speak a word, and it shall not be done: because God is with us."
+        },
+        {
+          "verse": 11,
+          "text": "For thus saith the Lord to me: As he hath taught me, with a strong arm, that I should not walk in the way of this people, saying:"
+        },
+        {
+          "verse": 12,
+          "text": "Say ye not: A conspiracy: for all that this people speaketh, is a conspiracy: neither fear ye their fear, nor be afraid."
+        },
+        {
+          "verse": 13,
+          "text": "Sanctify the Lord of hosts himself: and let him be your fear, and let him be your dread."
+        },
+        {
+          "verse": 14,
+          "text": "And he shall be a sanctification to you. *But for a stone of stumbling, and for a rock of offence to the two houses of Israel, for a snare and a ruin to the inhabitants of Jerusalem."
+        },
+        {
+          "verse": 15,
+          "text": "And very many of them shall stumble and fall, and shall be broken in pieces, and shall be snared, and taken."
+        },
+        {
+          "verse": 16,
+          "text": "Bind up the testimony, seal the law among my disciples."
+        },
+        {
+          "verse": 17,
+          "text": "And I will wait for the Lord, who hath hid his face from the house of Jacob, and I will look for him."
+        },
+        {
+          "verse": 18,
+          "text": "Behold I and my children, whom the Lord hath given me for a sign, and for a wonder in Israel, from the Lord of hosts, who dwelleth in Mount Sion."
+        },
+        {
+          "verse": 19,
+          "text": "And when they shall say to you: Seek of pythons, and of diviners, who mutter in their enchantments: should not the people seek of their God, for the living of the dead?"
+        },
+        {
+          "verse": 20,
+          "text": "To the law rather, and to the testimony. And if they speak not according to this word, they shall not have the morning light."
+        },
+        {
+          "verse": 21,
+          "text": "And they shall pass by it, they shall fall, and be hungry: and when they shall be hungry, they will be angry, and curse their king, and their God, and look upwards."
+        },
+        {
+          "verse": 22,
+          "text": "And they shall look to the earth, and behold trouble and darkness, weakness and distress, and a mist following them, and they cannot fly away from their distress."
+        }
+      ],
+      "verse_count": 22,
+      "word_count": 569
+    },
+    {
+      "book": "Matthew",
+      "chapter_number": 8,
+      "chapter_title": "Matthew 8",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And when he was come down from the mountain, great multitudes followed him:"
+        },
+        {
+          "verse": 2,
+          "text": "*And behold a leper coming, adored him, saying: Lord, if thou wilt, thou canst make me clean."
+        },
+        {
+          "verse": 3,
+          "text": "And Jesus stretching forth his hand, touched him, saying: I will. Be thou made clean. And immediately his leprosy was cleansed."
+        },
+        {
+          "verse": 4,
+          "text": "And Jesus saith to him: See thou tell no man: but go, *shew thyself to the priest, and offer the gift which Moses commanded for a testimony to them."
+        },
+        {
+          "verse": 5,
+          "text": "And when he had entered into Capharnaum, *there came to him a centurion, beseeching him,"
+        },
+        {
+          "verse": 6,
+          "text": "And saying: Lord, my servant lieth at home sick of the palsy, and is grieviously tormented."
+        },
+        {
+          "verse": 7,
+          "text": "And Jesus saith to him: I will come, and heal him."
+        },
+        {
+          "verse": 8,
+          "text": "And the centurion making answer, said: *Lord, I am not worthy that thou shouldst enter under my roof: but only say the word, and my servant shall be healed."
+        },
+        {
+          "verse": 9,
+          "text": "For I also am a man subject to authority, having soldiers under me, and I say to this man, Go, and he goeth: and to another, Come, and he cometh: and to my servant, Do this, and he doth it."
+        },
+        {
+          "verse": 10,
+          "text": "And Jesus hearing this, marvelled, and said to them that followed him: Amen, I say to you, I have not found so great faith in Israel."
+        },
+        {
+          "verse": 11,
+          "text": "And I say unto you, that many shall come from the *East and the West, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven:"
+        },
+        {
+          "verse": 12,
+          "text": "But the children of the kingdom shall be cast out into the exterior darkness: there shall be weeping and gnashing of teeth."
+        },
+        {
+          "verse": 13,
+          "text": "And Jesus said to the centurion: Go, and as thou hast believed, so be it done to thee. And the servant was healed at the same hour."
+        },
+        {
+          "verse": 14,
+          "text": "And when Jesus was come into Peter's house, he saw his mother-in-law lying, and sick of a fever:"
+        },
+        {
+          "verse": 15,
+          "text": "And he touched her hand, and the fever left her, and she arose and ministered to them."
+        },
+        {
+          "verse": 16,
+          "text": "*And when evening was come, they brought to him many that were possessed with devils: and he cast out the spirits with his word: and all that were sick he healed:"
+        },
+        {
+          "verse": 17,
+          "text": "That it might be fulfilled, which was spoken by the prophet *Isaias, saying: He took our infirmities, and bore our diseases."
+        },
+        {
+          "verse": 18,
+          "text": "And Jesus seeing great multitudes about him, gave orders to pass over the water."
+        },
+        {
+          "verse": 19,
+          "text": "And a certain scribe came and said to him: Master, I will follow thee whithersoever thou shalt go."
+        },
+        {
+          "verse": 20,
+          "text": "And Jesus saith to him: *The foxes have holes, and the birds of the air nests: but the son of man hath not where to lay his head."
+        },
+        {
+          "verse": 21,
+          "text": "And another of his disciples said to him: Lord, permit me first to go, and bury my father."
+        },
+        {
+          "verse": 22,
+          "text": "But Jesus said to him: Follow me, and let the dead bury their dead."
+        },
+        {
+          "verse": 23,
+          "text": "*And when he entered into the boat, his disciples followed him."
+        },
+        {
+          "verse": 24,
+          "text": "And behold a great tempest arose in the sea, so that the boat was covered with waves, but he was asleep."
+        },
+        {
+          "verse": 25,
+          "text": "And his disciples came to him, and awaked him, saying: Lord, save us, we perish."
+        },
+        {
+          "verse": 26,
+          "text": "And Jesus saith to them: Why are you fearful, O ye of little faith? Then rising up, he commanded the winds, and the sea, and there came a great calm."
+        },
+        {
+          "verse": 27,
+          "text": "But the men wondered, saying: What manner of man is this, for the winds, and the sea obey him?"
+        },
+        {
+          "verse": 28,
+          "text": "*And when he was come on the other side of the water, into the country of the Gerasens, there met him two that were possessed with devils, coming out of the sepulchres, exceeding fierce, so that no one could pass by that way."
+        },
+        {
+          "verse": 29,
+          "text": "And behold they cried out, saying: What have we to do with thee, Jesus, Son of God? art thou come hither to torment us before the time?"
+        },
+        {
+          "verse": 30,
+          "text": "*And not far from them, there was a herd of many swine feeding."
+        },
+        {
+          "verse": 31,
+          "text": "And the devils besought him, saying: If thou cast us out hence, send us into the herd of swine."
+        },
+        {
+          "verse": 32,
+          "text": "And he said to them: Go. But they going out went into the swine; and behold, the whole herd ran violently down a steep place into the sea, and perished in the waters."
+        },
+        {
+          "verse": 33,
+          "text": "And they that kept them, fled: and coming into the city, told every thing, and concerning them that had been possessed by the devils."
+        },
+        {
+          "verse": 34,
+          "text": "And behold the whole city went out to meet Jesus, *and when they saw him, they besought him that he would depart from their coasts."
+        }
+      ],
+      "verse_count": 34,
+      "word_count": 755
+    }
+  ]
+}

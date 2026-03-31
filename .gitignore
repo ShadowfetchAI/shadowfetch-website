@@ -6,3 +6,4 @@ dist/
 node_modules/
 .dev.vars
 .env
+content/bible-source-cache/

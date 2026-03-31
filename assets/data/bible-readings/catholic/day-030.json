@@ -1,0 +1,685 @@
+{
+  "day_number": 30,
+  "references": "Exodus 9-10 • Job 30 • Isaias 30 • Mark 2",
+  "word_count": 4117,
+  "estimated_minutes": 20,
+  "translation": "Douay-Rheims",
+  "canon": "Roman Catholic",
+  "quote": {
+    "verse": "Mark 2:28",
+    "text": "Therefore the Son of man is Lord also of the sabbath.",
+    "reflection": "Let this passage feel like lamp light: warm enough to guide, gentle enough to rest in."
+  },
+  "tomorrow_teaser": "Exodus 11-12 • Job 31 • Isaias 31 • Mark 3",
+  "chapters": [
+    {
+      "book": "Exodus",
+      "chapter_number": 9,
+      "chapter_title": "Exodus 9",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Lord said to Moses: Go in to Pharao, and speak to him: Thus saith the Lord God of the Hebrews: Let my people go to sacrifice to me."
+        },
+        {
+          "verse": 2,
+          "text": "But if thou refuse, and withhold them still:"
+        },
+        {
+          "verse": 3,
+          "text": "Behold my hand shall be upon thy fields; and a very grievous murrain upon thy horses, and asses, and camels, and oxen, and sheep."
+        },
+        {
+          "verse": 4,
+          "text": "And the Lord will make a wonderful difference between the possessions of Israel and the possessions of the Egyptians, that nothing at all shall die of those things that belong to the children of Israel."
+        },
+        {
+          "verse": 5,
+          "text": "And the Lord appointed a time, saying: To-morrow will the Lord do this thing in the land."
+        },
+        {
+          "verse": 6,
+          "text": "The Lord therefore did this thing the next day: and all the beasts of the Egyptians died, but of the beasts of the children of Israel there died not one."
+        },
+        {
+          "verse": 7,
+          "text": "And Pharao sent to see; and there was not any thing dead of that which Israel possessed. And Pharao's heart was hardened, and he did not let the people go."
+        },
+        {
+          "verse": 8,
+          "text": "And the Lord said to Moses and Aaron: Take to you handfuls of ashes out of the chimney, and let Moses sprinkle it in the air in the presence of Pharao."
+        },
+        {
+          "verse": 9,
+          "text": "And be there dust upon all the land of Egypt: for there shall be boils and swelling blains both in men and beasts, in the whole land of Egypt."
+        },
+        {
+          "verse": 10,
+          "text": "And they took ashes out of the chimney, and stood before Pharao, and Moses sprinkled it in the air; and there came boils with swelling blains in men and beasts."
+        },
+        {
+          "verse": 11,
+          "text": "Neither could the magicians stand before Moses for the boils that were upon them, and in all the land of Egypt."
+        },
+        {
+          "verse": 12,
+          "text": "And the Lord hardened Pharao's heart, and he hearkened not unto them, as the Lord had spoken to Moses."
+        },
+        {
+          "verse": 13,
+          "text": "And the Lord said to Moses: Arise in the morning, and stand before Pharao, and thou shalt say to him: Thus saith the Lord, the God of the Hebrews: Let my people go to sacrifice to me."
+        },
+        {
+          "verse": 14,
+          "text": "For I will at this time send all my plagues upon thy heart, and upon thy servants, and upon thy people; that thou mayst know there is none like me in all the earth."
+        },
+        {
+          "verse": 15,
+          "text": "For now I will stretch out my hand to strike thee, and thy people, with pestilence, and thou shalt perish from the earth."
+        },
+        {
+          "verse": 16,
+          "text": "*And therefore have I raised thee, that I may shew my power in thee, and my name may be spoken of throughout all the earth."
+        },
+        {
+          "verse": 17,
+          "text": "Dost thou yet hold back my people; and wilt thou not let them go?"
+        },
+        {
+          "verse": 18,
+          "text": "Behold I will cause it to rain to-morrow at this same hour, an exceeding great hail; such as hath not been in Egypt from the day that it was founded, until this present time."
+        },
+        {
+          "verse": 19,
+          "text": "Send therefore now presently, and gather together thy cattle, and all that thou hast in the field; for men and beasts, and all things that shall be found abroad, and not gathered together out of the fields which the hail shall fall upon, shall die."
+        },
+        {
+          "verse": 20,
+          "text": "He that feared the word of the Lord among Pharao's servants, made his servants and his cattle flee into houses:"
+        },
+        {
+          "verse": 21,
+          "text": "But he that regarded not the word of the Lord, left his servants, and his cattle in the fields."
+        },
+        {
+          "verse": 22,
+          "text": "And the Lord said to Moses: Stretch forth thy hand towards heaven, that there may be hail in the whole land of Egypt, upon men, and upon beasts, and upon every herb of the field in the land of Egypt."
+        },
+        {
+          "verse": 23,
+          "text": "*And Moses stretched forth his rod towards heaven, and the Lord sent thunder and hail, and lightnings running along the ground: and the Lord rained hail upon the land of Egypt."
+        },
+        {
+          "verse": 24,
+          "text": "And the hail and fire mixed with it drove on together: and it was of so great bigness, as never before was seen in the whole land of Egypt since that nation was founded."
+        },
+        {
+          "verse": 25,
+          "text": "And the hail destroyed through all the land of Egypt all things that were in the fields, both man and beast: and the hail smote every herb of the field, and it broke every tree of the country."
+        },
+        {
+          "verse": 26,
+          "text": "Only in the land of Gessen, where the children of Israel were, the hail fell not."
+        },
+        {
+          "verse": 27,
+          "text": "And Pharao sent and called Moses and Aaron, saying to them: I have sinned this time also, the Lord is just: I and my people, are wicked."
+        },
+        {
+          "verse": 28,
+          "text": "Pray ye to the Lord that the thunderings of God and the hail may cease: that I may let you go, and that you may stay here no longer."
+        },
+        {
+          "verse": 29,
+          "text": "Moses said: As soon as I am gone out of the city, I will stretch forth my hands to the Lord, and the thunders shall cease, and the hail shall be no more: that thou mayst know that the earth is the Lord's:"
+        },
+        {
+          "verse": 30,
+          "text": "But I know that neither thou, nor thy servants do yet fear the Lord God."
+        },
+        {
+          "verse": 31,
+          "text": "The flax therefore, and the barley were hurt, because the barley was green, and the flax was now bolled:"
+        },
+        {
+          "verse": 32,
+          "text": "But the wheat, and other winter corn were not hurt, because they were lateward."
+        },
+        {
+          "verse": 33,
+          "text": "And when Moses was gone from Pharao out of the city, he stretched forth his hands to the Lord: and the thunders and the hail ceased, neither did there drop any more rain upon the earth."
+        },
+        {
+          "verse": 34,
+          "text": "And Pharao seeing that the rain, and the hail, and the thunders were ceased, increased his sin:"
+        },
+        {
+          "verse": 35,
+          "text": "And his heart was hardened, and the heart of his servants, and it was made exceeding hard: neither did he let the children of Israel go, as the Lord had commanded by the hand of Moses."
+        }
+      ],
+      "verse_count": 35,
+      "word_count": 950
+    },
+    {
+      "book": "Exodus",
+      "chapter_number": 10,
+      "chapter_title": "Exodus 10",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And the Lord said to Moses: Go in to Pharao; for I have hardened his heart, and the heart of his servants: that I may work these my signs in him,"
+        },
+        {
+          "verse": 2,
+          "text": "And thou mayest tell in the ears of thy sons, and of thy grandsons, how often I have plagued the Egyptians, and wrought my signs amongst them: and you may know that I am the Lord."
+        },
+        {
+          "verse": 3,
+          "text": "Therefore Moses and Aaron went in to Pharao, and said to him: Thus saith the Lord God of the Hebrews: How long refusest thou to submit to me? let my people go, to sacrifice to me."
+        },
+        {
+          "verse": 4,
+          "text": "*But if thou resist, and wilt not let them go, behold I will bring in to-morrow the locust into thy coasts:"
+        },
+        {
+          "verse": 5,
+          "text": "To cover the face of the earth, that nothing thereof may appear, but that which the hail hath left may be eaten: for they shall feed upon all the trees that spring in the fields."
+        },
+        {
+          "verse": 6,
+          "text": "And they shall fill thy houses, and the houses of thy servants, and of all the Egyptians: such a number as thy fathers have not seen, nor thy grandfathers, from the time they were first upon the earth, until this present day. And he turned himself away, and went forth from Pharao."
+        },
+        {
+          "verse": 7,
+          "text": "And Pharao's servants said to him: How long shall we endure this scandal? let the men go to sacrifice to the Lord their God. Dost thou not see that Egypt is undone?"
+        },
+        {
+          "verse": 8,
+          "text": "And they called back Moses, and Aaron, to Pharao; and he said to them: Go, sacrifice to the Lord your God: who are they that shall go?"
+        },
+        {
+          "verse": 9,
+          "text": "Moses said: We will go with our young and old, with our sons and daughters, with our sheep and herds: for it is the solemnity of the Lord our God."
+        },
+        {
+          "verse": 10,
+          "text": "And Pharao answered: So be the Lord with you, as I shall let you and your children go: who can doubt but that you intend some great evil?"
+        },
+        {
+          "verse": 11,
+          "text": "It shall not be so: but go ye men only, and sacrifice to the Lord: for this yourselves also desired. And immediately they were cast out from Pharao's presence."
+        },
+        {
+          "verse": 12,
+          "text": "And the Lord said to Moses: Stretch forth thy hand upon the land of Egypt unto the locust, that it may come upon it, and devour every herb that is left after the hail."
+        },
+        {
+          "verse": 13,
+          "text": "And Moses stretched forth his rod upon the land of Egypt: and the Lord brought a burning wind all that day, and night; and when it was morning, the burning wind raised the locusts:"
+        },
+        {
+          "verse": 14,
+          "text": "And they came up over the whole land of Egypt; and rested in all the coasts of the Egyptians innumerable, the like as had not been before that time, nor shall be hereafter."
+        },
+        {
+          "verse": 15,
+          "text": "And they covered the whole face of the earth, wasting all things. And the grass of the earth was devoured, and what fruits soever were on the trees, which the hail had left; and there remained not any thing that was green on the trees, or in the herbs of the earth, in all Egypt."
+        },
+        {
+          "verse": 16,
+          "text": "Wherefore Pharao in haste called Moses and Aaron, and said to them: I have sinned against the Lord your God, and against you."
+        },
+        {
+          "verse": 17,
+          "text": "But now forgive me my sin this time also, and pray to the Lord your God, that he take away from me this death."
+        },
+        {
+          "verse": 18,
+          "text": "And Moses going forth from the presence of Pharao, prayed to the Lord:"
+        },
+        {
+          "verse": 19,
+          "text": "And he made a very strong wind to blow from the west, and it took the locusts and cast them into the Red Sea: there remained not so much as one in all the coasts of Egypt."
+        },
+        {
+          "verse": 20,
+          "text": "And the Lord hardened Pharao's heart, neither did he let the children of Israel go."
+        },
+        {
+          "verse": 21,
+          "text": "And the Lord said to Moses: Stretch out thy hand towards heaven: and may there be darkness upon the land of Egypt so thick that it may be felt."
+        },
+        {
+          "verse": 22,
+          "text": "And Moses stretch forth his hand towards heaven: and there came horrible darkness in all the land of Egypt for three days."
+        },
+        {
+          "verse": 23,
+          "text": "*No man saw his brother, nor moved himself out of the place where he was: **but wheresoever the children of Israel dwelt there was light."
+        },
+        {
+          "verse": 24,
+          "text": "And Pharao called Moses and Aaron, and said to them: Go, sacrifice to the Lord: let your sheep only, and herds remain, let your children go with you."
+        },
+        {
+          "verse": 25,
+          "text": "Moses said: Thou shalt give us also sacrifices and burnt-offerings, to the Lord our God."
+        },
+        {
+          "verse": 26,
+          "text": "All the flocks shall go with us: there shall not a hoof remain of them: for they are necessary for the service of the Lord our God: especially as we know not what must be offered, till we come to the very place."
+        },
+        {
+          "verse": 27,
+          "text": "And the Lord hardened Pharao's heart, and he would not let them go."
+        },
+        {
+          "verse": 28,
+          "text": "And Pharao said to Moses: Get thee from me, and beware thou see not my face any more: in what day soever thou shalt come in my sight, thou shalt die."
+        },
+        {
+          "verse": 29,
+          "text": "Moses answered: So shall it be as thou hast spoken, I will not see thy face any more."
+        }
+      ],
+      "verse_count": 29,
+      "word_count": 849
+    },
+    {
+      "book": "Job",
+      "chapter_number": 30,
+      "chapter_title": "Job 30",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "But now the younger in time scorn me, whose fathers I would not have set with the dogs of my flock:"
+        },
+        {
+          "verse": 2,
+          "text": "The strength of whose hands was to me as nothing, and they were thought unworthy of life itself."
+        },
+        {
+          "verse": 3,
+          "text": "Barren with want and hunger, who gnawed in the wilderness, disfigured with calamity and misery."
+        },
+        {
+          "verse": 4,
+          "text": "And they eat grass, and barks of trees, and the root of junipers was their food."
+        },
+        {
+          "verse": 5,
+          "text": "Who snatched up these things out of the valleys, and when they had found any of them, they ran to them with a cry."
+        },
+        {
+          "verse": 6,
+          "text": "They dwelt in the desert places of torrents, and in caves of the earth, or upon the gravel."
+        },
+        {
+          "verse": 7,
+          "text": "They pleased themselves among these kind of things, and counted it delightful to be under the briars."
+        },
+        {
+          "verse": 8,
+          "text": "The children of foolish and base men, and not appearing at all upon the earth."
+        },
+        {
+          "verse": 9,
+          "text": "Now I am turned into their song, and am become their bye-word."
+        },
+        {
+          "verse": 10,
+          "text": "They abhor me, and flee far from me, and are not afraid to spit in my face."
+        },
+        {
+          "verse": 11,
+          "text": "For he hath opened his quiver, and hath afflicted me, and hath put a bridle into my mouth."
+        },
+        {
+          "verse": 12,
+          "text": "At the right hand of my rising, my calamities forthwith arose: they have overthrown my feet, and have overwhelmed me with their paths as with waves."
+        },
+        {
+          "verse": 13,
+          "text": "They have destroyed my ways, they have lain in wait against me, and they have prevailed, and there was none to help."
+        },
+        {
+          "verse": 14,
+          "text": "They have rushed in upon me, as when a wall is broken, and a gate opened, and have rolled themselves down to my miseries."
+        },
+        {
+          "verse": 15,
+          "text": "I am brought to nothing: as a wind thou hast taken away my desire: and my prosperity hath passed away like a cloud."
+        },
+        {
+          "verse": 16,
+          "text": "And now my soul fadeth within myself, and the days of affliction possess me."
+        },
+        {
+          "verse": 17,
+          "text": "In the night my bone is pierced with sorrows: and they that feed upon me, do not sleep."
+        },
+        {
+          "verse": 18,
+          "text": "With the multitude of them, my garment is consumed, and they have girded me about as with the collar of my coat."
+        },
+        {
+          "verse": 19,
+          "text": "I am compared to dirt, and am likened to embers and ashes."
+        },
+        {
+          "verse": 20,
+          "text": "I cry to thee, and thou hearest me not: I stand up, and thou dost not regard me."
+        },
+        {
+          "verse": 21,
+          "text": "Thou art changed to be cruel toward me, and in the hardness of thy hand thou art against me."
+        },
+        {
+          "verse": 22,
+          "text": "Thou hast lifted me up, and set me as it were upon the wind, and thou hast mightily dashed me."
+        },
+        {
+          "verse": 23,
+          "text": "I know that thou wilt deliver me to death, where a house is appointed for every one that liveth."
+        },
+        {
+          "verse": 24,
+          "text": "But yet thou stretchest not forth thy hand to their consumption: and if they shall fall down thou wilt save."
+        },
+        {
+          "verse": 25,
+          "text": "I wept heretofore for him that was afflicted, and my soul had compassion on the poor."
+        },
+        {
+          "verse": 26,
+          "text": "I expected good things, and evils are come upon me: I waited for light, and darkness broke out."
+        },
+        {
+          "verse": 27,
+          "text": "My inner parts have boiled without any rest, the days of affliction have prevented me."
+        },
+        {
+          "verse": 28,
+          "text": "I went mourning without indignation; I rose up, and cried in the crowd."
+        },
+        {
+          "verse": 29,
+          "text": "I was the brother of dragons, and companion of ostriches."
+        },
+        {
+          "verse": 30,
+          "text": "My skin is become black upon me, and my bones are dried up with heat."
+        },
+        {
+          "verse": 31,
+          "text": "My harp is turned to mourning, and my organ into the voice of those that weep."
+        }
+      ],
+      "verse_count": 31,
+      "word_count": 551
+    },
+    {
+      "book": "Isaias",
+      "chapter_number": 30,
+      "chapter_title": "Isaias 30",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Woe to you, apostate children, saith the Lord, that you would take counsel, and not of me: and would begin a web, and not by my spirit, that you might add sin upon sin:"
+        },
+        {
+          "verse": 2,
+          "text": "Who walk to go down into Egypt, and have not asked at my mouth, hoping for help in the strength of Pharao, and trusting in the shadow of Egypt."
+        },
+        {
+          "verse": 3,
+          "text": "And the strength of Pharao shall be to your confusion: and the confidence of the shadow of Egypt to your shame."
+        },
+        {
+          "verse": 4,
+          "text": "For thy princes were in Tanis, and thy messengers came even to Hanes."
+        },
+        {
+          "verse": 5,
+          "text": "They were all confounded at a people that could not profit them: they were no help, nor to any profit, but to confusion and to reproach."
+        },
+        {
+          "verse": 6,
+          "text": "The burden of the beasts of the south. In a land of trouble and distress, from whence come the lioness, and the lion, the viper and the flying basilisk, they carry their riches upon the shoulders of beasts, and their treasures upon the bunches of camels to a people that shall not be able to profit them."
+        },
+        {
+          "verse": 7,
+          "text": "*For Egypt shall help in vain, and to no purpose: therefore have I cried concerning this: It is pride only, sit still."
+        },
+        {
+          "verse": 8,
+          "text": "Now therefore go in and write for them upon box, and note it diligently in a book, and it shall be in the latter days for a testimony for ever."
+        },
+        {
+          "verse": 9,
+          "text": "For it is a people that provoketh to wrath, and lying children, children that will not hear the law of God."
+        },
+        {
+          "verse": 10,
+          "text": "Who say to the seers: See not: and to them that behold: Behold not for us those things that are right: speak unto us pleasant things; see errors for us."
+        },
+        {
+          "verse": 11,
+          "text": "Take away from me the way; turn away the path from me; let the holy One of Israel cease from before us."
+        },
+        {
+          "verse": 12,
+          "text": "Therefore thus saith the holy One of Israel: Because you have rejected this word, and have trusted in oppression and tumult, and have leaned upon it:"
+        },
+        {
+          "verse": 13,
+          "text": "Therefore shall this iniquity be to you as a breach that falleth, and is found wanting in a high wall; for the destruction thereof shall come on a sudden, when it is not looked for."
+        },
+        {
+          "verse": 14,
+          "text": "And it shall be broken small, as the potter's vessel is broken all to pieces with mighty breaking, and there shall not a shard be found of the pieces thereof, wherein a little fire may be carried from the hearth, or a little water be drawn out of the pit."
+        },
+        {
+          "verse": 15,
+          "text": "For thus saith the Lord God, the holy One of Israel: If you return and be quiet, you shall be saved: in silence and in hope shall your strength be. And you would not:"
+        },
+        {
+          "verse": 16,
+          "text": "But have said: No, but we will flee to horses: therefore shall you flee. And we will mount upon swift ones: therefore shall they be swifter that shall pursue after you."
+        },
+        {
+          "verse": 17,
+          "text": "A thousand men shall flee for fear of one: and for fear of five shall you flee, till you be left as the mast of a ship on the top of a mountain, and as an ensign upon a hill."
+        },
+        {
+          "verse": 18,
+          "text": "Therefore the Lord waiteth, that be may have mercy on you: and therefore shall he be exalted sparing you: because the Lord is the God of judgment: blessed are all they that wait for him."
+        },
+        {
+          "verse": 19,
+          "text": "For the people of Sion shall dwell in Jerusalem: weeping, thou shalt not weep, he will surely have pity on thee: at the voice of thy cry, as soon as he shall hear, he will answer thee."
+        },
+        {
+          "verse": 20,
+          "text": "And the Lord will give you spare bread, and short water: and will not cause thy teacher to flee away from thee any more: and thy eyes shall see thy teacher."
+        },
+        {
+          "verse": 21,
+          "text": "And thy ears shall hear the word of one admonishing thee behind thy back: This is the way, walk ye in it: and go not aside neither to the right hand, nor to the left."
+        },
+        {
+          "verse": 22,
+          "text": "And thou shalt defile the plates of thy graven things of silver, and the garment of thy molten things of gold, and shalt cast them away as the uncleanness of a menstruous woman. Thou shalt say to it: Get thee hence."
+        },
+        {
+          "verse": 23,
+          "text": "And rain shall be given to thy seed, wheresoever thou shalt sow in the land: and the bread of the corn of the land shall be most plentiful, and fat. The lamb in that day shall feed at large in thy possession:"
+        },
+        {
+          "verse": 24,
+          "text": "And thy oxen, and the ass-colts that till the ground, shall eat mingled provender, as it was winnowed in the floor."
+        },
+        {
+          "verse": 25,
+          "text": "And there shall be upon every high mountain, and upon every elevated hill, rivers of running waters in the day of the slaughter of many, when the tower shall fall."
+        },
+        {
+          "verse": 26,
+          "text": "And the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days, in the day when the Lord shall bind up the wound of his people, and shall heal the stroke of their wound."
+        },
+        {
+          "verse": 27,
+          "text": "Behold the name of the Lord cometh from afar, his wrath burneth and is heavy to bear: his lips are filled with indignation, and his tongue as a devouring fire."
+        },
+        {
+          "verse": 28,
+          "text": "His breath as a torrent overflowing even to the midst of the neck, to destroy the nations unto nothing, and the bridle of error that was in the jaws of the people."
+        },
+        {
+          "verse": 29,
+          "text": "You shall have a song as in the night of the sanctified solemnity, and joy of heart, as when one goeth with a pipe, to come into the mountain of the Lord, to the mighty One of Israel."
+        },
+        {
+          "verse": 30,
+          "text": "And the Lord shall make the glory of his voice to be heard, and shall shew the terror of his arm, in the threatening of wrath, and the flame of devouring fire: he shall crush to pieces with whirlwind, and hailstones."
+        },
+        {
+          "verse": 31,
+          "text": "For at the voice of the Lord the Assyrian shall fear being struck with the rod."
+        },
+        {
+          "verse": 32,
+          "text": "And the passage of the rod shall be strongly grounded, which the Lord shall make to rest upon him with timbrels and harps, and in great battles he shall over throw them."
+        },
+        {
+          "verse": 33,
+          "text": "For Topheth is prepared from yesterday, prepared by the king, deep, and wide. The nourishment thereof is fire and much wood: the breath of the Lord as a torrent of brimstone kindling it."
+        }
+      ],
+      "verse_count": 33,
+      "word_count": 1066
+    },
+    {
+      "book": "Mark",
+      "chapter_number": 2,
+      "chapter_title": "Mark 2",
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And *again he entered into Capharnaum after some days."
+        },
+        {
+          "verse": 2,
+          "text": "And it was heard that he was in the house, and many came together, so that there was no room, not even at the door: and he spoke to them the word."
+        },
+        {
+          "verse": 3,
+          "text": "*And they came to him, bringing one sick of the palsy, who was carried by four."
+        },
+        {
+          "verse": 4,
+          "text": "And when they could not offer him to him for the multitude, they uncovered the roof where he was: and opening it, they let down the bed wherein the man sick of the palsy lay."
+        },
+        {
+          "verse": 5,
+          "text": "And when Jesus saw their faith, he saith to the sick of the palsy: Son, thy sins are forgiven thee."
+        },
+        {
+          "verse": 6,
+          "text": "And some of the Scribes were sitting there, and thinking in their hearts:"
+        },
+        {
+          "verse": 7,
+          "text": "Why doth this man speak thus? He blasphemeth. *Who can forgive sins, but God only?"
+        },
+        {
+          "verse": 8,
+          "text": "Which Jesus presently knowing in his spirit, that they so thought within themselves, saith to them: Why think you these things in your hearts?"
+        },
+        {
+          "verse": 9,
+          "text": "Which is easier, to say to the sick of the palsy: Thy sins are forgiven thee; or to say: Arise, take up thy bed, and walk?"
+        },
+        {
+          "verse": 10,
+          "text": "But that you may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)"
+        },
+        {
+          "verse": 11,
+          "text": "I say to thee, Arise, take up thy bed, and go into thy house."
+        },
+        {
+          "verse": 12,
+          "text": "And immediately he arose: and taking up his bed, went his way in the sight of all: so that all wondered, and glorified God, saying: We never saw the like."
+        },
+        {
+          "verse": 13,
+          "text": "And he went forth again to the sea side: and all the multitude came to him, and he taught them."
+        },
+        {
+          "verse": 14,
+          "text": "*And when he was passing by, he saw Levi, the son of Alpheus, sitting at the receipt of custom; and he saith to him: Follow me. And rising up, he followed him."
+        },
+        {
+          "verse": 15,
+          "text": "And it came to pass, that as he sat at meat in his house, many publicans and sinners sat down together with Jesus and his disciples: for they were many, who also followed him."
+        },
+        {
+          "verse": 16,
+          "text": "And the Scribes and Pharisees, seeing that he did eat with publicans and sinners, said to his disciples: Why doth your master eat and drink with publicans and sinners?"
+        },
+        {
+          "verse": 17,
+          "text": "*Jesus hearing this, saith to them: They that are well have no need of a physician, but they that are sick: for I came not to call the just, but sinners."
+        },
+        {
+          "verse": 18,
+          "text": "Now the disciples of John, and the Pharisees, used to fast:, and they come and say to him: Why do the disciples of John, and of the Pharisees fast; but thy disciples do not fast?"
+        },
+        {
+          "verse": 19,
+          "text": "And Jesus saith to them: Can the children of the marriage fast, as long as the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast."
+        },
+        {
+          "verse": 20,
+          "text": "*But the days will come, when the bridegroom shall be taken away from them: and then they shall fast in those days."
+        },
+        {
+          "verse": 21,
+          "text": "No man seweth a piece of raw cloth to an old garment: otherwise the new piecing taketh away from the old, and there is made a greater rent."
+        },
+        {
+          "verse": 22,
+          "text": "And no man putteth new wine into old bottles: otherwise the wine will burst the bottles, and both the wine will be spilled, and the bottles will be lost. But new wine must be put into new bottles."
+        },
+        {
+          "verse": 23,
+          "text": "*And it came to pass again, as the Lord walked through the corn-fields on the sabbath, that his disciples began to go forward and to pluck the ears of corn."
+        },
+        {
+          "verse": 24,
+          "text": "And the Pharisees said to him: Behold, why do they on the sabbath-day that which is not lawful?"
+        },
+        {
+          "verse": 25,
+          "text": "And he said to them: *Have you never read what David did, when he had need, and was hungry, he and they that were with him?"
+        },
+        {
+          "verse": 26,
+          "text": "How he went into the house of God, under Abiathar, the high priest, and did eat the loaves of proposition, *which it was not lawful to eat but for the priests, and gave to them who were with him?"
+        },
+        {
+          "verse": 27,
+          "text": "And he said to them: The sabbath was made for man, and not man for the sabbath."
+        },
+        {
+          "verse": 28,
+          "text": "Therefore the Son of man is Lord also of the sabbath."
+        }
+      ],
+      "verse_count": 28,
+      "word_count": 701
+    }
+  ]
+}

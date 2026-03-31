@@ -10,6 +10,7 @@ const CORE_ASSETS = [
   "/assets/styles.css",
   "/assets/app.js",
   "/assets/shadowfetch-mark.svg",
+  "/assets/shadowfetch-bible-logo.png",
   "/assets/data/bible-edition.json"
 ];
 

@@ -14,7 +14,7 @@ THEME_COLOR = "#111111"
 
 def compute_asset_version() -> str:
     digest = hashlib.sha1()
-    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg"):
+    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg", "assets/shadowfetch-bible-logo.png"):
         digest.update((ROOT / relative_path).read_bytes())
     return digest.hexdigest()[:12]
 

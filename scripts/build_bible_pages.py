@@ -306,7 +306,7 @@ def write_page(path: Path, content: str) -> None:
 
 def compute_asset_version() -> str:
     digest = hashlib.sha1()
-    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg"):
+    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg", "assets/shadowfetch-bible-logo.png"):
         digest.update((ROOT / relative_path).read_bytes())
     return digest.hexdigest()[:12]
 
@@ -705,11 +705,11 @@ def page_shell(*, title: str, description: str, canonical_path: str, body_class:
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="{escape(SITE_TITLE)}">
   <meta property="og:url" content="{canonical_url}">
-  <meta property="og:image" content="{BASE_URL}{asset_url('shadowfetch-mark.svg')}">
+  <meta property="og:image" content="{BASE_URL}{asset_url('shadowfetch-bible-logo.png')}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{escape(title)}">
   <meta name="twitter:description" content="{escape(description)}">
-  <meta name="twitter:image" content="{BASE_URL}{asset_url('shadowfetch-mark.svg')}">
+  <meta name="twitter:image" content="{BASE_URL}{asset_url('shadowfetch-bible-logo.png')}">
   <meta name="keywords" content="Daily Bible Chapters – Shadow of the Almighty, Bible reading plan, Psalm 91, daily devotional">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -763,10 +763,10 @@ def render_header() -> str:
       </div>
       <div class="container masthead-wrap">
         <a class="brand" href="/" aria-label="Shadowfetch Bible Edition home">
-          <img src="{asset_url('shadowfetch-mark.svg')}" alt="" width="42" height="42">
-          <span>
+          <img class="brand-logo-image" src="{asset_url('shadowfetch-bible-logo.png')}" alt="Shadowfetch logo with a glowing Bible, cross, dove, and the words Unearthing Divine Truth">
+          <span class="brand-logo-copy">
             <small>Fetch the Word. Abide in the Shadow.</small>
-            <strong>Shadowfetch • Bible Edition</strong>
+            <strong>Bible Edition</strong>
             <small>A calm daily-reading paper for morning and evening</small>
           </span>
         </a>
@@ -1237,6 +1237,7 @@ const CORE_ASSETS = [
   "/assets/styles.css",
   "/assets/app.js",
   "/assets/shadowfetch-mark.svg",
+  "/assets/shadowfetch-bible-logo.png",
   "/assets/data/bible-edition.json"
 ];
 

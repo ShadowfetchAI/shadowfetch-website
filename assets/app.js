@@ -67,6 +67,11 @@ function bootBibleEdition() {
     setVisitCount("Unavailable");
   });
   registerBiblePwa();
+  startLiveClock();
+  initializeVisitorCounter().catch(() => {
+    const el = document.getElementById("visitor-count");
+    if (el) el.textContent = "–";
+  });
   hydrateBibleEdition().catch(() => {
     // Keep the build readable if personalization fails.
   });
@@ -559,6 +564,18 @@ function setVisitCount(value) {
   document.querySelectorAll("[data-visit-count]").forEach((node) => {
     node.textContent = value;
   });
+  const byId = document.getElementById("visitor-count");
+  if (byId) byId.textContent = value;
+}
+
+function startLiveClock() {
+  const el = document.getElementById("live-clock");
+  if (!el) return;
+  const tick = () => {
+    el.textContent = new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit", second: "2-digit" });
+  };
+  tick();
+  setInterval(tick, 1000);
 }
 
 async function initializeLiveEdition() {

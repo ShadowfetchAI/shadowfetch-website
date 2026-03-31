@@ -44,6 +44,27 @@ HEADERS_CONTENT = """\
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: SAMEORIGIN
 
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/bible/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/archive/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/calendar/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/settings/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/signup/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/service-worker.js
+  Cache-Control: public, max-age=0, must-revalidate
+
 /assets/*
   Cache-Control: public, max-age=3600
 

@@ -40,6 +40,7 @@ body[data-edition="bible"] {
       transparent 30px
     ),
     linear-gradient(180deg, #15120f 0%, #1b1612 45%, #120f0d 100%);
+  background-attachment: scroll;
 }
 
 body[data-edition="bible"][data-theme="light"] {
@@ -72,6 +73,8 @@ body[data-edition="bible"][data-theme="light"] {
 
 html {
   scroll-behavior: smooth;
+  overflow-y: auto;
+  height: 100%;
 }
 
 body {
@@ -139,6 +142,18 @@ button {
 body[data-edition="bible"] .site-chrome {
   background: rgba(23, 19, 16, 0.96);
   border-bottom-color: rgba(184, 141, 74, 0.28);
+}
+
+/* Compact centered logo for Bible edition */
+body[data-edition="bible"] .brand {
+  padding: 0.65rem 0 0.55rem;
+  gap: 0.45rem;
+}
+
+body[data-edition="bible"] .brand-logo-image {
+  width: min(100%, 200px);
+  box-shadow: none;
+  border-radius: 6px;
 }
 
 body[data-edition="bible"] .utility-bar {

@@ -856,7 +856,6 @@ def render_signup_form(form_id: str, compact: bool = False) -> str:
         </label>
         <div class="form-actions">
           <button class="button button-primary" type="submit">Start free</button>
-          <a class="button button-secondary" href="/bible/">Preview today's reading</a>
         </div>
         <p class="form-note" data-signup-status>One personalized email a day with complete chapters only. Unsubscribe anytime.</p>
       </form>

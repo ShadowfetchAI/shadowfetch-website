@@ -456,8 +456,6 @@ body[data-edition="bible"] .bible-footer {
 
 .site-chrome {
   position: relative;
-  z-index: 10;
-  backdrop-filter: blur(10px);
   background: rgba(248, 248, 248, 0.97);
   border-bottom: 2px solid rgba(0, 0, 0, 0.18);
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.04);

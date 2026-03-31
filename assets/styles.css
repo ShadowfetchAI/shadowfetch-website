@@ -176,6 +176,11 @@ body[data-edition="bible"] .brand {
   transform: none;
 }
 
+body[data-edition="bible"] .brand {
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
 body[data-edition="bible"] .affiliate-strip {
   background: rgba(42, 30, 22, 0.9);
   border-bottom-color: rgba(184, 141, 74, 0.2);

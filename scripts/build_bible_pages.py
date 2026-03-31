@@ -735,6 +735,10 @@ def render_header() -> str:
     <div class="utility-bar">
       <div class="container utility-wrap">
         <div class="utility-pill">
+          <span class="utility-label">Total Visitors</span>
+          <strong data-visit-count>—</strong>
+        </div>
+        <div class="utility-pill">
           <span class="utility-label">Free Forever</span>
           <strong>No paywalls on Scripture</strong>
         </div>

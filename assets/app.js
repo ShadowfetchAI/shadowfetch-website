@@ -64,6 +64,9 @@ function bootBibleEdition() {
   wireBibleThemeToggle();
   wireBibleSignupForms();
   wireBibleMarkRead();
+  initializeVisitorCounter().catch(() => {
+    setVisitCount("Unavailable");
+  });
   registerBiblePwa();
   hydrateBibleEdition().catch(() => {
     // Keep the build readable if personalization fails.

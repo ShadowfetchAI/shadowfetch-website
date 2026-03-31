@@ -1,11 +1,17 @@
 import {
   computeDayNumber,
   loadBibleEdition,
+  loadReading,
   normalizeCanon,
   normalizeStartDate,
   selectPlan,
   validateEmail,
 } from "../_lib/bible.js";
+import {
+  buildDevotionalSubject,
+  renderDevotionalEmail,
+  sendViaResend,
+} from "../_lib/devotional-email.js";
 
 export async function onRequestPost(context) {
   try {
@@ -20,6 +26,7 @@ export async function onRequestPost(context) {
     }
 
     let storageMode = "local-only";
+    let welcomeEmail = "not-sent";
     if (context.env.SITE_DB) {
       try {
         await context.env.SITE_DB.prepare(
@@ -44,6 +51,40 @@ export async function onRequestPost(context) {
     const data = await loadBibleEdition(context);
     const plan = selectPlan(data, canon);
     const dayNumber = computeDayNumber(startDate, new Date(), Number(plan?.total_days || 365));
+    const todayIso = new Date().toISOString().slice(0, 10);
+
+    if (subscribed && startDate <= todayIso) {
+      try {
+        const reading = await loadReading(context, canon, dayNumber);
+        const subject = buildDevotionalSubject(dayNumber);
+        const html = renderDevotionalEmail({
+          site: data.site || {},
+          user: { email },
+          reading,
+        });
+
+        if (context.env.RESEND_API_KEY) {
+          await sendViaResend(context, { to: email, subject, html });
+          welcomeEmail = "sent";
+        } else {
+          welcomeEmail = "dry-run";
+        }
+
+        if (storageMode === "database") {
+          await context.env.SITE_DB.prepare(
+            `
+              UPDATE bible_users
+              SET last_sent_day = ?, last_sent_at = CURRENT_TIMESTAMP, updated_at = CURRENT_TIMESTAMP
+              WHERE email = ?
+            `
+          )
+            .bind(dayNumber, email)
+            .run();
+        }
+      } catch (_) {
+        welcomeEmail = "failed";
+      }
+    }
 
     return Response.json(
       {
@@ -54,8 +95,12 @@ export async function onRequestPost(context) {
         subscribed: Boolean(subscribed),
         storageMode,
         dayNumber,
+        welcomeEmail,
         redirect: `/bible/?canon=${encodeURIComponent(canon)}&start_date=${encodeURIComponent(startDate)}`,
-        message: "Your reading desk is ready. Today's chapters are waiting for you.",
+        message:
+          welcomeEmail === "sent"
+            ? "Your reading desk is ready. Day 1 is already on its way to your inbox."
+            : "Your reading desk is ready. Today's chapters are waiting for you.",
         site: data.site || {},
       },
       {

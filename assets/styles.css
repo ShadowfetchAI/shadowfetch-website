@@ -152,8 +152,10 @@ body[data-edition="bible"] .brand {
 
 body[data-edition="bible"] .brand-logo-image {
   width: min(100%, 200px);
+  max-width: 200px;
   box-shadow: none;
   border-radius: 6px;
+  margin-inline: auto;
 }
 
 body[data-edition="bible"] .utility-bar {
@@ -169,10 +171,32 @@ body[data-edition="bible"] .affiliate-strip {
   border-bottom-color: rgba(184, 141, 74, 0.2);
 }
 
+body[data-edition="bible"] .affiliate-wrap {
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.55rem 1rem;
+  padding: 0.7rem 0;
+  text-align: left;
+}
+
 body[data-edition="bible"] .affiliate-kicker,
 body[data-edition="bible"] .affiliate-note,
 body[data-edition="bible"] .affiliate-link {
   color: var(--text);
+}
+
+body[data-edition="bible"] .affiliate-kicker,
+body[data-edition="bible"] .affiliate-note {
+  flex: 1 1 13rem;
+}
+
+body[data-edition="bible"] .affiliate-link {
+  flex: 0 0 auto;
+  font-size: 1.02rem;
+  padding: 0.5rem 0.85rem;
+  border: 1px solid rgba(184, 141, 74, 0.28);
+  border-radius: 999px;
+  background: rgba(184, 141, 74, 0.12);
 }
 
 body[data-edition="bible"] .nav-link {
@@ -2423,7 +2447,10 @@ body[data-edition="bible"] .calendar-month-day-missed {
   body[data-edition="bible"] .masthead { padding: 0.5rem 0 0.4rem; }
   body[data-edition="bible"] .masthead-edition { display: none; }
 
-  body[data-edition="bible"] .brand-logo-image { width: min(100%, 240px); }
+  body[data-edition="bible"] .brand-logo-image {
+    width: min(100%, 180px);
+    max-width: 180px;
+  }
 
   body[data-edition="bible"] .site-nav {
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -2467,6 +2494,9 @@ body[data-edition="bible"] .calendar-month-day-missed {
   body[data-edition="bible"] .footer-wrap { flex-direction: column; gap: 1.25rem; }
 
   /* Ensure the page always scrolls on iOS/Android */
-  html, body { overflow-x: hidden; }
+  html, body {
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
   html { -webkit-overflow-scrolling: touch; }
 }

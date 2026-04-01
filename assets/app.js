@@ -260,8 +260,7 @@ function renderBibleHomePreviewHtml(reading) {
         <p>${escapeHtml(previewText)}</p>
       </div>
       <div class="hero-actions devotional-actions reading-preview-actions">
-        <a class="button button-primary" href="/signup/">Start free</a>
-        <a class="button button-secondary" href="/bible/">Preview today's reading</a>
+        <a class="button button-primary" href="/signup/">Subscribe</a>
       </div>
       <p class="tomorrow-teaser">Tomorrow's teaser: ${escapeHtml(reading.tomorrow_teaser)}</p>
     </div>
@@ -282,14 +281,9 @@ function renderBibleReadingHtml(reading, options = {}) {
         <span>${reading.word_count} words</span>
         <span>${escapeHtml(reading.translation)}</span>
       </div>
-      <div class="support-banner">
-        <p>These daily chapters are free thanks to people like you. Donate what you want to help keep the emails going for everyone.</p>
-        <a class="button button-secondary" href="https://www.buymeacoffee.com/shadowfetch" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
-      </div>
       <div class="reading-stack">${chapterMarkup}</div>
       <div class="hero-actions devotional-actions">
         <a class="button button-primary" href="/signup/">Get the daily email</a>
-        <a class="button button-secondary" href="/archive/">Browse the archive</a>
       </div>
       <p class="tomorrow-teaser">Tomorrow's teaser: ${escapeHtml(reading.tomorrow_teaser)}</p>
       ${quoteMarkup}

@@ -22,9 +22,8 @@ def compute_asset_version() -> str:
 ASSET_VERSION = compute_asset_version()
 
 DIRECTORIES = [
-    "about",
-    "archive",
     "assets",
+    "archive",
     "bible",
     "blessed",
     "calendar",

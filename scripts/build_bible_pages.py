@@ -293,8 +293,8 @@ def main() -> None:
 
     write_page(INDEX_PATH, render_home_page(payload))
     write_page(BIBLE_PATH, render_bible_page(payload))
-    write_page(CALENDAR_PATH, render_calendar_page(payload))
-    write_page(ARCHIVE_PATH, render_archive_page(payload))
+    write_page(CALENDAR_PATH, render_retired_page("Reading Rhythm", "/calendar/"))
+    write_page(ARCHIVE_PATH, render_retired_page("Archive", "/archive/"))
     write_page(SETTINGS_PATH, render_settings_page(payload))
     write_page(SIGNUP_PATH, render_signup_page(payload))
     write_page(THANKS_PATH, render_thanks_page())
@@ -856,10 +856,9 @@ def render_day_article(day: dict[str, Any], *, show_quote: bool = False) -> str:
           <span>{escape(day['translation'])}</span>
         </div>
         <div class="reading-stack">{chapters_markup}</div>
-      <div class="hero-actions devotional-actions">
-        <a class="button button-primary" href="/signup/">Get the daily email</a>
-        <a class="button button-secondary" href="/archive/">Browse the archive</a>
-      </div>
+        <div class="hero-actions devotional-actions">
+          <a class="button button-primary" href="/signup/">Get the daily email</a>
+        </div>
         <p class="tomorrow-teaser">Tomorrow&apos;s teaser: {escape(day['tomorrow_teaser'])}</p>
         {quote_markup}
       </div>
@@ -879,46 +878,10 @@ def render_home_preview(day: dict[str, Any]) -> str:
         </div>
         <p class="reading-preview-copy">A calm 365-day Bible reading delivered one day at a time. Every email includes complete chapters only.</p>
         <div class="hero-actions devotional-actions reading-preview-actions">
-          <a class="button button-primary" href="/signup/">Start free</a>
+          <a class="button button-primary" href="/signup/">Subscribe</a>
         </div>
         <p class="form-note reading-preview-note">Choose your canon, pick a start date, and the email begins from your day in the plan.</p>
       </div>
-    """
-
-
-def render_progress_section(progress: dict[str, Any]) -> str:
-    days_markup = "".join(
-        f'<button class="heat-day heat-day-{escape(day["status"])}" type="button" title="{escape(day["label"])}">{day["day"]}</button>'
-        for day in progress.get("calendar_days", [])
-    )
-    catch_up = "".join(f"<li>{escape(item)}</li>" for item in progress.get("catch_up", []))
-    return f"""
-      <section class="container page-section">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Progress & Calendar</p>
-            <h2>Gentle progress, not pressure</h2>
-          </div>
-          <p class="section-copy">The plan stays steady without punishing anyone for living a real life.</p>
-        </div>
-        <div class="devotional-grid devotional-grid-progress">
-          <article class="panel progress-panel">
-            <p class="panel-label">Year progress</p>
-            <div class="progress-ring" aria-label="{progress.get('percentage', 0)} percent complete">
-              <strong>{progress.get('percentage', 0)}%</strong>
-              <span>{progress.get('completed_days', 0)} of 365 days</span>
-            </div>
-          </article>
-          <article class="panel calendar-panel">
-            <p class="panel-label">{escape(progress.get('calendar_month'))}</p>
-            <div class="calendar-heatmap">{days_markup}</div>
-          </article>
-          <article class="panel catchup-panel">
-            <p class="panel-label">Catch-up mode</p>
-            <ul class="catch-up-list">{catch_up}</ul>
-          </article>
-        </div>
-      </section>
     """
 
 
@@ -969,7 +932,7 @@ def render_bible_page(payload: dict[str, Any]) -> str:
             <h3>Get the daily reading in your inbox.</h3>
             <p>Pick your canon and start date. The site sends one clean reading email each day.</p>
             <div class="button-row">
-              <a class="button button-primary" href="/signup/">Start free</a>
+              <a class="button button-primary" href="/signup/">Subscribe</a>
             </div>
           </article>
         </aside>
@@ -984,71 +947,24 @@ def render_bible_page(payload: dict[str, Any]) -> str:
     )
 
 
-def render_calendar_page(payload: dict[str, Any]) -> str:
+def render_retired_page(label: str, path: str) -> str:
     content = f"""
-      <section class="container hero hero-compact bible-subpage-hero">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Reading Rhythm</p>
-            <h1>One email. One day. Full chapters.</h1>
+      <section class="container hero hero-home hero-home-minimal">
+        <article class="panel minimal-home-card minimal-home-card-thanks">
+          <p class="eyebrow">{escape(label)}</p>
+          <h1>This page has been folded into the simpler subscription flow.</h1>
+          <p class="hero-text">Shadowfetch now keeps the experience minimal: subscribe once, receive the daily reading by email, and use the email footer if you ever want to unsubscribe.</p>
+          <div class="hero-actions devotional-actions minimal-actions-row">
+            <a class="button button-primary" href="/">Return home</a>
           </div>
-          <p class="section-copy">Shadowfetch is built to be simple: sign up once, receive one personalized email a day, and come back to the site whenever you want to read or browse.</p>
-        </div>
-      </section>
-      <section class="container page-section">
-        <div class="devotional-grid devotional-grid-three">
-          <article class="panel mini-panel">
-            <p class="panel-label">Step 1</p>
-            <h3>Pick your canon</h3>
-            <p>Choose Protestant or Roman Catholic and set the day you want to begin.</p>
-          </article>
-          <article class="panel mini-panel">
-            <p class="panel-label">Step 2</p>
-            <h3>Receive the reading</h3>
-            <p>Each email contains the exact complete chapters for that day. Nothing is trimmed mid-passage.</p>
-          </article>
-          <article class="panel mini-panel">
-            <p class="panel-label">Step 3</p>
-            <h3>Leave whenever you want</h3>
-            <p>Every message includes a one-click unsubscribe link. No account dashboard is required.</p>
-          </article>
-        </div>
+        </article>
       </section>
     """
     return page_shell(
-        title="Reading Rhythm | Shadowfetch Bible Edition",
-        description="See how the daily Bible email works: one calm message a day, complete chapters, and one-click unsubscribe.",
-        canonical_path="/calendar/",
-        body_class="calendar",
-        content=content,
-    )
-
-
-def render_archive_page(payload: dict[str, Any]) -> str:
-    content = f"""
-      <section class="container hero hero-compact bible-subpage-hero">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Archive</p>
-            <h1>Browse past reading days</h1>
-          </div>
-          <p class="section-copy">Search by book, chapter, or day number and reopen any reading without digging through clutter.</p>
-        </div>
-      </section>
-      <section class="container page-section">
-        <div class="archive-searchbar">
-          <label class="field-label">Search the archive
-            <input class="text-input" type="search" id="archive-search" placeholder="Try Genesis, Romans, Psalm 91, Day 10…">
-          </label>
-        </div>
-        <div id="archive-root" class="archive-list archive-list-dynamic"></div>
-      </section>
-    """
-    return page_shell(
-        title="Archive | Shadowfetch Bible Edition",
-        description="A searchable archive of all 365 reading days so readers can revisit earlier passages without friction.",
-        canonical_path="/archive/",
-        body_class="archive",
+        title=f"{label} | Shadowfetch Bible Edition",
+        description="Shadowfetch now uses a simpler daily Bible email flow focused on one calm subscription experience.",
+        canonical_path=path,
+        body_class=label.lower().replace(" ", "-"),
         content=content,
     )
 
@@ -1069,9 +985,6 @@ def render_settings_page(payload: dict[str, Any]) -> str:
           <p class="panel-label">Need to stop?</p>
           <h3>Use the email footer.</h3>
           <p>Every daily email includes a one-click unsubscribe link. Nothing else needs to be remembered and nothing else needs to be managed.</p>
-          <div class="button-row">
-            <a class="button button-secondary" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Support the emails</a>
-          </div>
         </article>
         <article class="panel form-card">
           <p class="panel-label">What gets sent</p>

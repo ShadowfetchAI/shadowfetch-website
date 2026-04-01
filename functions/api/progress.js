@@ -1,4 +1,5 @@
 import { normalizeStartDate, todayIsoString, validateEmail } from "../_lib/bible.js";
+import { ensureSiteSchema } from "../_lib/db.js";
 
 export async function onRequestGet(context) {
   try {
@@ -21,6 +22,8 @@ export async function onRequestGet(context) {
         }
       );
     }
+
+    await ensureSiteSchema(context.env);
 
     let results = [];
     try {
@@ -78,6 +81,7 @@ export async function onRequestPost(context) {
     let storageMode = "local-only";
     if (context.env.SITE_DB && email) {
       try {
+        await ensureSiteSchema(context.env);
         await context.env.SITE_DB.prepare(
           `
             INSERT INTO bible_progress (email, reading_day, reading_date, completed_at)

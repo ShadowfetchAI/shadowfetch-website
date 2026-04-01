@@ -26,6 +26,7 @@ DIRECTORIES = [
     "archive",
     "assets",
     "bible",
+    "blessed",
     "calendar",
     "settings",
     "signup",
@@ -51,6 +52,9 @@ HEADERS_CONTENT = """\
   Cache-Control: public, max-age=0, must-revalidate
 
 /archive/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/blessed/
   Cache-Control: public, max-age=0, must-revalidate
 
 /calendar/

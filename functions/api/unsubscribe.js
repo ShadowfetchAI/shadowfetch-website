@@ -1,4 +1,5 @@
 import { verifyUnsubscribeToken } from "../_lib/unsubscribe.js";
+import { ensureSiteSchema } from "../_lib/db.js";
 
 export async function onRequestGet(context) {
   const url = new URL(context.request.url);
@@ -12,6 +13,8 @@ export async function onRequestGet(context) {
   if (!context.env.SITE_DB) {
     return htmlResponse("Email preferences are temporarily unavailable.", 500);
   }
+
+  await ensureSiteSchema(context.env);
 
   const valid = await verifyUnsubscribeToken(context, email, token);
   if (!valid) {

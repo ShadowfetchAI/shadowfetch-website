@@ -1,3 +1,5 @@
+import { ensureSiteSchema } from "./db.js";
+
 const DEFAULT_NAMESPACE = "shadowfetch-news";
 const DEFAULT_COUNTER_KEY = "site_visits";
 const COUNTERAPI_BASE = "https://api.counterapi.dev/v1";
@@ -26,6 +28,7 @@ async function readCounterFromD1(env) {
   }
 
   try {
+    await ensureSiteSchema(env);
     const row = await env.SITE_DB
       .prepare("SELECT value, updated_at FROM site_metrics WHERE key = ?")
       .bind(counterKey(env))
@@ -57,6 +60,7 @@ async function incrementCounterInD1(env) {
   }
 
   try {
+    await ensureSiteSchema(env);
     await env.SITE_DB
       .prepare(
         "INSERT INTO site_metrics (key, value, updated_at) VALUES (?, 0, CURRENT_TIMESTAMP) " +

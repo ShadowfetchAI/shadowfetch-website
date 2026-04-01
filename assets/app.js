@@ -60,8 +60,6 @@ function bootSite() {
 }
 
 function bootBibleEdition() {
-  applyBibleTheme();
-  wireBibleThemeToggle();
   wireBibleSignupForms();
   initializeVisitorCounter().catch(() => {
     setVisitCount("Unavailable");
@@ -107,7 +105,7 @@ function wireBibleSignupForms() {
       const body = Object.fromEntries(formData.entries());
       body.subscribed = formData.get("subscribed") === "0" ? false : true;
       if (status) {
-        status.textContent = "Saving your reading setup...";
+        status.textContent = "Subscribing...";
       }
       try {
         const response = await fetch("/api/signup", {
@@ -159,7 +157,7 @@ async function hydrateBibleEdition() {
   const profile = readBibleProfile(summary);
   syncBibleForms(profile);
 
-  if (page === "home" || page === "bible") {
+  if (page === "bible") {
     const reading = await fetchBibleReading(profile);
     renderBibleReadingPage(page, reading);
   }

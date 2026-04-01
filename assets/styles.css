@@ -302,6 +302,10 @@ body[data-edition="bible"] .reading-preview-copy {
   line-height: 1.65;
 }
 
+body[data-edition="bible"] .reading-preview-note {
+  margin-top: 0.75rem;
+}
+
 body[data-edition="bible"] .reading-preview-excerpt {
   padding: 1rem 1.05rem;
 }
@@ -511,6 +515,98 @@ body[data-edition="bible"] .bible-footer {
   background: rgba(15, 12, 10, 0.92);
 }
 
+body[data-edition="bible"] .bible-minimal-chrome {
+  background: rgba(19, 15, 13, 0.96);
+  border-bottom: 1px solid rgba(184, 141, 74, 0.18);
+}
+
+body[data-edition="bible"] .minimal-chrome-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+body[data-edition="bible"] .brand-minimal {
+  border: 0;
+  padding: 0;
+  width: auto;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+body[data-edition="bible"] .brand-minimal .brand-logo-image {
+  width: min(100%, 180px);
+  max-width: 180px;
+  margin: 0;
+}
+
+body[data-edition="bible"] .brand-minimal .brand-logo-copy {
+  text-align: left;
+}
+
+body[data-edition="bible"] .minimal-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.7rem;
+}
+
+body[data-edition="bible"] .hero-home-minimal {
+  padding-top: 2.4rem;
+  padding-bottom: 3rem;
+}
+
+body[data-edition="bible"] .minimal-home-card {
+  max-width: 36rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+  display: grid;
+  gap: 1rem;
+}
+
+body[data-edition="bible"] .minimal-home-card h1 {
+  max-width: 12ch;
+}
+
+body[data-edition="bible"] .minimal-home-card-thanks {
+  text-align: center;
+  justify-items: center;
+}
+
+body[data-edition="bible"] .minimal-home-note {
+  margin: 0;
+  color: var(--muted);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+body[data-edition="bible"] .minimal-actions-row {
+  margin-top: 0;
+  justify-content: center;
+}
+
+body[data-edition="bible"] .footer-wrap-minimal {
+  padding: 1.2rem 0;
+}
+
+body[data-edition="bible"] .footer-stat {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: var(--muted);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+body[data-edition="bible"] .footer-stat strong {
+  color: var(--text);
+}
+
 @media (max-width: 960px) {
   body[data-edition="bible"] .bible-front-grid,
   body[data-edition="bible"] .devotional-grid-two,
@@ -524,6 +620,20 @@ body[data-edition="bible"] .bible-footer {
 
   body[data-edition="bible"] .calendar-panel-wide {
     grid-column: span 1;
+  }
+
+  body[data-edition="bible"] .minimal-chrome-wrap {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  body[data-edition="bible"] .minimal-actions {
+    justify-content: flex-start;
+  }
+
+  body[data-edition="bible"] .brand-minimal .brand-logo-image {
+    width: min(100%, 150px);
+    max-width: 150px;
   }
 }
 

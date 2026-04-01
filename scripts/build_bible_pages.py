@@ -25,6 +25,7 @@ CALENDAR_PATH = ROOT / "calendar" / "index.html"
 ARCHIVE_PATH = ROOT / "archive" / "index.html"
 SETTINGS_PATH = ROOT / "settings" / "index.html"
 SIGNUP_PATH = ROOT / "signup" / "index.html"
+THANKS_PATH = ROOT / "blessed" / "index.html"
 MANIFEST_PATH = ROOT / "manifest.webmanifest"
 SERVICE_WORKER_PATH = ROOT / "service-worker.js"
 
@@ -296,6 +297,7 @@ def main() -> None:
     write_page(ARCHIVE_PATH, render_archive_page(payload))
     write_page(SETTINGS_PATH, render_settings_page(payload))
     write_page(SIGNUP_PATH, render_signup_page(payload))
+    write_page(THANKS_PATH, render_thanks_page())
 
     MANIFEST_PATH.write_text(build_manifest(), encoding="utf-8")
     SERVICE_WORKER_PATH.write_text(build_service_worker(), encoding="utf-8")
@@ -603,7 +605,7 @@ def build_summary_payload(plans: dict[str, dict[str, Any]]) -> dict[str, Any]:
         "canon_choices": CANON_CHOICES,
         "default_profile": {
             "canon": DEFAULT_CANON,
-            "start_date": today_date.isoformat(),
+            "start_date": (today_date + timedelta(days=1)).isoformat(),
         },
         "quote_of_day": protestant_day["quote"],
         "encouragement": ENCOURAGEMENT_ITEMS,
@@ -748,55 +750,18 @@ def page_shell(*, title: str, description: str, canonical_path: str, body_class:
 
 def render_header() -> str:
     return f"""
-  <header class="site-chrome bible-chrome">
-    <div class="utility-bar">
-      <div class="container utility-wrap">
-        <div class="utility-pill">
-          <span class="utility-label">Total Visitors</span>
-          <strong data-visit-count>—</strong>
-        </div>
-        <div class="utility-pill">
-          <span class="utility-label">Free Forever</span>
-          <strong>No paywalls on Scripture</strong>
-        </div>
-        <div class="utility-pill utility-status">
-          <span class="utility-label">Psalm 91</span>
-          <strong>Abide in the Shadow</strong>
-        </div>
-        <div class="utility-links">
-          <button class="utility-link utility-link-button" type="button" data-theme-toggle>Light Mode</button>
-          <a class="utility-link" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
-        </div>
-      </div>
-    </div>
-    <div class="affiliate-strip bible-support-strip">
-      <div class="container affiliate-wrap">
-        <span class="affiliate-kicker">Support The Edition</span>
-        <span class="affiliate-note">These daily chapters are free thanks to people like you.</span>
-        <a class="affiliate-link" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Donate what you want</a>
-      </div>
-    </div>
-    <div class="masthead">
-      <div class="container masthead-edition">
-        <span>Shadowfetch • Bible Edition</span>
-        <span>Daily Bible Chapters</span>
-        <span>Psalm 91 Companion</span>
-      </div>
-      <div class="container masthead-wrap">
-        <a class="brand" href="/" aria-label="Shadowfetch Bible Edition home">
-          <img class="brand-logo-image" src="{asset_url('shadowfetch-bible-logo.png')}" alt="Shadowfetch logo with a glowing Bible, cross, dove, and the words Unearthing Divine Truth">
-          <span class="brand-logo-copy">
-            <small>Fetch the Word. Abide in the Shadow.</small>
-            <strong>Bible Edition</strong>
-            <small>A calm daily Scripture email and reading desk</small>
-          </span>
-        </a>
-        <nav class="site-nav" aria-label="Primary">
-          <a class="nav-link" href="/">Today</a>
-          <a class="nav-link" href="/bible/">Bible</a>
-          <a class="nav-link" href="/archive/">Archive</a>
-          <a class="nav-link" href="/signup/">Signup</a>
-        </nav>
+  <header class="site-chrome bible-chrome bible-minimal-chrome">
+    <div class="container minimal-chrome-wrap">
+      <a class="brand brand-minimal" href="/" aria-label="Shadowfetch Bible Edition home">
+        <img class="brand-logo-image" src="{asset_url('shadowfetch-bible-logo.png')}" alt="Shadowfetch logo with a glowing Bible, cross, dove, and the words Unearthing Divine Truth">
+        <span class="brand-logo-copy">
+          <small>Shadowfetch</small>
+          <strong>Bible Edition</strong>
+          <small>{escape(TAGLINE)}</small>
+        </span>
+      </a>
+      <div class="minimal-actions">
+        <a class="utility-link" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
       </div>
     </div>
   </header>
@@ -805,22 +770,16 @@ def render_header() -> str:
 
 def render_footer() -> str:
     return f"""
-  <footer class="site-footer bible-footer">
-    <div class="container footer-wrap">
+  <footer class="site-footer bible-footer bible-footer-minimal">
+    <div class="container footer-wrap footer-wrap-minimal">
       <div>
         <p class="footer-title">Shadowfetch • Bible Edition</p>
-        <p class="footer-copy">Fetch the Word. Abide in the Shadow. Daily Scripture remains free on the web and in email for everyone.</p>
-        <div class="footer-socials">
-          <a href="/bible/">Today's Reading</a>
-          <a href="/archive/">Archive</a>
-          <a href="/signup/">Signup</a>
-          <a href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
-        </div>
+        <p class="footer-copy">Free daily Bible email. Complete chapters only. One-click unsubscribe in every message.</p>
       </div>
       <div class="footer-links">
-        <a href="/archive/">Archive</a>
+        <span class="footer-stat">Total Visitors <strong data-visit-count>—</strong></span>
         <a href="/settings/">Unsubscribe info</a>
-        <a href="mailto:hello@shadowfetch.com">Contact</a>
+        <a href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
       </div>
     </div>
   </footer>
@@ -833,31 +792,20 @@ def escape(value: Any) -> str:
 
 def render_signup_form(form_id: str, compact: bool = False) -> str:
     card_class = "signup-card signup-card-compact" if compact else "signup-card"
+    tomorrow = (date.today() + timedelta(days=1)).isoformat()
     return f"""
       <form class="{card_class}" id="{form_id}" data-signup-form>
-        <p class="panel-label">Start the plan</p>
-        <h3>Start the free daily Bible email.</h3>
+        <p class="panel-label">Daily Bible email</p>
+        <h3>Enter your email and subscribe.</h3>
         <label class="field-label">Email address
           <input class="text-input" type="email" name="email" placeholder="you@example.com" required>
         </label>
-        <fieldset class="canon-choice-group">
-          <legend class="field-label">Choose your canon</legend>
-          <label class="canon-choice">
-            <input type="radio" name="canon" value="protestant" checked>
-            <span><strong>Protestant</strong><small>66 books - KJV style</small></span>
-          </label>
-          <label class="canon-choice">
-            <input type="radio" name="canon" value="catholic">
-            <span><strong>Roman Catholic</strong><small>73 books - Douay-Rheims / CPDV style</small></span>
-          </label>
-        </fieldset>
-        <label class="field-label">Start date
-          <input class="text-input" type="date" name="start_date" value="{date.today().isoformat()}">
-        </label>
+        <input type="hidden" name="canon" value="protestant">
+        <input type="hidden" name="start_date" value="{tomorrow}">
         <div class="form-actions">
-          <button class="button button-primary" type="submit">Start free</button>
+          <button class="button button-primary" type="submit">Subscribe</button>
         </div>
-        <p class="form-note" data-signup-status>One personalized email a day with complete chapters only. Unsubscribe anytime.</p>
+        <p class="form-note" data-signup-status>Your first reading arrives tomorrow. No account. No paywall. Complete chapters only.</p>
       </form>
     """
 
@@ -919,11 +867,6 @@ def render_day_article(day: dict[str, Any], *, show_quote: bool = False) -> str:
 
 
 def render_home_preview(day: dict[str, Any]) -> str:
-    first_chapter = (day.get("chapters") or [{}])[0]
-    first_verse = ((first_chapter.get("verses") or [{}])[0]).get("text", "")
-    excerpt = escape(first_verse[:220].rstrip())
-    if first_verse and len(first_verse) > 220:
-        excerpt += "…"
     return f"""
       <div class="reading-lead-body reading-preview">
         <p class="paper-kicker">Today's Reading</p>
@@ -934,16 +877,11 @@ def render_home_preview(day: dict[str, Any]) -> str:
           <span>{day['word_count']} words</span>
           <span>{escape(day['translation'])}</span>
         </div>
-        <p class="reading-preview-copy">One calm reading plan. Complete chapters. One email a day. No paywall on Scripture.</p>
-        <div class="panel mini-panel reading-preview-excerpt">
-          <p class="panel-label">First verse</p>
-          <p>{excerpt}</p>
-        </div>
+        <p class="reading-preview-copy">A calm 365-day Bible reading delivered one day at a time. Every email includes complete chapters only.</p>
         <div class="hero-actions devotional-actions reading-preview-actions">
           <a class="button button-primary" href="/signup/">Start free</a>
-          <a class="button button-secondary" href="/bible/">Preview today's reading</a>
         </div>
-        <p class="tomorrow-teaser">Tomorrow&apos;s teaser: {escape(day['tomorrow_teaser'])}</p>
+        <p class="form-note reading-preview-note">Choose your canon, pick a start date, and the email begins from your day in the plan.</p>
       </div>
     """
 
@@ -985,48 +923,22 @@ def render_progress_section(progress: dict[str, Any]) -> str:
 
 
 def render_home_page(payload: dict[str, Any]) -> str:
-    today = payload["today"]
-    reading = today["protestant"]
+    tomorrow = (date.today() + timedelta(days=1)).strftime("%A, %B %d, %Y")
     hero = f"""
-      <section class="container hero hero-home bible-hero">
-        <div class="newsprint-frontpage bible-frontpage">
-          <div class="newsprint-ribbon">
-            <span id="home-ribbon-date">{escape(today['display_date'])}</span>
-            <span id="home-ribbon-day">Preview Day {today['day_number']} of 365</span>
-            <span>{escape(TAGLINE)}</span>
-          </div>
-          <div class="bible-front-grid">
-            <article class="newsprint-center reading-lead">
-              <div id="home-reading-root">
-                {render_home_preview(reading)}
-              </div>
-            </article>
-            <aside class="newsprint-column sidebar-stack">
-              {render_signup_form("hero-signup", compact=True)}
-              <div id="home-quote-root">
-                <article class="panel quote-panel">
-                  <p class="panel-label">Verse of the day</p>
-                  <blockquote class="quote-block">
-                    <p>{escape(payload['quote_of_day']['text'])}</p>
-                    <footer>{escape(payload['quote_of_day']['verse'])}</footer>
-                  </blockquote>
-                  <p>{escape(payload['quote_of_day']['reflection'])}</p>
-                </article>
-              </div>
-              <article class="panel mini-panel">
-                <p class="panel-label">How it works</p>
-                <h3>Start on your day. Stay at your pace.</h3>
-                <p>Choose your canon, pick a start date, and get one clean daily email with the exact chapters for your place in the plan.</p>
-              </article>
-            </aside>
-          </div>
-        </div>
+      <section class="container hero hero-home hero-home-minimal">
+        <article class="panel minimal-home-card">
+          <p class="eyebrow">Read the Bible in a Year</p>
+          <h1>One calm reading delivered to your inbox each day.</h1>
+          <p class="hero-text">Enter your email, subscribe once, and tomorrow's reading will arrive quietly in your inbox.</p>
+          {render_signup_form("hero-signup", compact=True)}
+          <p class="minimal-home-note">Your first reading will be delivered tomorrow, {escape(tomorrow)}. Have a blessed day.</p>
+        </article>
       </section>
     """
 
     return page_shell(
-        title="Daily Bible Chapters - Shadow of the Almighty | Shadowfetch Bible Edition",
-        description=SITE_DESCRIPTION,
+        title="Daily Bible Email | Shadowfetch Bible Edition",
+        description="A simple free daily Bible email with complete chapters and a calm, minimalist reading experience.",
         canonical_path="/",
         body_class="home",
         content=hero,
@@ -1058,7 +970,6 @@ def render_bible_page(payload: dict[str, Any]) -> str:
             <p>Pick your canon and start date. The site sends one clean reading email each day.</p>
             <div class="button-row">
               <a class="button button-primary" href="/signup/">Start free</a>
-              <a class="button button-secondary" href="/archive/">Browse archive</a>
             </div>
           </article>
         </aside>
@@ -1159,7 +1070,6 @@ def render_settings_page(payload: dict[str, Any]) -> str:
           <h3>Use the email footer.</h3>
           <p>Every daily email includes a one-click unsubscribe link. Nothing else needs to be remembered and nothing else needs to be managed.</p>
           <div class="button-row">
-            <a class="button button-primary" href="/signup/">Start free</a>
             <a class="button button-secondary" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Support the emails</a>
           </div>
         </article>
@@ -1167,7 +1077,7 @@ def render_settings_page(payload: dict[str, Any]) -> str:
           <p class="panel-label">What gets sent</p>
           <h3>Complete chapters only.</h3>
           <p>Each email is assembled from precomputed daily reading files built from whole chapter records. The build checks the chapter slices before publish so the passages do not get cut off.</p>
-          <p class="form-note">If someone signs up today, Day 1 can send immediately and the regular daily mail run picks up from there.</p>
+          <p class="form-note">New subscriptions are queued for the next daily send so the first reading arrives cleanly the following day.</p>
         </article>
       </section>
     """
@@ -1182,34 +1092,42 @@ def render_settings_page(payload: dict[str, Any]) -> str:
 
 def render_signup_page(payload: dict[str, Any]) -> str:
     content = f"""
-      <section class="container hero hero-compact bible-subpage-hero">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Signup</p>
-            <h1>Start your daily reading</h1>
-          </div>
-          <p class="section-copy">Choose your canon, set the first day, and let the site send one calm email per day with the exact chapters you need.</p>
-        </div>
-      </section>
-      <section class="container page-section devotional-grid devotional-grid-two">
-        <article class="panel form-card">
+      <section class="container hero hero-home hero-home-minimal">
+        <article class="panel minimal-home-card">
+          <p class="eyebrow">Subscribe</p>
+          <h1>Start the daily Bible email.</h1>
+          <p class="hero-text">Enter your email, subscribe, and tomorrow's reading will arrive quietly in your inbox.</p>
           {render_signup_form("full-signup", compact=False)}
-        </article>
-        <article class="panel quote-panel">
-          <p class="panel-label">Welcome</p>
-          <blockquote class="quote-block">
-            <p>{escape(payload['site']['psalm_91'])}</p>
-            <footer>Psalm 91:1</footer>
-          </blockquote>
-          <p>The first launch should feel like stepping into a safe place to begin the year, not a funnel or a hard sell.</p>
         </article>
       </section>
     """
     return page_shell(
         title="Signup | Shadowfetch Bible Edition",
-        description="Sign up for the free daily Bible-reading email, choose your canon, and start from today or a custom date.",
+        description="Subscribe to the free daily Bible email and receive tomorrow's complete reading in your inbox.",
         canonical_path="/signup/",
         body_class="signup",
+        content=content,
+    )
+
+
+def render_thanks_page() -> str:
+    content = f"""
+      <section class="container hero hero-home hero-home-minimal">
+        <article class="panel minimal-home-card minimal-home-card-thanks">
+          <p class="eyebrow">You’re Subscribed</p>
+          <h1>Your first reading will be delivered to your email tomorrow.</h1>
+          <p class="hero-text">Have a blessed day.</p>
+          <div class="hero-actions devotional-actions minimal-actions-row">
+            <a class="button button-secondary" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
+          </div>
+        </article>
+      </section>
+    """
+    return page_shell(
+        title="Subscribed | Shadowfetch Bible Edition",
+        description="Your subscription is set. Your first reading will arrive by email tomorrow.",
+        canonical_path="/blessed/",
+        body_class="thanks",
         content=content,
     )
 

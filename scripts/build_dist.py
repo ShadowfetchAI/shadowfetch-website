@@ -27,6 +27,7 @@ DIRECTORIES = [
     "bible",
     "blessed",
     "calendar",
+    "daily-word-journey",
     "settings",
     "signup",
 ]
@@ -57,6 +58,9 @@ HEADERS_CONTENT = """\
   Cache-Control: public, max-age=0, must-revalidate
 
 /calendar/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/daily-word-journey/
   Cache-Control: public, max-age=0, must-revalidate
 
 /settings/

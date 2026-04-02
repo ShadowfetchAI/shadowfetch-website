@@ -66,10 +66,6 @@ function bootBibleEdition() {
   });
   registerBiblePwa();
   startLiveClock();
-  initializeVisitorCounter().catch(() => {
-    const el = document.getElementById("visitor-count");
-    if (el) el.textContent = "–";
-  });
   hydrateBibleEdition().catch(() => {
     // Keep the build readable if personalization fails.
   });

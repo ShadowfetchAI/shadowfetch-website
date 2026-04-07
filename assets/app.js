@@ -1,4 +1,6 @@
 const LOCAL_COUNTER_ENDPOINT = "/api/visit";
+const X_WIDGETS_SRC = "https://platform.x.com/widgets.js";
+let xWidgetsPromise = null;
 
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", bootSite);
@@ -12,6 +14,9 @@ function bootSite() {
     setVisitCount("Unavailable");
   });
   setCurrentYear();
+  initializeLeadershipFeed().catch(() => {
+    // Keep the page usable if X widgets fail to load.
+  });
 }
 
 function revealSections() {
@@ -115,12 +120,145 @@ function setCurrentYear() {
   });
 }
 
+async function initializeLeadershipFeed() {
+  const rotator = document.querySelector("[data-x-rotator]");
+  if (!rotator) {
+    return;
+  }
+
+  const panels = Array.from(rotator.querySelectorAll("[data-x-panel]"));
+  const toggles = Array.from(rotator.querySelectorAll("[data-x-toggle]"));
+  if (!panels.length || !toggles.length) {
+    return;
+  }
+
+  await loadXWidgets();
+  await Promise.all(panels.map((panel) => renderXTimeline(panel)));
+
+  let activeIndex = Math.max(
+    0,
+    panels.findIndex((panel) => panel.classList.contains("is-active"))
+  );
+  let intervalId = null;
+
+  const setActive = (index) => {
+    activeIndex = index;
+    panels.forEach((panel, panelIndex) => {
+      panel.classList.toggle("is-active", panelIndex === index);
+    });
+    toggles.forEach((toggle, toggleIndex) => {
+      const isActive = toggleIndex === index;
+      toggle.classList.toggle("is-active", isActive);
+      toggle.setAttribute("aria-pressed", isActive ? "true" : "false");
+    });
+  };
+
+  const restartRotation = () => {
+    if (intervalId) {
+      window.clearInterval(intervalId);
+    }
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches || panels.length < 2) {
+      return;
+    }
+    const interval = Number(rotator.dataset.xInterval || 12000);
+    intervalId = window.setInterval(() => {
+      setActive((activeIndex + 1) % panels.length);
+    }, interval);
+  };
+
+  toggles.forEach((toggle, index) => {
+    toggle.addEventListener("click", () => {
+      setActive(index);
+      restartRotation();
+    });
+  });
+
+  setActive(activeIndex);
+  restartRotation();
+}
+
+function loadXWidgets() {
+  if (window.twttr?.widgets) {
+    return Promise.resolve(window.twttr);
+  }
+  if (xWidgetsPromise) {
+    return xWidgetsPromise;
+  }
+
+  xWidgetsPromise = new Promise((resolve, reject) => {
+    const existing = document.querySelector(`script[src="${X_WIDGETS_SRC}"]`);
+    if (existing) {
+      existing.addEventListener("load", () => resolve(window.twttr), { once: true });
+      existing.addEventListener("error", reject, { once: true });
+      return;
+    }
+
+    const script = document.createElement("script");
+    script.src = X_WIDGETS_SRC;
+    script.async = true;
+    script.charset = "utf-8";
+    script.onload = () => {
+      if (window.twttr?.ready) {
+        window.twttr.ready(() => resolve(window.twttr));
+        return;
+      }
+      resolve(window.twttr);
+    };
+    script.onerror = reject;
+    document.head.appendChild(script);
+  });
+
+  return xWidgetsPromise;
+}
+
+function renderXTimeline(panel) {
+  if (panel.dataset.xRendered === "true") {
+    return Promise.resolve();
+  }
+
+  const target = panel.querySelector("[data-x-embed]");
+  const screenName = target?.dataset.screenName;
+  const profileLabel = target?.dataset.profileLabel || screenName || "Shadowfetch";
+  if (!target || !screenName || !window.twttr?.widgets?.createTimeline) {
+    return Promise.resolve();
+  }
+
+  target.innerHTML = "";
+
+  return window.twttr.widgets.createTimeline(
+    {
+      sourceType: "profile",
+      screenName,
+    },
+    target,
+    {
+      theme: "dark",
+      chrome: "noheader nofooter noborders transparent",
+      tweetLimit: 1,
+      dnt: true,
+    }
+  ).then(() => {
+    panel.dataset.xRendered = "true";
+  }).catch(() => {
+    target.innerHTML = `<p class="x-feed-loading">Latest post unavailable right now. Open ${escapeHtml(profileLabel)} on X instead.</p>`;
+  });
+}
+
 function formatInteger(value) {
   const number = Number(value);
   if (!Number.isFinite(number)) {
     return "Unavailable";
   }
   return new Intl.NumberFormat("en-US").format(Math.round(number));
+}
+
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
 }
 
 function readSessionValue(key) {

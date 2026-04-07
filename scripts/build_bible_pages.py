@@ -882,6 +882,51 @@ def render_platform_band() -> str:
     """
 
 
+def render_leadership_feed() -> str:
+    profiles = [
+        ("MrBobCorbin", "Robert Corbin", "Founder"),
+        ("Kaitlancorbin1", "Kaitlan Corbin", "CEO"),
+    ]
+    button_markup = "".join(
+        f'<button class="x-feed-toggle{" is-active" if index == 0 else ""}" type="button" data-x-toggle="{handle}" aria-pressed="{"true" if index == 0 else "false"}">{escape(label)} <span>{escape(role)}</span></button>'
+        for index, (handle, label, role) in enumerate(profiles)
+    )
+    panel_markup = "".join(
+        f"""
+          <article class="x-feed-panel{" is-active" if index == 0 else ""}" data-x-panel data-x-handle="{handle}">
+            <div class="x-feed-cardhead">
+              <div>
+                <p class="section-kicker">{escape(role)}</p>
+                <h3>{escape(label)}</h3>
+              </div>
+              <a class="text-link" href="https://x.com/{handle}" target="_blank" rel="noreferrer noopener">@{handle}</a>
+            </div>
+            <div class="x-feed-embed" data-x-embed data-screen-name="{handle}" data-profile-label="{escape(label)}">
+              <p class="x-feed-loading">Loading the latest post from @{escape(handle)}.</p>
+            </div>
+          </article>
+        """
+        for index, (handle, label, role) in enumerate(profiles)
+    )
+    return f"""
+      <section class="leadership-feed-shell">
+        <div class="container leadership-feed-layout" data-x-rotator data-x-interval="12000">
+          <div class="leadership-feed-copy" data-reveal>
+            <p class="eyebrow">Leadership Feed</p>
+            <h2>Latest signals from the people building Shadowfetch.</h2>
+            <p class="section-copy">This module alternates between the most recent post from Robert and Kaitlan using X’s official embedded timeline format. It refreshes with the page and rotates between both leadership accounts automatically.</p>
+            <div class="x-feed-toggle-row" role="tablist" aria-label="Leadership X feeds">
+              {button_markup}
+            </div>
+          </div>
+          <div class="x-feed-stage" data-reveal>
+            {panel_markup}
+          </div>
+        </div>
+      </section>
+    """
+
+
 def render_services_grid() -> str:
     cards = [
         (
@@ -1137,6 +1182,7 @@ def render_home_preview(day: dict[str, Any]) -> str:
 
 def render_home_page(payload: dict[str, Any]) -> str:
     hero = f"""
+      {render_leadership_feed()}
       <section class="hero-shell">
         <div class="container hero-layout">
           <div class="hero-copy" data-reveal>

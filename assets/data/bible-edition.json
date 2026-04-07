@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T13:57:20.029146Z",
+  "generated_at": "2026-04-07T16:22:15.453837Z",
   "site": {
     "title": "Shadowfetch: Bible Edition",
     "short_name": "Shadowfetch Bible",
@@ -24,7 +24,7 @@
   ],
   "default_profile": {
     "canon": "protestant",
-    "start_date": "2026-04-03"
+    "start_date": "2026-04-08"
   },
   "quote_of_day": {
     "verse": "Matthew 1:14",
@@ -46,8 +46,8 @@
     }
   ],
   "today": {
-    "date": "2026-04-02",
-    "display_date": "Thursday, April 02, 2026",
+    "date": "2026-04-07",
+    "display_date": "Tuesday, April 07, 2026",
     "day_number": 1,
     "references": "Genesis 1-2 • Job 1 • Isaiah 1 • Matthew 1",
     "word_count": 3305,
@@ -1262,32 +1262,32 @@
       },
       {
         "day": 2,
-        "status": "today",
+        "status": "read",
         "label": "2026-04-02"
       },
       {
         "day": 3,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-03"
       },
       {
         "day": 4,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-04"
       },
       {
         "day": 5,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-05"
       },
       {
         "day": 6,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-06"
       },
       {
         "day": 7,
-        "status": "future",
+        "status": "today",
         "label": "2026-04-07"
       },
       {

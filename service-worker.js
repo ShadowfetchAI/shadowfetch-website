@@ -1,11 +1,10 @@
-const CACHE_NAME = "shadowfetch-bible-v3";
+const CACHE_NAME = "shadowfetch-studio-v1";
 const CORE_ASSETS = [
   "/manifest.webmanifest",
   "/assets/styles.css",
   "/assets/app.js",
   "/assets/shadowfetch-mark.svg",
-  "/assets/shadowfetch-bible-logo.png",
-  "/assets/data/bible-edition.json"
+  "/assets/shadowfetch-crest.jpg"
 ];
 
 self.addEventListener("install", (event) => {

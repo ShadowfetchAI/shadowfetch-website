@@ -1,11 +1,11 @@
 {
-  "name": "Shadowfetch: Bible Edition",
-  "short_name": "Shadowfetch Bible",
+  "name": "Shadowfetch",
+  "short_name": "Shadowfetch",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#1a1a1a",
-  "theme_color": "#1a1a1a",
-  "description": "A calm, protective daily Bible-reading companion with complete chapters, one simple email a day, and a newspaper-inspired devotional layout built around Psalm 91.",
+  "background_color": "#05070A",
+  "theme_color": "#05070A",
+  "description": "Shadowfetch builds mission-critical Web and iOS applications for organizations that demand technical perfection and AI-native architecture.",
   "icons": [
     {
       "src": "/assets/shadowfetch-mark.svg",

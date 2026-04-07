@@ -9,12 +9,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
-THEME_COLOR = "#111111"
+THEME_COLOR = "#05070A"
 
 
 def compute_asset_version() -> str:
     digest = hashlib.sha1()
-    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg", "assets/shadowfetch-bible-logo.png"):
+    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg", "assets/shadowfetch-crest.jpg"):
         digest.update((ROOT / relative_path).read_bytes())
     return digest.hexdigest()[:12]
 
@@ -28,6 +28,9 @@ DIRECTORIES = [
     "blessed",
     "calendar",
     "daily-word-journey",
+    "hush",
+    "renew-guard",
+    "route-pay",
     "settings",
     "signup",
 ]
@@ -63,6 +66,15 @@ HEADERS_CONTENT = """\
 /daily-word-journey/
   Cache-Control: public, max-age=0, must-revalidate
 
+/hush/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/renew-guard/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/route-pay/
+  Cache-Control: public, max-age=0, must-revalidate
+
 /settings/
   Cache-Control: public, max-age=0, must-revalidate
 
@@ -88,17 +100,17 @@ NOT_FOUND_HTML = """\
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Page Not Found | Shadowfetch Bible Edition</title>
+  <title>Page Not Found | Shadowfetch</title>
   <meta name="description" content="The page you were looking for was not found.">
-  <meta name="theme-color" content="#1a1a1a">
+  <meta name="theme-color" content="#05070A">
   <link rel="stylesheet" href="/assets/styles.css?v=""" + ASSET_VERSION + """">
 </head>
-<body data-edition="bible" data-page="not-found">
+<body data-edition="studio" data-page="not-found">
   <main class="container" style="padding: 5rem 0; text-align: center;">
-    <p style="font-family: ‘IBM Plex Sans’, sans-serif; font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--accent); margin: 0 0 1rem;">Shadowfetch &bull; Bible Edition</p>
-    <h1 style="font-family: ‘Cormorant Garamond’, Georgia, serif; font-size: 2.5rem; margin: 0 0 1rem;">This page was not found.</h1>
-    <p style="font-size: 1.1rem; color: var(--muted); margin: 0 0 2rem;">"He who dwells in the shelter of the Most High will abide in the shadow of the Almighty." &mdash; Psalm 91:1</p>
-    <a href="/" style="display: inline-block; padding: 0.75rem 1.5rem; background: var(--accent); color: #fff7ed; font-family: ‘IBM Plex Sans’, sans-serif; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none;">Return to Today&rsquo;s Reading</a>
+    <p style="font-size: 0.8rem; letter-spacing: 0.16em; text-transform: uppercase; color: #8fb0ff; margin: 0 0 1rem;">Shadowfetch</p>
+    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: 2.8rem; margin: 0 0 1rem;">This page was not found.</h1>
+    <p style="font-size: 1.05rem; color: #a7b3c8; margin: 0 0 2rem;">Return to the primary site and continue from the current Shadowfetch architecture.</p>
+    <a href="/" style="display: inline-flex; align-items: center; justify-content: center; min-height: 3rem; padding: 0.85rem 1.5rem; border-radius: 999px; background: linear-gradient(135deg, #3d6cff, #2e5bff 58%, #1b3fbe); color: #ffffff; font-size: 0.9rem; font-weight: 600; text-decoration: none;">Return Home</a>
   </main>
 </body>
 </html>

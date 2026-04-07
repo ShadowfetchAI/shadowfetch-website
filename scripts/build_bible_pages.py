@@ -11,6 +11,7 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 from urllib import request
+from urllib.parse import quote
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -39,9 +40,26 @@ SITE_DESCRIPTION = (
 )
 PSALM_91 = "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty."
 BUY_ME_A_COFFEE_URL = "https://www.buymeacoffee.com/shadowfetch"
-THEME_COLOR = "#1a1a1a"
+THEME_COLOR = "#05070A"
 DEFAULT_CANON = "protestant"
 TOTAL_DAYS = 365
+
+BRAND_NAME = "Shadowfetch"
+BRAND_DIVISION = "AI Engineering"
+BRAND_TAGLINE = "Precision. Reliability. Architectural Excellence."
+BRAND_DESCRIPTION = (
+    "Shadowfetch builds mission-critical Web and iOS applications for organizations that demand "
+    "technical perfection and AI-native architecture."
+)
+BRAND_OG_IMAGE = "shadowfetch-crest.jpg"
+CONTACT_EMAIL = "RobertCorbin84@gmail.com"
+FOUNDER_X_HANDLE = "@MrBobCorbin"
+CEO_X_HANDLE = "@Kaitlancorbin1"
+FOUNDER_X_URL = "https://x.com/MrBobCorbin"
+CEO_X_URL = "https://x.com/Kaitlancorbin1"
+FOOTER_INQUIRY_BODY = "Project summary:\nObjectives:\nTimeline:\n"
+GENERAL_INQUIRY_BODY = "Project summary:\nObjectives:\nConstraints:\nTimeline:\n"
+ENGAGEMENT_INQUIRY_BODY = "Project summary:\nBusiness objective:\nTechnical constraints:\nDesired timeline:\n"
 
 KJV_CONTENTS_URL = "https://api.github.com/repos/aruljohn/Bible-kjv/contents"
 DRA_URL = "https://raw.githubusercontent.com/xxruyle/Bible-DouayRheims/main/EntireBible-DR.json"
@@ -310,7 +328,7 @@ def write_page(path: Path, content: str) -> None:
 
 def compute_asset_version() -> str:
     digest = hashlib.sha1()
-    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg", "assets/shadowfetch-bible-logo.png"):
+    for relative_path in ("assets/styles.css", "assets/app.js", "assets/shadowfetch-mark.svg", f"assets/{BRAND_OG_IMAGE}"):
         digest.update((ROOT / relative_path).read_bytes())
     return digest.hexdigest()[:12]
 
@@ -320,6 +338,13 @@ ASSET_VERSION = compute_asset_version()
 
 def asset_url(filename: str) -> str:
     return f"/assets/{filename}?v={ASSET_VERSION}"
+
+
+def mailto_url(subject: str, body: str = "") -> str:
+    query_parts = [f"subject={quote(subject)}"]
+    if body:
+        query_parts.append(f"body={quote(body)}")
+    return f"mailto:{CONTACT_EMAIL}?{'&'.join(query_parts)}"
 
 
 def fetch_json(url: str) -> Any:
@@ -716,29 +741,28 @@ def page_shell(*, title: str, description: str, canonical_path: str, body_class:
   <meta name="theme-color" content="{THEME_COLOR}">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="Shadowfetch Bible">
+  <meta name="apple-mobile-web-app-title" content="{BRAND_NAME}">
   <link rel="canonical" href="{canonical_url}">
   <link rel="manifest" href="/manifest.webmanifest">
   <meta property="og:title" content="{escape(title)}">
   <meta property="og:description" content="{escape(description)}">
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="{escape(SITE_TITLE)}">
+  <meta property="og:site_name" content="{escape(BRAND_NAME)}">
   <meta property="og:url" content="{canonical_url}">
-  <meta property="og:image" content="{BASE_URL}{asset_url('shadowfetch-bible-logo.png')}">
+  <meta property="og:image" content="{BASE_URL}{asset_url(BRAND_OG_IMAGE)}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{escape(title)}">
   <meta name="twitter:description" content="{escape(description)}">
-  <meta name="twitter:image" content="{BASE_URL}{asset_url('shadowfetch-bible-logo.png')}">
-  <meta name="keywords" content="Daily Bible Chapters – Shadow of the Almighty, Bible reading plan, Psalm 91, daily devotional">
+  <meta name="twitter:image" content="{BASE_URL}{asset_url(BRAND_OG_IMAGE)}">
+  <meta name="twitter:site" content="{FOUNDER_X_HANDLE}">
+  <meta name="keywords" content="AI engineering, iOS engineering, Web engineering, LLM integration, RAG pipelines, Shadowfetch">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
   <link rel="icon" href="{asset_url('shadowfetch-mark.svg')}" type="image/svg+xml">
   <link rel="stylesheet" href="{asset_url('styles.css')}">
 </head>
-<body data-edition="bible" data-page="{escape(body_class)}">
-  <div class="page-orb orb-left" aria-hidden="true"></div>
-  <div class="page-orb orb-right" aria-hidden="true"></div>
+<body data-edition="studio" data-page="{escape(body_class)}">
   {render_header()}
   <main>{content}</main>
   {render_footer()}
@@ -750,18 +774,33 @@ def page_shell(*, title: str, description: str, canonical_path: str, body_class:
 
 def render_header() -> str:
     return f"""
-  <header class="site-chrome bible-chrome bible-minimal-chrome">
-    <div class="container minimal-chrome-wrap">
-      <a class="brand brand-minimal" href="/" aria-label="Shadowfetch Bible Edition home">
-        <img class="brand-logo-image" src="{asset_url('shadowfetch-bible-logo.png')}" alt="Shadowfetch logo with a glowing Bible, cross, dove, and the words Unearthing Divine Truth">
-        <span class="brand-logo-copy">
-          <small>Shadowfetch</small>
-          <strong>Bible Edition</strong>
-          <small>{escape(TAGLINE)}</small>
+  <header class="site-header">
+    <div class="header-utility">
+      <div class="container utility-row">
+        <p class="utility-copy">Precision. Reliability. Architectural Excellence.</p>
+        <div class="utility-social">
+          <a href="{FOUNDER_X_URL}" target="_blank" rel="noreferrer noopener">Founder {FOUNDER_X_HANDLE}</a>
+          <a href="{CEO_X_URL}" target="_blank" rel="noreferrer noopener">CEO {CEO_X_HANDLE}</a>
+        </div>
+      </div>
+    </div>
+    <div class="container header-row">
+      <a class="brand-lockup" href="/" aria-label="{BRAND_NAME} home">
+        <span class="brand-mark" aria-hidden="true">SF</span>
+        <span class="brand-copy">
+          <strong>{BRAND_NAME}</strong>
+          <small>{BRAND_DIVISION}</small>
         </span>
       </a>
-      <div class="minimal-actions">
-        <a class="utility-link" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="/#services">Services</a>
+        <a href="/#standards">Standards</a>
+        <a href="/#perspective">Whitepapers</a>
+        <a href="/#contact">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <a class="header-link" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
+        <a class="button button-secondary button-compact" href="/signup/">Start an Engagement</a>
       </div>
     </div>
   </header>
@@ -770,16 +809,23 @@ def render_header() -> str:
 
 def render_footer() -> str:
     return f"""
-  <footer class="site-footer bible-footer bible-footer-minimal">
-    <div class="container footer-wrap footer-wrap-minimal">
+  <footer class="site-footer">
+    <div class="container footer-grid">
       <div>
-        <p class="footer-title">Shadowfetch • Bible Edition</p>
-        <p class="footer-copy">Free daily Bible email. Complete chapters only. One-click unsubscribe in every message.</p>
+        <p class="footer-title">{BRAND_NAME}</p>
+        <p class="footer-copy">{BRAND_DESCRIPTION}</p>
+        <p class="footer-note">The outbound mail stack remains in place for future Shadowfetch briefings and newsletters.</p>
       </div>
       <div class="footer-links">
-        <span class="footer-stat">Total Visitors <strong data-visit-count>—</strong></span>
-        <a href="/settings/">Unsubscribe info</a>
+        <a href="{mailto_url('Shadowfetch engineering inquiry', FOOTER_INQUIRY_BODY)}" data-copy-email="{CONTACT_EMAIL}">{CONTACT_EMAIL}</a>
+        <a href="{FOUNDER_X_URL}" target="_blank" rel="noreferrer noopener">Founder {FOUNDER_X_HANDLE}</a>
+        <a href="{CEO_X_URL}" target="_blank" rel="noreferrer noopener">CEO {CEO_X_HANDLE}</a>
         <a href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
+      </div>
+      <div class="footer-meta">
+        <span class="footer-stat footer-stat-counter"><span>Total Visitors</span><strong data-visit-count>—</strong></span>
+        <span class="footer-stat"><span>Mail Infrastructure</span><strong>Preserved</strong></span>
+        <span class="footer-stat"><span>Copyright</span><strong>© <span data-current-year></span> {BRAND_NAME}</strong></span>
       </div>
     </div>
   </footer>
@@ -807,6 +853,210 @@ def render_signup_form(form_id: str, compact: bool = False) -> str:
         </div>
         <p class="form-note" data-signup-status>Your first reading arrives tomorrow. No account. No paywall. Complete chapters only.</p>
       </form>
+    """
+
+
+def render_platform_band() -> str:
+    items = [
+        "Swift",
+        "iOS",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "OpenAI",
+        "Anthropic",
+        "Cloudflare",
+        "Edge Runtime",
+        "CI/CD",
+    ]
+    item_markup = "".join(f"<span>{escape(item)}</span>" for item in items)
+    return f"""
+      <section class="platform-band" aria-label="Technology alignment">
+        <div class="container platform-band-row">
+          <p>Built across the stacks modern product teams operate on.</p>
+          <div class="platform-ticker">
+            {item_markup}
+          </div>
+        </div>
+      </section>
+    """
+
+
+def render_services_grid() -> str:
+    cards = [
+        (
+            "Intelligent Systems",
+            "Custom LLM integration and RAG pipelines for proprietary data.",
+            "Retrieval, evaluation, governance, and deployment designed for teams that need answers grounded in their own systems.",
+        ),
+        (
+            "High-Performance Mobile",
+            "Native iOS development tuned for low-latency interaction and fluid UI.",
+            "Swift systems architecture, performance-sensitive interfaces, and product execution that stays close to the hardware.",
+        ),
+        (
+            "Scalable Web Infrastructure",
+            "Enterprise-grade React and Next.js architectures built for reliability.",
+            "Operationally disciplined frontends, edge-aware delivery, and maintainable systems designed to last beyond launch week.",
+        ),
+    ]
+    card_markup = "".join(
+        f"""
+          <article class="service-card" data-reveal>
+            <p class="section-kicker">{escape(title)}</p>
+            <h3>{escape(summary)}</h3>
+            <p>{escape(body)}</p>
+          </article>
+        """
+        for title, summary, body in cards
+    )
+    return f"""
+      <section class="section-shell" id="services">
+        <div class="container">
+          <div class="section-heading" data-reveal>
+            <div>
+              <p class="eyebrow">Core Pillars</p>
+              <h2>Strategic services designed for business-critical delivery.</h2>
+            </div>
+            <p class="section-copy">Shadowfetch is positioned for organizations that value disciplined execution over demo-driven theatrics.</p>
+          </div>
+          <div class="service-grid">
+            {card_markup}
+          </div>
+        </div>
+      </section>
+    """
+
+
+def render_standards_section() -> str:
+    proof_cards = [
+        (
+            "Security First",
+            "SOC2-aligned delivery workflows, isolated secrets handling, and review discipline suitable for regulated environments.",
+        ),
+        (
+            "Edge-Native",
+            "Global delivery strategies designed to push critical interactions toward sub-50ms targets where topology allows.",
+        ),
+        (
+            "AI Integration",
+            "Beyond wrappers: retrieval, evaluation, and domain-specific model behavior tuned to operational reality.",
+        ),
+        (
+            "Code Integrity",
+            "Strict TypeScript and Swift, automated CI gates, and systems built to remain understandable under pressure.",
+        ),
+    ]
+    proof_markup = "".join(
+        f"""
+          <article class="proof-card" data-reveal>
+            <p class="section-kicker">{escape(title)}</p>
+            <p>{escape(body)}</p>
+          </article>
+        """
+        for title, body in proof_cards
+    )
+    return f"""
+      <section class="section-shell section-shell-contrast" id="standards">
+        <div class="container standards-layout">
+          <div class="standards-copy" data-reveal>
+            <p class="eyebrow">Elite Engineering</p>
+            <h2>Delivery standards that make technical risk visible before it becomes operational debt.</h2>
+            <p class="section-copy">The objective is not novelty. The objective is dependable systems architecture, measurable quality gates, and a product surface that feels inevitable to the end user.</p>
+            <div class="process-steps">
+              <article>
+                <span>01</span>
+                <h3>Diagnose</h3>
+                <p>Clarify the system constraints, latency budgets, data boundaries, and decision loops that matter.</p>
+              </article>
+              <article>
+                <span>02</span>
+                <h3>Architect</h3>
+                <p>Design the application surface, data model, and AI orchestration around long-term maintainability.</p>
+              </article>
+              <article>
+                <span>03</span>
+                <h3>Deploy</h3>
+                <p>Ship with testing discipline, instrumentation, and a delivery model intended for production, not theater.</p>
+              </article>
+            </div>
+          </div>
+          <div class="proof-grid">
+            {proof_markup}
+          </div>
+        </div>
+      </section>
+    """
+
+
+def render_perspective_section() -> str:
+    whitepapers = [
+        (
+            "AI Safety by Construction",
+            "Guardrails, evaluation loops, and retrieval boundaries for systems that have to survive real-world use.",
+        ),
+        (
+            "Private Data Architectures",
+            "RAG systems and integration patterns that preserve privacy, traceability, and executive confidence.",
+        ),
+        (
+            "Modular Delivery Systems",
+            "Codebase structures that keep web, mobile, and AI surfaces coherent as teams and product scope expand.",
+        ),
+    ]
+    paper_markup = "".join(
+        f"""
+          <article class="paper-card" data-reveal>
+            <p class="section-kicker">Technical Whitepaper</p>
+            <h3>{escape(title)}</h3>
+            <p>{escape(body)}</p>
+            <a class="text-link" href="{mailto_url(f'Request: {title}', f'I would like the Shadowfetch whitepaper: {title}.')}">Request the briefing</a>
+          </article>
+        """
+        for title, body in whitepapers
+    )
+    return f"""
+      <section class="section-shell" id="perspective">
+        <div class="container">
+          <div class="section-heading" data-reveal>
+            <div>
+              <p class="eyebrow">Perspective</p>
+              <h2>Thought leadership for teams selecting an engineering partner, not a feature factory.</h2>
+            </div>
+            <p class="section-copy">Shadowfetch publishes its operating logic directly: safety, privacy, modularity, and the architectural tradeoffs behind AI-native products.</p>
+          </div>
+          <div class="paper-grid">
+            {paper_markup}
+          </div>
+        </div>
+      </section>
+    """
+
+
+def render_contact_section() -> str:
+    return f"""
+      <section class="section-shell section-shell-final" id="contact">
+        <div class="container contact-layout">
+          <article class="contact-card contact-card-primary" data-reveal>
+            <p class="eyebrow">Start the Conversation</p>
+            <h2>For CTOs, product leaders, and operators building serious software.</h2>
+            <p>Send the operating context, technical constraints, and what must not fail. Shadowfetch will respond with a direct engineering path, not a general pitch deck.</p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="{mailto_url('Shadowfetch engineering inquiry', GENERAL_INQUIRY_BODY)}">Email Shadowfetch</a>
+              <a class="button button-secondary" href="/signup/">Engagement page</a>
+            </div>
+          </article>
+          <article class="contact-card" data-reveal>
+            <p class="section-kicker">Direct Channels</p>
+            <div class="contact-list">
+              <a href="{FOUNDER_X_URL}" target="_blank" rel="noreferrer noopener">Founder on X <strong>{FOUNDER_X_HANDLE}</strong></a>
+              <a href="{CEO_X_URL}" target="_blank" rel="noreferrer noopener">CEO on X <strong>{CEO_X_HANDLE}</strong></a>
+              <a href="{mailto_url('Shadowfetch engineering inquiry')}" data-copy-email="{CONTACT_EMAIL}">Email <strong>{CONTACT_EMAIL}</strong></a>
+            </div>
+            <p class="contact-note">Mail infrastructure remains active for a future Shadowfetch briefing newsletter. It is preserved, but intentionally not the primary call to action.</p>
+          </article>
+        </div>
+      </section>
     """
 
 
@@ -886,22 +1136,58 @@ def render_home_preview(day: dict[str, Any]) -> str:
 
 
 def render_home_page(payload: dict[str, Any]) -> str:
-    tomorrow = (date.today() + timedelta(days=1)).strftime("%A, %B %d, %Y")
     hero = f"""
-      <section class="container hero hero-home hero-home-minimal">
-        <article class="panel minimal-home-card">
-          <p class="eyebrow">Read the Bible in a Year</p>
-          <h1>One calm reading delivered to your inbox each day.</h1>
-          <p class="hero-text">Enter your email, subscribe once, and tomorrow's reading will arrive quietly in your inbox.</p>
-          {render_signup_form("hero-signup", compact=True)}
-          <p class="minimal-home-note">Your first reading will be delivered tomorrow, {escape(tomorrow)}. Have a blessed day.</p>
-        </article>
+      <section class="hero-shell">
+        <div class="container hero-layout">
+          <div class="hero-copy" data-reveal>
+            <p class="eyebrow">The Standard of Engineering</p>
+            <h1>Engineering the Next Generation of Intelligence.</h1>
+            <p class="hero-text">{BRAND_DESCRIPTION}</p>
+            <p class="hero-support">Shadowfetch is engineered for operators who care about durable systems, direct communication, and AI-native product architecture that can withstand production pressure.</p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="/signup/">Start an Engagement</a>
+              <a class="button button-secondary" href="/#standards">Review Delivery Standards</a>
+            </div>
+            <dl class="hero-metrics">
+              <div>
+                <dt>Focus</dt>
+                <dd>Mission-critical web and iOS systems.</dd>
+              </div>
+              <div>
+                <dt>Operating Style</dt>
+                <dd>Direct, economical, architecture-first execution.</dd>
+              </div>
+              <div>
+                <dt>AI Position</dt>
+                <dd>Structured systems, not thin wrappers.</dd>
+              </div>
+            </dl>
+          </div>
+          <div class="hero-visual" data-reveal>
+            <div class="architectural-frame">
+              <div class="frame-ornament frame-ornament-top"></div>
+              <div class="frame-ornament frame-ornament-bottom"></div>
+              <article class="crest-card">
+                <p class="section-kicker">Heritage Mark</p>
+                <img src="{asset_url(BRAND_OG_IMAGE)}" alt="Shadowfetch crest logo with a hound and the words iOS and Web Applications">
+                <p>The original crest remains, reframed inside a stricter operating system.</p>
+              </article>
+              <div class="floating-badge floating-badge-primary">AI-native architecture</div>
+              <div class="floating-badge floating-badge-secondary">Edge-ready delivery</div>
+            </div>
+          </div>
+        </div>
       </section>
+      {render_platform_band()}
+      {render_services_grid()}
+      {render_standards_section()}
+      {render_perspective_section()}
+      {render_contact_section()}
     """
 
     return page_shell(
-        title="Daily Bible Email | Shadowfetch Bible Edition",
-        description="A simple free daily Bible email with complete chapters and a calm, minimalist reading experience.",
+        title=f"{BRAND_NAME} | {BRAND_DIVISION}",
+        description=BRAND_DESCRIPTION,
         canonical_path="/",
         body_class="home",
         content=hero,
@@ -909,38 +1195,20 @@ def render_home_page(payload: dict[str, Any]) -> str:
 
 
 def render_bible_page(payload: dict[str, Any]) -> str:
-    day = payload["today"]["protestant"]
     content = f"""
-      <section class="container hero hero-compact bible-subpage-hero">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Today's Reading</p>
-            <h1>Read the full day on the web</h1>
-          </div>
-          <p class="section-copy">Every assigned chapter stays available on the web. No paywall, no split verses, no friction.</p>
+      <section class="subpage-shell">
+        <div class="container subpage-hero" data-reveal>
+          <p class="eyebrow">Technical Standards</p>
+          <h1>Architecture decisions should survive contact with scale, regulation, and latency.</h1>
+          <p class="section-copy">Shadowfetch treats web, mobile, and AI architecture as one operating problem. These are the standards behind that approach.</p>
         </div>
       </section>
-      <section class="container page-section devotional-grid devotional-grid-two">
-        <article class="reading-column">
-          <div id="bible-reading-root">
-            {render_day_article(day, show_quote=True)}
-          </div>
-        </article>
-        <aside class="reading-column">
-          <article class="panel form-card">
-            <p class="panel-label">Email signup</p>
-            <h3>Get the daily reading in your inbox.</h3>
-            <p>Pick your canon and start date. The site sends one clean reading email each day.</p>
-            <div class="button-row">
-              <a class="button button-primary" href="/signup/">Subscribe</a>
-            </div>
-          </article>
-        </aside>
-      </section>
+      {render_standards_section()}
+      {render_perspective_section()}
     """
     return page_shell(
-        title="Today's Reading | Shadowfetch Bible Edition",
-        description="Today's complete Bible chapters for the active canon, presented in a calm, newspaper-style reading layout.",
+        title=f"Technical Standards | {BRAND_NAME}",
+        description="Shadowfetch delivery standards for AI systems, web infrastructure, mobile performance, and engineering governance.",
         canonical_path="/bible/",
         body_class="bible",
         content=content,
@@ -949,20 +1217,20 @@ def render_bible_page(payload: dict[str, Any]) -> str:
 
 def render_retired_page(label: str, path: str) -> str:
     content = f"""
-      <section class="container hero hero-home hero-home-minimal">
-        <article class="panel minimal-home-card minimal-home-card-thanks">
+      <section class="subpage-shell">
+        <article class="container simple-panel" data-reveal>
           <p class="eyebrow">{escape(label)}</p>
-          <h1>This page has been folded into the simpler subscription flow.</h1>
-          <p class="hero-text">Shadowfetch now keeps the experience minimal: subscribe once, receive the daily reading by email, and use the email footer if you ever want to unsubscribe.</p>
-          <div class="hero-actions devotional-actions minimal-actions-row">
+          <h1>This section has been consolidated into the main Shadowfetch site.</h1>
+          <p class="hero-text">The current brand architecture is intentionally tighter: clear positioning, direct service lines, and a single primary route into engagement.</p>
+          <div class="hero-actions">
             <a class="button button-primary" href="/">Return home</a>
           </div>
         </article>
       </section>
     """
     return page_shell(
-        title=f"{label} | Shadowfetch Bible Edition",
-        description="Shadowfetch now uses a simpler daily Bible email flow focused on one calm subscription experience.",
+        title=f"{label} | {BRAND_NAME}",
+        description="This section has been folded into the current Shadowfetch consulting site.",
         canonical_path=path,
         body_class=label.lower().replace(" ", "-"),
         content=content,
@@ -971,32 +1239,25 @@ def render_retired_page(label: str, path: str) -> str:
 
 def render_settings_page(payload: dict[str, Any]) -> str:
     content = f"""
-      <section class="container hero hero-compact bible-subpage-hero">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">Unsubscribe</p>
-            <h1>Simple by design</h1>
-          </div>
-          <p class="section-copy">There are no accounts to manage. Sign up once, receive the daily reading, and use the unsubscribe link in any email if you ever want it to stop.</p>
+      <section class="subpage-shell">
+        <div class="container content-grid content-grid-tight">
+          <article class="content-card" data-reveal>
+            <p class="eyebrow">Briefings</p>
+            <h1>Mail infrastructure remains available for future Shadowfetch dispatches.</h1>
+            <p>The existing outbound email stack has been preserved so Shadowfetch can introduce a future newsletter or executive briefing without rebuilding delivery from zero.</p>
+          </article>
+          <article class="content-card" data-reveal>
+            <p class="section-kicker">Current posture</p>
+            <h3>Direct contact first.</h3>
+            <p>For now, engagement begins through direct conversation instead of list-driven capture. That keeps the operating signal high while the brand architecture tightens.</p>
+            <a class="text-link" href="{mailto_url('Shadowfetch briefing inquiry')}">Discuss future briefings</a>
+          </article>
         </div>
-      </section>
-      <section class="container page-section devotional-grid devotional-grid-two settings-grid">
-        <article class="panel form-card">
-          <p class="panel-label">Need to stop?</p>
-          <h3>Use the email footer.</h3>
-          <p>Every daily email includes a one-click unsubscribe link. Nothing else needs to be remembered and nothing else needs to be managed.</p>
-        </article>
-        <article class="panel form-card">
-          <p class="panel-label">What gets sent</p>
-          <h3>Complete chapters only.</h3>
-          <p>Each email is assembled from precomputed daily reading files built from whole chapter records. The build checks the chapter slices before publish so the passages do not get cut off.</p>
-          <p class="form-note">New subscriptions are queued for the next daily send so the first reading arrives cleanly the following day.</p>
-        </article>
       </section>
     """
     return page_shell(
-        title="Unsubscribe | Shadowfetch Bible Edition",
-        description="Simple unsubscribe information and a clear explanation of how the daily Bible email works.",
+        title=f"Briefings | {BRAND_NAME}",
+        description="Shadowfetch keeps its email infrastructure in reserve for future newsletters and technical briefings.",
         canonical_path="/settings/",
         body_class="settings",
         content=content,
@@ -1005,18 +1266,48 @@ def render_settings_page(payload: dict[str, Any]) -> str:
 
 def render_signup_page(payload: dict[str, Any]) -> str:
     content = f"""
-      <section class="container hero hero-home hero-home-minimal">
-        <article class="panel minimal-home-card">
-          <p class="eyebrow">Subscribe</p>
-          <h1>Start the daily Bible email.</h1>
-          <p class="hero-text">Enter your email, subscribe, and tomorrow's reading will arrive quietly in your inbox.</p>
-          {render_signup_form("full-signup", compact=False)}
-        </article>
+      <section class="subpage-shell">
+        <div class="container content-grid">
+          <article class="content-card content-card-primary" data-reveal>
+            <p class="eyebrow">Start an Engagement</p>
+            <h1>Bring the system constraints, the product ambition, and the deadlines that actually matter.</h1>
+            <p>Shadowfetch is built for organizations that need senior engineering judgment across AI integration, native iOS execution, and resilient web architecture.</p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="{mailto_url('Shadowfetch engineering inquiry', ENGAGEMENT_INQUIRY_BODY)}">Email project details</a>
+              <a class="button button-secondary" href="{FOUNDER_X_URL}" target="_blank" rel="noreferrer noopener">Message the founder on X</a>
+            </div>
+          </article>
+          <article class="content-card" data-reveal>
+            <p class="section-kicker">What to send</p>
+            <div class="detail-stack">
+              <article>
+                <h3>Business context</h3>
+                <p>What the application must change for the organization, and what failure would cost.</p>
+              </article>
+              <article>
+                <h3>System constraints</h3>
+                <p>Current stack, privacy expectations, latency budgets, and non-negotiable dependencies.</p>
+              </article>
+              <article>
+                <h3>Decision window</h3>
+                <p>Desired launch timing, stakeholder ownership, and whether the need is diagnostic, architectural, or delivery-oriented.</p>
+              </article>
+            </div>
+          </article>
+          <article class="content-card" data-reveal>
+            <p class="section-kicker">Leadership Channels</p>
+            <div class="contact-list">
+              <a href="{FOUNDER_X_URL}" target="_blank" rel="noreferrer noopener">Founder on X <strong>{FOUNDER_X_HANDLE}</strong></a>
+              <a href="{CEO_X_URL}" target="_blank" rel="noreferrer noopener">CEO on X <strong>{CEO_X_HANDLE}</strong></a>
+              <a href="{mailto_url('Shadowfetch engineering inquiry')}" data-copy-email="{CONTACT_EMAIL}">Email <strong>{CONTACT_EMAIL}</strong></a>
+            </div>
+          </article>
+        </div>
       </section>
     """
     return page_shell(
-        title="Signup | Shadowfetch Bible Edition",
-        description="Subscribe to the free daily Bible email and receive tomorrow's complete reading in your inbox.",
+        title=f"Start an Engagement | {BRAND_NAME}",
+        description="Contact Shadowfetch for AI engineering, native iOS delivery, and enterprise-grade web architecture.",
         canonical_path="/signup/",
         body_class="signup",
         content=content,
@@ -1025,20 +1316,20 @@ def render_signup_page(payload: dict[str, Any]) -> str:
 
 def render_thanks_page() -> str:
     content = f"""
-      <section class="container hero hero-home hero-home-minimal">
-        <article class="panel minimal-home-card minimal-home-card-thanks">
-          <p class="eyebrow">You’re Subscribed</p>
-          <h1>Your first reading will be delivered to your email tomorrow.</h1>
-          <p class="hero-text">Have a blessed day.</p>
-          <div class="hero-actions devotional-actions minimal-actions-row">
-            <a class="button button-secondary" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
+      <section class="subpage-shell">
+        <article class="container simple-panel" data-reveal>
+          <p class="eyebrow">Message Received</p>
+          <h1>Shadowfetch has the brief.</h1>
+          <p class="hero-text">The next step is a direct conversation about scope, constraints, and the engineering path that makes sense.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="/">Return home</a>
           </div>
         </article>
       </section>
     """
     return page_shell(
-        title="Subscribed | Shadowfetch Bible Edition",
-        description="Your subscription is set. Your first reading will arrive by email tomorrow.",
+        title=f"Received | {BRAND_NAME}",
+        description="Shadowfetch has received the inquiry and will continue the conversation directly.",
         canonical_path="/blessed/",
         body_class="thanks",
         content=content,
@@ -1048,13 +1339,13 @@ def render_thanks_page() -> str:
 def build_manifest() -> str:
     return json.dumps(
         {
-            "name": SITE_TITLE,
-            "short_name": SITE_SHORT_NAME,
+            "name": BRAND_NAME,
+            "short_name": BRAND_NAME,
             "start_url": "/",
             "display": "standalone",
             "background_color": THEME_COLOR,
             "theme_color": THEME_COLOR,
-            "description": SITE_DESCRIPTION,
+            "description": BRAND_DESCRIPTION,
             "icons": [
                 {
                     "src": "/assets/shadowfetch-mark.svg",
@@ -1069,14 +1360,13 @@ def build_manifest() -> str:
 
 
 def build_service_worker() -> str:
-    return """const CACHE_NAME = "shadowfetch-bible-v3";
+    return """const CACHE_NAME = "shadowfetch-studio-v1";
 const CORE_ASSETS = [
   "/manifest.webmanifest",
   "/assets/styles.css",
   "/assets/app.js",
   "/assets/shadowfetch-mark.svg",
-  "/assets/shadowfetch-bible-logo.png",
-  "/assets/data/bible-edition.json"
+  "/assets/shadowfetch-crest.jpg"
 ];
 
 self.addEventListener("install", (event) => {

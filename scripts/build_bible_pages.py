@@ -794,8 +794,8 @@ def render_header() -> str:
       </a>
       <nav class="site-nav" aria-label="Primary">
         <a href="/#services">Services</a>
+        <a href="/#products">Products</a>
         <a href="/#standards">Standards</a>
-        <a href="/#perspective">Whitepapers</a>
         <a href="/#contact">Contact</a>
       </nav>
       <div class="header-actions">
@@ -901,8 +901,10 @@ def render_leadership_feed() -> str:
               </div>
               <a class="text-link" href="https://x.com/{handle}" target="_blank" rel="noreferrer noopener">@{handle}</a>
             </div>
-            <div class="x-feed-embed" data-x-embed data-screen-name="{handle}" data-profile-label="{escape(label)}">
-              <p class="x-feed-loading">Loading the latest post from @{escape(handle)}.</p>
+            <div class="x-feed-embed" data-x-embed data-screen-name="{handle}">
+              <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders transparent" data-tweet-limit="1" data-dnt="true" href="https://twitter.com/{handle}">
+                Latest posts from @{escape(handle)}
+              </a>
             </div>
           </article>
         """
@@ -912,9 +914,9 @@ def render_leadership_feed() -> str:
       <section class="leadership-feed-shell">
         <div class="container leadership-feed-layout" data-x-rotator data-x-interval="12000">
           <div class="leadership-feed-copy" data-reveal>
-            <p class="eyebrow">Leadership Feed</p>
-            <h2>Latest signals from the people building Shadowfetch.</h2>
-            <p class="section-copy">This module alternates between the most recent post from Robert and Kaitlan using X’s official embedded timeline format. It refreshes with the page and rotates between both leadership accounts automatically.</p>
+            <p class="eyebrow">Leadership On X</p>
+            <h2>Latest from Robert and Kaitlan.</h2>
+            <p class="section-copy">A simple live view into current Shadowfetch thinking. Switch accounts manually or let the module alternate between both profiles.</p>
             <div class="x-feed-toggle-row" role="tablist" aria-label="Leadership X feeds">
               {button_markup}
             </div>
@@ -960,10 +962,10 @@ def render_services_grid() -> str:
         <div class="container">
           <div class="section-heading" data-reveal>
             <div>
-              <p class="eyebrow">Core Pillars</p>
-              <h2>Strategic services designed for business-critical delivery.</h2>
+              <p class="eyebrow">Services</p>
+              <h2>Focused engineering work for teams shipping serious products.</h2>
             </div>
-            <p class="section-copy">Shadowfetch is positioned for organizations that value disciplined execution over demo-driven theatrics.</p>
+            <p class="section-copy">The offer is intentionally narrow: strong system architecture, clean delivery, and AI integration that behaves in production.</p>
           </div>
           <div class="service-grid">
             {card_markup}
@@ -1003,31 +1005,102 @@ def render_standards_section() -> str:
     )
     return f"""
       <section class="section-shell section-shell-contrast" id="standards">
-        <div class="container standards-layout">
-          <div class="standards-copy" data-reveal>
-            <p class="eyebrow">Elite Engineering</p>
-            <h2>Delivery standards that make technical risk visible before it becomes operational debt.</h2>
-            <p class="section-copy">The objective is not novelty. The objective is dependable systems architecture, measurable quality gates, and a product surface that feels inevitable to the end user.</p>
-            <div class="process-steps">
-              <article>
-                <span>01</span>
-                <h3>Diagnose</h3>
-                <p>Clarify the system constraints, latency budgets, data boundaries, and decision loops that matter.</p>
-              </article>
-              <article>
-                <span>02</span>
-                <h3>Architect</h3>
-                <p>Design the application surface, data model, and AI orchestration around long-term maintainability.</p>
-              </article>
-              <article>
-                <span>03</span>
-                <h3>Deploy</h3>
-                <p>Ship with testing discipline, instrumentation, and a delivery model intended for production, not theater.</p>
-              </article>
+        <div class="container">
+          <div class="section-heading" data-reveal>
+            <div>
+              <p class="eyebrow">Delivery Standards</p>
+              <h2>Operating principles for products that have to hold up under pressure.</h2>
             </div>
+            <p class="section-copy">Shadowfetch is built around reliability, privacy, latency awareness, and codebases that stay understandable after launch.</p>
           </div>
-          <div class="proof-grid">
+          <div class="proof-grid proof-grid-wide">
             {proof_markup}
+          </div>
+        </div>
+      </section>
+    """
+
+
+def render_products_section() -> str:
+    cards = [
+        (
+            "Field Reference",
+            "Bird Hunter",
+            "Bird identification, photo-backed sightings, optional private iCloud sync, and trophy-card sharing with BIRDBASE and AVONET attribution.",
+            "/bird-hunter/",
+        ),
+        (
+            "Document Utility",
+            "Receipt to PDF",
+            "VisionKit scanning, PDF export, Files integration, and optional local passcode protection without vendor cloud storage.",
+            "/receipt-to-pdf/",
+        ),
+        (
+            "Rapid Capture",
+            "Fast PDF",
+            "A speed-first document utility that keeps the camera live, saves each page as its own PDF, and writes straight into Files.",
+            "/fast-pdf/",
+        ),
+        (
+            "Mileage Workflow",
+            "Route Pay",
+            "Mileage logging, reimbursement math, export tooling, and saved route templates for weekly operational reporting.",
+            "/route-pay/",
+        ),
+        (
+            "Subscription Control",
+            "Renew Guard",
+            "Renewal tracking, OCR-assisted intake, widget support, and reminder tooling for recurring subscription oversight.",
+            "/renew-guard/",
+        ),
+        (
+            "Shift Coordination",
+            "Shift Swap Liaison",
+            "App-only shift cards, QR and deep-link claiming, and manager-ready acceptance messages without an enterprise backend.",
+            "/shift-swap-liaison/",
+        ),
+        (
+            "Decision Engine",
+            "Arbiter",
+            "A swipe-based tipping workflow with custom rules, split math, verdict evidence, and privacy-safe sharing.",
+            "/arbiter/",
+        ),
+        (
+            "Private Utility",
+            "Hush",
+            "Offline text encryption with a shared secret for people who want to protect message text before it reaches another app.",
+            "/hush/",
+        ),
+        (
+            "Devotional Reader",
+            "Daily Word Journey",
+            "An offline Bible app with a personal 365-day journey, bookmarks, notes, highlights, and optional reminder support.",
+            "/daily-word-journey/",
+        ),
+    ]
+    card_markup = "".join(
+        f"""
+          <article class="service-card" data-reveal>
+            <p class="section-kicker">{escape(kicker)}</p>
+            <h3>{escape(title)}</h3>
+            <p>{escape(body)}</p>
+            <a class="text-link" href="{escape(path)}">View product page</a>
+          </article>
+        """
+        for kicker, title, body, path in cards
+    )
+    return f"""
+      <section class="section-shell" id="products">
+        <div class="container">
+          <div class="section-heading" data-reveal>
+            <div>
+              <p class="eyebrow">iOS Product Portfolio</p>
+              <h2>Nine iOS products built across utility, workflow, private communication, and field-reference categories.</h2>
+            </div>
+            <p class="section-copy">Shadowfetch is now carrying a real product catalog, not just service pages. The current portfolio spans rapid document tools, mileage and shift workflows, consumer utilities, and Bird Hunter&apos;s dataset-backed field guide.</p>
+          </div>
+          <div class="service-grid">
+            {card_markup}
           </div>
         </div>
       </section>
@@ -1083,9 +1156,9 @@ def render_contact_section() -> str:
       <section class="section-shell section-shell-final" id="contact">
         <div class="container contact-layout">
           <article class="contact-card contact-card-primary" data-reveal>
-            <p class="eyebrow">Start the Conversation</p>
-            <h2>For CTOs, product leaders, and operators building serious software.</h2>
-            <p>Send the operating context, technical constraints, and what must not fail. Shadowfetch will respond with a direct engineering path, not a general pitch deck.</p>
+            <p class="eyebrow">Start The Conversation</p>
+            <h2>For teams that need direct engineering judgment and clean execution.</h2>
+            <p>Send the product context, the constraints, and the delivery pressure. Shadowfetch will respond with a practical path forward.</p>
             <div class="hero-actions">
               <a class="button button-primary" href="{mailto_url('Shadowfetch engineering inquiry', GENERAL_INQUIRY_BODY)}">Email Shadowfetch</a>
               <a class="button button-secondary" href="/signup/">Engagement page</a>
@@ -1182,14 +1255,12 @@ def render_home_preview(day: dict[str, Any]) -> str:
 
 def render_home_page(payload: dict[str, Any]) -> str:
     hero = f"""
-      {render_leadership_feed()}
       <section class="hero-shell">
         <div class="container hero-layout">
           <div class="hero-copy" data-reveal>
             <p class="eyebrow">The Standard of Engineering</p>
             <h1>Engineering the Next Generation of Intelligence.</h1>
             <p class="hero-text">{BRAND_DESCRIPTION}</p>
-            <p class="hero-support">Shadowfetch is engineered for operators who care about durable systems, direct communication, and AI-native product architecture that can withstand production pressure.</p>
             <div class="hero-actions">
               <a class="button button-primary" href="/signup/">Start an Engagement</a>
               <a class="button button-secondary" href="/#standards">Review Delivery Standards</a>
@@ -1211,23 +1282,19 @@ def render_home_page(payload: dict[str, Any]) -> str:
           </div>
           <div class="hero-visual" data-reveal>
             <div class="architectural-frame">
-              <div class="frame-ornament frame-ornament-top"></div>
-              <div class="frame-ornament frame-ornament-bottom"></div>
-              <article class="crest-card">
-                <p class="section-kicker">Heritage Mark</p>
+              <article class="crest-card crest-card-hero">
+                <p class="section-kicker">Shadowfetch</p>
                 <img src="{asset_url(BRAND_OG_IMAGE)}" alt="Shadowfetch crest logo with a hound and the words iOS and Web Applications">
-                <p>The original crest remains, reframed inside a stricter operating system.</p>
+                <p>iOS, web, and AI engineering presented with a tighter, more direct operating model.</p>
               </article>
-              <div class="floating-badge floating-badge-primary">AI-native architecture</div>
-              <div class="floating-badge floating-badge-secondary">Edge-ready delivery</div>
             </div>
           </div>
         </div>
       </section>
-      {render_platform_band()}
+      {render_leadership_feed()}
       {render_services_grid()}
+      {render_products_section()}
       {render_standards_section()}
-      {render_perspective_section()}
       {render_contact_section()}
     """
 
@@ -1406,74 +1473,23 @@ def build_manifest() -> str:
 
 
 def build_service_worker() -> str:
-    return """const CACHE_NAME = "shadowfetch-studio-v1";
-const CORE_ASSETS = [
-  "/manifest.webmanifest",
-  "/assets/styles.css",
-  "/assets/app.js",
-  "/assets/shadowfetch-mark.svg",
-  "/assets/shadowfetch-crest.jpg"
-];
-
-self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(CORE_ASSETS)));
+    return """self.addEventListener("install", () => {
   self.skipWaiting();
 });
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key)))
-    )
-  );
-  self.clients.claim();
-});
-
-self.addEventListener("fetch", (event) => {
-  if (event.request.method !== "GET") {
-    return;
-  }
-  const url = new URL(event.request.url);
-  const isSameOrigin = url.origin === self.location.origin;
-  const isDocument = event.request.mode === "navigate" || event.request.destination === "document";
-
-  if (isSameOrigin && isDocument) {
-    event.respondWith(networkFirst(event.request));
-    return;
-  }
-
-  event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) {
-        return cached;
+    (async () => {
+      const keys = await caches.keys();
+      await Promise.all(keys.filter((key) => key.startsWith("shadowfetch-")).map((key) => caches.delete(key)));
+      await self.registration.unregister();
+      const clients = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
+      for (const client of clients) {
+        client.navigate(client.url);
       }
-      return fetch(event.request).then((response) => {
-        if (response.ok && event.request.url.startsWith(self.location.origin)) {
-          const clone = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
-        }
-        return response;
-      });
-    })
+    })()
   );
 });
-
-async function networkFirst(request) {
-  try {
-    const response = await fetch(request);
-    if (response.ok) {
-      const clone = response.clone();
-      caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
-    }
-    return response;
-  } catch {
-    const cached = await caches.match(request);
-    if (cached) {
-      return cached;
-    }
-    throw new Error("Network unavailable and no cached document found.");
-  }
-}
 """
 
 

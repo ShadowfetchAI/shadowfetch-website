@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arbiter | Shadowfetch</title>
+  <meta name="description" content="Arbiter is a privacy-first tipping app for iPhone and iPad. Swipe through a fast service review, get a fair tip verdict, split the total, and share the percentage without exposing money details.">
+  <meta name="theme-color" content="#05070A">
+  <link rel="canonical" href="https://www.shadowfetch.com/arbiter/">
+  <meta property="og:title" content="Arbiter | Shadowfetch">
+  <meta property="og:description" content="Swipe to a fair tip with a customizable manifesto, split math, and privacy-safe sharing.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.shadowfetch.com/arbiter/">
+  <meta property="og:image" content="https://www.shadowfetch.com/arbiter/assets/icon-1024.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Arbiter | Shadowfetch">
+  <meta name="twitter:description" content="Swipe to a fair tip with a customizable manifesto, split math, and privacy-safe sharing.">
+  <meta name="twitter:image" content="https://www.shadowfetch.com/arbiter/assets/icon-1024.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" href="/arbiter/assets/icon-1024.png" type="image/png">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <style>
+    .product-page {
+      padding: 4rem 0 5rem;
+    }
+
+    .product-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+
+    .product-surface {
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(9, 13, 20, 0.86);
+      border-radius: 1.5rem;
+      box-shadow: 0 30px 80px rgba(0, 0, 0, 0.28);
+    }
+
+    .product-hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
+      gap: 1.5rem;
+      align-items: stretch;
+    }
+
+    .product-copy,
+    .product-panel {
+      padding: 2rem;
+    }
+
+    .product-copy h1,
+    .section-title {
+      margin: 0.5rem 0 1rem;
+      font-family: "Playfair Display", Georgia, serif;
+      line-height: 0.96;
+      letter-spacing: -0.04em;
+      color: #ffffff;
+    }
+
+    .product-copy h1 {
+      font-size: clamp(2.8rem, 5vw, 4.6rem);
+    }
+
+    .section-title {
+      font-size: 2rem;
+    }
+
+    .product-lede,
+    .product-panel p,
+    .product-panel li,
+    .feature-card p,
+    .how-card p,
+    .product-note {
+      color: #c5cfdf;
+      line-height: 1.8;
+    }
+
+    .product-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+    }
+
+    .feature-grid,
+    .how-grid {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .feature-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .how-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .feature-card,
+    .how-card {
+      padding: 1.1rem 1.15rem;
+      border-radius: 1.15rem;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .feature-card strong,
+    .how-card strong {
+      display: block;
+      margin-bottom: 0.35rem;
+      color: #ffffff;
+    }
+
+    .app-icon-preview {
+      width: min(220px, 100%);
+      border-radius: 22%;
+      display: block;
+      margin-bottom: 1rem;
+      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
+    }
+
+    .hero-meta {
+      display: grid;
+      gap: 0.85rem;
+      margin-top: 1rem;
+    }
+
+    .hero-meta div {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      padding-bottom: 0.8rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      color: #c5cfdf;
+      font-size: 0.95rem;
+    }
+
+    .hero-meta dt {
+      color: #8ea0bf;
+    }
+
+    .hero-meta dd {
+      margin: 0;
+      text-align: right;
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    .product-bullets {
+      margin: 0;
+      padding-left: 1.2rem;
+      display: grid;
+      gap: 0.5rem;
+    }
+
+    @media (max-width: 980px) {
+      .product-hero,
+      .feature-grid,
+      .how-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body data-edition="studio" data-page="arbiter">
+  <header class="site-header">
+    <div class="header-utility">
+      <div class="container utility-row">
+        <p class="utility-copy">Shadowfetch product page</p>
+        <div class="utility-social">
+          <a href="/arbiter/support/">Support</a>
+          <a href="/arbiter/privacy/">Privacy Policy</a>
+        </div>
+      </div>
+    </div>
+    <div class="container header-row">
+      <a class="brand-lockup" href="/" aria-label="Shadowfetch home">
+        <span class="brand-mark" aria-hidden="true">SF</span>
+        <span class="brand-copy">
+          <strong>Shadowfetch</strong>
+          <small>Arbiter</small>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Arbiter navigation">
+        <a href="/arbiter/">Overview</a>
+        <a href="/arbiter/support/">Support</a>
+        <a href="/arbiter/privacy/">Privacy</a>
+      </nav>
+      <div class="header-actions">
+        <!--email_off--><a class="button button-secondary button-compact" href="mailto:RobertCorbin84@gmail.com?subject=Arbiter%20support">Email Support</a><!--/email_off-->
+      </div>
+    </div>
+  </header>
+
+  <main class="product-page">
+    <section class="container product-grid">
+      <article class="product-surface product-hero">
+        <div class="product-copy">
+          <p class="eyebrow">Arbiter</p>
+          <h1>Swipe to a fair tip.</h1>
+          <p class="product-lede">Arbiter turns tipping fatigue into a fast verdict. Start from your baseline percentage, swipe through a rapid service review, and let the app explain why the final tip landed where it did.</p>
+          <div class="product-actions">
+            <a class="button button-primary" href="/arbiter/support/">Support</a>
+            <a class="button button-secondary" href="/arbiter/privacy/">Privacy Policy</a>
+          </div>
+          <div class="feature-grid">
+            <article class="feature-card">
+              <strong>Swipe engine</strong>
+              <p>Clear a full service review with one-handed left and right swipes in a few seconds.</p>
+            </article>
+            <article class="feature-card">
+              <strong>Custom manifesto</strong>
+              <p>Edit the rules, add your own dealbreakers, and keep your preferred baseline percentage saved on-device.</p>
+            </article>
+            <article class="feature-card">
+              <strong>Share safely</strong>
+              <p>Post the restaurant name, final tip percent, and your short comment without sharing bill totals, payment info, or server identity.</p>
+            </article>
+          </div>
+        </div>
+        <aside class="product-panel">
+          <img class="app-icon-preview" src="/arbiter/assets/icon-1024.png" alt="Arbiter app icon showing a premium balance scale.">
+          <h2 class="section-title">Built for submission.</h2>
+          <p class="product-note">The current build is version <strong>1.0 (1)</strong> with local-only settings, no accounts, no tracking, support and privacy pages, and copy-ready App Store metadata.</p>
+          <dl class="hero-meta">
+            <div>
+              <dt>Platform</dt>
+              <dd>iPhone + iPad</dd>
+            </div>
+            <div>
+              <dt>Bundle ID</dt>
+              <dd>com.realbobcorbin.Arbiter</dd>
+            </div>
+            <div>
+              <dt>Share privacy</dt>
+              <dd>No money details</dd>
+            </div>
+            <div>
+              <dt>Storage</dt>
+              <dd>On-device only</dd>
+            </div>
+          </dl>
+        </aside>
+      </article>
+
+      <article class="product-surface" style="padding: 2rem;">
+        <h2 class="section-title">How It Works</h2>
+        <div class="how-grid">
+          <article class="how-card">
+            <strong>1. Start from your baseline</strong>
+            <p>Set your starting percent once, enter the bill if you want the money math, and launch the verdict.</p>
+          </article>
+          <article class="how-card">
+            <strong>2. Swipe through service</strong>
+            <p>Swipe right for strong service and left for weak service. Every card moves the tip up or down instantly.</p>
+          </article>
+          <article class="how-card">
+            <strong>3. Deliver the verdict</strong>
+            <p>Arbiter shows the final percentage, split total, and evidence summary, then lets you share a sanitized public recap.</p>
+          </article>
+        </div>
+      </article>
+
+      <article class="product-surface" style="padding: 2rem;">
+        <h2 class="section-title">Privacy-First By Design</h2>
+        <ul class="product-bullets">
+          <li>No accounts, no sign-in, and no vendor cloud sync.</li>
+          <li>No analytics SDKs, no ad tracking, and no cross-app profiling.</li>
+          <li>Restaurant names and short comments stay local unless you explicitly share them.</li>
+          <li>Shared verdicts are limited to the restaurant name, final percent, optional comment, generated chef graphic, and app name.</li>
+          <li>Bill totals, tip amounts, payment details, and server identity are not included in the social share message.</li>
+        </ul>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <div>
+        <p class="footer-title">Arbiter</p>
+        <p class="footer-copy">A faster way to land on a tip percentage without second-guessing the table math.</p>
+      </div>
+      <div class="footer-links">
+        <a href="/arbiter/support/">Support</a>
+        <a href="/arbiter/privacy/">Privacy Policy</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

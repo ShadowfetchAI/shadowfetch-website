@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Route Pay | Shadowfetch</title>
+  <meta name="description" content="Route Pay is a local-first mileage and route-report app for iPhone and iPad. Track paid and unpaid legs, export clean reports, and tune the app to your workflow.">
+  <meta name="theme-color" content="#05070A">
+  <link rel="canonical" href="https://www.shadowfetch.com/route-pay/">
+  <meta property="og:title" content="Route Pay | Shadowfetch">
+  <meta property="og:description" content="Mileage and route tracking for iPhone and iPad with local exports and workflow controls.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.shadowfetch.com/route-pay/">
+  <meta property="og:image" content="https://www.shadowfetch.com/route-pay/assets/today.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Route Pay | Shadowfetch">
+  <meta name="twitter:description" content="Mileage and route tracking for iPhone and iPad with local exports and workflow controls.">
+  <meta name="twitter:image" content="https://www.shadowfetch.com/route-pay/assets/today.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" href="/route-pay/assets/icon-1024.png" type="image/png">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <style>
+    .product-page {
+      padding: 4rem 0 5rem;
+    }
+
+    .product-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+
+    .product-surface {
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(9, 13, 20, 0.86);
+      border-radius: 1.5rem;
+      box-shadow: 0 30px 80px rgba(0, 0, 0, 0.28);
+    }
+
+    .product-hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
+      gap: 1.5rem;
+      align-items: stretch;
+    }
+
+    .product-copy,
+    .product-panel {
+      padding: 2rem;
+    }
+
+    .product-copy h1 {
+      margin: 0.5rem 0 1rem;
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: clamp(2.8rem, 5vw, 4.6rem);
+      line-height: 0.96;
+      letter-spacing: -0.04em;
+    }
+
+    .product-lede,
+    .product-panel p,
+    .product-panel li,
+    .feature-card p,
+    .shot-card figcaption,
+    .product-note {
+      color: #c5cfdf;
+      line-height: 1.8;
+    }
+
+    .product-actions,
+    .links-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+    }
+
+    .feature-grid,
+    .screenshot-grid {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .feature-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .feature-card,
+    .shot-card {
+      padding: 1.1rem 1.15rem;
+      border-radius: 1.15rem;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .feature-card strong {
+      display: block;
+      margin-bottom: 0.35rem;
+      color: #ffffff;
+    }
+
+    .section-title {
+      margin: 0 0 0.75rem;
+      color: #ffffff;
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 2rem;
+    }
+
+    .app-icon-preview {
+      width: min(220px, 100%);
+      border-radius: 22%;
+      display: block;
+      margin-bottom: 1rem;
+      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
+    }
+
+    .hero-meta {
+      display: grid;
+      gap: 0.85rem;
+      margin-top: 1rem;
+    }
+
+    .hero-meta div {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      padding-bottom: 0.8rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      color: #c5cfdf;
+      font-size: 0.95rem;
+    }
+
+    .hero-meta dt {
+      color: #8ea0bf;
+    }
+
+    .hero-meta dd {
+      margin: 0;
+      text-align: right;
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    .screenshot-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .shot-card {
+      overflow: hidden;
+      padding: 0;
+    }
+
+    .shot-card img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .shot-card figcaption {
+      padding: 0.9rem 1rem 1rem;
+      font-size: 0.95rem;
+    }
+
+    .links-row a {
+      color: #8fb0ff;
+      text-decoration: underline;
+      text-underline-offset: 0.18em;
+    }
+
+    @media (max-width: 980px) {
+      .product-hero,
+      .feature-grid,
+      .screenshot-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body data-edition="studio" data-page="route-pay">
+  <header class="site-header">
+    <div class="header-utility">
+      <div class="container utility-row">
+        <p class="utility-copy">Shadowfetch product page</p>
+        <div class="utility-social">
+          <a href="/route-pay/support/">Support</a>
+          <a href="/route-pay/privacy/">Privacy Policy</a>
+        </div>
+      </div>
+    </div>
+    <div class="container header-row">
+      <a class="brand-lockup" href="/" aria-label="Shadowfetch home">
+        <span class="brand-mark" aria-hidden="true">SF</span>
+        <span class="brand-copy">
+          <strong>Shadowfetch</strong>
+          <small>Route Pay</small>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Route Pay navigation">
+        <a href="/route-pay/">Overview</a>
+        <a href="/route-pay/support/">Support</a>
+        <a href="/route-pay/privacy/">Privacy</a>
+      </nav>
+      <div class="header-actions">
+        <!--email_off--><a class="button button-secondary button-compact" href="mailto:RobertCorbin84@gmail.com?subject=Route%20Pay%20support">Email Support</a><!--/email_off-->
+      </div>
+    </div>
+  </header>
+
+  <main class="product-page">
+    <section class="container product-grid">
+      <article class="product-surface product-hero">
+        <div class="product-copy">
+          <p class="eyebrow">Route Pay</p>
+          <h1>Mileage tracking built for people who need clean numbers, not guesswork.</h1>
+          <p class="product-lede">Route Pay helps commuters, merchandisers, delivery workers, and route-based teams log every leg of a workday, separate paid and unpaid miles, and export reports that are ready to send.</p>
+          <div class="product-actions">
+            <a class="button button-primary" href="/route-pay/support/">Support</a>
+            <a class="button button-secondary" href="/route-pay/privacy/">Privacy Policy</a>
+          </div>
+          <div class="feature-grid">
+            <article class="feature-card">
+              <strong>Paid vs unpaid control</strong>
+              <p>Mark each leg individually, subtract commute miles when needed, and keep the payout math honest.</p>
+            </article>
+            <article class="feature-card">
+              <strong>Workflow settings</strong>
+              <p>Custom week start, default history range, mileage precision, theme, calculator visibility, and export filename prefix.</p>
+            </article>
+            <article class="feature-card">
+              <strong>Local exports</strong>
+              <p>Save or share CSV, PDF, text summaries, and report screenshots directly from the app.</p>
+            </article>
+          </div>
+        </div>
+        <aside class="product-panel">
+          <img class="app-icon-preview" src="/route-pay/assets/icon-1024.png" alt="Route Pay app icon showing a semi truck over a road.">
+          <h2 class="section-title">Built for submission.</h2>
+          <p class="product-note">The current build is version <strong>1.0 (2)</strong> with iPhone and iPad screenshots, a semi-truck icon set, support and privacy pages, and copy-ready App Store metadata.</p>
+          <dl class="hero-meta">
+            <div>
+              <dt>Platforms</dt>
+              <dd>iPhone and iPad</dd>
+            </div>
+            <div>
+              <dt>Storage</dt>
+              <dd>Local on-device</dd>
+            </div>
+            <div>
+              <dt>Tracking</dt>
+              <dd>None</dd>
+            </div>
+            <div>
+              <dt>Exports</dt>
+              <dd>CSV, PDF, text, image</dd>
+            </div>
+            <div>
+              <dt>Support</dt>
+              <dd><!--email_off--><a href="mailto:RobertCorbin84@gmail.com" style="color: #8fb0ff; text-decoration: underline;">RobertCorbin84@gmail.com</a><!--/email_off--></dd>
+            </div>
+          </dl>
+        </aside>
+      </article>
+
+      <article class="product-surface product-panel">
+        <p class="eyebrow">App flow</p>
+        <h2 class="section-title">Built around route workers instead of generic expense forms.</h2>
+        <ul>
+          <li>Create a route day and log as many stops as the workday needs.</li>
+          <li>Mark each leg as paid or unpaid so the reimbursement math matches reality.</li>
+          <li>Use templates, saved locations, weekly defaults, and custom labels to cut repeat entry down.</li>
+          <li>Export local reports without creating an account or sending route logs to a Shadowfetch server.</li>
+        </ul>
+      </article>
+
+      <article class="product-surface product-panel">
+        <p class="eyebrow">Product screens</p>
+        <h2 class="section-title">What the app actually looks like.</h2>
+        <div class="screenshot-grid">
+          <figure class="shot-card">
+            <img src="/route-pay/assets/today.png" alt="Route Pay today dashboard showing total miles, paid miles, rate, and estimated pay.">
+            <figcaption>The Today screen shows the live route summary, mileage totals, estimated pay, and tomorrow planning in one place.</figcaption>
+          </figure>
+          <figure class="shot-card">
+            <img src="/route-pay/assets/history.png" alt="Route Pay history screen showing saved route days and export options.">
+            <figcaption>History supports weekly, monthly, and custom reporting windows with export actions close to the data.</figcaption>
+          </figure>
+          <figure class="shot-card">
+            <img src="/route-pay/assets/settings-ipad.png" alt="Route Pay settings screen on iPad showing custom labels, mileage defaults, workflow options, and export settings.">
+            <figcaption>Settings expose custom labels, weekly defaults, week-start control, calculator visibility, mileage precision, and export filename prefix.</figcaption>
+          </figure>
+        </div>
+      </article>
+
+      <article class="product-surface product-panel">
+        <p class="eyebrow">Public links</p>
+        <h2 class="section-title">URLs for App Store Connect.</h2>
+        <div class="links-row">
+          <p class="product-note"><strong>Marketing URL:</strong> <a href="https://www.shadowfetch.com/route-pay/">https://www.shadowfetch.com/route-pay/</a></p>
+          <p class="product-note"><strong>Support URL:</strong> <a href="https://www.shadowfetch.com/route-pay/support/">https://www.shadowfetch.com/route-pay/support/</a></p>
+          <p class="product-note"><strong>Privacy Policy URL:</strong> <a href="https://www.shadowfetch.com/route-pay/privacy/">https://www.shadowfetch.com/route-pay/privacy/</a></p>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="footer-title">Route Pay</p>
+        <p class="footer-copy">A local-first mileage and route-report app for people who need clean reimbursement numbers and fast exports.</p>
+      </div>
+      <div class="footer-links">
+        <a href="/route-pay/">Overview</a>
+        <a href="/route-pay/support/">Support</a>
+        <a href="/route-pay/privacy/">Privacy Policy</a>
+      </div>
+      <div class="footer-meta">
+        <span class="footer-stat"><span>Data</span><strong>Local Only</strong></span>
+        <span class="footer-stat"><span>Exports</span><strong>CSV / PDF / Text</strong></span>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

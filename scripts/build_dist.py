@@ -23,14 +23,19 @@ ASSET_VERSION = compute_asset_version()
 
 DIRECTORIES = [
     "assets",
+    "arbiter",
     "archive",
     "bible",
+    "bird-hunter",
     "blessed",
     "calendar",
     "daily-word-journey",
+    "fast-pdf",
     "hush",
+    "receipt-to-pdf",
     "renew-guard",
     "route-pay",
+    "shift-swap-liaison",
     "settings",
     "signup",
 ]
@@ -51,7 +56,13 @@ HEADERS_CONTENT = """\
 /
   Cache-Control: public, max-age=0, must-revalidate
 
+/arbiter/
+  Cache-Control: public, max-age=0, must-revalidate
+
 /bible/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/bird-hunter/
   Cache-Control: public, max-age=0, must-revalidate
 
 /archive/
@@ -66,13 +77,22 @@ HEADERS_CONTENT = """\
 /daily-word-journey/
   Cache-Control: public, max-age=0, must-revalidate
 
+/fast-pdf/
+  Cache-Control: public, max-age=0, must-revalidate
+
 /hush/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/receipt-to-pdf/
   Cache-Control: public, max-age=0, must-revalidate
 
 /renew-guard/
   Cache-Control: public, max-age=0, must-revalidate
 
 /route-pay/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/shift-swap-liaison/
   Cache-Control: public, max-age=0, must-revalidate
 
 /settings/
@@ -93,6 +113,21 @@ HEADERS_CONTENT = """\
 /feed.xml
   Cache-Control: public, max-age=900
 """
+
+
+def build_redirects_content() -> str:
+    redirect_lines: list[str] = []
+
+    for index_file in sorted(DIST.rglob("index.html")):
+        relative_parent = index_file.parent.relative_to(DIST)
+        if str(relative_parent) == ".":
+            continue
+
+        source_path = "/" + relative_parent.as_posix()
+        destination_path = source_path + "/"
+        redirect_lines.append(f"{source_path} {destination_path} 301")
+
+    return "\n".join(redirect_lines) + "\n"
 
 NOT_FOUND_HTML = """\
 <!DOCTYPE html>
@@ -134,6 +169,7 @@ def main() -> None:
             shutil.copy2(source, DIST / filename)
 
     (DIST / "_headers").write_text(HEADERS_CONTENT, encoding="utf-8")
+    (DIST / "_redirects").write_text(build_redirects_content(), encoding="utf-8")
     (DIST / "404.html").write_text(NOT_FOUND_HTML, encoding="utf-8")
 
 

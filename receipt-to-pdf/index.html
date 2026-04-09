@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Receipt to PDF | Shadowfetch</title>
+  <meta name="description" content="Receipt to PDF is a private receipt scanner for iPhone and iPad. Scan with VisionKit, rename the file, and save it directly into Files or an approved Receipts folder.">
+  <meta name="theme-color" content="#05070A">
+  <link rel="canonical" href="https://www.shadowfetch.com/receipt-to-pdf/">
+  <meta property="og:title" content="Receipt to PDF | Shadowfetch">
+  <meta property="og:description" content="Private receipt scanning for iPhone and iPad with on-device PDF export. No account. No vendor cloud.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.shadowfetch.com/receipt-to-pdf/">
+  <meta property="og:image" content="https://www.shadowfetch.com/receipt-to-pdf/assets/home.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Receipt to PDF | Shadowfetch">
+  <meta name="twitter:description" content="Private receipt scanning for iPhone and iPad with on-device PDF export.">
+  <meta name="twitter:image" content="https://www.shadowfetch.com/receipt-to-pdf/assets/home.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" href="/assets/shadowfetch-mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <style>
+    .product-page {
+      padding: 4rem 0 5rem;
+    }
+
+    .product-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+
+    .product-surface {
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(9, 13, 20, 0.86);
+      border-radius: 1.5rem;
+      box-shadow: 0 30px 80px rgba(0, 0, 0, 0.28);
+    }
+
+    .product-hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
+      gap: 1.5rem;
+      align-items: stretch;
+    }
+
+    .product-copy,
+    .product-panel {
+      padding: 2rem;
+    }
+
+    .product-copy h1 {
+      margin: 0.5rem 0 1rem;
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: clamp(2.8rem, 5vw, 4.6rem);
+      line-height: 0.96;
+      letter-spacing: -0.04em;
+    }
+
+    .product-lede {
+      max-width: 44rem;
+      margin: 0 0 1.5rem;
+      color: #c5cfdf;
+      font-size: 1.08rem;
+      line-height: 1.8;
+    }
+
+    .product-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .product-points,
+    .flow-steps,
+    .faq-list {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .product-points {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .point-card,
+    .flow-card,
+    .faq-card {
+      padding: 1.1rem 1.15rem;
+      border-radius: 1.15rem;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .point-card p,
+    .flow-card p,
+    .faq-card p,
+    .product-note,
+    .product-copy ul,
+    .product-panel ul {
+      margin: 0;
+      color: #bac5d8;
+      line-height: 1.75;
+    }
+
+    .point-card strong,
+    .flow-card strong,
+    .faq-card strong {
+      display: block;
+      margin-bottom: 0.35rem;
+      color: #ffffff;
+      font-size: 0.95rem;
+    }
+
+    .status-kicker {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.45rem 0.8rem;
+      border-radius: 999px;
+      background: rgba(46, 91, 255, 0.12);
+      color: #8fb0ff;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .hero-meta,
+    .policy-list,
+    .links-row {
+      display: grid;
+      gap: 0.85rem;
+    }
+
+    .hero-meta {
+      margin-top: 1rem;
+    }
+
+    .hero-meta div {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      padding-bottom: 0.8rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      color: #c5cfdf;
+      font-size: 0.95rem;
+    }
+
+    .hero-meta dt {
+      color: #8ea0bf;
+    }
+
+    .hero-meta dd {
+      margin: 0;
+      text-align: right;
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    .screenshot-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1rem;
+    }
+
+    .shot-card {
+      overflow: hidden;
+      border-radius: 1.2rem;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .shot-card img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .shot-card figcaption {
+      padding: 0.9rem 1rem 1rem;
+      color: #c5cfdf;
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+
+    .section-title {
+      margin: 0 0 0.75rem;
+      color: #ffffff;
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 2rem;
+    }
+
+    .links-row a {
+      color: #8fb0ff;
+      text-decoration: underline;
+      text-underline-offset: 0.18em;
+    }
+
+    .inline-link {
+      color: #8fb0ff;
+      text-decoration: underline;
+      text-underline-offset: 0.18em;
+    }
+
+    @media (max-width: 980px) {
+      .product-hero,
+      .product-points,
+      .screenshot-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body data-edition="studio" data-page="receipt-to-pdf">
+  <header class="site-header">
+    <div class="header-utility">
+      <div class="container utility-row">
+        <p class="utility-copy">Shadowfetch product page</p>
+        <div class="utility-social">
+          <a href="/receipt-to-pdf/support/">Support</a>
+          <a href="/receipt-to-pdf/privacy/">Privacy Policy</a>
+        </div>
+      </div>
+    </div>
+    <div class="container header-row">
+      <a class="brand-lockup" href="/" aria-label="Shadowfetch home">
+        <span class="brand-mark" aria-hidden="true">SF</span>
+        <span class="brand-copy">
+          <strong>Shadowfetch</strong>
+          <small>Receipt to PDF</small>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Receipt to PDF navigation">
+        <a href="/receipt-to-pdf/">Overview</a>
+        <a href="/receipt-to-pdf/support/">Support</a>
+        <a href="/receipt-to-pdf/privacy/">Privacy</a>
+      </nav>
+      <div class="header-actions">
+        <!--email_off--><a class="button button-secondary button-compact" href="mailto:RobertCorbin84@gmail.com?subject=Receipt%20to%20PDF%20support">Email Support</a><!--/email_off-->
+      </div>
+    </div>
+  </header>
+
+  <main class="product-page">
+    <section class="container product-grid">
+      <article class="product-surface product-hero">
+        <div class="product-copy">
+          <p class="status-kicker">Privacy-first utility</p>
+          <h1>Receipt scanning that stays in the customer’s own Files storage.</h1>
+          <p class="product-lede">Receipt to PDF is a direct iPhone and iPad utility built for one job: scan a paper receipt with Apple’s native document camera, rename the file, and save the PDF locally. No account. No vendor cloud. No tracking.</p>
+          <div class="product-actions">
+            <a class="button button-primary" href="/receipt-to-pdf/support/">Support</a>
+            <a class="button button-secondary" href="/receipt-to-pdf/privacy/">Privacy Policy</a>
+          </div>
+          <div class="product-points">
+            <article class="point-card">
+              <strong>Native capture</strong>
+              <p>Uses <code>VNDocumentCameraViewController</code> for multi-page receipt scanning on real iPhone and iPad hardware.</p>
+            </article>
+            <article class="point-card">
+              <strong>Flexible save flow</strong>
+              <p>Either export through the Files save sheet every time or approve a parent location once and let the app create a <code>Receipts</code> folder.</p>
+            </article>
+            <article class="point-card">
+              <strong>Local privacy</strong>
+              <p>An optional 4-digit passcode can lock the app without introducing an account system or remote vault.</p>
+            </article>
+          </div>
+        </div>
+        <aside class="product-panel">
+          <p class="eyebrow">App status</p>
+          <h2 class="section-title">Built for App Store submission.</h2>
+          <p class="product-note">The current build is version <strong>1.0 (1)</strong> with iPhone and iPad screenshots, App Store export artifacts, support and privacy pages, and review notes prepared.</p>
+          <dl class="hero-meta">
+            <div>
+              <dt>Platforms</dt>
+              <dd>iPhone and iPad</dd>
+            </div>
+            <div>
+              <dt>Storage</dt>
+              <dd>Files or approved iCloud Drive folder</dd>
+            </div>
+            <div>
+              <dt>Backend</dt>
+              <dd>None</dd>
+            </div>
+            <div>
+              <dt>Tracking</dt>
+              <dd>None</dd>
+            </div>
+            <div>
+              <dt>Support</dt>
+              <dd><!--email_off--><a class="inline-link" href="mailto:RobertCorbin84@gmail.com">RobertCorbin84@gmail.com</a><!--/email_off--></dd>
+            </div>
+          </dl>
+        </aside>
+      </article>
+
+      <article class="product-surface product-panel">
+        <p class="eyebrow">How it works</p>
+        <h2 class="section-title">A short flow with no account detours.</h2>
+        <div class="flow-steps">
+          <article class="flow-card">
+            <strong>1. Scan the receipt</strong>
+            <p>The user taps <code>Scan Receipt</code> and the app opens Apple’s document camera for edge detection and capture.</p>
+          </article>
+          <article class="flow-card">
+            <strong>2. Rename the PDF</strong>
+            <p>The app suggests a file name, but the user can rename it before export.</p>
+          </article>
+          <article class="flow-card">
+            <strong>3. Choose the save behavior</strong>
+            <p>Use Files for every export or pick a parent location once so the app can create and reuse a <code>Receipts</code> folder after permission is granted.</p>
+          </article>
+          <article class="flow-card">
+            <strong>4. Keep the file under the customer’s control</strong>
+            <p>If the user chooses iCloud Drive, sync is handled by Apple’s Files stack and Apple account, not by Shadowfetch infrastructure.</p>
+          </article>
+        </div>
+      </article>
+
+      <article class="product-surface product-panel">
+        <p class="eyebrow">Product screens</p>
+        <h2 class="section-title">The submission screenshots match the live app.</h2>
+        <div class="screenshot-grid">
+          <figure class="shot-card">
+            <img src="/receipt-to-pdf/assets/home.png" alt="Receipt to PDF home screen showing a private local-first scanner and save destination options.">
+            <figcaption>Home screen with the save-style choice: use Files every time or configure a dedicated <code>Receipts</code> folder.</figcaption>
+          </figure>
+          <figure class="shot-card">
+            <img src="/receipt-to-pdf/assets/draft.png" alt="Receipt to PDF draft screen showing a scanned receipt and rename field.">
+            <figcaption>Draft screen after scanning, with the rename field and direct save action ready.</figcaption>
+          </figure>
+          <figure class="shot-card">
+            <img src="/receipt-to-pdf/assets/ipad-export.png" alt="Receipt to PDF iPad export screen showing the saved PDF confirmation.">
+            <figcaption>iPad export confirmation after generating a local PDF and writing it into the customer’s selected storage.</figcaption>
+          </figure>
+        </div>
+      </article>
+
+      <article class="product-surface product-panel">
+        <p class="eyebrow">Public links</p>
+        <h2 class="section-title">URLs for App Store Connect.</h2>
+        <div class="links-row">
+          <p class="product-note"><strong>Marketing URL:</strong> <a href="https://www.shadowfetch.com/receipt-to-pdf/">https://www.shadowfetch.com/receipt-to-pdf/</a></p>
+          <p class="product-note"><strong>Support URL:</strong> <a href="https://www.shadowfetch.com/receipt-to-pdf/support/">https://www.shadowfetch.com/receipt-to-pdf/support/</a></p>
+          <p class="product-note"><strong>Privacy Policy URL:</strong> <a href="https://www.shadowfetch.com/receipt-to-pdf/privacy/">https://www.shadowfetch.com/receipt-to-pdf/privacy/</a></p>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <p class="footer-title">Receipt to PDF</p>
+        <p class="footer-copy">A private receipt scanner built by Shadowfetch for people who want clean PDFs without handing receipts to a vendor cloud.</p>
+      </div>
+      <div class="footer-links">
+        <a href="/receipt-to-pdf/">Overview</a>
+        <a href="/receipt-to-pdf/support/">Support</a>
+        <a href="/receipt-to-pdf/privacy/">Privacy Policy</a>
+      </div>
+      <div class="footer-meta">
+        <span class="footer-stat"><span>Storage</span><strong>Files First</strong></span>
+        <span class="footer-stat"><span>Privacy</span><strong>No Tracking</strong></span>
+        <span class="footer-stat"><span>Contact</span><strong><!--email_off-->RobertCorbin84@gmail.com<!--/email_off--></strong></span>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

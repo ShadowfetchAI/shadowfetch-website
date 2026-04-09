@@ -41,6 +41,18 @@ def check_local() -> list[str]:
         "assets/app.js",
         "assets/shadowfetch-mark.svg",
         "assets/shadowfetch-crest.jpg",
+        "bird-hunter/index.html",
+        "bird-hunter/support/index.html",
+        "bird-hunter/privacy/index.html",
+        "fast-pdf/index.html",
+        "fast-pdf/support/index.html",
+        "fast-pdf/privacy/index.html",
+        "receipt-to-pdf/index.html",
+        "receipt-to-pdf/support/index.html",
+        "receipt-to-pdf/privacy/index.html",
+        "shift-swap-liaison/index.html",
+        "shift-swap-liaison/support/index.html",
+        "shift-swap-liaison/privacy/index.html",
         "signup/index.html",
     )
     for rel_path in required:

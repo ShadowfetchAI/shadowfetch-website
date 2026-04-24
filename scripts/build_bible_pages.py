@@ -10,7 +10,6 @@ import re
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
-from urllib import request
 from urllib.parse import quote
 
 
@@ -35,7 +34,7 @@ SITE_TITLE = "Shadowfetch: Bible Edition"
 SITE_SHORT_NAME = "Shadowfetch Bible"
 TAGLINE = "Fetch the Word. Abide in the Shadow."
 SITE_DESCRIPTION = (
-    "A calm, protective daily Bible-reading companion with complete chapters, one simple email a day, "
+    "A calm, protective daily Bible-reading companion with complete chapters, one simple use the public support page for a day, "
     "and a newspaper-inspired devotional layout built around Psalm 91."
 )
 PSALM_91 = "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty."
@@ -52,7 +51,7 @@ BRAND_DESCRIPTION = (
     "technical perfection and AI-native architecture."
 )
 BRAND_OG_IMAGE = "shadowfetch-crest.jpg"
-CONTACT_EMAIL = "RobertCorbin84@gmail.com"
+CONTACT_EMAIL = "the Shadowfetch support page"
 FOUNDER_X_HANDLE = "@MrBobCorbin"
 CEO_X_HANDLE = "@Kaitlancorbin1"
 FOUNDER_X_URL = "https://x.com/MrBobCorbin"
@@ -60,9 +59,6 @@ CEO_X_URL = "https://x.com/Kaitlancorbin1"
 FOOTER_INQUIRY_BODY = "Project summary:\nObjectives:\nTimeline:\n"
 GENERAL_INQUIRY_BODY = "Project summary:\nObjectives:\nConstraints:\nTimeline:\n"
 ENGAGEMENT_INQUIRY_BODY = "Project summary:\nBusiness objective:\nTechnical constraints:\nDesired timeline:\n"
-
-KJV_CONTENTS_URL = "https://api.github.com/repos/aruljohn/Bible-kjv/contents"
-DRA_URL = "https://raw.githubusercontent.com/xxruyle/Bible-DouayRheims/main/EntireBible-DR.json"
 
 KJV_CACHE_PATH = SOURCE_CACHE_DIR / "kjv-normalized.json"
 DRA_CACHE_PATH = SOURCE_CACHE_DIR / "douay-rheims-normalized.json"
@@ -309,7 +305,6 @@ def main() -> None:
     SUMMARY_PATH.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     write_day_payloads(plans)
 
-    write_page(INDEX_PATH, render_home_page(payload))
     write_page(BIBLE_PATH, render_bible_page(payload))
     write_page(CALENDAR_PATH, render_retired_page("Reading Rhythm", "/calendar/"))
     write_page(ARCHIVE_PATH, render_retired_page("Archive", "/archive/"))
@@ -347,12 +342,6 @@ def mailto_url(subject: str, body: str = "") -> str:
     return f"mailto:{CONTACT_EMAIL}?{'&'.join(query_parts)}"
 
 
-def fetch_json(url: str) -> Any:
-    req = request.Request(url, headers={"User-Agent": "Shadowfetch Bible Builder/1.0"})
-    with request.urlopen(req, timeout=60) as response:
-        return json.loads(response.read().decode("utf-8"))
-
-
 def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", str(value or "").replace("\n", " ").strip())
 
@@ -372,79 +361,19 @@ def load_source_datasets() -> dict[str, dict[str, list[dict[str, Any]]]]:
 def load_kjv_books() -> dict[str, list[dict[str, Any]]]:
     if KJV_CACHE_PATH.exists():
         return json.loads(KJV_CACHE_PATH.read_text(encoding="utf-8"))
-
-    listing = fetch_json(KJV_CONTENTS_URL)
-    books: dict[str, list[dict[str, Any]]] = {}
-    for entry in listing:
-        download_url = entry.get("download_url")
-        if not download_url or not str(download_url).endswith(".json"):
-            continue
-        payload = fetch_json(download_url)
-        if not isinstance(payload, dict):
-            continue
-        book_name = str(payload.get("book", "")).strip()
-        if not book_name:
-            continue
-        chapters = []
-        for raw_chapter in payload.get("chapters", []):
-            chapter_number = int(raw_chapter.get("chapter", len(chapters) + 1))
-            verses = [
-                {
-                    "verse": int(raw_verse.get("verse", index + 1)),
-                    "text": clean_text(raw_verse.get("text", "")),
-                }
-                for index, raw_verse in enumerate(raw_chapter.get("verses", []))
-            ]
-            joined_text = " ".join(verse["text"] for verse in verses)
-            chapters.append(
-                {
-                    "book": book_name,
-                    "chapter_number": chapter_number,
-                    "chapter_title": f"{book_name} {chapter_number}",
-                    "verses": verses,
-                    "verse_count": len(verses),
-                    "word_count": word_count(joined_text),
-                }
-            )
-        books[book_name] = chapters
-
-    KJV_CACHE_PATH.write_text(json.dumps(books, indent=2, ensure_ascii=False), encoding="utf-8")
-    return books
+    raise FileNotFoundError(
+        f"Missing cached KJV source dataset at {KJV_CACHE_PATH}. "
+        "This build is configured to run from local source cache only."
+    )
 
 
 def load_douay_rheims_books() -> dict[str, list[dict[str, Any]]]:
     if DRA_CACHE_PATH.exists():
         return json.loads(DRA_CACHE_PATH.read_text(encoding="utf-8"))
-
-    payload = fetch_json(DRA_URL)
-    books: dict[str, list[dict[str, Any]]] = {}
-    for book_name, chapter_map in payload.items():
-        chapters = []
-        for chapter_key in sorted(chapter_map, key=lambda item: int(item)):
-            verses_map = chapter_map[chapter_key]
-            verses = [
-                {
-                    "verse": int(verse_key),
-                    "text": clean_text(verse_text),
-                }
-                for verse_key, verse_text in sorted(verses_map.items(), key=lambda item: int(item[0]))
-            ]
-            joined_text = " ".join(verse["text"] for verse in verses)
-            chapter_number = int(chapter_key)
-            chapters.append(
-                {
-                    "book": str(book_name),
-                    "chapter_number": chapter_number,
-                    "chapter_title": f"{book_name} {chapter_number}",
-                    "verses": verses,
-                    "verse_count": len(verses),
-                    "word_count": word_count(joined_text),
-                }
-            )
-        books[str(book_name)] = chapters
-
-    DRA_CACHE_PATH.write_text(json.dumps(books, indent=2, ensure_ascii=False), encoding="utf-8")
-    return books
+    raise FileNotFoundError(
+        f"Missing cached Douay-Rheims source dataset at {DRA_CACHE_PATH}. "
+        "This build is configured to run from local source cache only."
+    )
 
 
 def gather_track_chapters(books: dict[str, list[dict[str, Any]]], book_names: list[str]) -> list[dict[str, Any]]:
@@ -677,7 +606,7 @@ def build_summary_payload(plans: dict[str, dict[str, Any]]) -> dict[str, Any]:
             for canon_key, plan in plans.items()
         },
         "settings": {
-            "email_frequency": "One daily email with that day’s complete chapters.",
+            "email_frequency": "One daily use the public support page for with that day’s complete chapters.",
             "install_label": "Install the PWA to keep today’s reading available offline.",
         },
     }
@@ -796,7 +725,7 @@ def render_header() -> str:
         <a href="/#services">Services</a>
         <a href="/#products">Products</a>
         <a href="/#standards">Standards</a>
-        <a href="/#contact">Contact</a>
+        <a href="/#contact">Learn more</a>
       </nav>
       <div class="header-actions">
         <a class="header-link" href="{BUY_ME_A_COFFEE_URL}" target="_blank" rel="noreferrer noopener">Buy Me a Coffee</a>
@@ -842,8 +771,8 @@ def render_signup_form(form_id: str, compact: bool = False) -> str:
     return f"""
       <form class="{card_class}" id="{form_id}" data-signup-form>
         <p class="panel-label">Daily Bible email</p>
-        <h3>Enter your email and subscribe.</h3>
-        <label class="field-label">Email address
+        <h3>Enter your use the public support page for and subscribe.</h3>
+        <label class="field-label">Open address
           <input class="text-input" type="email" name="email" placeholder="you@example.com" required>
         </label>
         <input type="hidden" name="canon" value="protestant">
@@ -884,7 +813,7 @@ def render_platform_band() -> str:
 
 def render_leadership_feed() -> str:
     profiles = [
-        ("MrBobCorbin", "Robert Corbin", "Founder"),
+        ("MrBobCorbin", "Shadowfetch", "Founder"),
         ("Kaitlancorbin1", "Kaitlan Corbin", "CEO"),
     ]
     button_markup = "".join(
@@ -1024,12 +953,6 @@ def render_standards_section() -> str:
 def render_products_section() -> str:
     cards = [
         (
-            "Field Reference",
-            "Bird Hunter",
-            "Bird identification, photo-backed sightings, optional private iCloud sync, and trophy-card sharing with BIRDBASE and AVONET attribution.",
-            "/bird-hunter/",
-        ),
-        (
             "Document Utility",
             "Receipt to PDF",
             "VisionKit scanning, PDF export, Files integration, and optional local passcode protection without vendor cloud storage.",
@@ -1040,6 +963,12 @@ def render_products_section() -> str:
             "Fast PDF",
             "A speed-first document utility that keeps the camera live, saves each page as its own PDF, and writes straight into Files.",
             "/fast-pdf/",
+        ),
+        (
+            "Family Archive",
+            "Grandma's Cookbook",
+            "A local-first heirloom recipe archive that scans handwritten cookbooks into searchable long PDFs with OCR correction and family notes.",
+            "/grandmas-cookbook/",
         ),
         (
             "Mileage Workflow",
@@ -1095,9 +1024,9 @@ def render_products_section() -> str:
           <div class="section-heading" data-reveal>
             <div>
               <p class="eyebrow">iOS Product Portfolio</p>
-              <h2>Nine iOS products built across utility, workflow, private communication, and field-reference categories.</h2>
+              <h2>Nine iOS products built across utility, workflow, private communication, and family archive categories.</h2>
             </div>
-            <p class="section-copy">Shadowfetch is now carrying a real product catalog, not just service pages. The current portfolio spans rapid document tools, mileage and shift workflows, consumer utilities, and Bird Hunter&apos;s dataset-backed field guide.</p>
+            <p class="section-copy">Shadowfetch is now carrying a real product catalog, not just service pages. The current portfolio spans rapid document tools, family archive software, mileage and shift workflows, private utilities, and a daily devotional reader.</p>
           </div>
           <div class="service-grid">
             {card_markup}
@@ -1160,7 +1089,7 @@ def render_contact_section() -> str:
             <h2>For teams that need direct engineering judgment and clean execution.</h2>
             <p>Send the product context, the constraints, and the delivery pressure. Shadowfetch will respond with a practical path forward.</p>
             <div class="hero-actions">
-              <a class="button button-primary" href="{mailto_url('Shadowfetch engineering inquiry', GENERAL_INQUIRY_BODY)}">Email Shadowfetch</a>
+              <a class="button button-primary" href="{mailto_url('Shadowfetch engineering inquiry', GENERAL_INQUIRY_BODY)}">Open Shadowfetch</a>
               <a class="button button-secondary" href="/signup/">Engagement page</a>
             </div>
           </article>
@@ -1169,7 +1098,7 @@ def render_contact_section() -> str:
             <div class="contact-list">
               <a href="{FOUNDER_X_URL}" target="_blank" rel="noreferrer noopener">Founder on X <strong>{FOUNDER_X_HANDLE}</strong></a>
               <a href="{CEO_X_URL}" target="_blank" rel="noreferrer noopener">CEO on X <strong>{CEO_X_HANDLE}</strong></a>
-              <a href="{mailto_url('Shadowfetch engineering inquiry')}" data-copy-email="{CONTACT_EMAIL}">Email <strong>{CONTACT_EMAIL}</strong></a>
+              <a href="{mailto_url('Shadowfetch engineering inquiry')}" data-copy-email="{CONTACT_EMAIL}">Open <strong>{CONTACT_EMAIL}</strong></a>
             </div>
             <p class="contact-note">Mail infrastructure remains active for a future Shadowfetch briefing newsletter. It is preserved, but intentionally not the primary call to action.</p>
           </article>
@@ -1244,11 +1173,11 @@ def render_home_preview(day: dict[str, Any]) -> str:
           <span>{day['word_count']} words</span>
           <span>{escape(day['translation'])}</span>
         </div>
-        <p class="reading-preview-copy">A calm 365-day Bible reading delivered one day at a time. Every email includes complete chapters only.</p>
+        <p class="reading-preview-copy">A calm 365-day Bible reading delivered one day at a time. Every use the public support page for includes complete chapters only.</p>
         <div class="hero-actions devotional-actions reading-preview-actions">
           <a class="button button-primary" href="/signup/">Subscribe</a>
         </div>
-        <p class="form-note reading-preview-note">Choose your canon, pick a start date, and the email begins from your day in the plan.</p>
+        <p class="form-note reading-preview-note">Choose your canon, pick a start date, and the use the public support page for begins from your day in the plan.</p>
       </div>
     """
 
@@ -1357,7 +1286,7 @@ def render_settings_page(payload: dict[str, Any]) -> str:
           <article class="content-card" data-reveal>
             <p class="eyebrow">Briefings</p>
             <h1>Mail infrastructure remains available for future Shadowfetch dispatches.</h1>
-            <p>The existing outbound email stack has been preserved so Shadowfetch can introduce a future newsletter or executive briefing without rebuilding delivery from zero.</p>
+            <p>The existing outbound use the public support page for stack has been preserved so Shadowfetch can introduce a future newsletter or executive briefing without rebuilding delivery from zero.</p>
           </article>
           <article class="content-card" data-reveal>
             <p class="section-kicker">Current posture</p>
@@ -1370,7 +1299,7 @@ def render_settings_page(payload: dict[str, Any]) -> str:
     """
     return page_shell(
         title=f"Briefings | {BRAND_NAME}",
-        description="Shadowfetch keeps its email infrastructure in reserve for future newsletters and technical briefings.",
+        description="Shadowfetch keeps its use the public support page for infrastructure in reserve for future newsletters and technical briefings.",
         canonical_path="/settings/",
         body_class="settings",
         content=content,
@@ -1386,7 +1315,7 @@ def render_signup_page(payload: dict[str, Any]) -> str:
             <h1>Bring the system constraints, the product ambition, and the deadlines that actually matter.</h1>
             <p>Shadowfetch is built for organizations that need senior engineering judgment across AI integration, native iOS execution, and resilient web architecture.</p>
             <div class="hero-actions">
-              <a class="button button-primary" href="{mailto_url('Shadowfetch engineering inquiry', ENGAGEMENT_INQUIRY_BODY)}">Email project details</a>
+              <a class="button button-primary" href="{mailto_url('Shadowfetch engineering inquiry', ENGAGEMENT_INQUIRY_BODY)}">Review project details</a>
               <a class="button button-secondary" href="{FOUNDER_X_URL}" target="_blank" rel="noreferrer noopener">Message the founder on X</a>
             </div>
           </article>
@@ -1412,7 +1341,7 @@ def render_signup_page(payload: dict[str, Any]) -> str:
             <div class="contact-list">
               <a href="{FOUNDER_X_URL}" target="_blank" rel="noreferrer noopener">Founder on X <strong>{FOUNDER_X_HANDLE}</strong></a>
               <a href="{CEO_X_URL}" target="_blank" rel="noreferrer noopener">CEO on X <strong>{CEO_X_HANDLE}</strong></a>
-              <a href="{mailto_url('Shadowfetch engineering inquiry')}" data-copy-email="{CONTACT_EMAIL}">Email <strong>{CONTACT_EMAIL}</strong></a>
+              <a href="{mailto_url('Shadowfetch engineering inquiry')}" data-copy-email="{CONTACT_EMAIL}">Open <strong>{CONTACT_EMAIL}</strong></a>
             </div>
           </article>
         </div>

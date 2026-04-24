@@ -4,281 +4,140 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Shift Swap Liaison | Shadowfetch</title>
-  <meta name="description" content="Shift Swap Liaison is a local-first shift handoff app. Share an app-only QR or link, let a teammate claim the shift, and send the acceptance back to the requester and manager without a backend.">
-  <meta name="theme-color" content="#05070A">
+  <meta name="description" content="Shift Swap Liaison turns a messy shift handoff into a direct mobile workflow. One person creates the shift, another claims it through the app, and the acceptance is pushed back into manager-ready communication without requiring a full scheduling platform.">
+  <meta name="theme-color" content="#0a0e17">
   <link rel="canonical" href="https://www.shadowfetch.com/shift-swap-liaison/">
   <meta property="og:title" content="Shift Swap Liaison | Shadowfetch">
-  <meta property="og:description" content="Fast team shift handoffs with app-only QR codes, claim screens, and manager-ready follow-up.">
+  <meta property="og:description" content="Shift Swap Liaison turns a messy shift handoff into a direct mobile workflow. One person creates the shift, another claims it through the app, and the acceptance is pushed back into manager-ready communication without requiring a full scheduling platform.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.shadowfetch.com/shift-swap-liaison/">
-  <meta property="og:image" content="https://www.shadowfetch.com/shift-swap-liaison/assets/icon-1024.png">
+  <meta property="og:image" content="https://www.shadowfetch.com/shift-swap-liaison/assets/create.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Shift Swap Liaison | Shadowfetch">
-  <meta name="twitter:description" content="Fast team shift handoffs with app-only QR codes, claim screens, and manager-ready follow-up.">
-  <meta name="twitter:image" content="https://www.shadowfetch.com/shift-swap-liaison/assets/icon-1024.png">
+  <meta name="twitter:description" content="Shift Swap Liaison turns a messy shift handoff into a direct mobile workflow. One person creates the shift, another claims it through the app, and the acceptance is pushed back into manager-ready communication without requiring a full scheduling platform.">
+  <meta name="twitter:image" content="https://www.shadowfetch.com/shift-swap-liaison/assets/create.png">
+  <meta name="twitter:site" content="@MrBobCorbin">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="icon" href="/shift-swap-liaison/assets/icon-1024.png" type="image/png">
-  <link rel="stylesheet" href="/assets/styles.css">
-  <style>
-    .product-page {
-      padding: 4rem 0 5rem;
-    }
-
-    .product-grid {
-      display: grid;
-      gap: 1.5rem;
-    }
-
-    .product-surface {
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      background: rgba(9, 13, 20, 0.86);
-      border-radius: 1.5rem;
-      box-shadow: 0 30px 80px rgba(0, 0, 0, 0.28);
-    }
-
-    .product-hero {
-      display: grid;
-      grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
-      gap: 1.5rem;
-      align-items: stretch;
-    }
-
-    .product-copy,
-    .product-panel,
-    .product-gallery,
-    .product-body {
-      padding: 2rem;
-    }
-
-    .product-copy h1,
-    .section-title {
-      margin: 0.5rem 0 1rem;
-      font-family: "Playfair Display", Georgia, serif;
-      line-height: 0.96;
-      letter-spacing: -0.04em;
-      color: #ffffff;
-    }
-
-    .product-copy h1 {
-      font-size: clamp(2.8rem, 5vw, 4.5rem);
-    }
-
-    .section-title {
-      font-size: 2rem;
-    }
-
-    .product-lede,
-    .product-panel p,
-    .feature-card p,
-    .how-card p,
-    .product-note,
-    .gallery-caption {
-      color: #c5cfdf;
-      line-height: 1.75;
-    }
-
-    .product-actions {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.8rem;
-    }
-
-    .feature-grid,
-    .how-grid,
-    .shot-grid {
-      display: grid;
-      gap: 1rem;
-    }
-
-    .feature-grid,
-    .how-grid {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-
-    .shot-grid {
-      grid-template-columns: repeat(4, minmax(0, 1fr));
-    }
-
-    .feature-card,
-    .how-card {
-      padding: 1.1rem 1.15rem;
-      border-radius: 1.15rem;
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      background: rgba(255, 255, 255, 0.03);
-    }
-
-    .feature-card strong,
-    .how-card strong {
-      display: block;
-      margin-bottom: 0.35rem;
-      color: #ffffff;
-    }
-
-    .app-icon-preview {
-      width: min(220px, 100%);
-      border-radius: 22%;
-      display: block;
-      margin-bottom: 1rem;
-      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
-    }
-
-    .hero-meta {
-      display: grid;
-      gap: 0.85rem;
-      margin-top: 1rem;
-    }
-
-    .hero-meta div {
-      display: flex;
-      justify-content: space-between;
-      gap: 1rem;
-      padding-bottom: 0.8rem;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-      color: #c5cfdf;
-      font-size: 0.95rem;
-    }
-
-    .hero-meta dt {
-      color: #8ea0bf;
-    }
-
-    .hero-meta dd {
-      margin: 0;
-      text-align: right;
-      color: #ffffff;
-      font-weight: 600;
-    }
-
-    .phone-shot {
-      width: 100%;
-      border-radius: 1.2rem;
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      box-shadow: 0 24px 48px rgba(0, 0, 0, 0.24);
-      display: block;
-    }
-
-    @media (max-width: 1080px) {
-      .product-hero,
-      .feature-grid,
-      .how-grid,
-      .shot-grid {
-        grid-template-columns: 1fr;
-      }
-    }
-  </style>
+  <link rel="stylesheet" href="/assets/styles.css?v=20260411d">
+  <link rel="stylesheet" href="/assets/portfolio-home.css?v=20260411d">
+  <link rel="stylesheet" href="/assets/product-detail.css?v=20260411d">
 </head>
-<body data-edition="studio" data-page="shift-swap-liaison">
-  <header class="site-header">
-    <div class="header-utility">
-      <div class="container utility-row">
-        <p class="utility-copy">Shadowfetch product page</p>
-        <div class="utility-social">
-          <a href="/shift-swap-liaison/support/">Support</a>
-          <a href="/shift-swap-liaison/privacy/">Privacy Policy</a>
-        </div>
-      </div>
-    </div>
-    <div class="container header-row">
-      <a class="brand-lockup" href="/" aria-label="Shadowfetch home">
-        <span class="brand-mark" aria-hidden="true">SF</span>
-        <span class="brand-copy">
+<body class="portfolio-home product-detail theme-shift-swap-liaison">
+  <header class="home-header">
+    <div class="shell">
+      <a class="home-brand" href="/" aria-label="Shadowfetch home">
+        <span class="home-brand-mark">SF</span>
+        <span class="home-brand-copy">
           <strong>Shadowfetch</strong>
           <small>Shift Swap Liaison</small>
         </span>
       </a>
-      <nav class="site-nav" aria-label="Shift Swap Liaison navigation">
-        <a href="/shift-swap-liaison/">Overview</a>
+      <nav class="home-nav" aria-label="Shift Swap Liaison navigation">
+        <a href="/">Home</a>
         <a href="/shift-swap-liaison/support/">Support</a>
         <a href="/shift-swap-liaison/privacy/">Privacy</a>
       </nav>
-      <div class="header-actions">
-        <!--email_off--><a class="button button-secondary button-compact" href="mailto:RobertCorbin84@gmail.com?subject=Shift%20Swap%20Liaison%20support">Email Support</a><!--/email_off-->
-      </div>
     </div>
   </header>
 
-  <main class="product-page">
-    <section class="container product-grid">
-      <article class="product-surface product-hero">
-        <div class="product-copy">
-          <p class="eyebrow">Shift Swap Liaison</p>
-          <h1>Fast team shift handoffs.</h1>
-          <p class="product-lede">Shift Swap Liaison turns a messy chat thread into a simple handoff. Create the shift, share an app-only QR or link, let a teammate claim it in the app, and send the acceptance back to the requester and manager without running a backend.</p>
+  <main class="product-main">
+    <section class="product-hero">
+      <div class="hero-grid"></div>
+      <div class="shell product-hero-layout">
+        <article class="product-card">
+          <p class="product-kicker">Workforce Utility</p>
+          <h1 class="product-title">Fast team shift handoffs without a backend-heavy stack.</h1>
+          <p class="product-summary">Shift Swap Liaison turns a messy shift handoff into a direct mobile workflow. One person creates the shift, another claims it through the app, and the acceptance is pushed back into manager-ready communication without requiring a full scheduling platform.</p>
           <div class="product-actions">
-            <a class="button button-primary" href="/shift-swap-liaison/support/">Support</a>
-            <a class="button button-secondary" href="/shift-swap-liaison/privacy/">Privacy Policy</a>
+            <a class="product-action product-action-primary" href="/shift-swap-liaison/support/">Support</a>
+            <a class="product-action product-action-secondary" href="/shift-swap-liaison/privacy/">Privacy</a>
+            <a class="product-action product-action-secondary" href="/">Back to portfolio</a>
           </div>
-          <div class="feature-grid">
-            <article class="feature-card">
-              <strong>App-only routing</strong>
-              <p>Every invite is a Shift Swap Liaison QR code or link, so coworkers land in the claim screen instead of a generic web page.</p>
-            </article>
-            <article class="feature-card">
-              <strong>Manager-ready follow-up</strong>
-              <p>Once a teammate accepts, the app prepares the requester email and manager CC flow instead of asking users to rewrite the handoff manually.</p>
-            </article>
-            <article class="feature-card">
-              <strong>Group status update</strong>
-              <p>The accepter can post a claimed update back to the original chat so the rest of the team sees that the shift is tentatively covered.</p>
-            </article>
-          </div>
-        </div>
+          <ul class="product-bullets">
+            <li>Platform: iPhone and iPad</li>
+            <li>Backend: Not required</li>
+            <li>Share path: QR and deep link</li>
+          </ul>
+        </article>
         <aside class="product-panel">
-          <img class="app-icon-preview" src="/shift-swap-liaison/assets/icon-1024.png" alt="Shift Swap Liaison app icon showing two arrows circling a clipboard.">
-          <h2 class="section-title">Built for submission.</h2>
-          <p class="product-note">The current build is version <strong>1.0 (1)</strong> with local-only defaults, no accounts, no tracking, and live support and privacy pages for App Store review.</p>
-          <dl class="hero-meta">
-            <div>
-              <dt>Platform</dt>
-              <dd>iPhone + iPad</dd>
-            </div>
-            <div>
-              <dt>Bundle ID</dt>
-              <dd>com.realbobcorbin.ShiftSwapLiaison</dd>
-            </div>
-            <div>
-              <dt>Manager install</dt>
-              <dd>Not required</dd>
-            </div>
-            <div>
-              <dt>Data model</dt>
-              <dd>On-device only</dd>
-            </div>
+          <div class="product-visual-wrap">
+            <img class="product-icon" src="/shift-swap-liaison/assets/icon-1024.png" alt="Shift Swap Liaison icon">
+            <img class="product-preview" src="/shift-swap-liaison/assets/create.png" alt="Shift Swap Liaison create screen">
+          </div>
+          <dl class="product-meta">
+            <div><dt>Platform</dt><dd>iPhone and iPad</dd></div>
+            <div><dt>Backend</dt><dd>Not required</dd></div>
+            <div><dt>Share path</dt><dd>QR and deep link</dd></div>
+            <div><dt>Best use</dt><dd>Shift handoff coordination</dd></div>
           </dl>
         </aside>
-      </article>
+      </div>
+    </section>
 
-      <article class="product-surface product-gallery">
-        <h2 class="section-title">In Product</h2>
-        <p class="gallery-caption">The same screens below are used for the current App Store submission set.</p>
-        <div class="shot-grid">
-          <img class="phone-shot" src="/shift-swap-liaison/assets/create.png" alt="Create shift card screen in Shift Swap Liaison.">
-          <img class="phone-shot" src="/shift-swap-liaison/assets/share.png" alt="Share QR and link screen in Shift Swap Liaison.">
-          <img class="phone-shot" src="/shift-swap-liaison/assets/accepted.png" alt="Accepted shift follow-up screen in Shift Swap Liaison.">
-          <img class="phone-shot" src="/shift-swap-liaison/assets/covered.png" alt="Covered shift status screen in Shift Swap Liaison.">
-        </div>
-      </article>
-
-      <article class="product-surface product-body">
-        <h2 class="section-title">How It Works</h2>
-        <div class="how-grid">
-          <article class="how-card">
-            <strong>1. Create the swap</strong>
-            <p>Enter your shift title, manager, time window, location, and any notes. The app also remembers your defaults for the next handoff.</p>
-          </article>
-          <article class="how-card">
-            <strong>2. Share it where the team already talks</strong>
-            <p>Post the generated QR code or app-only link into iMessage, WhatsApp, Telegram, or the team thread you already use.</p>
-          </article>
-          <article class="how-card">
-            <strong>3. Close the loop</strong>
-            <p>The teammate accepts inside the app, sends the requester and manager notice, and can post the claimed update back to the group so duplicate claims slow down.</p>
-          </article>
-        </div>
-      </article>
+    <section class="product-sections">
+      <div class="shell">
+        <section class="product-section">
+          <div class="product-section-heading">
+            <div>
+              <p class="eyebrow">Explanation</p>
+              <h2>What this app is actually for.</h2>
+            </div>
+            <p>The product is meant to solve one operational problem well: covering a shift quickly without forcing a small team into enterprise scheduling software.</p>
+          </div>
+          <div class="detail-grid">
+            <article class="detail-card"><span class="detail-label">What it is</span><h3>A focused handoff workflow</h3><p class="detail-copy">The app creates a shift card, distributes a claim route, and packages the acceptance back into a cleaner manager-facing result.</p></article>
+            <article class="detail-card"><span class="detail-label">Why it matters</span><h3>Shift swaps are usually noisy and fragmented</h3><p class="detail-copy">Text threads and ad hoc messages create uncertainty. This app exists to give the exchange a clearer shape.</p></article>
+            <article class="detail-card"><span class="detail-label">Where it fits</span><h3>Hourly teams and local operations</h3><p class="detail-copy">It is most useful where people already know each other and just need a better mobile process to cover open shifts.</p></article>
+          </div>
+        </section>
+        
+        <section class="product-section">
+          <div class="product-section-heading">
+            <div>
+              <p class="eyebrow">Screens</p>
+              <h2>How the product shows up on device.</h2>
+            </div>
+            <p>These screens give the product page more weight and make the app feel real instead of abstract.</p>
+          </div>
+          <div class="product-gallery">
+            <figure><img src="/shift-swap-liaison/assets/create.png" alt="Shift creation screen"><figcaption>The creation step captures the shift details in a format ready for handoff.</figcaption></figure>
+            <figure><img src="/shift-swap-liaison/assets/share.png" alt="Shift sharing screen"><figcaption>The share state produces the app-native QR or link that teammates use to claim the shift.</figcaption></figure>
+            <figure><img src="/shift-swap-liaison/assets/accepted.png" alt="Shift accepted screen"><figcaption>Acceptance is reflected directly in the app so the handoff stops being ambiguous.</figcaption></figure>
+          </div>
+        </section>
+        <section class="product-section">
+          <div class="product-surface">
+            <div class="product-section-heading">
+              <div>
+                <p class="eyebrow">Links</p>
+                <h2>Open the right path.</h2>
+              </div>
+              <p>Support, policy, accessibility, and portfolio links stay direct so the page works as a clean public product surface.</p>
+            </div>
+            <div class="product-links">
+              <a href="/shift-swap-liaison/support/">Support</a>
+              <a href="/shift-swap-liaison/privacy/">Privacy</a>
+              <a href="/">Back to portfolio</a>
+            </div>
+            <div class="product-footer">
+              <p class="product-footer-note">Shift Swap Liaison is strongest when the team needs a faster handoff path, not a full HR system.</p>
+            </div>
+          </div>
+        </section>
+      </div>
     </section>
   </main>
+
+  <footer class="home-footer">
+    <div class="shell home-footer-inner">
+      <p>© <span data-current-year></span> Shadowfetch</p>
+      <p>Shift Swap Liaison is strongest when the team needs a faster handoff path, not a full HR system.</p>
+    </div>
+  </footer>
+
+  <script src="/assets/app.js?v=20260411d"></script>
 </body>
 </html>

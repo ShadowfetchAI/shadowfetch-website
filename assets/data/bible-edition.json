@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-07T16:33:28.352984Z",
+  "generated_at": "2026-04-24T16:32:42.130002Z",
   "site": {
     "title": "Shadowfetch: Bible Edition",
     "short_name": "Shadowfetch Bible",
     "tagline": "Fetch the Word. Abide in the Shadow.",
-    "description": "A calm, protective daily Bible-reading companion with complete chapters, one simple email a day, and a newspaper-inspired devotional layout built around Psalm 91.",
+    "description": "A calm, protective daily Bible-reading companion with complete chapters, one simple use the public support page for a day, and a newspaper-inspired devotional layout built around Psalm 91.",
     "support_url": "https://www.buymeacoffee.com/shadowfetch",
     "psalm_91": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty."
   },
@@ -24,7 +24,7 @@
   ],
   "default_profile": {
     "canon": "protestant",
-    "start_date": "2026-04-08"
+    "start_date": "2026-04-25"
   },
   "quote_of_day": {
     "verse": "Matthew 1:14",
@@ -46,8 +46,8 @@
     }
   ],
   "today": {
-    "date": "2026-04-07",
-    "display_date": "Tuesday, April 07, 2026",
+    "date": "2026-04-24",
+    "display_date": "Friday, April 24, 2026",
     "day_number": 1,
     "references": "Genesis 1-2 • Job 1 • Isaiah 1 • Matthew 1",
     "word_count": 3305,
@@ -1287,92 +1287,92 @@
       },
       {
         "day": 7,
-        "status": "today",
+        "status": "read",
         "label": "2026-04-07"
       },
       {
         "day": 8,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-08"
       },
       {
         "day": 9,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-09"
       },
       {
         "day": 10,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-10"
       },
       {
         "day": 11,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-11"
       },
       {
         "day": 12,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-12"
       },
       {
         "day": 13,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-13"
       },
       {
         "day": 14,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-14"
       },
       {
         "day": 15,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-15"
       },
       {
         "day": 16,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-16"
       },
       {
         "day": 17,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-17"
       },
       {
         "day": 18,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-18"
       },
       {
         "day": 19,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-19"
       },
       {
         "day": 20,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-20"
       },
       {
         "day": 21,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-21"
       },
       {
         "day": 22,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-22"
       },
       {
         "day": 23,
-        "status": "future",
+        "status": "read",
         "label": "2026-04-23"
       },
       {
         "day": 24,
-        "status": "future",
+        "status": "today",
         "label": "2026-04-24"
       },
       {
@@ -12746,7 +12746,7 @@
     }
   },
   "settings": {
-    "email_frequency": "One daily email with that day’s complete chapters.",
+    "email_frequency": "One daily use the public support page for with that day’s complete chapters.",
     "install_label": "Install the PWA to keep today’s reading available offline."
   }
 }

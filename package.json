@@ -4,13 +4,22 @@
   "scripts": {
     "build:bible": "python3 scripts/build_bible_pages.py",
     "build:feed": "python3 scripts/build_feed.py",
+    "build:info": "python3 scripts/build_info_pages.py",
     "build:pages": "python3 scripts/build_pages.py",
+    "build:products": "python3 scripts/build_product_pages.py",
     "build:dist": "python3 scripts/build_dist.py",
-    "build": "npm run build:bible && npm run build:dist",
-    "dev": "wrangler pages dev dist",
-    "deploy": "wrangler pages deploy dist"
+    "build": "npm run build:bible && npm run build:products && npm run build:info && npm run build:dist",
+    "build:worker": "./scripts/build_worker_bundle.sh",
+    "check:site": "python3 scripts/check_site.py",
+    "maintain": "npm run build && npm run check:site",
+    "dev": "wrangler dev --config wrangler.worker.jsonc",
+    "deploy": "npm run build:worker && wrangler deploy --config wrangler.worker.jsonc",
+    "deploy:prod": "npm run build:worker && wrangler deploy --config wrangler.worker.prod.jsonc",
+    "deploy:worker:dry": "npm run build:worker && wrangler deploy --config wrangler.worker.jsonc --dry-run",
+    "deploy:worker": "npm run build:worker && wrangler deploy --config wrangler.worker.jsonc",
+    "deploy:worker:prod": "npm run build:worker && wrangler deploy --config wrangler.worker.prod.jsonc"
   },
   "devDependencies": {
-    "wrangler": "^4.0.0"
+    "wrangler": "^4.81.1"
   }
 }

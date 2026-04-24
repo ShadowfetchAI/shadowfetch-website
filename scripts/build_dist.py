@@ -26,18 +26,21 @@ DIRECTORIES = [
     "arbiter",
     "archive",
     "bible",
-    "bird-hunter",
     "blessed",
     "calendar",
     "daily-word-journey",
     "fast-pdf",
+    "grandmas-cookbook",
     "hush",
     "receipt-to-pdf",
     "renew-guard",
     "route-pay",
+    "snapdeck",
     "shift-swap-liaison",
     "settings",
+    "shadowfetch",
     "signup",
+    "text-cleanse",
 ]
 
 FILES = [
@@ -62,9 +65,6 @@ HEADERS_CONTENT = """\
 /bible/
   Cache-Control: public, max-age=0, must-revalidate
 
-/bird-hunter/
-  Cache-Control: public, max-age=0, must-revalidate
-
 /archive/
   Cache-Control: public, max-age=0, must-revalidate
 
@@ -80,6 +80,9 @@ HEADERS_CONTENT = """\
 /fast-pdf/
   Cache-Control: public, max-age=0, must-revalidate
 
+/grandmas-cookbook/
+  Cache-Control: public, max-age=0, must-revalidate
+
 /hush/
   Cache-Control: public, max-age=0, must-revalidate
 
@@ -92,13 +95,22 @@ HEADERS_CONTENT = """\
 /route-pay/
   Cache-Control: public, max-age=0, must-revalidate
 
+/snapdeck/
+  Cache-Control: public, max-age=0, must-revalidate
+
 /shift-swap-liaison/
   Cache-Control: public, max-age=0, must-revalidate
 
 /settings/
   Cache-Control: public, max-age=0, must-revalidate
 
+/shadowfetch/
+  Cache-Control: public, max-age=0, must-revalidate
+
 /signup/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/text-cleanse/
   Cache-Control: public, max-age=0, must-revalidate
 
 /service-worker.js

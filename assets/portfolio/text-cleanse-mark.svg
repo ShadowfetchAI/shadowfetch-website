@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Text Cleanse mark</title>
+  <desc id="desc">A disciplined TC monogram on a dark blue background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#11192c"/>
+      <stop offset="100%" stop-color="#1f2d4a"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#6be3ff"/>
+      <stop offset="100%" stop-color="#c9a57a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="220" fill="url(#bg)"/>
+  <path d="M226 270h572" stroke="url(#stroke)" stroke-width="54" stroke-linecap="round"/>
+  <path d="M512 270v476" stroke="url(#stroke)" stroke-width="54" stroke-linecap="round"/>
+  <path d="M364 746h286" stroke="url(#stroke)" stroke-width="54" stroke-linecap="round"/>
+  <path d="M650 364c88 0 148 56 148 138 0 81-60 138-148 138" fill="none" stroke="url(#stroke)" stroke-width="54" stroke-linecap="round"/>
+  <path d="M712 226 822 116" stroke="rgba(107,227,255,0.18)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M202 908 312 798" stroke="rgba(201,165,122,0.18)" stroke-width="18" stroke-linecap="round"/>
+</svg>

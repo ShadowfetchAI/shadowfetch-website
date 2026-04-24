@@ -10,6 +10,9 @@ if (document.readyState === "loading") {
 
 function bootSite() {
   revealSections();
+  cleanupLegacyServiceWorkers().catch(() => {
+    // Ignore legacy service worker cleanup failures.
+  });
   initializeVisitorCounter().catch(() => {
     setVisitCount("Unavailable");
   });
@@ -132,8 +135,7 @@ async function initializeLeadershipFeed() {
     return;
   }
 
-  await loadXWidgets();
-  await Promise.all(panels.map((panel) => renderXTimeline(panel)));
+  await loadXWidgets().catch(() => null);
 
   let activeIndex = Math.max(
     0,
@@ -151,6 +153,7 @@ async function initializeLeadershipFeed() {
       toggle.classList.toggle("is-active", isActive);
       toggle.setAttribute("aria-pressed", isActive ? "true" : "false");
     });
+    renderActiveTimeline(panels[index]);
   };
 
   const restartRotation = () => {
@@ -211,37 +214,25 @@ function loadXWidgets() {
   return xWidgetsPromise;
 }
 
-function renderXTimeline(panel) {
-  if (panel.dataset.xRendered === "true") {
-    return Promise.resolve();
+function renderActiveTimeline(panel) {
+  if (!panel || panel.dataset.xRendered === "true") {
+    return;
   }
 
   const target = panel.querySelector("[data-x-embed]");
-  const screenName = target?.dataset.screenName;
-  const profileLabel = target?.dataset.profileLabel || screenName || "Shadowfetch";
-  if (!target || !screenName || !window.twttr?.widgets?.createTimeline) {
-    return Promise.resolve();
+  if (!target) {
+    return;
   }
 
-  target.innerHTML = "";
-
-  return window.twttr.widgets.createTimeline(
-    {
-      sourceType: "profile",
-      screenName,
-    },
-    target,
-    {
-      theme: "dark",
-      chrome: "noheader nofooter noborders transparent",
-      tweetLimit: 1,
-      dnt: true,
-    }
-  ).then(() => {
+  if (target.querySelector("iframe")) {
     panel.dataset.xRendered = "true";
-  }).catch(() => {
-    target.innerHTML = `<p class="x-feed-loading">Latest post unavailable right now. Open ${escapeHtml(profileLabel)} on X instead.</p>`;
-  });
+    return;
+  }
+
+  if (window.twttr?.widgets?.load) {
+    window.twttr.widgets.load(target);
+    panel.dataset.xRendered = "true";
+  }
 }
 
 function formatInteger(value) {
@@ -252,13 +243,33 @@ function formatInteger(value) {
   return new Intl.NumberFormat("en-US").format(Math.round(number));
 }
 
-function escapeHtml(value) {
-  return String(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;");
+async function cleanupLegacyServiceWorkers() {
+  if (!("serviceWorker" in navigator)) {
+    return;
+  }
+
+  const registrations = await navigator.serviceWorker.getRegistrations();
+  if (!registrations.length) {
+    return;
+  }
+
+  const hadController = Boolean(navigator.serviceWorker.controller);
+  await Promise.all(registrations.map((registration) => registration.unregister().catch(() => false)));
+
+  if ("caches" in window) {
+    const keys = await window.caches.keys();
+    await Promise.all(
+      keys
+        .filter((key) => key.startsWith("shadowfetch-"))
+        .map((key) => window.caches.delete(key))
+    );
+  }
+
+  const reloadKey = "shadowfetch_service_worker_cleared";
+  if (hadController && readSessionValue(reloadKey) !== "1") {
+    writeSessionValue(reloadKey, "1");
+    window.location.reload();
+  }
 }
 
 function readSessionValue(key) {

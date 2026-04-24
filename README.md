@@ -1,12 +1,12 @@
 # Shadowfetch: Bible Edition
 
-Shadowfetch: Bible Edition turns `shadowfetch.com` into a calm, minimal daily Bible email centered on Psalm 91:1:
+Shadowfetch: Bible Edition turns `shadowfetch.com` into a calm, minimal daily Bible use the public support page for centered on Psalm 91:1:
 
 > He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.
 
 The current product is intentionally simple:
 
-- one email signup
+- one use the public support page for signup
 - one calm reading delivered each day
 - complete chapters only
 - no paywalls
@@ -28,6 +28,14 @@ The supporting pages are intentionally lighter now:
 - `/bible/` keeps the full current reading available on the web
 - `/settings/`, `/archive/`, and `/calendar/` are retained but folded into the simpler email-first flow
 
+## Production scope
+
+This repository's supported production path is the Bible edition only.
+
+- The live homepage should be the Bible signup/read flow
+- The live APIs should report `edition: "bible"`
+- Any older newspaper-style or feed-generation files still in the repo are legacy material, not the active production site
+
 ## Data model
 
 The build process bundles two public-domain scripture sources:
@@ -44,12 +52,12 @@ The generator precomputes:
 
 ## Runtime
 
-Cloudflare Pages Functions provide:
+Cloudflare Worker routes provide:
 
 - `/api/day` for personalized day lookups
 - `/api/signup` for storing reader preferences
 - `/api/progress` for read-state persistence
-- `/api/send-devotionals` for daily email delivery batches
+- `/api/send-devotionals` for daily use the public support page for delivery batches
 - `/api/meta` for health checks and freshness reporting
 
 Signup records each reader's:
@@ -59,7 +67,7 @@ Signup records each reader's:
 - start date
 - subscription state
 
-At send time, the system calculates that reader's personal day number from `start_date`, loads the correct precomputed reading file for that day and canon, and renders the email from whole chapter records.
+At send time, the system calculates that reader's personal day number from `start_date`, loads the correct precomputed reading file for that day and canon, and renders the use the public support page for from whole chapter records.
 
 That means:
 
@@ -86,7 +94,19 @@ Build the site:
 npm run build
 ```
 
-Run it locally:
+Run the health check:
+
+```bash
+npm run check:site
+```
+
+Run the full maintenance pass:
+
+```bash
+npm run maintain
+```
+
+Run it locally against the Worker config:
 
 ```bash
 npm run dev
@@ -94,11 +114,11 @@ npm run dev
 
 ## Deployment
 
-The production site is deployed on Cloudflare Pages using the `shadowfetch` Pages project.
+The production site is deployed on Cloudflare Workers with static assets.
 
 Required secrets:
 
-- `CLOUDFLARE_API_TOKEN`
+- `Cloudflare deployment token`
 - `CLOUDFLARE_ACCOUNT_ID`
 
 Optional runtime secrets for daily emails:
@@ -107,7 +127,23 @@ Optional runtime secrets for daily emails:
 - `RESEND_FROM`
 - `CRON_SECRET`
 
-## Daily email sending
+Deploy the current production build:
+
+```bash
+npm run deploy:prod
+```
+
+## Kaitlan maintenance workflow
+
+If Kaitlan is maintaining the site, the safe routine is:
+
+1. `cd` into the Shadowfetch site workspace
+2. Run `npm run maintain`
+3. Review the health-check output
+4. If clean, run `npm run deploy:prod`
+5. Re-run `npm run check:site` after deployment
+
+## Daily use the public support page for sending
 
 The repository contains the daily devotional batch endpoint at `/api/send-devotionals`.
 

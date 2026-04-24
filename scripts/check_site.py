@@ -28,8 +28,8 @@ def check_local() -> list[str]:
         return failures
 
     html = index_path.read_text(encoding="utf-8")
-    if "Engineering the Next Generation of Intelligence." not in html:
-      failures.append("dist/index.html is missing the new hero headline")
+    if "A living product shelf with Bible Edition in the front window." not in html:
+        failures.append("dist/index.html is missing the approved homepage hero headline")
     if 'data-edition="studio"' not in html:
         failures.append("dist/index.html is missing the studio edition marker")
 
@@ -41,12 +41,12 @@ def check_local() -> list[str]:
         "assets/app.js",
         "assets/shadowfetch-mark.svg",
         "assets/shadowfetch-crest.jpg",
-        "bird-hunter/index.html",
-        "bird-hunter/support/index.html",
-        "bird-hunter/privacy/index.html",
         "fast-pdf/index.html",
         "fast-pdf/support/index.html",
         "fast-pdf/privacy/index.html",
+        "grandmas-cookbook/index.html",
+        "grandmas-cookbook/support/index.html",
+        "grandmas-cookbook/privacy/index.html",
         "receipt-to-pdf/index.html",
         "receipt-to-pdf/support/index.html",
         "receipt-to-pdf/privacy/index.html",
@@ -67,8 +67,8 @@ def check_live(origin: str) -> list[str]:
         status, html = fetch(f"{origin}/")
         if status != 200:
             failures.append(f"homepage returned HTTP {status}")
-        if "Engineering the Next Generation of Intelligence." not in html:
-            failures.append("live homepage is not serving the new Shadowfetch front-end")
+        if "A living product shelf with Bible Edition in the front window." not in html:
+            failures.append("live homepage is not serving the approved homepage draft")
     except Exception as exc:
         failures.append(f"homepage check failed: {exc}")
     return failures

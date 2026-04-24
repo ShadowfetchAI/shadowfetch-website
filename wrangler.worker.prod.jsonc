@@ -1,0 +1,40 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "shadowfetch-site",
+  "main": "./.cloudflare/worker/index.js",
+  "compatibility_date": "2026-04-09",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "www.shadowfetch.com",
+      "custom_domain": true
+    }
+  ],
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "run_worker_first": [
+      "/api/*"
+    ]
+  },
+  "vars": {
+    "SITE_NAME": "Shadowfetch: Bible Edition",
+    "SITE_ORIGIN": "https://www.shadowfetch.com",
+    "COUNTER_NAMESPACE": "shadowfetch-bible",
+    "COUNTER_KEY": "site_visits"
+  },
+  "d1_databases": [
+    {
+      "binding": "SITE_DB",
+      "database_name": "shadowfetch-news",
+      "database_id": "a871f8b0-e24c-42df-9eaf-34cd54e43512",
+      "preview_database_id": "a871f8b0-e24c-42df-9eaf-34cd54e43512"
+    }
+  ]
+}

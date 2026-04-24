@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+  <title id="title">Shadowfetch AI Lab mark</title>
+  <desc id="desc">A Shadowfetch AI Lab wordmark with a hound silhouette and circuit line accents.</desc>
+  <defs>
+    <linearGradient id="aqua" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#7df2ff"/>
+      <stop offset="100%" stop-color="#3aa5ff"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#dfc49b"/>
+      <stop offset="100%" stop-color="#b48b56"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="520" rx="36" fill="#0e1320"/>
+
+  <g stroke="rgba(107,227,255,0.25)" stroke-width="3" fill="none">
+    <path d="M12 82h190l58 58h118"/>
+    <path d="M0 128h134l56-56h72"/>
+    <path d="M36 212h184l44-40h98"/>
+    <path d="M124 500h140l64-64h140"/>
+    <path d="M0 340h230l48 48h140"/>
+    <path d="M970 70h120l54 54h256"/>
+    <path d="M1034 160h110l48-44h208"/>
+    <path d="M1050 432h120l44-36h186"/>
+    <circle cx="12" cy="82" r="6" fill="#7df2ff"/>
+    <circle cx="36" cy="212" r="6" fill="#7df2ff"/>
+    <circle cx="124" cy="500" r="6" fill="#7df2ff"/>
+    <circle cx="1400" cy="124" r="6" fill="#7df2ff"/>
+    <circle cx="1400" cy="160" r="6" fill="#7df2ff"/>
+    <circle cx="1400" cy="432" r="6" fill="#7df2ff"/>
+  </g>
+
+  <g transform="translate(118 82)">
+    <text x="0" y="164" fill="url(#aqua)" filter="url(#glow)" font-family="Space Grotesk, Arial, sans-serif" font-size="174" font-weight="700" letter-spacing="8">AI</text>
+    <text x="10" y="244" fill="url(#aqua)" filter="url(#glow)" font-family="IBM Plex Mono, monospace" font-size="72" font-weight="500" letter-spacing="10">LAB</text>
+    <text x="0" y="348" fill="url(#gold)" font-family="Georgia, serif" font-size="88" font-weight="700">ShadowFetch.com</text>
+  </g>
+
+  <g transform="translate(850 88)">
+    <path d="M28 224c24-28 58-44 102-46l66-74c20-24 50-38 82-38 28 0 56 8 78 24l82 56c20 12 42 18 66 18h46c22 0 40 18 40 40s-18 40-40 40h-34c-42 0-82-12-116-34l-56-36-36 46 46 28c28 18 52 42 68 72l22 40c14 24 6 54-18 68-24 14-54 6-68-18l-20-36c-8-14-18-26-32-34l-44-28-48 96c-16 34-52 56-90 56h-74c-50 0-90-40-90-90 0-42 28-78 68-88z" fill="#5b382a"/>
+    <path d="M64 232c18-22 44-34 76-34h54c18 0 32 14 32 32 0 18-14 32-32 32h-40c-18 0-32 14-32 32s14 32 32 32h42c18 0 32 14 32 32s-14 32-32 32h-56c-54 0-98-44-98-98 0-22 8-44 22-60z" fill="#6e4331"/>
+    <circle cx="540" cy="158" r="9" fill="#111827"/>
+  </g>
+</svg>

@@ -4,274 +4,140 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Fast PDF | Shadowfetch</title>
-  <meta name="description" content="Fast PDF is a rapid local PDF capture app for iPhone and iPad. Take a photo, save a PDF immediately, and stay ready for the next page.">
-  <meta name="theme-color" content="#05070A">
+  <meta name="description" content="Fast PDF is a speed-first document app for iPhone and iPad. It keeps the capture loop short, turns each shot into its own PDF, and writes straight into Files so the user can move through real paper without the usual scanning drag.">
+  <meta name="theme-color" content="#0a0e17">
   <link rel="canonical" href="https://www.shadowfetch.com/fast-pdf/">
   <meta property="og:title" content="Fast PDF | Shadowfetch">
-  <meta property="og:description" content="Rapid document PDFs for iPhone and iPad with local-only storage and Files integration.">
+  <meta property="og:description" content="Fast PDF is a speed-first document app for iPhone and iPad. It keeps the capture loop short, turns each shot into its own PDF, and writes straight into Files so the user can move through real paper without the usual scanning drag.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.shadowfetch.com/fast-pdf/">
   <meta property="og:image" content="https://www.shadowfetch.com/fast-pdf/assets/home.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Fast PDF | Shadowfetch">
-  <meta name="twitter:description" content="Rapid document PDFs with a live camera loop and local Files export.">
+  <meta name="twitter:description" content="Fast PDF is a speed-first document app for iPhone and iPad. It keeps the capture loop short, turns each shot into its own PDF, and writes straight into Files so the user can move through real paper without the usual scanning drag.">
   <meta name="twitter:image" content="https://www.shadowfetch.com/fast-pdf/assets/home.png">
+  <meta name="twitter:site" content="@MrBobCorbin">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="icon" href="/fast-pdf/assets/icon-1024.png" type="image/png">
-  <link rel="stylesheet" href="/assets/styles.css">
-  <style>
-    .product-page { padding: 4rem 0 5rem; }
-    .product-grid { display: grid; gap: 1.5rem; }
-    .product-surface {
-      border: 1px solid rgba(255,255,255,0.08);
-      background: rgba(9,13,20,0.86);
-      border-radius: 1.5rem;
-      box-shadow: 0 30px 80px rgba(0,0,0,0.28);
-    }
-    .product-hero {
-      display: grid;
-      grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
-      gap: 1.5rem;
-      align-items: stretch;
-    }
-    .product-copy, .product-panel { padding: 2rem; }
-    .product-copy h1 {
-      margin: 0.5rem 0 1rem;
-      font-family: "Playfair Display", Georgia, serif;
-      font-size: clamp(2.8rem, 5vw, 4.6rem);
-      line-height: 0.96;
-      letter-spacing: -0.04em;
-    }
-    .product-lede {
-      max-width: 44rem;
-      margin: 0 0 1.5rem;
-      color: #c5cfdf;
-      font-size: 1.08rem;
-      line-height: 1.8;
-    }
-    .product-actions { display:flex; flex-wrap:wrap; gap:0.8rem; margin-bottom:1.5rem; }
-    .product-points, .flow-steps, .faq-list { display:grid; gap:1rem; }
-    .product-points { grid-template-columns: repeat(3, minmax(0,1fr)); }
-    .point-card, .flow-card, .faq-card {
-      padding:1.1rem 1.15rem;
-      border-radius:1.15rem;
-      border:1px solid rgba(255,255,255,0.08);
-      background:rgba(255,255,255,0.03);
-    }
-    .point-card p, .flow-card p, .faq-card p, .product-note, .product-copy ul, .product-panel ul {
-      margin:0;
-      color:#bac5d8;
-      line-height:1.75;
-    }
-    .point-card strong, .flow-card strong, .faq-card strong {
-      display:block;
-      margin-bottom:0.35rem;
-      color:#fff;
-      font-size:0.95rem;
-    }
-    .status-kicker {
-      display:inline-flex;
-      align-items:center;
-      gap:0.5rem;
-      padding:0.45rem 0.8rem;
-      border-radius:999px;
-      background:rgba(46,91,255,0.12);
-      color:#8fb0ff;
-      font-size:0.78rem;
-      font-weight:700;
-      letter-spacing:0.12em;
-      text-transform:uppercase;
-    }
-    .hero-meta, .links-row { display:grid; gap:0.85rem; }
-    .hero-meta { margin-top:1rem; }
-    .hero-meta div {
-      display:flex;
-      justify-content:space-between;
-      gap:1rem;
-      padding-bottom:0.8rem;
-      border-bottom:1px solid rgba(255,255,255,0.08);
-      color:#c5cfdf;
-      font-size:0.95rem;
-    }
-    .hero-meta dt { color:#8ea0bf; }
-    .hero-meta dd { margin:0; text-align:right; color:#fff; font-weight:600; }
-    .screenshot-grid {
-      display:grid;
-      grid-template-columns:repeat(3, minmax(0,1fr));
-      gap:1rem;
-    }
-    .shot-card {
-      overflow:hidden;
-      border-radius:1.2rem;
-      border:1px solid rgba(255,255,255,0.08);
-      background:rgba(255,255,255,0.03);
-    }
-    .shot-card img { display:block; width:100%; height:auto; }
-    .shot-card figcaption {
-      padding:0.9rem 1rem 1rem;
-      color:#c5cfdf;
-      font-size:0.95rem;
-      line-height:1.6;
-    }
-    .section-title {
-      margin:0 0 0.75rem;
-      color:#fff;
-      font-family:"Playfair Display", Georgia, serif;
-      font-size:2rem;
-    }
-    .inline-link, .links-row a { color:#8fb0ff; text-decoration:underline; text-underline-offset:0.18em; }
-    .app-icon-preview {
-      width: 132px;
-      height: 132px;
-      border-radius: 28px;
-      display: block;
-      margin-bottom: 1rem;
-      box-shadow: 0 22px 50px rgba(0,0,0,0.32);
-    }
-    @media (max-width: 980px) {
-      .product-hero, .product-points, .screenshot-grid { grid-template-columns: 1fr; }
-    }
-  </style>
+  <link rel="stylesheet" href="/assets/styles.css?v=20260411d">
+  <link rel="stylesheet" href="/assets/portfolio-home.css?v=20260411d">
+  <link rel="stylesheet" href="/assets/product-detail.css?v=20260411d">
 </head>
-<body data-edition="studio" data-page="fast-pdf">
-  <header class="site-header">
-    <div class="header-utility">
-      <div class="container utility-row">
-        <p class="utility-copy">Shadowfetch product page</p>
-        <div class="utility-social">
-          <a href="/fast-pdf/support/">Support</a>
-          <a href="/fast-pdf/privacy/">Privacy Policy</a>
-        </div>
-      </div>
-    </div>
-    <div class="container header-row">
-      <a class="brand-lockup" href="/" aria-label="Shadowfetch home">
-        <span class="brand-mark" aria-hidden="true">SF</span>
-        <span class="brand-copy">
+<body class="portfolio-home product-detail theme-fast-pdf">
+  <header class="home-header">
+    <div class="shell">
+      <a class="home-brand" href="/" aria-label="Shadowfetch home">
+        <span class="home-brand-mark">SF</span>
+        <span class="home-brand-copy">
           <strong>Shadowfetch</strong>
           <small>Fast PDF</small>
         </span>
       </a>
-      <nav class="site-nav" aria-label="Fast PDF navigation">
-        <a href="/fast-pdf/">Overview</a>
+      <nav class="home-nav" aria-label="Fast PDF navigation">
+        <a href="/">Home</a>
         <a href="/fast-pdf/support/">Support</a>
         <a href="/fast-pdf/privacy/">Privacy</a>
       </nav>
-      <div class="header-actions">
-        <!--email_off--><a class="button button-secondary button-compact" href="mailto:RobertCorbin84@gmail.com?subject=Fast%20PDF%20support">Email Support</a><!--/email_off-->
-      </div>
     </div>
   </header>
 
-  <main class="product-page">
-    <section class="container product-grid">
-      <article class="product-surface product-hero">
-        <div class="product-copy">
-          <p class="status-kicker">Speed-first utility</p>
-          <h1>Take a page. Save a PDF. Stay in the camera.</h1>
-          <p class="product-lede">Fast PDF is a local iPhone and iPad utility built for paperwork velocity. In rapid mode, the camera stays live, each shot becomes its own PDF immediately, and the next page is ready without dropping back through a slow loop.</p>
+  <main class="product-main">
+    <section class="product-hero">
+      <div class="hero-grid"></div>
+      <div class="shell product-hero-layout">
+        <article class="product-card">
+          <p class="product-kicker">Capture Utility</p>
+          <h1 class="product-title">Take a page. Save a PDF. Stay in the camera.</h1>
+          <p class="product-summary">Fast PDF is a speed-first document app for iPhone and iPad. It keeps the capture loop short, turns each shot into its own PDF, and writes straight into Files so the user can move through real paper without the usual scanning drag.</p>
           <div class="product-actions">
-            <a class="button button-primary" href="/fast-pdf/support/">Support</a>
-            <a class="button button-secondary" href="/fast-pdf/privacy/">Privacy Policy</a>
+            <a class="product-action product-action-primary" href="/fast-pdf/support/">Support</a>
+            <a class="product-action product-action-secondary" href="/fast-pdf/privacy/">Privacy</a>
+            <a class="product-action product-action-secondary" href="/">Back to portfolio</a>
           </div>
-          <div class="product-points">
-            <article class="point-card">
-              <strong>Rapid loop</strong>
-              <p>A custom AVFoundation camera session stays open between captures so the customer can work through a stack quickly.</p>
-            </article>
-            <article class="point-card">
-              <strong>Files-ready</strong>
-              <p>Approve a dedicated <code>Fast PDF</code> folder once for immediate saves, or use the native Files sheet for single exports.</p>
-            </article>
-            <article class="point-card">
-              <strong>Local-first</strong>
-              <p>No account, no analytics, and no developer cloud inbox. If the chosen folder is in iCloud Drive, Apple handles sync.</p>
-            </article>
-          </div>
-        </div>
+          <ul class="product-bullets">
+            <li>Platform: iPhone and iPad</li>
+            <li>Storage: Files or iCloud Drive</li>
+            <li>Account: None</li>
+          </ul>
+        </article>
         <aside class="product-panel">
-          <img class="app-icon-preview" src="/fast-pdf/assets/icon-1024.png" alt="Fast PDF app icon showing layered pages and a bolt-shaped camera mark.">
-          <p class="product-note"><strong>Primary workflow:</strong> Capture paper pages as separate PDFs as fast as possible.</p>
-          <dl class="hero-meta">
+          <div class="product-visual-wrap">
+            <img class="product-icon" src="/fast-pdf/assets/icon-1024.png" alt="Fast PDF icon">
+            <img class="product-preview" src="/fast-pdf/assets/home.png" alt="Fast PDF home screen preview">
+          </div>
+          <dl class="product-meta">
             <div><dt>Platform</dt><dd>iPhone and iPad</dd></div>
-            <div><dt>Storage</dt><dd>Files / iCloud Drive</dd></div>
-            <div><dt>Review-safe path</dt><dd>Files Each Time or Fast PDF Folder</dd></div>
-            <div><dt>Cloud</dt><dd>None</dd></div>
+            <div><dt>Storage</dt><dd>Files or iCloud Drive</dd></div>
+            <div><dt>Account</dt><dd>None</dd></div>
+            <div><dt>Best use</dt><dd>Rapid page capture</dd></div>
           </dl>
         </aside>
-      </article>
+      </div>
+    </section>
 
-      <article class="product-surface product-copy">
-        <p class="eyebrow">How it works</p>
-        <h2 class="section-title">The app is optimized for real stacks of paper.</h2>
-        <div class="flow-steps">
-          <div class="flow-card">
-            <strong>1. Choose a save path.</strong>
-            <p>Use <code>Files Each Time</code> for one-offs, or create a dedicated <code>Fast PDF</code> folder for the fastest repeated workflow.</p>
+    <section class="product-sections">
+      <div class="shell">
+        <section class="product-section">
+          <div class="product-section-heading">
+            <div>
+              <p class="eyebrow">Explanation</p>
+              <h2>What this app is actually for.</h2>
+            </div>
+            <p>The point of Fast PDF is speed under real use. It is meant for stacks of forms, receipts, and loose paper where every extra tap slows the user down.</p>
           </div>
-          <div class="flow-card">
-            <strong>2. Start single or rapid capture.</strong>
-            <p>Single mode opens the camera for one page. Rapid mode keeps the live camera session open between saves.</p>
+          <div class="detail-grid">
+            <article class="detail-card"><span class="detail-label">What it is</span><h3>A live capture loop for PDFs</h3><p class="detail-copy">The app keeps the camera active, saves each page immediately, and lets the user keep moving instead of pausing after every shot.</p></article>
+            <article class="detail-card"><span class="detail-label">Why it matters</span><h3>Scanning should not feel ceremonial</h3><p class="detail-copy">Most scanning apps add too much review friction. Fast PDF exists to make single-page PDF output feel immediate and practical.</p></article>
+            <article class="detail-card"><span class="detail-label">Where it fits</span><h3>Operational paperwork and daily admin</h3><p class="detail-copy">It works best for people who create many small PDFs and care more about speed and clean export than archival workflows.</p></article>
           </div>
-          <div class="flow-card">
-            <strong>3. Each shot becomes its own PDF.</strong>
-            <p>The app generates one PDF per image locally and writes it directly into the user-approved destination.</p>
+        </section>
+        
+        <section class="product-section">
+          <div class="product-section-heading">
+            <div>
+              <p class="eyebrow">Screens</p>
+              <h2>How the product shows up on device.</h2>
+            </div>
+            <p>These screens give the product page more weight and make the app feel real instead of abstract.</p>
           </div>
-        </div>
-      </article>
-
-      <article class="product-surface product-copy">
-        <p class="eyebrow">Actual Fast PDF UI</p>
-        <h2 class="section-title">Submission-ready screenshots</h2>
-        <div class="screenshot-grid">
-          <figure class="shot-card">
-            <img src="/fast-pdf/assets/home.png" alt="Fast PDF home screen showing rapid-fire PDF capture and save destination setup.">
-            <figcaption>The home screen makes the speed promise explicit and gives the customer two save paths: a dedicated Fast PDF folder or the native Files sheet.</figcaption>
-          </figure>
-          <figure class="shot-card">
-            <img src="/fast-pdf/assets/rapid-camera.png" alt="Fast PDF rapid camera screen showing a live camera-style capture interface and saved count.">
-            <figcaption>Rapid mode keeps the camera live and shows immediate PDF-save feedback without dropping back into another screen.</figcaption>
-          </figure>
-          <figure class="shot-card">
-            <img src="/fast-pdf/assets/saved-run-ipad.png" alt="Fast PDF iPad saved run screen showing a completed rapid session and the last saved PDF card.">
-            <figcaption>On iPad, the saved-session state shows the dedicated folder workflow, recent run count, and last saved PDF confirmation.</figcaption>
-          </figure>
-        </div>
-      </article>
-
-      <article class="product-surface product-copy">
-        <p class="eyebrow">Submission links</p>
-        <h2 class="section-title">Public URLs for App Store Connect</h2>
-        <p class="product-note"><strong>Marketing URL:</strong> <a href="https://www.shadowfetch.com/fast-pdf/">https://www.shadowfetch.com/fast-pdf/</a></p>
-        <p class="product-note"><strong>Support URL:</strong> <a href="https://www.shadowfetch.com/fast-pdf/support/">https://www.shadowfetch.com/fast-pdf/support/</a></p>
-        <p class="product-note"><strong>Privacy Policy URL:</strong> <a href="https://www.shadowfetch.com/fast-pdf/privacy/">https://www.shadowfetch.com/fast-pdf/privacy/</a></p>
-        <div class="links-row">
-          <a href="/fast-pdf/support/">Open support page</a>
-          <a href="/fast-pdf/privacy/">Open privacy policy</a>
-          <!--email_off--><a href="mailto:RobertCorbin84@gmail.com?subject=Fast%20PDF%20support">Email support</a><!--/email_off-->
-        </div>
-      </article>
+          <div class="product-gallery">
+            <figure><img src="/fast-pdf/assets/home.png" alt="Fast PDF home screen"><figcaption>The main capture surface is kept minimal so the user can start scanning immediately.</figcaption></figure>
+            <figure><img src="/fast-pdf/assets/rapid-camera.png" alt="Fast PDF rapid camera mode"><figcaption>Rapid mode keeps the camera hot between saves so repeated page capture stays fast.</figcaption></figure>
+            <figure><img src="/fast-pdf/assets/saved-run-ipad.png" alt="Fast PDF saved files on iPad"><figcaption>The saved-run view shows the resulting PDFs without making the user leave the app flow.</figcaption></figure>
+          </div>
+        </section>
+        <section class="product-section">
+          <div class="product-surface">
+            <div class="product-section-heading">
+              <div>
+                <p class="eyebrow">Links</p>
+                <h2>Open the right path.</h2>
+              </div>
+              <p>Support, policy, accessibility, and portfolio links stay direct so the page works as a clean public product surface.</p>
+            </div>
+            <div class="product-links">
+              <a href="/fast-pdf/support/">Support</a>
+              <a href="/fast-pdf/privacy/">Privacy</a>
+              <a href="/">Back to portfolio</a>
+            </div>
+            <div class="product-footer">
+              <p class="product-footer-note">Fast PDF is the narrowest kind of utility on purpose: fast in, clean PDF out, and no cloud account in the middle.</p>
+            </div>
+          </div>
+        </section>
+      </div>
     </section>
   </main>
 
-  <footer class="site-footer">
-    <div class="container footer-grid">
-      <div>
-        <p class="footer-title">Fast PDF</p>
-        <p class="footer-copy">Rapid local PDF capture for iPhone and iPad.</p>
-      </div>
-      <div class="footer-links">
-        <a href="/fast-pdf/">Overview</a>
-        <a href="/fast-pdf/support/">Support</a>
-        <a href="/fast-pdf/privacy/">Privacy Policy</a>
-      </div>
-      <div class="footer-meta">
-        <span class="footer-stat"><span>Workflow</span><strong>Single + Rapid</strong></span>
-        <span class="footer-stat"><span>Storage</span><strong>Files / iCloud Drive</strong></span>
-      </div>
+  <footer class="home-footer">
+    <div class="shell home-footer-inner">
+      <p>© <span data-current-year></span> Shadowfetch</p>
+      <p>Fast PDF is the narrowest kind of utility on purpose: fast in, clean PDF out, and no cloud account in the middle.</p>
     </div>
   </footer>
+
+  <script src="/assets/app.js?v=20260411d"></script>
 </body>
 </html>
